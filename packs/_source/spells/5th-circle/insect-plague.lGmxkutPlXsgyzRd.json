@@ -1,5 +1,5 @@
 {
-  "name": "Insect Plague",
+  "name": "Чума насекомых",
   "type": "spell",
   "_id": "lGmxkutPlXsgyzRd",
   "img": "icons/creatures/invertebrates/wasp-swarm-tan.webp",
@@ -86,7 +86,7 @@
     "description": {
       "value": "<p>Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.</p><p>When the area appears, each creature in it must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature must also make this save when it enters the spell’s area for the first time on a turn or ends its turn there.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the damage increases by 1d10 for each slot above 5th.</p>",
       "source": {},
-      "short": "Call a swarm of biting locusts."
+      "short": "Вызовите рой кусачей саранчи."
     },
     "source": [
       "primordial"
@@ -110,7 +110,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a few grains of sugar, some kernels of grain, and a smear of fat"
+        "description": "несколько крупинок сахара, несколько зернышек и немного жира"
       }
     },
     "duration": {
@@ -149,7 +149,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1717965636758,

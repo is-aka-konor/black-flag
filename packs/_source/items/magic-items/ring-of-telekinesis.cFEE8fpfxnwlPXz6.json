@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Telekinesis",
+  "name": "Кольцо телекинеза",
   "system": {
     "type": {
       "category": "clothing",
@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can cast the <em>@UUID[Compendium.black-flag.spells.Item.jlDdoNUWTP3Gc1rX]{telekinesis}</em> spell, but you can target only objects that aren’t being worn or carried.</p>",
+      "value": "<p>While wearing this ring, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX]{telekinesis}</em> spell, but you can target only objects that aren’t being worn or carried.</p>",
       "source": {
         "fallback": ""
       }
@@ -26,7 +26,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.jlDdoNUWTP3Gc1rX",
+            "uuid": "Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX",
             "challenge": {
               "attack": null,
               "save": null,
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1724987377244,
     "modifiedTime": 1729891525738,

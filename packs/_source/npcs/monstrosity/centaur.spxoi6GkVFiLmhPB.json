@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Centaur",
+  "name": "Кентавр",
   "type": "npc",
   "_id": "spxoi6GkVFiLmhPB",
-  "img": "systems/black-flag/artwork/tokens/centaur.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/centaur.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -147,7 +147,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Centaur",
+    "name": "Кентавр",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -155,7 +155,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/centaur.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/centaur.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -242,7 +242,7 @@
   },
   "items": [
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "0WPNCHBAM7TdIoR2",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -285,7 +285,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -296,7 +296,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -321,7 +321,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -349,9 +349,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -446,7 +446,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the centaur moves at least 30 feet straight toward a creature and then hits it with a Pike attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}. If the target is prone, the centaur can make one Hooves attack against it as a bonus action.</p>",
+          "value": "<p>If the centaur moves at least 30 feet straight toward a creature and then hits it with a Pike attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the centaur can make one Hooves attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -472,7 +472,7 @@
           "value": null
         }
       },
-      "name": "Trampling Charge",
+      "name": "Растаптывание заряда",
       "type": "feature",
       "_id": "4OHI3d8KSZYRzd0Y",
       "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -492,7 +492,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -502,7 +502,7 @@
       "_key": "!actors.items!spxoi6GkVFiLmhPB.4OHI3d8KSZYRzd0Y"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "NQxG0ZLZyeoBtZAz",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -606,7 +606,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -620,7 +620,7 @@
       "_key": "!actors.items!spxoi6GkVFiLmhPB.NQxG0ZLZyeoBtZAz"
     },
     {
-      "name": "Pike",
+      "name": "Щука",
       "type": "weapon",
       "_id": "2qW84QRYicbYBGbi",
       "img": "icons/weapons/polearms/pike-flared-red.webp",
@@ -697,7 +697,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -783,9 +783,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.ib6aTaDTjlnG3m54",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.ib6aTaDTjlnG3m54",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759492080,
@@ -878,7 +878,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the centaur can see within 5 feet of it hits it with an attack, the centaur can kick the attacker. The attacker must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone} or pushed up to 5 feet away from the centaur (the centaur’s choice).</p>",
+          "value": "<p>When a creature the centaur can see within 5 feet of it hits it with an attack, the centaur can kick the attacker. The attacker must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone} or pushed up to 5 feet away from the centaur (the centaur’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -904,7 +904,7 @@
           "value": null
         }
       },
-      "name": "Defensive Kick",
+      "name": "Защитный удар",
       "type": "feature",
       "_id": "3HWLDkYRGc8GAZWQ",
       "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
@@ -924,7 +924,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -935,7 +935,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Longbow",
+      "name": "Длинный лук",
       "type": "weapon",
       "_id": "Xjn8InoKuwLEYf2q",
       "img": "icons/weapons/bows/longbow-recurve-leather-red.webp",
@@ -1073,9 +1073,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759502809,
@@ -1157,7 +1157,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1226,7 +1226,7 @@
         },
         "rarity": ""
       },
-      "name": "Hooves",
+      "name": "Копыта",
       "type": "weapon",
       "_id": "HN5ZErvhqfyUCIEt",
       "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -1247,7 +1247,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935375,
         "modifiedTime": 1756759472808,
@@ -1261,7 +1261,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

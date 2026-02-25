@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Behir",
+  "name": "Бехир",
   "type": "npc",
   "_id": "sEpsqtVJdrJy5VQS",
-  "img": "systems/black-flag/artwork/tokens/behir.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/behir.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Behir",
+    "name": "Бехир",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/behir.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/behir.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -290,7 +290,7 @@
           "value": null
         }
       },
-      "name": "Lightning Absorption",
+      "name": "Поглощение молний",
       "type": "feature",
       "_id": "9py9GFTPWKMVv5qZ",
       "img": "icons/magic/lightning/fist-unarmed-strike-blue-green.webp",
@@ -310,7 +310,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -320,7 +320,7 @@
       "_key": "!actors.items!sEpsqtVJdrJy5VQS.9py9GFTPWKMVv5qZ"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "H8SQH9j0JjUl2wZD",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -363,7 +363,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -374,7 +374,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -399,7 +399,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -427,9 +427,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -439,7 +439,7 @@
       "_key": "!actors.items!sEpsqtVJdrJy5VQS.H8SQH9j0JjUl2wZD"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "1ENPuh3CgiDi3y9D",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -545,9 +545,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -626,7 +626,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Save if 30+ Damage Incurred",
+            "name": "ВЫН. Сохранение, если получено 30+ урона.",
             "img": "",
             "sort": 0
           },
@@ -706,7 +706,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Acid Damage When Swallowed",
+            "name": "Повреждение кислотой при проглатывании",
             "img": ""
           }
         },
@@ -719,7 +719,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The behir makes one Bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is &amp;Reference[blinded]{blinded} and &amp;Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the behir, and it takes [[/damage average]] damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.</p><p>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &amp;Reference[prone]{prone} in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>The behir makes one Bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the behir, and it takes [[/damage average]] damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.</p><p>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{prone} in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -745,7 +745,7 @@
           "value": null
         }
       },
-      "name": "Swallow",
+      "name": "Глотать",
       "type": "feature",
       "_id": "FWEiH72aMZSftwrc",
       "img": "icons/creatures/abilities/mouth-teeth-human.webp",
@@ -765,7 +765,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -913,7 +913,7 @@
           "value": null
         }
       },
-      "name": "Lightning Breath",
+      "name": "Молниеносное дыхание",
       "type": "feature",
       "_id": "IH1Cz4hVkAvwlOXD",
       "img": "icons/magic/lightning/bolt-beam-strike-blue.webp",
@@ -933,7 +933,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -943,7 +943,7 @@
       "_key": "!actors.items!sEpsqtVJdrJy5VQS.IH1Cz4hVkAvwlOXD"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "IKgRlC8QT1H72EuU",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1010,7 +1010,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1124,10 +1124,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935303,
         "modifiedTime": 1756759420991,
@@ -1210,7 +1210,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1229,7 +1229,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5ft., one Large or smaller creature [[/damage extended]]. If the target is Large or smaller and the behir isn’t already grappling a creature, the target is &amp;Reference[grappled]{grappled} (escape DC 16). Until this grapple ends, the target is &amp;Reference[restrained]{restrained}, and the behir can’t Constrict another target.</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5ft., one Large or smaller creature [[/damage extended]]. If the target is Large or smaller and the behir isn’t already grappling a creature, the target is &Reference[grappled]{grappled} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the behir can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1279,7 +1279,7 @@
         },
         "rarity": ""
       },
-      "name": "Constrict",
+      "name": "Сжимать",
       "type": "weapon",
       "_id": "L1K9ROciVsdbSbV9",
       "img": "icons/creatures/reptiles/snake-poised-white.webp",
@@ -1300,7 +1300,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935303,
         "modifiedTime": 1756759448637,
@@ -1314,7 +1314,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

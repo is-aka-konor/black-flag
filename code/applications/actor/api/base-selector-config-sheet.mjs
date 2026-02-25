@@ -14,7 +14,7 @@ export default class BaseSelectorConfigSheet extends BaseConfigSheet {
 	/** @override */
 	static PARTS = {
 		selector: {
-			template: "systems/black-flag/templates/actor/config/id-selector.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/id-selector.hbs"
 		}
 	};
 

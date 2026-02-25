@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "See Invisibility",
+  "name": "См. Невидимость",
   "type": "spell",
   "_id": "3MMJmBI63gipqU9b",
   "img": "icons/magic/perception/eye-slit-pink.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.</p>",
       "source": {},
-      "short": "See invisible and ethereal."
+      "short": "Увидеть невидимое и неземное."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a pinch of talc and a small sprinkling of powdered silver",
+        "description": "щепотка талька и небольшая щепотка серебряной пудры",
         "consumed": false,
         "denomination": "gp"
       }
@@ -97,9 +97,9 @@
   },
   "effects": [
     {
-      "name": "See Invisibility",
+      "name": "См. Невидимость",
       "img": "icons/magic/perception/eye-slit-pink.webp",
-      "origin": "Compendium.black-flag.spells.Item.3MMJmBI63gipqU9b",
+      "origin": "Compendium.black-flag-ru.spells.Item.3MMJmBI63gipqU9b",
       "transfer": false,
       "_id": "ANlpZ2E9uTYynCxh",
       "type": "base",
@@ -115,7 +115,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.</p>",
+      "description": "<p>Вы видите невидимых существ и объекты так, как если бы они были видимыми, и можете видеть Эфирный План. Эфирные существа и предметы кажутся призрачными и полупрозрачными.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -124,7 +124,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723436100194,
         "modifiedTime": 1723436133685,
@@ -140,7 +140,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935362988,

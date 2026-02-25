@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Heroism",
+  "name": "Героизм",
   "type": "spell",
   "_id": "zRsCgtiBO7EuJbhb",
   "img": "icons/magic/control/control-influence-crown-gold.webp",
@@ -81,7 +81,7 @@
     "description": {
       "value": "<p>A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.</p>",
       "source": {},
-      "short": "Ally is immune to fear, gains temporary HP."
+      "short": "Союзник невосприимчив к страху, получает временное здоровье."
     },
     "source": [
       "divine"
@@ -135,7 +135,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.zRsCgtiBO7EuJbhb",
+      "origin": "Compendium.black-flag-ru.spells.Item.zRsCgtiBO7EuJbhb",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -146,7 +146,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Heroism",
+      "name": "Героизм",
       "img": "icons/magic/control/control-influence-crown-gold.webp",
       "_id": "IkCNiI4SHdElgK8n",
       "type": "base",
@@ -159,7 +159,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You are immune to being frightened and gain temporary hit points equal to the caster’s spellcasting ability modifier at the start of each of your turns.</p>",
+      "description": "<p>Вы невосприимчивы к испугу и получаете временные очки жизни, равные модификатору способности заклинателя в начале каждого вашего хода.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -169,7 +169,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722573280232,
         "modifiedTime": 1722573337803,
@@ -187,7 +187,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1722569604725,
     "modifiedTime": 1728320007643,

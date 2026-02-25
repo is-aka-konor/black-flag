@@ -41,7 +41,7 @@ export default class ActivationMessageData extends ChatMessageDataModel {
 		foundry.utils.mergeObject(
 			super.metadata,
 			{
-				template: "systems/black-flag/templates/chat/activation-card.hbs"
+				template: "systems/black-flag-ru/templates/chat/activation-card.hbs"
 			},
 			{ inplace: false }
 		)

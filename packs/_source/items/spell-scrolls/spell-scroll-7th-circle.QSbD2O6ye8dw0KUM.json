@@ -1,6 +1,6 @@
 {
   "folder": "U9U35Rfs9GqePNlM",
-  "name": "Spell Scroll (7th Circle)",
+  "name": "Свиток заклинания (7-й круг)",
   "type": "consumable",
   "_id": "QSbD2O6ye8dw0KUM",
   "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "coreVersion": "13.347",
     "createdTime": 1707356507019,

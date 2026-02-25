@@ -16,55 +16,55 @@ import { localizeConfig } from "../utils/_module.mjs";
 export const areaOfEffectTypes = {
 	circle: {
 		localization: "BF.AreaOfEffect.Type.Circle.Label",
-		icon: "systems/black-flag/artwork/interface/area/circle.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/circle.svg",
 		template: "circle",
 		sizes: ["radius"]
 	},
 	cone: {
 		localization: "BF.AreaOfEffect.Type.Cone.Label",
-		icon: "systems/black-flag/artwork/interface/area/cone.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/cone.svg",
 		template: "cone",
 		sizes: ["length"]
 	},
 	cube: {
 		localization: "BF.AreaOfEffect.Type.Cube.Label",
-		icon: "systems/black-flag/artwork/interface/area/cube.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/cube.svg",
 		template: "ray",
 		sizes: ["width"]
 	},
 	cylinder: {
 		localization: "BF.AreaOfEffect.Type.Cylinder.Label",
-		icon: "systems/black-flag/artwork/interface/area/cylinder.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/cylinder.svg",
 		template: "circle",
 		sizes: ["radius", "height"]
 	},
 	line: {
 		localization: "BF.AreaOfEffect.Type.Line.Label",
-		icon: "systems/black-flag/artwork/interface/area/line.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/line.svg",
 		template: "ray",
 		sizes: ["length", "width"]
 	},
 	radius: {
 		localization: "BF.AreaOfEffect.Type.Radius.Label",
-		icon: "systems/black-flag/artwork/interface/area/radius.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/radius.svg",
 		template: "circle",
 		sizes: ["radius"]
 	},
 	sphere: {
 		localization: "BF.AreaOfEffect.Type.Sphere.Label",
-		icon: "systems/black-flag/artwork/interface/area/sphere.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/sphere.svg",
 		template: "circle",
 		sizes: ["radius"]
 	},
 	square: {
 		localization: "BF.AreaOfEffect.Type.Square.Label",
-		icon: "systems/black-flag/artwork/interface/area/square.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/square.svg",
 		template: "rect",
 		sizes: ["width"]
 	},
 	wall: {
 		localization: "BF.AreaOfEffect.Type.Wall.Label",
-		icon: "systems/black-flag/artwork/interface/area/wall.svg",
+		icon: "systems/black-flag-ru/artwork/interface/area/wall.svg",
 		template: "ray",
 		sizes: ["length", "thickness", "height"]
 	}

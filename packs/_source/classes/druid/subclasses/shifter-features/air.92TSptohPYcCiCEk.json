@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Air",
+  "name": "Воздух",
   "type": "feature",
   "_id": "92TSptohPYcCiCEk",
   "img": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
@@ -9,7 +9,7 @@
       "EuXuVitUcgx3lLLU": {
         "type": "savingThrow",
         "_id": "EuXuVitUcgx3lLLU",
-        "description": "<p>Each Large or smaller creature within 5 feet of you must make a [[/save]]. On a failure, a target takes [[/damage]] damage and is flung up to 20 feet away from you in a random direction and knocked prone. If a thrown target strikes a solid surface, it takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target lands in the same space as another creature, that creature must succeed on a [[/save dexterity 13]] save or take the same damage and be knocked prone. The target is then prone in an adjacent unoccupied space. If the target’s STR save is successful, a target takes half damage and isn’t flung or knocked prone.</p>",
+        "description": "<p>Каждое существо большего или меньшего размера в пределах 5 футов от вас должно быть изготовлено [[/save]]. В случае провала цель получает [[/damage]] урона, отбрасывается на расстояние до 20 футов от вас в случайном направлении и бьет по ногам. Если брошенная цель ударяется о твердую поверхность, она получает [[/damage 1d6 bludgeoning average]] урона по дому на расстоянии 10 футов, на котором она была брошена. Затем цель оказывается в соседнем незанятом пространстве.Если спасбросок цели СИЛ одержит победу, цель получит половину урона и не швыряется и не бьет ногами.</p>",
         "system": {
           "ability": "strength",
           "damage": {
@@ -115,7 +115,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.92TSptohPYcCiCEk",
+      "origin": "Compendium.black-flag-ru.classes.Item.92TSptohPYcCiCEk",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -126,7 +126,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Air Infusion",
+      "name": "Воздушная инфузия",
       "_id": "o7uCCTEMCXXsalsd",
       "changes": [
         {
@@ -183,7 +183,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717791108175,

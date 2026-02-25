@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Circle of Death",
+  "name": "Круг Смерти",
   "type": "spell",
   "_id": "Kb8LCYbhMdMzv7f5",
   "img": "icons/magic/death/projectile-skull-fire-orange.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>A sphere of negative energy ripples out in a 60-foot-radius sphere from a point within range. Each creature in that area must make a [[/save]] save. A target takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, the damage increases by [[/damage 2d6 necrotic]]{2d6} for each slot above 6th.</p>",
       "source": {},
-      "short": "Necrotic in 60-ft. radius."
+      "short": "Некротический в 60 футах. радиус."
     },
     "source": [
       "arcane",
@@ -110,7 +110,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "the powder of a crushed black pearl"
+        "description": "порошок измельченной черной жемчужины"
       }
     },
     "duration": {
@@ -146,7 +146,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720283835582,

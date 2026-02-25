@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Shooting Stars",
+  "name": "Кольцо падающих звезд",
   "system": {
     "type": {
       "category": "clothing",
@@ -13,10 +13,10 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "Outdoors at Night"
+      "requirement": "На открытом воздухе ночью"
     },
     "description": {
-      "value": "<p>While wearing this ring in dim light or darkness, as an action you can cast dancing lights and light from it. For its other properties, the ring has 6 charges.</p><p><em><strong>Faerie Fire.</strong></em> You can expend 1 charge as an action to cast <em>@UUID[Compendium.black-flag.spells.Item.6dvUhdyeuOtRySf9]{faerie fire}</em> from the ring.</p><p><em><strong>Ball Lightning.</strong></em> You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less power each sphere has.</p><p>Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius. As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a [[/save 15 DEX]]. On a failed save, the creature takes lightning damage based on the number of spheres you created.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.Cnttuvo9mkg9K3jX inline]</p><p><em><strong>Shooting Stars.</strong></em> You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a [[/save 15 DEX]], taking [[/damage 5d4 fire]] on a failed save or half as much damage on a successful one.</p><p>The ring regains [[/r 1d6]] expended charges daily at dawn.</p>",
+      "value": "<p>While wearing this ring in dim light or darkness, as an action you can cast dancing lights and light from it. For its other properties, the ring has 6 charges.</p><p><em><strong>Faerie Fire.</strong></em> You can expend 1 charge as an action to cast <em>@UUID[Compendium.black-flag-ru.spells.Item.6dvUhdyeuOtRySf9]{faerie fire}</em> from the ring.</p><p><em><strong>Ball Lightning.</strong></em> You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less power each sphere has.</p><p>Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius. As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a [[/save 15 DEX]]. On a failed save, the creature takes lightning damage based on the number of spheres you created.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.Cnttuvo9mkg9K3jX inline]</p><p><em><strong>Shooting Stars.</strong></em> You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a [[/save 15 DEX]], taking [[/damage 5d4 fire]] on a failed save or half as much damage on a successful one.</p><p>The ring regains [[/r 1d6]] expended charges daily at dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -26,7 +26,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.6dvUhdyeuOtRySf9",
+            "uuid": "Compendium.black-flag-ru.spells.Item.6dvUhdyeuOtRySf9",
             "challenge": {
               "attack": null,
               "save": null,
@@ -226,7 +226,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Ball Lightning",
+        "name": "Шаровая молния",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -333,7 +333,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Shooting Stars",
+        "name": "Падающие звезды",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -381,7 +381,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724987340256,
     "modifiedTime": 1756333340008,

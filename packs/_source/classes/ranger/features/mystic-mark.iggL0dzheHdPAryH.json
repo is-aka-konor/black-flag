@@ -1,6 +1,6 @@
 {
   "folder": "JjE8PredgikSEDdj",
-  "name": "Mystic Mark",
+  "name": "Мистический знак",
   "type": "feature",
   "_id": "iggL0dzheHdPAryH",
   "img": "icons/magic/symbols/arrowhead-green.webp",
@@ -132,7 +132,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718407889285,

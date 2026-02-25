@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Psychic Resistance",
+  "name": "Зелье психической устойчивости",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "afzejGAf4Iefs6SN"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
   "effects": [
     {
-      "name": "Psychic Resistance",
+      "name": "Психическое сопротивление",
       "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.zAC1qRsS5bUrsjVY",
+      "origin": "Compendium.black-flag-ru.items.Item.zAC1qRsS5bUrsjVY",
       "transfer": false,
       "_id": "WDWwN9uFLOVN0mlV",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539932411,
         "modifiedTime": 1729539988545,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073777112,
     "modifiedTime": 1735684941760,

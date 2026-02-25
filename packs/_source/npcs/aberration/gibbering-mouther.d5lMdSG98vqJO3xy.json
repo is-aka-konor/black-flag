@@ -1,9 +1,9 @@
 {
   "folder": "RuA1hZVgwPDxXhg8",
-  "name": "Gibbering Mouther",
+  "name": "Бормочущая болтушка",
   "type": "npc",
   "_id": "d5lMdSG98vqJO3xy",
-  "img": "systems/black-flag/artwork/tokens/gibbering-mouther.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/gibbering-mouther.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -151,7 +151,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gibbering Mouther",
+    "name": "Бормочущая болтушка",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -159,7 +159,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/gibbering-mouther.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/gibbering-mouther.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -314,7 +314,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -354,7 +354,7 @@
           "value": null
         }
       },
-      "name": "Aberrant Ground",
+      "name": "Аберрантная земля",
       "type": "feature",
       "_id": "0babZYvSzjA8MknT",
       "img": "icons/magic/unholy/strike-beam-blood-small-red-gray.webp",
@@ -374,7 +374,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -384,7 +384,7 @@
       "_key": "!actors.items!d5lMdSG98vqJO3xy.0babZYvSzjA8MknT"
     },
     {
-      "name": "Aberrant Resilience",
+      "name": "Аберрантная устойчивость",
       "type": "feature",
       "_id": "nW0B9hyuQNhX0ClH",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -427,7 +427,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -438,7 +438,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Aberrant Resilience",
+          "name": "Аберрантная устойчивость",
           "_id": "vyiAWYKxFWNBOFa1",
           "changes": [
             {
@@ -475,7 +475,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -501,7 +501,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.SXHeq6pvWONWyCUU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -584,7 +584,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -624,7 +624,7 @@
           "value": null
         }
       },
-      "name": "Gibbering",
+      "name": "бормотание",
       "type": "feature",
       "_id": "XDsH6jk0zQVPkNFS",
       "img": "icons/creatures/slimes/slime-face-teeth-purple.webp",
@@ -644,7 +644,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -654,7 +654,7 @@
       "_key": "!actors.items!d5lMdSG98vqJO3xy.XDsH6jk0zQVPkNFS"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "pUO9gEvTcKVrNYYP",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -722,7 +722,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -736,7 +736,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gibbering mouther makes two Bite attacks. If both attacks hit one Medium or smaller creature, the target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The gibbering mouther makes two Bite attacks. If both attacks hit one Medium or smaller creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -775,7 +775,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -873,7 +873,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -913,7 +913,7 @@
           "value": null
         }
       },
-      "name": "Rend Mind",
+      "name": "Разрушить разум",
       "type": "feature",
       "_id": "ET0NicRMi76Uvvzc",
       "img": "icons/skills/wounds/injury-eyes-blood-red.webp",
@@ -933,7 +933,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1012,7 +1012,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1026,7 +1026,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mouther spits an otherworldly goo at up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &amp;Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The mouther spits an otherworldly goo at up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1052,7 +1052,7 @@
           "value": null
         }
       },
-      "name": "Blinding Spittle",
+      "name": "Ослепляющий плевок",
       "type": "feature",
       "_id": "BalYhzJsBkHk40Ji",
       "img": "icons/creatures/slimes/slime-blob-pseudopods-green.webp",
@@ -1072,7 +1072,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1082,7 +1082,7 @@
       "_key": "!actors.items!d5lMdSG98vqJO3xy.BalYhzJsBkHk40Ji"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "pvi0222oC20xey1J",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1132,7 +1132,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1242,7 +1242,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933433,
         "modifiedTime": 1756749200791,
@@ -1260,7 +1260,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

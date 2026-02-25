@@ -1,6 +1,6 @@
 {
   "folder": "JjE8PredgikSEDdj",
-  "name": "Martial Action",
+  "name": "Боевые действия",
   "type": "feature",
   "_id": "RL7zM5jiNbsocEYe",
   "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
@@ -25,10 +25,10 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.BN6OUOe2ZJRtQ9sU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.BN6OUOe2ZJRtQ9sU"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.xsKmuSE4kfxHsPzH"
+              "uuid": "Compendium.black-flag-ru.classes.Item.xsKmuSE4kfxHsPzH"
             }
           ],
           "restriction": {
@@ -75,7 +75,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718407998955,

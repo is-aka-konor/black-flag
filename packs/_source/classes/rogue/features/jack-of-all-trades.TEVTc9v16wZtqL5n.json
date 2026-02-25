@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Jack of All Trades",
+  "name": "Мастер на все руки",
   "type": "feature",
   "_id": "TEVTc9v16wZtqL5n",
   "img": "icons/skills/trades/woodcutting-logging-axe-stump.webp",
@@ -85,7 +85,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.051",
     "coreVersion": "13.347",
     "createdTime": 1715739833600,

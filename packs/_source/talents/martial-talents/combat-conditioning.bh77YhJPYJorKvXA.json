@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Combat Conditioning",
+  "name": "Боевая подготовка",
   "type": "talent",
   "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
   "system": {
@@ -55,7 +55,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1695925542377,

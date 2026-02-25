@@ -1,6 +1,6 @@
 {
   "folder": "ASbozScOjLlpmkOc",
-  "name": "Spellcasting",
+  "name": "Колдовство",
   "type": "feature",
   "_id": "nvbOFsBsIUHCbE1L",
   "img": "icons/sundries/books/book-embossed-gold-green.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045900369,

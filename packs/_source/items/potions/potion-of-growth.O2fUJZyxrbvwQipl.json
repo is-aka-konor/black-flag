@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Growth",
+  "name": "Зелье роста",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "w3ZuNqDTzaoMfbhO"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
   "effects": [
     {
-      "name": "Enlarged",
+      "name": "Увеличенный",
       "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
-      "origin": "Compendium.black-flag.items.Item.O2fUJZyxrbvwQipl",
+      "origin": "Compendium.black-flag-ru.items.Item.O2fUJZyxrbvwQipl",
       "transfer": false,
       "_id": "MC3QsHok9bNli1D8",
       "type": "base",
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540901167,
         "modifiedTime": 1729540905683,
@@ -159,7 +159,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073665001,
     "modifiedTime": 1729540901204,

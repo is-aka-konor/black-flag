@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Shield Mastery",
+  "name": "Владение щитом",
   "type": "talent",
   "_id": "RYXHUfs2HPliSPkE",
   "img": "icons/skills/melee/shield-block-fire-orange.webp",
@@ -9,7 +9,7 @@
       "Ggo5I6y5peWP6poZ": {
         "type": "utility",
         "_id": "Ggo5I6y5peWP6poZ",
-        "description": "<p>You attempt to shove a creature within 5 feet of you with your shield. If you move 10 feet or more directly toward a creature before using this bonus action, you have advantage on the check.</p>",
+        "description": "<p>Вы пытаетесь оттолкнуть своим щитом существо в пределах 5 футов от себя. Если перед использованием этого бонусного действия вы переместитесь на 10 футов или более прямо к существу, вы получаете преимущество на проверку.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -48,13 +48,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Shield Shove",
+        "name": "Удар щитом",
         "img": ""
       },
       "nZHCa2CV0khSUXQv": {
         "type": "utility",
         "_id": "nZHCa2CV0khSUXQv",
-        "description": "<p>You use your reaction to halve any damage taken by taking shelter behind your shield.</p>",
+        "description": "<p>Вы используете свою реакцию, чтобы вдвое уменьшить получаемый урон, укрывшись за щитом.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -93,7 +93,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Shield Shelter",
+        "name": "Щитовое укрытие",
         "img": ""
       }
     },
@@ -131,7 +131,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1716347718649,

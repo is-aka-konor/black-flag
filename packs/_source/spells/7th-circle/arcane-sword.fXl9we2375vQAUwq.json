@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Arcane Sword",
+  "name": "Чародейский меч",
   "type": "spell",
   "_id": "fXl9we2375vQAUwq",
   "img": "icons/weapons/swords/sword-flanged-lightning.webp",
@@ -46,7 +46,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Summon Sword",
+        "name": "Призвать меч",
         "img": ""
       },
       "JMJ5tgiTr8KV2idg": {
@@ -139,7 +139,7 @@
     "description": {
       "value": "<p>When the sword appears, you make two melee spell attacks with the blade, each one against a target of your choice within 5 feet of the sword. On a hit, the target takes [[/damage]]{3d10 + your spellcasting modifier} force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 30 feet to an unoccupied spot you can see and repeat these attacks against targets within 5 feet of the blade.</p>",
       "source": {},
-      "short": "Sword fights for you."
+      "short": "Меч сражается за вас."
     },
     "source": [
       "arcane"
@@ -163,7 +163,7 @@
         "consumed": false,
         "cost": 250,
         "denomination": "gp",
-        "description": "a miniature platinum sword with a grip and pommel of copper and zinc worth 250 gp"
+        "description": "миниатюрный платиновый меч с рукояткой и навершием из меди и цинка стоимостью 250 зм."
       }
     },
     "duration": {
@@ -199,7 +199,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720202334753,

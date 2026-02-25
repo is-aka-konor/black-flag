@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "White Dragon Wyrmling",
+  "name": "Змеевик Белого Дракона",
   "type": "npc",
   "_id": "ISXBZMqeLNEI8zmd",
-  "img": "systems/black-flag/artwork/tokens/dragon-white-wyrmling.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-white-wyrmling.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "White Dragon Wyrmling",
+    "name": "Змеевик Белого Дракона",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-white-wyrmling.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-white-wyrmling.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -300,7 +300,7 @@
           "value": null
         }
       },
-      "name": "Ice Walk",
+      "name": "Ледовая прогулка",
       "type": "feature",
       "_id": "gDYUEea5H6ci3EvP",
       "img": "icons/magic/water/barrier-ice-wall-snow.webp",
@@ -320,7 +320,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -330,7 +330,7 @@
       "_key": "!actors.items!ISXBZMqeLNEI8zmd.gDYUEea5H6ci3EvP"
     },
     {
-      "name": "Pounce",
+      "name": "Внезапно атаковать",
       "type": "feature",
       "_id": "Fi7vpPAJgevyHpwq",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -375,7 +375,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &amp;Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -453,7 +453,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GMhZfEqubydeeKl3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -467,7 +467,7 @@
       "_key": "!actors.items!ISXBZMqeLNEI8zmd.Fi7vpPAJgevyHpwq"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "hBhUuXBI1BIlwcp3",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -571,7 +571,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -676,7 +676,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -722,7 +722,7 @@
           "value": null
         }
       },
-      "name": "Cold Breath",
+      "name": "Холодное дыхание",
       "type": "feature",
       "_id": "53yLoKsfcZGnQ0r9",
       "img": "icons/magic/water/projectile-ice-chunk-blue.webp",
@@ -738,7 +738,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.p9BUq9B8eLU1ZCNT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -752,7 +752,7 @@
       "_key": "!actors.items!ISXBZMqeLNEI8zmd.53yLoKsfcZGnQ0r9"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "kpZnA11WHvADTJq4",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -817,7 +817,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -927,7 +927,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930014,
         "modifiedTime": 1756752868047,
@@ -940,7 +940,7 @@
       "_key": "!actors.items!ISXBZMqeLNEI8zmd.kpZnA11WHvADTJq4"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "EXyYEhbMAHdo1YnI",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -990,7 +990,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1100,7 +1100,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930014,
         "modifiedTime": 1756752872581,
@@ -1118,7 +1118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756766952296,

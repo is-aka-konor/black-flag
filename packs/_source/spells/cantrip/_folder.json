@@ -1,5 +1,5 @@
 {
-  "name": "Cantrip",
+  "name": "Заговор",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#b18dcd",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "12.331",
     "createdTime": 1706914738242,

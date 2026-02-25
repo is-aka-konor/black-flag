@@ -1,6 +1,6 @@
 {
   "folder": "qMTJQup73eOQq8Qf",
-  "name": "Jack of All Trades",
+  "name": "Мастер на все руки",
   "type": "feature",
   "_id": "UpTTevZoYMXsmY3h",
   "img": "icons/skills/trades/textiles-cloth-dye-red.webp",
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.046",
     "coreVersion": "13.347",
     "createdTime": 1717618001361,

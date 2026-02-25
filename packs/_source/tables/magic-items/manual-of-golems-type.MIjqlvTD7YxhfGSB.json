@@ -1,8 +1,8 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Manual of Golems Type",
+  "name": "Руководство по типу големов",
   "img": "icons/sundries/books/book-reye-reptile-brown.webp",
-  "description": "<p>Golem / Time / Cost</p>",
+  "description": "<p>Голем / Время / Стоимость</p>",
   "results": [
     {
       "type": "text",
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Clay / 30 days / 65,000 gp",
+      "description": "Глина / 30 дней / 65 000 зм",
       "name": "",
       "_key": "!tables.results!MIjqlvTD7YxhfGSB.rznrL4tGXYIDC84h"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Flesh / 60 days / 50,000 gp",
+      "description": "Плоть / 60 дней / 50 000 зм",
       "name": "",
       "_key": "!tables.results!MIjqlvTD7YxhfGSB.4LYLd6LWGn5KfsQc"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Iron / 120 days / 100,000 gp",
+      "description": "Железо / 120 дней / 100 000 зм",
       "name": "",
       "_key": "!tables.results!MIjqlvTD7YxhfGSB.CyEH20RuNY63m4um"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Stone / 90 days / 80,000 gp",
+      "description": "Камень / 90 дней / 80 000 зм",
       "name": "",
       "_key": "!tables.results!MIjqlvTD7YxhfGSB.XIk7bKTIg4Hcsbgp"
     }
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426275278,
     "modifiedTime": 1729534461391,

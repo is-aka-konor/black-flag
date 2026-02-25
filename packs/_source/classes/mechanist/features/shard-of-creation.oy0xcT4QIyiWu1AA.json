@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Shard of Creation",
+  "name": "Осколок творения",
   "type": "feature",
   "_id": "oy0xcT4QIyiWu1AA",
   "img": "icons/commodities/gems/gem-rough-trapeze-yellow-green.webp",
@@ -9,7 +9,7 @@
       "HEPU5fOt0rtEyIwx": {
         "type": "utility",
         "_id": "HEPU5fOt0rtEyIwx",
-        "description": "<p>When you make an ability check while touching the shard (regardless of its current form), you can spend 1 charge to roll a [[/r @scale.mechanist.inspire]] and add the number rolled to your check result.</p>",
+        "description": "<p>Когда вы применяете возможность проверки, касаясь осколка (независимо от его текущей формы), вы можете включить 1 заряд, чтобы выбросить [[/r @scale.mechanist.inspire]] и добавить выпавшее число к результату проверки.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -55,13 +55,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Inspire",
+        "name": "Вдохновлять",
         "img": ""
       },
       "X7iYUUnO0qLHL8Ae": {
         "type": "utility",
         "_id": "X7iYUUnO0qLHL8Ae",
-        "description": "<p>While touching the shard, you can use an action and expend 1 charge to transform it into any type of nonmagical weapon or shield or object of Medium size or smaller. The object appears in an unoccupied space within 10 feet of you, but the chosen space must contain a surface or liquid capable of supporting the object. If the object you create is of an appropriate size to be worn or held, you can choose for the object to appear in your hand or on your person. The total value (in gold pieces) of an object created can’t be more than 20 × your mechanist level.</p><p>A transformed shard remains in its new form until you die, use an action to return it to its original state (expending no charges), or use an action to transform it again. No matter what shape the shard assumes, those who handle the shard can sense something strange about its nature. The shard can’t be passed off as a typical item for purposes of buying and selling.</p>",
+        "description": "<p>Прикасаясь к осколку, вы можете применить и применить 1 заряд, чтобы превратить его в любой тип немагического оружия, щита или предмет среднего размера или меньше. Объект появляется в незанятом пространстве на расстоянии 10 футов от вас, но выбранное пространство должно удерживать поверхность или жидкость, способную выдержать объект. Если созданный вами объект имеет подходящий размер для ношения или удержания, вы можете выбрать, чтобы объект появился в вашей руке или на вашем теле.Общая стоимость (в золотых монетах) созданного объекта не может превысить 20-кратный уровень механики вашего уровня. Независимо от того, какую форму принимает осколок, я, кто на нем работает, может чувствовать что-то странное в своей природе. Осколок не может быть выдан за обычный предмет для целей купли-продажи.</p>",
         "system": {
           "roll": {
             "name": "",
@@ -106,7 +106,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Transform",
+        "name": "Трансформировать",
         "img": ""
       }
     },
@@ -183,7 +183,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1720127474778,

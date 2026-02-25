@@ -1,6 +1,6 @@
 {
   "folder": "pJx3o3aJJBDPjd61",
-  "name": "Thief",
+  "name": "Вор",
   "type": "subclass",
   "_id": "pvleQ3WXoW1o1T6K",
   "img": "icons/equipment/hand/glove-simple-leather-brown-blue.webp",
@@ -12,10 +12,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.bWb43vd0g0ggUJyI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bWb43vd0g0ggUJyI"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.56gjzolpI92yftvR"
+              "uuid": "Compendium.black-flag-ru.classes.Item.56gjzolpI92yftvR"
             }
           ]
         },
@@ -31,7 +31,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.PjqXAn6WGNfkB6fq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.PjqXAn6WGNfkB6fq"
             }
           ]
         },
@@ -49,7 +49,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.jR535ZTkqVMe2OI1"
+              "uuid": "Compendium.black-flag-ru.classes.Item.jR535ZTkqVMe2OI1"
             }
           ]
         },
@@ -67,7 +67,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.omVBfOi0zzKOZ2Vn"
+              "uuid": "Compendium.black-flag-ru.classes.Item.omVBfOi0zzKOZ2Vn"
             }
           ]
         },
@@ -83,8 +83,8 @@
     "description": {
       "value": "<p>You have a reputation for quick thinking and quicker fingers. Leave throat-cutting and con-running to lesser scoundrels. You live to liberate treasures held under lock and key. The thrill of bypassing a sealed door, complex trap, or other “impassable” obstacle is the true prize—followed by the payday that comes from whatever you took.</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.ZL1BT4ftY3fOhgxW",
-      "short": "You have a reputation for quick thinking and quicker fingers. Leave throat-cutting and con-running to lesser scoundrels. You live to liberate treasures held under lock and key. The thrill of bypassing a sealed door, complex trap, or other “impassable” obstacle is the true prize—followed by the payday that comes from whatever you took."
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.ZL1BT4ftY3fOhgxW",
+      "short": "У вас репутация человека с быстрым мышлением и быстрыми пальцами. Оставьте перерезание глоток и мошенничество меньшим негодяям. Вы живете, чтобы освободить сокровища, хранящиеся под замком. Настоящим призом является удовольствие от обхода запечатанной двери, сложной ловушки или другого «непроходимого» препятствия, за которым следует вознаграждение, полученное за все, что вы взяли."
     },
     "identifier": {
       "class": "rogue"
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1700002100673,

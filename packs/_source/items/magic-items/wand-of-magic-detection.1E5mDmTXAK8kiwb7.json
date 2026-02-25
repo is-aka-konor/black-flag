@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of Magic Detection",
+  "name": "Жезл обнаружения магии",
   "system": {
     "type": {
       "category": "wand"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy]{detect magic}</em> spell from it. The wand regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy]{detect magic}</em> spell from it. The wand regains [[/r 1d3]] expended charges daily at dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -21,7 +21,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+            "uuid": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
             "challenge": {
               "attack": null,
               "save": null,
@@ -124,7 +124,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071476683,
     "modifiedTime": 1735681530528,

@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Silence",
+  "name": "Тишина",
   "type": "spell",
   "_id": "WSBhluYBmP1706xn",
   "img": "icons/magic/control/mouth-smile-deception-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible while inside the sphere.</p>",
       "source": {},
-      "short": "20-ft. radius deafening quiet."
+      "short": "20 футов. радиус оглушительная тишина."
     },
     "type": {
       "value": "standard"
@@ -99,7 +99,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935509411,

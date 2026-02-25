@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Purify Food and Drink",
+  "name": "Очистите еду и напитки",
   "type": "spell",
   "_id": "4q0CXrxEdSaDWkPU",
   "img": "icons/consumables/food/cheese-round-glowing-yellow.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.</p>",
       "source": {},
-      "short": "Make food, drink safe to eat."
+      "short": "Сделайте еду и напитки безопасными для употребления."
     },
     "type": {
       "value": "standard"
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935088577,

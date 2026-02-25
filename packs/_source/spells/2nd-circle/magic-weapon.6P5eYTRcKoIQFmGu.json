@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Magic Weapon",
+  "name": "Магическое оружие",
   "type": "spell",
   "_id": "6P5eYTRcKoIQFmGu",
   "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-teal.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the bonus increases to +2. When you use a spell slot of 6th circle or higher, the bonus increases to +3.</p>",
       "source": {},
-      "short": "Enchant a weapon for 1 hour."
+      "short": "Зачаровать оружие на 1 час."
     },
     "type": {
       "value": "standard"
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934544057,

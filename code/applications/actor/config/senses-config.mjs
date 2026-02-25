@@ -19,13 +19,13 @@ export default class SensesConfig extends BaseCustomConfigSheet {
 	/** @override */
 	static PARTS = {
 		types: {
-			template: "systems/black-flag/templates/actor/config/senses-config-types.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/senses-config-types.hbs"
 		},
 		tags: {
-			template: "systems/black-flag/templates/actor/config/senses-config-tags.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/senses-config-tags.hbs"
 		},
 		custom: {
-			template: "systems/black-flag/templates/actor/config/senses-config-custom.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/senses-config-custom.hbs"
 		}
 	};
 

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "War Horse",
+  "name": "Боевой конь",
   "type": "npc",
   "_id": "Cdi71IHxNif3sV33",
-  "img": "systems/black-flag/artwork/tokens/horse-war.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/horse-war.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "War Horse",
+    "name": "Боевой конь",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}. If the target is prone, the horse can make another Hooves attack against it as a bonus action.</p>",
+          "value": "<p>If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the horse can make another Hooves attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -352,7 +352,7 @@
           "value": null
         }
       },
-      "name": "Trampling Charge",
+      "name": "Растаптывание заряда",
       "type": "feature",
       "_id": "8VBoDbgCNCwJ2vTi",
       "img": "icons/environment/creatures/horse-tan.webp",
@@ -372,7 +372,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -481,7 +481,7 @@
           "value": null
         }
       },
-      "name": "Trained Shift",
+      "name": "Обученная смена",
       "type": "feature",
       "_id": "BYlGJx8Z2X3PM9Ta",
       "img": "icons/tools/smithing/horseshoe-steel-blue.webp",
@@ -501,7 +501,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -587,7 +587,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -656,7 +656,7 @@
         },
         "rarity": ""
       },
-      "name": "Hooves",
+      "name": "Копыта",
       "type": "weapon",
       "_id": "I5CW4yIoBNlggQbs",
       "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -673,7 +673,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928679,
         "modifiedTime": 1756751040816,
@@ -691,7 +691,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

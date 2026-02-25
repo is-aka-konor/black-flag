@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Phantom Steed",
+  "name": "Призрачный конь",
   "type": "spell",
   "_id": "AugUdSLatuwsQ17A",
   "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>A Large, quasi-real, horse-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature’s appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is ever more than 10 feet away from the steed.</p><p>For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a <strong>riding horse</strong>, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it, if the steed takes any damage, or if you use this spell to summon a different steed.</p>",
       "source": {},
-      "short": "Make a fast steed for 1 hour."
+      "short": "Сделать быстрого скакуна на 1 час."
     },
     "type": {
       "value": "standard"
@@ -59,7 +59,7 @@
         "cost": 5,
         "consumed": false,
         "denomination": "gp",
-        "description": "an apple made of gold worth 5 gp"
+        "description": "яблоко из золота стоимостью 5 зм"
       }
     },
     "duration": {
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997207751,

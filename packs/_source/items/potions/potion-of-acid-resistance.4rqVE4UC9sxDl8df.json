@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Acid Resistance",
+  "name": "Зелье кислотостойкости",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       }
     },
@@ -112,9 +112,9 @@
   "img": "icons/consumables/potions/bottle-round-corked-green.webp",
   "effects": [
     {
-      "name": "Acid Resistance",
+      "name": "Кислотостойкость",
       "img": "icons/consumables/potions/bottle-round-corked-green.webp",
-      "origin": "Compendium.black-flag.items.Item.4rqVE4UC9sxDl8df",
+      "origin": "Compendium.black-flag-ru.items.Item.4rqVE4UC9sxDl8df",
       "transfer": false,
       "_id": "84dr6gEGBLG9iwA5",
       "type": "base",
@@ -146,7 +146,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539829604,
         "modifiedTime": 1729539999324,
@@ -165,7 +165,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073717286,
     "modifiedTime": 1735684919718,

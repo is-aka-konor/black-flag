@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Bag of Beans Effects",
+  "name": "Мешок с фасолью Эффекты",
   "_id": "S3U8tAlPntofxTxb",
   "img": "icons/containers/bags/coinpouch-leather-orange.webp",
   "description": "",
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "[[/r 5d4]] toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a [[/save DC 15 CON]] save or take [[/damage 5d6 poison]] damage and become &amp;Reference[poisoned] for 1 hour. On an even roll, the eater gains [[/healing 5d6 temp]] for 1 hour.",
+      "description": "[[/r 5d4]] прорастают поганки. Если Существо съедает поганку, бросьте любой кубик. При нечетном броске пожиратель должен преуспеть в спасброске [[/save DC 15 CON]] или нанести урон [[/damage 5d6 poison]] и стать &Reference[отравленным] на 1 час. При равном результате едок получает [[/healing 5d6 temp]] за 1 час.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.aYiT9jTGFoUS798s"
     },
@@ -53,7 +53,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM’s choice) 30 feet into the air for [[/r 1d12]] rounds.",
+      "description": "Гейзер извергается и выбрасывает воду, пиво, ягодный сок, чай, уксус, вино или масло (по выбору Мастера) на 30 футов в воздух на [[/r 1d12]] раундов.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.bduHEiXpdNcLGayi"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A treant sprouts. There’s a 50 percent chance that the treant is cruelly wicked and attacks.",
+      "description": "Энт прорастает. Существует 50-процентная вероятность того, что энт жесток и нападет.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.17NVES11uhCkyU80"
     },
@@ -105,7 +105,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.",
+      "description": "По твоему подобию поднимается одушевленная, неподвижная каменная статуя. Он выдвигает в ваш адрес словесные угрозы. Если вы покинете его, а другие приблизятся, он описывает вас как самого отвратительного из злодеев и приказывает новичкам найти и напасть на вас. Если вы находитесь на том же уровне существования, что и статуя, она знает, где вы находитесь. Статуя становится неодушевленной через 24 часа.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.t18UMA3uduBM8c8E"
     },
@@ -131,7 +131,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).",
+      "description": "Появляется костер с синим пламенем, который горит 24 часа (или пока не погаснет).",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.HiIBybX0KVPAHUag"
     },
@@ -157,7 +157,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "[[/r 1d6 + 6]] shriekers sprout.",
+      "description": "[[/r 1d6 + 6]] прорастают крики.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.sj8sOmFFkysUYC7g"
     },
@@ -183,7 +183,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "[[/r 1d4 + 8]] bright pink toads crawl forth. When a toad is touched, it transforms into a Large or smaller monster of the GM’s choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.",
+      "description": "[[/r 1d4 + 8]] выползают ярко-розовые жабы. Когда к жабе прикасаются, она превращается в монстра Большого или меньшего размера по выбору Мастера. Монстр существует 1 минуту, затем исчезает в клубе ярко-розового дыма.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.cOZ4kxhDgHrgOeZB"
     },
@@ -209,7 +209,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A hungry bulette burrows up and attacks.",
+      "description": "Голодный булет закапывается и атакует.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.PRU0i41CbU42UIMU"
     },
@@ -235,7 +235,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A fruit tree grows. It has [[/r 1d10 + 20]] fruit, [[/r 1d8]] of which act as randomly determined magic potions, while one acts as an ingested poison of the GM’s choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.",
+      "description": "Вырастает фруктовое дерево. У него есть [[/r 1d10 + 20]] фруктов, [[/r 1d8]] из которых действуют как случайно определенные магические зелья, а один действует как проглоченный яд по выбору Мастера. Дерево исчезает через 1 час. Собранные плоды остаются, сохраняя всю магию в течение 30 дней.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.enNUhaYJf2suoiT0"
     },
@@ -261,7 +261,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A nest of [[/r 1d4 + 3]] eggs springs up. Any creature that eats an egg must make a [[/save DC 20 CON]] save. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes [[/damage 10d6 force]] damage from an internal magical explosion.",
+      "description": "Возникает гнездо из [[/r 1d4 + 3]] яиц. Любое Существо, съедающее яйцо, должно сделать спасбросок [[/save DC 20 CON]]. При успешном спасброске Существо сохраняет свой самый низкий показатель способностей на 1, случайным образом выбирая среди этих низких показателей. При провале Существо получает [[/damage 10d6 force]] урона от внутреннего магического взрыва.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.XcvMinDRa3knFQTo"
     },
@@ -287,7 +287,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains treasure of the GM’s choice.",
+      "description": "Пирамида с квадратным основанием 60 футов взлетает вверх. Внутри находится саркофаг с мумией лорда. Пирамида считается логовом мумии-повелителя, а ее саркофаг содержит сокровища по выбору Мастера.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.kuYboZOUFEWwtH1j"
     },
@@ -313,7 +313,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A giant beanstalk sprouts, growing to a height of the GM’s choice. The top leads where the GM chooses, such as to a great view, a cloud giant’s castle, or a different plane of existence.",
+      "description": "Прорастает гигантский бобовый стебель, вырастая до высоты, выбранной Мастером. Верх ведет туда, куда выберет Мастер, например, к великолепному виду, замку облачного гиганта или другому плану существования.",
       "name": "",
       "_key": "!tables.results!S3U8tAlPntofxTxb.DN9Zq3ZINXQLgPui"
     }
@@ -328,7 +328,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "createdTime": 1725739103476,
     "modifiedTime": 1735684119251,

@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Ghast",
+  "name": "Гаст",
   "type": "npc",
   "_id": "CXZYL33DFVG6GJwL",
-  "img": "systems/black-flag/artwork/tokens/ghoul-ghast.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/ghoul-ghast.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ghast",
+    "name": "Гаст",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/ghoul-ghast.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/ghoul-ghast.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to &amp;Reference[exhaustion]{exhaustion} and risks starvation until it does so. While it has any levels of exhaustion from starvation, the [[lookup @name lowercase]] can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
+          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to &Reference[exhaustion]{exhaustion} and risks starvation until it does so. While it has any levels of exhaustion from starvation, the [[lookup @name lowercase]] can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -288,7 +288,7 @@
           "value": null
         }
       },
-      "name": "Hungry Dead Nature",
+      "name": "Голодная мертвая природа",
       "type": "feature",
       "_id": "ttPNMGwrghDnCOMq",
       "img": "icons/magic/death/blood-corruption-vomit-red.webp",
@@ -304,7 +304,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dttelZYjwhXAfMXe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -318,7 +318,7 @@
       "_key": "!actors.items!CXZYL33DFVG6GJwL.ttPNMGwrghDnCOMq"
     },
     {
-      "name": "Spider Climb",
+      "name": "Паучье восхождение",
       "type": "feature",
       "_id": "9uqnbdIxLn3O9gIj",
       "img": "icons/creatures/invertebrates/spider-web-red.webp",
@@ -372,7 +372,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.9SnGOXer6OWDVFZR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -455,7 +455,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 5 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
+          "value": "<p>A creature that starts its turn within 5 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Dolcument"
           }
@@ -495,7 +495,7 @@
           "value": null
         }
       },
-      "name": "Stench",
+      "name": "вонь",
       "type": "feature",
       "_id": "VxjpSyY7EX1d4G6G",
       "img": "icons/magic/air/fog-gas-smoke-swirling-green.webp",
@@ -511,7 +511,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.rg5TH5FWBbUSwW4F",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -563,7 +563,7 @@
           "value": null
         }
       },
-      "name": "Turning Defiance",
+      "name": "Превращение неповиновения",
       "type": "feature",
       "_id": "nd4WQBavNxvnn7dO",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -583,7 +583,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -593,7 +593,7 @@
       "_key": "!actors.items!CXZYL33DFVG6GJwL.nd4WQBavNxvnn7dO"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -635,7 +635,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -646,7 +646,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -677,7 +677,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -703,7 +703,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -718,7 +718,7 @@
       "_key": "!actors.items!CXZYL33DFVG6GJwL.OvFKzVucuSypF1o6"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "xUMdvt1IaA9NJd2a",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -786,7 +786,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -839,7 +839,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -933,7 +933,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -947,7 +947,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A disease spread by ghouls, ghoul hunger instills a hunger for Humanoid flesh in the creature suffering it, fully manifesting after [[/r 1d4]] hours. Once the disease is fully manifested, the infected creature is &amp;Reference[poisoned]{poisoned} until the disease is cured. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. A creature that succeeds on two of these saves recovers from the disease.</p><p>If an infected Humanoid fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. If the humanoid is a spellcaster with a PB +4 or higher, it has a 25 percent chance of transforming into a necrophage ghast instead. Only a wish spell or similarly powerful magic can reverse the transformation.</p>",
+          "value": "<p>A disease spread by ghouls, ghoul hunger instills a hunger for Humanoid flesh in the creature suffering it, fully manifesting after [[/r 1d4]] hours. Once the disease is fully manifested, the infected creature is &Reference[poisoned]{poisoned} until the disease is cured. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. A creature that succeeds on two of these saves recovers from the disease.</p><p>If an infected Humanoid fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. If the humanoid is a spellcaster with a PB +4 or higher, it has a 25 percent chance of transforming into a necrophage ghast instead. Only a wish spell or similarly powerful magic can reverse the transformation.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -973,7 +973,7 @@
           "value": null
         }
       },
-      "name": "Ghoul Hunger",
+      "name": "Гуль Голод",
       "type": "feature",
       "_id": "9CVYl4nZJ0UJsAvt",
       "img": "icons/magic/death/blood-corruption-vomit-red.webp",
@@ -993,7 +993,7 @@
         "compendiumSource": "Actor.NseZbQVdJSuiMLIw.Item.JqEAfa8liTldpCIQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1003,7 +1003,7 @@
       "_key": "!actors.items!CXZYL33DFVG6GJwL.9CVYl4nZJ0UJsAvt"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "b7nQ54JWymr07OPb",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1053,7 +1053,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1163,7 +1163,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928594,
         "modifiedTime": 1756760668516,
@@ -1176,7 +1176,7 @@
       "_key": "!actors.items!CXZYL33DFVG6GJwL.b7nQ54JWymr07OPb"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "7FUfeI3nrxRtqhTN",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1226,7 +1226,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1330,7 +1330,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1348,7 +1348,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature that isn’t a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or be &amp;Reference[paralyzed]{paralyzed} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature that isn’t a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or be &Reference[paralyzed]{paralyzed} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1412,7 +1412,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928594,
         "modifiedTime": 1756760677522,
@@ -1430,7 +1430,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

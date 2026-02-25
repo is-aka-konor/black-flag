@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Empty Body",
+  "name": "Пустое тело",
   "type": "feature",
   "_id": "ApZU8P5bWX1iNuGs",
   "img": "icons/commodities/gems/pearl-turquoise.webp",
@@ -9,7 +9,7 @@
       "PmwJ6j6nPLq8NLam": {
         "type": "utility",
         "_id": "PmwJ6j6nPLq8NLam",
-        "description": "<p>You can use your action to spend 4 technique points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p>",
+        "description": "<p>Вы можете нанести удар 4 очками техники, чтобы остаться незамеченным на 1 минуту. В течение этого времени у вас также есть сопротивление ко всем видам урона, кроме силового.</p>",
         "system": {
           "roll": {
             "name": "",
@@ -30,7 +30,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo",
+              "target": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo",
               "value": "4"
             }
           ],
@@ -66,12 +66,12 @@
           "min": "",
           "max": ""
         },
-        "name": "Invisibility",
+        "name": "Невидимость",
         "img": ""
       },
       "q3lqT41aPYTHf3gf": {
         "type": "utility",
-        "description": "<p>You can spend 8 technique points to cast the <em>astral projection</em> spell as an action (ignoring the standard casting time), without needing material components. When you do so, you can’t take any other creatures with you.</p>",
+        "description": "<p>Вы можете потратить 8 очков техники, чтобы наложить заклинание <em>астральная проекция</em> как действие (игнорируя стандартное время наложения), без необходимости использования материальных компонентов. Когда вы это сделаете, вы не сможете взять с собой никакое другое Существо._</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -82,7 +82,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo",
+              "target": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo",
               "value": "8"
             }
           ],
@@ -117,7 +117,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Astral Projection",
+        "name": "Астральная проекция",
         "img": "",
         "_id": "q3lqT41aPYTHf3gf"
       }
@@ -155,7 +155,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.ApZU8P5bWX1iNuGs",
+      "origin": "Compendium.black-flag-ru.classes.Item.ApZU8P5bWX1iNuGs",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -166,7 +166,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Empty Body",
+      "name": "Пустое тело",
       "_id": "Uv9eL4Ta5YOF4TKZ",
       "changes": [
         {
@@ -271,7 +271,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.046",
     "coreVersion": "13.347",
     "createdTime": 1717970337549,

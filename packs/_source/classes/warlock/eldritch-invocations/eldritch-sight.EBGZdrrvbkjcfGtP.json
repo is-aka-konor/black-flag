@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Eldritch Sight",
+  "name": "Жуткое зрение",
   "type": "feature",
   "_id": "EBGZdrrvbkjcfGtP",
   "img": "icons/magic/symbols/cog-orange-red.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376528162,

@@ -1,6 +1,6 @@
 {
   "folder": "4WWscBYqf5r20qqO",
-  "name": "Life Domain",
+  "name": "Жизненный домен",
   "type": "subclass",
   "_id": "JnVEjknCvF1dzKvz",
   "img": "icons/magic/life/cross-flared-green.webp",
@@ -17,13 +17,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.6P47eCF9nLN6MBCg"
+              "uuid": "Compendium.black-flag-ru.classes.Item.6P47eCF9nLN6MBCg"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.IUDviIcsgPlwJJxI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IUDviIcsgPlwJJxI"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.G7DsRKYJRUxpH8xV"
+              "uuid": "Compendium.black-flag-ru.classes.Item.G7DsRKYJRUxpH8xV"
             }
           ]
         }
@@ -34,7 +34,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.gExDP5p4MboDcND9"
+              "uuid": "Compendium.black-flag-ru.classes.Item.gExDP5p4MboDcND9"
             }
           ]
         },
@@ -52,7 +52,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.JADaUC2xVWjDEU4R"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JADaUC2xVWjDEU4R"
             }
           ]
         },
@@ -70,7 +70,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ObfWVTAVUysWaXkh"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ObfWVTAVUysWaXkh"
             }
           ]
         },
@@ -86,8 +86,8 @@
     "description": {
       "value": "<p>Gods of the Life domain celebrate natural cycles of life and death, exemplifying health and vitality. Devotees of this domain are encouraged to heal the wounded, care for the sick, and oppose the perversion of undeath.</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.8xCiSDEUJZeWeJ9K",
-      "short": "Gods of the Life domain celebrate natural cycles of life and death, exemplifying health and vitality. Devotees of this domain are encouraged to heal the wounded, care for the sick, and oppose the perversion of undeath."
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.8xCiSDEUJZeWeJ9K",
+      "short": "Боги сферы Жизни прославляют естественные циклы жизни и смерти, демонстрируя здоровье и жизненную силу. Преданным этой области рекомендуется исцелять раненых, заботиться о больных и противостоять извращению нежити."
     },
     "identifier": {
       "class": "cleric"
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1700001553769,

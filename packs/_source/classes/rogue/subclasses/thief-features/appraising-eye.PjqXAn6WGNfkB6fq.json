@@ -1,6 +1,6 @@
 {
   "folder": "OGEfr5Be5pXnTgIL",
-  "name": "Appraising Eye",
+  "name": "Оценивающий глаз",
   "type": "feature",
   "_id": "PjqXAn6WGNfkB6fq",
   "img": "icons/commodities/treasure/token-brass-round.webp",
@@ -28,7 +28,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Appraise",
+        "name": "Оценить",
         "img": ""
       }
     },
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715740905160,

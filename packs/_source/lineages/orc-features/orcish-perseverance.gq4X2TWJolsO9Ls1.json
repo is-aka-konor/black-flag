@@ -1,6 +1,6 @@
 {
   "folder": "1yYTiSJbVGkECgTB",
-  "name": "Orcish Perseverance",
+  "name": "Орочье упорство",
   "type": "feature",
   "_id": "gq4X2TWJolsO9Ls1",
   "img": "icons/commodities/biological/shell-ridged-green.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716093558300,

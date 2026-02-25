@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Red Dragon Wyrmling",
+  "name": "Змеевик Красного Дракона",
   "type": "npc",
   "_id": "GTo6rb03cdWAZ4lh",
-  "img": "systems/black-flag/artwork/tokens/red-dragon-wyrmling.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/red-dragon-wyrmling.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -152,13 +152,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Red Dragon Wyrmling",
+    "name": "Змеевик Красного Дракона",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/red-dragon-wyrmling.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/red-dragon-wyrmling.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -253,7 +253,7 @@
   },
   "items": [
     {
-      "name": "Pounce",
+      "name": "Внезапно атаковать",
       "type": "feature",
       "_id": "JD3AnZWZQcQP5yng",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -302,20 +302,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711666865509,
         "modifiedTime": 1711667642672,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.djXN1fhpcqEP7Daf",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.djXN1fhpcqEP7Daf",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!GTo6rb03cdWAZ4lh.JD3AnZWZQcQP5yng"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "pnnNARr3ViyQqugk",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -414,20 +414,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711667765980,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!GTo6rb03cdWAZ4lh.pnnNARr3ViyQqugk"
     },
     {
-      "name": "Fire Breath",
+      "name": "Огненное дыхание",
       "type": "feature",
       "_id": "SYe2RtiXp42I1WAU",
       "img": "icons/magic/fire/blast-jet-stream-embers-yellow.webp",
@@ -566,20 +566,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711667664884,
         "modifiedTime": 1713147569714,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.fjq5Rf5e1ALoN5xc",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.fjq5Rf5e1ALoN5xc",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!GTo6rb03cdWAZ4lh.SYe2RtiXp42I1WAU"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "KKAdkDQfFvPqxUWo",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -748,11 +748,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929680,
         "modifiedTime": 1756752823117,
@@ -761,7 +761,7 @@
       "_key": "!actors.items!GTo6rb03cdWAZ4lh.KKAdkDQfFvPqxUWo"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "HvFiRqCRoiKYnz0N",
       "img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
@@ -915,11 +915,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2hYUlglK9czNmHNx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2hYUlglK9czNmHNx",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929680,
         "modifiedTime": 1756752827756,
@@ -935,7 +935,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709616783624,

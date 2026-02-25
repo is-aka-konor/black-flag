@@ -163,7 +163,7 @@ export default Base =>
 			}
 
 			// Render the document creation form
-			template ??= "systems/black-flag/templates/shared/document-create.hbs";
+			template ??= "systems/black-flag-ru/templates/shared/document-create.hbs";
 			const content = document.createElement("div");
 			content.innerHTML = await foundry.applications.handlebars.renderTemplate(template, {
 				folders: folders

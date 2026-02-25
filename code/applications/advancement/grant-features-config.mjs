@@ -18,11 +18,11 @@ export default class GrantFeaturesConfig extends AdvancementConfig {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		items: {
-			template: "systems/black-flag/templates/advancement/grant-features-config-items.hbs",
-			templates: ["systems/black-flag/templates/advancement/parts/features-list.hbs"]
+			template: "systems/black-flag-ru/templates/advancement/grant-features-config-items.hbs",
+			templates: ["systems/black-flag-ru/templates/advancement/parts/features-list.hbs"]
 		}
 	};
 

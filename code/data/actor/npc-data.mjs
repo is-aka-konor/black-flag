@@ -85,7 +85,7 @@ export default class NPCData extends ActorDataModel.mixin(
 				category: "person",
 				legacyMixin: false,
 				localization: "BF.Actor.Type.NPC",
-				img: "systems/black-flag/artwork/types/npc.svg",
+				img: "systems/black-flag-ru/artwork/types/npc.svg",
 				sheet: {
 					application: NPCSheet,
 					label: "BF.Sheet.Default.NPC"
@@ -354,7 +354,7 @@ export default class NPCData extends ActorDataModel.mixin(
 		}
 		const section = document.createElement("section");
 		section.innerHTML = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/actor/embeds/npc-embed.hbs",
+			"systems/black-flag-ru/templates/actor/embeds/npc-embed.hbs",
 			context
 		);
 		return section.children;

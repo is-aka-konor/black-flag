@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Pact Boon",
+  "name": "Пакт Благо",
   "type": "feature",
   "_id": "hbtZCD7LaI2ceqKW",
   "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
@@ -25,13 +25,13 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.X2iTkFkmoJW9OKk5"
+              "uuid": "Compendium.black-flag-ru.classes.Item.X2iTkFkmoJW9OKk5"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.C9FG5NlEsX8IaZ9T"
+              "uuid": "Compendium.black-flag-ru.classes.Item.C9FG5NlEsX8IaZ9T"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Nrx1unFEjSVdNOqI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Nrx1unFEjSVdNOqI"
             }
           ],
           "restriction": {
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719375676775,

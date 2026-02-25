@@ -1,6 +1,6 @@
 {
   "folder": "kbsqEF5chqRSFMf7",
-  "name": "Full Metal",
+  "name": "Цельнометаллический",
   "type": "feature",
   "_id": "sSwXQsmFrfqLnytb",
   "img": "icons/commodities/tech/metal-jaws.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Transform",
+        "name": "Трансформировать",
         "img": ""
       }
     },
@@ -103,7 +103,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128200602,

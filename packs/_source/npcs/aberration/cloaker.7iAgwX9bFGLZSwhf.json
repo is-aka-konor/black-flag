@@ -1,9 +1,9 @@
 {
   "folder": "RuA1hZVgwPDxXhg8",
-  "name": "Cloaker",
+  "name": "плащевик",
   "type": "npc",
   "_id": "7iAgwX9bFGLZSwhf",
-  "img": "systems/black-flag/artwork/tokens/cloaker.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/cloaker.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cloaker",
+    "name": "плащевик",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/cloaker.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/cloaker.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -252,7 +252,7 @@
   },
   "items": [
     {
-      "name": "Aberrant Resilience",
+      "name": "Аберрантная устойчивость",
       "type": "feature",
       "_id": "AzHY6h5IS0AHJSZd",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -295,7 +295,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -306,7 +306,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Aberrant Resilience",
+          "name": "Аберрантная устойчивость",
           "_id": "vyiAWYKxFWNBOFa1",
           "changes": [
             {
@@ -343,7 +343,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -369,7 +369,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.SXHeq6pvWONWyCUU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -421,7 +421,7 @@
           "value": null
         }
       },
-      "name": "Damage Transfer",
+      "name": "Перенос урона",
       "type": "feature",
       "_id": "FyvJAB42HXZu9slR",
       "img": "icons/magic/control/energy-stream-link-spiral-blue.webp",
@@ -437,7 +437,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.vPzXPDd7orhc0RPN",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -451,7 +451,7 @@
       "_key": "!actors.items!7iAgwX9bFGLZSwhf.FyvJAB42HXZu9slR"
     },
     {
-      "name": "False Appearance",
+      "name": "Ложная внешность",
       "type": "feature",
       "_id": "l5ZyluNG6Nhp2glz",
       "img": "icons/commodities/treasure/statue-carved-figurehead.webp",
@@ -505,7 +505,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.P3tFaxFkcBUSL0r9",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -519,7 +519,7 @@
       "_key": "!actors.items!7iAgwX9bFGLZSwhf.l5ZyluNG6Nhp2glz"
     },
     {
-      "name": "Light Sensitivity",
+      "name": "Светочувствительность",
       "type": "feature",
       "_id": "sOi4Fge6Biqb2Fr5",
       "img": "icons/magic/light/explosion-glow-spiral-yellow.webp",
@@ -575,9 +575,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.gaN4UmiGZk0r2oam",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.gaN4UmiGZk0r2oam",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -587,7 +587,7 @@
       "_key": "!actors.items!7iAgwX9bFGLZSwhf.sOi4Fge6Biqb2Fr5"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "MaE0xfcgpc6nwh0u",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -691,7 +691,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -817,7 +817,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cloaker releases a deep, thrumming moan that rattles the nerves of all who hear it. Each creature within 30 feet of the cloaker that can hear the moan and that isn’t an Aberration must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &amp;Reference[frightened]{frightened} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened.</p>",
+          "value": "<p>The cloaker releases a deep, thrumming moan that rattles the nerves of all who hear it. Each creature within 30 feet of the cloaker that can hear the moan and that isn’t an Aberration must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{frightened} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened.</p>",
           "source": {
             "fallback": "Black Flag Resource Document"
           }
@@ -843,7 +843,7 @@
           "value": null
         }
       },
-      "name": "Moan",
+      "name": "Стон",
       "type": "feature",
       "_id": "TkghkrW8XofSUMeK",
       "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -863,7 +863,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -937,7 +937,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -982,7 +982,7 @@
           "value": null
         }
       },
-      "name": "Cloak of Shadows",
+      "name": "Плащ теней",
       "type": "feature",
       "_id": "dYfDDJwnuHnS3aAu",
       "img": "icons/magic/unholy/barrier-shield-glowing-pink.webp",
@@ -1002,7 +1002,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1012,7 +1012,7 @@
       "_key": "!actors.items!7iAgwX9bFGLZSwhf.dYfDDJwnuHnS3aAu"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "cnLOJJc6aQhqO8P3",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1063,8 +1063,8 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Main Attack",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "name": "Основная атака",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1178,7 +1178,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Subsequent Piercing Damage",
+            "name": "Последующие колющие повреждения",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1252,7 +1252,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Check to Remove Cloaker",
+            "name": "Проверка STR для удаления Cloaker",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1335,10 +1335,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927811,
         "modifiedTime": 1756749181098,
@@ -1347,7 +1347,7 @@
       "_key": "!actors.items!7iAgwX9bFGLZSwhf.cnLOJJc6aQhqO8P3"
     },
     {
-      "name": "Tail",
+      "name": "Хвост",
       "type": "weapon",
       "_id": "xMq4bvwiCsALIPS1",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -1397,7 +1397,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1511,10 +1511,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.b8zfKznhQRxpJ1ru",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.b8zfKznhQRxpJ1ru",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927811,
         "modifiedTime": 1756749192136,
@@ -1528,7 +1528,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

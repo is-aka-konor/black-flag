@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Eldritch Invocations",
+  "name": "Жуткие призывы",
   "type": "feature",
   "_id": "wZG5EpRR7zEgNAVi",
   "img": "icons/magic/air/wind-tornado-wall-blue.webp",
@@ -33,97 +33,97 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.pG3Ej4ZjCNhkfZ52"
+              "uuid": "Compendium.black-flag-ru.classes.Item.pG3Ej4ZjCNhkfZ52"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.o2Sfs3fbTzyr7S8M"
+              "uuid": "Compendium.black-flag-ru.classes.Item.o2Sfs3fbTzyr7S8M"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.nY0LhDNc1bkYmfiW"
+              "uuid": "Compendium.black-flag-ru.classes.Item.nY0LhDNc1bkYmfiW"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.54UHzW3ULZ9m1sLb"
+              "uuid": "Compendium.black-flag-ru.classes.Item.54UHzW3ULZ9m1sLb"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.OIDwHpH4UyuzVNGh"
+              "uuid": "Compendium.black-flag-ru.classes.Item.OIDwHpH4UyuzVNGh"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.WyL3Nn0tPvH19aes"
+              "uuid": "Compendium.black-flag-ru.classes.Item.WyL3Nn0tPvH19aes"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Csyn1RvNnxKj1k9l"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Csyn1RvNnxKj1k9l"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.46YrVW4NUSppEWiU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.46YrVW4NUSppEWiU"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.tQNO1Drcya6D6IuN"
+              "uuid": "Compendium.black-flag-ru.classes.Item.tQNO1Drcya6D6IuN"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EBGZdrrvbkjcfGtP"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EBGZdrrvbkjcfGtP"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.QF0HmO3A1BYiOQz7"
+              "uuid": "Compendium.black-flag-ru.classes.Item.QF0HmO3A1BYiOQz7"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.abYX4crZeAx5O04N"
+              "uuid": "Compendium.black-flag-ru.classes.Item.abYX4crZeAx5O04N"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.bAt1gp6cPRStbKSd"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bAt1gp6cPRStbKSd"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.fF4wPecfYXSzoKMb"
+              "uuid": "Compendium.black-flag-ru.classes.Item.fF4wPecfYXSzoKMb"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.I24WXooyy1qSzZi1"
+              "uuid": "Compendium.black-flag-ru.classes.Item.I24WXooyy1qSzZi1"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.VTBYbdcqYfCieKIQ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VTBYbdcqYfCieKIQ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.VmUF8jSE2RWtxMwK"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VmUF8jSE2RWtxMwK"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.LR1yRC2UD8ltVUym"
+              "uuid": "Compendium.black-flag-ru.classes.Item.LR1yRC2UD8ltVUym"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.3I3zYn1wnMGYTbWF"
+              "uuid": "Compendium.black-flag-ru.classes.Item.3I3zYn1wnMGYTbWF"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.J7bHvk715dMnAMQP"
+              "uuid": "Compendium.black-flag-ru.classes.Item.J7bHvk715dMnAMQP"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.DqbuaQ5wftTU1Fpc"
+              "uuid": "Compendium.black-flag-ru.classes.Item.DqbuaQ5wftTU1Fpc"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.UEnJY4Uac10l8rck"
+              "uuid": "Compendium.black-flag-ru.classes.Item.UEnJY4Uac10l8rck"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.bPgyHv5Br3VNZjrl"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bPgyHv5Br3VNZjrl"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.cS9R17yuSIlvoAf8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.cS9R17yuSIlvoAf8"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.VyfPBraUrVFEXFJJ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VyfPBraUrVFEXFJJ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.a5JVMra55IFT4rQq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.a5JVMra55IFT4rQq"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.d0hTMRXSSdbut5d2"
+              "uuid": "Compendium.black-flag-ru.classes.Item.d0hTMRXSSdbut5d2"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EmZaJbh4RpQu7B7M"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EmZaJbh4RpQu7B7M"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.NJT95uCh76HdGsuO"
+              "uuid": "Compendium.black-flag-ru.classes.Item.NJT95uCh76HdGsuO"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.yYuZE1Qs4l9vVqr0"
+              "uuid": "Compendium.black-flag-ru.classes.Item.yYuZE1Qs4l9vVqr0"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.quSRkjkGwJQ7FZng"
+              "uuid": "Compendium.black-flag-ru.classes.Item.quSRkjkGwJQ7FZng"
             }
           ],
           "restriction": {
@@ -174,7 +174,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719375806619,

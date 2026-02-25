@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Feather Token, Anchor",
+  "name": "Жетон пера, якорь",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -85,7 +85,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Touch Boat or Ship",
+        "name": "Коснитесь лодки или корабля",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -129,7 +129,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984156976,
     "modifiedTime": 1756333781951,

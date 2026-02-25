@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Healing",
+  "name": "Посох исцеления",
   "type": "weapon",
   "_id": "PjBvjotZHu2W9ibg",
   "img": "icons/weapons/staves/staff-ornate-cross.webp",
@@ -10,7 +10,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.NQvy34IRCNEJfwip",
+            "uuid": "Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip",
             "challenge": {
               "attack": null,
               "save": null,
@@ -92,7 +92,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.Aqff6XGGmiVXo6A6",
+            "uuid": "Compendium.black-flag-ru.spells.Item.Aqff6XGGmiVXo6A6",
             "challenge": {
               "attack": null,
               "save": null,
@@ -170,7 +170,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.qGHh25GoYwwQ13NO",
+            "uuid": "Compendium.black-flag-ru.spells.Item.qGHh25GoYwwQ13NO",
             "challenge": {
               "attack": null,
               "save": null,
@@ -258,7 +258,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: <em>@UUID[Compendium.black-flag.spells.Item.NQvy34IRCNEJfwip]{cure wounds}</em> (1 charge per spell circle, up to 4th), <em>@UUID[Compendium.black-flag.spells.Item.Aqff6XGGmiVXo6A6]{restoration}</em> (2 charges), or <em>@UUID[Compendium.black-flag.spells.Item.qGHh25GoYwwQ13NO]{mass cure wounds}</em> (5 charges).</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.</p>",
+      "value": "<p>This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: <em>@UUID[Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip]{cure wounds}</em> (1 charge per spell circle, up to 4th), <em>@UUID[Compendium.black-flag-ru.spells.Item.Aqff6XGGmiVXo6A6]{restoration}</em> (2 charges), or <em>@UUID[Compendium.black-flag-ru.spells.Item.qGHh25GoYwwQ13NO]{mass cure wounds}</em> (5 charges).</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -305,7 +305,7 @@
     "rarity": "rare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Bard, Cleric, or Druid"
+      "requirement": "от Барда, Священника или Друида"
     },
     "container": null,
     "magicalBonus": null
@@ -319,7 +319,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590502567,
     "modifiedTime": 1756332324928,

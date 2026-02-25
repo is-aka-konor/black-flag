@@ -1,6 +1,6 @@
 {
   "folder": "NJ7MOfSV86dZsbEi",
-  "name": "Potion of Supreme Healing",
+  "name": "Зелье высшего исцеления",
   "type": "consumable",
   "_id": "vyY8fzQ1Y4bRg6mb",
   "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
@@ -8,7 +8,7 @@
     "activities": {
       "TitbpyALCEKXXPH5": {
         "type": "healing",
-        "description": "<p>You regain hit points when you drink this red, glimmering potion.</p>",
+        "description": "<p>Вы проводите за очками жизни, когда выпьете это красное мерцающее зелье.</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -81,7 +81,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "coreVersion": "13.347",
     "createdTime": 1703973203821,

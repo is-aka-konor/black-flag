@@ -1,6 +1,6 @@
 {
   "folder": "H5qfE7S5caUYRLdk",
-  "name": "Quick Strike",
+  "name": "Быстрый удар",
   "type": "feature",
   "img": "icons/skills/melee/strikes-sword-scimitar.webp",
   "system": {
@@ -26,7 +26,7 @@
       "sEt8mouIK4n9wpTZ": {
         "type": "utility",
         "_id": "sEt8mouIK4n9wpTZ",
-        "description": "<p>Make two attacks with a different light melee weapon that you’re holding in the other hand—instead of the one attack typically granted by two-weapon fighting. Don’t add your ability modifier to the damage of these additional attacks unless the modifier is negative.</p>",
+        "description": "<p>Совершите два удара, используя ближний страх, который вы держите в другой руке, вместо одного удара, который обычно используется в бою с двумя оружиями. Не добавляйте модификатор вашей способности к урону от дополнительных атак, если модификатор не отрицательный.</p>",
         "system": {},
         "activation": {
           "type": "bonus",
@@ -44,7 +44,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Strike",
+        "name": "Удар",
         "img": ""
       }
     },
@@ -59,7 +59,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1695231453247,

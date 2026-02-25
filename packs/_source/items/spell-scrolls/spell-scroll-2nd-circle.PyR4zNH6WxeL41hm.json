@@ -1,6 +1,6 @@
 {
   "folder": "U9U35Rfs9GqePNlM",
-  "name": "Spell Scroll (2nd Circle)",
+  "name": "Свиток заклинания (2-й круг)",
   "type": "consumable",
   "_id": "PyR4zNH6WxeL41hm",
   "img": "icons/sundries/scrolls/scroll-bound-blue-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "coreVersion": "13.347",
     "createdTime": 1707356478753,

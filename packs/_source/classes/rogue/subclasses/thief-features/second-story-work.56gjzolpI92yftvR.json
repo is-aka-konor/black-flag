@@ -1,6 +1,6 @@
 {
   "folder": "OGEfr5Be5pXnTgIL",
-  "name": "Second-Story Work",
+  "name": "Работа на втором этаже",
   "type": "feature",
   "_id": "56gjzolpI92yftvR",
   "img": "icons/environment/settlement/house-city.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700002820211,

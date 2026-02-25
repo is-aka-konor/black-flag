@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Mislead",
+  "name": "Вводить в заблуждение",
   "type": "spell",
   "_id": "jYwNDf7tUFg5S9cc",
   "img": "icons/environment/wilderness/statue-hound-horned.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.</p><p>You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.</p><p>You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.</p>",
       "source": {},
-      "short": "Make decoy, become invisible."
+      "short": "Сделайте приманку, станьте невидимкой."
     },
     "source": [
       "arcane"
@@ -121,7 +121,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.jYwNDf7tUFg5S9cc",
+      "origin": "Compendium.black-flag-ru.spells.Item.jYwNDf7tUFg5S9cc",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -132,7 +132,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Mislead",
+      "name": "Вводить в заблуждение",
       "img": "icons/environment/wilderness/statue-hound-horned.webp",
       "_id": "H2uFl1bV6FldoL5g",
       "type": "base",
@@ -150,7 +150,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1722987144512,
         "modifiedTime": 1722987208116,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919963246,
     "modifiedTime": 1723779704866,

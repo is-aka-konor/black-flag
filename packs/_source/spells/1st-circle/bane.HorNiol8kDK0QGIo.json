@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Bane",
+  "name": "Бэйн",
   "type": "spell",
   "_id": "HorNiol8kDK0QGIo",
   "img": "icons/magic/unholy/projectiles-binary-pink.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>Up to three creatures of your choice that you can see within range must succeed on a [[/save]] save or become cursed.</p><p>When a cursed target makes an attack roll or a save before the spell ends, the target must roll a [[/r d4]] and subtract the number rolled from the attack roll or save.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.</p>",
       "source": {},
-      "short": "Foes subtract d4 from rolls."
+      "short": "Враги вычитают d4 из бросков."
     },
     "type": {
       "value": "standard"
@@ -78,7 +78,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a drop of blood",
+        "description": "капля крови",
         "denomination": "pp",
         "consumed": false
       }
@@ -116,7 +116,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.HorNiol8kDK0QGIo",
+      "origin": "Compendium.black-flag-ru.spells.Item.HorNiol8kDK0QGIo",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -127,7 +127,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bane",
+      "name": "Бэйн",
       "_id": "Haf0C3lt2Dpfgd2x",
       "changes": [
         {
@@ -137,7 +137,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You make an attack roll or a save before the spell ends, you must roll a [[/r d4]] and subtract the number rolled from the attack roll or save.</p>",
+      "description": "<p>Вы делаете бросок атаки или спасбросок до окончания заклинания, вы должны бросить [[/r d4]] и вычесть выпавшее число из броска атаки или спасброска.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -166,7 +166,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932052775,

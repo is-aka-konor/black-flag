@@ -1,5 +1,5 @@
 {
-  "name": "Alms Box",
+  "name": "Ящик для милостыни",
   "type": "container",
   "_id": "Dp4SQx8jeZGsA0YN",
   "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1713285965622,

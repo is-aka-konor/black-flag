@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Eyes of the Maker",
+  "name": "Глаза Создателя",
   "type": "feature",
   "_id": "qJC5wgFXUlADNopd",
   "img": "icons/tools/scribal/spectacles-glasses.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127456185,

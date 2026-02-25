@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Sun Blade",
+  "name": "Солнечный Клинок",
   "type": "weapon",
   "img": "icons/commodities/treasure/sceptre-jeweled-gold.webp",
   "system": {
@@ -119,7 +119,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Ignite Blade",
+        "name": "Зажгите клинок",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -198,7 +198,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Damage vs. Undead",
+        "name": "Урон против нежити",
         "img": "",
         "visibility": {
           "requireIdentification": true,
@@ -281,7 +281,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590769146,
     "modifiedTime": 1756332708892,

@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Adhesive",
+  "name": "Клей",
   "type": "feature",
   "_id": "yoUiakYIVlo22q7J",
   "img": "icons/commodities/materials/material-cotton-white.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128659636,

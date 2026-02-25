@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Prayer of Healing",
+  "name": "Молитва об исцелении",
   "type": "spell",
   "_id": "EnwWlw6HgPLyogdd",
   "img": "icons/magic/life/heart-hand-gold-green-light.webp",
@@ -68,7 +68,7 @@
     "description": {
       "value": "<p>Up to six creatures of your choice that you can see within range each regain hit points equal to [[/healing]]{2d8 + your spellcasting ability modifier}. This spell has no effect on Constructs or Undead.</p><p>Once you cast this spell, you can’t do so again until you complete a long rest.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 2nd.</p>",
       "source": {},
-      "short": "Moderate heal to allies."
+      "short": "Умеренное лечение союзников."
     },
     "type": {
       "value": "standard"
@@ -128,7 +128,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1706997232407,

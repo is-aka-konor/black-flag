@@ -1,6 +1,6 @@
 {
   "folder": "qn9aEdgelNiRQN8Y",
-  "name": "Natural Weapons",
+  "name": "Натуральное оружие",
   "type": "feature",
   "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
   "system": {
@@ -71,7 +71,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Unarmed Strike",
+        "name": "Безоружный удар",
         "img": "",
         "target": {
           "affects": {
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.027",
     "coreVersion": "13.347",
     "createdTime": 1695490865976,

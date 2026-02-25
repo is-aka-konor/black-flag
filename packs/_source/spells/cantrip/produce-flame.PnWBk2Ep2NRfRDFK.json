@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Produce Flame",
+  "name": "Произвести пламя",
   "type": "spell",
   "_id": "PnWBk2Ep2NRfRDFK",
   "img": "icons/magic/fire/flame-burning-yellow-orange.webp",
@@ -99,7 +99,7 @@
     "description": {
       "value": "<p>A flickering flame appears in your hand. It remains for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.</p><p>You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes [[/damage]] damage.</p><p>This spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 fire]]{2d8}), 11th level ([[/damage 3d8 fire]]{3d8}), and 17th level ([[/damage 4d8 fire]]{4d8}).</p>",
       "source": {},
-      "short": "Fire for light or harm to target."
+      "short": "Огонь для освещения или повреждения цели."
     },
     "type": {
       "value": "standard"
@@ -159,7 +159,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997864135,

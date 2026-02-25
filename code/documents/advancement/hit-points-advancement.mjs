@@ -19,7 +19,7 @@ export default class HitPointsAdvancement extends Advancement {
 					value: HitPointsValueData
 				},
 				order: 10,
-				icon: "systems/black-flag/artwork/advancement/hit-points.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/hit-points.svg",
 				title: "BF.Advancement.HitPoints.Title",
 				hint: "BF.Advancement.HitPoints.Hint",
 				multiLevel: true,

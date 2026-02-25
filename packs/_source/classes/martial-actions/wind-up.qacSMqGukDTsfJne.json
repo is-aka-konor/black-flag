@@ -1,6 +1,6 @@
 {
   "folder": "H5qfE7S5caUYRLdk",
-  "name": "Wind Up",
+  "name": "Завершить",
   "type": "feature",
   "img": "icons/equipment/hand/gauntlet-simple-leather-steel.webp",
   "system": {
@@ -26,7 +26,7 @@
       "HkRd7iCvQjOcpD7K": {
         "type": "utility",
         "_id": "HkRd7iCvQjOcpD7K",
-        "description": "<p>Select one target you can see within 10 feet of you. If you hit that target with a melee weapon attack before the end of your turn, the first such attack deals extra damage equal to your PB (of the same damage type as the weapon).</p>",
+        "description": "<p>Выберите цель, которую вы сможете видеть на расстоянии 10 футов от себя. Если вы поразили этот цель рукопашной атакой в ​​конце вашего хода, первая атака нанесет такой дополнительный урон, равный вашему PB (того же типа урона, что и оружие).</p>",
         "system": {
           "roll": {
             "name": "",
@@ -75,7 +75,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.3.067",
     "coreVersion": "13.347",
     "createdTime": 1695231471268,

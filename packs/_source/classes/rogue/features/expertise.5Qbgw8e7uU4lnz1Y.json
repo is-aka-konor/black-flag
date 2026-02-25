@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Expertise",
+  "name": "Экспертиза",
   "type": "feature",
   "_id": "5Qbgw8e7uU4lnz1Y",
   "img": "icons/tools/hand/lockpicks-steel-grey.webp",
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1699045630380,

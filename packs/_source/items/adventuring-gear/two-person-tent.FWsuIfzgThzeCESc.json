@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Two-Person Tent",
+  "name": "Двухместная палатка",
   "type": "gear",
   "_id": "FWsuIfzgThzeCESc",
   "img": "icons/environment/settlement/tent.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363664723,

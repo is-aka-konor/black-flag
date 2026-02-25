@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Whispers of the Grave",
+  "name": "Шепот могилы",
   "type": "feature",
   "_id": "yYuZE1Qs4l9vVqr0",
   "img": "icons/magic/death/hand-withered-gray.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376885781,

@@ -43,7 +43,7 @@ export default class TurnMessageData extends ChatMessageDataModel {
 		foundry.utils.mergeObject(
 			super.metadata,
 			{
-				template: "systems/black-flag/templates/chat/turn-card.hbs"
+				template: "systems/black-flag-ru/templates/chat/turn-card.hbs"
 			},
 			{ inplace: false }
 		)

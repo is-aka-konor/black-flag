@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Collapsible",
+  "name": "Складной",
   "type": "feature",
   "_id": "wDdjlD0joAvtqDu7",
   "img": "icons/commodities/tech/metal-barrel.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128674553,

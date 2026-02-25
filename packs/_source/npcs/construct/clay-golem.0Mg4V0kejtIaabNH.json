@@ -1,9 +1,9 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Clay Golem",
+  "name": "Глиняный Голем",
   "type": "npc",
   "_id": "0Mg4V0kejtIaabNH",
-  "img": "systems/black-flag/artwork/tokens/golem-clay.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/golem-clay.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Clay Golem",
+    "name": "Глиняный Голем",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/golem-clay.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/golem-clay.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -288,7 +288,7 @@
           "value": null
         }
       },
-      "name": "Acid Absorption",
+      "name": "Поглощение кислоты",
       "type": "feature",
       "_id": "aGc1VqJx1r1kJvVB",
       "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
@@ -308,7 +308,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -356,7 +356,7 @@
           "value": null
         }
       },
-      "name": "Construct Nature",
+      "name": "Построить природу",
       "type": "feature",
       "_id": "WIOpn8hkY23IRTtc",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -372,7 +372,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gCywSogmFrzBXUYK",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -424,7 +424,7 @@
           "value": null
         }
       },
-      "name": "Fire Weakness",
+      "name": "Слабость к огню",
       "type": "feature",
       "_id": "6kR2WbmE9mOmepiN",
       "img": "icons/magic/fire/flame-burning-embers-yellow.webp",
@@ -444,7 +444,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -492,7 +492,7 @@
           "value": null
         }
       },
-      "name": "Immutable Form",
+      "name": "Неизменяемая форма",
       "type": "feature",
       "_id": "3WlYHwyIRW5uPFnV",
       "img": "icons/magic/unholy/hand-grasping-green.webp",
@@ -512,7 +512,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -522,7 +522,7 @@
       "_key": "!actors.items!0Mg4V0kejtIaabNH.3WlYHwyIRW5uPFnV"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "owWau8G58i2He2qs",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -576,7 +576,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -590,7 +590,7 @@
       "_key": "!actors.items!0Mg4V0kejtIaabNH.owWau8G58i2He2qs"
     },
     {
-      "name": "Magic Weapons",
+      "name": "Магическое оружие",
       "type": "feature",
       "_id": "OX0XO83WDBB71uGj",
       "img": "icons/weapons/swords/sword-runed-glowing.webp",
@@ -644,7 +644,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GZfR1oNDKJ9IdTtS",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -658,7 +658,7 @@
       "_key": "!actors.items!0Mg4V0kejtIaabNH.OX0XO83WDBB71uGj"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "lEh7sWSbmGy49d72",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -762,7 +762,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -840,7 +840,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -886,7 +886,7 @@
           "value": null
         }
       },
-      "name": "Haste",
+      "name": "Спешка",
       "type": "feature",
       "_id": "9Zws88HMfpOz261V",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -906,7 +906,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -973,7 +973,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1013,7 +1013,7 @@
           "value": null
         }
       },
-      "name": "Mold Hand",
+      "name": "Плесень для рук",
       "type": "feature",
       "_id": "qSWeJ6ocUo8ZgndG",
       "img": "icons/magic/unholy/hand-claw-fog-green.webp",
@@ -1033,7 +1033,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1081,7 +1081,7 @@
           "value": null
         }
       },
-      "name": "Golem Resilience",
+      "name": "Устойчивость голема",
       "type": "feature",
       "_id": "X4XnitONm6His4Oa",
       "img": "icons/magic/unholy/hand-grasping-green.webp",
@@ -1098,7 +1098,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Golem Resilience",
+          "name": "Устойчивость голема",
           "img": "icons/magic/unholy/hand-grasping-green.webp",
           "_id": "jplzOjuIy5e20vMw",
           "type": "base",
@@ -1187,7 +1187,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1208,7 +1208,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.CMb21L7M5wSvoFz7",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1222,7 +1222,7 @@
       "_key": "!actors.items!0Mg4V0kejtIaabNH.X4XnitONm6His4Oa"
     },
     {
-      "name": "Slam",
+      "name": "Хлопок",
       "type": "weapon",
       "_id": "fWa9LNNnyTats4Vt",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1290,7 +1290,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "",
@@ -1397,7 +1397,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1415,7 +1415,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], as determined by Mold Hand. The target must succeed on a [[/save str 16 format=long]] or suffer an effect based on the type of damage: knocked &amp;Reference[prone]{prone} (bludgeoning), pushed up to 10 feet away from the golem (piercing), or its speed is reduced by 10 feet until the end of its next turn (slashing).</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], as determined by Mold Hand. The target must succeed on a [[/save str 16 format=long]] or suffer an effect based on the type of damage: knocked &Reference[prone]{prone} (bludgeoning), pushed up to 10 feet away from the golem (piercing), or its speed is reduced by 10 feet until the end of its next turn (slashing).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1483,7 +1483,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926610,
         "modifiedTime": 1756751930008,
@@ -1501,7 +1501,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

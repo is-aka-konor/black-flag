@@ -1,5 +1,5 @@
 {
-  "name": "Dragon",
+  "name": "Дракон",
   "sorting": "a",
   "folder": null,
   "type": "Actor",
@@ -8,7 +8,7 @@
   "color": null,
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.019",
     "coreVersion": "12.331",
     "createdTime": 1709616553125,

@@ -52,16 +52,16 @@ export default class BasicRollConfigurationDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		formulas: {
-			template: "systems/black-flag/templates/dice/base-formulas.hbs"
+			template: "systems/black-flag-ru/templates/dice/base-formulas.hbs"
 		},
 		configuration: {
-			template: "systems/black-flag/templates/dice/base-configuration.hbs"
+			template: "systems/black-flag-ru/templates/dice/base-configuration.hbs"
 		},
 		notes: {
-			template: "systems/black-flag/templates/dice/base-roll-notes.hbs"
+			template: "systems/black-flag-ru/templates/dice/base-roll-notes.hbs"
 		},
 		buttons: {
-			template: "systems/black-flag/templates/dice/base-buttons.hbs"
+			template: "systems/black-flag-ru/templates/dice/base-buttons.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Heavy Crossbow",
+  "name": "Тяжелый арбалет",
   "type": "weapon",
   "_id": "Z8Wz5qUi16C36QQd",
   "img": "icons/weapons/crossbows/crossbow-golden-bolt.webp",
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024654379,

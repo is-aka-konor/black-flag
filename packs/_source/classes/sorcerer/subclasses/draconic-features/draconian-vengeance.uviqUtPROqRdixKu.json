@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Draconian Vengeance",
+  "name": "Драконовская месть",
   "type": "feature",
   "_id": "uviqUtPROqRdixKu",
   "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
@@ -70,7 +70,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Brand",
+        "name": "Бренд",
         "img": ""
       }
     },
@@ -112,7 +112,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718729452915,

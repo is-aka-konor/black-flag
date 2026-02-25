@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Curtain Call",
+  "name": "Вызов занавеса",
   "type": "feature",
   "_id": "NksyxvutwtlwReVY",
   "img": "icons/tools/instruments/drum-hand-tan.webp",
@@ -24,7 +24,7 @@
             },
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.PlRqmMB6VVPXaSGi",
+              "target": "Compendium.black-flag-ru.classes.Item.PlRqmMB6VVPXaSGi",
               "value": "-max(1, @abilities.charisma.mod)"
             }
           ],
@@ -63,7 +63,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Recover Inspiration",
+        "name": "Восстановить вдохновение",
         "img": ""
       }
     },
@@ -105,7 +105,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717558923174,

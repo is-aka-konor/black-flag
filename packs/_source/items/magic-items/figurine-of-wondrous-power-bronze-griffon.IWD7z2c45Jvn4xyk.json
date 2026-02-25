@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Figurine of Wondrous Power, Bronze Griffon",
+  "name": "Статуэтка Чудесной Силы, Бронзовый Грифон",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This bronze statuette is of a griffon rampant. It can become a <strong>@UUID[Compendium.black-flag.npcs.Actor.b6WyT2uZ2s0hH5EQ]{griffon}</strong> for up to 6 hours. Once it reverts, it can’t be used again until 5 days have passed.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>This bronze statuette is of a griffon rampant. It can become a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.b6WyT2uZ2s0hH5EQ]{griffon}</strong> for up to 6 hours. Once it reverts, it can’t be used again until 5 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -34,7 +34,7 @@
               "count": "",
               "name": "",
               "_id": "txWEEkHTRI8zOJr9",
-              "uuid": "Compendium.black-flag.npcs.Actor.b6WyT2uZ2s0hH5EQ",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.b6WyT2uZ2s0hH5EQ",
               "level": {
                 "min": null,
                 "max": null
@@ -102,7 +102,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Summon Creature",
+        "name": "Призвать существо",
         "img": "",
         "_id": "pGiexbFQ0XVzD0Kg",
         "visibility": {
@@ -147,7 +147,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984558384,
     "modifiedTime": 1756333819626,

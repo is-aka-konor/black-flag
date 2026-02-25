@@ -1,6 +1,6 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "Sturdy",
+  "name": "Крепкий",
   "type": "feature",
   "img": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp",
   "system": {
@@ -55,7 +55,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.027",
     "coreVersion": "13.347",
     "createdTime": 1695490996647,

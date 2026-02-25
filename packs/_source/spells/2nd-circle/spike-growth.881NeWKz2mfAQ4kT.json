@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Spike Growth",
+  "name": "Пиковый рост",
   "type": "spell",
   "_id": "881NeWKz2mfAQ4kT",
   "img": "icons/magic/nature/trap-spikes-thorns-green.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes [[/damage]] damage for every 5 feet it travels.</p><p>The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a [[/check WIS (Perception) dc=@spellcasting.dc]] check against your spell save DC to recognize the terrain as hazardous before entering it.</p>",
       "source": {},
-      "short": "Hidden ground deals piercing."
+      "short": "Скрытая земля наносит пирсинг."
     },
     "type": {
       "value": "standard"
@@ -106,7 +106,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "seven sharp thorns or seven sharpened twigs",
+        "description": "семь острых шипов или семь заостренных ветвей",
         "consumed": false,
         "denomination": "gp"
       }
@@ -149,7 +149,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997972095,

@@ -1,6 +1,6 @@
 {
   "folder": "yF4n6L4nZDOTaVMr",
-  "name": "Bulwark",
+  "name": "оплот",
   "type": "feature",
   "_id": "teCTYpFGLj7NUort",
   "img": "icons/skills/melee/shield-block-bash-yellow.webp",
@@ -19,7 +19,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.ARqJyLmMnVQDbw0S",
+              "target": "Compendium.black-flag-ru.classes.Item.ARqJyLmMnVQDbw0S",
               "value": "1"
             }
           ],
@@ -47,7 +47,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p><em>Requires a Shield</em></p><p>When you take damage from a spell or ability that requires a save, such as the @UUID[Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI]{fireball} spell, you can use your reaction to reduce the damage dealt to you by an amount equal to your AC. Psychic damage can't be reduced by this stunt.</p>",
+      "value": "<p><em>Requires a Shield</em></p><p>When you take damage from a spell or ability that requires a save, such as the @UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{fireball} spell, you can use your reaction to reduce the damage dealt to you by an amount equal to your AC. Psychic damage can't be reduced by this stunt.</p>",
       "source": {}
     },
     "restriction": {
@@ -71,7 +71,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715814511,

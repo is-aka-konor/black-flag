@@ -1,5 +1,5 @@
 {
-  "name": "Cottage",
+  "name": "Коттедж",
   "type": "heritage",
   "_id": "zVguHSReS4QGiydI",
   "img": "icons/environment/settlement/house-farmland-small.webp",
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.VvebtMb01hurrL2J"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.VvebtMb01hurrL2J"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.gf9BOd0EZXxzSbLc"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.gf9BOd0EZXxzSbLc"
             }
           ]
         },
@@ -53,10 +53,10 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.VvebtMb01hurrL2J inline]{Comforts of Home}</p><p>@Embed[Compendium.black-flag.heritages.Item.gf9BOd0EZXxzSbLc inline]{Homesteader}</p><p>@Embed[.Advancement.77WInvnTSQWABUBd inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.VvebtMb01hurrL2J inline]{Comforts of Home}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.gf9BOd0EZXxzSbLc inline]{Homesteader}</p><p>@Embed[.Advancement.77WInvnTSQWABUBd inline]{Languages}</p>",
       "source": {},
       "short": "",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "cottage"
@@ -70,7 +70,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716230029517,

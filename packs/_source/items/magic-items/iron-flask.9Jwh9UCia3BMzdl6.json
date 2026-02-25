@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Iron Flask",
+  "name": "Железная фляжка",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -82,7 +82,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Trap Creature",
+        "name": "Существо-ловушка",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -126,7 +126,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986340205,
     "modifiedTime": 1756334248838,

@@ -56,7 +56,7 @@ export default class ArmorData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Armor",
 				icon: "fa-solid fa-shield-halved",
-				img: "systems/black-flag/artwork/types/armor.svg"
+				img: "systems/black-flag-ru/artwork/types/armor.svg"
 			},
 			{ inplace: false }
 		)

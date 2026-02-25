@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Confusion",
+  "name": "Путаница",
   "type": "spell",
   "_id": "Bcm0RKcg5os0dDhC",
   "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
@@ -71,9 +71,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a [[/save]] save when you cast this spell or be affected by it.</p><p>An affected target can’t take reactions and must roll a [[/r d10]] at the start of each of its turns to determine its behavior for that turn.</p><p>At the end of each of its turns, an affected target can make a [[/save]] save, ending the effect on itself on a success.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the radius of the sphere increases by 5 feet for each slot above 4th.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.mYfdqSQjkPQRPEzw inline]</p>",
+      "value": "<p>This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a [[/save]] save when you cast this spell or be affected by it.</p><p>An affected target can’t take reactions and must roll a [[/r d10]] at the start of each of its turns to determine its behavior for that turn.</p><p>At the end of each of its turns, an affected target can make a [[/save]] save, ending the effect on itself on a success.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the radius of the sphere increases by 5 feet for each slot above 4th.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.mYfdqSQjkPQRPEzw inline]</p>",
       "source": {},
-      "short": "Targets act at random."
+      "short": "Цели действуют случайным образом."
     },
     "source": [
       "arcane",
@@ -99,7 +99,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "three nut shells"
+        "description": "три ореховые скорлупы"
       }
     },
     "duration": {
@@ -133,9 +133,9 @@
   },
   "effects": [
     {
-      "name": "Confusion",
+      "name": "Путаница",
       "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
-      "origin": "Compendium.black-flag.spells.Item.Bcm0RKcg5os0dDhC",
+      "origin": "Compendium.black-flag-ru.spells.Item.Bcm0RKcg5os0dDhC",
       "transfer": false,
       "_id": "abBn47L9LbIUHbxD",
       "type": "base",
@@ -151,7 +151,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You can’t take reactions and must roll a [[/r d10]] at the start of each of your turns to determine your behavior for that turn.</p><p>@Embed[Compendium.black-flag.tables.RollTable.9jJuPmkPOrFBfzu8 inline rollable]</p>",
+      "description": "<p>Вы не можете реагировать и должны бросать [[/r d10]] в начале каждого своего хода, чтобы определить свое поведение на этом ходу.</p><p>@Embed[Compendium.black-flag-ru.tables.RollTable.9jJuPmkPOrFBfzu8 inlinerollable]</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -160,7 +160,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723778391789,
         "modifiedTime": 1723778430946,
@@ -176,7 +176,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1720284831916,

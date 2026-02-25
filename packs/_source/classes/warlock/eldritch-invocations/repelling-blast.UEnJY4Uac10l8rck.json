@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Repelling Blast",
+  "name": "Отражающий взрыв",
   "type": "feature",
   "_id": "UEnJY4Uac10l8rck",
   "img": "icons/magic/light/beams-explosion-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376846475,

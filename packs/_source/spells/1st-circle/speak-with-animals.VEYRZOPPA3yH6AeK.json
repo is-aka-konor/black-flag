@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Speak with Animals",
+  "name": "Разговаривайте с животными",
   "type": "spell",
   "_id": "VEYRZOPPA3yH6AeK",
   "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>You gain the ability to understand and verbally communicate with Beasts and creatures with the Animal tag for the duration. The knowledge and awareness of such creatures are limited by their INT, but at minimum, targets can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a target to perform a small favor for you, at the GM’s discretion.</p>",
       "source": {},
-      "short": "Converse with Beasts."
+      "short": "Разговор со Зверями."
     },
     "type": {
       "value": "standard"
@@ -93,9 +93,9 @@
   },
   "effects": [
     {
-      "name": "Speak with Animals",
+      "name": "Разговаривайте с животными",
       "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
-      "origin": "Compendium.black-flag.spells.Item.VEYRZOPPA3yH6AeK",
+      "origin": "Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK",
       "transfer": false,
       "_id": "IT1GKZCYegDApapI",
       "type": "base",
@@ -120,7 +120,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723438085739,
         "modifiedTime": 1723438085739,
@@ -136,7 +136,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997928541,

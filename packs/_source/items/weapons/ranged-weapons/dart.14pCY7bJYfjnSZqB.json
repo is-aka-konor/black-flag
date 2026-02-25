@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Dart",
+  "name": "Дарт",
   "type": "weapon",
   "_id": "14pCY7bJYfjnSZqB",
   "img": "icons/weapons/thrown/dart-feathered.webp",
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024640738,

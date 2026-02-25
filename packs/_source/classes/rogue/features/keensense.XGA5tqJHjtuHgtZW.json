@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Keensense",
+  "name": "Кинсенс",
   "type": "feature",
   "_id": "XGA5tqJHjtuHgtZW",
   "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
@@ -63,7 +63,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715739856151,

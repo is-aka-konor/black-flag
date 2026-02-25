@@ -21,7 +21,7 @@ export default class TypeConfig extends BaseCustomConfigSheet {
 	static PARTS = {
 		config: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/type-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/type-config.hbs"
 		}
 	};
 

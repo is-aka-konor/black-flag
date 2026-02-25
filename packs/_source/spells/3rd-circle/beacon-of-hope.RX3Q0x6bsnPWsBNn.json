@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Beacon of Hope",
+  "name": "Маяк надежды",
   "type": "spell",
   "_id": "RX3Q0x6bsnPWsBNn",
   "img": "icons/magic/holy/chalice-glowing-gold.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on WIS saves and death saves, and regains the maximum number of hit points possible from any healing.</p>",
       "source": {},
-      "short": "Give advantage, maximize heals."
+      "short": "Дайте преимущество, максимизируйте лечение."
     },
     "type": {
       "value": "standard"
@@ -110,7 +110,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.RX3Q0x6bsnPWsBNn",
+      "origin": "Compendium.black-flag-ru.spells.Item.RX3Q0x6bsnPWsBNn",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -121,7 +121,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Beacon of Hope",
+      "name": "Маяк надежды",
       "_id": "2wRZ0tZ3SptsbP6Z",
       "changes": [
         {
@@ -131,7 +131,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Each target has advantage on WIS saves and death saves, and regains the maximum number of hit points possible from any healing.</p>",
+      "description": "<p>Каждая цель имеет преимущество в спасбросках WIS и спасбросках от смерти, а также восстанавливает максимально возможное количество очков жизни от любого исцеления.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -160,7 +160,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932279124,

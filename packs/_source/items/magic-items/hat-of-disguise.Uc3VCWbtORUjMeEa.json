@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Hat of Disguise",
+  "name": "Шляпа маскировки",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this hat, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC]{disguise self}</em> spell from it. The spell ends if the hat is removed.</p>",
+      "value": "<p>While wearing this hat, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC]{disguise self}</em> spell from it. The spell ends if the hat is removed.</p>",
       "source": {
         "fallback": ""
       }
@@ -25,7 +25,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC",
+            "uuid": "Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC",
             "challenge": {
               "attack": null,
               "save": null,
@@ -112,7 +112,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1724985714036,
     "modifiedTime": 1729531053215,

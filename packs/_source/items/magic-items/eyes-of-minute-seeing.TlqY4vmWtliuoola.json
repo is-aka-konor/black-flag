@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Eyes of Minute Seeing",
+  "name": "Глаза минутного видения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -42,8 +42,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Eyes of Minute Seeing",
-      "origin": "Compendium.black-flag.items.Item.TlqY4vmWtliuoola",
+      "name": "Глаза минутного видения",
+      "origin": "Compendium.black-flag-ru.items.Item.TlqY4vmWtliuoola",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -67,7 +67,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on INT (Investigation) checks that rely on sight while searching an area or studying an object within that range.</p>",
+      "description": "<p>Вы имеете преимущество в проверках INT (расследование), которые полагаются на зрение при обыске области или изучаемом объекте в этом отношении.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -77,7 +77,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728426775519,
         "modifiedTime": 1756335461098,
@@ -96,7 +96,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724984099854,
     "modifiedTime": 1730157311659,

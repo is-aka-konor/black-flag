@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Visions of Distant Realms",
+  "name": "Видения далеких миров",
   "type": "feature",
   "_id": "NJT95uCh76HdGsuO",
   "img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376880787,

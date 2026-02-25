@@ -16,7 +16,7 @@ export default class SiegeWeaponSheet extends BaseStatBlockSheet {
 		...super.PARTS,
 		main: {
 			...super.PARTS.main,
-			template: "systems/black-flag/templates/actor/tabs/siege-weapon-main.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/siege-weapon-main.hbs"
 		}
 	};
 

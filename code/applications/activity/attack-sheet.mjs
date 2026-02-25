@@ -15,17 +15,17 @@ export default class AttackSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		identity: {
-			template: "systems/black-flag/templates/activity/attack-identity.hbs",
-			templates: [...super.PARTS.identity.templates, "systems/black-flag/templates/activity/parts/attack-identity.hbs"]
+			template: "systems/black-flag-ru/templates/activity/attack-identity.hbs",
+			templates: [...super.PARTS.identity.templates, "systems/black-flag-ru/templates/activity/parts/attack-identity.hbs"]
 		},
 		effect: {
-			template: "systems/black-flag/templates/activity/attack-effect.hbs",
+			template: "systems/black-flag-ru/templates/activity/attack-effect.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-effects.hbs",
-				"systems/black-flag/templates/activity/parts/attack-damage.hbs",
-				"systems/black-flag/templates/activity/parts/attack-details.hbs",
-				"systems/black-flag/templates/activity/parts/damage-part.hbs",
-				"systems/black-flag/templates/activity/parts/damage-parts.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-effects.hbs",
+				"systems/black-flag-ru/templates/activity/parts/attack-damage.hbs",
+				"systems/black-flag-ru/templates/activity/parts/attack-details.hbs",
+				"systems/black-flag-ru/templates/activity/parts/damage-part.hbs",
+				"systems/black-flag-ru/templates/activity/parts/damage-parts.hbs"
 			]
 		}
 	};

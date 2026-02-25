@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of Fireballs",
+  "name": "Жезл огненных шаров",
   "system": {
     "type": {
       "category": "wand"
@@ -12,7 +12,7 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Spellcaster"
+      "requirement": "от заклинателя"
     },
     "description": {
       "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the fireball spell (save DC 15) from it. For 1 charge, you cast the 3rd‑circle version of the spell. You can increase the spell slot circle by one for each additional charge you expend.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
@@ -25,7 +25,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -130,7 +130,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071451080,
     "modifiedTime": 1735681539836,

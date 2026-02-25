@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Gloves of Swimming and Climbing",
+  "name": "Перчатки для плавания и скалолазания",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Gloves of Swimming and Climbing",
-      "origin": "Compendium.black-flag.items.Item.MuCiyp3bsLt3tf34",
+      "name": "Перчатки для плавания и скалолазания",
+      "origin": "Compendium.black-flag-ru.items.Item.MuCiyp3bsLt3tf34",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728594416066,
         "modifiedTime": 1756334051276,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724985195636,
     "modifiedTime": 1728594397045,

@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Chain Devil",
+  "name": "Цепной дьявол",
   "type": "npc",
   "_id": "oRKs6zIzuH0mO63T",
-  "img": "systems/black-flag/artwork/tokens/devil-chain.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/devil-chain.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -160,7 +160,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Chain Devil",
+    "name": "Цепной дьявол",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -168,7 +168,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/devil-chain.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/devil-chain.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -293,7 +293,7 @@
           "value": null
         }
       },
-      "name": "Devil’s Sight",
+      "name": "Взгляд Дьявола",
       "type": "feature",
       "img": "icons/magic/perception/eye-slit-red-orange.webp",
       "effects": [],
@@ -311,7 +311,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qaTYdbDMm8oAcpZT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -323,7 +323,7 @@
       "_key": "!actors.items!oRKs6zIzuH0mO63T.nnbJ0tJWjAD83GE3"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "X0Tc8RUyURNrBm0U",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -377,7 +377,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -391,7 +391,7 @@
       "_key": "!actors.items!oRKs6zIzuH0mO63T.X0Tc8RUyURNrBm0U"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "5dGakmWR2dgQhtVA",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -495,7 +495,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -579,7 +579,7 @@
               "min": "",
               "max": ""
             },
-            "name": "DEX Save",
+            "name": "Сохранить DEX",
             "img": "",
             "sort": 0
           },
@@ -643,7 +643,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Check",
+            "name": "Проверка СПО",
             "img": ""
           }
         },
@@ -656,7 +656,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chain devil commands chains it can see within 60 feet of it that aren’t being worn or carried to grab up to two creatures it can see within 10 feet of at least one commanded chain. Each creature must succeed on a [[/save format=long]] or be &amp;Reference[restrained]{restrained}. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 15 format=long]].</p><p>The devil can have up to two creatures restrained in this way at a time. If it uses this bonus action to restrain a third, the effect ends on one of the previous targets (the devil’s choice).</p>",
+          "value": "<p>The chain devil commands chains it can see within 60 feet of it that aren’t being worn or carried to grab up to two creatures it can see within 10 feet of at least one commanded chain. Each creature must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained}. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 15 format=long]].</p><p>The devil can have up to two creatures restrained in this way at a time. If it uses this bonus action to restrain a third, the effect ends on one of the previous targets (the devil’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -682,7 +682,7 @@
           "value": null
         }
       },
-      "name": "Animate Chains",
+      "name": "Анимированные цепи",
       "type": "feature",
       "_id": "LbJpkybPhpoK4fWf",
       "img": "icons/tools/fasteners/chain-steel-grey.webp",
@@ -702,7 +702,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -796,7 +796,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature’s departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its turn.</p>",
+          "value": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature’s departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -822,7 +822,7 @@
           "value": null
         }
       },
-      "name": "Unnerving Mask",
+      "name": "Нервирующая маска",
       "type": "feature",
       "_id": "fNYrh4FXU3Ld7ScQ",
       "img": "icons/magic/control/fear-fright-white.webp",
@@ -842,7 +842,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -890,7 +890,7 @@
           "value": null
         }
       },
-      "name": "Devilish Resilience",
+      "name": "Дьявольская стойкость",
       "type": "feature",
       "_id": "spt3ZWwKg76halC4",
       "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
@@ -907,7 +907,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Devilish Resilience",
+          "name": "Дьявольская стойкость",
           "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
           "_id": "uJ6N3XWMfDKvX9cK",
           "type": "base",
@@ -972,7 +972,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -993,7 +993,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.x1nZb854NRe24wtG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1094,7 +1094,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1177,7 +1177,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Subsequent Piercing Damage",
+            "name": "Последующие колющие повреждения",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1195,7 +1195,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 15). Until the grapple ends, the target is &amp;Reference[restrained]{restrained} and takes [[/damage 4d6 piercing average]] damage at the start of each of its turns, and the [[lookup @name lowercase]] can’t use the same Chain on another target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 15). Until the grapple ends, the target is &Reference[restrained]{restrained} and takes [[/damage 4d6 piercing average]] damage at the start of each of its turns, and the [[lookup @name lowercase]] can’t use the same Chain on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1248,7 +1248,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Chain",
+      "name": "Цепь",
       "type": "weapon",
       "_id": "MkdC762XDPUWEzNj",
       "img": "icons/tools/fasteners/chain-hook-grey.webp",
@@ -1269,7 +1269,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934515,
         "modifiedTime": 1756756075524,
@@ -1283,7 +1283,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

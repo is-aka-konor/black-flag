@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Necrotic Resistance",
+  "name": "Зелье некротической устойчивости",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "XKv63e4Ip2C13vkf"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/bottle-round-corked-pink.webp",
   "effects": [
     {
-      "name": "Necrotic Resistance",
+      "name": "Некротическая устойчивость",
       "img": "icons/consumables/potions/bottle-round-corked-pink.webp",
-      "origin": "Compendium.black-flag.items.Item.PO1QHt5Xf0OsSVJe",
+      "origin": "Compendium.black-flag-ru.items.Item.PO1QHt5Xf0OsSVJe",
       "transfer": false,
       "_id": "amObwseXeACrucYR",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539903763,
         "modifiedTime": 1729539977907,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073757944,
     "modifiedTime": 1735684935145,

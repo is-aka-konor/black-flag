@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Pearl of Power",
+  "name": "Жемчужина силы",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -13,7 +13,7 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Spellcaster"
+      "requirement": "от заклинателя"
     },
     "description": {
       "value": "<p>While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th circle or higher, the new slot is 3rd circle. Once you use the pearl, it can’t be used again until the next dawn.</p>",
@@ -100,7 +100,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Recover Slot",
+        "name": "Восстановить слот",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -147,7 +147,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986821441,
     "modifiedTime": 1756333111941,

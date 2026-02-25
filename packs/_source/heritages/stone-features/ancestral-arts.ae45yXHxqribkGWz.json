@@ -1,5 +1,5 @@
 {
-  "name": "Ancestral Arts",
+  "name": "Искусство предков",
   "type": "feature",
   "_id": "ae45yXHxqribkGWz",
   "img": "icons/commodities/treasure/totem-wooden-glowing-green.webp",
@@ -90,7 +90,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716230302701,

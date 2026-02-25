@@ -28,8 +28,8 @@ export default class JournalClassPageSheet extends JournalEntryPageHandlebarsShe
 		header: super.EDIT_PARTS.header,
 		config: {
 			classes: ["standard-form"],
-			template: "systems/black-flag/templates/journal/{type}-page-edit.hbs",
-			templates: ["systems/black-flag/templates/journal/parts/launch-text-editor-field.hbs"]
+			template: "systems/black-flag-ru/templates/journal/{type}-page-edit.hbs",
+			templates: ["systems/black-flag-ru/templates/journal/parts/launch-text-editor-field.hbs"]
 		}
 	};
 
@@ -39,7 +39,7 @@ export default class JournalClassPageSheet extends JournalEntryPageHandlebarsShe
 	static VIEW_PARTS = {
 		content: {
 			root: true,
-			template: "systems/black-flag/templates/journal/{type}-page-view.hbs"
+			template: "systems/black-flag-ru/templates/journal/{type}-page-view.hbs"
 		}
 	};
 

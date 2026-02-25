@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Androsphinx",
+  "name": "Андросфинкс",
   "type": "npc",
   "_id": "x0GMYLNpOmSzUC2w",
-  "img": "systems/black-flag/artwork/tokens/sphinx-androsphinx.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/sphinx-androsphinx.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -166,7 +166,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Androsphinx",
+    "name": "Андросфинкс",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -174,7 +174,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/sphinx-androsphinx.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/sphinx-androsphinx.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -305,7 +305,7 @@
           "value": null
         }
       },
-      "name": "Inscrutable",
+      "name": "Непостижимый",
       "type": "feature",
       "_id": "uQge5od0xwTbZB0h",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -321,7 +321,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.BbYvzTep6oj55CUk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -373,7 +373,7 @@
           "value": null
         }
       },
-      "name": "Magical Claws",
+      "name": "Волшебные когти",
       "type": "feature",
       "_id": "dHpGWtc747QnTBJC",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -393,7 +393,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -403,7 +403,7 @@
       "_key": "!actors.items!x0GMYLNpOmSzUC2w.dHpGWtc747QnTBJC"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "5iY6YaMk29ZTym4E",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -444,7 +444,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -455,7 +455,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -480,7 +480,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -506,7 +506,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -520,7 +520,7 @@
       "_key": "!actors.items!x0GMYLNpOmSzUC2w.5iY6YaMk29ZTym4E"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "OqXWv2joUX9gk0u0",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -624,7 +624,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -639,7 +639,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Command",
+      "name": "Команда",
       "type": "spell",
       "_id": "SSzIkkWEklp4Psf0",
       "img": "icons/magic/control/control-influence-puppet.webp",
@@ -681,7 +681,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -718,7 +718,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Creature obeys one-word order."
+          "short": "Существо подчиняется порядку из одного слова."
         },
         "circle": {
           "value": null,
@@ -782,9 +782,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.lkBDXbx2O78UA8gz",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.lkBDXbx2O78UA8gz",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -795,7 +795,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Detect Evil and Good",
+      "name": "Обнаружение зла и добра",
       "type": "spell",
       "_id": "oJQue5edTC3Gnhdp",
       "img": "icons/magic/symbols/rune-sigil-hook-white-red.webp",
@@ -863,7 +863,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Locate creature types nearby."
+          "short": "Найдите типы существ поблизости."
         },
         "circle": {
           "value": null,
@@ -932,9 +932,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.sJz2TidQi9dF5ClQ",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.sJz2TidQi9dF5ClQ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -945,7 +945,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Thaumaturgy",
+      "name": "Чудотворство",
       "type": "spell",
       "_id": "co5DGPHWq3nIrgGu",
       "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
@@ -1013,7 +1013,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless display of power."
+          "short": "Безобидное проявление силы."
         },
         "circle": {
           "value": null,
@@ -1074,9 +1074,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.J9zLZYHvTHwzB98C",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.J9zLZYHvTHwzB98C",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1087,7 +1087,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Dispel Magic",
+      "name": "Рассеять магию",
       "type": "spell",
       "_id": "6ls0e6ZirYC1nOfE",
       "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -1151,7 +1151,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1173,7 +1173,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Break an ongoing spell."
+          "short": "Прервите действующее заклинание."
         },
         "circle": {
           "value": null,
@@ -1242,9 +1242,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1255,7 +1255,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Restoration",
+      "name": "Реставрация",
       "type": "spell",
       "_id": "k0NAaf4Ne3aQnCa3",
       "img": "icons/magic/life/ankh-shadow-green.webp",
@@ -1392,7 +1392,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1410,11 +1410,11 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You touch a creature and can end one disease or one condition afflicting it. The condition can be &amp;Reference[blinded], &amp;Reference[deafened], &amp;Reference[paralyzed], or &amp;Reference[poisoned].</p>",
+          "value": "<p>You touch a creature and can end one disease or one condition afflicting it. The condition can be &Reference[blinded], &Reference[deafened], &Reference[paralyzed], or &Reference[poisoned].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Cure disease or condition on ally."
+          "short": "Вылечить болезнь или состояние союзника."
         },
         "source": [
           "divine",
@@ -1485,7 +1485,7 @@
         "compendiumSource": "Item.9vnmIluEGj14FPtd",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1496,7 +1496,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Tongues",
+      "name": "Языки",
       "type": "spell",
       "_id": "a5YahcaDPLsNBA4q",
       "img": "icons/creatures/abilities/mouth-teeth-human.webp",
@@ -1560,7 +1560,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1582,7 +1582,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Target understands all language."
+          "short": "Цель понимает весь язык."
         },
         "circle": {
           "value": null,
@@ -1601,7 +1601,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a small clay model of a ziggurat",
+            "description": "небольшая глиняная модель зиккурата",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1654,9 +1654,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.DC1j3Ur40T2ltktm",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.DC1j3Ur40T2ltktm",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1667,7 +1667,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Zone of Truth",
+      "name": "Зона Истины",
       "type": "spell",
       "_id": "OwPi2urFz3Fwv49z",
       "img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
@@ -1716,7 +1716,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1822,7 +1822,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Targets can’t lie."
+          "short": "Цели не могут лгать."
         },
         "circle": {
           "value": null,
@@ -1893,9 +1893,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.6PXublV5eymPa56L",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.6PXublV5eymPa56L",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1906,7 +1906,7 @@
     },
     {
       "folder": "tCxdqzClsLOnTgfE",
-      "name": "Freedom of Movement",
+      "name": "Свобода передвижения",
       "type": "spell",
       "_id": "rppAIY8sAjfD2z6t",
       "img": "icons/magic/movement/pinwheel-turning-blue.webp",
@@ -1970,7 +1970,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1992,7 +1992,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally can’t be slowed or hindered."
+          "short": "Союзника нельзя замедлить или затруднить."
         },
         "circle": {
           "value": null,
@@ -2011,7 +2011,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a leather strap, bound around the arm or a similar appendage",
+            "description": "кожаный ремешок, обвязанный вокруг руки или подобного придатка",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2047,7 +2047,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.ebGqTLYBFxSDf3g7",
+          "origin": "Compendium.black-flag-ru.spells.Item.ebGqTLYBFxSDf3g7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2058,7 +2058,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Freedom of Movement",
+          "name": "Свобода передвижения",
           "img": "icons/magic/movement/pinwheel-turning-blue.webp",
           "_id": "z0vvVF2g25tDE6YA",
           "type": "base",
@@ -2074,7 +2074,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2097,9 +2097,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.ebGqTLYBFxSDf3g7",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.ebGqTLYBFxSDf3g7",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2110,7 +2110,7 @@
     },
     {
       "folder": "rRg9we6fU3e9Hvu7",
-      "name": "Greater Restoration",
+      "name": "Великое восстановление",
       "type": "spell",
       "_id": "kPuvZVNWiLkdgKQp",
       "img": "icons/magic/life/ankh-gold-blue.webp",
@@ -2165,7 +2165,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/healing.svg",
+            "img": "systems/black-flag-ru/artwork/activities/healing.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -2296,7 +2296,7 @@
             "consumed": true,
             "cost": 100,
             "denomination": "gp",
-            "description": "diamond dust worth at least 100 gp, which the spell consumes"
+            "description": "алмазная пыль стоимостью не менее 100 зм, которую расходует заклинание"
           }
         },
         "duration": {
@@ -2342,9 +2342,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.ZTVg00JolCuPkOOX",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2355,7 +2355,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Heal",
+      "name": "Исцелить",
       "type": "spell",
       "_id": "XmEPoykFI5lCUYhE",
       "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -2419,7 +2419,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2441,7 +2441,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "A surge of positive energy washes through the creature that heals their wounds."
+          "short": "Прилив положительной энергии омывает существо, залечивая его раны."
         },
         "source": [
           "divine"
@@ -2512,7 +2512,7 @@
         "compendiumSource": "Item.o0vr8OSXiH6hUnve",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2528,7 +2528,7 @@
           "vh3Svy3BdFTStChq": {
             "type": "save",
             "_id": "vh3Svy3BdFTStChq",
-            "description": "<p>This deep roar rumbles through each target’s body, rattling it to its bones. Each target must succeed on a [[/save format=long]] or deal only half damage with weapon attacks that use STR or DEX for 1 minute.</p>",
+            "description": "<p>Этот глубокий рев пронзает тело каждой цели, сотрясая ее до костей. эта цель должна преуспеть в [[/save format=long]] или нанести только половину урона ударным оружием, используя STR или DEX, в течение 1 минуты.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -2592,15 +2592,15 @@
               "min": "",
               "max": ""
             },
-            "name": "Rumbling Roar",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "name": "Грохочущий рев",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 100000,
             "magical": false
           },
           "UQW5kX0GuLB3XJ1r": {
             "type": "save",
             "_id": "UQW5kX0GuLB3XJ1r",
-            "description": "<p>This shrill roar tugs at the self-preservation instincts within creatures. Each target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} for 1 minute. While frightened, a creature’s speed is 0. If a creature fails the save by 5 or more, it is also &Reference[paralyzed]{paralyzed} while frightened.</p>",
+            "description": "<p>Этот пронзительный рев пробуждает в существах активы самосохранения. Ваша цель должна добиться успеха на [[/save format=long]] или быть &Reference[испуганной]{frightened} в течение 1 минуты. Пока Существо напугано, скорость существует равна 0. Если Существо проваливает спасбросок на 5 или более, оно также &Reference[парализовано]{paralyzed}, пока напугано.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -2664,15 +2664,15 @@
               "min": "",
               "max": ""
             },
-            "name": "Terrifying Roar",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "name": "Ужасающий рев",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 300000,
             "magical": false
           },
           "ywY9HKOnZBanDedx": {
             "type": "save",
             "_id": "ywY9HKOnZBanDedx",
-            "description": "<p>This booming roar slams against the chosen creatures. Each target must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the sphinx, knocked &Reference[prone]{prone}, and &Reference[deafened]{deafened} for 1 minute.</p>",
+            "description": "<p>Этот оглушительный рев обрушивается на избранных существ. Каждый цель должен преуспеть в [[/save format=long]], иначе она оттолкнет на расстояние до 15 футов от сфинкса, ударит ногой &Reference[склоняет]{prone} и &Reference[оглушает]{deafened} на 1 минуту.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -2736,8 +2736,8 @@
               "min": "",
               "max": ""
             },
-            "name": "Thunderous Roar",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "name": "Громовой рев",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 400000,
             "magical": false
           },
@@ -2802,7 +2802,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Roar Area of Effect",
+            "name": "Область действия Рева",
             "img": "",
             "sort": 0
           }
@@ -2842,7 +2842,7 @@
           "value": null
         }
       },
-      "name": "Roar",
+      "name": "Рев",
       "type": "feature",
       "_id": "aEokbaj4yPGVZ8zg",
       "img": "icons/creatures/abilities/lion-roar-yellow.webp",
@@ -2862,7 +2862,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2932,7 +2932,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2972,7 +2972,7 @@
           "value": null
         }
       },
-      "name": "Teleport",
+      "name": "Телепортироваться",
       "type": "feature",
       "_id": "O7NQhUv7pxdQQm5T",
       "img": "icons/magic/control/silhouette-hold-change-blue.webp",
@@ -2992,7 +2992,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3059,7 +3059,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3099,7 +3099,7 @@
           "value": null
         }
       },
-      "name": "Cast a Spell",
+      "name": "Наложить заклинание",
       "type": "feature",
       "_id": "pSjiViQDtwLUQEAt",
       "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
@@ -3115,7 +3115,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1mfH5RDUtqGjmM0N",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3213,7 +3213,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Lacerating Swipe Legendary Action",
+            "name": "Разрывающий удар Легендарный экшен",
             "img": "",
             "sort": 0
           },
@@ -3289,7 +3289,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Subsequent Bleeding Wound HP Loss",
+            "name": "Последующая потеря HP из-за кровоточащей раны",
             "img": ""
           },
           "OX0F36D7kX9yRVI4": {
@@ -3354,7 +3354,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Medicine Check to Stanch Bleeding",
+            "name": "Лекарственный осмотр для остановки кровотечения",
             "img": ""
           }
         },
@@ -3393,7 +3393,7 @@
           "value": null
         }
       },
-      "name": "Lacerating Swipe (Costs 2 Actions)",
+      "name": "Разрывающий удар (стоит 2 действия)",
       "type": "feature",
       "_id": "CBXGiZnILjmbTr9e",
       "img": "icons/skills/wounds/injury-pain-body-orange.webp",
@@ -3413,7 +3413,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3423,7 +3423,7 @@
       "_key": "!actors.items!x0GMYLNpOmSzUC2w.CBXGiZnILjmbTr9e"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "y0poiAsmFCPvbwb5",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -3490,7 +3490,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -3600,7 +3600,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936144,
         "modifiedTime": 1756759360457,
@@ -3689,7 +3689,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": true,
             "sort": 0,
             "flags": {},
@@ -3758,7 +3758,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Arcane Bolt",
+      "name": "Чародейская стрела",
       "type": "weapon",
       "_id": "0GC1jxSQNN9qe5xI",
       "img": "icons/magic/light/projectile-smoke-blue-light.webp",
@@ -3775,7 +3775,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936144,
         "modifiedTime": 1756759367165,
@@ -3793,7 +3793,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

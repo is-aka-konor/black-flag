@@ -118,7 +118,7 @@ Hooks.once("setup", function () {
 		"core",
 		foundry.applications.sheets.RegionBehaviorConfig,
 		{
-			types: ["black-flag.difficultTerrain"]
+			types: ["black-flag-ru.difficultTerrain"]
 		}
 	);
 	foundry.applications.apps.DocumentSheetConfig.registerSheet(
@@ -127,7 +127,7 @@ Hooks.once("setup", function () {
 		applications.regionBehavior.DifficultTerrainConfig,
 		{
 			label: "BF.Sheet.Default.DifficultTerrain",
-			types: ["black-flag.difficultTerrain"],
+			types: ["black-flag-ru.difficultTerrain"],
 			makeDefault: true
 		}
 	);

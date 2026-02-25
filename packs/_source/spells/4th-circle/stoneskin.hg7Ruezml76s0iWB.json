@@ -1,5 +1,5 @@
 {
-  "name": "Stoneskin",
+  "name": "Каменная кожа",
   "type": "spell",
   "_id": "hg7Ruezml76s0iWB",
   "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -60,7 +60,7 @@
     "description": {
       "value": "<p>This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.</p>",
       "source": {},
-      "short": "Ally has resistance to weapon harm."
+      "short": "Союзник имеет сопротивление урону от оружия."
     },
     "source": [
       "primordial"
@@ -84,7 +84,7 @@
         "consumed": true,
         "cost": 100,
         "denomination": "gp",
-        "description": "diamond dust worth 100 gp, which the spell consumes"
+        "description": "алмазная пыль стоимостью 100 зм, которую расходует заклинание"
       }
     },
     "duration": {
@@ -115,9 +115,9 @@
   },
   "effects": [
     {
-      "name": "Stoneskin",
+      "name": "Каменная кожа",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
-      "origin": "Compendium.black-flag.spells.Item.hg7Ruezml76s0iWB",
+      "origin": "Compendium.black-flag-ru.spells.Item.hg7Ruezml76s0iWB",
       "transfer": false,
       "_id": "u5CILHzfDP3pcUcf",
       "type": "base",
@@ -152,7 +152,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have resistance to nonmagical bludgeoning, piercing, and slashing damage.</p>",
+      "description": "<p>У вас есть сопротивление немагическому дробящему, колющему и режущему урону.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -161,7 +161,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723438597709,
         "modifiedTime": 1723438636330,
@@ -178,7 +178,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718405578567,

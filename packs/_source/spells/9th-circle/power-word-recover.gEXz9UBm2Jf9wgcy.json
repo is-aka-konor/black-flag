@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Power Word Recover",
+  "name": "Восстановление слова силы",
   "type": "spell",
   "_id": "gEXz9UBm2Jf9wgcy",
   "img": "icons/magic/life/heart-area-circle-red-green.webp",
@@ -66,7 +66,7 @@
     "description": {
       "value": "<p>You utter a word of power that completely heals one creature you can see within range. The creature is restored to maximum hit points. In addition, any charmed, frightened, paralyzed, or stunned conditions affecting the target immediately end. This spell has no effect on Constructs or Undead.</p>",
       "source": {},
-      "short": "Fully heal an ally."
+      "short": "Полностью исцелить союзника."
     },
     "casting": {
       "value": null,
@@ -124,7 +124,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093275113,
     "modifiedTime": 1723156659282,

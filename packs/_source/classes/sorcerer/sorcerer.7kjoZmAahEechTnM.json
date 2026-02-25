@@ -1,6 +1,6 @@
 {
   "folder": "vbBU29batGMBtPlr",
-  "name": "Sorcerer",
+  "name": "Колдун",
   "type": "class",
   "_id": "7kjoZmAahEechTnM",
   "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
@@ -112,10 +112,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.U7TtFFdzkbVMNQ2D"
+              "uuid": "Compendium.black-flag-ru.classes.Item.U7TtFFdzkbVMNQ2D"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.WBsaw2vS771VHH7W"
+              "uuid": "Compendium.black-flag-ru.classes.Item.WBsaw2vS771VHH7W"
             }
           ],
           "enabled": true
@@ -132,7 +132,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.bpG4yELPtqRFMhUf"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bpG4yELPtqRFMhUf"
             }
           ],
           "enabled": true
@@ -149,7 +149,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ooTR4G65goUjcKgx"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ooTR4G65goUjcKgx"
             }
           ],
           "enabled": true
@@ -166,7 +166,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.8LqEG65hbbyy2v6I"
+              "uuid": "Compendium.black-flag-ru.classes.Item.8LqEG65hbbyy2v6I"
             }
           ],
           "enabled": true
@@ -183,7 +183,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.SqqHIzXRBGz9rCEy"
+              "uuid": "Compendium.black-flag-ru.classes.Item.SqqHIzXRBGz9rCEy"
             }
           ],
           "enabled": true
@@ -200,7 +200,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Wsv4lQxYZfgXGmNh"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Wsv4lQxYZfgXGmNh"
             }
           ],
           "enabled": true
@@ -493,7 +493,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.Zu15sMMg2KvxhA3e",
+              "key": "Compendium.black-flag-ru.items.Item.Zu15sMMg2KvxhA3e",
               "requiresProficiency": false,
               "_id": "3VWQvwiV1uAvNiwW",
               "group": "jv2QkSKydb1e3Lei",
@@ -502,7 +502,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.cUcIM6yesvDT51kY",
+              "key": "Compendium.black-flag-ru.items.Item.cUcIM6yesvDT51kY",
               "requiresProficiency": false,
               "_id": "QyPYxejPdtKzASaw",
               "group": "jv2QkSKydb1e3Lei",
@@ -527,7 +527,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.f32H3HCS3Gg19diW",
+              "key": "Compendium.black-flag-ru.items.Item.f32H3HCS3Gg19diW",
               "requiresProficiency": false,
               "_id": "q4i5OJPIzVp8UxBN",
               "group": "JZ1X9H91ahFt0gsv",
@@ -536,7 +536,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.rXNH5W4Jjfv2abRt",
+              "key": "Compendium.black-flag-ru.items.Item.rXNH5W4Jjfv2abRt",
               "requiresProficiency": false,
               "_id": "XLYoKEzfWVlm9MSE",
               "group": "JZ1X9H91ahFt0gsv",
@@ -552,7 +552,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "WSl4iowl9EdNqJXK",
               "group": "p7y8WSM48Mg6fjs6",
@@ -561,7 +561,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "nzpeUATcgQ2dG0KX",
               "group": "p7y8WSM48Mg6fjs6",
@@ -570,7 +570,7 @@
             {
               "type": "linked",
               "count": 2,
-              "key": "Compendium.black-flag.items.Item.3bEIZYDB4eMayC6k",
+              "key": "Compendium.black-flag-ru.items.Item.3bEIZYDB4eMayC6k",
               "requiresProficiency": false,
               "_id": "tQhvdAWXm9rUPiKd",
               "group": "",
@@ -591,8 +591,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Powerful casters who channel raw Arcane power from within.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.u38MsYCAzX5qHMuv"
+      "short": "Могущественные заклинатели, направляющие необузданную тайную силу изнутри.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.u38MsYCAzX5qHMuv"
     },
     "identifier": {
       "value": "sorcerer"
@@ -606,7 +606,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1718681700211,

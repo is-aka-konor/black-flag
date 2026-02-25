@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Eagle",
+  "name": "Орел",
   "type": "npc",
   "_id": "t6Hq3bNVZrkPPGxa",
-  "img": "systems/black-flag/artwork/tokens/eagle.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/eagle.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -146,7 +146,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Eagle",
+    "name": "Орел",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -154,7 +154,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/eagle.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/eagle.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -241,7 +241,7 @@
   },
   "items": [
     {
-      "name": "Heightened Sight",
+      "name": "Обостренное зрение",
       "type": "feature",
       "_id": "FsNUuFe9ztsByybo",
       "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
@@ -293,7 +293,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.C8UpUQHLWNlBu1FU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -375,7 +375,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Initial CON Save",
+            "name": "Начальное сохранение CON",
             "img": "",
             "sort": 0
           },
@@ -439,7 +439,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Suffocation Check",
+            "name": "Проверка удушья",
             "img": ""
           }
         },
@@ -478,7 +478,7 @@
           "value": null
         }
       },
-      "name": "Seabird",
+      "name": "Морская птица",
       "type": "feature",
       "_id": "jumBCWtMrjiGKtqZ",
       "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
@@ -498,7 +498,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -584,7 +584,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -653,7 +653,7 @@
         },
         "rarity": ""
       },
-      "name": "Talon",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "Xdh9Z8zc2n2JTBAU",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -670,7 +670,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935407,
         "modifiedTime": 1756749955493,
@@ -688,7 +688,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

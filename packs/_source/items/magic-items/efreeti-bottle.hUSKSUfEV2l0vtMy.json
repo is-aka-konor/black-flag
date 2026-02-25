@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Efreeti Bottle",
+  "name": "Бутылка Ифрити",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an <strong>@UUID[Compendium.black-flag.npcs.Actor.QhUdfEtDyVBgsWqJ]{efreeti}</strong> appears in an unoccupied space within 30 feet of you.</p><p>The first time the bottle is opened, the GM rolls to determine what happens.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.9vXqoGGYTCjCueU1 inline]</p>",
+      "value": "<p>This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.QhUdfEtDyVBgsWqJ]{efreeti}</strong> appears in an unoccupied space within 30 feet of you.</p><p>The first time the bottle is opened, the GM rolls to determine what happens.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.9vXqoGGYTCjCueU1 inline]</p>",
       "source": {
         "fallback": ""
       }
@@ -76,7 +76,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Stopper",
+        "name": "Удалить пробку",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -120,7 +120,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984064860,
     "modifiedTime": 1756335423779,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Strength",
+  "name": "Юнский камень силы",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>Your STR score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>Your STR score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Ioun Stone of Strength",
-      "origin": "Compendium.black-flag.items.Item.v31hfzUnee7fvmLA",
+      "name": "Юнский камень силы",
+      "origin": "Compendium.black-flag-ru.items.Item.v31hfzUnee7fvmLA",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729031528370,
         "modifiedTime": 1756334218991,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1724986282372,
     "modifiedTime": 1729031512156,

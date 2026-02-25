@@ -1,6 +1,6 @@
 {
   "folder": "RkwCXQpGwejwtQmy",
-  "name": "Prismatic Spray",
+  "name": "Призматический спрей",
   "_id": "VnHKM0LcPzoKppNa",
   "img": "icons/magic/light/beam-strike-orange.webp",
   "description": "",
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Red. The target takes [[/damage 10d6 fire]] damage on a failed save, or half as much damage on a successful one.",
+      "description": "Красный. Цель получает [[/damage 10d6 fire]] урона при провале или половину этого урона при успехе.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.uBSLnKMjllfHYXzv"
     },
@@ -53,7 +53,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Orange. The target takes [[/damage 10d6 acid]] damage on a failed save, or half as much damage on a successful one.",
+      "description": "Апельсин. Цель получает [[/damage 10d6 acid]] урона при провале или половину этого урона при успехе.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.9woXZgqEsbktojrJ"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Yellow. The target takes [[/damage 10d6 lightning]] damage on a failed save, or half as much damage on a successful one.",
+      "description": "Желтый. Цель получает [[/damage 10d6 lightning]] урона при провале или половину этого урона при успехе.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.ZrVoqUF8pnRheI3F"
     },
@@ -105,7 +105,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Green. The target takes [[/damage 10d6 poison]] damage on a failed save, or half as much damage on a successful one.",
+      "description": "Зеленый. Цель получает [[/damage 10d6 poison]] урона при провале или половину этого урона при успехе.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.nRtlaOyvhk6VsM4Q"
     },
@@ -131,7 +131,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Blue. The target takes [[/damage 10d6 cold]] damage on a failed save, or half as much damage on a successful one.",
+      "description": "Синий. Цель получает [[/damage 10d6 cold]] урона при провале или половину этого урона при успехе.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.XYpkspLwonfGf0Lo"
     },
@@ -157,7 +157,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Indigo. On a failed save, the target is restrained. It must then make a [[/save CON]] save at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the &amp;Reference[petrified] condition. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.",
+      "description": "Индиго. При неудачном спасброске цель удерживается. Затем он должен сделать спасбросок [[/save CON]] в конце каждого своего хода. Если он успешно спасается три раза, заклинание заканчивается. Если он трижды проваливает спасбросок, он навсегда превращается в камень и сохраняется состояние &Reference[окаменело].Успехи и неудачи не обязательно должны быть последовательными; Следуйте за обоями, пока цель не соберет три одинаковых.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.HsKse9ApYbGQTkvG"
     },
@@ -183,7 +183,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Violet. On a failed save, the target is &amp;Reference[blinded]. It must then make a [[/save WIS]] save at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM’s choosing and is no longer blinded. Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.",
+      "description": "Фиолетовый. При неудачном сохранении Целью является &Reference[ослепленный]. Затем он должен сделать спасбросок [[/save WIS]] в начале следующего хода. Успешный спасбросок прекращает слепоту.Обычно Существо, находящееся на планете, отличном от своего дома, изгоняется домой, в то время как другие существа обычно отправляются на Астральный или Эфирный планы.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.uCGDRdQIQae1MSlx"
     },
@@ -209,7 +209,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Special. The target is struck by two rays. Roll twice more, rerolling any 8.",
+      "description": "Особенный. Цель поражается двумя лучами. Бросайте еще два раза, перебрасывая любые 8.",
       "name": "",
       "_key": "!tables.results!VnHKM0LcPzoKppNa.ETZ6Dum7t2jNQoIp"
     }
@@ -224,7 +224,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723156847463,
     "modifiedTime": 1723157140450,

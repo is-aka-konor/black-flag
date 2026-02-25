@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Crab",
+  "name": "Гигантский краб",
   "type": "npc",
   "_id": "cgnLl6eA2TXlpDWA",
-  "img": "systems/black-flag/artwork/tokens/crab.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/crab.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Crab",
+    "name": "Гигантский краб",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/crab.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/crab.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -258,7 +258,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "NqcKfmjBr5t0JUEH",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -312,7 +312,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -434,7 +434,7 @@
           "value": null
         }
       },
-      "name": "Pincer Pinch",
+      "name": "Клещи Пинч",
       "type": "feature",
       "_id": "X955WiCaddatohAo",
       "img": "icons/commodities/claws/claw-pincer-pink.webp",
@@ -454,7 +454,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -558,7 +558,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 12). The crab has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 12). The crab has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -608,7 +608,7 @@
         },
         "rarity": ""
       },
-      "name": "Pincer",
+      "name": "Клещи",
       "type": "weapon",
       "_id": "FtodPuAvSEfh8O9b",
       "img": "icons/creatures/claws/pincer-crab-brown.webp",
@@ -629,7 +629,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933272,
         "modifiedTime": 1756750112546,
@@ -643,7 +643,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,6 +1,6 @@
 {
   "folder": "9wNf4h5hxBJVdfHn",
-  "name": "Tactical Caster",
+  "name": "Тактический заклинатель",
   "type": "feature",
   "_id": "zOUQ7p0izLL8mKzB",
   "img": "icons/magic/fire/explosion-flame-blue.webp",
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700002864339,

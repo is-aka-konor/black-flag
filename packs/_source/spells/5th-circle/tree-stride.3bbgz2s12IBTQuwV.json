@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Tree Stride",
+  "name": "Древесный шаг",
   "type": "spell",
   "_id": "3bbgz2s12IBTQuwV",
   "img": "icons/environment/wilderness/tree-ash.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you’re in. You appear in a space of your choice within 5 feet of the destination tree using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.</p><p>You can use this transportation ability once per round for the duration. You must end each turn outside a tree.</p>",
       "source": {},
-      "short": "Teleport 500 feet using trees."
+      "short": "Телепортируйтесь на 500 футов, используя деревья."
     },
     "casting": {
       "value": null,
@@ -116,7 +116,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527852004,
     "modifiedTime": 1723577909911,

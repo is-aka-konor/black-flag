@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Eldritch Blast",
+  "name": "Жуткий взрыв",
   "type": "feature",
   "_id": "PHd9fAfpHIHOYso2",
   "img": "icons/magic/light/projectiles-salvo-blue.webp",
@@ -147,7 +147,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719375662995,

@@ -1,10 +1,10 @@
 {
-  "name": "Character Creation & Leveling",
+  "name": "Создание и прокачка персонажа",
   "_id": "k4RMFht4hY7ojcmF",
   "pages": [
     {
       "sort": 0,
-      "name": "Character Creation",
+      "name": "Создание персонажа",
       "type": "text",
       "_id": "vUn949CEEFzWc22W",
       "title": {
@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Choose a Class</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MDQq8VY4xepiqXM3 inline]</p><h3>Determine Ability Scores</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gn2VZtusu5gWWNIk inline]</p><h3>Choose a Lineage</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mM2yTavu4qLJVPL7 inline]</p><h3>Choose a Heritage</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.78flh62vhvTJG3Xd inline]</p><h3>Choose a Background</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MNeN6RvivQu25UaP inline]</p><h3>Starting Equipment</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.cT6scAV8HOgsMb9M inline]</p>"
+        "content": "<h3>Выберите класс</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MDQq8VY4xepiqXM3 inline]</p><h3>Определить способности Результаты</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gn2VZtusu5gWWNIk inline]</p><h3>Выберите Lineage</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mM2yTavu4qLJVPL7 inline]</p><h3>Выберите Heritage</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.78flh62vhvTJG3Xd inline]</p><h3>Выберите фон</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MNeN6RvivQu25UaP inline]</p><h3>Starting Оборудование</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.cT6scAV8HOgsMb9M встроенный]</p>"
       },
       "video": {
         "controls": true,
@@ -27,7 +27,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1700344550308,
@@ -41,7 +41,7 @@
     },
     {
       "sort": 100000,
-      "name": "Leveling Up",
+      "name": "Повышение уровня",
       "type": "text",
       "_id": "JdTMIEHaXriJpgs2",
       "title": {
@@ -51,7 +51,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Characters start at 1st level and can advance up to 20th level by gaining experience points (XP) during their adventures. By default, PCs start with 0 XP.</p><p>When your PC gains a new level, you gain access to the benefits listed in the progression table for your class at the new level. You also gain 1 hit die and more hit points. Regardless of which class you choose when you gain a level, your combined total levels in all classes is known as your character level.</p><p>To calculate these new hit points, roll the new hit die, add your CON modifier to the roll, and add the total to your total hit points. If you don’t want to roll, you can use the average hit die value (listed in each class description) plus your CON modifier.</p><h3>Leveling Methods</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.YBcNxwaBCmBRkVrf inline]</p><h3>Optional Rule: Multiclassing</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hBkAiCbjUf6wYVvH inline]</p>",
+        "content": "<p>Персонажи начинаются с 1-го уровня и могут подняться до 20-го уровня, получая очки опыта (XP) во время своих приключений.По умолчанию начинается с 0 XP.</p><p> Когда ваш компьютер получает новый уровень, вы постоянно получаете доступ к преимуществам компьютера, что приводит к таблице прогресса для вашего класса на новом уровне. Вы также реализовали 1 кубик и больше очков жизни. Независимо от того, какой класс вы выбираете при получении уровней, ваш общий процент уровней во всех классах называется уровнем вашего персонажа.чки жизни, бросьте новый блок кубика, свой модификатор ВЫН к броску и прибавьте сумму к общему количеству очков жизни.Если вы не хотите делать бросок, вы можете использовать среднее значение восстановления кубика (указано в описании каждого класса) плюс модификатор ВЫН.</p><h3>Вы выравнивание Методы</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.YBcNxwaBCmBRkVrf inline]</p><h3>Необязательное правило: Мультиклассирование</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hBkAiCbjUf6wYVvH встроенный]</p>",
         "markdown": ""
       },
       "video": {
@@ -65,7 +65,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1716515535428,
@@ -85,7 +85,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716515309060,

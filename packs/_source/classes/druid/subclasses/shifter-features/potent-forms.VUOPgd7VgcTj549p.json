@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Potent Forms",
+  "name": "Мощные формы",
   "type": "feature",
   "_id": "VUOPgd7VgcTj549p",
   "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -55,7 +55,7 @@
       }
     },
     "description": {
-      "value": "<p>You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form, and you use the hit points of the creature when you use Beast Form, not the <strong>Hit Points by Form Size</strong> table.</p><p>In addition, you can now speak any language you know while in beast form—even if your chosen form would not typically allow you to do so. However, you still can’t cast spells while transformed, even if a spell requires only a verbal component.</p><p>At higher druid levels, you can choose beast forms with a CR as high as your druid level divided by 3, rounded down (ignoring CR limitations in your Improved Beast Form feature). For example, upon achieving 6th level of druid, you can choose any Beast of CR 2 or lower as a known form, CR 3 or lower at 9th level, and so on—as shown in the <strong>Potent Forms</strong> table.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.zM0O3wkTY8E4dpzq inline]</p>",
+      "value": "<p>You can select more powerful creatures for the known forms used with the Beast Form effect of your Wild Shape feature. When you gain this feature, you can choose any Beast or creature with the Animal tag with a CR of 1 or lower as a known form, and you use the hit points of the creature when you use Beast Form, not the <strong>Hit Points by Form Size</strong> table.</p><p>In addition, you can now speak any language you know while in beast form—even if your chosen form would not typically allow you to do so. However, you still can’t cast spells while transformed, even if a spell requires only a verbal component.</p><p>At higher druid levels, you can choose beast forms with a CR as high as your druid level divided by 3, rounded down (ignoring CR limitations in your Improved Beast Form feature). For example, upon achieving 6th level of druid, you can choose any Beast of CR 2 or lower as a known form, CR 3 or lower at 9th level, and so on—as shown in the <strong>Potent Forms</strong> table.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.zM0O3wkTY8E4dpzq inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -84,7 +84,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717790965803,

@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Eldritch Spear",
+  "name": "Жуткое копье",
   "type": "feature",
   "_id": "QF0HmO3A1BYiOQz7",
   "img": "icons/magic/light/beam-horizon-strike-yellow.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376543220,

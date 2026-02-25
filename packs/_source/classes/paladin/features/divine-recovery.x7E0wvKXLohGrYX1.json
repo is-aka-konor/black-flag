@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Divine Recovery",
+  "name": "Божественное восстановление",
   "type": "feature",
   "_id": "x7E0wvKXLohGrYX1",
   "img": "icons/magic/life/heart-cross-strong-flame-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718399764279,

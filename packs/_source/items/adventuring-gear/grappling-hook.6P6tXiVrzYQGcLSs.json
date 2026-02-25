@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Grappling Hook",
+  "name": "Абордажный крюк",
   "type": "gear",
   "_id": "6P6tXiVrzYQGcLSs",
   "img": "icons/tools/fishing/hook-multi-steel-brown.webp",
@@ -45,7 +45,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722101196440,
     "modifiedTime": 1722101246597,

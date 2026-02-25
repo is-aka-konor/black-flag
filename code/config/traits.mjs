@@ -29,7 +29,7 @@ export const traits = {
 			title: "BF.Armor.Label[other]",
 			localization: "BF.Armor.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/armor.svg",
+		icon: "systems/black-flag-ru/artwork/traits/armor.svg",
 		type: "proficiency",
 		sortCategories: false
 	},
@@ -38,7 +38,7 @@ export const traits = {
 			title: "BF.WEAPON.Label[other]",
 			localization: "BF.WEAPON.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/weapons.svg",
+		icon: "systems/black-flag-ru/artwork/traits/weapons.svg",
 		type: "proficiency",
 		sortCategories: false
 	},
@@ -47,7 +47,7 @@ export const traits = {
 			title: "BF.Tool.Label[other]",
 			localization: "BF.Tool.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/tools.svg",
+		icon: "systems/black-flag-ru/artwork/traits/tools.svg",
 		type: "proficiency",
 		expertise: true,
 		format: "complex"
@@ -57,7 +57,7 @@ export const traits = {
 			title: "BF.VEHICLE.Label[other]",
 			localization: "BF.VEHICLE.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/vehicles.svg",
+		icon: "systems/black-flag-ru/artwork/traits/vehicles.svg",
 		type: "proficiency",
 		expertise: true,
 		format: "complex"
@@ -68,7 +68,7 @@ export const traits = {
 			localization: "BF.Ability.Label"
 		},
 		localization: "BF.SavingThrow.LabelLong",
-		icon: "systems/black-flag/artwork/traits/saves.svg",
+		icon: "systems/black-flag-ru/artwork/traits/saves.svg",
 		type: "proficiency",
 		format: "complex",
 		labelKeyPath: "labels.full",
@@ -80,7 +80,7 @@ export const traits = {
 			title: "BF.Skill.Label[other]",
 			localization: "BF.Skill.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/skills.svg",
+		icon: "systems/black-flag-ru/artwork/traits/skills.svg",
 		type: "proficiency",
 		expertise: true,
 		format: "complex"
@@ -91,7 +91,7 @@ export const traits = {
 			title: "BF.Language.Label[other]",
 			localization: "BF.Language.Label"
 		},
-		icon: "systems/black-flag/artwork/traits/languages.svg",
+		icon: "systems/black-flag-ru/artwork/traits/languages.svg",
 		type: "proficiency",
 		sortCategories: false
 	}

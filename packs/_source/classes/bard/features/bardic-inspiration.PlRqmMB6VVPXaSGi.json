@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Bardic Inspiration",
+  "name": "Бардское вдохновение",
   "type": "feature",
   "_id": "PlRqmMB6VVPXaSGi",
   "img": "icons/magic/light/explosion-star-glow-purple.webp",
@@ -67,7 +67,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Grant Inspiration",
+        "name": "Грант вдохновения",
         "img": ""
       }
     },
@@ -173,7 +173,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717558627916,

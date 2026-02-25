@@ -95,17 +95,17 @@ export const abilityAssignment = {
 		rolling: {
 			label: "BF.AbilityAssignment.Method.Rolling.Label",
 			hint: "BF.AbilityAssignment.Method.Rolling.Hint",
-			icon: "systems/black-flag/artwork/interface/ability-assignment-rolling.svg"
+			icon: "systems/black-flag-ru/artwork/interface/ability-assignment-rolling.svg"
 		},
 		"point-buy": {
 			label: "BF.AbilityAssignment.Method.PointBuy.Label",
 			hint: "BF.AbilityAssignment.Method.PointBuy.Hint",
-			icon: "systems/black-flag/artwork/interface/ability-assignment-point-buy.svg"
+			icon: "systems/black-flag-ru/artwork/interface/ability-assignment-point-buy.svg"
 		},
 		"standard-array": {
 			label: "BF.AbilityAssignment.Method.StandardArray.Label",
 			hint: "BF.AbilityAssignment.Method.StandardArray.Hint",
-			icon: "systems/black-flag/artwork/interface/ability-assignment-standard-array.svg"
+			icon: "systems/black-flag-ru/artwork/interface/ability-assignment-standard-array.svg"
 		}
 	},
 	rolling: {

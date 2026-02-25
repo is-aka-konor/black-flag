@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Detect Poison and Disease",
+  "name": "Обнаружение ядов и болезней",
   "type": "spell",
   "_id": "fJRDxf6O1Qd6vSZE",
   "img": "icons/magic/acid/orb-bubble-smoke-drip.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>For the duration, you can sense the presence and location of poisons and diseases within 30 feet of you. This spell also detects the presence of creatures affected by an ongoing poison or disease, creatures that deal poison damage, and creatures that can infect other creatures with a disease, such as ghouls and mummies. You also identify the kind of poison, creature, or disease in each case.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
       "source": {},
-      "short": "Sense nearby poison, disease."
+      "short": "Ощутить поблизости яд, болезнь."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a dried snake rattle",
+        "description": "сушеная змеиная погремушка",
         "denomination": "pp",
         "consumed": false
       }
@@ -102,9 +102,9 @@
   },
   "effects": [
     {
-      "name": "Detect Poison and Disease",
+      "name": "Обнаружение ядов и болезней",
       "img": "icons/magic/acid/orb-bubble-smoke-drip.webp",
-      "origin": "Compendium.black-flag.spells.Item.fJRDxf6O1Qd6vSZE",
+      "origin": "Compendium.black-flag-ru.spells.Item.fJRDxf6O1Qd6vSZE",
       "transfer": false,
       "_id": "Sh9fuy3au23te5H6",
       "type": "base",
@@ -120,7 +120,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You can sense the presence and location of poisons and diseases within 30 feet of you. This spell also detects the presence of creatures affected by an ongoing poison or disease, creatures that deal poison damage, and creatures that can infect other creatures with a disease, such as ghouls and mummies. You also identify the kind of poison, creature, or disease in each case.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "description": "<p>Вы можете ощущать присутствие и расположение ядов и болезней в пределах 30 футов от себя. Это заклинание также обнаруживает присутствие существ, находящихся под действием продолжающегося яда или болезни, существ, наносящих урон ядом, и существ, которые могут заразить других существ болезнью, например гулей и мумий.Вы также определяете тип яда, существа или болезни в каждом случае.</p><p>Заклинание может проникнуть через большинство барьеров, но оно блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -129,7 +129,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723605500172,
         "modifiedTime": 1723605506246,
@@ -145,7 +145,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706996960018,

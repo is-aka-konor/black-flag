@@ -33,7 +33,7 @@ export default class LineageData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Lineage",
 				icon: "fa-solid fa-globe",
-				img: "systems/black-flag/artwork/types/lineage.svg",
+				img: "systems/black-flag-ru/artwork/types/lineage.svg",
 				accentColor: "#00aa00",
 				hasEffects: false,
 				register: true

@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Wind Walk",
+  "name": "Ветер Прогулка",
   "type": "spell",
   "_id": "eXevf5sdtGjBdgQG",
   "img": "icons/magic/air/wind-weather-snow-gusts.webp",
@@ -61,7 +61,7 @@
     "description": {
       "value": "<p>You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical attacks. The only actions a creature can take in this form are the Dash action or to revert to its normal form.</p><p>Reverting takes 1 minute, during which time a creature is incapacitated and can’t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.</p><p>If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, the creature falls the remaining distance.</p>",
       "source": {},
-      "short": "Allies become fast clouds."
+      "short": "Союзники превращаются в быстрые облака."
     },
     "casting": {
       "value": null,
@@ -82,7 +82,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "fire and rainwater"
+        "description": "огонь и дождевая вода"
       }
     },
     "duration": {
@@ -116,9 +116,9 @@
   },
   "effects": [
     {
-      "name": "Wind Walk",
+      "name": "Ветер Прогулка",
       "img": "icons/magic/air/wind-weather-snow-gusts.webp",
-      "origin": "Compendium.black-flag.spells.Item.eXevf5sdtGjBdgQG",
+      "origin": "Compendium.black-flag-ru.spells.Item.eXevf5sdtGjBdgQG",
       "transfer": false,
       "_id": "DAwVrXEoxFZY5mea",
       "type": "base",
@@ -141,7 +141,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have a flying speed of 300 feet and have resistance to damage from nonmagical attacks. The only actions you can take in this form are the Dash action or to revert to your normal form.</p>",
+      "description": "<p>Вы имеете скорость полета 300 футов и сопротивление урону от немагических атак. Единственные действия, которые вы можете предпринять в этой форме, — это действие «Рывок» или возврат к нормальной форме.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -150,7 +150,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723604085659,
         "modifiedTime": 1723604147054,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723528316102,
     "modifiedTime": 1723604085688,

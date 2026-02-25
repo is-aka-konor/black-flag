@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Lightning Resistance",
+  "name": "Кольцо сопротивления молнии",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Lightning Resistance",
-      "origin": "Compendium.black-flag.items.Item.Ucv2myuf3TR6we4a",
+      "name": "Сопротивление молнии",
+      "origin": "Compendium.black-flag-ru.items.Item.Ucv2myuf3TR6we4a",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -69,7 +69,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to lightning damage while wearing this ring.</p>",
+      "description": "<p>Пока вы носите это кольцо, вы продолжаете удерживать урон от застежки.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -79,7 +79,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729890364524,
         "modifiedTime": 1756333296897,
@@ -98,7 +98,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724987133730,
     "modifiedTime": 1729889923910,

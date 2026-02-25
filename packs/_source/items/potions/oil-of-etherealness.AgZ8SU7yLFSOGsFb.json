@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Oil of Etherealness",
+  "name": "Масло эфирности",
   "system": {
     "type": {
       "category": "potion"
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the <em>@UUID[Compendium.black-flag.spells.Item.oTs4HWDpPWNNEdqv]{etherealness}</em> spell for 1 hour.</p>",
+      "value": "<p>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.oTs4HWDpPWNNEdqv]{etherealness}</em> spell for 1 hour.</p>",
       "source": {}
     },
     "properties": [
@@ -23,7 +23,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.oTs4HWDpPWNNEdqv",
+            "uuid": "Compendium.black-flag-ru.spells.Item.oTs4HWDpPWNNEdqv",
             "challenge": {
               "attack": null,
               "save": null,
@@ -121,7 +121,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729533727842,
     "modifiedTime": 1729533847749,

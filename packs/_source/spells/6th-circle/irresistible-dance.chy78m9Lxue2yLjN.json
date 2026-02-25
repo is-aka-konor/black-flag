@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Irresistible Dance",
+  "name": "Неотразимый танец",
   "type": "spell",
   "_id": "chy78m9Lxue2yLjN",
   "img": "icons/tools/instruments/bell-brass-brown.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be charmed are immune to this spell.</p><p>A dancing creature must use all its movement to dance without leaving its space and has disadvantage on DEX saves and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature can make a [[/save]] save to regain control of itself. On a successful save, the spell ends.</p>",
       "source": {},
-      "short": "Foe dances uncontrollably."
+      "short": "Враг бесконтрольно танцует."
     },
     "source": [
       "arcane",
@@ -128,7 +128,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.chy78m9Lxue2yLjN",
+      "origin": "Compendium.black-flag-ru.spells.Item.chy78m9Lxue2yLjN",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -139,7 +139,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Irresistible Dance",
+      "name": "Неотразимый танец",
       "img": "icons/tools/instruments/bell-brass-brown.webp",
       "_id": "dypUwWNOn1jzXEcp",
       "type": "base",
@@ -152,7 +152,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You must use all your movement to dance without leaving your space and have disadvantage on DEX saves and attack rolls. While you are affected by this spell, other creatures have advantage on attack rolls against you.</p>",
+      "description": "<p>Вы должны использовать все свои движения, чтобы танцевать, не покидая своего пространства, и иметь недостаток в спасбросках ЛВК и бросках атаки. Пока на вас действует это заклинание, другие существа имеют преимущество при бросках атаки против вас.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -162,7 +162,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722833663468,
         "modifiedTime": 1722833769347,
@@ -180,7 +180,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722833511687,
     "modifiedTime": 1723780230678,

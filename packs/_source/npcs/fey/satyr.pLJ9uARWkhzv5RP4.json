@@ -1,9 +1,9 @@
 {
   "folder": "FFlPMIZKxcUrNSW5",
-  "name": "Satyr",
+  "name": "Сатир",
   "type": "npc",
   "_id": "pLJ9uARWkhzv5RP4",
-  "img": "systems/black-flag/artwork/tokens/satyr.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/satyr.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -144,7 +144,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Satyr",
+    "name": "Сатир",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -152,7 +152,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/satyr.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/satyr.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
   },
   "items": [
     {
-      "name": "Fey Resilience",
+      "name": "Фейская устойчивость",
       "type": "feature",
       "_id": "UD37gKzc8VpNhgOO",
       "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -282,7 +282,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -293,7 +293,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Resilience",
+          "name": "Фейская устойчивость",
           "_id": "xsKr4hZ7kVgeQaXM",
           "changes": [
             {
@@ -318,7 +318,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -344,7 +344,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ktWTCgJSzoZompKX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -358,7 +358,7 @@
       "_key": "!actors.items!pLJ9uARWkhzv5RP4.UD37gKzc8VpNhgOO"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "PIKnYOlfSCubfMM6",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -412,7 +412,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -432,7 +432,7 @@
           "uqKGXa7tA7p39IpR": {
             "type": "save",
             "_id": "uqKGXa7tA7p39IpR",
-            "description": "<p>The target feels invigorated by the music, dancing along with it. Until the start of the satyr’s next turn, the target has advantage on DEX saves and on the next attack roll it makes.</p>",
+            "description": "<p>Цель чувствует себя воодушевленной музыкой и танцует вместе с ней. В начале следующего хода цель сатира имеет преимущество в спасбросках ЛВК и делает следующий бросок атаки.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -495,14 +495,14 @@
               "min": "",
               "max": ""
             },
-            "name": "Celebrate",
+            "name": "Празднуйте",
             "img": "",
             "sort": 0
           },
           "CxeeCxMsP3WSwemv": {
             "type": "save",
             "_id": "CxeeCxMsP3WSwemv",
-            "description": "<p>The satyr’s song is laced with magical enchantments, and the target is forced to dance along with the music. Until the start of the satyr’s next turn, the target is &Reference[charmed]{charmed}, and its speed is reduced by 10 feet, as it dances uncontrollably.</p>",
+            "description": "<p>Песня сатира пронизана магическими чарами, и цель - танцевать под музыку. До начала следующего хода сатира Целью является &Reference[charmed]{charmed}, а его скорость падает на 10 футов, поскольку он бесконтрольно танцует.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -566,13 +566,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Overindulge",
+            "name": "злоупотребление",
             "img": ""
           },
           "cFYeJgLsk5s4Dg0w": {
             "type": "save",
             "_id": "cFYeJgLsk5s4Dg0w",
-            "description": "<p>The satyr’s song and dance turn frightful with heavy stomps, shrill notes, and a rapid, staccato melody. The target is &Reference[frightened]{frightened} until the end of its next turn.</p>",
+            "description": "<p>Песня и танцевальная сатира становятся устрашающими с медленными топотами, пронзительными нотами и быстрой отрывистой мелодией. Цель и ссылка[напугана]{frightened} до конца следующего хода.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -636,7 +636,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Unnerve",
+            "name": "нервировать",
             "img": ""
           }
         },
@@ -675,7 +675,7 @@
           "value": null
         }
       },
-      "name": "Revelries",
+      "name": "Разгул",
       "type": "feature",
       "_id": "wJE9paDzoC4Hhm4X",
       "img": "icons/skills/trades/music-notes-sound-blue.webp",
@@ -695,7 +695,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -779,7 +779,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -848,7 +848,7 @@
         },
         "rarity": ""
       },
-      "name": "Ram",
+      "name": "Баран",
       "type": "weapon",
       "_id": "Jq6XphRidxmCUdn4",
       "img": "icons/creatures/mammals/goat-horned-blue.webp",
@@ -869,7 +869,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934840,
         "modifiedTime": 1756755788860,
@@ -953,7 +953,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1029,7 +1029,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1047,7 +1047,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1097,7 +1097,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Intoxicating Bolt",
+      "name": "Опьяняющий болт",
       "type": "weapon",
       "_id": "lZCTZ25w2susP2vh",
       "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-brown.webp",
@@ -1114,7 +1114,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934840,
         "modifiedTime": 1756755797218,
@@ -1132,7 +1132,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

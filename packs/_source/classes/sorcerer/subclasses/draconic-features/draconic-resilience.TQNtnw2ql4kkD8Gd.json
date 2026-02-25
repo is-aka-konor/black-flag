@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Draconic Resilience",
+  "name": "Драконья стойкость",
   "type": "feature",
   "_id": "TQNtnw2ql4kkD8Gd",
   "img": "icons/commodities/leather/scales-blue.webp",
@@ -71,7 +71,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718729379710,

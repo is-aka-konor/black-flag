@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Wind Wall",
+  "name": "Ветровая стена",
   "type": "spell",
   "_id": "Da87GUcewHK17Z2z",
   "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -87,7 +87,7 @@
     "description": {
       "value": "<p>A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.</p><p>When the wall appears, each creature within its area must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a success.</p><p>The strong wind keeps fog, smoke, and other gasses at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.</p>",
       "source": {},
-      "short": "Shape a wall of strong wind."
+      "short": "Сформируйте стену сильного ветра."
     },
     "casting": {
       "value": null,
@@ -108,7 +108,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a tiny fan and a feather"
+        "description": "крошечный веер и перо"
       }
     },
     "duration": {
@@ -153,7 +153,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723528347796,
     "modifiedTime": 1723604268892,

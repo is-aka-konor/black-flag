@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Detect Evil and Good",
+  "name": "Обнаружение зла и добра",
   "type": "spell",
   "_id": "sJz2TidQi9dF5ClQ",
   "img": "icons/magic/symbols/rune-sigil-hook-white-red.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>For the duration, you know if there is an Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
       "source": {},
-      "short": "Locate creature types nearby."
+      "short": "Найдите типы существ поблизости."
     },
     "type": {
       "value": "standard"
@@ -100,9 +100,9 @@
   },
   "effects": [
     {
-      "name": "Detect Evil and Good",
+      "name": "Обнаружение зла и добра",
       "img": "icons/magic/symbols/rune-sigil-hook-white-red.webp",
-      "origin": "Compendium.black-flag.spells.Item.sJz2TidQi9dF5ClQ",
+      "origin": "Compendium.black-flag-ru.spells.Item.sJz2TidQi9dF5ClQ",
       "transfer": false,
       "_id": "o7YHOBJYoV8gyKki",
       "type": "base",
@@ -118,7 +118,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You know if there is an Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "description": "<p>Вы знаете, есть ли в пределах 30 футов от вас Аберрация, Небесный, Элементаль, Фей, Изверг или Нежить, а также где находится это существо.Точно так же вы знаете, есть ли в пределах 30 футов от вас место или предмет, который был магически освящен или осквернен.</p><p>Заклинание может проникнуть через большинство барьеров, но оно блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -127,7 +127,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723605450612,
         "modifiedTime": 1723605466621,
@@ -143,7 +143,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933090531,

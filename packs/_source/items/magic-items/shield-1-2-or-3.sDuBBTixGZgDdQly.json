@@ -1,9 +1,9 @@
 {
   "type": "feature",
-  "name": "Shield, +1, +2, or +3",
+  "name": "Щит, +1, +2 или +3",
   "system": {
     "description": {
-      "value": "<p>While wielding this shield, you have a bonus to AC determined by the shield’s rarity. This bonus is in addition to the shield’s normal bonus to AC.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.4HBeOM5zbTXYH1xM inline]</p><section class=\"secret\" id=\"secret-Z6xs0EzOtWUMjGxY\"><p><strong>Foundry Note</strong></p><p><em>Armor (Shield), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>While wielding this shield, you have a bonus to AC determined by the shield’s rarity. This bonus is in addition to the shield’s normal bonus to AC.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.4HBeOM5zbTXYH1xM inline]</p><section class=\"secret\" id=\"secret-Z6xs0EzOtWUMjGxY\"><p><strong>Foundry Note</strong></p><p><em>Armor (Shield), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -43,7 +43,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Shield, +1",
+      "name": "Щит, +1",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -102,7 +102,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wielding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+      "description": "<p>Когда вы используете этот щит, вы добавляете +1 к AC. Этот бонус является дополнением к обычному бонусному щиту AC.</p>.",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -112,7 +112,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.048",
         "createdTime": 1728593539936,
         "modifiedTime": 1728593644532,
@@ -123,7 +123,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Shield, +2",
+      "name": "Щит, +2",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -181,7 +181,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wielding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+      "description": "<p>Когда вы используете этот щит, вы добавляете +2 к AC. Этот бонус является дополнением к обычному бонусному щиту AC.</p>.",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -191,7 +191,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.048",
         "createdTime": 1728593641048,
         "modifiedTime": 1728593667818,
@@ -203,7 +203,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Shield, +3",
+      "name": "Щит, +3",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -261,7 +261,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wielding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+      "description": "<p>Когда вы используете этот щит, вы добавляете +3 к AC. Этот бонус является дополнением к обычному бонусному щиту AC.</p>.",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -271,7 +271,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.048",
         "createdTime": 1728593642300,
         "modifiedTime": 1728593686021,
@@ -291,7 +291,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1726788619810,
     "modifiedTime": 1735684498557,

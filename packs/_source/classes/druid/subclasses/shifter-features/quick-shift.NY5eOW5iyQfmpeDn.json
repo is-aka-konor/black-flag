@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Quick Shift",
+  "name": "Быстрая смена",
   "type": "feature",
   "_id": "NY5eOW5iyQfmpeDn",
   "img": "icons/creatures/mammals/rabbit-movement-glowing-green.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717790969717,

@@ -1,6 +1,6 @@
 {
   "folder": "3a457Te51QkZjJdf",
-  "name": "Frenzy",
+  "name": "безумие",
   "type": "feature",
   "_id": "4LI6apPZqTUzZsHZ",
   "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717436007321,

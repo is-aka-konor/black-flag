@@ -1,6 +1,6 @@
 {
   "folder": "3a457Te51QkZjJdf",
-  "name": "Ruthless Bearing",
+  "name": "Безжалостный подшипник",
   "type": "feature",
   "_id": "GZde7w3HBAuRa3HP",
   "img": "icons/creatures/abilities/mouth-teeth-fire-orange.webp",
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1717436014175,

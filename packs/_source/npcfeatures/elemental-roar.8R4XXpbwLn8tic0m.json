@@ -1,5 +1,5 @@
 {
-  "name": "Elemental Roar",
+  "name": "Элементальный рев",
   "type": "feature",
   "_id": "8R4XXpbwLn8tic0m",
   "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
@@ -87,7 +87,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1711682938328,

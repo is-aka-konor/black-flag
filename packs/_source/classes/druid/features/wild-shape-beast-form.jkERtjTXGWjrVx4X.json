@@ -1,6 +1,6 @@
 {
   "folder": "6P0Rxao2AROWasas",
-  "name": "Wild Shape: Beast Form",
+  "name": "Дикая форма: Форма зверя",
   "type": "feature",
   "_id": "jkERtjTXGWjrVx4X",
   "img": "icons/magic/nature/wolf-paw-glow-green.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.VuxDilIi1aKvSiOB",
+              "target": "Compendium.black-flag-ru.classes.Item.VuxDilIi1aKvSiOB",
               "value": "1"
             }
           ],
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Take Form",
+        "name": "Принять форму",
         "img": ""
       }
     },
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717736858641,

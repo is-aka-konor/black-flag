@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Empowered Strikes",
+  "name": "Мощные удары",
   "type": "feature",
   "_id": "HvtWj0XgBLe85cGz",
   "img": "icons/magic/unholy/hands-praying-fire-green.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717970240692,

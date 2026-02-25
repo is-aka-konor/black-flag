@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Werebear",
+  "name": "Оборотень",
   "type": "npc",
   "_id": "l5Bd7urAFSOCktWs",
-  "img": "systems/black-flag/artwork/tokens/lycanthrope-werebear.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lycanthrope-werebear.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -150,7 +150,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Werebear",
+    "name": "Оборотень",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -158,7 +158,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lycanthrope-werebear.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lycanthrope-werebear.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   },
   "items": [
     {
-      "name": "Heightened Smell",
+      "name": "Усиленный запах",
       "type": "feature",
       "_id": "ttl9wpRHuPq206qS",
       "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
@@ -297,7 +297,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.KxYrP431EQTfMDuX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -311,7 +311,7 @@
       "_key": "!actors.items!l5Bd7urAFSOCktWs.ttl9wpRHuPq206qS"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "7qiEuQTsz5huc4ms",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -376,7 +376,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The werebear makes three Claw or Greataxe attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form. If two Claw attacks hit one creature, the target is &amp;Reference[grappled]{grappled} (escape DC 15). The werebear can grapple only one creature at a time.</p>",
+          "value": "<p>The werebear makes three Claw or Greataxe attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form. If two Claw attacks hit one creature, the target is &Reference[grappled]{grappled} (escape DC 15). The werebear can grapple only one creature at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -415,7 +415,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -430,7 +430,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Greataxe (Humanoid or Hybrid Form Only)",
+      "name": "Большой топор (только в гуманоидной или гибридной форме)",
       "type": "weapon",
       "_id": "8shgV2uPkw5CFn6K",
       "img": "icons/weapons/axes/axe-battle-engraved-purple.webp",
@@ -567,9 +567,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.9EAkaGqWPK0qFoDq",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.9EAkaGqWPK0qFoDq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759123583,
@@ -636,7 +636,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -676,7 +676,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "XJhcIuUZGKmae5Pl",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -692,7 +692,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -763,7 +763,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -777,7 +777,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the werebear is knocked &amp;Reference[prone]{prone}, and it is &amp;Reference[restrained]{restrained} until the grapple ends.</p>",
+          "value": "<p>One creature grappled by the werebear is knocked &Reference[prone]{prone}, and it is &Reference[restrained]{restrained} until the grapple ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -803,7 +803,7 @@
           "value": null
         }
       },
-      "name": "Pin",
+      "name": "Пин-код",
       "type": "feature",
       "_id": "GprH0bt2EMPBLjtO",
       "img": "icons/skills/movement/arrow-down-pink.webp",
@@ -823,7 +823,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -833,7 +833,7 @@
       "_key": "!actors.items!l5Bd7urAFSOCktWs.GprH0bt2EMPBLjtO"
     },
     {
-      "name": "Bite (Bear or Hybrid Form Only)",
+      "name": "Укус (только в форме медведя или гибрида)",
       "type": "weapon",
       "_id": "e8QsoWliJEkviHuR",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -883,7 +883,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -986,7 +986,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1068,7 +1068,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934237,
         "modifiedTime": 1756759104533,
@@ -1081,7 +1081,7 @@
       "_key": "!actors.items!l5Bd7urAFSOCktWs.e8QsoWliJEkviHuR"
     },
     {
-      "name": "Claw (Bear or Hybrid Form Only).",
+      "name": "Коготь (только в форме медведя или гибрида).",
       "type": "weapon",
       "_id": "LAe3bVWkKnnn3cEB",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1131,7 +1131,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1241,7 +1241,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934237,
         "modifiedTime": 1756759111490,
@@ -1267,7 +1267,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "AC and Speed in Bear & Hybrid Form",
+      "name": "AC и скорость в медвежьей и гибридной форме",
       "img": "icons/svg/aura.svg",
       "_id": "J9o3WqgxwMPYli6T",
       "type": "base",
@@ -1302,7 +1302,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1316,7 +1316,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

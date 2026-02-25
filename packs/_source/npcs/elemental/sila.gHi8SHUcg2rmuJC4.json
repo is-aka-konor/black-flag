@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Sila",
+  "name": "Сила",
   "type": "npc",
   "_id": "gHi8SHUcg2rmuJC4",
-  "img": "systems/black-flag/artwork/tokens/genie-sila.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/genie-sila.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Sila",
+    "name": "Сила",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/genie-sila.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/genie-sila.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -256,7 +256,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "JEfTJZ1cmBJu3GkA",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -310,7 +310,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -362,7 +362,7 @@
           "value": null
         }
       },
-      "name": "Fluid Body (Bipedal Form Only)",
+      "name": "Жидкое тело (только в двуногой форме)",
       "type": "feature",
       "_id": "XPpSp3LYjQKavdT1",
       "img": "icons/magic/water/elemental-water.webp",
@@ -382,7 +382,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -430,7 +430,7 @@
           "value": null
         }
       },
-      "name": "Nebulous (Cloud Form Only)",
+      "name": "Туманность (только в форме облака)",
       "type": "feature",
       "_id": "oHgKgyb4HmOUAGR1",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -446,7 +446,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.uktdCrMiZJvvT8VZ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -460,7 +460,7 @@
       "_key": "!actors.items!gHi8SHUcg2rmuJC4.oHgKgyb4HmOUAGR1"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "FGVnbXntLrgk99mU",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -528,7 +528,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -581,7 +581,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -596,7 +596,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Cold-Infused Jambiya",
+      "name": "Холодная Джамбия",
       "type": "weapon",
       "_id": "i8wAmN3kEvTIGj9o",
       "img": "icons/weapons/daggers/dagger-curved-blue.webp",
@@ -686,7 +686,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -770,9 +770,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.3bEIZYDB4eMayC6k",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.3bEIZYDB4eMayC6k",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755493805,
@@ -848,7 +848,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -893,7 +893,7 @@
           "value": null
         }
       },
-      "name": "Create Water Elemental",
+      "name": "Создать элементаля воды",
       "type": "feature",
       "_id": "pEYXYUnYoLUTAKEo",
       "img": "icons/magic/water/pseudopod-swirl-blue.webp",
@@ -909,7 +909,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5CzaWELIdHBfWcG3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -986,7 +986,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1031,7 +1031,7 @@
           "value": null
         }
       },
-      "name": "Travel the Planes",
+      "name": "Путешествуйте на самолетах",
       "type": "feature",
       "_id": "sYblUJ0izsRExij2",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1047,7 +1047,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XzRlTqBr96a7pr5Z",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1131,7 +1131,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1145,7 +1145,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sila condenses the air or water around the head or eyes of up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &amp;Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The sila condenses the air or water around the head or eyes of up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1171,7 +1171,7 @@
           "value": null
         }
       },
-      "name": "Clouded Eyes",
+      "name": "Затуманенные глаза",
       "type": "feature",
       "_id": "o26VTLYO5YVeRbYX",
       "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
@@ -1191,7 +1191,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1258,7 +1258,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1298,7 +1298,7 @@
           "value": null
         }
       },
-      "name": "Genie Shape",
+      "name": "Джинн Форма",
       "type": "feature",
       "_id": "gOevIhwz6ORGQFcU",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -1314,7 +1314,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.jJYos90sdWGUkytz",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1402,7 +1402,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1471,7 +1471,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Water Burst",
+      "name": "Водный взрыв",
       "type": "weapon",
       "_id": "mA6sGllIxIReIuHw",
       "img": "icons/magic/water/water-jet-wave-blue.webp",
@@ -1492,7 +1492,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933648,
         "modifiedTime": 1756755501884,
@@ -1506,7 +1506,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

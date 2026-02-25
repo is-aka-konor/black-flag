@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Scorching Ray",
+  "name": "Опаляющий луч",
   "type": "spell",
   "_id": "zcPLl539wJ5MflKO",
   "img": "icons/magic/fire/blast-jet-stream-embers-red.webp",
@@ -63,7 +63,7 @@
     "description": {
       "value": "<p>You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes [[/damage]] damage.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you create one additional ray for each slot above 2nd.</p>",
       "source": {},
-      "short": "Launch three fire rays."
+      "short": "Запустите три огненных луча."
     },
     "type": {
       "value": "standard"
@@ -122,7 +122,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935312093,

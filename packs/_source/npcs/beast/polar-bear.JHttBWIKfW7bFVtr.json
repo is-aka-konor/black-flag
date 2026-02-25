@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Polar Bear",
+  "name": "Белый Медведь",
   "type": "npc",
   "_id": "JHttBWIKfW7bFVtr",
-  "img": "systems/black-flag/artwork/tokens/bear-polar.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/bear-polar.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -144,7 +144,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Polar Bear",
+    "name": "Белый Медведь",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -152,7 +152,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/bear-polar.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/bear-polar.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
   },
   "items": [
     {
-      "name": "Heightened Smell",
+      "name": "Усиленный запах",
       "type": "feature",
       "_id": "YOOl4rJdMh2a7XOz",
       "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
@@ -291,7 +291,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.KxYrP431EQTfMDuX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -305,7 +305,7 @@
       "_key": "!actors.items!JHttBWIKfW7bFVtr.YOOl4rJdMh2a7XOz"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "U0uVKsx7UpkYEJWk",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -370,7 +370,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The polar bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &amp;Reference[grappled]{grappled} (escape DC 15). The bear can grapple only one creature at a time.</p>",
+          "value": "<p>The polar bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &Reference[grappled]{grappled} (escape DC 15). The bear can grapple only one creature at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -409,7 +409,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -423,7 +423,7 @@
       "_key": "!actors.items!JHttBWIKfW7bFVtr.U0uVKsx7UpkYEJWk"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "toOeoI6BnwdoD5O8",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -473,7 +473,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -583,7 +583,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930236,
         "modifiedTime": 1756750538719,
@@ -596,7 +596,7 @@
       "_key": "!actors.items!JHttBWIKfW7bFVtr.toOeoI6BnwdoD5O8"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "YUY3bPhv2oxCWOeL",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -646,7 +646,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -756,7 +756,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930236,
         "modifiedTime": 1756750542917,
@@ -774,7 +774,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Barkskin",
+  "name": "Коровая кожа",
   "type": "spell",
   "_id": "SdIMnQDBbxLsMocU",
   "img": "icons/magic/nature/hand-weapon-wood-bark-brown.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You touch a willing creature. Until the spell ends, the creature’s skin has a rough, bark-like appearance, and its AC can’t be less than 16, regardless of the armor it wears.</p>",
       "source": {},
-      "short": "Ally’s AC is at least 16."
+      "short": "КД союзника не менее 16."
     },
     "type": {
       "value": "standard"
@@ -75,7 +75,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a handful of oak bark",
+        "description": "горсть дубовой коры",
         "consumed": false,
         "denomination": "gp"
       }
@@ -111,7 +111,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.SdIMnQDBbxLsMocU",
+      "origin": "Compendium.black-flag-ru.spells.Item.SdIMnQDBbxLsMocU",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -122,7 +122,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Barkskin",
+      "name": "Коровая кожа",
       "_id": "2Kx8EqI9lH8PnBIj",
       "changes": [
         {
@@ -132,7 +132,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The creature’s skin has a rough, bark-like appearance, and its AC can’t be less than 16, regardless of the armor it wears.</p>",
+      "description": "<p>Кожа существа имеет грубый вид, напоминающий кору, а его КД не может быть меньше 16, независимо от того, какую броню оно носит.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -161,7 +161,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997517394,

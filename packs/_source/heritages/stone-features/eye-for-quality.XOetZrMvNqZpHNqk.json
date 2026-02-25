@@ -1,6 +1,6 @@
 {
   "folder": "IurQpTavhDQbBepv",
-  "name": "Eye for Quality",
+  "name": "Внимание к качеству",
   "type": "feature",
   "_id": "XOetZrMvNqZpHNqk",
   "img": "icons/commodities/stone/rock-pile-grey.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1701131011854,

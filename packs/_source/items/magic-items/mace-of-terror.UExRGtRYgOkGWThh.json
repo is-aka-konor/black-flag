@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Mace of Terror",
+  "name": "Булава ужаса",
   "type": "weapon",
   "img": "icons/weapons/maces/mace-spiked-skull.webp",
   "system": {
@@ -139,7 +139,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Wave of Terror",
+        "name": "Волна террора",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -164,7 +164,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a [[/save 15 WIS]] or become &amp;Reference[frightened] of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the save, ending the effect on itself on a success.</p><p>The mace regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a [[/save 15 WIS]] or become &Reference[frightened] of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the save, ending the effect on itself on a success.</p><p>The mace regains [[/r 1d3]] expended charges daily at dawn.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -217,9 +217,9 @@
   },
   "effects": [
     {
-      "name": "Terror",
+      "name": "Террор",
       "img": "icons/weapons/maces/mace-spiked-skull.webp",
-      "origin": "Compendium.black-flag.items.Item.UExRGtRYgOkGWThh",
+      "origin": "Compendium.black-flag-ru.items.Item.UExRGtRYgOkGWThh",
       "transfer": false,
       "_id": "18of135Bzh1eh94I",
       "type": "base",
@@ -235,7 +235,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>While you are frightened in this way, you must spend your turns trying to move as far away from the attacker as it can, and you can’t willingly move to a space within 30 feet of the attack. You also can’t take reactions. For its action, you can use only the Dash action or try to escape from an effect that prevents you from moving. If you have nowhere you can move, you can use the Dodge action. At the end of each of your turns, you can repeat the save, ending the effect on yourself on a success.</p>",
+      "description": "<p>Пока вы напуганы таким образом, вы должны изменить свои ходы, пытаясь отойти, как можно дальше от атакующего, и вы не можете добровольно сохраняться в пространстве в пределах 30 футов от нападения. Вы также не можете реагировать. Для его действия вы можете использовать только действие Рывок или обвиняемого от эффекта, который мешает вам передвигаться. Если вам некуда двигаться, вы можете использовать действие «Отклонение». В конце каждого вашего хода вы можете сохранить сохранение, прекратительный эффект для себя в случае успеха.</p>",
       "tint": "#ffffff",
       "statuses": [
         "frightened"
@@ -246,7 +246,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729531792767,
         "modifiedTime": 1729531883045,
@@ -264,7 +264,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589519193,
     "modifiedTime": 1756334376792,

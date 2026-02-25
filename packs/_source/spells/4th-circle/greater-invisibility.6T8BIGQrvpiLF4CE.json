@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Greater Invisibility",
+  "name": "Большая невидимость",
   "type": "spell",
   "_id": "6T8BIGQrvpiLF4CE",
   "img": "icons/magic/control/silhouette-hold-change-blue.webp",
@@ -67,9 +67,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You or a creature you touch becomes &amp;Reference[invisible] until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.</p>",
+      "value": "<p>You or a creature you touch becomes &Reference[invisible] until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.</p>",
       "source": {},
-      "short": "Better invisibility."
+      "short": "Лучше невидимость."
     },
     "source": [
       "arcane",
@@ -123,7 +123,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.6T8BIGQrvpiLF4CE",
+      "origin": "Compendium.black-flag-ru.spells.Item.6T8BIGQrvpiLF4CE",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -134,13 +134,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Greater Invisibility",
+      "name": "Большая невидимость",
       "img": "icons/magic/control/silhouette-hold-change-blue.webp",
       "_id": "0ShGxgKcNXknjuzk",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You become invisible until the spell ends. Anything you are wearing or carrying is invisible as long as it is on your person.</p>",
+      "description": "<p>Вы становитесь невидимыми, пока заклинание не закончится. Все, что вы носите или несете, невидимо, пока оно находится при вас.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [
@@ -152,7 +152,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.040",
         "createdTime": 1721968191955,
         "modifiedTime": 1721968228520,
@@ -168,7 +168,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718732379317,

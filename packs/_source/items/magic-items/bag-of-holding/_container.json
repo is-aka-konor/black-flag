@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Bag of Holding",
+  "name": "Сумка для хранения",
   "type": "container",
   "_id": "OUAMpMwm1zBQSDi1",
   "img": "icons/containers/bags/sack-cloth-purple.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707356290461,

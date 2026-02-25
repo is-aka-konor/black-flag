@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Gift of Consecration",
+  "name": "Дар Посвящения",
   "type": "feature",
   "_id": "1Su6X9qOcVl5yZmR",
   "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -43,7 +43,7 @@
       }
     },
     "description": {
-      "value": "<p>You are now immune to disease, poison damage, and the poisoned condition. If you die, your body is instantly preserved as per the @UUID[Compendium.black-flag.spells.Item.DoduOTnkai1evUDz]{gentle repose} spell for up to a year and a day.</p>",
+      "value": "<p>You are now immune to disease, poison damage, and the poisoned condition. If you die, your body is instantly preserved as per the @UUID[Compendium.black-flag-ru.spells.Item.DoduOTnkai1evUDz]{gentle repose} spell for up to a year and a day.</p>",
       "source": {}
     },
     "restriction": {
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715660663926,

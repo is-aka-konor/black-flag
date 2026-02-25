@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Perfect Creation",
+  "name": "Идеальное творение",
   "type": "feature",
   "_id": "ndNyWeMQ20VYUHJI",
   "img": "icons/commodities/gems/gem-faceted-diamond-green.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127828200,

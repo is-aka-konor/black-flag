@@ -1,6 +1,6 @@
 {
   "folder": "UmAJtvm6pFXVRXGe",
-  "name": "Map Case",
+  "name": "Чехол для карты",
   "type": "container",
   "_id": "gYTUVme8Wc04HvsE",
   "img": "icons/containers/bags/satchel-leather-white-tan.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707362549621,

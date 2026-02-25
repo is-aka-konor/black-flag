@@ -1,29 +1,29 @@
 ![](https://github.com/koboldpress/black-flag/blob/main/artwork/branding/readme.jpg?raw=true)
 
-# Black Flag Roleplaying
+# Black Flag Roleplaying (Русская локализация)
 
-The game system implements the rules of **Black Flag Roleplaying**, the 5E-compatible game system powering Kobold Press's **[Tales of the Valiant](https://www.talesofthevaliant.com)** roleplaying game.
+Эта игровая система реализует правила **Black Flag Roleplaying** — совместимой с 5E системы от Kobold Press, лежащей в основе ролевой игры **[Tales of the Valiant](https://www.talesofthevaliant.com)**.
 
-This system provides sheets for characters, NPCs, and items, as well as all of the mechanical implementation necessary to play a game within the Black Flag system. It also includes the content of the [BFR Reference Doc](https://www.koboldpress.com/bfr-reference-doc/) pre-created to make it easy to start a game.
+Система включает листы персонажей, НИП и предметов, а также всю необходимую механику для игры в рамках Black Flag в Foundry VTT. Также в комплект входит предсозданный контент из [BFR Reference Doc](https://www.koboldpress.com/bfr-reference-doc/), чтобы можно было быстро начать кампанию.
 
-## Installation
+## Установка
 
-The easiest way to install this system is to use Foundry's built-in package manager to install from within in the software. Simply search “Black Flag” from the Install System dialog in Foundry to install.
+Самый простой способ установки — воспользоваться встроенным менеджером пакетов Foundry и найти систему Black Flag в диалоге установки систем.
 
-Alternatively, the system can be installed by pasting this manifest URL into the Install System dialog:
+Альтернативно систему можно установить по URL манифеста (вставьте ссылку в диалог Install System):
 
 https://github.com/koboldpress/black-flag/releases/latest/download/system.json
 
-You can also download a ZIP archive or grab an older release manifest from the [Releases](https://github.com/koboldpress/black-flag/releases) page and install those manually.
+Также можно скачать ZIP-архив или использовать манифесты старых версий на странице [Releases](https://github.com/koboldpress/black-flag/releases) и установить их вручную.
 
-## License
+## Лицензия
 
-This product is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including www.azoralaw.com/orclicense and others. All warranties are disclaimed as set forth therein.
+Этот продукт распространяется по лицензии ORC License, зарегистрированной в Библиотеке Конгресса под номером TX 9-307-067, и доступной онлайн, в том числе на www.azoralaw.com/orclicense и других ресурсах. Все гарантии исключаются согласно условиям лицензии.
 
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+В эту работу включены материалы из System Reference Document 5.1 («SRD 5.1») компании Wizards of the Coast LLC, доступного по адресу https://dnd.wizards.com/resources/systems-reference-document.
 
-The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https:// creativecommons.org/licenses/by/4.0/legalcode.
+SRD 5.1 распространяется по лицензии Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/legalcode.
 
-The software is covered under the [MIT License](https://github.com/koboldpress/black-flag/blob/main/LICENSE).
+Программная часть распространяется по [лицензии MIT](https://github.com/koboldpress/black-flag/blob/main/LICENSE).
 
-Additional licensing information for artwork used in the system can be found [within the artwork/ folder](https://github.com/koboldpress/black-flag/blob/main/artwork/LICENSE).
+Дополнительная информация о лицензировании иллюстраций находится [в каталоге artwork/](https://github.com/koboldpress/black-flag/blob/main/artwork/LICENSE).

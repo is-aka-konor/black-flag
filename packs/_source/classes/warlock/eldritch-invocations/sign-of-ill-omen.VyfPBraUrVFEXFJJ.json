@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Sign of Ill Omen",
+  "name": "Знак дурного предзнаменования",
   "type": "feature",
   "_id": "VyfPBraUrVFEXFJJ",
   "img": "icons/magic/death/skull-flames-white-blue.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376860220,

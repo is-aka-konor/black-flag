@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Oathbow",
+  "name": "Клятвенный лук",
   "type": "weapon",
   "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
   "system": {
@@ -127,7 +127,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Sworn Enemy Damage",
+        "name": "Урон от заклятого врага",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -213,7 +213,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589564629,
     "modifiedTime": 1756333027701,

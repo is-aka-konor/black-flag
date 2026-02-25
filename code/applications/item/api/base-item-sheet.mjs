@@ -48,31 +48,31 @@ export default class BaseItemSheet extends PrimarySheetMixin(BFDocumentSheet) {
 	/** @override */
 	static PARTS = {
 		header: {
-			template: "systems/black-flag/templates/item/header.hbs"
+			template: "systems/black-flag-ru/templates/item/header.hbs"
 		},
 		tabs: {
-			template: "systems/black-flag/templates/shared/tabs-separate.hbs"
+			template: "systems/black-flag-ru/templates/shared/tabs-separate.hbs"
 		},
 		advancement: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/advancement.hbs",
-			templates: ["systems/black-flag/templates/item/parts/advancement-section.hbs"],
+			template: "systems/black-flag-ru/templates/item/advancement.hbs",
+			templates: ["systems/black-flag-ru/templates/item/parts/advancement-section.hbs"],
 			scrollable: [""]
 		},
 		description: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/description.hbs",
+			template: "systems/black-flag-ru/templates/item/description.hbs",
 			scrollable: [""]
 		},
 		details: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/details.hbs",
+			template: "systems/black-flag-ru/templates/item/details.hbs",
 			scrollable: [""]
 		},
 		effects: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/effects.hbs",
-			templates: ["systems/black-flag/templates/item/parts/effects-section.hbs"],
+			template: "systems/black-flag-ru/templates/item/effects.hbs",
+			templates: ["systems/black-flag-ru/templates/item/parts/effects-section.hbs"],
 			scrollable: [""]
 		}
 	};

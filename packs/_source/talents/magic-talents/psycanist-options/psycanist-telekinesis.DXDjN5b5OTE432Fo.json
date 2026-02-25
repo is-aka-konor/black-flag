@@ -1,6 +1,6 @@
 {
   "folder": "jQByUdmuA0zX6Sve",
-  "name": "Psycanist: Telekinesis",
+  "name": "Психолог: Телекинез",
   "type": "feature",
   "_id": "DXDjN5b5OTE432Fo",
   "img": "icons/magic/earth/projectile-boulder-dust.webp",
@@ -60,7 +60,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Telekinetic Movement",
+        "name": "Телекинетическое движение",
         "img": ""
       }
     },
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717176514544,

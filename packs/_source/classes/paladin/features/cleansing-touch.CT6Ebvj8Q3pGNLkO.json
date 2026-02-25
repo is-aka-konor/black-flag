@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Cleansing Touch",
+  "name": "Очищающее прикосновение",
   "type": "feature",
   "_id": "CT6Ebvj8Q3pGNLkO",
   "img": "icons/magic/symbols/star-rising-purple.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "End Spell",
+        "name": "Конец заклинания",
         "img": ""
       }
     },
@@ -101,7 +101,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718399840820,

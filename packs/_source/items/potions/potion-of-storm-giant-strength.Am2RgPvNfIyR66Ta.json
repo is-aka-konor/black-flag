@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Storm Giant Strength",
+  "name": "Зелье силы штормового гиганта",
   "system": {
     "type": {
       "category": "potion"
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "EQ7MXqnyGD0qwtnk"
       }
@@ -115,9 +115,9 @@
   "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
   "effects": [
     {
-      "name": "Storm Giant Strength",
+      "name": "Сила штормового гиганта",
       "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.Am2RgPvNfIyR66Ta",
+      "origin": "Compendium.black-flag-ru.items.Item.Am2RgPvNfIyR66Ta",
       "transfer": false,
       "_id": "5KtEYJHqfYtGSqkz",
       "type": "base",
@@ -140,7 +140,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>When you drink this potion, your STR score changes to 29 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p>",
+      "description": "<p>Когда вы выберете это зелье, ваш показатель Силы изменится на 29 на 1 час. Зелье не дает никакого результата, если ваш показатель СИЛ равен этому показателю или указывает на него.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540138914,
         "modifiedTime": 1729540248343,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073646512,
     "modifiedTime": 1729541283574,

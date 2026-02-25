@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Spirit Translator",
+  "name": "Духовный переводчик",
   "type": "feature",
   "_id": "a5JVMra55IFT4rQq",
   "img": "icons/magic/time/arrows-circling-pink.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376863727,

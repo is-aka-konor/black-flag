@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Winged Boots",
+  "name": "Крылатые сапоги",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Winged Boots",
-      "origin": "Compendium.black-flag.items.Item.15fE9lhT2QOtZNy1",
+      "name": "Крылатые сапоги",
+      "origin": "Compendium.black-flag-ru.items.Item.15fE9lhT2QOtZNy1",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730155805377,
         "modifiedTime": 1756332944865,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725071689248,
     "modifiedTime": 1730155856518,

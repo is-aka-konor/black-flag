@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Light Crossbow",
+  "name": "Легкий арбалет",
   "type": "weapon",
   "_id": "Zu15sMMg2KvxhA3e",
   "img": "icons/weapons/crossbows/crossbow-heavy-black.webp",
@@ -77,7 +77,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024638733,

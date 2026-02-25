@@ -1,5 +1,5 @@
 {
-  "name": "Pike",
+  "name": "Щука",
   "type": "weapon",
   "_id": "ib6aTaDTjlnG3m54",
   "img": "icons/weapons/polearms/pike-flared-red.webp",
@@ -112,7 +112,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716237046822,

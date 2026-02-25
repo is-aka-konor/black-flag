@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Wraith",
+  "name": "Призрак",
   "type": "npc",
   "_id": "yE6PgxHymFFfBNSu",
-  "img": "systems/black-flag/artwork/tokens/wraith.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/wraith.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -173,7 +173,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Wraith",
+    "name": "Призрак",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -181,7 +181,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/wraith.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/wraith.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -383,7 +383,7 @@
           "value": null
         }
       },
-      "name": "Incorporeal Movement",
+      "name": "Бестелесное движение",
       "type": "feature",
       "_id": "0MRcNvk12YVWARih",
       "img": "icons/magic/death/undead-ghost-scream-teal.webp",
@@ -399,7 +399,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.6m51CqqCQ91UkrbH",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -413,7 +413,7 @@
       "_key": "!actors.items!yE6PgxHymFFfBNSu.0MRcNvk12YVWARih"
     },
     {
-      "name": "Sunlight Sensitivity",
+      "name": "Чувствительность к солнечному свету",
       "type": "feature",
       "_id": "lL7LAlpYgY6q3GZo",
       "img": "icons/magic/light/explosion-glow-spiral-yellow.webp",
@@ -465,7 +465,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hzFrJFfPPIv20rWe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -479,7 +479,7 @@
       "_key": "!actors.items!yE6PgxHymFFfBNSu.lL7LAlpYgY6q3GZo"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -530,7 +530,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.nryL8pXwd7SJzonQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -545,7 +545,7 @@
       "_key": "!actors.items!yE6PgxHymFFfBNSu.n6hkriRXg1OPhfph"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -587,7 +587,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -598,7 +598,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -629,7 +629,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -655,7 +655,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -670,7 +670,7 @@
       "_key": "!actors.items!yE6PgxHymFFfBNSu.SodGjbTEC4LbrSlH"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "txPBPriseKOK3rZz",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -774,7 +774,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -850,7 +850,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -890,7 +890,7 @@
           "value": null
         }
       },
-      "name": "Create Specter",
+      "name": "Создать призрак",
       "type": "feature",
       "_id": "GjADmGTg65PGXP7W",
       "img": "icons/magic/death/skull-humanoid-worn-teal.webp",
@@ -910,7 +910,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1058,7 +1058,7 @@
           "value": null
         }
       },
-      "name": "Trail of Death",
+      "name": "След смерти",
       "type": "feature",
       "_id": "l8zroagEvZNPGZej",
       "img": "icons/magic/death/hand-dirt-undead-zombie.webp",
@@ -1078,7 +1078,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1149,7 +1149,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1189,7 +1189,7 @@
           "value": null
         }
       },
-      "name": "Unravel Life",
+      "name": "Разгадать жизнь",
       "type": "feature",
       "_id": "LTBUvkMRosFuLKjq",
       "img": "icons/magic/death/skull-energy-light-white.webp",
@@ -1209,7 +1209,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1219,7 +1219,7 @@
       "_key": "!actors.items!yE6PgxHymFFfBNSu.LTBUvkMRosFuLKjq"
     },
     {
-      "name": "Life Drain",
+      "name": "Утечка жизни",
       "type": "weapon",
       "_id": "DR9G8aMUUsHAjbyx",
       "img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
@@ -1269,7 +1269,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1372,7 +1372,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1454,7 +1454,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936362,
         "modifiedTime": 1756761151407,
@@ -1472,7 +1472,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -15,7 +15,7 @@ export default class LongRestDialog extends BaseRestDialog {
 	static PARTS = {
 		...super.PARTS,
 		content: {
-			template: "systems/black-flag/templates/actor/rest/long-rest.hbs"
+			template: "systems/black-flag-ru/templates/actor/rest/long-rest.hbs"
 		}
 	};
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Gold",
+  "name": "Золото",
   "type": "currency",
   "_id": "eWMYzM5UVZUDIqtg",
   "img": "icons/commodities/currency/coin-inset-insect-gold.webp",
@@ -33,7 +33,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1704133027104,

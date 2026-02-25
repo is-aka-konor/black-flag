@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Aura of Salvation",
+  "name": "Аура спасения",
   "type": "feature",
   "_id": "Bll8ilpqU1Py0lrm",
   "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
@@ -103,7 +103,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718399860629,

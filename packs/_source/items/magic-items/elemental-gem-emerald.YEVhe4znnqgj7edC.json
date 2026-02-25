@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Elemental Gem (emerald)",
+  "name": "Элементальный самоцвет (изумруд)",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This gem contains a mote of elemental energy. When you use an action to break the gem, a <strong>@UUID[Compendium.black-flag.npcs.Actor.pnMVYeOXRmIXdm2z]{water elemental }</strong>is summoned as if you had cast the <em>@UUID[Compendium.black-flag.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell, and the gem’s magic is lost.</p>",
+      "value": "<p>This gem contains a mote of elemental energy. When you use an action to break the gem, a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.pnMVYeOXRmIXdm2z]{water elemental }</strong>is summoned as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell, and the gem’s magic is lost.</p>",
       "source": {
         "fallback": ""
       }
@@ -43,7 +43,7 @@
               "count": "",
               "name": "",
               "_id": "W6bzF8fbfeoM2MAr",
-              "uuid": "Compendium.black-flag.npcs.Actor.pnMVYeOXRmIXdm2z",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.pnMVYeOXRmIXdm2z",
               "level": {
                 "min": null,
                 "max": null
@@ -109,7 +109,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Break Gem",
+        "name": "Разбить драгоценный камень",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -151,7 +151,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1728426560334,
     "modifiedTime": 1756335433945,

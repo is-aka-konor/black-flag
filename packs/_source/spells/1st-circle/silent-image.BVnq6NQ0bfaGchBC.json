@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Silent Image",
+  "name": "Тихий образ",
   "type": "spell",
   "_id": "BVnq6NQ0bfaGchBC",
   "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
@@ -9,7 +9,7 @@
       "X1C56RSBtoBBMeN6": {
         "type": "utility",
         "_id": "X1C56RSBtoBBMeN6",
-        "description": "<p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.</p>",
+        "description": "<p>Вы создаете изображение объекта, существа или какого-либо другого видимого явления размером не больше 15-футового куба. Изображение появляется в месте в пределах дистанции и сохраняется в течение заданного времени. Изображение чисто визуальное; оно не сопровождается звуком, запахом или другими сенсорными эффектами.</p>",
         "system": {},
         "activation": {
           "type": "",
@@ -28,13 +28,13 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Create Image",
+        "name": "Создать изображение",
         "img": ""
       },
       "lVSlfCOrctPi0AU7": {
         "type": "utility",
         "_id": "lVSlfCOrctPi0AU7",
-        "description": "<p>You cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.</p>",
+        "description": "<p>Вы заставляете изображение перемещаться в любое место в пределах досягаемости. Когда изображение меняет местоположение, вы можете изменить его внешний вид, чтобы его движения выглядели естественными для изображения. Например, если вы создаете изображение существа и перемещаете его, вы можете изменить изображение так, чтобы оно выглядело идущим.</p>",
         "system": {},
         "activation": {
           "type": "action",
@@ -55,7 +55,7 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Move Image",
+        "name": "Переместить изображение",
         "img": ""
       }
     },
@@ -69,7 +69,7 @@
     "description": {
       "value": "<p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15‑foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.</p><p>You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.</p>",
       "source": {},
-      "short": "Make a small visual illusion."
+      "short": "Создайте небольшую визуальную иллюзию."
     },
     "type": {
       "value": "standard"
@@ -91,7 +91,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a bit of fleece",
+        "description": "немного флиса",
         "denomination": "pp",
         "consumed": false
       }
@@ -129,7 +129,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935533140,

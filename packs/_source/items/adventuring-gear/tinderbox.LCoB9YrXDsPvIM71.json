@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Tinderbox",
+  "name": "Трутница",
   "type": "gear",
   "_id": "LCoB9YrXDsPvIM71",
   "img": "icons/containers/boxes/box-gift-white.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363671389,

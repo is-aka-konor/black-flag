@@ -1,8 +1,8 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Prayer Bead Effects",
+  "name": "Эффекты молитвенных четок",
   "img": "icons/equipment/neck/necklace-runed-white-red.webp",
-  "description": "<p>Bead of… / Spell</p>",
+  "description": "<p>Бусина… / Заклинание</p>",
   "results": [
     {
       "type": "text",
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Blessing / Bless",
+      "description": "Благословение / Благословение",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.TFG2DcqfcJxNsJux"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Curing / Cure wounds (2nd-circle) or restoration",
+      "description": "Лечение/Лечение ран (2-й круг) или восстановление",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.brXw4TUUHGuFKurK"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Favor / Greater restoration",
+      "description": "Благосклонность / Большее восстановление",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.PYnqSSEr26oGEiKS"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Smiting / Branding smite",
+      "description": "Поражение / Брендинг",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.Jc91p7yZWuDgpfRj"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Summons / Planar ally",
+      "description": "Призыв / Планарный союзник",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.ad4erbgtNxm26gRl"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Wind walking / Wind walk",
+      "description": "Прогулка по ветру / Прогулка по ветру",
       "name": "",
       "_key": "!tables.results!GOgAKgIuvExfvTRG.C7ORfEWga2jl63fJ"
     }
@@ -170,7 +170,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426277318,
     "modifiedTime": 1729534509000,

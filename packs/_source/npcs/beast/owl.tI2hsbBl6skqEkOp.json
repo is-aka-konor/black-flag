@@ -1,6 +1,6 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Owl",
+  "name": "Сова",
   "type": "npc",
   "_id": "tI2hsbBl6skqEkOp",
   "img": "modules/kp-tov-monster-vault/assets/tokens/Token-Owl.png",
@@ -149,7 +149,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Owl",
+    "name": "Сова",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -282,7 +282,7 @@
           "value": null
         }
       },
-      "name": "Flyby",
+      "name": "Облет",
       "type": "feature",
       "_id": "CgjSra0Z9lJBbBKa",
       "img": "icons/creatures/birds/raptor-owl-flying-moon.webp",
@@ -302,7 +302,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -312,7 +312,7 @@
       "_key": "!actors.items!tI2hsbBl6skqEkOp.CgjSra0Z9lJBbBKa"
     },
     {
-      "name": "Heightened Hearing and Sight",
+      "name": "Обостренный слух и зрение",
       "type": "feature",
       "_id": "rgJVVR8CEW4YbmYm",
       "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
@@ -364,7 +364,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.klWqTnkfCzc8I5QR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -416,7 +416,7 @@
           "value": null
         }
       },
-      "name": "Quiet Wings",
+      "name": "Тихие Крылья",
       "type": "feature",
       "_id": "Tu7oJPEd1AxQvSxz",
       "img": "icons/creatures/birds/raptor-hawk-flying.webp",
@@ -436,7 +436,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -520,7 +520,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -589,7 +589,7 @@
         },
         "rarity": ""
       },
-      "name": "Talons",
+      "name": "Когти",
       "type": "weapon",
       "_id": "1eSOMX846KHFpjJY",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -606,7 +606,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935469,
         "modifiedTime": 1756750508657,
@@ -624,7 +624,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

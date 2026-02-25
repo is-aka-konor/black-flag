@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Feather Token, Fan",
+  "name": "Жетон Пера, Веер",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -83,7 +83,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Toss Token",
+        "name": "Бросить жетон",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -127,7 +127,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984251455,
     "modifiedTime": 1756333795741,

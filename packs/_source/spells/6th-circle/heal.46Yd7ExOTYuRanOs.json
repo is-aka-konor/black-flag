@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Heal",
+  "name": "Лечить",
   "type": "spell",
   "_id": "46Yd7ExOTYuRanOs",
   "img": "icons/magic/life/heart-cross-strong-flame-purple-orange.webp",
@@ -78,7 +78,7 @@
     "description": {
       "value": "<p>Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain [[/healing]]{70 HP}. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, the amount of healing increases by [[/healing 10]]{10 HP} for each slot above 6th.</p>",
       "source": {},
-      "short": "Major heal to creature."
+      "short": "Основное исцеление существа."
     },
     "source": [
       "divine",
@@ -136,7 +136,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722569583757,
     "modifiedTime": 1722835013385,

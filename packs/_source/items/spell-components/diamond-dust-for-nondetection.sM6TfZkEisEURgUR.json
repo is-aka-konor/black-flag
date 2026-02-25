@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Diamond Dust (for Nondetection)",
+  "name": "Алмазная пыль (для необнаружения)",
   "type": "sundry",
   "_id": "sM6TfZkEisEURgUR",
   "img": "icons/commodities/gems/powder-raw-white.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703961807404,

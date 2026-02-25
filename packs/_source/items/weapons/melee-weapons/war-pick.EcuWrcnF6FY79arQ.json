@@ -1,5 +1,5 @@
 {
-  "name": "War Pick",
+  "name": "Военный выбор",
   "type": "weapon",
   "_id": "EcuWrcnF6FY79arQ",
   "img": "icons/weapons/axes/pickaxe-iron-green.webp",
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716237071720,

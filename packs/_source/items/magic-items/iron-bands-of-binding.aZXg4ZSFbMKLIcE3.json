@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Iron Bands of Binding",
+  "name": "Железные браслеты связывания",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -102,7 +102,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Throw Bands",
+        "name": "Бросок ленты",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -171,7 +171,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Release Bands",
+        "name": "Релизные группы",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -241,7 +241,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Attempt to Escape",
+        "name": "Попытка побега",
         "img": ""
       }
     },
@@ -274,9 +274,9 @@
   "img": "icons/commodities/metal/clasp-steel-braid.webp",
   "effects": [
     {
-      "name": "Iron Bands of Binding",
+      "name": "Железные браслеты связывания",
       "img": "icons/commodities/metal/clasp-steel-braid.webp",
-      "origin": "Compendium.black-flag.items.Item.aZXg4ZSFbMKLIcE3",
+      "origin": "Compendium.black-flag-ru.items.Item.aZXg4ZSFbMKLIcE3",
       "transfer": false,
       "_id": "9ZsrZnwYfx6ARj0w",
       "type": "base",
@@ -301,7 +301,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.047",
         "createdTime": 1729031795698,
         "modifiedTime": 1729031795698,
@@ -320,7 +320,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986321639,
     "modifiedTime": 1756334240206,

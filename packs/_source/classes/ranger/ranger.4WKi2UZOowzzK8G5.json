@@ -1,6 +1,6 @@
 {
   "folder": "I6baatUqrVRmDat7",
-  "name": "Ranger",
+  "name": "Рейнджер",
   "type": "class",
   "_id": "4WKi2UZOowzzK8G5",
   "img": "icons/environment/wilderness/cave-entrance.webp",
@@ -143,10 +143,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.2EYsLjpJ3Db49RVK"
+              "uuid": "Compendium.black-flag-ru.classes.Item.2EYsLjpJ3Db49RVK"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.iggL0dzheHdPAryH"
+              "uuid": "Compendium.black-flag-ru.classes.Item.iggL0dzheHdPAryH"
             }
           ],
           "enabled": true
@@ -163,10 +163,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.RL7zM5jiNbsocEYe"
+              "uuid": "Compendium.black-flag-ru.classes.Item.RL7zM5jiNbsocEYe"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.mHAcVEb8HdClWCxf"
+              "uuid": "Compendium.black-flag-ru.classes.Item.mHAcVEb8HdClWCxf"
             }
           ],
           "enabled": true
@@ -340,7 +340,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.JS1OeXoOYImwdtu8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JS1OeXoOYImwdtu8"
             }
           ],
           "enabled": true
@@ -357,7 +357,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.3mHXyyNNGP0fdDo0"
+              "uuid": "Compendium.black-flag-ru.classes.Item.3mHXyyNNGP0fdDo0"
             }
           ],
           "enabled": true
@@ -374,7 +374,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ru1kVgO08qE2Qn4S"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ru1kVgO08qE2Qn4S"
             }
           ],
           "enabled": true
@@ -391,7 +391,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Y1KVBV2SLWBUczyo"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Y1KVBV2SLWBUczyo"
             }
           ],
           "enabled": true
@@ -408,7 +408,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.xtoebXoxtG9S4Ei6"
+              "uuid": "Compendium.black-flag-ru.classes.Item.xtoebXoxtG9S4Ei6"
             }
           ],
           "enabled": true
@@ -425,7 +425,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.R9fcD18SuCrErfJt"
+              "uuid": "Compendium.black-flag-ru.classes.Item.R9fcD18SuCrErfJt"
             }
           ],
           "enabled": true
@@ -442,7 +442,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.1jCxRloNKWR8Gq1U"
+              "uuid": "Compendium.black-flag-ru.classes.Item.1jCxRloNKWR8Gq1U"
             }
           ],
           "enabled": true
@@ -486,7 +486,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.lpKzUaG0LmkOqTb0",
+              "key": "Compendium.black-flag-ru.items.Item.lpKzUaG0LmkOqTb0",
               "requiresProficiency": false,
               "_id": "CHO2Pq3z5qixhoXt",
               "group": "pSGjUl8jJY7mDgvs",
@@ -495,7 +495,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY",
+              "key": "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY",
               "requiresProficiency": false,
               "_id": "CkvyAfTQERj6vU0I",
               "group": "pSGjUl8jJY7mDgvs",
@@ -511,7 +511,7 @@
             {
               "type": "linked",
               "count": 2,
-              "key": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+              "key": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
               "requiresProficiency": false,
               "_id": "LwjfGShUmn4UPK9v",
               "group": "3HCfQ6lxVAFw0b4p",
@@ -536,7 +536,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "H8Y9tm3ljr3mfxAt",
               "group": "qVJN7R6KqbCpt34a",
@@ -545,7 +545,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "zwL4bCn2tfK8pYHD",
               "group": "qVJN7R6KqbCpt34a",
@@ -561,7 +561,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+              "key": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
               "requiresProficiency": false,
               "_id": "iy1JqQW792bnCVyp",
               "group": "yT6NqRRFo4r1G6g7",
@@ -570,7 +570,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.K7nrBItoocupE1Wg",
+              "key": "Compendium.black-flag-ru.items.Item.K7nrBItoocupE1Wg",
               "requiresProficiency": false,
               "_id": "dZsQuX9xUgt006xu",
               "group": "yT6NqRRFo4r1G6g7",
@@ -579,7 +579,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.pLXuZs8PTiEt5PmK",
+              "key": "Compendium.black-flag-ru.items.Item.pLXuZs8PTiEt5PmK",
               "requiresProficiency": false,
               "_id": "LZswesQrN9HlXSTg",
               "group": "yT6NqRRFo4r1G6g7",
@@ -600,8 +600,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Resourceful survivalists with a mystic connection to nature.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.UBAPJtcA6uoYLcfZ"
+      "short": "Находчивые выживальщики с мистической связью с природой.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.UBAPJtcA6uoYLcfZ"
     },
     "identifier": {
       "value": "ranger"
@@ -615,7 +615,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1718407324671,

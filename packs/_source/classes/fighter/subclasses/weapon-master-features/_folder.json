@@ -1,5 +1,5 @@
 {
-  "name": "Weapon Master Features",
+  "name": "Особенности мастера оружия",
   "sorting": "a",
   "folder": "9B5W88iS36CBCPGv",
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#542032",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "11.315",
     "createdTime": null,

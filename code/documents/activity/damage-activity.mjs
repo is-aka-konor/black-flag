@@ -16,7 +16,7 @@ export default class DamageActivity extends Activity {
 			{
 				type: "damage",
 				dataModel: DamageData,
-				icon: "systems/black-flag/artwork/activities/damage.svg",
+				icon: "systems/black-flag-ru/artwork/activities/damage.svg",
 				title: "BF.DAMAGE.Label",
 				hint: "BF.DAMAGE.Hint",
 				usage: {

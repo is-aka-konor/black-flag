@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Shortbow",
+  "name": "Короткий лук",
   "type": "weapon",
   "_id": "jqDqlfsNkDCUIYHZ",
   "img": "icons/weapons/bows/shortbow-arrows-black.webp",
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024643661,

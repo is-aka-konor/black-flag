@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Poison Spray",
+  "name": "Ядовитый спрей",
   "type": "spell",
   "_id": "DlGDzuYub1O7kkHX",
   "img": "icons/magic/acid/projectile-stream-bubbles.webp",
@@ -67,7 +67,7 @@
     "description": {
       "value": "<p>You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a [[/save]] save or take [[/damage]] damage.</p><p>This spell’s damage increases by 1d12 when you reach 5th level ([[/damage 2d12 poison]]{2d12}), 11th level ([[/damage 3d12 poison]]{3d12}), and 17th level ([[/damage 4d12 poison]]{4d12}).</p>",
       "source": {},
-      "short": "Poison foe at 10 ft."
+      "short": "Отравить противника на расстоянии 10 футов."
     },
     "type": {
       "value": "standard"
@@ -127,7 +127,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934799186,

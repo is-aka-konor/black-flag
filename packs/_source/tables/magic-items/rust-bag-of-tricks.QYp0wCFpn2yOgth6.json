@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Rust Bag of Tricks",
+  "name": "Ржавая сумка с трюками",
   "_id": "QYp0wCFpn2yOgth6",
   "img": "icons/containers/bags/sack-leather-red.webp",
   "description": "",
@@ -14,7 +14,7 @@
       ],
       "drawn": false,
       "_id": "DIfOPrrPWOqUwktk",
-      "img": "systems/black-flag/artwork/tokens/rat.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/rat.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -27,8 +27,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Rat",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.Wu2QaZI38nWZEZtb",
+      "name": "Крыса",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.Wu2QaZI38nWZEZtb",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.DIfOPrrPWOqUwktk"
     },
@@ -54,8 +54,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Owl",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.tI2hsbBl6skqEkOp",
+      "name": "Сова",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.tI2hsbBl6skqEkOp",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.OUPxDu0iwL3wlkM5"
     },
@@ -68,7 +68,7 @@
       ],
       "drawn": false,
       "_id": "Pibsa8KzxusaPkp5",
-      "img": "systems/black-flag/artwork/tokens/mastiff.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/mastiff.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -81,8 +81,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Mastiff",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.ck0kqumkVqWznctK",
+      "name": "Дог",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.ck0kqumkVqWznctK",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.Pibsa8KzxusaPkp5"
     },
@@ -95,7 +95,7 @@
       ],
       "drawn": false,
       "_id": "28Xp6bnt4dE9YWsP",
-      "img": "systems/black-flag/artwork/tokens/goat.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/goat.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -108,8 +108,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Goat",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.sC5LVxumiNuA8EJH",
+      "name": "Козел",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.sC5LVxumiNuA8EJH",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.28Xp6bnt4dE9YWsP"
     },
@@ -122,7 +122,7 @@
       ],
       "drawn": false,
       "_id": "GsnK7M3f4rxmlTIl",
-      "img": "systems/black-flag/artwork/tokens/goat.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/goat.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -135,8 +135,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Giant Goat",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE",
+      "name": "Гигантский козел",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.GsnK7M3f4rxmlTIl"
     },
@@ -149,7 +149,7 @@
       ],
       "drawn": false,
       "_id": "TJp2yoEY93rXoCEJ",
-      "img": "systems/black-flag/artwork/tokens/boar.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/boar.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -162,8 +162,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Giant Boar",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.h1hoa6N6IlypbFz0",
+      "name": "Гигантский кабан",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.h1hoa6N6IlypbFz0",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.TJp2yoEY93rXoCEJ"
     },
@@ -176,7 +176,7 @@
       ],
       "drawn": false,
       "_id": "qOE481B4RVdL5u4o",
-      "img": "systems/black-flag/artwork/tokens/lion.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/lion.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -189,8 +189,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Lion",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.PIz6OxdTiqdlix0y",
+      "name": "Лев",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.PIz6OxdTiqdlix0y",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.qOE481B4RVdL5u4o"
     },
@@ -203,7 +203,7 @@
       ],
       "drawn": false,
       "_id": "CeDtmk7d98YfCoiO",
-      "img": "systems/black-flag/artwork/tokens/bear-grizzly.webp",
+      "img": "systems/black-flag-ru/artwork/tokens/bear-grizzly.webp",
       "flags": {},
       "_stats": {
         "coreVersion": "13.347",
@@ -216,8 +216,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Brown Bear",
-      "documentUuid": "Compendium.black-flag.npcs.Actor.2Uyw9ZrqRJur5bwE",
+      "name": "Бурый Медведь",
+      "documentUuid": "Compendium.black-flag-ru.npcs.Actor.2Uyw9ZrqRJur5bwE",
       "description": "",
       "_key": "!tables.results!QYp0wCFpn2yOgth6.CeDtmk7d98YfCoiO"
     }
@@ -232,7 +232,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "createdTime": 1725739506318,
     "modifiedTime": 1730156928292,

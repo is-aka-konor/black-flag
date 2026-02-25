@@ -1,6 +1,6 @@
 {
   "folder": "Rz5l7tCXHbdNuPUL",
-  "name": "Siege Weapon Resilience",
+  "name": "Устойчивость к осадному оружию",
   "type": "feature",
   "system": {
     "identifier": {
@@ -40,7 +40,7 @@
   "img": "icons/weapons/artillery/trebuchet-simple.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.npcfeatures.Item.Rz5l7tCXHbdNuPUL",
+      "origin": "Compendium.black-flag-ru.npcfeatures.Item.Rz5l7tCXHbdNuPUL",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Siege Weapon Resilience",
+      "name": "Устойчивость к осадному оружию",
       "_id": "q31o2XyAwLmqOM9Y",
       "changes": [
         {
@@ -148,7 +148,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.057",
         "createdTime": 1733771903170,
         "modifiedTime": 1733771918062,
@@ -170,7 +170,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.057",
     "createdTime": 1733771827179,
     "modifiedTime": 1733771858707,

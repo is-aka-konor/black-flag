@@ -17,11 +17,11 @@ export default class InitiativeConfig extends BaseConfigSheet {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/actor/config/initiative-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/initiative-config.hbs"
 		},
 		modifiers: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/modifier-section.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/modifier-section.hbs"
 		}
 	};
 

@@ -33,7 +33,7 @@ export default class HeritageData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Heritage",
 				icon: "fa-solid fa-monument",
-				img: "systems/black-flag/artwork/types/heritage.svg",
+				img: "systems/black-flag-ru/artwork/types/heritage.svg",
 				accentColor: "#aa0000",
 				hasEffects: false,
 				register: true

@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Oni",
+  "name": "Они",
   "type": "npc",
   "_id": "Ae67uuF7mBe8NGDN",
-  "img": "systems/black-flag/artwork/tokens/oni.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/oni.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Oni",
+    "name": "Они",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/oni.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/oni.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -258,7 +258,7 @@
   "items": [
     {
       "folder": "FUnjG0V10gg8lqPG",
-      "name": "Chain Mail",
+      "name": "Кольчуга",
       "type": "armor",
       "_id": "hOHxIMEUBI7LkaE4",
       "img": "icons/equipment/chest/breastplate-metal-scaled-grey.webp",
@@ -326,9 +326,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.FrdsogSzdIlz9Lmo",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.FrdsogSzdIlz9Lmo",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -376,7 +376,7 @@
           "value": null
         }
       },
-      "name": "Empowered Weapons",
+      "name": "Мощное оружие",
       "type": "feature",
       "_id": "mfQg5r62suQaOVb1",
       "img": "icons/skills/melee/strike-axe-energy-pink.webp",
@@ -396,7 +396,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -406,7 +406,7 @@
       "_key": "!actors.items!Ae67uuF7mBe8NGDN.mfQg5r62suQaOVb1"
     },
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "HHb1eNLZm7Hf3Hdb",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -449,7 +449,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -460,7 +460,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -479,7 +479,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -505,7 +505,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -519,7 +519,7 @@
       "_key": "!actors.items!Ae67uuF7mBe8NGDN.HHb1eNLZm7Hf3Hdb"
     },
     {
-      "name": "Regeneration",
+      "name": "Регенерация",
       "type": "feature",
       "_id": "cjpW8ygxFKk1G8RR",
       "img": "icons/magic/life/cross-explosion-burst-green.webp",
@@ -566,7 +566,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/healing.svg",
+            "img": "systems/black-flag-ru/artwork/activities/healing.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -641,9 +641,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.sq472hZSowexsGWG",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.sq472hZSowexsGWG",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -653,7 +653,7 @@
       "_key": "!actors.items!Ae67uuF7mBe8NGDN.cjpW8ygxFKk1G8RR"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "QjAWc0aZb96cb7wd",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -757,7 +757,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -771,7 +771,7 @@
       "_key": "!actors.items!Ae67uuF7mBe8NGDN.QjAWc0aZb96cb7wd"
     },
     {
-      "name": "Glaive",
+      "name": "Глефа",
       "type": "weapon",
       "_id": "fULIrHFIgefFLJ5X",
       "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
@@ -860,8 +860,8 @@
               "min": "",
               "max": ""
             },
-            "name": "Attack when Large",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "name": "Атаковать, когда он большой",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -964,7 +964,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Attack when Medium or Small",
+            "name": "Атакуйте, когда средний или маленький",
             "img": "",
             "visibility": {
               "level": {
@@ -1050,9 +1050,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.caf9G1uCz7agcoym",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.caf9G1uCz7agcoym",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757347764,
@@ -1153,7 +1153,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": true,
             "sort": 0
           }
@@ -1199,7 +1199,7 @@
           "value": null
         }
       },
-      "name": "Whirling Glaive",
+      "name": "Вращающаяся глефа",
       "type": "feature",
       "_id": "LxeLzq2dptX8sSWS",
       "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
@@ -1219,7 +1219,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1230,7 +1230,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Darkness",
+      "name": "Тьма",
       "type": "spell",
       "_id": "7eaCzr46dFsVIgXX",
       "img": "icons/magic/unholy/barrier-shield-glowing-pink.webp",
@@ -1298,7 +1298,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "15-ft. radius magical darkness."
+          "short": "15 футов. радиус магической тьмы."
         },
         "circle": {
           "value": null,
@@ -1316,7 +1316,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "bat fur and pitch or piece of coal",
+            "description": "мех летучей мыши и смола или кусок угля",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1368,9 +1368,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.zAdVL033HkTXL6Nq",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.zAdVL033HkTXL6Nq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1381,7 +1381,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Invisibility (Self Only)",
+      "name": "Невидимость (только для себя)",
       "type": "spell",
       "_id": "6uQOOWqYYsCULR0J",
       "img": "icons/magic/control/silhouette-hold-change-green.webp",
@@ -1439,7 +1439,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1456,7 +1456,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally becomes invisible."
+          "short": "Союзник становится невидимым."
         },
         "circle": {
           "value": null,
@@ -1475,7 +1475,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "an eyelash encased in tree sap",
+            "description": "ресница, залитая соком дерева",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1525,9 +1525,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1538,7 +1538,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Charm",
+      "name": "Очарование",
       "type": "spell",
       "_id": "8Qoh5pmjZJnYqVjI",
       "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
@@ -1587,7 +1587,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1629,7 +1629,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Compel creature to trust you."
+          "short": "Заставьте существо доверять вам."
         },
         "circle": {
           "value": null,
@@ -1683,7 +1683,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+          "origin": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1694,10 +1694,10 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Charm",
+          "name": "Очарование",
           "_id": "MHWYFHDDXmIygkPs",
           "changes": [],
-          "description": "<p>The target is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p>",
+          "description": "<p>Цель очаровал вас этим способом, пока заклинание не завершится или пока вы или ваш спутник не причините ей вреда. Очарованное Существо расценивает вас как знакомого принца. Когда заклинание закончится, Бытие поймет, что оно было вами очаровано.</p>",
           "transfer": false,
           "statuses": [
             "charmed"
@@ -1708,7 +1708,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1740,9 +1740,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1753,7 +1753,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Gaseous Form",
+      "name": "Газообразная форма",
       "type": "spell",
       "_id": "z88C1Omy0xfpIgsY",
       "img": "icons/magic/air/wind-swirl-gray-blue.webp",
@@ -1817,7 +1817,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1839,7 +1839,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally becomes a slow cloud."
+          "short": "Союзник становится медленным облаком."
         },
         "circle": {
           "value": null,
@@ -1858,7 +1858,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of gauze and a wisp of smoke",
+            "description": "немного марли и струйка дыма",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1896,7 +1896,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.fUkZjWTGW0wFntSB",
+          "origin": "Compendium.black-flag-ru.spells.Item.fUkZjWTGW0wFntSB",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1907,7 +1907,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Gaseous Form",
+          "name": "Газообразная форма",
           "img": "icons/magic/air/wind-swirl-gray-blue.webp",
           "_id": "EfBnS0G1W7UMWYhI",
           "type": "base",
@@ -1960,7 +1960,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1988,9 +1988,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.fUkZjWTGW0wFntSB",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.fUkZjWTGW0wFntSB",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2001,7 +2001,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Sleep",
+      "name": "Спать",
       "type": "spell",
       "_id": "Fqp3dqR38J08lKjX",
       "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
@@ -2065,7 +2065,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2087,7 +2087,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Lull foes into sleep."
+          "short": "Убаюкивает противников."
         },
         "circle": {
           "value": null,
@@ -2106,7 +2106,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a pinch of fine sand or a cricket",
+            "description": "щепотка мелкого песка или сверчок",
             "denomination": "pp",
             "consumed": false
           }
@@ -2160,9 +2160,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.pais75ndQesCocfq",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.pais75ndQesCocfq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2229,7 +2229,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2269,7 +2269,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "RrXTxdGwYPpRbkx2",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -2285,7 +2285,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2299,7 +2299,7 @@
       "_key": "!actors.items!Ae67uuF7mBe8NGDN.RrXTxdGwYPpRbkx2"
     },
     {
-      "name": "Claw (True Form Only)",
+      "name": "Коготь (только в истинной форме)",
       "type": "weapon",
       "_id": "bcoJd9CxY42QGwaQ",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -2366,7 +2366,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2476,7 +2476,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928283,
         "modifiedTime": 1756757325978,
@@ -2565,7 +2565,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": true,
             "sort": 0,
             "flags": {},
@@ -2634,7 +2634,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Arcane Bolt",
+      "name": "Чародейская стрела",
       "type": "weapon",
       "_id": "ZRFfRj8kvcgoDoAt",
       "img": "icons/magic/light/projectile-smoke-blue-light.webp",
@@ -2651,7 +2651,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928283,
         "modifiedTime": 1756757359540,
@@ -2669,7 +2669,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

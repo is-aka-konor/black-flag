@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Flute of Saurian Summoning",
+  "name": "Флейта призыва ящера",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This scaly, clawed flute has a musky smell, and it releases a predatory, screeching roar with reptilian overtones when blown. You must have proficiency with instruments (woodwinds) to use this flute. You can use an action to play the flute and conjure dinosaurs. This works like the <em>@UUID[Compendium.black-flag.spells.Item.9nMxGFyHBXufsUnu]{conjure animals}</em> spell, except the animals you conjure must be <strong>dinosaurs</strong> or Medium or larger lizards. The dinosaurs remain for 1 hour, until they die, or until you dismiss them as a bonus action. The flute can’t be used to conjure dinosaurs again until the next dawn.</p>",
+      "value": "<p>This scaly, clawed flute has a musky smell, and it releases a predatory, screeching roar with reptilian overtones when blown. You must have proficiency with instruments (woodwinds) to use this flute. You can use an action to play the flute and conjure dinosaurs. This works like the <em>@UUID[Compendium.black-flag-ru.spells.Item.9nMxGFyHBXufsUnu]{conjure animals}</em> spell, except the animals you conjure must be <strong>dinosaurs</strong> or Medium or larger lizards. The dinosaurs remain for 1 hour, until they die, or until you dismiss them as a bonus action. The flute can’t be used to conjure dinosaurs again until the next dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -84,7 +84,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Play Flute",
+        "name": "Играть на флейте",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -133,7 +133,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984834160,
     "modifiedTime": 1756333955010,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Elk",
+  "name": "Лось",
   "type": "npc",
   "_id": "HygHNXNR3ltqfGCU",
-  "img": "systems/black-flag/artwork/tokens/elk.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/elk.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -140,7 +140,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Elk",
+    "name": "Лось",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -148,7 +148,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/elk.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/elk.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -358,7 +358,7 @@
           "value": null
         }
       },
-      "name": "Charge",
+      "name": "Зарядка",
       "type": "feature",
       "_id": "ldZl29WS5ahNinNk",
       "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
@@ -374,7 +374,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hw5fweWJcaECt9xk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -464,7 +464,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -533,7 +533,7 @@
         },
         "rarity": ""
       },
-      "name": "Ram",
+      "name": "Баран",
       "type": "weapon",
       "_id": "SOtOv0KgmtstWdNy",
       "img": "icons/creatures/mammals/goat-horned-blue.webp",
@@ -550,7 +550,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929878,
         "modifiedTime": 1756750005157,
@@ -714,7 +714,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -732,7 +732,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 12 format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 12 format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -782,7 +782,7 @@
         },
         "rarity": ""
       },
-      "name": "Kick",
+      "name": "Удар",
       "type": "weapon",
       "_id": "QZ2lB4Q7R9apZgEG",
       "img": "icons/skills/wounds/injury-pain-body-orange.webp",
@@ -799,7 +799,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929878,
         "modifiedTime": 1756750012739,
@@ -817,7 +817,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,7 +1,7 @@
 {
-  "name": "Galley",
+  "name": "Камбуз",
   "type": "vehicle",
-  "img": "systems/black-flag/artwork/types/vehicle.svg",
+  "img": "systems/black-flag-ru/artwork/types/vehicle.svg",
   "system": {
     "modifiers": [],
     "traits": {
@@ -118,7 +118,7 @@
     "initiative": 4
   },
   "prototypeToken": {
-    "name": "Vehicle",
+    "name": "Транспортное средство",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -126,7 +126,7 @@
     "width": 26,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/types/vehicle.svg",
+      "src": "systems/black-flag-ru/artwork/types/vehicle.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -247,7 +247,7 @@
           "value": null
         }
       },
-      "name": "Sails",
+      "name": "Паруса",
       "type": "feature",
       "_id": "vLkYbn10HmgQOr2y",
       "img": "icons/commodities/cloth/cloth-scraps-plain.webp",
@@ -268,7 +268,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": 1733434971553,
@@ -410,7 +410,7 @@
         },
         "rarity": ""
       },
-      "name": "Fire Ballista",
+      "name": "Огненная баллиста",
       "type": "weapon",
       "_id": "ke10WX1mOdO3kFI1",
       "img": "icons/weapons/artillery/ballista-wood-green.webp",
@@ -439,7 +439,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": 1733435311873,
@@ -577,7 +577,7 @@
         },
         "rarity": ""
       },
-      "name": "Fire Mangonels",
+      "name": "Огненные мангонели",
       "type": "weapon",
       "_id": "b16lUW7skIHN9KuN",
       "img": "icons/weapons/artillery/catapult-simple.webp",
@@ -606,7 +606,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": 1733435243658,
@@ -700,10 +700,10 @@
           "value": null
         }
       },
-      "name": "Row",
+      "name": "Ряд",
       "type": "feature",
       "_id": "fB1hRynB3WlsU56D",
-      "img": "systems/black-flag/artwork/types/feature.svg",
+      "img": "systems/black-flag-ru/artwork/types/feature.svg",
       "effects": [],
       "folder": null,
       "sort": 0,
@@ -721,7 +721,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": null,
@@ -731,7 +731,7 @@
       "_key": "!actors.items!gI1IaiYI7HpM890y.fB1hRynB3WlsU56D"
     },
     {
-      "name": "Vehicle Resilience",
+      "name": "Устойчивость автомобиля",
       "type": "feature",
       "system": {
         "identifier": {
@@ -771,7 +771,7 @@
       "img": "icons/environment/settlement/wagon.webp",
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -782,7 +782,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Vehicle Resilience",
+          "name": "Устойчивость автомобиля",
           "_id": "0B6GT0HRHM04q0fP",
           "changes": [
             {
@@ -879,7 +879,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "1.1.055",
             "createdTime": null,
             "modifiedTime": null,
@@ -906,10 +906,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.4mrsMh1wkqybueGe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.4mrsMh1wkqybueGe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": null,
@@ -928,7 +928,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733434575007,
     "modifiedTime": 1733437721672,

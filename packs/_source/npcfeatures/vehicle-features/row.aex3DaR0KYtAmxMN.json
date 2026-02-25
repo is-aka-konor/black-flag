@@ -83,7 +83,7 @@
       "value": null
     }
   },
-  "name": "Row",
+  "name": "Ряд",
   "type": "feature",
   "img": "icons/magic/water/wave-water-teal.webp",
   "effects": [],
@@ -101,7 +101,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733435031447,
     "modifiedTime": 1733438478138,

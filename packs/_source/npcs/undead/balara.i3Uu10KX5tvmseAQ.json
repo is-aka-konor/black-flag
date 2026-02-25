@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Balara",
+  "name": "Балара",
   "type": "npc",
   "_id": "i3Uu10KX5tvmseAQ",
-  "img": "systems/black-flag/artwork/tokens/balara.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/balara.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Balara",
+    "name": "Балара",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/balara.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/balara.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -340,7 +340,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature that can see the balara’s glowing ribcage starts its turn within 30 feet of the balara, the balara can force it to make a [[/save format=long]] if the balara isn’t incapacitated and can see the creature. On a failure, the creature is &amp;Reference[frightened]{frightened} until the start of its next turn, as the visions, fear, and pain of the last moments of several animals flash through its mind. While frightened, the creature’s speed is reduced to 0, and it can’t use reactions.</p><p>Unless surprised, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the balara until the start of its next turn, when it can avert its eyes again. If the creature looks at the balara in the meantime, it must immediately make the save.</p>",
+          "value": "<p>When a creature that can see the balara’s glowing ribcage starts its turn within 30 feet of the balara, the balara can force it to make a [[/save format=long]] if the balara isn’t incapacitated and can see the creature. On a failure, the creature is &Reference[frightened]{frightened} until the start of its next turn, as the visions, fear, and pain of the last moments of several animals flash through its mind. While frightened, the creature’s speed is reduced to 0, and it can’t use reactions.</p><p>Unless surprised, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the balara until the start of its next turn, when it can avert its eyes again. If the creature looks at the balara in the meantime, it must immediately make the save.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -366,7 +366,7 @@
           "value": null
         }
       },
-      "name": "Terrifying Luminance",
+      "name": "Ужасающая яркость",
       "type": "feature",
       "_id": "Ajx6mXrjctOo78m6",
       "img": "icons/magic/unholy/hand-claw-fire-blue.webp",
@@ -386,7 +386,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -396,7 +396,7 @@
       "_key": "!actors.items!i3Uu10KX5tvmseAQ.Ajx6mXrjctOo78m6"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -450,9 +450,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.7sxXRJayum4g5Y2A",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.7sxXRJayum4g5Y2A",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -464,7 +464,7 @@
       "_key": "!actors.items!i3Uu10KX5tvmseAQ.XTyIbdAvFZtq6IgG"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -506,7 +506,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -517,7 +517,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -548,7 +548,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -575,9 +575,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -589,7 +589,7 @@
       "_key": "!actors.items!i3Uu10KX5tvmseAQ.5IlzRHHkrUq7eTsk"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "deGldhw053wWbULS",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -695,9 +695,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -764,7 +764,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -804,7 +804,7 @@
           "value": null
         }
       },
-      "name": "Relentless Pursuit",
+      "name": "Неустанное преследование",
       "type": "feature",
       "_id": "h5zpJRRqW32WqDNV",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -824,7 +824,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -834,7 +834,7 @@
       "_key": "!actors.items!i3Uu10KX5tvmseAQ.h5zpJRRqW32WqDNV"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "TkaOKfhXpgUDc0sW",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -899,7 +899,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1010,10 +1010,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933850,
         "modifiedTime": 1756760628795,
@@ -1022,7 +1022,7 @@
       "_key": "!actors.items!i3Uu10KX5tvmseAQ.TkaOKfhXpgUDc0sW"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "AWOXTjgpWTF7cAXH",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1072,7 +1072,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1183,10 +1183,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2hYUlglK9czNmHNx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2hYUlglK9czNmHNx",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933850,
         "modifiedTime": 1756760634363,
@@ -1271,7 +1271,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1340,7 +1340,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Necrotic Bolt",
+      "name": "Некротическая стрела",
       "type": "weapon",
       "_id": "DLe4hwO2ntE0MlKA",
       "img": "icons/magic/unholy/beam-ringed-impact-purple.webp",
@@ -1361,7 +1361,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933850,
         "modifiedTime": 1756760641509,
@@ -1375,7 +1375,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

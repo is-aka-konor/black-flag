@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Create or Destroy Water",
+  "name": "Создать или уничтожить воду",
   "type": "spell",
   "_id": "JKOLGDy9N2dMsnDp",
   "img": "icons/magic/water/wave-water-explosion.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>When you cast this spell, choose which of the following effects to create.</p><p><strong>Create Water.</strong> You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.</p><p><strong>Destroy Water.</strong> You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot above 1st.</p>",
       "source": {},
-      "short": "Affect gallons of water."
+      "short": "Влияет на галлоны воды."
     },
     "source": [
       "primordial"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a drop of water if creating water or a few grains of sand if destroying it"
+        "description": "капля воды, если создается вода, или несколько песчинок, если ее разрушают"
       }
     },
     "duration": {
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720286913702,

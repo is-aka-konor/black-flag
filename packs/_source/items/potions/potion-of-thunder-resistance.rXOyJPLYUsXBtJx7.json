@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Thunder Resistance",
+  "name": "Зелье сопротивления грому",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "2Fm46fRvTd3Db4h6"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/bottle-corked-blue.webp",
   "effects": [
     {
-      "name": "Thunder Resistance",
+      "name": "Громовое сопротивление",
       "img": "icons/consumables/potions/bottle-corked-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.rXOyJPLYUsXBtJx7",
+      "origin": "Compendium.black-flag-ru.items.Item.rXOyJPLYUsXBtJx7",
       "transfer": false,
       "_id": "sdFNj5SRvZijf2Bx",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539951778,
         "modifiedTime": 1729539990835,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073798044,
     "modifiedTime": 1735684948427,

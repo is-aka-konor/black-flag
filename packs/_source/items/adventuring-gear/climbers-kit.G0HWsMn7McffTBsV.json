@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Climber's Kit",
+  "name": "Комплект альпиниста",
   "type": "gear",
   "_id": "G0HWsMn7McffTBsV",
   "img": "icons/sundries/survival/climbing-anchor-steel-grey.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363279887,

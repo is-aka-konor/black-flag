@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Feather Falling",
+  "name": "Кольцо падающего пера",
   "system": {
     "type": {
       "category": "clothing",
@@ -51,7 +51,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724986981593,
     "modifiedTime": 1729890185802,

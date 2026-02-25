@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Stone of Good Luck (Luckstone)",
+  "name": "Камень удачи (Luckstone)",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Good Luck",
-      "origin": "Compendium.black-flag.items.Item.ZMxQ2E8Wito56JTA",
+      "name": "Удачи",
+      "origin": "Compendium.black-flag-ru.items.Item.ZMxQ2E8Wito56JTA",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730154255258,
         "modifiedTime": 1756332678211,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1725071380139,
     "modifiedTime": 1730153849071,

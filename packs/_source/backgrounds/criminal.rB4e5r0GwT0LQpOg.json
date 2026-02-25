@@ -1,5 +1,5 @@
 {
-  "name": "Criminal",
+  "name": "Уголовный",
   "type": "background",
   "_id": "rB4e5r0GwT0LQpOg",
   "img": "icons/commodities/currency/coin-inset-skull-copper.webp",
@@ -85,13 +85,13 @@
           "type": "talent",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.talents.Item.j9tVyE1I44NJxqUR"
+              "uuid": "Compendium.black-flag-ru.talents.Item.j9tVyE1I44NJxqUR"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.R7ePJd2INo50LAx8"
+              "uuid": "Compendium.black-flag-ru.talents.Item.R7ePJd2INo50LAx8"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.a89OU77hOUv438yn"
+              "uuid": "Compendium.black-flag-ru.talents.Item.a89OU77hOUv438yn"
             }
           ],
           "restriction": {
@@ -112,7 +112,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.6P6tXiVrzYQGcLSs",
+              "key": "Compendium.black-flag-ru.items.Item.6P6tXiVrzYQGcLSs",
               "requiresProficiency": false,
               "_id": "zQ3IVQ6M982nWK0I",
               "group": "",
@@ -128,7 +128,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.cu20qkGMLu8ZWzir",
+              "key": "Compendium.black-flag-ru.items.Item.cu20qkGMLu8ZWzir",
               "requiresProficiency": false,
               "_id": "OxSbYp96wv2BcFoa",
               "group": "54H4nZrZeCSGUi7e",
@@ -137,7 +137,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.rqjNk9fJb2XcD5fE",
+              "key": "Compendium.black-flag-ru.items.Item.rqjNk9fJb2XcD5fE",
               "requiresProficiency": false,
               "_id": "JjcbEaRR7quhXbBG",
               "group": "54H4nZrZeCSGUi7e",
@@ -146,7 +146,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.SttZ2VQd3PLoBTnt",
+              "key": "Compendium.black-flag-ru.items.Item.SttZ2VQd3PLoBTnt",
               "requiresProficiency": false,
               "_id": "UhhPC4Tdw4ylkml9",
               "group": "",
@@ -155,7 +155,7 @@
             {
               "type": "linked",
               "count": 10,
-              "key": "Compendium.black-flag.currencies.Item.eWMYzM5UVZUDIqtg",
+              "key": "Compendium.black-flag-ru.currencies.Item.eWMYzM5UVZUDIqtg",
               "requiresProficiency": false,
               "_id": "jR5cY2f6b9aN4vyn",
               "group": "",
@@ -164,7 +164,7 @@
             {
               "type": "linked",
               "count": 5,
-              "key": "Compendium.black-flag.items.Item.jlf8CAJNIaMCKywo",
+              "key": "Compendium.black-flag-ru.items.Item.jlf8CAJNIaMCKywo",
               "requiresProficiency": false,
               "_id": "Q7vjHOF8acTCu8wt",
               "group": null,
@@ -186,7 +186,7 @@
       "value": "<p>@Embed[.Advancement.S0mJoNomg3fwsPh9 inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.uhDnJGd03n5tf8QI inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.DeHsdenX3W8whQNx inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.f5eehJFY4H9AkMBJ inline list=false]</p>",
       "source": {},
       "short": "",
-      "journal": "Compendium.black-flag.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
     },
     "identifier": {
       "value": "criminal"
@@ -200,7 +200,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1717530571047,

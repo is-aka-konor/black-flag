@@ -1,6 +1,6 @@
 {
   "folder": "LMtPAhFY28bApEKC",
-  "name": "Hunter Calling Spells",
+  "name": "Заклинания вызова охотника",
   "type": "feature",
   "_id": "CwzyrsECSRXN5dYS",
   "img": "icons/magic/nature/tree-spirit-green.webp",
@@ -20,7 +20,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.gBis1QK0mfhwc26a"
+              "uuid": "Compendium.black-flag-ru.spells.Item.gBis1QK0mfhwc26a"
             }
           ],
           "spell": {
@@ -47,7 +47,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.xhRzHohXcal3iFYK"
+              "uuid": "Compendium.black-flag-ru.spells.Item.xhRzHohXcal3iFYK"
             }
           ],
           "spell": {
@@ -74,7 +74,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.XCJdbzCAPM6v5dFw"
+              "uuid": "Compendium.black-flag-ru.spells.Item.XCJdbzCAPM6v5dFw"
             }
           ],
           "spell": {
@@ -100,7 +100,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.skEh2fs5eZlzAdJ1"
+              "uuid": "Compendium.black-flag-ru.spells.Item.skEh2fs5eZlzAdJ1"
             }
           ],
           "spell": {
@@ -127,7 +127,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.09Sensm5KJcvLdhx"
+              "uuid": "Compendium.black-flag-ru.spells.Item.09Sensm5KJcvLdhx"
             }
           ],
           "spell": {
@@ -150,7 +150,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain calling spells at the ranger levels listed in the <strong>Hunter Calling Spells</strong> table. See the Ranger Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.RgnrgurcoacKa6dq inline]</p>",
+      "value": "<p>You gain calling spells at the ranger levels listed in the <strong>Hunter Calling Spells</strong> table. See the Ranger Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.RgnrgurcoacKa6dq inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -179,7 +179,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1718422292947,

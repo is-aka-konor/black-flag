@@ -1,5 +1,5 @@
 {
-  "name": "Block and Tackle",
+  "name": "Блок и захват",
   "type": "gear",
   "_id": "80dUOEZSTufMwa9P",
   "img": "icons/tools/fasteners/chain-hook-grey.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717531817772,

@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Javelin of Lightning",
+  "name": "Копье молнии",
   "type": "weapon",
   "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
   "system": {
@@ -152,7 +152,7 @@
           ],
           "max": "1"
         },
-        "name": "Hurl Lightning",
+        "name": "Метать молнию",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -231,7 +231,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589450073,
     "modifiedTime": 1756334256193,

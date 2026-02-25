@@ -16,7 +16,7 @@ export default class GrantSpellsAdvancement extends GrantFeaturesAdvancement {
 					value: GrantSpellsValueData
 				},
 				order: 45,
-				icon: "systems/black-flag/artwork/advancement/grant-spells.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/grant-spells.svg",
 				title: "BF.Advancement.GrantSpells.Title",
 				hint: "BF.Advancement.GrantSpells.Hint"
 			},

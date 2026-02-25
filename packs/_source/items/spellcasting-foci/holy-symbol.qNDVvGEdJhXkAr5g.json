@@ -1,6 +1,6 @@
 {
   "folder": "wSiOfRiBKheFmCK3",
-  "name": "Holy Symbol",
+  "name": "Священный символ",
   "type": "gear",
   "_id": "qNDVvGEdJhXkAr5g",
   "img": "icons/equipment/neck/necklace-astrology-sun-gold.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707362707719,

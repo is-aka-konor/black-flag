@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Spellcasting",
+  "name": "Колдовство",
   "type": "feature",
   "_id": "kevb50NorUGBE4Tx",
   "img": "icons/magic/light/orb-shadow-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376062264,

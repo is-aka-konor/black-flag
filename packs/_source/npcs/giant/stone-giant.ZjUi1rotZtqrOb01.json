@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Stone Giant",
+  "name": "Каменный великан",
   "type": "npc",
   "_id": "ZjUi1rotZtqrOb01",
-  "img": "systems/black-flag/artwork/tokens/giant-stone.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/giant-stone.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Stone Giant",
+    "name": "Каменный великан",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/giant-stone.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/giant-stone.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -256,7 +256,7 @@
   },
   "items": [
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "IeU6SHIBTCr5VGET",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -297,7 +297,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -308,7 +308,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -333,7 +333,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -359,7 +359,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -411,7 +411,7 @@
           "value": null
         }
       },
-      "name": "Stone Camouflage",
+      "name": "Каменный Камуфляж",
       "type": "feature",
       "_id": "5LmgV1YAVvJBVBf2",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -431,7 +431,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -441,7 +441,7 @@
       "_key": "!actors.items!ZjUi1rotZtqrOb01.5LmgV1YAVvJBVBf2"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "ReRAUlsrEII8ZKRV",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -545,7 +545,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -647,7 +647,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -667,7 +667,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target is &amp;Reference[grappled]{grappled} (escape DC 17) if it is a Large or smaller creature and the stone giant isn’t already grappling a creature.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target is &Reference[grappled]{grappled} (escape DC 17) if it is a Large or smaller creature and the stone giant isn’t already grappling a creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -712,7 +712,7 @@
         },
         "rarity": ""
       },
-      "name": "Stony Fist",
+      "name": "Каменный кулак",
       "type": "weapon",
       "_id": "MvHzRu1ZZBvDpQul",
       "img": "icons/magic/earth/strike-fist-stone-gray.webp",
@@ -732,7 +732,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757447576,
@@ -828,7 +828,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -901,7 +901,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": ""
           }
         },
@@ -913,7 +913,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 17 format=long]] save or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 17 format=long]] save or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -956,7 +956,7 @@
         },
         "rarity": ""
       },
-      "name": "Rock",
+      "name": "Рок",
       "type": "weapon",
       "_id": "L0NztvRBFGBGtEyT",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -976,7 +976,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757399863,
@@ -992,7 +992,7 @@
           "O0up88mlwb5d5dyD": {
             "type": "save",
             "_id": "O0up88mlwb5d5dyD",
-            "description": "<p>The target is thrown up to 30 feet in a random direction and knocked &Reference[prone]{prone}, ending the grapple. If a thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save dex 17 format=long]] or take the same damage and be knocked prone.</p>",
+            "description": "<p>Цель отбрасывается на расстояние до 30 футов в случайном направлении и сбивается с ног &Reference[лежа]{prone}, прекращая захват. Если брошенная цель ударяется о твердую поверхность, цель получает [[/damage 1d6 bludgeoning average]] урона для женщины на расстоянии 10 футов, на котором она была брошена. Если цель брошена в другое Существо, то это Существо должно преуспеть в [[/save dex 17 format=long]], иначе оно получит тот же урон и будет сбито с ног.</p>",
             "sort": 500000,
             "system": {
               "damage": {
@@ -1067,7 +1067,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Throw",
+            "name": "Бросок",
             "img": ""
           },
           "swkdZDdL944Jeb4D": {
@@ -1137,13 +1137,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Primary STR Save",
+            "name": "Первичное сохранение STR",
             "img": ""
           },
           "vARZti6P5h1lvZv8": {
             "type": "utility",
             "_id": "vARZti6P5h1lvZv8",
-            "description": "<p>The target has disadvantage on attack rolls and on checks made to escape the grapple.</p>",
+            "description": "<p>Цель имеет помехи при нажатии кнопки и проверки, необходимые для выхода из захвата.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1201,13 +1201,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Armbar",
+            "name": "Армбар",
             "img": ""
           },
           "dhri57M4R57CjxMN": {
             "type": "utility",
             "_id": "dhri57M4R57CjxMN",
-            "description": "<p>The target can’t speak and can’t cast spells with verbal components.</p>",
+            "description": "<p>Цель не может говорить и произносить заклинания с вербальными компонентами.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1265,13 +1265,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Chinlock",
+            "name": "Чинлок",
             "img": ""
           },
           "Ekk8qPY6r2PrJyKw": {
             "type": "utility",
             "_id": "Ekk8qPY6r2PrJyKw",
-            "description": "<p>The target is knocked &Reference[prone]{prone} and &Reference[restrained]{restrained}.</p>",
+            "description": "<p>Цель сбита &Reference[лежа]{prone} и &Reference[сдержана]{restrained}.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1329,7 +1329,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Takedown",
+            "name": "Удаление",
             "img": ""
           }
         },
@@ -1368,7 +1368,7 @@
           "value": null
         }
       },
-      "name": "Wrestle",
+      "name": "Борьба",
       "type": "feature",
       "_id": "vSzrCxNcw2kvhvGB",
       "img": "icons/magic/control/buff-strength-muscle-damage-red.webp",
@@ -1388,7 +1388,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1455,7 +1455,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1495,7 +1495,7 @@
           "value": null
         }
       },
-      "name": "Missile Deflection",
+      "name": "Отклонение ракеты",
       "type": "feature",
       "_id": "uIPjsXOoCulED5jR",
       "img": "icons/skills/melee/hand-grip-staff-teal.webp",
@@ -1512,7 +1512,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Missile Deflection AC Bonus",
+          "name": "Бонус AC к отклонению ракеты",
           "img": "icons/skills/melee/hand-grip-staff-teal.webp",
           "_id": "gUGImQ73GczZqNk5",
           "type": "base",
@@ -1535,7 +1535,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1560,7 +1560,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1575,7 +1575,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

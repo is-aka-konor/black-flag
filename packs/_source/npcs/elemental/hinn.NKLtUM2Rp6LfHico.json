@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Hinn",
+  "name": "Хинн",
   "type": "npc",
   "_id": "NKLtUM2Rp6LfHico",
-  "img": "systems/black-flag/artwork/tokens/genie-hinn.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/genie-hinn.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Hinn",
+    "name": "Хинн",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/genie-hinn.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/genie-hinn.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -295,7 +295,7 @@
           "value": null
         }
       },
-      "name": "Earth Glide",
+      "name": "Земное скольжение",
       "type": "feature",
       "_id": "H2kPfSMB5jAnH9NS",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
@@ -311,7 +311,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.fpzLiLR9fiEsJgMO",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -363,7 +363,7 @@
           "value": null
         }
       },
-      "name": "Nebulous (Cloud Form Only)",
+      "name": "Туманность (только в форме облака)",
       "type": "feature",
       "_id": "oAnc6e2dry5krtDA",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -379,7 +379,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.uktdCrMiZJvvT8VZ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -393,7 +393,7 @@
       "_key": "!actors.items!NKLtUM2Rp6LfHico.oAnc6e2dry5krtDA"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "hkOfhlDBWzxFDxzI",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -461,7 +461,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hinn makes three Gem-Studded Mace or Lob Stone attacks. If two Gem-Studded Mace attacks hit one creature, the target must succeed on a [[/save format=long]] or be &amp;Reference[stunned]{stunned} until the end of its next turn.</p>",
+          "value": "<p>The hinn makes three Gem-Studded Mace or Lob Stone attacks. If two Gem-Studded Mace attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[stunned]{stunned} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -514,7 +514,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -529,7 +529,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Gem-Studded Mace",
+      "name": "Усыпанная драгоценными камнями булава",
       "type": "weapon",
       "_id": "zzYhKLTREqgfuQhb",
       "img": "icons/weapons/maces/mace-flanged-steel.webp",
@@ -619,7 +619,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -702,9 +702,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.XOrCLbriQXUoLCTL",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.XOrCLbriQXUoLCTL",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755221749,
@@ -800,7 +800,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -864,7 +864,7 @@
         },
         "rarity": ""
       },
-      "name": "Lob Stone",
+      "name": "Лоб Стоун",
       "type": "weapon",
       "_id": "8wpyW5Udf5zY864Q",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -884,7 +884,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755246360,
@@ -961,7 +961,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1006,7 +1006,7 @@
           "value": null
         }
       },
-      "name": "Create Earth Elemental",
+      "name": "Создать элементаля земли",
       "type": "feature",
       "_id": "KzNVO4UajQprMlmq",
       "img": "icons/magic/earth/construct-stone-long-arms.webp",
@@ -1022,7 +1022,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5CzaWELIdHBfWcG3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1099,7 +1099,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1144,7 +1144,7 @@
           "value": null
         }
       },
-      "name": "Travel the Planes",
+      "name": "Путешествуйте на самолетах",
       "type": "feature",
       "_id": "fELnSQLTOLQF7XQU",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1160,7 +1160,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XzRlTqBr96a7pr5Z",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1259,7 +1259,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1273,7 +1273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hinn causes the ground on a point it can see within 60 feet of it to erupt. Each creature within 15 feet of that point must succeed on a [[/save format=long]] or take [[/damage average]] damage and be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The hinn causes the ground on a point it can see within 60 feet of it to erupt. Each creature within 15 feet of that point must succeed on a [[/save format=long]] or take [[/damage average]] damage and be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1299,7 +1299,7 @@
           "value": null
         }
       },
-      "name": "Churned Earth",
+      "name": "Перепаханная Земля",
       "type": "feature",
       "_id": "bH0uXWUFPmBZVgDp",
       "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
@@ -1319,7 +1319,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1386,7 +1386,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1426,7 +1426,7 @@
           "value": null
         }
       },
-      "name": "Genie Shape",
+      "name": "Джинн Форма",
       "type": "feature",
       "_id": "jcXi2bWmT5vrrtUW",
       "img": "icons/magic/air/fog-gas-smoke-brown.webp",
@@ -1442,7 +1442,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.jJYos90sdWGUkytz",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1461,7 +1461,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Spellcasting",
+  "name": "Колдовство",
   "type": "feature",
   "_id": "Lm393aRfIlax1ZIX",
   "img": "icons/magic/light/orb-hands-humanoid-yellow.webp",
@@ -36,7 +36,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045134216,

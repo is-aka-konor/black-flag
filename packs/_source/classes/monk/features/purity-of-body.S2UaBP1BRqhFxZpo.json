@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Purity of Body",
+  "name": "Чистота тела",
   "type": "feature",
   "_id": "S2UaBP1BRqhFxZpo",
   "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
@@ -9,7 +9,7 @@
       "70jupEPr8MvC79nz": {
         "type": "healing",
         "_id": "70jupEPr8MvC79nz",
-        "description": "<p>When you are reduced to 0 HP but not killed outright, you can instantly reset your hit point total to your current number of technique points. You can’t recover hit points in this way again until you finish a long rest.</p>",
+        "description": "<p>Когда ваше здоровье опускается до 0, но вы не убиты сразу, вы можете мгновенно сбросить общее количество очков жизни до текущего количества очков техники. Вы не сможете снова восстановить хиты таким способом, пока не закончите длительный отдых.</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -136,7 +136,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.046",
     "coreVersion": "13.347",
     "createdTime": 1717970281006,

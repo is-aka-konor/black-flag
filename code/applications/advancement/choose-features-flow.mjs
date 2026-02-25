@@ -19,7 +19,7 @@ export default class ChooseFeaturesFlow extends AdvancementFlow {
 		...super.PARTS,
 		content: {
 			classes: ["advancement-summary"],
-			template: "systems/black-flag/templates/advancement/choose-features-flow-content.hbs"
+			template: "systems/black-flag-ru/templates/advancement/choose-features-flow-content.hbs"
 		}
 	};
 

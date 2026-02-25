@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Evasion",
+  "name": "Уклонение",
   "type": "feature",
   "_id": "7eBNXECYoX2cabSJ",
   "img": "icons/skills/movement/arrow-upward-yellow.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715739789922,

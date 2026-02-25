@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Frost Giant",
+  "name": "Ледяной великан",
   "type": "npc",
   "_id": "DIozpmms6n4Oy2Lj",
-  "img": "systems/black-flag/artwork/tokens/giant-frost.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/giant-frost.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Frost Giant",
+    "name": "Ледяной великан",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/giant-frost.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/giant-frost.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -254,7 +254,7 @@
   },
   "items": [
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "xhrMydbhRFa79sSL",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -295,7 +295,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -306,7 +306,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -331,7 +331,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -357,7 +357,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -409,7 +409,7 @@
           "value": null
         }
       },
-      "name": "Ice Walk",
+      "name": "Ледовая прогулка",
       "type": "feature",
       "_id": "pAE8xgtbSU0VqKQf",
       "img": "icons/magic/water/barrier-ice-wall-snow.webp",
@@ -425,7 +425,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.kpiloCcyS2geMYIn",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -477,7 +477,7 @@
           "value": null
         }
       },
-      "name": "Snowsight",
+      "name": "Снежная достопримечательность",
       "type": "feature",
       "_id": "qOotwXJdhk1UqAYv",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
@@ -497,7 +497,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -507,7 +507,7 @@
       "_key": "!actors.items!DIozpmms6n4Oy2Lj.qOotwXJdhk1UqAYv"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "uLLIsulMR6YS9WSG",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -611,7 +611,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -626,7 +626,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Icy Greataxe",
+      "name": "Ледяной большой топор",
       "type": "weapon",
       "_id": "MkyAQ8Ztvj7VZf3a",
       "img": "icons/weapons/axes/axe-battle-engraved-purple.webp",
@@ -710,7 +710,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           }
@@ -789,9 +789,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.9EAkaGqWPK0qFoDq",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.9EAkaGqWPK0qFoDq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757243641,
@@ -897,7 +897,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -960,7 +960,7 @@
         },
         "rarity": ""
       },
-      "name": "Ice Boulder",
+      "name": "Ледяной валун",
       "type": "weapon",
       "_id": "kJw4z6ngQLFwrC5M",
       "img": "icons/magic/water/projectile-ice-chunks-salvo.webp",
@@ -980,7 +980,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757256927,
@@ -1095,7 +1095,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -1159,7 +1159,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Check",
+            "name": "Проверка СПО",
             "img": ""
           }
         },
@@ -1178,7 +1178,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frost giant sends out a wave of snow in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is buried. On a success, a creature takes half the damage and isn’t buried. A buried creature is &amp;Reference[restrained]{restrained} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 16 format=long]].</p>",
+          "value": "<p>The frost giant sends out a wave of snow in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is buried. On a success, a creature takes half the damage and isn’t buried. A buried creature is &Reference[restrained]{restrained} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 16 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1204,7 +1204,7 @@
           "value": null
         }
       },
-      "name": "Avalanche",
+      "name": "лавина",
       "type": "feature",
       "_id": "y7H8mTU1ZoVic2zD",
       "img": "icons/magic/water/projectile-icecicles-salvo.webp",
@@ -1224,7 +1224,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1305,7 +1305,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1319,7 +1319,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is &amp;Reference[petrified]{petrified} in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.</p>",
+          "value": "<p>A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is &Reference[petrified]{petrified} in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1345,7 +1345,7 @@
           "value": null
         }
       },
-      "name": "Wintry Blast",
+      "name": "Зимний взрыв",
       "type": "feature",
       "_id": "Z0fB005cZvNiHfJv",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -1365,7 +1365,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1376,7 +1376,7 @@
     },
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Hide Armor",
+      "name": "Скрыть броню",
       "type": "armor",
       "_id": "eIgF3rV48zA7qi8G",
       "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
@@ -1443,9 +1443,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.fN3bw7IZzSxbkcYX",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.fN3bw7IZzSxbkcYX",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1460,7 +1460,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756767003511,

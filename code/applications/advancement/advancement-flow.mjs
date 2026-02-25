@@ -26,7 +26,7 @@ export default class AdvancementFlow extends FormApplication {
 
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
-			template: "systems/black-flag/templates/advancement/advancement-flow.hbs",
+			template: "systems/black-flag-ru/templates/advancement/advancement-flow.hbs",
 			popOut: false,
 			closeOnSubmit: false
 		});

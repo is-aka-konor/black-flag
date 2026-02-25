@@ -1,6 +1,6 @@
 {
   "folder": "LMtPAhFY28bApEKC",
-  "name": "Relentless Pursuit",
+  "name": "Неустанное преследование",
   "type": "feature",
   "_id": "M3ppXxDvemEzCbm8",
   "img": "icons/creatures/abilities/paw-print-pair-purple.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Extra Damage",
+        "name": "Дополнительный урон",
         "img": ""
       }
     },
@@ -101,7 +101,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718422338043,

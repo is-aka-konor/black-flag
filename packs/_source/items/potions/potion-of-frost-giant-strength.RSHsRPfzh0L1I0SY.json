@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Frost Giant Strength",
+  "name": "Зелье силы ледяного великана",
   "system": {
     "type": {
       "category": "potion"
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "tHrsZQ6ik1atcY5M"
       }
@@ -115,9 +115,9 @@
   "img": "icons/consumables/potions/bottle-pear-corked-blue.webp",
   "effects": [
     {
-      "name": "Frost Giant Strength",
+      "name": "Сила ледяного гиганта",
       "img": "icons/consumables/potions/bottle-pear-corked-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.RSHsRPfzh0L1I0SY",
+      "origin": "Compendium.black-flag-ru.items.Item.RSHsRPfzh0L1I0SY",
       "transfer": false,
       "_id": "Wb3ZaxINOxtEpEQc",
       "type": "base",
@@ -140,7 +140,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>When you drink this potion, your STR score changes to 23 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p>",
+      "description": "<p>Когда вы выпьете это зелье, ваш СИЛ изменится на 23 в 1 час. Зелье не дает никакого результата, если ваш показатель СИЛ равен этому показателю или указывает на него.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540127794,
         "modifiedTime": 1729540237760,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073501802,
     "modifiedTime": 1729541229111,

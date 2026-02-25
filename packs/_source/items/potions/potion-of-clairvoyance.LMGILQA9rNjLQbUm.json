@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Clairvoyance",
+  "name": "Зелье ясновидения",
   "system": {
     "type": {
       "category": "potion"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain the effect of the <em>@UUID[Compendium.black-flag.spells.Item.0DXCIjbQmk9UFSzp]{clairvoyance}</em> spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.</p>",
+      "value": "<p>When you drink this potion, you gain the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.0DXCIjbQmk9UFSzp]{clairvoyance}</em> spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.</p>",
       "source": {
         "fallback": ""
       }
@@ -21,7 +21,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.0DXCIjbQmk9UFSzp",
+            "uuid": "Compendium.black-flag-ru.spells.Item.0DXCIjbQmk9UFSzp",
             "challenge": {
               "attack": null,
               "save": null,
@@ -83,7 +83,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       }
     },
@@ -117,7 +117,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073366579,
     "modifiedTime": 1729540947191,

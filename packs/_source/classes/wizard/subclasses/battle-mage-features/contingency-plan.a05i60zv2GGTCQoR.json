@@ -1,6 +1,6 @@
 {
   "folder": "9wNf4h5hxBJVdfHn",
-  "name": "Contingency Plan",
+  "name": "План действий на случай непредвиденных обстоятельств",
   "type": "feature",
   "_id": "a05i60zv2GGTCQoR",
   "img": "icons/magic/light/beam-impact-deflect-teal.webp",
@@ -28,7 +28,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Redirect",
+        "name": "Перенаправление",
         "img": ""
       }
     },
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715742817791,

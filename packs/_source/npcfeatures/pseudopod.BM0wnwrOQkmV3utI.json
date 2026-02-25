@@ -1,5 +1,5 @@
 {
-  "name": "Pseudopod",
+  "name": "Псевдопод",
   "type": "weapon",
   "_id": "BM0wnwrOQkmV3utI",
   "img": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp",
@@ -147,7 +147,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709600,
     "modifiedTime": 1756767744109,

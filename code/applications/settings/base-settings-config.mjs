@@ -24,7 +24,7 @@ export default class BaseSettingsConfig extends BFApplication {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/setting/base-config.hbs"
+			template: "systems/black-flag-ru/templates/setting/base-config.hbs"
 		},
 		footer: {
 			template: "templates/generic/form-footer.hbs"

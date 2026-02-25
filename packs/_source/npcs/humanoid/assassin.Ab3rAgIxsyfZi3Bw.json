@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Assassin",
+  "name": "Убийца",
   "type": "npc",
   "_id": "Ab3rAgIxsyfZi3Bw",
-  "img": "systems/black-flag/artwork/tokens/assassin.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/assassin.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,7 +154,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Assassin",
+    "name": "Убийца",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -162,7 +162,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/assassin.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/assassin.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   "items": [
     {
       "folder": "9Er7AXgwcIA7EnGb",
-      "name": "Studded Leather",
+      "name": "Кожа с шипами",
       "type": "armor",
       "_id": "QxOlboQIpP9vxGIz",
       "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
@@ -315,9 +315,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.wltnYOTuHz96wXq5",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.wltnYOTuHz96wXq5",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -365,7 +365,7 @@
           "value": null
         }
       },
-      "name": "Evasion",
+      "name": "Уклонение",
       "type": "feature",
       "_id": "TfPen6JenIuX5rbN",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -381,7 +381,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.uVI6WWiJWcbRDLfu",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -401,7 +401,7 @@
           "1oB085Zbjchlb7Pt": {
             "type": "damage",
             "_id": "1oB085Zbjchlb7Pt",
-            "description": "<p>A creature poisoned by a weapon coated with this poison takes an extra [[/damage 1d8 poison average]] damage each time it takes damage while poisoned.</p>",
+            "description": "<p> Существо, контактное оружие, покрытое этим ядом, получает дополнительный [[/damage 1d8 poison average]] урон каждый раз, когда оно получает урон во время отравления.</p>",
             "system": {
               "damage": {
                 "critical": {
@@ -469,14 +469,14 @@
               "min": "",
               "max": ""
             },
-            "name": "Assassin’s Friend",
+            "name": "Друг убийцы",
             "img": "",
             "sort": 0
           },
           "JtOvHEAO1IAnE4NU": {
             "type": "utility",
             "_id": "JtOvHEAO1IAnE4NU",
-            "description": "<p>A creature &Reference[poisoned]{poisoned} by a weapon coated with this poison falls &Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p>",
+            "description": "<p>Существо &Ссылка[отравленное]{poisoned} оружие, покрытое этим ядом, падает &Ссылка[без сознания]{unconscious} во время отравления или до тех пор, пока оно не получит урон или пока другое Существо не выполнит действие, чтобы разбудить его.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -530,13 +530,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Buyer’s Mercy",
+            "name": "Милосердие покупателя",
             "img": ""
           },
           "Tj1NLioeHgc96IOc": {
             "type": "utility",
             "_id": "Tj1NLioeHgc96IOc",
-            "description": "<p>A creature &Reference[poisoned]{poisoned} by a weapon coated with this poison has its speed halved while poisoned.</p>",
+            "description": "<p>Существо и справка[отравленное]{poisoned} средство, покрытое этим ядом, имеет скорость двукратного воздействия во время отравления.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -590,7 +590,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Meddler’s Fate",
+            "name": "Судьба вмешивающегося",
             "img": ""
           }
         },
@@ -629,7 +629,7 @@
           "value": null
         }
       },
-      "name": "Poisoned Weapons",
+      "name": "Отравленное оружие",
       "type": "feature",
       "_id": "nhYuAOTnwwMKkldg",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -649,7 +649,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -659,7 +659,7 @@
       "_key": "!actors.items!Ab3rAgIxsyfZi3Bw.nhYuAOTnwwMKkldg"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "AQU42OEbFmAYxRxt",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -763,7 +763,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -778,7 +778,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Shortsword",
+      "name": "Короткий меч",
       "type": "weapon",
       "_id": "SSOUpeBlsdqLjAaI",
       "img": "icons/weapons/swords/shortsword-guard-brass.webp",
@@ -931,7 +931,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": ""
           }
         },
@@ -948,7 +948,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1007,9 +1007,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757668595,
@@ -1020,7 +1020,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Hand Crossbow",
+      "name": "Ручной арбалет",
       "type": "weapon",
       "_id": "X9rnxtOb5UTTcGKZ",
       "img": "icons/weapons/crossbows/handcrossbow-black.webp",
@@ -1173,7 +1173,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": ""
           }
         },
@@ -1190,7 +1190,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1253,9 +1253,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.b126bs62p8TQIYZ8",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.b126bs62p8TQIYZ8",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757680599,
@@ -1325,7 +1325,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -1339,7 +1339,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see and takes the &amp;Reference[Hide]{Hide} action.</p>",
+          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see and takes the &Reference[Hide]{Hide} action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1365,7 +1365,7 @@
           "value": null
         }
       },
-      "name": "Hidden Step",
+      "name": "Скрытый шаг",
       "type": "feature",
       "_id": "iHuTG28lHohmuf2c",
       "img": "icons/magic/control/silhouette-hold-beam-blue.webp",
@@ -1385,7 +1385,7 @@
         "compendiumSource": "Actor.9vzDWLJejIJtqsAY.Item.GMjqiRxlZymy0g78",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1400,7 +1400,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

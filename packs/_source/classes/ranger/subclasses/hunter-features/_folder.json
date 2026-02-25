@@ -1,5 +1,5 @@
 {
-  "name": "Hunter Features",
+  "name": "Особенности охотника",
   "sorting": "a",
   "folder": "cfyaN12HT6rVwTgv",
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#213d0e",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "11.315",
     "createdTime": null,

@@ -1,6 +1,6 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "School Specialization",
+  "name": "Специализация школы",
   "type": "talent",
   "img": "icons/sundries/books/book-open-turquoise.webp",
   "system": {
@@ -28,7 +28,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1695925407508,

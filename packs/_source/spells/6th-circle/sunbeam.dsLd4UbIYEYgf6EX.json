@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Sunbeam",
+  "name": "Солнечный луч",
   "type": "spell",
   "_id": "dsLd4UbIYEYgf6EX",
   "img": "icons/magic/light/beam-strike-village-yellow.webp",
@@ -87,7 +87,7 @@
     "description": {
       "value": "<p>A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a [[/save]] save. On a failure, a creature takes [[/damage]] damage and is blinded until your next turn. On a success, it takes half as much damage and isn’t blinded by this spell. Undead have disadvantage on this save.</p><p>You can create a new line of radiance as your action on each turn until the spell ends.</p><p>For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.</p>",
       "source": {},
-      "short": "Line of blinding radiant."
+      "short": "Линия ослепляющего сияния."
     },
     "casting": {
       "value": null,
@@ -108,7 +108,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a magnifying glass"
+        "description": "увеличительное стекло"
       }
     },
     "duration": {
@@ -151,7 +151,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723267719952,
     "modifiedTime": 1723438996017,

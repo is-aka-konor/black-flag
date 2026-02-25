@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Three Wishes",
+  "name": "Кольцо трех желаний",
   "system": {
     "type": {
       "category": "clothing",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the <em>@UUID[Compendium.black-flag.spells.Item.TB5mhD1xitrWMfX6]{wish}</em> spell from it. The ring becomes nonmagical when you use the last charge.</p>",
+      "value": "<p>This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6]{wish}</em> spell from it. The ring becomes nonmagical when you use the last charge.</p>",
       "source": {
         "fallback": ""
       }
@@ -22,7 +22,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.TB5mhD1xitrWMfX6",
+            "uuid": "Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6",
             "challenge": {
               "attack": null,
               "save": null,
@@ -129,7 +129,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724987388039,
     "modifiedTime": 1756333382988,

@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Brass Dragon Wyrmling",
+  "name": "Латунный драконий змей",
   "type": "npc",
   "_id": "Byks5SnzyZS2lLM9",
-  "img": "systems/black-flag/artwork/tokens/dragon-brass-wyrmling.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-brass-wyrmling.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Brass Dragon Wyrmling",
+    "name": "Латунный драконий змей",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-brass-wyrmling.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-brass-wyrmling.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -258,7 +258,7 @@
   },
   "items": [
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "2dbEQx6PLJuL3Y2L",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -362,7 +362,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -376,7 +376,7 @@
       "_key": "!actors.items!Byks5SnzyZS2lLM9.2dbEQx6PLJuL3Y2L"
     },
     {
-      "name": "Pounce",
+      "name": "Внезапно атаковать",
       "type": "feature",
       "_id": "aIvYSc5LYnJab038",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -463,7 +463,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &amp;Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -502,7 +502,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GMhZfEqubydeeKl3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -609,7 +609,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -655,7 +655,7 @@
           "value": null
         }
       },
-      "name": "Fire Breath",
+      "name": "Огненное дыхание",
       "type": "feature",
       "_id": "ggsiZzdigQFmbF52",
       "img": "icons/magic/fire/beam-jet-stream-trails-orange.webp",
@@ -675,7 +675,7 @@
         "compendiumSource": "Actor.tI6lREz0xXbwpLuv.Item.BYoC2w5ffcngrRKz",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -762,7 +762,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -782,7 +782,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or fall &amp;Reference[unconscious]{unconscious} for 1 minute. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it.</p>",
+          "value": "<p>The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or fall &Reference[unconscious]{unconscious} for 1 minute. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -808,7 +808,7 @@
           "value": null
         }
       },
-      "name": "Sleep Breath",
+      "name": "Дыхание во сне",
       "type": "feature",
       "_id": "InwGvqWOZd9EZb3j",
       "img": "icons/magic/control/sleep-bubble-purple.webp",
@@ -828,7 +828,7 @@
         "compendiumSource": "Actor.tI6lREz0xXbwpLuv.Item.QOSvTVDvUGffCu5W",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -838,7 +838,7 @@
       "_key": "!actors.items!Byks5SnzyZS2lLM9.InwGvqWOZd9EZb3j"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "C9eWMqbDbR4hMMW5",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -888,7 +888,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -998,7 +998,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928506,
         "modifiedTime": 1756752652941,
@@ -1011,7 +1011,7 @@
       "_key": "!actors.items!Byks5SnzyZS2lLM9.C9eWMqbDbR4hMMW5"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "xgw2gonB5qq2MpWY",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1061,7 +1061,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1171,7 +1171,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928506,
         "modifiedTime": 1756752656995,
@@ -1189,7 +1189,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

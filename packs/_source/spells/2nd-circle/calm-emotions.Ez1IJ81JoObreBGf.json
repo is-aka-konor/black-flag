@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Calm Emotions",
+  "name": "Спокойные эмоции",
   "type": "spell",
   "_id": "Ez1IJ81JoObreBGf",
   "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
@@ -57,9 +57,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You attempt to suppress strong emotions in a group of people. Each Humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a [[/save]] save; a creature can choose to fail this save if it wishes. If a creature fails its save, choose one of the following effects.</p><ul><li><p><strong>Suppression.</strong> You can suppress any effect causing a target to be &amp;Reference[charmed] or &amp;Reference[frightened]. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.</p></li><li><p><strong>Indifference.</strong> Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.</p></li></ul>",
+      "value": "<p>You attempt to suppress strong emotions in a group of people. Each Humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a [[/save]] save; a creature can choose to fail this save if it wishes. If a creature fails its save, choose one of the following effects.</p><ul><li><p><strong>Suppression.</strong> You can suppress any effect causing a target to be &Reference[charmed] or &Reference[frightened]. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.</p></li><li><p><strong>Indifference.</strong> Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.</p></li></ul>",
       "source": {},
-      "short": "Soothe riled-up Humanoids."
+      "short": "Успокойте разгневанных гуманоидов."
     },
     "type": {
       "value": "standard"
@@ -117,9 +117,9 @@
   },
   "effects": [
     {
-      "name": "Suppression",
+      "name": "Подавление",
       "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
-      "origin": "Compendium.black-flag.spells.Item.Ez1IJ81JoObreBGf",
+      "origin": "Compendium.black-flag-ru.spells.Item.Ez1IJ81JoObreBGf",
       "transfer": false,
       "_id": "kGDxj0TEY0vwhTuB",
       "type": "base",
@@ -135,7 +135,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You can suppress any effect causing a target to be &amp;Reference[charmed] or &amp;Reference[frightened]. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.</p>",
+      "description": "<p>Вы можете подавить любой эффект, делающий цель &Reference[очарованной] или &Reference[испуганной]. Когда это заклинание заканчивается, любой подавленный эффект возобновляется, при условии, что его продолжительность за это время не закончилась.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -144,7 +144,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723697535094,
         "modifiedTime": 1723697572321,
@@ -154,9 +154,9 @@
       "_key": "!items.effects!Ez1IJ81JoObreBGf.kGDxj0TEY0vwhTuB"
     },
     {
-      "name": "Indifference",
+      "name": "Безразличие",
       "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
-      "origin": "Compendium.black-flag.spells.Item.Ez1IJ81JoObreBGf",
+      "origin": "Compendium.black-flag-ru.spells.Item.Ez1IJ81JoObreBGf",
       "transfer": false,
       "_id": "Fh7TnyIuaAT6LX0H",
       "type": "base",
@@ -172,7 +172,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.</p>",
+      "description": "<p>В качестве альтернативы вы можете сделать цель безразличной к существам по вашему выбору, к которым она враждебна. Это безразличие прекращается, если цель атакована или ей причинен вред заклинанием, или если она становится свидетелем причинения вреда кому-либо из ее друзей. Когда заклинание заканчивается, существо снова становится враждебным, если ГМ не примет иного решения.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -181,7 +181,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723697579924,
         "modifiedTime": 1723697594647,
@@ -197,7 +197,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932513288,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Mind Shielding",
+  "name": "Кольцо защиты разума",
   "system": {
     "type": {
       "category": "clothing",
@@ -51,7 +51,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1724987016593,
     "modifiedTime": 1729890972886,

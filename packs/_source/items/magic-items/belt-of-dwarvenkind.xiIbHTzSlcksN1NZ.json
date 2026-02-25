@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Belt of Dwarvenkind",
+  "name": "Пояс гномьего рода",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/waist/belt-buckle-ornate-steel.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.xiIbHTzSlcksN1NZ",
+      "origin": "Compendium.black-flag-ru.items.Item.xiIbHTzSlcksN1NZ",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Belt of Dwarvenkind",
+      "name": "Пояс гномьего рода",
       "img": "icons/equipment/waist/belt-buckle-ornate-steel.webp",
       "_id": "u7KHWBqVW01gP3mg",
       "type": "base",
@@ -82,7 +82,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725740351036,
         "modifiedTime": 1756334998820,
@@ -92,7 +92,7 @@
       "_key": "!items.effects!xiIbHTzSlcksN1NZ.u7KHWBqVW01gP3mg"
     },
     {
-      "origin": "Compendium.black-flag.items.Item.xiIbHTzSlcksN1NZ",
+      "origin": "Compendium.black-flag-ru.items.Item.xiIbHTzSlcksN1NZ",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -103,7 +103,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Belt of Dwarvenkind (non-Dwarf)",
+      "name": "Пояс гномьего рода (не гномий)",
       "img": "icons/equipment/waist/belt-buckle-ornate-steel.webp",
       "_id": "YlwI6ie7vAzVhba9",
       "type": "base",
@@ -146,7 +146,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725740352069,
         "modifiedTime": 1756335001159,
@@ -165,7 +165,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983024363,
     "modifiedTime": 1728426556234,

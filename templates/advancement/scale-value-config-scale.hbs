@@ -5,18 +5,18 @@
 			<label>
 				<span></span><!-- TODO: Properly fetch these headers from the data model -->
 				{{#if (eq @root.type.input "string")}}
-					<span>Value</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Value" }}</span>
 				{{else if (eq @root.type.input "number")}}
-					<span>Value</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Value" }}</span>
 				{{else if (eq @root.type.input "distance")}}
-					<span>Value</span>
-					<span>Unit</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Value" }}</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Unit" }}</span>
 				{{else if (eq @root.type.input "dice")}}
-					<span>Number</span>
-					<span>Denomination</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Number" }}</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Denomination" }}</span>
 				{{else if (eq @root.type.input "usage")}}
-					<span>Number</span>
-					<span>Period</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Number" }}</span>
+					<span>{{ localize "BF.Advancement.ScaleValue.Header.Period" }}</span>
 					<span class="checkbox">&infin;</span>
 				{{/if}}
 			</label>

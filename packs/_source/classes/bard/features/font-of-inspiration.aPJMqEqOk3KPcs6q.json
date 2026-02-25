@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Font of Inspiration",
+  "name": "Шрифт вдохновения",
   "type": "feature",
   "_id": "aPJMqEqOk3KPcs6q",
   "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -9,7 +9,7 @@
       "5t1z5r2DJnUUpqpP": {
         "type": "utility",
         "_id": "5t1z5r2DJnUUpqpP",
-        "description": "<p>When a creature within 60 feet of you that you can hear or see you fails an ability check, attack roll, or save, you can use your reaction to expend a use of your Bardic Inspiration feature. When you do, roll [[/r @scale.bard.inspiration]] and add the number rolled to the target’s check total—potentially turning a failure into a success.</p>",
+        "description": "<p>Когда Существо находится на расстоянии 60 футов от вас, которые вы можете слышать или видеть, впоследствии способности броска удара или спасбросок, вы можете использовать свои ответы, чтобы уменьшить использование функции Бардского вдохновения.",
         "system": {
           "roll": {
             "name": "",
@@ -25,7 +25,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.PlRqmMB6VVPXaSGi",
+              "target": "Compendium.black-flag-ru.classes.Item.PlRqmMB6VVPXaSGi",
               "value": "1",
               "scaling": {}
             }
@@ -106,7 +106,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.3.067",
     "coreVersion": "13.347",
     "createdTime": 1717558847014,

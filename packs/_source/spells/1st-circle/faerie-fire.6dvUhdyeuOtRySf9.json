@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Faerie Fire",
+  "name": "Феерический огонь",
   "type": "spell",
   "_id": "6dvUhdyeuOtRySf9",
   "img": "icons/magic/light/explosion-star-small-pink.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a [[/save]] save. For the duration, objects and affected creatures shed dim light in a 10-foot radius.</p><p>Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.</p>",
       "source": {},
-      "short": "Light up foes for advantage."
+      "short": "Поджигайте врагов для получения преимущества."
     },
     "type": {
       "value": "standard"
@@ -113,7 +113,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.6dvUhdyeuOtRySf9",
+      "origin": "Compendium.black-flag-ru.spells.Item.6dvUhdyeuOtRySf9",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -124,13 +124,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Faerie Fire",
+      "name": "Феерический огонь",
       "img": "icons/magic/light/explosion-star-small-pink.webp",
       "_id": "MVr5rXFmzbRaD7qp",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You shed dim light in a 10-foot radius. Any attack roll against you has advantage if the attacker can see you, and you can’t benefit from being invisible.</p>",
+      "description": "<p>Вы излучаете тусклый свет в радиусе 10 футов. Любой бросок атаки против вас имеет преимущество, если атакующий может видеть вас, и вы не можете получить выгоду от своей невидимости.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721442475741,
         "modifiedTime": 1723605713749,
@@ -156,7 +156,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997735611,

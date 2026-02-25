@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Commune with Nature",
+  "name": "Общение с природой",
   "type": "spell",
   "_id": "bhg9ov01txg88DX4",
   "img": "icons/environment/creatures/horse-white.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You must be outdoors to cast this spell. When you do so, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn’t function where nature has been replaced by construction, such as in dungeons and towns.</p><p>You instantly know up to three facts of your choice about any of the following subjects as they relate to the area:</p><ul><li><p>Terrain and bodies of water</p></li><li><p>Prevalent plants, minerals, animals, or peoples</p></li><li><p>Powerful Celestials, Fey, Fiends, Elementals, or Undead</p></li><li><p>Influence from other planes of existence</p></li><li><p>Buildings</p></li></ul><p>For example, you could determine the location of powerful Undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.</p><p>Once you perform this ritual, you can’t do so again until 24 hours have passed.</p>",
       "source": {},
-      "short": "Get facts about surrounding area."
+      "short": "Получите факты об окрестностях."
     },
     "source": [
       "primordial"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a forked stick, a bowl of purified water, and a polished stone or bone of an animal native to where you are"
+        "description": "раздвоенная палка, чаша с очищенной водой и полированный камень или кость животного, обитающего там, где вы находитесь."
       }
     },
     "duration": {
@@ -111,7 +111,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720287865391,

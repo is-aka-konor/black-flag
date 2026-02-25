@@ -1,12 +1,12 @@
 {
-  "name": "Fireball",
+  "name": "Огненный шар",
   "type": "spell",
   "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
   "system": {
     "description": {
       "value": "<p>A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a [[/save]] save. A target takes [[/damage]] damage on a failed save, or half as much damage on a success.</p><p>The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the damage increases by [[/damage 1d6 fire]]{1d6} for each slot above 3rd.</p>",
       "source": {},
-      "short": "Explode fire in 20-ft. radius."
+      "short": "Взорвать огонь на расстоянии 20 футов. радиус."
     },
     "type": {
       "value": "standard"
@@ -31,7 +31,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a tiny ball of bat guano and sulfur",
+        "description": "крошечный шарик из помета летучих мышей и серы",
         "denomination": "gp",
         "consumed": false
       }
@@ -130,7 +130,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1699297018533,

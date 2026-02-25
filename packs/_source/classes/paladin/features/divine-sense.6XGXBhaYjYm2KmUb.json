@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Divine Sense",
+  "name": "Божественное чувство",
   "type": "feature",
   "_id": "6XGXBhaYjYm2KmUb",
   "img": "icons/magic/light/beam-explosion-orange.webp",
@@ -58,7 +58,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Open Awareness",
+        "name": "Открытая осведомленность",
         "img": ""
       }
     },
@@ -105,7 +105,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718399623296,

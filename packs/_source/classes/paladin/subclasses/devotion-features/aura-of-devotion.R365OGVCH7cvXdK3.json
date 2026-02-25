@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Aura of Devotion",
+  "name": "Аура преданности",
   "type": "feature",
   "_id": "R365OGVCH7cvXdK3",
   "img": "icons/magic/fire/barrier-wall-flame-ring-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718403897300,

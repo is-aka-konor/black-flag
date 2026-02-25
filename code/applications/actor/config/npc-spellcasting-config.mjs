@@ -17,10 +17,10 @@ export default class NPCSpellcastingConfig extends BaseConfigSheet {
 	/** @override */
 	static PARTS = {
 		details: {
-			template: "systems/black-flag/templates/actor/config/npc-spellcasting-config-details.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/npc-spellcasting-config-details.hbs"
 		},
 		spells: {
-			template: "systems/black-flag/templates/actor/config/npc-spellcasting-config-spells.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/npc-spellcasting-config-spells.hbs"
 		}
 	};
 

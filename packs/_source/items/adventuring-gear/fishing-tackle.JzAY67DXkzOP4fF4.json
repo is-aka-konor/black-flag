@@ -1,5 +1,5 @@
 {
-  "name": "Fishing Tackle",
+  "name": "Рыболовные снасти",
   "type": "gear",
   "_id": "JzAY67DXkzOP4fF4",
   "img": "icons/tools/fishing/hook-barbed-steel-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717533326206,

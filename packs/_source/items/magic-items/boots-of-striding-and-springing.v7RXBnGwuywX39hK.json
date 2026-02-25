@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of Striding and Springing",
+  "name": "Сапоги шага и прыжка",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/feet/boots-armored-brass.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.v7RXBnGwuywX39hK",
+      "origin": "Compendium.black-flag-ru.items.Item.v7RXBnGwuywX39hK",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Striding and Springing",
+      "name": "Шагая и прыгая",
       "img": "icons/equipment/feet/boots-armored-brass.webp",
       "_id": "rAhnAvKoXhm2X721",
       "type": "base",
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901799347,
         "modifiedTime": 1756335099224,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983485013,
     "modifiedTime": 1728426556234,

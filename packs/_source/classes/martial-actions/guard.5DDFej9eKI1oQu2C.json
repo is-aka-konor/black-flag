@@ -1,6 +1,6 @@
 {
   "folder": "H5qfE7S5caUYRLdk",
-  "name": "Guard",
+  "name": "охранник",
   "type": "feature",
   "img": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp",
   "system": {
@@ -26,7 +26,7 @@
       "zFqIQV9xg8CGtuC5": {
         "type": "utility",
         "_id": "zFqIQV9xg8CGtuC5",
-        "description": "<p>Select one enemy creature within 5 feet of you. That creature has disadvantage on the first attack roll it makes against you or an ally within 5 feet of you before the start of your next turn.</p>",
+        "description": "<p>Выберите одно вражеское существо на расстоянии 5 футов от вас. Это Существо делает первый ударный бросок по вам или союзнику в пределах 5 футов от вас до начала вашего следующего хода.</p>",
         "system": {},
         "activation": {
           "type": "bonus",
@@ -44,7 +44,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Raise Shield",
+        "name": "Поднять Щит",
         "img": ""
       }
     },
@@ -59,7 +59,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1695231437898,

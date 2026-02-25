@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Power Word Kill",
+  "name": "Слово силы «Убийство»",
   "type": "spell",
   "_id": "pF9MBepyk3OBodBY",
   "img": "icons/magic/unholy/hand-light-pink.webp",
@@ -58,7 +58,7 @@
     "description": {
       "value": "<p>You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 HP or fewer, it dies. Otherwise, the spell has no effect.</p>",
       "source": {},
-      "short": "Kill a foe up to 100 HP."
+      "short": "Убейте противника до 100 HP."
     },
     "casting": {
       "value": null,
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093243923,
     "modifiedTime": 1723156634785,

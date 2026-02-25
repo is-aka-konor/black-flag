@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Moonbeam",
+  "name": "Лунный луч",
   "type": "spell",
   "_id": "YA97XCINjM4b1cp1",
   "img": "icons/magic/light/beams-strike-blue.webp",
@@ -85,7 +85,7 @@
     "description": {
       "value": "<p>A silvery beam of pale, dim light shines down in a 5-foot‑radius, 40-foot-high cylinder centered on a point you choose within range. When a creature enters the spell’s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a [[/save]] save. It takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p>A creature with the Shapechanger tag makes this save with disadvantage. If it fails, it also instantly reverts to its true form and can’t assume a different form until it leaves the spell’s light.</p><p>On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by 1d10 for each slot above 2nd.</p>",
       "source": {},
-      "short": "Vertical beam of radiant for 1 min."
+      "short": "Вертикальный пучок излучения в течение 1 мин."
     },
     "source": [
       "primordial"
@@ -109,7 +109,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "several seeds of any moonseed plant and a piece of opalescent feldspar"
+        "description": "несколько семян любого луносеменного растения и кусочек опалесцирующего полевого шпата"
       }
     },
     "duration": {
@@ -149,7 +149,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "createdTime": 1722920058368,
     "modifiedTime": 1737397209763,

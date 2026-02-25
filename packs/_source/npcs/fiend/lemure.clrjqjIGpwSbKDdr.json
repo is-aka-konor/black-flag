@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Lemure",
+  "name": "Лемур",
   "type": "npc",
   "_id": "clrjqjIGpwSbKDdr",
-  "img": "systems/black-flag/artwork/tokens/devil-lemure.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/devil-lemure.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,7 +153,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lemure",
+    "name": "Лемур",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -161,7 +161,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/devil-lemure.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/devil-lemure.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -286,7 +286,7 @@
           "value": null
         }
       },
-      "name": "Devil’s Sight",
+      "name": "Взгляд Дьявола",
       "type": "feature",
       "img": "icons/magic/perception/eye-slit-red-orange.webp",
       "effects": [],
@@ -304,7 +304,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qaTYdbDMm8oAcpZT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -354,7 +354,7 @@
           "value": null
         }
       },
-      "name": "Hellish Rejuvenation",
+      "name": "Адское омоложение",
       "type": "feature",
       "_id": "yClS6DYOuPW76DVe",
       "img": "icons/magic/fire/explosion-embers-evade-silhouette.webp",
@@ -374,7 +374,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -480,7 +480,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lemure exudes an aura of extreme heat for 1 minute. Each creature that starts its turn within 15 feet of the lemure and that isn’t a devil must succeed on a [[/save format=long]] or be weakened until the start of its next turn. A weakened creature has disadvantage on all attack rolls, and it deals only half damage with weapon attacks that use Strength. A creature that fails this save by 5 or more suffers one level of &amp;Reference[exhaustion]{exhaustion}. A creature that has suffered a level of exhaustion from this lemure’s Rippling Heat can’t suffer another level from this lemure’s Rippling Heat for 24 hours.</p>",
+          "value": "<p>The lemure exudes an aura of extreme heat for 1 minute. Each creature that starts its turn within 15 feet of the lemure and that isn’t a devil must succeed on a [[/save format=long]] or be weakened until the start of its next turn. A weakened creature has disadvantage on all attack rolls, and it deals only half damage with weapon attacks that use Strength. A creature that fails this save by 5 or more suffers one level of &Reference[exhaustion]{exhaustion}. A creature that has suffered a level of exhaustion from this lemure’s Rippling Heat can’t suffer another level from this lemure’s Rippling Heat for 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -506,7 +506,7 @@
           "value": null
         }
       },
-      "name": "Rippling Heat",
+      "name": "Пульсирующая жара",
       "type": "feature",
       "_id": "HYTGhXFOqKsqOCdA",
       "img": "icons/magic/fire/orb-lightning-sun.webp",
@@ -526,7 +526,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -574,7 +574,7 @@
           "value": null
         }
       },
-      "name": "Devilish Resilience",
+      "name": "Дьявольская стойкость",
       "type": "feature",
       "_id": "fQNPAZmUxCqbhQvI",
       "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
@@ -591,7 +591,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Devilish Resilience",
+          "name": "Дьявольская стойкость",
           "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
           "_id": "uJ6N3XWMfDKvX9cK",
           "type": "base",
@@ -656,7 +656,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -677,7 +677,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.x1nZb854NRe24wtG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -691,7 +691,7 @@
       "_key": "!actors.items!clrjqjIGpwSbKDdr.fQNPAZmUxCqbhQvI"
     },
     {
-      "name": "Fist",
+      "name": "Кулак",
       "type": "weapon",
       "_id": "TVxuElZVWUBczV9t",
       "img": "icons/skills/melee/unarmed-punch-fist.webp",
@@ -756,7 +756,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -866,7 +866,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933341,
         "modifiedTime": 1756756443290,
@@ -884,7 +884,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

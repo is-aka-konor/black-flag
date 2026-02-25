@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Enhance Ability",
+  "name": "Улучшить способность",
   "type": "spell",
   "_id": "eQSukAkHZgLbOZA7",
   "img": "icons/magic/earth/strike-fist-stone-light.webp",
@@ -109,7 +109,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "fur or a feather from a beast"
+        "description": "мех или перо зверя"
       }
     },
     "duration": {
@@ -141,7 +141,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -152,7 +152,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bear’s Endurance",
+      "name": "Выносливость медведя",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "E1EOsUr8FrPOtPhj",
       "type": "base",
@@ -165,7 +165,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on CON checks and gain 2d6 temporary HP, which are lost when the spell ends.</p>",
+      "description": "<p>Вы имеете преимущество на проверках ВЫН и получаете 2d6 временных HP, которые теряются, когда заклинание заканчивается.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -175,7 +175,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356319554,
         "modifiedTime": 1723697767955,
@@ -185,7 +185,7 @@
       "_key": "!items.effects!eQSukAkHZgLbOZA7.E1EOsUr8FrPOtPhj"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -196,7 +196,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bull’s Strength",
+      "name": "Сила Быка",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "wvyLeBKyZb2LBMzw",
       "type": "base",
@@ -209,7 +209,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on STR checks, and its carrying capacity doubles.</p>",
+      "description": "_<p>_Вы добавляете на проверку STR, и его пропускная способность удваивается._</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -219,7 +219,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356332381,
         "modifiedTime": 1723697783445,
@@ -229,7 +229,7 @@
       "_key": "!items.effects!eQSukAkHZgLbOZA7.wvyLeBKyZb2LBMzw"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -240,7 +240,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Cat’s Grace",
+      "name": "Кошачья грация",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "ekJrnJV8AvbwjKn5",
       "type": "base",
@@ -253,7 +253,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on DEX checks. You also don’t take damage from falling 20 feet or less if you aren’t incapacitated.</p>",
+      "description": "<p>У вас есть дополнительная проверка DEX. Вы также не нанесете урон при падении с высоты 20 футов или меньше, если вы не выведены из здания.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -263,7 +263,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356342411,
         "modifiedTime": 1723697802677,
@@ -273,7 +273,7 @@
       "_key": "!items.effects!eQSukAkHZgLbOZA7.ekJrnJV8AvbwjKn5"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -284,7 +284,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Eagle’s Splendor",
+      "name": "Великолепие Орла",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "JVC16KBUV2V2VqNz",
       "type": "base",
@@ -297,7 +297,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on CHA checks and saves against the charmed condition.</p>",
+      "description": "<p>Вы имеете преимущество на проверки и спасброски CHA против очарованного состояния.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -307,7 +307,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356349829,
         "modifiedTime": 1723697809599,
@@ -317,7 +317,7 @@
       "_key": "!items.effects!eQSukAkHZgLbOZA7.JVC16KBUV2V2VqNz"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -328,7 +328,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fox’s Cunning",
+      "name": "Хитрость Лисы",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "foTtbXuAed8nN8VC",
       "type": "base",
@@ -341,7 +341,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on INT checks and checks made to Hide or otherwise avoid notice.</p>",
+      "description": "<p>Вы имеете преимущество на проверки INT и проверки, сделанные для того, чтобы закрыться или иным образом избежать уведомлений.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -351,7 +351,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356351271,
         "modifiedTime": 1723697816051,
@@ -361,7 +361,7 @@
       "_key": "!items.effects!eQSukAkHZgLbOZA7.foTtbXuAed8nN8VC"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.eQSukAkHZgLbOZA7",
+      "origin": "Compendium.black-flag-ru.spells.Item.eQSukAkHZgLbOZA7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -372,7 +372,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Owl’s Wisdom",
+      "name": "Мудрость Совы",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
       "_id": "E6Y7zyxPmSnTKB2G",
       "type": "base",
@@ -385,7 +385,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on WIS checks and can’t be surprised.</p>",
+      "description": "<p>У вас есть преимущество при проверке WIS, и вас это не удивить.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -395,7 +395,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356351505,
         "modifiedTime": 1723697823566,
@@ -413,7 +413,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721356198532,
     "modifiedTime": 1723697836382,

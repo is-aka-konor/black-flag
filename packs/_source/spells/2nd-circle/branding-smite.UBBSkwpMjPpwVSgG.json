@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Branding Smite",
+  "name": "Брендинг Смайт",
   "type": "spell",
   "_id": "UBBSkwpMjPpwVSgG",
   "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-purple.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra [[/damage]] damage to the target, which becomes visible if it’s invisible, and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the extra damage increases by [[/damage 1d6 radiant]]{1d6} for each slot above 2nd.</p>",
       "source": {},
-      "short": "Better divine favor."
+      "short": "Лучше божественная милость."
     },
     "source": [
       "divine"
@@ -140,7 +140,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720235584357,

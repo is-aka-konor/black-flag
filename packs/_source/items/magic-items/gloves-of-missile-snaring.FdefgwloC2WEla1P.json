@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Gloves of Missile Snaring",
+  "name": "Перчатки ловушки для стрел",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -31,7 +31,7 @@
           "roll": {
             "prompt": false,
             "visible": false,
-            "name": "Reduce Damage",
+            "name": "Уменьшить урон",
             "formula": "1d10 + @abilities.dexterity.mod"
           }
         },
@@ -79,7 +79,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Catch Missile",
+        "name": "Поймать ракету",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -120,7 +120,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724985187360,
     "modifiedTime": 1756334045214,

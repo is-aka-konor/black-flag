@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Orca",
+  "name": "Орка",
   "type": "npc",
   "_id": "XY0ee4F1zQNR21Wy",
-  "img": "systems/black-flag/artwork/tokens/orca.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/orca.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Orca",
+    "name": "Орка",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/orca.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/orca.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -294,7 +294,7 @@
           "value": null
         }
       },
-      "name": "Echolocation",
+      "name": "Эхолокация",
       "type": "feature",
       "_id": "mdCiH46joDg4QIhD",
       "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
@@ -310,7 +310,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.4PXHJVS1YAJn1v5h",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -324,7 +324,7 @@
       "_key": "!actors.items!XY0ee4F1zQNR21Wy.mdCiH46joDg4QIhD"
     },
     {
-      "name": "Heightened Hearing",
+      "name": "Повышенный слух",
       "type": "feature",
       "_id": "v7YNzUVcyYQm1sHj",
       "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
@@ -376,7 +376,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.IeB3WuXE6YmypTEN",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -428,7 +428,7 @@
           "value": null
         }
       },
-      "name": "Hold Breath",
+      "name": "Задержать дыхание",
       "type": "feature",
       "_id": "Xp6fj9tZ5YXWmcms",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -444,7 +444,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.aghkHGPciEFs7PuF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -458,7 +458,7 @@
       "_key": "!actors.items!XY0ee4F1zQNR21Wy.Xp6fj9tZ5YXWmcms"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "EYsgJHjP92I57vef",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -562,7 +562,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -644,7 +644,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -658,7 +658,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The orca slaps one creature it can see within 15 feet of it with its tail. The target must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the orca and knocked &amp;Reference[prone]{prone}. A creature that fails this save by 5 or more is also &amp;Reference[stunned]{stunned} until the end of its next turn.</p>",
+          "value": "<p>The orca slaps one creature it can see within 15 feet of it with its tail. The target must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the orca and knocked &Reference[prone]{prone}. A creature that fails this save by 5 or more is also &Reference[stunned]{stunned} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -684,7 +684,7 @@
           "value": null
         }
       },
-      "name": "Tail Slap",
+      "name": "Пощечина хвостом",
       "type": "feature",
       "_id": "rNEBg1MueJMCoGP0",
       "img": "icons/creatures/fish/fish-shark-swimming.webp",
@@ -704,7 +704,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -714,7 +714,7 @@
       "_key": "!actors.items!XY0ee4F1zQNR21Wy.rNEBg1MueJMCoGP0"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "vpjOV8kAYCiaWxor",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -764,7 +764,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -874,7 +874,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932735,
         "modifiedTime": 1756750501206,
@@ -892,7 +892,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

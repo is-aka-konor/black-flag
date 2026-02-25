@@ -1,5 +1,5 @@
 {
-  "name": "Blowgun Needle",
+  "name": "Игла для духового пистолета",
   "type": "ammunition",
   "_id": "2m22nW2ojmJJm0xW",
   "img": "icons/weapons/thrown/dart-feathered.webp",
@@ -34,7 +34,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716238041605,

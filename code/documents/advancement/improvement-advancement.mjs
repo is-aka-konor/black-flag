@@ -19,7 +19,7 @@ export default class ImprovementAdvancement extends GrantFeaturesAdvancement {
 					value: ImprovementValueData
 				},
 				order: 45,
-				icon: "systems/black-flag/artwork/advancement/improvement.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/improvement.svg",
 				title: "BF.Advancement.Improvement.Title",
 				hint: "BF.Advancement.Improvement.Hint"
 			},

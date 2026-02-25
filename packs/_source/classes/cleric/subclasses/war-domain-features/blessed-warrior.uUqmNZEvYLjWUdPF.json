@@ -1,6 +1,6 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "Blessed Warrior",
+  "name": "Благословенный воин",
   "type": "feature",
   "_id": "uUqmNZEvYLjWUdPF",
   "img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
@@ -39,7 +39,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715662249245,

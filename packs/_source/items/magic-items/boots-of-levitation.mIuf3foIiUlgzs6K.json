@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of Levitation",
+  "name": "Сапоги левитации",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While you wear these boots, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.0iiu16z9T1sNdNXP]{levitate}</em> spell from them on yourself.</p>",
+      "value": "<p>While you wear these boots, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.0iiu16z9T1sNdNXP]{levitate}</em> spell from them on yourself.</p>",
       "source": {}
     },
     "activities": {
@@ -23,7 +23,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.0iiu16z9T1sNdNXP",
+            "uuid": "Compendium.black-flag-ru.spells.Item.0iiu16z9T1sNdNXP",
             "challenge": {
               "attack": null,
               "save": null,
@@ -111,7 +111,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1724983455287,
     "modifiedTime": 1729530238070,

@@ -25,7 +25,7 @@ export default class NotificationTooltip extends BFApplication {
 	/** @override */
 	static PARTS = {
 		tooltip: {
-			template: "systems/black-flag/templates/notification-tooltip.hbs"
+			template: "systems/black-flag-ru/templates/notification-tooltip.hbs"
 		}
 	};
 

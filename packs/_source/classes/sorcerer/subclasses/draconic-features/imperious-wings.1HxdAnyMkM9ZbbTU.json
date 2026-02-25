@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Imperious Wings",
+  "name": "Властные крылья",
   "type": "feature",
   "_id": "1HxdAnyMkM9ZbbTU",
   "img": "icons/creatures/abilities/wing-batlike-purple-blue.webp",
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Summon Wings",
+        "name": "Призвать крылья",
         "img": ""
       }
     },
@@ -85,7 +85,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.1HxdAnyMkM9ZbbTU",
+      "origin": "Compendium.black-flag-ru.classes.Item.1HxdAnyMkM9ZbbTU",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -96,7 +96,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Imperious Wings",
+      "name": "Властные крылья",
       "_id": "UjakTNgWuRl915rN",
       "changes": [
         {
@@ -135,7 +135,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718729435383,

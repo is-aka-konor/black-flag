@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Water Walking",
+  "name": "Кольцо хождения по воде",
   "system": {
     "type": {
       "category": "clothing",
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724987401521,
     "modifiedTime": 1729889862329,

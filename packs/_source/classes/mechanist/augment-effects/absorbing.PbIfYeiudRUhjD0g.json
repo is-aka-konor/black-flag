@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Absorbing",
+  "name": "поглощающий",
   "type": "feature",
   "_id": "PbIfYeiudRUhjD0g",
   "img": "icons/commodities/tech/smoke-spout-blue.webp",
@@ -22,7 +22,7 @@
       "allowMultipleTimes": false,
       "filters": [],
       "items": [
-        "Compendium.black-flag.classes.Item.Y6gwQL99e7nAKY7i"
+        "Compendium.black-flag-ru.classes.Item.Y6gwQL99e7nAKY7i"
       ],
       "requireAll": true
     },
@@ -48,7 +48,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128737160,

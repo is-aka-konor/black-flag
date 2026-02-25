@@ -1,6 +1,6 @@
 {
   "folder": "ljc34ps9wz9LJGuf",
-  "name": "Unstoppable",
+  "name": "Неудержимый",
   "type": "feature",
   "_id": "16hfWycloHRfDDas",
   "img": "icons/skills/wounds/injury-eyes-blood-red-pink.webp",
@@ -9,7 +9,7 @@
       "cfjr8fYe6AweAJWh": {
         "type": "utility",
         "_id": "cfjr8fYe6AweAJWh",
-        "description": "<p>You can end one of the following conditions affecting you: blinded, charmed, frightened, incapacitated, paralyzed, or stunned. </p>",
+        "description": "<p>Вы можете снять одно из следующих воздействующих на вас обстоятельств: ослепление, очарование, испуг, выведение из строя, паралич или оглушение. </p>",
         "system": {},
         "activation": {
           "type": "free",
@@ -34,7 +34,7 @@
           "min": "",
           "max": ""
         },
-        "name": "End Condition",
+        "name": "Конечные условия",
         "img": ""
       }
     },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715705658,

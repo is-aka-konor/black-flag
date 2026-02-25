@@ -1,6 +1,6 @@
 {
   "folder": "1yYTiSJbVGkECgTB",
-  "name": "Stalwart",
+  "name": "Стойкий",
   "type": "feature",
   "_id": "nZkQuYiKKnLIdy7o",
   "img": "icons/skills/wounds/injury-stitched-flesh-red.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716093569645,

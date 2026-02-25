@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Death Ward",
+  "name": "Оберег смерти",
   "type": "spell",
   "_id": "4e5kuXZgzEHtxSMj",
   "img": "icons/magic/death/undead-skeleton-worn-blue.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>The first time the target of this spell would drop to 0 HP as a result of taking damage, the target instead drops to 1 HP, and the spell ends.</p><p>If the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.</p>",
       "source": {},
-      "short": "Ally has 1 HP when it would have 0 HP."
+      "short": "У союзника 1 HP, хотя у него было бы 0 HP."
     },
     "type": {
       "value": "standard"
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "coreVersion": "13.347",
     "createdTime": 1706997646694,

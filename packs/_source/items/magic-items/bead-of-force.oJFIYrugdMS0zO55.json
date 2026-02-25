@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Bead of Force",
+  "name": "Бусина Силы",
   "type": "gear",
   "_id": "oJFIYrugdMS0zO55",
   "img": "icons/commodities/gems/pearl-beige-smooth.webp",
@@ -50,7 +50,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Throw",
+        "name": "Бросок",
         "img": "",
         "range": {
           "units": "foot",
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "coreVersion": "13.347",
     "createdTime": 1707356338107,

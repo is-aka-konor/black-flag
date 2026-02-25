@@ -1,12 +1,12 @@
 {
-  "name": "Acid Arrow",
+  "name": "Кислотная стрела",
   "type": "spell",
   "img": "icons/magic/acid/projectile-needles-salvo-green.webp",
   "system": {
     "description": {
       "value": "<p>A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes [[/damage]] damage immediately and [[/damage 2d4 acid]] damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage (both initial and later) increases by [[/damage 1d4 acid]]{1d4} for each slot above 2nd.</p>",
       "source": {},
-      "short": "Ranged acid attack."
+      "short": "Дальнобойная кислотная атака."
     },
     "type": {
       "value": "standard"
@@ -33,7 +33,7 @@
       ],
       "material": {
         "cost": 5,
-        "description": "powdered rhubarb leaf and an adder’s stomach",
+        "description": "измельченный лист ревеня и желудок змеи",
         "denomination": "gp",
         "consumed": false
       }
@@ -132,7 +132,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1698881084085,

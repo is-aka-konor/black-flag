@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Empowered",
+  "name": "Расширенные возможности",
   "type": "feature",
   "_id": "FEHYQiWYxClTY0h9",
   "img": "icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128690898,

@@ -1,9 +1,9 @@
 {
   "folder": "znixScbzurqLkz5j",
-  "name": "Pegasus",
+  "name": "Пегас",
   "type": "npc",
   "_id": "N1mEqhOK8oUD5XG3",
-  "img": "systems/black-flag/artwork/tokens/pegasus.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/pegasus.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,13 +154,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Pegasus",
+    "name": "Пегас",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/pegasus.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/pegasus.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -249,7 +249,7 @@
   },
   "items": [
     {
-      "name": "Celestial Resilience",
+      "name": "Небесная устойчивость",
       "type": "feature",
       "_id": "OhEj2rmBVMASzsbJ",
       "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
@@ -286,7 +286,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.CyOvikNLSOB1L2fT",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.CyOvikNLSOB1L2fT",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -297,7 +297,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Celestial Resilience",
+          "name": "Небесная устойчивость",
           "_id": "ggk3wSDvlMxXXpMT",
           "changes": [
             {
@@ -343,20 +343,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709672696244,
         "modifiedTime": 1712943207695,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.CyOvikNLSOB1L2fT",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.CyOvikNLSOB1L2fT",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.OhEj2rmBVMASzsbJ"
     },
     {
-      "name": "Diving Pounce",
+      "name": "Дайвинг Набросок",
       "type": "feature",
       "system": {
         "type": {
@@ -468,7 +468,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712943122766,
@@ -481,7 +481,7 @@
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.VfO1umAUvHMhhA43"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "pDsyFppAVaVCl1UN",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -530,20 +530,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709773734467,
         "modifiedTime": 1712943219170,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.jS7wIZVCAi6I2VMe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.jS7wIZVCAi6I2VMe",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.pDsyFppAVaVCl1UN"
     },
     {
-      "name": "Magic Weapons",
+      "name": "Магическое оружие",
       "type": "feature",
       "_id": "ASMrvmtl315ooizu",
       "img": "icons/magic/unholy/hand-claw-fire-blue.webp",
@@ -592,20 +592,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709773738433,
         "modifiedTime": 1712943222316,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.d8IaVs2urx4Anq3K",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.d8IaVs2urx4Anq3K",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.ASMrvmtl315ooizu"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "0d11hvbYkKyj1ZiC",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -704,20 +704,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1712943376773,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.0d11hvbYkKyj1ZiC"
     },
     {
-      "name": "Catch Rider",
+      "name": "Поймай Райдера",
       "type": "feature",
       "system": {
         "type": {
@@ -822,7 +822,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712943395248,
@@ -835,7 +835,7 @@
       "_key": "!actors.items!N1mEqhOK8oUD5XG3.tQqTthZGq5stxBKY"
     },
     {
-      "name": "Hooves",
+      "name": "Копыта",
       "type": "weapon",
       "_id": "bV47xmPQmVHo6qKx",
       "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -989,11 +989,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.5ndxvSRcubJLDMsW",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.5ndxvSRcubJLDMsW",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930618,
         "modifiedTime": 1756751724979,
@@ -1009,7 +1009,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709672664051,

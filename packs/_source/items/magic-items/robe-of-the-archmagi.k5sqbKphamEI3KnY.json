@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Robe of the Archmagi",
+  "name": "Одеяние архимага",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -12,7 +12,7 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Sorcerer, Warlock, or Wizard"
+      "requirement": "от колдуна, чернокнижника или волшебника"
     },
     "description": {
       "value": "<p>This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. You gain these benefits while wearing the robe:</p><ul><li><p>If you aren’t wearing armor, your base AC is 15 + your DEX modifier.</p></li><li><p>You have advantage on saves against spells and other magical effects.</p></li><li><p>Your spell save DC and spell attack bonus each increase by 2.</p></li></ul>",
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "The Archmagi",
-      "origin": "Compendium.black-flag.items.Item.k5sqbKphamEI3KnY",
+      "name": "Архимаги",
+      "origin": "Compendium.black-flag-ru.items.Item.k5sqbKphamEI3KnY",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -90,7 +90,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729892808385,
         "modifiedTime": 1756333577645,
@@ -109,7 +109,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725071115999,
     "modifiedTime": 1729893107433,

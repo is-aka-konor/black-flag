@@ -1,6 +1,6 @@
 {
   "folder": "NJ7MOfSV86dZsbEi",
-  "name": "Potion of Healing",
+  "name": "Зелье исцеления",
   "type": "consumable",
   "_id": "EmpSZCJ3OGT5vLcJ",
   "img": "icons/consumables/potions/potion-tube-corked-red.webp",
@@ -9,7 +9,7 @@
       "I8ic0jEFwvVIyfCl": {
         "type": "healing",
         "_id": "I8ic0jEFwvVIyfCl",
-        "description": "<p>You regain hit points when you drink this red, glimmering potion.</p>",
+        "description": "<p>Вы проводите за очками жизни, когда выпьете это красное мерцающее зелье.</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -81,7 +81,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "coreVersion": "13.347",
     "createdTime": 1703973190557,

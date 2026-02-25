@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Mire the Mind",
+  "name": "Загрязнить разум",
   "type": "feature",
   "_id": "VTBYbdcqYfCieKIQ",
   "img": "icons/skills/wounds/blood-cells-disease-green.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376807960,

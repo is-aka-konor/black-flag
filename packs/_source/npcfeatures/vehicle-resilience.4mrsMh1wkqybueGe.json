@@ -1,5 +1,5 @@
 {
-  "name": "Vehicle Resilience",
+  "name": "Устойчивость автомобиля",
   "type": "feature",
   "system": {
     "identifier": {
@@ -39,7 +39,7 @@
   "img": "icons/environment/settlement/wagon.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+      "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -50,7 +50,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Vehicle Resilience",
+      "name": "Устойчивость автомобиля",
       "_id": "0B6GT0HRHM04q0fP",
       "changes": [
         {
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733427612006,
         "modifiedTime": 1733427690894,
@@ -170,7 +170,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733427465500,
     "modifiedTime": 1733427716814,

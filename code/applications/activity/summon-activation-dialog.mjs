@@ -11,7 +11,7 @@ export default class SummonActivationDialog extends ActivityActivationDialog {
 	static PARTS = {
 		...super.PARTS,
 		creation: {
-			template: "systems/black-flag/templates/activity/summon-activation-creation.hbs"
+			template: "systems/black-flag-ru/templates/activity/summon-activation-creation.hbs"
 		}
 	};
 

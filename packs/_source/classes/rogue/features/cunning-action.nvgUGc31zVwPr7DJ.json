@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Cunning Action",
+  "name": "Хитрое действие",
   "type": "feature",
   "_id": "nvgUGc31zVwPr7DJ",
   "img": "icons/skills/movement/feet-winged-sandals-tan.webp",
@@ -46,7 +46,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Dash, Disengage, or Hide",
+        "name": "Рваться, выйти из боя или спрятаться",
         "img": ""
       }
     },
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045659346,

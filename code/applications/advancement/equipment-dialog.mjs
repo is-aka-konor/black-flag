@@ -30,16 +30,16 @@ export default class EquipmentDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		toggle: {
-			template: "systems/black-flag/templates/advancement/equipment-dialog-toggle.hbs"
+			template: "systems/black-flag-ru/templates/advancement/equipment-dialog-toggle.hbs"
 		},
 		class: {
-			template: "systems/black-flag/templates/advancement/equipment-dialog-selection.hbs"
+			template: "systems/black-flag-ru/templates/advancement/equipment-dialog-selection.hbs"
 		},
 		background: {
-			template: "systems/black-flag/templates/advancement/equipment-dialog-selection.hbs"
+			template: "systems/black-flag-ru/templates/advancement/equipment-dialog-selection.hbs"
 		},
 		submit: {
-			template: "systems/black-flag/templates/advancement/equipment-dialog-submit.hbs"
+			template: "systems/black-flag-ru/templates/advancement/equipment-dialog-submit.hbs"
 		}
 	};
 

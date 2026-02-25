@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Handful of Gears (for Gear Barrage)",
+  "name": "Горсть шестеренок (для «Заградительного снаряда»)",
   "type": "sundry",
   "_id": "FaTns39iKr4dmxV9",
   "img": "icons/commodities/tech/cog-brass.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703961727233,

@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Cockatrice",
+  "name": "Кокатрис",
   "type": "npc",
   "_id": "mdERCYbI7VnDABew",
-  "img": "systems/black-flag/artwork/tokens/cockatrice.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/cockatrice.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -151,7 +151,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Cockatrice",
+    "name": "Кокатрис",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -159,7 +159,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/cockatrice.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/cockatrice.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
   },
   "items": [
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "UOljcDK9gdAJ1Fnb",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -287,7 +287,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -298,7 +298,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -323,7 +323,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -349,7 +349,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -472,7 +472,7 @@
           "value": null
         }
       },
-      "name": "Shrieking Crow",
+      "name": "Визжащая ворона",
       "type": "feature",
       "_id": "7D1bsM7QxRajvHU7",
       "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
@@ -492,7 +492,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -502,7 +502,7 @@
       "_key": "!actors.items!mdERCYbI7VnDABew.7D1bsM7QxRajvHU7"
     },
     {
-      "name": "Serrated Beak",
+      "name": "Зубчатый клюв",
       "type": "weapon",
       "_id": "jwV0gv7PPmktB0Lo",
       "img": "icons/commodities/bones/beak-orange-green.webp",
@@ -553,8 +553,8 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Main Attack",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "name": "Основная атака",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -657,7 +657,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -675,7 +675,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &amp;Reference[restrained]{restrained} as it begins to turn to stone. The creature must repeat the save at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[restrained]{restrained} as it begins to turn to stone. The creature must repeat the save at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -740,10 +740,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.Oy9y16lIF2KikQwD",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.Oy9y16lIF2KikQwD",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934362,
         "modifiedTime": 1756759542644,
@@ -757,7 +757,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

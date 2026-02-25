@@ -55,7 +55,7 @@ export default class Activity extends PseudoDocumentMixin(BaseActivity) {
 					actions: {
 						placeTemplate: Activity.#placeTemplate
 					},
-					chatCard: "systems/black-flag/templates/activity/chat/activation-card.hbs",
+					chatCard: "systems/black-flag-ru/templates/activity/chat/activation-card.hbs",
 					dialog: ActivityActivationDialog
 				}
 			},

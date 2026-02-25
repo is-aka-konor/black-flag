@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Eldritch Master",
+  "name": "Жуткий мастер",
   "type": "feature",
   "_id": "sssVvUrToRwNhT7T",
   "img": "icons/creatures/magical/spirit-undead-ghost-purple.webp",
@@ -66,7 +66,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Recovery Pact Magic",
+        "name": "Магия Пакта Восстановления",
         "img": ""
       }
     },
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "coreVersion": "13.347",
     "createdTime": 1719376310302,

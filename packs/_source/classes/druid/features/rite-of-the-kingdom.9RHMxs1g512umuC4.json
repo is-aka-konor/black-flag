@@ -1,6 +1,6 @@
 {
   "folder": "6P0Rxao2AROWasas",
-  "name": "Rite of the Kingdom",
+  "name": "Обряд Царства",
   "type": "feature",
   "_id": "9RHMxs1g512umuC4",
   "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717737111103,

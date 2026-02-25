@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Hivebound",
+  "name": "Привязанный к улью",
   "type": "npc",
   "_id": "ELOJUXJGpMxWSxdh",
-  "img": "systems/black-flag/artwork/tokens/hivebound.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/hivebound.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -165,7 +165,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Hivebound",
+    "name": "Привязанный к улью",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -173,7 +173,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/hivebound.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/hivebound.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -304,7 +304,7 @@
           "value": null
         }
       },
-      "name": "Collective Mind",
+      "name": "Коллективный разум",
       "type": "feature",
       "_id": "uTr6KTex6HPkkEJK",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -324,7 +324,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -334,7 +334,7 @@
       "_key": "!actors.items!ELOJUXJGpMxWSxdh.uTr6KTex6HPkkEJK"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "ZbYYyoOOhYSdEn8v",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -375,7 +375,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -386,7 +386,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -411,7 +411,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -437,7 +437,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -463,7 +463,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] starts its turn afflicted by an ongoing effect that allows a repeated INT, WIS, or CHA save to end the effect, such as the @UUID[Compendium.black-flag.spells.Item.kVXub5YGKOSXv8ix]{hold} spell, the [[lookup @name lowercase]] can make the save at the start of the turn instead of the end and has advantage on the save.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] starts its turn afflicted by an ongoing effect that allows a repeated INT, WIS, or CHA save to end the effect, such as the @UUID[Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix]{hold} spell, the [[lookup @name lowercase]] can make the save at the start of the turn instead of the end and has advantage on the save.</p>",
           "source": {
             "fallback": "Black Flab Reference Document"
           }
@@ -489,7 +489,7 @@
           "value": null
         }
       },
-      "name": "Reinforced Mind",
+      "name": "Укрепленный разум",
       "type": "feature",
       "_id": "Ae9Oh0bJm55Y6fGe",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -509,7 +509,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -519,7 +519,7 @@
       "_key": "!actors.items!ELOJUXJGpMxWSxdh.Ae9Oh0bJm55Y6fGe"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "ewnLsPFIa5oVqjKA",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -623,7 +623,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -733,7 +733,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -861,7 +861,7 @@
         },
         "rarity": ""
       },
-      "name": "Spit Insect",
+      "name": "Плевать насекомое",
       "type": "weapon",
       "_id": "wb4hRWUEFLCg6jkX",
       "img": "icons/creatures/invertebrates/wasp-swarm-attack.webp",
@@ -881,7 +881,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759864063,
@@ -996,7 +996,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1042,7 +1042,7 @@
           "value": null
         }
       },
-      "name": "Swarm Breath",
+      "name": "Ройовое дыхание",
       "type": "feature",
       "_id": "jXIL5TN6peHWTZuh",
       "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
@@ -1062,7 +1062,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1129,7 +1129,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1169,7 +1169,7 @@
           "value": null
         }
       },
-      "name": "Swift Flight",
+      "name": "Стремительный полет",
       "type": "feature",
       "_id": "Ba7pouO9UZbWt39P",
       "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
@@ -1189,7 +1189,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1199,7 +1199,7 @@
       "_key": "!actors.items!ELOJUXJGpMxWSxdh.Ba7pouO9UZbWt39P"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "UYLsC3dcHEjHz5LS",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1264,7 +1264,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1374,7 +1374,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929021,
         "modifiedTime": 1756759842635,
@@ -1387,7 +1387,7 @@
       "_key": "!actors.items!ELOJUXJGpMxWSxdh.UYLsC3dcHEjHz5LS"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "40BCdbuYznFF5Hvl",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1437,7 +1437,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1547,7 +1547,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929021,
         "modifiedTime": 1756759846963,
@@ -1565,7 +1565,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,9 +1,9 @@
 {
   "folder": "7q5scxWTyXA37xUj",
-  "name": "Crimson Jelly",
+  "name": "Багровое желе",
   "type": "npc",
   "_id": "NSwzdwp77mjlTHlD",
-  "img": "systems/black-flag/artwork/tokens/crimson-jelly.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/crimson-jelly.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,13 +154,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Crimson Jelly",
+    "name": "Багровое желе",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/crimson-jelly.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/crimson-jelly.webp",
       "scaleX": 0.5,
       "scaleY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
   },
   "items": [
     {
-      "name": "Amorphous",
+      "name": "Аморфный",
       "type": "feature",
       "_id": "VjCKSlb6Q0kchwsS",
       "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
@@ -304,20 +304,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1709775043609,
         "modifiedTime": 1711421711228,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.uS8axwG1NAgmQaLi",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.uS8axwG1NAgmQaLi",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!NSwzdwp77mjlTHlD.VjCKSlb6Q0kchwsS"
     },
     {
-      "name": "Blood Sense",
+      "name": "Чувство крови",
       "type": "feature",
       "_id": "yesOIwwTr04Vmz5J",
       "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
@@ -366,20 +366,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421723550,
         "modifiedTime": 1711421769004,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.KDRiOH2Nd8ux4zhe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.KDRiOH2Nd8ux4zhe",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!NSwzdwp77mjlTHlD.yesOIwwTr04Vmz5J"
     },
     {
-      "name": "Ooze Nature",
+      "name": "Тина Природа",
       "type": "feature",
       "_id": "RqyI9gjZXh2hYJ5U",
       "img": "icons/creatures/slimes/slime-blob-pseudopods-green.webp",
@@ -428,20 +428,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1709774827111,
         "modifiedTime": 1711421774856,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.q6Fcwt1u5j4YntFm",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.q6Fcwt1u5j4YntFm",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!NSwzdwp77mjlTHlD.RqyI9gjZXh2hYJ5U"
     },
     {
-      "name": "Ooze Resilience",
+      "name": "Слизистая устойчивость",
       "type": "feature",
       "_id": "opKExy7XabQzpoZb",
       "img": "icons/creatures/slimes/slime-giant-face-eyes.webp",
@@ -478,7 +478,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.QInPwozfDFprThf1",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.QInPwozfDFprThf1",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -489,7 +489,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Ooze Resilience",
+          "name": "Слизистая устойчивость",
           "_id": "TRIJesrj6nA7uktU",
           "changes": [
             {
@@ -577,20 +577,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1709611470478,
         "modifiedTime": 1711421775929,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.QInPwozfDFprThf1",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.QInPwozfDFprThf1",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!NSwzdwp77mjlTHlD.opKExy7XabQzpoZb"
     },
     {
-      "name": "Tainted Attacks",
+      "name": "Испорченные атаки",
       "type": "feature",
       "_id": "G2e3ppZrQ3cZmtno",
       "img": "icons/creatures/slimes/slime-movement-splashing-yellow.webp",
@@ -639,7 +639,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421800841,
@@ -652,7 +652,7 @@
       "_key": "!actors.items!NSwzdwp77mjlTHlD.G2e3ppZrQ3cZmtno"
     },
     {
-      "name": "Transparent",
+      "name": "Прозрачный",
       "type": "feature",
       "_id": "inBB3oTa86TPxB9Z",
       "img": "icons/magic/water/barrier-ice-water-cube.webp",
@@ -701,7 +701,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421806101,
@@ -714,7 +714,7 @@
       "_key": "!actors.items!NSwzdwp77mjlTHlD.inBB3oTa86TPxB9Z"
     },
     {
-      "name": "Reproduce (Requires Temporary HP)",
+      "name": "Воспроизведение (требуется временное HP)",
       "type": "feature",
       "_id": "YBsTKqY9LRFB0ITB",
       "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
@@ -819,7 +819,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421912107,
@@ -832,7 +832,7 @@
       "_key": "!actors.items!NSwzdwp77mjlTHlD.YBsTKqY9LRFB0ITB"
     },
     {
-      "name": "Feeding Paddles",
+      "name": "Лопатки для кормления",
       "type": "weapon",
       "_id": "0sC89GeN59AEG5vb",
       "img": "icons/creatures/slimes/slime-face-skull-green.webp",
@@ -998,7 +998,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930803,
         "modifiedTime": 1756760391731,
@@ -1014,7 +1014,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709611234324,

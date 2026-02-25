@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Dust of Dryness",
+  "name": "Пыль сухости",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -82,7 +82,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Sprinkle in Water",
+        "name": "Посыпать водой",
         "img": ""
       },
       "w9ar4Qc8S53bowCl": {
@@ -169,7 +169,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Sprinkle on Elemental",
+        "name": "Посыпьте элементаля",
         "img": ""
       }
     },
@@ -205,7 +205,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1724983942262,
     "modifiedTime": 1728426556234,

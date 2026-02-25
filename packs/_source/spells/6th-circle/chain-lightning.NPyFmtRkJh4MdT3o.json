@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Chain Lightning",
+  "name": "Цепная молния",
   "type": "spell",
   "_id": "NPyFmtRkJh4MdT3o",
   "img": "icons/magic/lightning/bolt-strike-purple-pink.webp",
@@ -82,7 +82,7 @@
     "description": {
       "value": "<p>You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</p><p>A target must make a [[/save]] save. The target takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, one additional bolt leaps from the first target to another target for each slot above 6th.</p>",
       "source": {},
-      "short": "Lightning to targets in series."
+      "short": "Молнии по целям последовательно."
     },
     "source": [
       "arcane"
@@ -106,7 +106,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins"
+        "description": "немного меха; кусок янтаря, стекла или хрустального стержня; и три серебряные булавки"
       }
     },
     "duration": {
@@ -141,7 +141,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720283562637,

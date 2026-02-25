@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Cube of Force",
+  "name": "Куб Силы",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -16,14 +16,14 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This cube is about 1 inch across. Each face has a distinct marking that can be pressed. The <em>cube</em> starts with 36 charges.</p><p>You can use an action to press one of the <em>cube’s</em> faces, expending a number of charges based on the chosen face, as shown in the <strong>Cube of Force Faces</strong> table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens.</p><p>Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the <em>cube’s</em> sixth face, or the cube runs out of charges.</p><p>You can change the barrier’s effect by pressing a different cube face and expending the requisite number of charges, resetting the duration. When you press a different face, the current face effect ends.</p><p>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n795DRDU2fTosLnC inline]</p><p>The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown on the <strong>Cube of Force Charge Loss</strong> table.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n4A5EENHroAmqP8E inline]</p><p>The <em>cube</em> regains [[/r 1d20]] expended charges daily at dawn.</p>",
+      "value": "<p>This cube is about 1 inch across. Each face has a distinct marking that can be pressed. The <em>cube</em> starts with 36 charges.</p><p>You can use an action to press one of the <em>cube’s</em> faces, expending a number of charges based on the chosen face, as shown in the <strong>Cube of Force Faces</strong> table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens.</p><p>Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the <em>cube’s</em> sixth face, or the cube runs out of charges.</p><p>You can change the barrier’s effect by pressing a different cube face and expending the requisite number of charges, resetting the duration. When you press a different face, the current face effect ends.</p><p>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n795DRDU2fTosLnC inline]</p><p>The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown on the <strong>Cube of Force Charge Loss</strong> table.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n4A5EENHroAmqP8E inline]</p><p>The <em>cube</em> regains [[/r 1d20]] expended charges daily at dawn.</p>",
       "source": {}
     },
     "activities": {
       "I0VApKAnIvBcU6zx": {
         "type": "utility",
         "_id": "I0VApKAnIvBcU6zx",
-        "description": "<p>Gases, wind, and fog can’t pass through the barrier.</p>",
+        "description": "<p>_Газы, ветер и туман не могут пройти через барьер.</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -84,7 +84,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 1",
+        "name": "Нажмите Лицо 1",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -98,7 +98,7 @@
       "ZWmBMFUqSGvzg9rp": {
         "type": "utility",
         "_id": "ZWmBMFUqSGvzg9rp",
-        "description": "<p>Nonliving matter can’t pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</p>",
+        "description": "<p>Неживая мать не может пройти через барьер. Стены, поливы и потолки могут применяться по вашей воле._</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -159,7 +159,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 2",
+        "name": "Нажмите Лицо 2",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -173,7 +173,7 @@
       "a5I1oJ2qdq4HX5mp": {
         "type": "utility",
         "_id": "a5I1oJ2qdq4HX5mp",
-        "description": "<p>Living matter can’t pass through the barrier.</p>",
+        "description": "<p>Живое вещество не может пройти через барьер.</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -234,7 +234,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 3",
+        "name": "Нажмите Лицо 3",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -247,7 +247,7 @@
       },
       "yksQMqhjosxsJL5f": {
         "type": "utility",
-        "description": "<p>Spell effects can’t pass through the barrier.</p>",
+        "description": "<p>Эффекты заклинания не могут пройти через барьер.</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -308,7 +308,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 4",
+        "name": "Нажмите Лицо 4",
         "img": "",
         "_id": "yksQMqhjosxsJL5f",
         "visibility": {
@@ -322,7 +322,7 @@
       },
       "za6hxCP0jWs4uUM2": {
         "type": "utility",
-        "description": "<p>Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</p>",
+        "description": "<p>Ничто не может пройти через барьер. Стены, поливы и потолки могут применяться по вашей воле._</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -383,7 +383,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 5",
+        "name": "Нажмите Лицо 5",
         "img": "",
         "_id": "za6hxCP0jWs4uUM2",
         "visibility": {
@@ -397,7 +397,7 @@
       },
       "vSk2kgCRWF5a9wRS": {
         "type": "utility",
-        "description": "<p>The barrier deactivates.</p>",
+        "description": "<p>Шлагбаум деактивируется.</p>",
         "system": {
           "effects": [],
           "roll": {
@@ -451,7 +451,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Press Face 6",
+        "name": "Нажмите Лицо 6",
         "img": "",
         "_id": "vSk2kgCRWF5a9wRS",
         "visibility": {
@@ -525,7 +525,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Disintegrate Charges",
+        "name": "Удалить заряды дезинтеграции",
         "img": ""
       },
       "ojcsIpRFnz8pwtod": {
@@ -588,7 +588,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Horn of Blasting Charges",
+        "name": "Удалить заряды «Рога взрывчатки»",
         "img": "",
         "_id": "ojcsIpRFnz8pwtod"
       },
@@ -652,7 +652,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Passwall Charges",
+        "name": "Удалить сборы за пароль",
         "img": "",
         "_id": "5ZlLuX87IMGHIN4Y"
       },
@@ -716,7 +716,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Prismatic Spray Charges",
+        "name": "Удалить заряды призматического распыления",
         "img": "",
         "_id": "sq8IJMhM3X5dcPwS"
       },
@@ -780,7 +780,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Wall of Fire Charges",
+        "name": "Удалить заряды «Стены огня»",
         "img": "",
         "_id": "K1VA6CUNZePNN23a"
       }
@@ -820,7 +820,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983820384,
     "modifiedTime": 1756335254579,

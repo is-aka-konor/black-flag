@@ -42,38 +42,38 @@ export default class PCSheet extends BaseActorSheet {
 	/** @override */
 	static PARTS = {
 		header: {
-			template: "systems/black-flag/templates/actor/pc-header.hbs"
+			template: "systems/black-flag-ru/templates/actor/pc-header.hbs"
 		},
 		tabs: {
 			classes: ["tabs-separate"],
-			template: "systems/black-flag/templates/actor/tabs.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs.hbs"
 		},
 		main: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/pc-main.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/pc-main.hbs"
 		},
 		spellcasting: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/pc-spellcasting.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/pc-spellcasting.hbs"
 		},
 		inventory: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/pc-inventory.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/pc-inventory.hbs"
 		},
 		features: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/pc-features.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/pc-features.hbs"
 		},
 		biography: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/pc-biography.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/pc-biography.hbs"
 		},
 		effects: {
 			container: { classes: ["sheet-body"], id: "main", tag: "form" },
-			template: "systems/black-flag/templates/actor/tabs/active-effects.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/active-effects.hbs"
 		},
 		progression: {
-			template: "systems/black-flag/templates/actor/pc-progression.hbs"
+			template: "systems/black-flag-ru/templates/actor/pc-progression.hbs"
 		}
 	};
 

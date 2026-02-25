@@ -34,7 +34,7 @@ export default class LairData extends ActorDataModel.mixin(SourceTemplate) {
 				category: "place",
 				legacyMixin: false,
 				localization: "BF.Actor.Type.Lair",
-				img: "systems/black-flag/artwork/types/lair.svg",
+				img: "systems/black-flag-ru/artwork/types/lair.svg",
 				sheet: {
 					application: LairSheet,
 					label: "BF.Sheet.Default.Lair"
@@ -79,7 +79,7 @@ export default class LairData extends ActorDataModel.mixin(SourceTemplate) {
 		context.headerLevel = 4;
 		const section = document.createElement("section");
 		section.innerHTML = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/actor/embeds/lair-embed.hbs",
+			"systems/black-flag-ru/templates/actor/embeds/lair-embed.hbs",
 			context
 		);
 		return section.children;

@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Uncanny Dodge",
+  "name": "Жуткая уловка",
   "type": "feature",
   "_id": "j418voyEG226SpAG",
   "img": "icons/skills/movement/ball-spinning-blue.webp",
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045833764,

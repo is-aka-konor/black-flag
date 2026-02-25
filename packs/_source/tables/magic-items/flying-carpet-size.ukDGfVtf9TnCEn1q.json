@@ -1,8 +1,8 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Flying Carpet Size",
+  "name": "Размер ковра-самолета",
   "img": "icons/commodities/cloth/cloth-bolt-gold-red.webp",
-  "description": "<p>Size / Capacity / Flying Speed</p>",
+  "description": "<p>Размер/Вместимость/Скорость полета</p>",
   "results": [
     {
       "type": "text",
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426273100,
     "modifiedTime": 1729534438417,

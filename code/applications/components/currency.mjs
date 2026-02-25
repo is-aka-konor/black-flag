@@ -8,7 +8,7 @@ export default class CurrencyElement extends InventoryElement {
 	 */
 	async _onAddItem(target) {
 		const content = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/shared/add-currency-dialog.hbs",
+			"systems/black-flag-ru/templates/shared/add-currency-dialog.hbs",
 			{
 				currencies: Object.entries(CONFIG.BlackFlag.currencies).reduce((obj, [k, config]) => {
 					if (config.default) obj[k] = config;

@@ -123,7 +123,7 @@ export default class BlackFlagActiveEffect extends ActiveEffect {
 		// Change name and icon to match exhaustion level
 		let level = this.getFlag("black-flag", "level");
 		if (!Number.isFinite(level)) level = 1;
-		this.img = `systems/black-flag/artwork/statuses/exhaustion-${level}.svg`;
+		this.img = `systems/black-flag-ru/artwork/statuses/exhaustion-${level}.svg`;
 		this.name = game.i18n.format("BF.Condition.Exhaustion.Numbered", { level: formatNumber(level) });
 		if (level >= 6) this.statuses.add("dead");
 	}
@@ -405,7 +405,7 @@ export default class BlackFlagActiveEffect extends ActiveEffect {
 			const element = html.querySelector('[data-status-id="exhaustion"]');
 			if (element) {
 				element.style.objectPosition = "-100px";
-				element.style.background = `url('systems/black-flag/artwork/statuses/exhaustion-${level}.svg') no-repeat center / contain`;
+				element.style.background = `url('systems/black-flag-ru/artwork/statuses/exhaustion-${level}.svg') no-repeat center / contain`;
 			}
 		}
 	}

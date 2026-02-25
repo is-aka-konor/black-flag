@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Technique: Stunning Strike",
+  "name": "Техника: Оглушающий удар",
   "type": "feature",
   "_id": "nCCOY40uPRG7C0Mi",
   "img": "icons/magic/unholy/beam-impact-green.webp",
@@ -33,7 +33,7 @@
             },
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo",
+              "target": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo",
               "value": "1"
             }
           ],
@@ -115,7 +115,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717970226257,

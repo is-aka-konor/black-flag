@@ -1,5 +1,5 @@
 {
-  "name": "Life Drain",
+  "name": "Утечка жизни",
   "type": "weapon",
   "_id": "NKh3nW3uDwfXaCvG",
   "img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
@@ -235,7 +235,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709636,
     "modifiedTime": 1756767847678,

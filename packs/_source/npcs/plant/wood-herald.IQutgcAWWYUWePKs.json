@@ -1,9 +1,9 @@
 {
   "folder": "R0P4phVJmJx1Klt7",
-  "name": "Wood Herald",
+  "name": "Деревянный Вестник",
   "type": "npc",
   "_id": "IQutgcAWWYUWePKs",
-  "img": "systems/black-flag/artwork/tokens/wood-herald.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/wood-herald.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Wood Herald",
+    "name": "Деревянный Вестник",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/wood-herald.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/wood-herald.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -294,7 +294,7 @@
           "value": null
         }
       },
-      "name": "Plant Camouflage",
+      "name": "Растительный камуфляж",
       "type": "feature",
       "_id": "TOGjko49f7WlFpTD",
       "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
@@ -314,7 +314,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -324,7 +324,7 @@
       "_key": "!actors.items!IQutgcAWWYUWePKs.TOGjko49f7WlFpTD"
     },
     {
-      "name": "Plant Resilience",
+      "name": "Устойчивость растений",
       "type": "feature",
       "_id": "PxBxqKA3K2gQ3gEv",
       "img": "icons/magic/nature/plant-glowing-white-purple.webp",
@@ -367,7 +367,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.wKYxtPQ0kudDdh4N",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.wKYxtPQ0kudDdh4N",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -378,7 +378,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Plant Resilience",
+          "name": "Устойчивость растений",
           "_id": "4alHXchWfiVtXGAv",
           "changes": [
             {
@@ -415,7 +415,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -441,7 +441,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.vLR2wJZJVmMquSPH",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -493,7 +493,7 @@
           "value": null
         }
       },
-      "name": "Woodland Walk",
+      "name": "Вудленд Уок",
       "type": "feature",
       "_id": "GldtLClYMZbUXFdu",
       "img": "icons/magic/nature/root-vine-spiral-thorns-teal.webp",
@@ -509,7 +509,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.Ft7ufzhsmwGHcv3h",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -524,7 +524,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Wooden Greataxe",
+      "name": "Деревянный большой топор",
       "type": "weapon",
       "_id": "BjvTwXwUAtp6xo6J",
       "img": "icons/weapons/axes/axe-battle-engraved-purple.webp",
@@ -661,9 +661,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.9EAkaGqWPK0qFoDq",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.9EAkaGqWPK0qFoDq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756760601008,
@@ -786,7 +786,7 @@
         },
         "rarity": ""
       },
-      "name": "Hurl Thorn",
+      "name": "Бросить Торн",
       "type": "weapon",
       "_id": "wNy8cXlrS4sXUAe4",
       "img": "icons/magic/nature/root-vine-spiral-thorns-teal.webp",
@@ -806,7 +806,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756760608242,
@@ -894,7 +894,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           }
@@ -934,7 +934,7 @@
           "value": null
         }
       },
-      "name": "Brambly Bark",
+      "name": "Брамбли Барк",
       "type": "feature",
       "_id": "fyG5jbHLdwyQGTVz",
       "img": "icons/magic/nature/root-vine-thorned-coil-green.webp",
@@ -954,7 +954,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -964,7 +964,7 @@
       "_key": "!actors.items!IQutgcAWWYUWePKs.fyG5jbHLdwyQGTVz"
     },
     {
-      "name": "Slam",
+      "name": "Хлопок",
       "type": "weapon",
       "_id": "UqYoUGccjlQvIbf8",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1014,7 +1014,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1124,7 +1124,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929935,
         "modifiedTime": 1756760593196,
@@ -1142,7 +1142,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756767233118,

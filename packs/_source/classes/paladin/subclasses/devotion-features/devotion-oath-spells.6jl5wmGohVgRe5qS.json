@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Devotion Oath Spells",
+  "name": "Заклинания клятвы преданности",
   "type": "feature",
   "_id": "6jl5wmGohVgRe5qS",
   "img": "icons/commodities/treasure/broach-eye-silver-teal.webp",
@@ -20,7 +20,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.AGXXq1EcLVPFMVPh"
+              "uuid": "Compendium.black-flag-ru.spells.Item.AGXXq1EcLVPFMVPh"
             }
           ],
           "spell": {
@@ -47,7 +47,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.KcUbMYrnTrhoYrCo"
+              "uuid": "Compendium.black-flag-ru.spells.Item.KcUbMYrnTrhoYrCo"
             }
           ],
           "spell": {
@@ -74,7 +74,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu"
+              "uuid": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu"
             }
           ],
           "spell": {
@@ -101,7 +101,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.hg7Ruezml76s0iWB"
+              "uuid": "Compendium.black-flag-ru.spells.Item.hg7Ruezml76s0iWB"
             }
           ],
           "spell": {
@@ -128,7 +128,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.qGHh25GoYwwQ13NO"
+              "uuid": "Compendium.black-flag-ru.spells.Item.qGHh25GoYwwQ13NO"
             }
           ],
           "spell": {
@@ -151,7 +151,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain oath spells at the paladin levels listed in the <strong>Devotion Oath Spells</strong> table. See the Paladin Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.kZoW2aoF4aRFhNJA inline]</p>",
+      "value": "<p>You gain oath spells at the paladin levels listed in the <strong>Devotion Oath Spells</strong> table. See the Paladin Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.kZoW2aoF4aRFhNJA inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -180,7 +180,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1718403950776,

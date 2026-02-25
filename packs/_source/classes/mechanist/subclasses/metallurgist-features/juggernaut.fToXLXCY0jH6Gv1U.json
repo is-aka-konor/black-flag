@@ -1,6 +1,6 @@
 {
   "folder": "kbsqEF5chqRSFMf7",
-  "name": "Juggernaut",
+  "name": "Джаггернаут",
   "type": "feature",
   "_id": "fToXLXCY0jH6Gv1U",
   "img": "icons/commodities/tech/furnace-modern.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128190134,

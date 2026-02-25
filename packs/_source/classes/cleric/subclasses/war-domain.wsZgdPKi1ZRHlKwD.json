@@ -1,6 +1,6 @@
 {
   "folder": "4WWscBYqf5r20qqO",
-  "name": "War Domain",
+  "name": "Военный домен",
   "type": "subclass",
   "_id": "wsZgdPKi1ZRHlKwD",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
@@ -17,13 +17,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.WvenH1OyYc2h0Ml3"
+              "uuid": "Compendium.black-flag-ru.classes.Item.WvenH1OyYc2h0Ml3"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.FCKKhpaAmUdlTg1u"
+              "uuid": "Compendium.black-flag-ru.classes.Item.FCKKhpaAmUdlTg1u"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.aDnu8nJ6X7zQ9lI4"
+              "uuid": "Compendium.black-flag-ru.classes.Item.aDnu8nJ6X7zQ9lI4"
             }
           ]
         }
@@ -34,7 +34,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.uUqmNZEvYLjWUdPF"
+              "uuid": "Compendium.black-flag-ru.classes.Item.uUqmNZEvYLjWUdPF"
             }
           ]
         },
@@ -52,7 +52,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ML4WDJXYjMqzIgVX"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ML4WDJXYjMqzIgVX"
             }
           ]
         },
@@ -70,7 +70,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.UYss9JXHVrnUX9ol"
+              "uuid": "Compendium.black-flag-ru.classes.Item.UYss9JXHVrnUX9ol"
             }
           ]
         },
@@ -86,8 +86,8 @@
     "description": {
       "value": "<p>Gods of the War Domain celebrate strength, reveling in the glory of victory and the thrill of competition. Gods with evil or chaotic proclivities emphasize the destruction and violence of war, but such gods are primarily worshipped by villainous factions. Most societies and heroic characters worship war gods who honor courage, demand excellence on the field of battle, and reward those who take up arms when the need is great.</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.6Iat3Hp54gESmwih",
-      "short": "Gods of the War Domain celebrate strength, reveling in the glory of victory and the thrill of competition. Gods with evil or chaotic proclivities emphasize the destruction and violence of war, but such gods are primarily worshipped by villainous factions. Most societies and heroic characters worship war gods who honor courage, demand excellence on the field of battle, and reward those who take up arms when the need is great."
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.6Iat3Hp54gESmwih",
+      "short": "Боги Области Войны прославляют силу, упиваясь славой победы и азартом соревнования. Боги со злыми или хаотическими наклонностями подчеркивают разрушительность и насилие войны, но таким богам в первую очередь поклоняются злодейские фракции. Большинство обществ и героических персонажей поклоняются богам войны, которые чтят храбрость, требуют превосходства на поле битвы и награждают тех, кто берет в руки оружие, когда в этом есть большая необходимость."
     },
     "identifier": {
       "class": "cleric"
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1700001627044,

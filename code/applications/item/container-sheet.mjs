@@ -18,7 +18,7 @@ export default class ContainerSheet extends EquipmentSheet {
 		...super.PARTS,
 		contents: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/contents.hbs",
+			template: "systems/black-flag-ru/templates/item/contents.hbs",
 			scrollable: [""]
 		}
 	};

@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Arrow-Catching Shield",
+  "name": "Щит для ловли стрел",
   "type": "armor",
   "img": "icons/equipment/shield/buckler-boss-iron-wood-brown.webp",
   "system": {
@@ -103,7 +103,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Catch Arrows",
+        "name": "Ловить стрелы",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -127,7 +127,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725588932684,
     "modifiedTime": 1756334966099,

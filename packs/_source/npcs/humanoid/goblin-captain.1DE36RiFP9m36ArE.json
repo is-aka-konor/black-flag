@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Goblin Captain",
+  "name": "Гоблин-капитан",
   "type": "npc",
   "_id": "1DE36RiFP9m36ArE",
-  "img": "systems/black-flag/artwork/tokens/goblin-captain.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/goblin-captain.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -147,13 +147,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Goblin Captain",
+    "name": "Гоблин-капитан",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/goblin-captain.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/goblin-captain.webp",
       "scaleX": 0.8,
       "scaleY": 0.8,
       "offsetX": 0,
@@ -243,7 +243,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Chain Shirt",
+      "name": "Кольчужная рубашка",
       "type": "armor",
       "_id": "1yGWEpRX1OXctoc5",
       "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -303,13 +303,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.015",
         "coreVersion": "13.347",
         "createdTime": 1701023510950,
         "modifiedTime": 1709618185604,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.FO53M9vYJXLrYPDs",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.FO53M9vYJXLrYPDs",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -317,7 +317,7 @@
     },
     {
       "folder": "wY6fgyjQXhuGiB1F",
-      "name": "Shield",
+      "name": "Щит",
       "type": "armor",
       "_id": "BB03B5uNLkhUFa4j",
       "img": "icons/equipment/shield/buckler-wooden-boss.webp",
@@ -376,20 +376,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.015",
         "coreVersion": "13.347",
         "createdTime": 1701023556537,
         "modifiedTime": 1709618188810,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!1DE36RiFP9m36ArE.BB03B5uNLkhUFa4j"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "pfVUS2b321dcIUEE",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -488,13 +488,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711746312165,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -502,7 +502,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Scimitar",
+      "name": "Ятаган",
       "type": "weapon",
       "_id": "QkjzAK2Md0twem7B",
       "img": "icons/weapons/swords/scimitar-worn-blue.webp",
@@ -635,13 +635,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "coreVersion": "13.347",
         "createdTime": 1701025022972,
         "modifiedTime": 1756758304946,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.MwYjehTr9oJlHb1Z",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.MwYjehTr9oJlHb1Z",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -649,7 +649,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Shortbow",
+      "name": "Короткий лук",
       "type": "weapon",
       "_id": "Mst6qSEZqQPZ5VhW",
       "img": "icons/weapons/bows/shortbow-arrows-black.webp",
@@ -785,20 +785,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "coreVersion": "13.347",
         "createdTime": 1701024643661,
         "modifiedTime": 1756758313147,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.jqDqlfsNkDCUIYHZ",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.jqDqlfsNkDCUIYHZ",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!1DE36RiFP9m36ArE.Mst6qSEZqQPZ5VhW"
     },
     {
-      "name": "Get That One!",
+      "name": "Получите это!",
       "type": "feature",
       "_id": "9rCJkYeLCwksZXew",
       "img": "icons/skills/melee/hand-grip-sword-strike-orange.webp",
@@ -903,7 +903,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711746210183,
@@ -916,7 +916,7 @@
       "_key": "!actors.items!1DE36RiFP9m36ArE.9rCJkYeLCwksZXew"
     },
     {
-      "name": "Nimble Escape",
+      "name": "Ловкий побег",
       "type": "feature",
       "_id": "bjqU2UCc2kOCKm1W",
       "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
@@ -1021,20 +1021,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711746069449,
         "modifiedTime": 1711746262316,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.FBD7mm1TgD77aaIv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.FBD7mm1TgD77aaIv",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!1DE36RiFP9m36ArE.bjqU2UCc2kOCKm1W"
     },
     {
-      "name": "Protect Me!",
+      "name": "Защити меня!",
       "type": "feature",
       "_id": "SzV5Dc26u5QwPD3z",
       "img": "icons/skills/melee/shield-damaged-broken-brown.webp",
@@ -1139,7 +1139,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711746264727,
@@ -1159,7 +1159,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709618145219,

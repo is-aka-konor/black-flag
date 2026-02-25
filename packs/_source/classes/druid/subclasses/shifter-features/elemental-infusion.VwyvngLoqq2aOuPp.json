@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Elemental Infusion",
+  "name": "Элементальная инфузия",
   "type": "feature",
   "_id": "VwyvngLoqq2aOuPp",
   "img": "icons/creatures/magical/humanoid-silhouette-glowing-pink.webp",
@@ -20,16 +20,16 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.92TSptohPYcCiCEk"
+              "uuid": "Compendium.black-flag-ru.classes.Item.92TSptohPYcCiCEk"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.jGPZ62M4TvLUKSL8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.jGPZ62M4TvLUKSL8"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Qco8rSb1pldTRusr"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Qco8rSb1pldTRusr"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.3I0EmtJGyU3K9F1p"
+              "uuid": "Compendium.black-flag-ru.classes.Item.3I0EmtJGyU3K9F1p"
             }
           ],
           "enabled": false
@@ -45,7 +45,7 @@
       }
     },
     "description": {
-      "value": "<p>By expending two uses of the Beast Form effect of your Wild Shape feature, you can infuse your chosen form with one of the four elemental powers described here. Alternatively, you can use your reaction to spend one use of Wild Shape while already transformed by the Beast Form effect, either infusing yourself with one of the following powers or changing which power is active.</p><h6>Air</h6><p>@Embed[Compendium.black-flag.classes.Item.92TSptohPYcCiCEk inline]</p><h6>Earth</h6><p>@Embed[Compendium.black-flag.classes.Item.jGPZ62M4TvLUKSL8 inline]</p><h6>Fire</h6><p>@Embed[Compendium.black-flag.classes.Item.Qco8rSb1pldTRusr inline]</p><h6>Water</h6><p>@Embed[Compendium.black-flag.classes.Item.3I0EmtJGyU3K9F1p inline]</p>",
+      "value": "<p>By expending two uses of the Beast Form effect of your Wild Shape feature, you can infuse your chosen form with one of the four elemental powers described here. Alternatively, you can use your reaction to spend one use of Wild Shape while already transformed by the Beast Form effect, either infusing yourself with one of the following powers or changing which power is active.</p><h6>Air</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.92TSptohPYcCiCEk inline]</p><h6>Earth</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.jGPZ62M4TvLUKSL8 inline]</p><h6>Fire</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.Qco8rSb1pldTRusr inline]</p><h6>Water</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.3I0EmtJGyU3K9F1p inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -74,7 +74,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717790991179,

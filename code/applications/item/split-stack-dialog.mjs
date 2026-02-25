@@ -32,7 +32,7 @@ export default class SplitStackDialog extends BFFormDialog {
 	static PARTS = {
 		...super.PARTS,
 		content: {
-			template: "systems/black-flag/templates/item/split-stack-dialog.hbs"
+			template: "systems/black-flag-ru/templates/item/split-stack-dialog.hbs"
 		}
 	};
 

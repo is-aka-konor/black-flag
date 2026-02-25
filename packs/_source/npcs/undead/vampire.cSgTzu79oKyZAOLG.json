@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Vampire",
+  "name": "Вампир",
   "type": "npc",
   "_id": "cSgTzu79oKyZAOLG",
-  "img": "systems/black-flag/artwork/tokens/vampire.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/vampire.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -163,7 +163,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Vampire",
+    "name": "Вампир",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -171,7 +171,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/vampire.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/vampire.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -270,7 +270,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of &amp;Reference[exhaustion]{exhaustion} from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
+          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of &Reference[exhaustion]{exhaustion} from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -296,7 +296,7 @@
           "value": null
         }
       },
-      "name": "Hungry Dead Nature",
+      "name": "Голодная мертвая природа",
       "type": "feature",
       "_id": "zsYkM9Ib2rNVSmWB",
       "img": "icons/magic/death/blood-corruption-vomit-red.webp",
@@ -312,7 +312,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dttelZYjwhXAfMXe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -326,7 +326,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.zsYkM9Ib2rNVSmWB"
     },
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "BpNcFsMN3qEoHO9A",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -369,7 +369,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -447,7 +447,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -499,7 +499,7 @@
           "value": null
         }
       },
-      "name": "Misty Escape",
+      "name": "Туманный побег",
       "type": "feature",
       "_id": "LXRJyqMs6xGMAsfP",
       "img": "icons/magic/air/fog-gas-smoke-purple.webp",
@@ -519,7 +519,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -529,7 +529,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.LXRJyqMs6xGMAsfP"
     },
     {
-      "name": "Regeneration",
+      "name": "Регенерация",
       "type": "feature",
       "_id": "ulpdTE8u7Ls5KncL",
       "img": "icons/magic/life/cross-explosion-burst-green.webp",
@@ -652,7 +652,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.7IjJKufAUzxiqE6B",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -704,7 +704,7 @@
           "value": null
         }
       },
-      "name": "Resting Place",
+      "name": "Место отдыха",
       "type": "feature",
       "_id": "oiCV3hmTh47fZzGK",
       "img": "icons/containers/misc/coffin-wood-brown.webp",
@@ -724,7 +724,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -740,7 +740,7 @@
           "JzE8AyylzgWCI8ae": {
             "type": "utility",
             "_id": "JzE8AyylzgWCI8ae",
-            "description": "<p>The [[lookup @name lowercase]] can’t enter a residence without an invitation from one of the occupants.</p>",
+            "description": "<p>[[lookup @name lowercase]] не может входить в дом без приглашения одного из жильцов.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -794,13 +794,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Forbiddance",
+            "name": "Запрет",
             "img": ""
           },
           "6eC1vSiVDvxMmxNL": {
             "type": "damage",
             "_id": "6eC1vSiVDvxMmxNL",
-            "description": "<p>The [[lookup @name lowercase]] takes [[/damage]] damage if it ends its turn in running water.</p>",
+            "description": "<p>[[lookup @name lowercase]] получает [[/damage]] урона, если завершает свой ход в проточной воде.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -869,13 +869,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Harmed by Running Water",
+            "name": "Вред от проточной воды",
             "img": ""
           },
           "0XtDu2kazEXaLeSX": {
             "type": "utility",
             "_id": "0XtDu2kazEXaLeSX",
-            "description": "<p>If a piercing weapon made of wood is driven into the [[lookup @name lowercase]]'s heart while the [[lookup @name lowercase]] is &Reference[incapacitated]{incapacitated} in its resting place, the [[lookup @name lowercase]] is &Reference[paralyzed]{paralyzed} until the stake is removed.</p>",
+            "description": "<p>Если колющее оружие, сделанное из дерева, вонзится в сердце [[lookup @name lowercase]], в то время, пока [[lookup @name lowercase]] находится &Reference[выведено из строя]{incapacitated} на его месте, [[lookup @name lowercase]] &Reference[парализовано]{paralyzed} до тех пор, пока кол не будет удален.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -929,13 +929,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Stake to the Heart",
+            "name": "Ставка в сердце",
             "img": ""
           },
           "OEMqQu5lIPfW7tVV": {
             "type": "damage",
             "_id": "OEMqQu5lIPfW7tVV",
-            "description": "<p>The [[lookup @name lowercase]] takes [[/damage]] damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.</p>",
+            "description": "<p> [[lookup @name lowercase]] получает [[/damage]] урона, когда начинает свой ход под солнечным светом. Находясь на солнечном свете, он делал ударные броски и наконец получил возможность.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -1004,7 +1004,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Sunlight Hypersensitivity",
+            "name": "Гиперчувствительность к солнечному свету",
             "img": ""
           }
         },
@@ -1043,7 +1043,7 @@
           "value": null
         }
       },
-      "name": "Vampire Weaknesses",
+      "name": "Слабости вампиров",
       "type": "feature",
       "_id": "52DU6FJrrhJ1nv9c",
       "img": "icons/sundries/survival/stake-rough-heavy-brown.webp",
@@ -1063,7 +1063,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1111,7 +1111,7 @@
           "value": null
         }
       },
-      "name": "Vampiric Resilience",
+      "name": "Вампирская стойкость",
       "type": "feature",
       "_id": "QyDpqKkoisZY3s96",
       "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
@@ -1128,7 +1128,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Vampiric Resilience",
+          "name": "Вампирская стойкость",
           "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
           "_id": "r8WViB5p2G5N57sj",
           "type": "base",
@@ -1151,7 +1151,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1176,7 +1176,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1186,7 +1186,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.QyDpqKkoisZY3s96"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "EyNtAr1ZR25YGomJ",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -1251,7 +1251,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire can use Charm. It then makes three Bite or Claw attacks. It can replace one attack with a Draining Bite attack. If two Claw attacks hit one Large or smaller creature, the target is &amp;Reference[grappled]{grappled} (escape DC 17).</p>",
+          "value": "<p>The vampire can use Charm. It then makes three Bite or Claw attacks. It can replace one attack with a Draining Bite attack. If two Claw attacks hit one Large or smaller creature, the target is &Reference[grappled]{grappled} (escape DC 17).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1290,7 +1290,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1388,7 +1388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Humanoid the [[lookup @name lowercase]] can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &amp;Reference[charmed]{charmed} for 1 day, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] takes a bonus action to end the effect. The charmed target obeys the [[lookup @name lowercase]]'s verbal commands and is a willing target for the [[lookup @name lowercase]]'s Draining Bite attack. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success.</p><p>The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time. If it charms a third, the effect on the first target ends.</p>",
+          "value": "<p>One Humanoid the [[lookup @name lowercase]] can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &Reference[charmed]{charmed} for 1 day, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] takes a bonus action to end the effect. The charmed target obeys the [[lookup @name lowercase]]'s verbal commands and is a willing target for the [[lookup @name lowercase]]'s Draining Bite attack. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success.</p><p>The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time. If it charms a third, the effect on the first target ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1414,7 +1414,7 @@
           "value": null
         }
       },
-      "name": "Charm (Vampire Form Only)",
+      "name": "Очарование (только в форме вампира)",
       "type": "feature",
       "_id": "8Aw1jDC8RvOW2I4U",
       "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
@@ -1434,7 +1434,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1532,7 +1532,7 @@
           "value": null
         }
       },
-      "name": "Children of the Night",
+      "name": "Дети ночи",
       "type": "feature",
       "_id": "UsMxl3lHSCECt0NN",
       "img": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
@@ -1552,7 +1552,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1619,7 +1619,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1659,7 +1659,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "ZVU1J5OV0GUg1Pba",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -1675,7 +1675,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1746,7 +1746,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1786,7 +1786,7 @@
           "value": null
         }
       },
-      "name": "Mist Form",
+      "name": "Туманная форма",
       "type": "feature",
       "_id": "dZAJi9LfkQ2sDPKN",
       "img": "icons/magic/air/fog-gas-smoke-gray.webp",
@@ -1806,7 +1806,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1873,7 +1873,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1913,7 +1913,7 @@
           "value": null
         }
       },
-      "name": "Move",
+      "name": "Переместить",
       "type": "feature",
       "_id": "tQzCrQ0kyk3d7Xqw",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -1929,7 +1929,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.bgWDeol1hH58xqH5",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2000,7 +2000,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2040,7 +2040,7 @@
           "value": null
         }
       },
-      "name": "Call Children",
+      "name": "Позвонить детям",
       "type": "feature",
       "_id": "z9LxyKJ3WO8tFXHV",
       "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
@@ -2060,7 +2060,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2247,7 +2247,7 @@
           "value": null
         }
       },
-      "name": "Excessive Bleeding (Costs 2 Actions)",
+      "name": "Чрезмерное кровотечение (стоит 2 действия)",
       "type": "feature",
       "_id": "qFuUpTde7VUgcfX5",
       "img": "icons/skills/wounds/blood-cells-red.webp",
@@ -2267,7 +2267,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2277,7 +2277,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.qFuUpTde7VUgcfX5"
     },
     {
-      "name": "Bite (Bat, Rat, or Wolf Form Only)",
+      "name": "Укус (только в форме летучей мыши, крысы или волка)",
       "type": "weapon",
       "_id": "wyXbkM9oqa3sQZ7G",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -2342,7 +2342,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2452,7 +2452,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933212,
         "modifiedTime": 1756760958795,
@@ -2465,7 +2465,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.wyXbkM9oqa3sQZ7G"
     },
     {
-      "name": "Claw (Vampire Form Only)",
+      "name": "Коготь (только в форме вампира)",
       "type": "weapon",
       "_id": "woZ2YV8DClkzxX7f",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -2530,7 +2530,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2640,7 +2640,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933212,
         "modifiedTime": 1756760967462,
@@ -2653,7 +2653,7 @@
       "_key": "!actors.items!cSgTzu79oKyZAOLG.woZ2YV8DClkzxX7f"
     },
     {
-      "name": "Draining Bite (Bat or Vampire Form Only)",
+      "name": "Осушающий укус (только в форме летучей мыши или вампира)",
       "type": "weapon",
       "_id": "rWBiZA9nXjBjU1xt",
       "img": "icons/magic/death/mouth-bite-fangs-vampire.webp",
@@ -2718,7 +2718,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -2828,7 +2828,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933212,
         "modifiedTime": 1756760984230,
@@ -2854,7 +2854,7 @@
         "startTurn": 0
       },
       "disabled": true,
-      "name": "Wolf Form Speed",
+      "name": "Скорость в форме волка",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
       "_id": "n8sTnSFFpzBWrm8v",
       "type": "base",
@@ -2883,7 +2883,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2904,7 +2904,7 @@
         "startTurn": 0
       },
       "disabled": true,
-      "name": "Bat Form Speed",
+      "name": "Скорость формы летучей мыши",
       "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
       "_id": "rAj81Fol50pBxyYZ",
       "type": "base",
@@ -2939,7 +2939,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2960,7 +2960,7 @@
         "startTurn": 0
       },
       "disabled": true,
-      "name": "Rat Form Speed",
+      "name": "Скорость в форме крысы",
       "img": "icons/creatures/mammals/rodent-rat-green.webp",
       "_id": "UpiAWVjhxTrF9pce",
       "type": "base",
@@ -2989,7 +2989,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3003,7 +3003,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

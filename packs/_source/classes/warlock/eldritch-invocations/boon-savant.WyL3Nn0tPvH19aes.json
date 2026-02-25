@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Boon Savant",
+  "name": "Бун Савант",
   "type": "feature",
   "_id": "WyL3Nn0tPvH19aes",
   "img": "icons/magic/fire/elemental-fire-humanoid.webp",
@@ -24,13 +24,13 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.vVd0TArw9pBiDM9K"
+              "uuid": "Compendium.black-flag-ru.classes.Item.vVd0TArw9pBiDM9K"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EYGh5pcaDA1OhjxG"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EYGh5pcaDA1OhjxG"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.CGnB8trEx1NRWWiq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.CGnB8trEx1NRWWiq"
             }
           ],
           "restriction": {
@@ -64,7 +64,7 @@
       ],
       "requireAll": true,
       "items": [
-        "Compendium.black-flag.classes.Item.cS9R17yuSIlvoAf8"
+        "Compendium.black-flag-ru.classes.Item.cS9R17yuSIlvoAf8"
       ]
     },
     "type": {
@@ -89,7 +89,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376511867,

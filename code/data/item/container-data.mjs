@@ -49,7 +49,7 @@ export default class ContainerData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Container",
 				icon: "fa-solid fa-box-open",
-				img: "systems/black-flag/artwork/types/container.svg",
+				img: "systems/black-flag-ru/artwork/types/container.svg",
 				hasEffects: false,
 				sheet: {
 					application: ContainerSheet,

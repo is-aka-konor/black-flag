@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Call Lightning",
+  "name": "Вызов Молнии",
   "type": "spell",
   "_id": "HVXWvCMCtdo0xxWi",
   "img": "icons/magic/lightning/bolts-salvo-clouds-sky.webp",
@@ -56,7 +56,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Conjure Storm",
+        "name": "Вызвать бурю",
         "img": ""
       },
       "rF54nJ9XjvHhxlZO": {
@@ -127,7 +127,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Strike (calm weather)",
+        "name": "Забастовка (спокойная погода)",
         "img": ""
       },
       "hrV9zj0uNgI7LrHi": {
@@ -197,7 +197,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Strike (stormy weather)",
+        "name": "Забастовка (штормовая погода)",
         "img": "",
         "_id": "hrV9zj0uNgI7LrHi"
       }
@@ -212,7 +212,7 @@
     "description": {
       "value": "<p>A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you. The spell fails if you can’t see a point in the air where the storm cloud could appear (for example, if you are in a room that can’t accommodate the cloud).</p><p>When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.</p><p>If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell’s damage increases by [[/damage 1d10 lightning]]{1d10}.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the damage increases by [[/damage 1d10 lightning]]{1d10} for each slot above 3rd.</p>",
       "source": {},
-      "short": "Lightning in 60-ft. radius."
+      "short": "Молния в 60 футах. радиус."
     },
     "source": [
       "primordial"
@@ -274,7 +274,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720282979291,

@@ -1,5 +1,5 @@
 {
-  "name": "Maneuverable",
+  "name": "Маневренный",
   "type": "feature",
   "system": {
     "identifier": {
@@ -40,8 +40,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Maneuverable",
-      "origin": "Compendium.black-flag.npcfeatures.Item.VgVWo073DYpavk6d",
+      "name": "Маневренный",
+      "origin": "Compendium.black-flag-ru.npcfeatures.Item.VgVWo073DYpavk6d",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -73,7 +73,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733435826491,
         "modifiedTime": 1733435843837,
@@ -92,7 +92,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733435605694,
     "modifiedTime": 1733438478138,

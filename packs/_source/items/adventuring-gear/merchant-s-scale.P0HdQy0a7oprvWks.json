@@ -1,5 +1,5 @@
 {
-  "name": "Merchant’s Scale",
+  "name": "Торговая шкала",
   "type": "gear",
   "_id": "P0HdQy0a7oprvWks",
   "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717532161421,

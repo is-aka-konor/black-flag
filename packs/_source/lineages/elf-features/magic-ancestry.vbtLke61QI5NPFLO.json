@@ -1,6 +1,6 @@
 {
   "folder": "3eZ0VyWgSY0EL5YF",
-  "name": "Magic Ancestry",
+  "name": "Магическое происхождение",
   "type": "feature",
   "_id": "vbtLke61QI5NPFLO",
   "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1701131585539,

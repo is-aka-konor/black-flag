@@ -16,7 +16,7 @@ export default class ExpandedTalentListAdvancement extends Advancement {
 					configuration: ImprovementConfigurationData
 				},
 				order: 45,
-				icon: "systems/black-flag/artwork/advancement/improvement.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/improvement.svg",
 				title: "BF.Advancement.ExpandedTalentList.Title",
 				hint: "BF.Advancement.ExpandedTalentList.Hint",
 				singleton: true

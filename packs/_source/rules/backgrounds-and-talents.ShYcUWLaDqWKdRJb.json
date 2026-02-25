@@ -1,10 +1,10 @@
 {
-  "name": "Backgrounds and Talents",
+  "name": "Опыт и таланты",
   "_id": "ShYcUWLaDqWKdRJb",
   "pages": [
     {
       "sort": 0,
-      "name": "Backgrounds",
+      "name": "Фоны",
       "type": "text",
       "_id": "4xUMOEEWiF7XtEJT",
       "title": {
@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Criminal</h3><p>@Embed[Compendium.black-flag.backgrounds.Item.rB4e5r0GwT0LQpOg inline]</p><h3>Scholar</h3><p>@Embed[Compendium.black-flag.backgrounds.Item.9dRikRUkl51QM1pw inline]</p><h3>Soldier</h3><p>@Embed[Compendium.black-flag.backgrounds.Item.a0rlzqNtirxoHIDL inline]</p>",
+        "content": "<h3>Криминал</h3><p>@Embed[Compendium.black-flag-ru.backgrounds.Item.rB4e5r0GwT0LQpOg inline]</p><h3>Scholar</h3><p>@Embed[Compendium.black-flag-ru.backgrounds.Item.9dRikRUkl51QM1pw inline]</p><h3>Soldier</h3><p>@Embed[Compendium.black-flag-ru.backgrounds.Item.a0rlzqNtirxoHIDL inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -28,7 +28,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1706649043711,
@@ -42,7 +42,7 @@
     },
     {
       "sort": 0,
-      "name": "Talents",
+      "name": "Таланты",
       "type": "text",
       "_id": "qtNDD5ztQt64DQgJ",
       "title": {
@@ -52,7 +52,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Magic Talents</h3><h6>Arcanist</h6><p>@Embed[Compendium.black-flag.talents.Item.mFhBqoWUfZobEjej inline]</p><h6>Combat Casting</h6><p>@Embed[Compendium.black-flag.talents.Item.r8ZTz5fXwJEdjv6E inline]</p><h6>Elemental Savant</h6><p>@Embed[Compendium.black-flag.talents.Item.d1q5Zr4IFrc6HjQL inline]</p><h6>Mental Fortitude</h6><p>@Embed[Compendium.black-flag.talents.Item.3zFHMbUlVoYARCtM inline]</p><h6>Psycanist</h6><p>@Embed[Compendium.black-flag.talents.Item.xVBzpKBu60WMxdVu inline]</p><h6>Ritualist</h6><p>@Embed[Compendium.black-flag.talents.Item.XgPmZKWdA0WJ9BVl inline]</p><h6>School Specialization</h6><p>@Embed[Compendium.black-flag.talents.Item.nYc9jTRZrMMw8NoX inline]</p><h6>Spell Duelist</h6><p>@Embed[Compendium.black-flag.talents.Item.bBDxoEQ0rOeTa974 inline]</p><h3>Martial Talents</h3><h6>Athletic</h6><p>@Embed[Compendium.black-flag.talents.Item.9TJzT4UUeuEV63X3 inline]</p><h6>Armor Expert</h6><p>@Embed[Compendium.black-flag.talents.Item.jtNiyOYW61nRvU12 inline]</p><h6>Armor Training</h6><p>@Embed[Compendium.black-flag.talents.Item.ieEOvLswOxJWoE1Z inline]</p><h6>Combat Conditioning</h6><p>@Embed[Compendium.black-flag.talents.Item.bh77YhJPYJorKvXA inline]</p><h6>Furious Charge</h6><p>@Embed[Compendium.black-flag.talents.Item.1mGUbMHqlV0qaXlo inline]</p><h6>Hand to Hand</h6><p>@Embed[Compendium.black-flag.talents.Item.9cwctIErio7chTKz inline]</p><h6>Heavy Weapon Mastery</h6><p>@Embed[Compendium.black-flag.talents.Item.v9zFwJvB40TqZfzb inline]</p><h6>Opportunist</h6><p>@Embed[Compendium.black-flag.talents.Item.8EMxQ3x7j24D18Ta inline]</p><h6>Physical Fortitude</h6><p>@Embed[Compendium.black-flag.talents.Item.KrnY2wslIf2m1M0l inline]</p><h6>Shield Mastery</h6><p>@Embed[Compendium.black-flag.talents.Item.RYXHUfs2HPliSPkE inline]</p><h6>Vanguard</h6><p>@Embed[Compendium.black-flag.talents.Item.hKlpw2qLvLv2SmBm inline]</p><h6>Weapon Discipline</h6><p>@Embed[Compendium.black-flag.talents.Item.aA9AuRbGP12XWQyf inline]</p><h3>Technical Talents</h3><h6>Aware</h6><p>@Embed[Compendium.black-flag.talents.Item.KLyH1PNGPj8p9sM5 inline]</p><h6>Convert</h6><p>@Embed[Compendium.black-flag.talents.Item.j9tVyE1I44NJxqUR inline]</p><h6>Dungeoneer</h6><p>@Embed[Compendium.black-flag.talents.Item.25DO198kBLY57maZ inline]</p><h6>Far Traveler</h6><p>@Embed[Compendium.black-flag.talents.Item.OCWDqG56Qwk3W8MB inline]</p><h6>Field Medic</h6><p>@Embed[Compendium.black-flag.talents.Item.DRjPTISlkqhp4zoT inline]</p><h6>Polyglot</h6><p>@Embed[Compendium.black-flag.talents.Item.6khzLigcWfJj93jG inline]</p><h6>Quick</h6><p>@Embed[Compendium.black-flag.talents.Item.Zn8D6SyJXfeNI79E inline]</p><h6>Scrutinous</h6><p>@Embed[Compendium.black-flag.talents.Item.R7ePJd2INo50LAx8 inline]</p><h6>Trade Skills</h6><p>@Embed[Compendium.black-flag.talents.Item.a89OU77hOUv438yn inline]</p><h6>Touch of Luck</h6><p>@Embed[Compendium.black-flag.talents.Item.ObjD4NtWZolqK6hY inline]</p>",
+        "content": "<h3>Магические таланты</h3><h6>Арканист</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.mFhBqoWUfZobEjej inline]</p><h6>Combat Кастинг</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.r8ZTz5fXwJEdjv6E inline]</p><h6>Элементал Savant</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.d1q5Zr4IFrc6HjQL inline]</p><h6>Ментальная Стойкость</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.3zFHMbUlVoYARCtM inline]</p><h6>Псиканист</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.xVBzpKBu60WMxdVu inline]</p><h6>Ритуалист</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.XgPmZKWdA0WJ9BVl inline]</p><h6>Школа Специализация</h6><p>@Embed[Сборник.black-flag-ru.talents.Item.nYc9jTRZrMMw8NoX inline]</p><h6>Заклинание Дуэлянт</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.bBDxoEQ0rOeTa974 inline]</p><h3>Martial Таланты</h3><h6>Атлетик</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.9TJzT4UUeuEV63X3 inline]</p><h6>Броня Expert</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.jtNiyOYW61nRvU12 inline]</p><h6>Armor Обучение</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.ieEOvLswOxJWoE1Z inline]</p><h6>Боевая подготовка</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.bh77YhJPYJorKvXA inline]</p><h6>Furious Charge</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.1mGUbMHqlV0qaXlo inline]</p><h6>Рукопашный</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.9cwctIErio7chTKz inline]</p><h6>Тяжелое Мастерство</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.v9zFwJvB40TqZfzb inline]</p><h6>Оппортунист</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.8EMxQ3x7j24D18Ta inline]</p><h6>Physical Стойкость</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.KrnY2wslIf2m1M0l inline]</p><h6>Щит Мастерство</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.RYXHUfs2HPliSPkE inline]</p><h6>Vanguard</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.hKlpw2qLvLv2SmBm inline]</p><h6>Дисциплина оружия</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.aA9AuRbGP12XWQyf inline]</p><h3>Технические Таланты</h3><h6>Внимание</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.KLyH1PNGPj8p9sM5 inline]</p><h6>Convert</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.j9tVyE1I44NJxqUR inline]</p><h6>Dungeoner</h6><p>@Embed[Компендиум.black-flag-ru.talents.Item.25DO198kBLY57maZ inline]</p><h6>Далекопутешественник</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.OCWDqG56Qwk3W8MB inline]</p><h6>Полевой медик</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.DRjPTISlkqhp4zoT inline]</p><h6>Polyglot</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.6khzLigcWfJj93jG inline]</p><h6>Quick</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.Zn8D6SyJXfeNI79E inline]</p><h6>Тщательный</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.R7ePJd2INo50LAx8 inline]</p><h6>Торговля Навыки</h6><p>@Embed[Compendium.black-flag-ru.talents.Item.a89OU77hOUv438yn inline]</p><h6>Прикосновение Удача</h6><p>@Embed[Compendium.bnededostok-flag-ru.talents.Item.ObjD4NtWZolqK6hY inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -66,7 +66,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1706649141813,
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1716515333584,

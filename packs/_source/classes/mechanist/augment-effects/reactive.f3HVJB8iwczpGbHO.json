@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Reactive",
+  "name": "Реактивный",
   "type": "feature",
   "_id": "f3HVJB8iwczpGbHO",
   "img": "icons/skills/melee/blade-tip-energy-green.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128717372,

@@ -1,6 +1,6 @@
 {
   "folder": "4YOTCKl2AYTMhWlk",
-  "name": "Small Stature",
+  "name": "Маленький рост",
   "type": "feature",
   "_id": "09csUUrIKoum4S7I",
   "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716093590648,

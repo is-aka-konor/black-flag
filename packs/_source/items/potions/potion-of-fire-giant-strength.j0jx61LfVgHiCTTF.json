@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Fire Giant Strength",
+  "name": "Зелье силы огненного великана",
   "system": {
     "type": {
       "category": "potion"
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "ayoPRC4HP6Boa8G5"
       }
@@ -115,9 +115,9 @@
   "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
   "effects": [
     {
-      "name": "Fire Giant Strength",
+      "name": "Сила огненного гиганта",
       "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
-      "origin": "Compendium.black-flag.items.Item.j0jx61LfVgHiCTTF",
+      "origin": "Compendium.black-flag-ru.items.Item.j0jx61LfVgHiCTTF",
       "transfer": false,
       "_id": "b7CrgmRDSEFfXdEj",
       "type": "base",
@@ -140,7 +140,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>When you drink this potion, your STR score changes to 25 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p>",
+      "description": "<p>Когда вы выпьете это зелье, ваш показатель изменится на 25 в 1 час. Зелье не дает никакого результата, если ваш показатель СИЛ равен этому показателю или указывает на него.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540107102,
         "modifiedTime": 1729540215010,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073583586,
     "modifiedTime": 1729541211603,

@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Mummy Lord",
+  "name": "Мумия Лорд",
   "type": "npc",
   "_id": "LOgvRwKo3B5hXJSO",
-  "img": "systems/black-flag/artwork/tokens/mummy-lord.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/mummy-lord.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -167,7 +167,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Mummy Lord",
+    "name": "Мумия Лорд",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -175,7 +175,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/mummy-lord.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/mummy-lord.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -262,7 +262,7 @@
   },
   "items": [
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "9yIKW61zcdi0fK2R",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -305,7 +305,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -383,7 +383,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -397,7 +397,7 @@
       "_key": "!actors.items!LOgvRwKo3B5hXJSO.9yIKW61zcdi0fK2R"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "Uu5CDByNuw3gdPQx",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -451,7 +451,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -503,7 +503,7 @@
           "value": null
         }
       },
-      "name": "Rejuvenation",
+      "name": "Омоложение",
       "type": "feature",
       "_id": "5gozImOS2ILWJ29a",
       "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
@@ -519,7 +519,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.2uqPJiNnCH98IN43",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -571,7 +571,7 @@
           "value": null
         }
       },
-      "name": "Turning Defiance",
+      "name": "Превращение неповиновения",
       "type": "feature",
       "_id": "v2cyT3tqEVfYVqkl",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -587,7 +587,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.BxpGHptUlgiUehuG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -601,7 +601,7 @@
       "_key": "!actors.items!LOgvRwKo3B5hXJSO.v2cyT3tqEVfYVqkl"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -652,7 +652,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.nryL8pXwd7SJzonQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -667,7 +667,7 @@
       "_key": "!actors.items!LOgvRwKo3B5hXJSO.51GBq0rDoxvH82tI"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -709,7 +709,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -720,7 +720,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -751,7 +751,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -777,7 +777,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -792,7 +792,7 @@
       "_key": "!actors.items!LOgvRwKo3B5hXJSO.2UTbmDg79RSjmltI"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "FX5ZMbWf4ZbGP0hA",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -896,7 +896,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -911,7 +911,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Blessed Khopesh",
+      "name": "Благословенный Хопеш",
       "type": "weapon",
       "_id": "lUTyDgk4OmOD91UE",
       "img": "icons/weapons/swords/sword-hooked-worn.webp",
@@ -1005,7 +1005,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -1089,9 +1089,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756760850235,
@@ -1189,7 +1189,7 @@
           "value": null
         }
       },
-      "name": "Undead Servitors",
+      "name": "Нежить-слуги",
       "type": "feature",
       "_id": "zGtrAPKBIkqSpS6S",
       "img": "icons/magic/death/skull-energy-light-purple.webp",
@@ -1209,7 +1209,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1220,7 +1220,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Command",
+      "name": "Команда",
       "type": "spell",
       "_id": "5lKM6dcpgvi9UmUZ",
       "img": "icons/magic/control/control-influence-puppet.webp",
@@ -1262,7 +1262,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1299,7 +1299,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Creature obeys one-word order."
+          "short": "Существо подчиняется порядку из одного слова."
         },
         "circle": {
           "value": null,
@@ -1363,9 +1363,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.lkBDXbx2O78UA8gz",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.lkBDXbx2O78UA8gz",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1376,7 +1376,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Guidance",
+      "name": "Руководство",
       "type": "spell",
       "_id": "BZY44ZhlJPAdmY6s",
       "img": "icons/magic/symbols/circled-gem-pink.webp",
@@ -1444,7 +1444,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally adds d4 to ability check."
+          "short": "Союзник добавил d4 к внешним возможностям."
         },
         "circle": {
           "value": null,
@@ -1499,7 +1499,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+          "origin": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1510,13 +1510,13 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Guidance",
+          "name": "Руководство",
           "img": "icons/magic/symbols/circled-gem-pink.webp",
           "_id": "QX9n2KU4w9evJUYL",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>Once before the spell ends, you can roll a [[/r d4]] and add the number rolled to one ability check of your. You can roll the die before or after making the ability check. The spell then ends.</p>",
+          "description": "<p>Незадолго до окончания заклинания вы можете выкинуть [[/r d4]] и добавить выпавшее число к вашей способности с одной стороны. Вы можете бросить кубик до или после проверки функций. Затем заклинание заканчивается.</p>",
           "tint": "#ffffff",
           "transfer": false,
           "statuses": [],
@@ -1526,7 +1526,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1549,9 +1549,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1562,7 +1562,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Thaumaturgy",
+      "name": "Чудотворство",
       "type": "spell",
       "_id": "SJKN5O33ywLFMd1O",
       "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
@@ -1630,7 +1630,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless display of power."
+          "short": "Безобидное проявление силы."
         },
         "circle": {
           "value": null,
@@ -1691,9 +1691,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.J9zLZYHvTHwzB98C",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.J9zLZYHvTHwzB98C",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1704,7 +1704,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Dispel Magic",
+      "name": "Рассеять магию",
       "type": "spell",
       "_id": "0HhpXlrQ9ypvVDxd",
       "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -1768,7 +1768,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1790,7 +1790,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Break an ongoing spell."
+          "short": "Прервите действующее заклинание."
         },
         "circle": {
           "value": null,
@@ -1859,9 +1859,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1872,7 +1872,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Hold",
+      "name": "Удерживать",
       "type": "spell",
       "_id": "DJidFehjStBt2PoB",
       "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
@@ -1921,7 +1921,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1959,11 +1959,11 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &amp;Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Paralyze a Medium creature."
+          "short": "Парализуйте существо Среднего размера."
         },
         "circle": {
           "value": null,
@@ -1982,7 +1982,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a small, straight piece of iron",
+            "description": "небольшой, прямой кусок железа",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2038,9 +2038,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.kVXub5YGKOSXv8ix",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2051,7 +2051,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Silence",
+      "name": "Тишина",
       "type": "spell",
       "_id": "0BYKuaSJImzqq8NN",
       "img": "icons/magic/control/mouth-smile-deception-purple.webp",
@@ -2115,7 +2115,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2137,7 +2137,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "20-ft. radius deafening quiet."
+          "short": "20 футов. радиус оглушительная тишина."
         },
         "circle": {
           "value": null,
@@ -2210,9 +2210,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.WSBhluYBmP1706xn",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.WSBhluYBmP1706xn",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2223,7 +2223,7 @@
     },
     {
       "folder": "rRg9we6fU3e9Hvu7",
-      "name": "Contagion",
+      "name": "Заражение",
       "type": "spell",
       "_id": "xzZzSAZnvWNvMCUX",
       "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
@@ -2300,14 +2300,14 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           },
           "KvHv8I6Dy8HxtPKm": {
             "type": "save",
             "_id": "KvHv8I6Dy8HxtPKm",
-            "description": "<p>At the end of each of the target’s turns, it must make a CON save. After failing three of these saves, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saves, the creature recovers from the disease and the spell ends.</p>",
+            "description": "<p>В конце каждого хода цели она должна сделать спасбросок ВЫН. После провала трех из этих спасбросков последствия болезни продолжаются в течение определенного времени, и Существо перестает делать спасение этих бросков. После успеха в трех из этих спасбросков Существо выздоравливает от болезни, и заклинание заканчивается.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -2361,7 +2361,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -2436,7 +2436,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2447,7 +2447,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Blinding Sickness",
+          "name": "Ослепляющая болезнь",
           "_id": "fAZCKn8wySuUPFiD",
           "changes": [
             {
@@ -2457,7 +2457,7 @@
               "priority": null
             }
           ],
-          "description": "<p>Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.</p>",
+          "description": "<p>Боль противостоит разуму существа, и его глаза становятся молочно-белыми. Существо имеет помехи при повороте WIS и спасброски WIS и ослеплено.</p>",
           "transfer": false,
           "statuses": [
             "blinded"
@@ -2468,7 +2468,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2482,7 +2482,7 @@
           "_key": "!actors.items.effects!LOgvRwKo3B5hXJSO.xzZzSAZnvWNvMCUX.fAZCKn8wySuUPFiD"
         },
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2493,7 +2493,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Filth Fever",
+          "name": "Грязная лихорадка",
           "_id": "hRcEBwf7vyc0lt3E",
           "changes": [
             {
@@ -2503,7 +2503,7 @@
               "priority": null
             }
           ],
-          "description": "<p>A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.</p>",
+          "description": "<p>Яростная лихорадка относится к телу существа. Существо имеет удары при направлении Силы, спасброски Силы и броски удара, использующие Силу.</p>",
           "transfer": false,
           "statuses": [],
           "flags": {},
@@ -2512,7 +2512,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2526,7 +2526,7 @@
           "_key": "!actors.items.effects!LOgvRwKo3B5hXJSO.xzZzSAZnvWNvMCUX.hRcEBwf7vyc0lt3E"
         },
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2537,7 +2537,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Flesh Rot",
+          "name": "Гниль плоти",
           "_id": "J1uOVccRY061PrHb",
           "changes": [
             {
@@ -2553,7 +2553,7 @@
               "priority": null
             }
           ],
-          "description": "<p>The creature’s flesh decays. The creature has disadvantage on CHA checks and becomes vulnerable to all damage.</p>",
+          "description": "<p>Плоть существа разлагается. Существенно внешнее повреждение при CHA становится уязвимым ко всем повреждениям.</p>",
           "transfer": false,
           "statuses": [],
           "flags": {},
@@ -2562,7 +2562,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2576,7 +2576,7 @@
           "_key": "!actors.items.effects!LOgvRwKo3B5hXJSO.xzZzSAZnvWNvMCUX.J1uOVccRY061PrHb"
         },
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2587,7 +2587,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Mindfire",
+          "name": "Огонь разума",
           "_id": "jKwfTnFk2VQtkulb",
           "changes": [
             {
@@ -2597,7 +2597,7 @@
               "priority": null
             }
           ],
-          "description": "<p>The creature’s mind becomes feverish. The creature has disadvantage on INT checks and INT saves, and the creature behaves as if under the effects of the @UUID[Compendium.black-flag.spells.Item.Bcm0RKcg5os0dDhC]{confusion} spell during combat.</p>",
+          "description": "<p>Разум существует лихорадка. Существо имеет помехи при внешнем ИНТ и спасброски ИНТ, и Существо ведет себя так, как будто находится под руководством заклинания @UUID[Compendium.black-flag-ru.spells.Item.Bcm0RKcg5os0dDhC]{confusion} во время боя.</p>",
           "transfer": false,
           "statuses": [],
           "flags": {},
@@ -2606,7 +2606,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2620,7 +2620,7 @@
           "_key": "!actors.items.effects!LOgvRwKo3B5hXJSO.xzZzSAZnvWNvMCUX.jKwfTnFk2VQtkulb"
         },
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2631,7 +2631,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Seizure",
+          "name": "захват",
           "_id": "jvLh1Q36VP2rslZL",
           "changes": [
             {
@@ -2641,7 +2641,7 @@
               "priority": null
             }
           ],
-          "description": "<p>The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.</p>",
+          "description": "<p> Существо противоречит дрожь. Существо имеет удары при повороте ЛВК, спасброски ЛВК и броски атаки, использующие ЛВК.</p>",
           "transfer": false,
           "statuses": [],
           "flags": {},
@@ -2650,7 +2650,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2664,7 +2664,7 @@
           "_key": "!actors.items.effects!LOgvRwKo3B5hXJSO.xzZzSAZnvWNvMCUX.jvLh1Q36VP2rslZL"
         },
         {
-          "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+          "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2675,7 +2675,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Slimy Doom",
+          "name": "Слизистая гибель",
           "_id": "gzXgEuAwbX5qRJ1V",
           "changes": [
             {
@@ -2685,7 +2685,7 @@
               "priority": null
             }
           ],
-          "description": "<p>The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.</p>",
+          "description": "<p> Существо начинает бесконтрольно скрывать кровь. Существо имеет помеху на проверках ВЫН и спасброски ВЫН. Кроме того, когда существо получает урон, оно оглушается до конца своего следующего хода.</p>",
           "transfer": false,
           "statuses": [],
           "flags": {},
@@ -2694,7 +2694,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2726,9 +2726,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2739,7 +2739,7 @@
     },
     {
       "folder": "tCxdqzClsLOnTgfE",
-      "name": "Divination",
+      "name": "Гадание",
       "type": "spell",
       "_id": "s7U23oueC8o9CEj8",
       "img": "icons/magic/air/air-burst-spiral-yellow.webp",
@@ -2803,7 +2803,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2825,7 +2825,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Question the future or present."
+          "short": "Задайте вопрос будущему или настоящему."
         },
         "source": [
           "divine"
@@ -2849,7 +2849,7 @@
             "consumed": true,
             "cost": 25,
             "denomination": "gp",
-            "description": "incense or a sacrificial offering appropriate for your religion worth 25 gp, which the spell consumes"
+            "description": "благовония или жертвенное приношение, соответствующее вашей религии, стоимостью 25 зм, которые расходуются на заклинание."
           }
         },
         "duration": {
@@ -2895,9 +2895,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.5XC70iK7GvVRh0xx",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.5XC70iK7GvVRh0xx",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2907,7 +2907,7 @@
       "_key": "!actors.items!LOgvRwKo3B5hXJSO.s7U23oueC8o9CEj8"
     },
     {
-      "name": "Insect Plague",
+      "name": "Чума насекомых",
       "type": "spell",
       "_id": "r7iK2wn3pJKE34KA",
       "img": "icons/creatures/invertebrates/wasp-swarm-tan.webp",
@@ -2995,7 +2995,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -3041,7 +3041,7 @@
             "consumed": false,
             "cost": null,
             "denomination": "gp",
-            "description": "a few grains of sugar, some kernels of grain, and a smear of fat"
+            "description": "несколько крупинок сахара, несколько зернышек и немного жира"
           }
         },
         "duration": {
@@ -3093,9 +3093,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.lGmxkutPlXsgyzRd",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.lGmxkutPlXsgyzRd",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3176,7 +3176,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/heal.svg",
+            "img": "systems/black-flag-ru/artwork/activities/heal.svg",
             "sort": 0,
             "magical": false
           }
@@ -3216,7 +3216,7 @@
           "value": null
         }
       },
-      "name": "Bolster Undead",
+      "name": "Поддержка нежити",
       "type": "feature",
       "_id": "ZN1bOAxYY9b368j9",
       "img": "icons/magic/death/hand-withered-gray.webp",
@@ -3236,7 +3236,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3315,7 +3315,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -3329,7 +3329,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn. If the target fails the save by 5 or more, it is also &amp;Reference[paralyzed]{paralyzed} for the same duration.</p>",
+          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. If the target fails the save by 5 or more, it is also &Reference[paralyzed]{paralyzed} for the same duration.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3355,7 +3355,7 @@
           "value": null
         }
       },
-      "name": "Dreadful Glare",
+      "name": "Ужасающий взгляд",
       "type": "feature",
       "_id": "NLhZMl7LWOOnJ63m",
       "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
@@ -3371,7 +3371,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.lcQWavvDlBEs1wge",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3447,7 +3447,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3487,7 +3487,7 @@
           "value": null
         }
       },
-      "name": "Detect Life",
+      "name": "Обнаружение жизни",
       "type": "feature",
       "_id": "N1Er0cJW80Q1PtmR",
       "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
@@ -3507,7 +3507,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3577,7 +3577,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3617,7 +3617,7 @@
           "value": null
         }
       },
-      "name": "Sandy Teleport",
+      "name": "Сэнди Телепорт",
       "type": "feature",
       "_id": "rpM2XARksUUnkOX4",
       "img": "icons/magic/air/air-wave-gust-smoke-yellow.webp",
@@ -3637,7 +3637,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3704,7 +3704,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3744,7 +3744,7 @@
           "value": null
         }
       },
-      "name": "Call Servitors",
+      "name": "Вызов сервиторов",
       "type": "feature",
       "_id": "4oifniS8uGM9RkvJ",
       "img": "icons/magic/death/hand-undead-skeleton-fire-pink.webp",
@@ -3764,7 +3764,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3861,7 +3861,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -3875,7 +3875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] necrotic damage or radiant damage (the mummy lord’s choice) and is &amp;Reference[stunned]{stunned} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] necrotic damage or radiant damage (the mummy lord’s choice) and is &Reference[stunned]{stunned} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3901,7 +3901,7 @@
           "value": null
         }
       },
-      "name": "Unleash Divine Energy",
+      "name": "Высвободите божественную энергию",
       "type": "feature",
       "_id": "PlgeupY6DlVpeMc6",
       "img": "icons/magic/light/beam-rays-magenta-large.webp",
@@ -3921,7 +3921,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3932,7 +3932,7 @@
     },
     {
       "folder": "kNXa41R12PxilOrt",
-      "name": "Mummy Rot",
+      "name": "Мумия Гниль",
       "type": "feature",
       "_id": "IK7NvynD4wtGotVk",
       "img": "icons/skills/wounds/injury-eyes-blood-red.webp",
@@ -4015,7 +4015,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -4029,7 +4029,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Mummies, and to a lesser extent their remains, can spread a unique, disease-like curse called mummy rot that slowly rots the flesh of those cursed. A creature has a 50 percent chance ([[/r d100cs&lt;51]]) to become cursed with mummy rot for each minute it spends exposed to the remains of a mummy or to the remains of a creature that died while cursed by mummy rot. A creature normally immune to disease is immune to mummy rot, but spells and effects that combat diseases, such as the restoration spell, have no effect on mummy rot.</p><p>The flesh of a creature cursed with mummy rot slowly deteriorates, rotting off in flakes at first then whole chunks as the curse progresses. While cursed, a creature can’t regain HP, and at the end of each long rest, it must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). If the curse reduces the creature’s HP maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the @UUID[Compendium.black-flag.spells.Item.1CSuwbYVhlmZMNGM]{remove curse} spell or similar magic.</p><section id=\"secret-mcAuOgEVmlAnvRko\" class=\"secret\"><p><em>Note: Inline links are available above to roll a percentile dice and HP Max decrease. When rolling the percentile dice, a result of 1 represents a failed roll. A roll of 0 represents a successful roll.</em></p></section>",
+          "value": "<p>Mummies, and to a lesser extent their remains, can spread a unique, disease-like curse called mummy rot that slowly rots the flesh of those cursed. A creature has a 50 percent chance ([[/r d100cs&lt;51]]) to become cursed with mummy rot for each minute it spends exposed to the remains of a mummy or to the remains of a creature that died while cursed by mummy rot. A creature normally immune to disease is immune to mummy rot, but spells and effects that combat diseases, such as the restoration spell, have no effect on mummy rot.</p><p>The flesh of a creature cursed with mummy rot slowly deteriorates, rotting off in flakes at first then whole chunks as the curse progresses. While cursed, a creature can’t regain HP, and at the end of each long rest, it must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). If the curse reduces the creature’s HP maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{remove curse} spell or similar magic.</p><section id=\"secret-mcAuOgEVmlAnvRko\" class=\"secret\"><p><em>Note: Inline links are available above to roll a percentile dice and HP Max decrease. When rolling the percentile dice, a result of 1 represents a failed roll. A roll of 0 represents a successful roll.</em></p></section>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -4071,7 +4071,7 @@
         "compendiumSource": "Item.m28Fbrhs3ryYSTBL",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756760894486,
@@ -4170,7 +4170,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -4246,7 +4246,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -4314,7 +4314,7 @@
         },
         "rarity": ""
       },
-      "name": "Rotting Fist",
+      "name": "Гниющий кулак",
       "type": "weapon",
       "_id": "5OL63zSFrdsayBHe",
       "img": "icons/magic/unholy/hand-grasping-green.webp",
@@ -4331,7 +4331,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930386,
         "modifiedTime": 1756760869534,
@@ -4418,7 +4418,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -4490,7 +4490,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Divine Bolt",
+      "name": "Божественная стрела",
       "type": "weapon",
       "_id": "hN2trEj79VPyGrqZ",
       "img": "icons/magic/unholy/projectile-bullet-orb-pink.webp",
@@ -4511,7 +4511,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930386,
         "modifiedTime": 1756760876669,
@@ -4525,7 +4525,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

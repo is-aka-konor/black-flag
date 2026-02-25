@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Daylight",
+  "name": "Дневной свет",
   "type": "spell",
   "_id": "3jd8F4gxhlXMT4et",
   "img": "icons/magic/light/explosion-star-large-teal-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>A 60-foot-radius sphere of daylight spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.</p><p>If you choose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.</p><p>If any of this spell’s area overlaps with an area of darkness created by a spell of 3rd circle or lower such as that created by the darkness spell, the spell that created the <em>darkness</em> is dispelled.</p>",
       "source": {},
-      "short": "Create a sphere of daylight."
+      "short": "Создайте сферу дневного света."
     },
     "type": {
       "value": "standard"
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "coreVersion": "13.347",
     "createdTime": 1706933017381,

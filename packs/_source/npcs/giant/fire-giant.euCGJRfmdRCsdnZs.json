@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Fire Giant",
+  "name": "Огненный великан",
   "type": "npc",
   "_id": "euCGJRfmdRCsdnZs",
-  "img": "systems/black-flag/artwork/tokens/giant-fire.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/giant-fire.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Fire Giant",
+    "name": "Огненный великан",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -156,7 +156,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/giant-fire.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/giant-fire.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -243,7 +243,7 @@
   },
   "items": [
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "LXaSGnlB6qwDhM1e",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -284,7 +284,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -295,7 +295,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -320,7 +320,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -346,7 +346,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -360,7 +360,7 @@
       "_key": "!actors.items!euCGJRfmdRCsdnZs.LXaSGnlB6qwDhM1e"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "tbd63Iy2kcaJ1SQb",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -464,7 +464,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -479,7 +479,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Flaming Greatsword",
+      "name": "Пылающий большой меч",
       "type": "weapon",
       "_id": "LsgkX08O42EShEIW",
       "img": "icons/weapons/swords/sword-flanged-lightning.webp",
@@ -579,7 +579,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -665,9 +665,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.LG9czlXCwzBSmWR4",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.LG9czlXCwzBSmWR4",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757211308,
@@ -763,7 +763,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -826,7 +826,7 @@
         },
         "rarity": ""
       },
-      "name": "Lava Boulder",
+      "name": "Лавовый валун",
       "type": "weapon",
       "_id": "b0XOdKbwvODLEX7x",
       "img": "icons/magic/earth/projectiles-magma-stone-orange.webp",
@@ -846,7 +846,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757230668,
@@ -947,7 +947,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -967,7 +967,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The fire giant expels built-up heat from within itself, sending a blast of lava outward. Each creature within 15 feet of the fire giant must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &amp;Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone. A creature that fails this save has disadvantage on the next save it makes against the giant’s Pyroclastic Surge before the start of the giant’s next turn.</p>",
+          "value": "<p>The fire giant expels built-up heat from within itself, sending a blast of lava outward. Each creature within 15 feet of the fire giant must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone. A creature that fails this save has disadvantage on the next save it makes against the giant’s Pyroclastic Surge before the start of the giant’s next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -993,7 +993,7 @@
           "value": null
         }
       },
-      "name": "Volcanic Burst",
+      "name": "Вулканический взрыв",
       "type": "feature",
       "_id": "8aWUBJfJPCk4N1oL",
       "img": "icons/magic/earth/lava-explosion-orange.webp",
@@ -1013,7 +1013,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1094,7 +1094,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1108,7 +1108,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A burst of volcanic gas and rock fragments flows in a 60-foot-line that is 5 feet wide from the fire giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} until the end of its next turn and pushed up to 15 feet away from the giant. A creature that fails the save by 5 or more is &amp;Reference[petrified]{petrified} in volcanic ash for 1 hour or until a creature spends 1 minute soaking the petrified creature in cool water.</p>",
+          "value": "<p>A burst of volcanic gas and rock fragments flows in a 60-foot-line that is 5 feet wide from the fire giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn and pushed up to 15 feet away from the giant. A creature that fails the save by 5 or more is &Reference[petrified]{petrified} in volcanic ash for 1 hour or until a creature spends 1 minute soaking the petrified creature in cool water.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1134,7 +1134,7 @@
           "value": null
         }
       },
-      "name": "Pyroclastic Surge",
+      "name": "Пирокластический всплеск",
       "type": "feature",
       "_id": "KE6PYXIzVR4bwa3r",
       "img": "icons/magic/earth/strike-body-stone-crumble.webp",
@@ -1154,7 +1154,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1165,7 +1165,7 @@
     },
     {
       "folder": "FUnjG0V10gg8lqPG",
-      "name": "Plate",
+      "name": "Тарелка",
       "type": "armor",
       "_id": "pisDLpRRRdDXtfr4",
       "img": "icons/equipment/chest/breastplate-sculpted-green.webp",
@@ -1233,9 +1233,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.AG4f7orze4Gsj9UO",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.AG4f7orze4Gsj9UO",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1250,7 +1250,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

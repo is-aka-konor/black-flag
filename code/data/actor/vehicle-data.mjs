@@ -94,7 +94,7 @@ export default class VehicleData extends ActorDataModel.mixin(
 				category: "thing",
 				legacyMixin: false,
 				localization: "BF.Actor.Type.Vehicle",
-				img: "systems/black-flag/artwork/types/vehicle.svg",
+				img: "systems/black-flag-ru/artwork/types/vehicle.svg",
 				sheet: {
 					application: VehicleSheet,
 					label: "BF.Sheet.Default.Vehicle"
@@ -376,7 +376,7 @@ export default class VehicleData extends ActorDataModel.mixin(
 		}
 		const section = document.createElement("section");
 		section.innerHTML = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/actor/embeds/vehicle-embed.hbs",
+			"systems/black-flag-ru/templates/actor/embeds/vehicle-embed.hbs",
 			context
 		);
 		return section.children;
@@ -407,7 +407,7 @@ export default class VehicleData extends ActorDataModel.mixin(
 	async _onCreate(data, options, userId) {
 		await super._onCreate(data, options, userId);
 		if (userId === game.user.id && options[game.system.id]?.createResilience) {
-			const resilience = await fromUuid("Compendium.black-flag.npcfeatures.Item.4mrsMh1wkqybueGe");
+			const resilience = await fromUuid("Compendium.black-flag-ru.npcfeatures.Item.4mrsMh1wkqybueGe");
 			if (resilience) await this.parent.createEmbeddedDocuments("Item", [game.items.fromCompendium(resilience)]);
 		}
 	}

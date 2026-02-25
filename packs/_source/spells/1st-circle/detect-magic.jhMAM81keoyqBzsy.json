@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Detect Magic",
+  "name": "Обнаружение магии",
   "type": "spell",
   "_id": "jhMAM81keoyqBzsy",
   "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
       "source": {},
-      "short": "Sense nearby magic."
+      "short": "Почувствуйте близкую магию."
     },
     "type": {
       "value": "standard"
@@ -97,9 +97,9 @@
   },
   "effects": [
     {
-      "name": "Detect Magic",
+      "name": "Обнаружение магии",
       "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
-      "origin": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+      "origin": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
       "transfer": false,
       "_id": "pn3JeNsWe9uDUK85",
       "type": "base",
@@ -115,7 +115,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "description": "<p>Вы чувствуете присутствие магии в пределах 30 футов от себя.Если вы ощущаете магию таким образом, вы можете действием увидеть слабую ауру вокруг любого видимого существа или предмета в области, несущего магию, и изучить его школу магии, если таковая имеется.</p><p>Заклинание может проникнуть через большинство барьеров, но оно блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -124,7 +124,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723605477774,
         "modifiedTime": 1723605489428,
@@ -140,7 +140,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933051230,

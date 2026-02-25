@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Evasion",
+  "name": "Кольцо уклонения",
   "system": {
     "type": {
       "category": "clothing",
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Succeed on Save",
+        "name": "Успешно сохранить",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -136,7 +136,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986976430,
     "modifiedTime": 1756333211680,

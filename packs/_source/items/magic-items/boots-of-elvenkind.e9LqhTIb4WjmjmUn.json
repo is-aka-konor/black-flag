@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of Elvenkind",
+  "name": "Сапоги эльфийского рода",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -39,7 +39,7 @@
   "img": "icons/equipment/feet/boots-leather-green.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.e9LqhTIb4WjmjmUn",
+      "origin": "Compendium.black-flag-ru.items.Item.e9LqhTIb4WjmjmUn",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -50,7 +50,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Boots of Elvenkind",
+      "name": "Сапоги эльфийского рода",
       "img": "icons/equipment/feet/boots-leather-green.webp",
       "_id": "EpIuEcDDEYco3Csp",
       "type": "base",
@@ -65,7 +65,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You also have advantage on DEX (Stealth) checks that rely on moving silently.</p>",
+      "description": "<p>Вы также имеете преимущество на проверки ЛВК (Скрытность), которые полагаются на бесшумное движение.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -75,7 +75,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901431018,
         "modifiedTime": 1756335048356,
@@ -94,7 +94,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983184659,
     "modifiedTime": 1728426556234,

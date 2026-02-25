@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Imp",
+  "name": "Бес",
   "type": "npc",
   "_id": "r92GuCwB5hkH46GP",
-  "img": "systems/black-flag/artwork/tokens/devil-imp.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/devil-imp.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,7 +154,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Imp",
+    "name": "Бес",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -162,7 +162,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/devil-imp.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/devil-imp.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -287,7 +287,7 @@
           "value": null
         }
       },
-      "name": "Devil’s Sight",
+      "name": "Взгляд Дьявола",
       "type": "feature",
       "img": "icons/magic/perception/eye-slit-red-orange.webp",
       "effects": [],
@@ -305,7 +305,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qaTYdbDMm8oAcpZT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -317,7 +317,7 @@
       "_key": "!actors.items!r92GuCwB5hkH46GP.VakPuVNCIXyvHTZB"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "kaMR9ybu7sbxC8UE",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -371,7 +371,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -385,7 +385,7 @@
       "_key": "!actors.items!r92GuCwB5hkH46GP.kaMR9ybu7sbxC8UE"
     },
     {
-      "name": "Invisibility (True Form Only)",
+      "name": "Невидимость (только в истинной форме)",
       "type": "feature",
       "_id": "pKsGbcsalUKO1Btv",
       "img": "icons/creatures/magical/spirit-fear-energy-pink.webp",
@@ -491,9 +491,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.1IHhl4zwr49sgVQS",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.1IHhl4zwr49sgVQS",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -503,7 +503,7 @@
       "_key": "!actors.items!r92GuCwB5hkH46GP.pKsGbcsalUKO1Btv"
     },
     {
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "PpQj5NKc1FqZ1E8C",
       "img": "icons/creatures/magical/construct-stone-earth-gray.webp",
@@ -540,7 +540,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -615,9 +615,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.Yrb50WtUeyxgXygZ",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.Yrb50WtUeyxgXygZ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -665,7 +665,7 @@
           "value": null
         }
       },
-      "name": "Devilish Resilience",
+      "name": "Дьявольская стойкость",
       "type": "feature",
       "_id": "Y4vPfYcyEBRLPyfW",
       "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
@@ -682,7 +682,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Devilish Resilience",
+          "name": "Дьявольская стойкость",
           "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
           "_id": "uJ6N3XWMfDKvX9cK",
           "type": "base",
@@ -747,7 +747,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -768,7 +768,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.x1nZb854NRe24wtG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -782,7 +782,7 @@
       "_key": "!actors.items!r92GuCwB5hkH46GP.Y4vPfYcyEBRLPyfW"
     },
     {
-      "name": "Slam (Beast Form Only)",
+      "name": "Удар (только в форме зверя)",
       "type": "weapon",
       "_id": "L6tsgM9o2Kq0QZsB",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -850,7 +850,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "",
@@ -968,7 +968,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935033,
         "modifiedTime": 1756756412421,
@@ -1055,7 +1055,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1146,7 +1146,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1214,7 +1214,7 @@
         },
         "rarity": ""
       },
-      "name": "Sting (True Form Only)",
+      "name": "Стинг (только в истинной форме)",
       "type": "weapon",
       "_id": "hKyh7zWOMFFoVMGf",
       "img": "icons/commodities/biological/stinger-insect-grey.webp",
@@ -1231,7 +1231,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935033,
         "modifiedTime": 1756756432136,
@@ -1249,7 +1249,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

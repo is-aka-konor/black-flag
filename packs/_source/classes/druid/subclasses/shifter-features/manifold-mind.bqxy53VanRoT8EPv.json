@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Manifold Mind",
+  "name": "Многообразный разум",
   "type": "feature",
   "_id": "bqxy53VanRoT8EPv",
   "img": "icons/creatures/magical/construct-golem-stone-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717791002527,

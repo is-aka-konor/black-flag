@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Mace of Smiting",
+  "name": "Поражающая булава",
   "type": "weapon",
   "img": "icons/weapons/maces/mace-studded-steel.webp",
   "system": {
@@ -126,7 +126,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Natural 20 Damage",
+        "name": "Натуральный урон 20",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -203,7 +203,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Natural 20 Damage (vs Construct)",
+        "name": "Натуральный урон: 20 (против Конструкта)",
         "img": "",
         "_id": "mrqCPsmDx02JuHPt",
         "visibility": {
@@ -282,7 +282,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589509928,
     "modifiedTime": 1756334360094,

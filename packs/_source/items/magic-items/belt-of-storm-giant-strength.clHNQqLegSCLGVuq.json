@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Belt of Storm Giant Strength",
+  "name": "Пояс силы штормового гиганта",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/waist/belt-buckle-gold-blue.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.clHNQqLegSCLGVuq",
+      "origin": "Compendium.black-flag-ru.items.Item.clHNQqLegSCLGVuq",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Storm Giant Strength",
+      "name": "Сила штормового гиганта",
       "img": "icons/equipment/waist/belt-buckle-gold-blue.webp",
       "_id": "by5RxqNjlK4zyHCz",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wearing this belt, your STR score changes to 29. If your STR is already equal to or greater than the belt’s score, the item has no effect on you.</p>",
+      "description": "<p>При ношении этого пояса ваша Сила меняется на 29. Если ваша Сила уже меняется или превращается в показательный пояс, предмет не оказывает на вас никакого воздействия.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901247002,
         "modifiedTime": 1756335028715,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983170755,
     "modifiedTime": 1728426556234,

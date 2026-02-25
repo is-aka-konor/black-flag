@@ -1,6 +1,6 @@
 {
   "folder": "PvR5bshdgWxMUS7N",
-  "name": "Construction Tools",
+  "name": "Строительные инструменты",
   "type": "tool",
   "_id": "SDHvjOXW8MCnj54h",
   "img": "icons/tools/hand/saw-surgical-steel-grey.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1703971800305,

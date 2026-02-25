@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Incendiary Cloud",
+  "name": "Зажигательное облако",
   "type": "spell",
   "_id": "aahwXfpgFgTseXN0",
   "img": "icons/magic/fire/flame-burning-earth-yellow.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.</p><p>When the cloud appears, each creature in it must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature must also make this save when it enters the spell’s area for the first time on a turn or ends its turn there.</p><p>The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.</p>",
       "source": {},
-      "short": "20-ft. radius fire cloud for 1 min."
+      "short": "20 футов. радиус огненного облака на 1 мин."
     },
     "source": [
       "arcane"
@@ -145,7 +145,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722833480456,
     "modifiedTime": 1723092838882,

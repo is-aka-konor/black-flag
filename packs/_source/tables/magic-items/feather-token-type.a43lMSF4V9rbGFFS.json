@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Feather Token Type",
+  "name": "Тип токена пера",
   "img": "icons/commodities/materials/feather-blue.webp",
   "description": "",
   "results": [
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Anchor",
+      "description": "Якорь",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.SA28yD2zGpmozv1l"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Bird",
+      "description": "Птица",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.Ih2L4J7uBghQyXvD"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Fan",
+      "description": "Вентилятор",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.fDNzPy69QAlnIEsf"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Swan boat",
+      "description": "Лебединая лодка",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.mWPkAggwl6CnflQ6"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Tree",
+      "description": "Дерево",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.Hd0FTtadqTryuceX"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Whip",
+      "description": "Хлыст",
       "name": "",
       "_key": "!tables.results!a43lMSF4V9rbGFFS.guQlXCvBUXx3FcVg"
     }
@@ -170,7 +170,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426271993,
     "modifiedTime": 1729534310863,

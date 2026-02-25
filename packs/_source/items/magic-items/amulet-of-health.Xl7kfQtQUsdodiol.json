@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Amulet of Health",
+  "name": "Амулет здоровья",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/neck/necklace-jeweled-gold-red.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.Xl7kfQtQUsdodiol",
+      "origin": "Compendium.black-flag-ru.items.Item.Xl7kfQtQUsdodiol",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Amulet of Health",
+      "name": "Амулет здоровья",
       "img": "icons/equipment/neck/necklace-jeweled-gold-red.webp",
       "_id": "SpxENMek6OzzOp0U",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your CON score is 19 while you carry this amulet. It has no effect on you if your CON is already 19 or higher.</p>",
+      "description": "<p>Ваш показатель CON равен 19, пока вы носите этот амулет. Это не влияет на вас, если ваш CON уже 19 или выше.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725738171068,
         "modifiedTime": 1756334544142,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "createdTime": 1724977296894,
     "modifiedTime": 1728426556234,

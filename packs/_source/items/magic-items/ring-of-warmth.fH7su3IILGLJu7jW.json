@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Warmth",
+  "name": "Кольцо тепла",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Warmth",
-      "origin": "Compendium.black-flag.items.Item.fH7su3IILGLJu7jW",
+      "name": "Тепло",
+      "origin": "Compendium.black-flag-ru.items.Item.fH7su3IILGLJu7jW",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -79,7 +79,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729891664847,
         "modifiedTime": 1756333402893,
@@ -98,7 +98,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1724987395928,
     "modifiedTime": 1735685034971,

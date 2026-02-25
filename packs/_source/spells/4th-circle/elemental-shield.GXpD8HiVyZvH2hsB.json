@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Elemental Shield",
+  "name": "Элементальный щит",
   "type": "spell",
   "_id": "GXpD8HiVyZvH2hsB",
   "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
@@ -81,7 +81,7 @@
     "description": {
       "value": "<p>Elemental energy wreathes your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it. When the shield first appears, you decide whether it is made of acid, cold, fire, lightning, or thunder energy.</p><p>The shield grants you resistance to the damage of your chosen elemental type.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8]] damage of the chosen type.</p>",
       "source": {},
-      "short": "Resist an element, deal it when hit."
+      "short": "Сопротивляйтесь стихии, наносите удар при попадании."
     },
     "source": [
       "arcane"
@@ -105,7 +105,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a bit of phosphorus or a firefly"
+        "description": "немного фосфора или светлячок"
       }
     },
     "duration": {
@@ -132,7 +132,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB",
+      "origin": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -143,7 +143,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Acid Shield",
+      "name": "Кислотный щит",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
       "_id": "bFiXp7xYaPkuFgIk",
       "type": "base",
@@ -156,7 +156,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The shield grants you resistance to acid damage.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8 acid]] damage.</p>",
+      "description": "<p>Щит дает вам сопротивление урону кислотой.</p><p>Кроме того, когда Сущность находится в пределах 5 футов от вас, вы защищаете вас рукопашной атакой, щит извергает силу. Атакующий получает [[/damage 2d8 acid]] урона.</p>.",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -166,7 +166,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356064960,
         "modifiedTime": 1723778697061,
@@ -176,7 +176,7 @@
       "_key": "!items.effects!GXpD8HiVyZvH2hsB.bFiXp7xYaPkuFgIk"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB",
+      "origin": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -187,7 +187,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Cold Shield",
+      "name": "Холодный щит",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
       "type": "base",
       "system": {},
@@ -199,7 +199,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The shield grants you resistance to cold damage.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8 cold]] damage.</p>",
+      "description": "<p>Щит дает вам сопротивление урону холоду.</p><p>Кроме того, когда Сущность находится в пределах 5 футов от вас, вы защищаете вас рукопашной атакой, щит извергается. Атакующий получает [[/damage 2d8 cold]] урона.</p>.",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -209,7 +209,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356119949,
         "modifiedTime": 1723778700429,
@@ -220,7 +220,7 @@
       "_key": "!items.effects!GXpD8HiVyZvH2hsB.ODtmEzdWcDAhg0XS"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB",
+      "origin": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -231,7 +231,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fire Shield",
+      "name": "Огненный Щит",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
       "type": "base",
       "system": {},
@@ -243,7 +243,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The shield grants you resistance to fire damage.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8 fire]] damage.</p>",
+      "description": "<p>Щит дает вам сопротивление урону от огня.</p><p>Кроме того, когда Сущность находится в пределах 5 футов от вас, вы защищаете вас рукопашной атакой, щит извергает силу. Атакующий получает [[/damage 2d8 fire]] урона.</p>.",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -253,7 +253,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356122211,
         "modifiedTime": 1723778703510,
@@ -264,7 +264,7 @@
       "_key": "!items.effects!GXpD8HiVyZvH2hsB.OMv3vou2Z36mf4bG"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB",
+      "origin": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -275,7 +275,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Lightning Shield",
+      "name": "Молниеносный щит",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
       "type": "base",
       "system": {},
@@ -287,7 +287,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The shield grants you resistance to lightning damage.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8 lightning]] damage.</p>",
+      "description": "<p>Щит дает вам сопротивление урону от застежки.</p><p>Кроме того, когда Сущность находится в пределах 5 футов от вас, вы защищаете рукопашной атакой, щит извергает силу. Атакующий получает [[/damage 2d8 lightning]] урона.</p>.",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -297,7 +297,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356123681,
         "modifiedTime": 1723778690088,
@@ -308,7 +308,7 @@
       "_key": "!items.effects!GXpD8HiVyZvH2hsB.JNld9UoLhWRGEAM4"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB",
+      "origin": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -319,7 +319,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Thunder Shield",
+      "name": "Громовой Щит",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal.webp",
       "type": "base",
       "system": {},
@@ -331,7 +331,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The shield grants you resistance to thunder damage.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8 thunder]] damage.</p>",
+      "description": "<p>Щит дает вам сопротивление урону от грома.</p><p>Кроме того, когда Существо находится в пределах 5 футов от вас, защищает вас рукопашной атакой, щит извергается. Атакующий получает [[/damage 2d8 thunder]] урона.</p>.",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -341,7 +341,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721356125184,
         "modifiedTime": 1723778714873,
@@ -358,7 +358,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718731975511,

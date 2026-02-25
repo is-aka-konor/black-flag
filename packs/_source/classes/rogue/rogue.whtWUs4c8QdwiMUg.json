@@ -1,13 +1,13 @@
 {
-  "name": "Rogue",
+  "name": "Негодяй",
   "type": "class",
   "img": "icons/tools/hand/lockpicks-steel-grey.webp",
   "system": {
     "description": {
       "value": "",
-      "short": "Cunning adventurers who rely on agility and trickery.",
+      "short": "Хитрые искатели приключений, полагающиеся на ловкость и хитрость.",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.8XM1Rdj25DeZpXNt"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.8XM1Rdj25DeZpXNt"
     },
     "identifier": {
       "value": "rogue"
@@ -136,13 +136,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.5Qbgw8e7uU4lnz1Y"
+              "uuid": "Compendium.black-flag-ru.classes.Item.5Qbgw8e7uU4lnz1Y"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.os4YkLgNCFO4Ysqa"
+              "uuid": "Compendium.black-flag-ru.classes.Item.os4YkLgNCFO4Ysqa"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.A4mkq3lZabWl4Wbg"
+              "uuid": "Compendium.black-flag-ru.classes.Item.A4mkq3lZabWl4Wbg"
             }
           ]
         }
@@ -158,7 +158,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.nvgUGc31zVwPr7DJ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.nvgUGc31zVwPr7DJ"
             }
           ]
         }
@@ -174,7 +174,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.j418voyEG226SpAG"
+              "uuid": "Compendium.black-flag-ru.classes.Item.j418voyEG226SpAG"
             }
           ]
         }
@@ -301,7 +301,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.7eBNXECYoX2cabSJ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.7eBNXECYoX2cabSJ"
             }
           ]
         },
@@ -320,7 +320,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.SiokaS0QjqSOXO8m"
+              "uuid": "Compendium.black-flag-ru.classes.Item.SiokaS0QjqSOXO8m"
             }
           ]
         },
@@ -338,7 +338,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.IoDE9zQSEKpz6SDh"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IoDE9zQSEKpz6SDh"
             }
           ]
         },
@@ -357,7 +357,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.69hPo8w9MtCBkcwU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.69hPo8w9MtCBkcwU"
             }
           ]
         },
@@ -376,7 +376,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.XGA5tqJHjtuHgtZW"
+              "uuid": "Compendium.black-flag-ru.classes.Item.XGA5tqJHjtuHgtZW"
             }
           ]
         },
@@ -395,7 +395,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.YgxHOUpylQ8Rddo3"
+              "uuid": "Compendium.black-flag-ru.classes.Item.YgxHOUpylQ8Rddo3"
             }
           ]
         },
@@ -414,7 +414,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.4lV9G4sInA60ueBU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.4lV9G4sInA60ueBU"
             }
           ]
         },
@@ -513,7 +513,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.pcyyBxMi5naeXbSt",
+              "key": "Compendium.black-flag-ru.items.Item.pcyyBxMi5naeXbSt",
               "requiresProficiency": false,
               "_id": "pthDCi8PHz3gfLeU",
               "group": "UJ2MAPInlGurbscH",
@@ -522,7 +522,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+              "key": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
               "requiresProficiency": false,
               "_id": "H8StVGISxVsTa0Ag",
               "group": "UJ2MAPInlGurbscH",
@@ -545,7 +545,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.jqDqlfsNkDCUIYHZ",
+              "key": "Compendium.black-flag-ru.items.Item.jqDqlfsNkDCUIYHZ",
               "requiresProficiency": false,
               "_id": "kWu7HdqYMja0Xm3n",
               "group": "vnZbTXTfF9qLz6P0",
@@ -554,7 +554,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.K7nrBItoocupE1Wg",
+              "key": "Compendium.black-flag-ru.items.Item.K7nrBItoocupE1Wg",
               "requiresProficiency": false,
               "_id": "MwsjKkTu4v4bGnCH",
               "group": "vnZbTXTfF9qLz6P0",
@@ -563,7 +563,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.pLXuZs8PTiEt5PmK",
+              "key": "Compendium.black-flag-ru.items.Item.pLXuZs8PTiEt5PmK",
               "requiresProficiency": false,
               "_id": "hrFhLyCbyELrXpLJ",
               "group": "vnZbTXTfF9qLz6P0",
@@ -572,7 +572,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+              "key": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
               "requiresProficiency": false,
               "_id": "aolEejoucyjEL2Fd",
               "group": "OpMm7S1HStc2sxhy",
@@ -588,7 +588,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.NV3uxfSWQBg8wFLk",
+              "key": "Compendium.black-flag-ru.items.Item.NV3uxfSWQBg8wFLk",
               "requiresProficiency": false,
               "_id": "qYpkL0wgQPesqWI6",
               "group": "sevQeJGDywPpNYxn",
@@ -597,7 +597,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "L7sxy2oWqoqdwSVy",
               "group": "sevQeJGDywPpNYxn",
@@ -606,7 +606,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "HG9Co0LNmhJMFMdA",
               "group": "sevQeJGDywPpNYxn",
@@ -622,7 +622,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY",
+              "key": "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY",
               "requiresProficiency": false,
               "_id": "lXx8S7kkZbHTHDDx",
               "group": "YSOAAbnMFBkd024v",
@@ -631,7 +631,7 @@
             {
               "type": "linked",
               "count": 2,
-              "key": "Compendium.black-flag.items.Item.3bEIZYDB4eMayC6k",
+              "key": "Compendium.black-flag-ru.items.Item.3bEIZYDB4eMayC6k",
               "requiresProficiency": false,
               "_id": "LiKf9pL19Ld1XCFV",
               "group": "YSOAAbnMFBkd024v",
@@ -642,7 +642,7 @@
               "group": "YSOAAbnMFBkd024v",
               "sort": 1700000,
               "type": "linked",
-              "key": "Compendium.black-flag.items.Item.cNWGEyGSVCYKxmCg",
+              "key": "Compendium.black-flag-ru.items.Item.cNWGEyGSVCYKxmCg",
               "requiresProficiency": false
             }
           ]
@@ -666,7 +666,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1694554327177,

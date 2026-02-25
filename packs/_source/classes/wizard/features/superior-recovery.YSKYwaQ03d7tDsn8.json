@@ -1,6 +1,6 @@
 {
   "folder": "ASbozScOjLlpmkOc",
-  "name": "Superior Recovery",
+  "name": "Превосходное восстановление",
   "type": "feature",
   "_id": "YSKYwaQ03d7tDsn8",
   "img": "icons/sundries/books/book-open-red.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715742095272,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Goat",
+  "name": "Гигантский козел",
   "type": "npc",
   "_id": "X82CDCyHgR41wdQE",
-  "img": "systems/black-flag/artwork/tokens/goat.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/goat.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -146,7 +146,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Goat",
+    "name": "Гигантский козел",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -154,7 +154,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/goat.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/goat.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -338,7 +338,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -364,7 +364,7 @@
           "value": null
         }
       },
-      "name": "Charge",
+      "name": "Зарядка",
       "type": "feature",
       "_id": "bqXuFROdPpwKxIhG",
       "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
@@ -380,7 +380,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hw5fweWJcaECt9xk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -477,7 +477,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the goat takes damage, it can release a high-pitched scream, frightening creatures within 10 feet of it. Each creature in that area that can hear the scream must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn. A creature frightened in this way can’t be frightened by this goat’s Terrifying Scream again for the next 24 hours.</p>",
+          "value": "<p>When the goat takes damage, it can release a high-pitched scream, frightening creatures within 10 feet of it. Each creature in that area that can hear the scream must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. A creature frightened in this way can’t be frightened by this goat’s Terrifying Scream again for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -503,7 +503,7 @@
           "value": null
         }
       },
-      "name": "Terrifying Scream",
+      "name": "Ужасающий крик",
       "type": "feature",
       "_id": "wc6iOEHlCmPeKyGj",
       "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -523,7 +523,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -607,7 +607,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -676,7 +676,7 @@
         },
         "rarity": ""
       },
-      "name": "Ram",
+      "name": "Баран",
       "type": "weapon",
       "_id": "h6GwFVszyUolXwRd",
       "img": "icons/creatures/mammals/goat-horned-blue.webp",
@@ -693,7 +693,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932667,
         "modifiedTime": 1756750216636,
@@ -711,7 +711,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

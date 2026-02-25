@@ -27,10 +27,10 @@ export default class EquipmentConfig extends AdvancementConfig {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		equipment: {
-			template: "systems/black-flag/templates/advancement/equipment-config.hbs"
+			template: "systems/black-flag-ru/templates/advancement/equipment-config.hbs"
 		}
 	};
 

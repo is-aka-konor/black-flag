@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Robe of Useful Items",
+  "name": "Одеяние полезных вещей",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.99irihiq2xm5YMCB inline]</p><p>The robe has two of each of the following patches:</p><ul><li><p>@UUID[Compendium.black-flag.items.Item.3bEIZYDB4eMayC6k]{Dagger}</p></li><li><p>@UUID[Compendium.black-flag.items.Item.ElZQSobe0XkMGygz]{Bullseye lantern} (filled and lit)</p></li><li><p>@UUID[Compendium.black-flag.items.Item.YJWRPdMv7XwEnCFG]{Steel mirror}</p></li><li><p>@UUID[Compendium.black-flag.items.Item.4ZkQAjlOXm6bbRB5]{10-foot pole}</p></li><li><p>@UUID[Compendium.black-flag.items.Item.UHklbMZ3XYzU152M]{Hempen rope} (50 feet, coiled)</p></li><li><p>@UUID[Compendium.black-flag.items.Item.OqClJT1ULTjkaaly]{Sack}</p></li></ul><p>In addition, the robe has [[/r 4d4]] other patches. The GM chooses the patches or determines them randomly.</p>",
+      "value": "<p>This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.99irihiq2xm5YMCB inline]</p><p>The robe has two of each of the following patches:</p><ul><li><p>@UUID[Compendium.black-flag-ru.items.Item.3bEIZYDB4eMayC6k]{Dagger}</p></li><li><p>@UUID[Compendium.black-flag-ru.items.Item.ElZQSobe0XkMGygz]{Bullseye lantern} (filled and lit)</p></li><li><p>@UUID[Compendium.black-flag-ru.items.Item.YJWRPdMv7XwEnCFG]{Steel mirror}</p></li><li><p>@UUID[Compendium.black-flag-ru.items.Item.4ZkQAjlOXm6bbRB5]{10-foot pole}</p></li><li><p>@UUID[Compendium.black-flag-ru.items.Item.UHklbMZ3XYzU152M]{Hempen rope} (50 feet, coiled)</p></li><li><p>@UUID[Compendium.black-flag-ru.items.Item.OqClJT1ULTjkaaly]{Sack}</p></li></ul><p>In addition, the robe has [[/r 4d4]] other patches. The GM chooses the patches or determines them randomly.</p>",
       "source": {
         "fallback": ""
       }
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071094252,
     "modifiedTime": 1735684492272,

@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Shield of Missile Attraction",
+  "name": "Щит притяжения ракет",
   "type": "armor",
   "img": "icons/equipment/shield/buckler-wooden-boss-steel.webp",
   "system": {
@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While holding this shield, you have resistance to damage from ranged weapon attacks.</p><p><em><strong>Curse.</strong></em> This shield is cursed. Attuning to it curses you until you are targeted by the <em>@UUID[Compendium.black-flag.spells.Item.1CSuwbYVhlmZMNGM]{remove curse}</em> spell or similar magic. Removing the shield fails to end the curse on you. When a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</p>",
+      "value": "<p>While holding this shield, you have resistance to damage from ranged weapon attacks.</p><p><em><strong>Curse.</strong></em> This shield is cursed. Attuning to it curses you until you are targeted by the <em>@UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{remove curse}</em> spell or similar magic. Removing the shield fails to end the curse on you. When a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -61,7 +61,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725589633323,
     "modifiedTime": 1730070166149,

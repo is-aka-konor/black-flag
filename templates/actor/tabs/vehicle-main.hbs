@@ -32,7 +32,7 @@
 			</span>
 		</label>
 		{{/if}}
-		{{> "systems/black-flag/templates/actor/parts/stat-block-hit-points.hbs" }}
+		{{> "systems/black-flag-ru/templates/actor/parts/stat-block-hit-points.hbs" }}
 		<label>
 			<span>
 				{{#if editable}}
@@ -46,14 +46,14 @@
 			</span>
 			<span>{{ traits.speed }}</span>
 		</label>
-		{{> "systems/black-flag/templates/actor/parts/stat-block-resistances.hbs" }}
+		{{> "systems/black-flag-ru/templates/actor/parts/stat-block-resistances.hbs" }}
 		<label>
 			<span>{{ localize "BF.Initiative.Label" }}</span>
 			{{#if editable}}
 				<input type="number" name="system.initiative" value="{{ source.initiative }}">
 			{{else}}
 				<button type="button" class="link-button modifier-roll" data-action="roll" data-sub-action="initiative">
-					<blackFlag-icon src="systems/black-flag/artwork/interface/dice/d20.svg" inert></blackFlag-icon>
+					<blackFlag-icon src="systems/black-flag-ru/artwork/interface/dice/d20.svg" inert></blackFlag-icon>
 					{{ blackFlag-number system.initiative }}
 				</button>
 			{{/if}}
@@ -92,6 +92,6 @@
 			{{/if}}
 		</label>
 	</div>
-	{{> "systems/black-flag/templates/actor/parts/stat-block-abilities.hbs" }}
-	{{> "systems/black-flag/templates/actor/parts/stat-block-actions.hbs" }}
+	{{> "systems/black-flag-ru/templates/actor/parts/stat-block-abilities.hbs" }}
+	{{> "systems/black-flag-ru/templates/actor/parts/stat-block-actions.hbs" }}
 </section>

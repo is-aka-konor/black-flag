@@ -45,7 +45,7 @@ export default class ConsumableData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Consumable",
 				icon: "fa-solid fa-bottle-droplet",
-				img: "systems/black-flag/artwork/types/consumable.svg"
+				img: "systems/black-flag-ru/artwork/types/consumable.svg"
 			},
 			{ inplace: false }
 		)

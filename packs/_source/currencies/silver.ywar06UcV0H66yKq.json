@@ -1,5 +1,5 @@
 {
-  "name": "Silver",
+  "name": "Серебро",
   "type": "currency",
   "_id": "ywar06UcV0H66yKq",
   "img": "icons/commodities/currency/coin-inset-snail-silver.webp",
@@ -33,7 +33,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1704133042085,

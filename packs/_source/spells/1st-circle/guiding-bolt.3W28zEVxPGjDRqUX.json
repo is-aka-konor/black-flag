@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Guiding Bolt",
+  "name": "Направляющий болт",
   "type": "spell",
   "_id": "3W28zEVxPGjDRqUX",
   "img": "icons/magic/light/projectile-smoke-blue-white.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes [[/damage 4d6 radiant]] damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.</p><p><em>At Higher Circles.</em> When you cast this spell using a 2nd‑circle spell slot or higher, the damage increases by [[/damage 1d6 radiant]]{1d6} for each slot above 1st.</p>",
       "source": {},
-      "short": "Radiant harms and halos foe."
+      "short": "Сияние наносит вред и ореолы врагу."
     },
     "type": {
       "value": "standard"
@@ -134,7 +134,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.040",
     "coreVersion": "13.347",
     "createdTime": 1706934021876,

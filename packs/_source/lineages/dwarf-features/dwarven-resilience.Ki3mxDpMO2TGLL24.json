@@ -1,6 +1,6 @@
 {
   "folder": "YYaq9ncFiszqsnUk",
-  "name": "Dwarven Resilience",
+  "name": "Устойчивость гномов",
   "type": "feature",
   "_id": "Ki3mxDpMO2TGLL24",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.027",
     "coreVersion": "13.347",
     "createdTime": 1701131531924,

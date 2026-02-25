@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Longsword",
+  "name": "Длинный меч",
   "type": "weapon",
   "_id": "ym1owWiMSNOcZNdO",
   "img": "icons/weapons/swords/sword-guard-engraved.webp",
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024984406,

@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Efreeti Bottle Effects",
+  "name": "Эффекты бутылок ифритов",
   "img": "icons/consumables/potions/potion-flask-corked-orange.webp",
   "description": "",
   "results": [
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.",
+      "description": "Ифриты нападают на вас. После боя в течение 5 раундов ифриты исчезают, а бутылка теряет свою магию.",
       "name": "",
       "_key": "!tables.results!bmGR3HurDXkW7GPC.DorrYa5xBBdsRRkR"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can’t be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.",
+      "description": "Ифрит служит вам 1 час, делая все, что вы прикажете. Затем ифрит возвращается в бутылку, и его задерживает новая пробка. Пробку нельзя снять в течение 24 часов. Следующие два раза бутылку открывают, происходит тот же эффект. Если бутылку открыть в четвертый раз, ифрит убежит и исчезнет, ​​а бутылка потеряет свою магию.",
       "name": "",
       "_key": "!tables.results!bmGR3HurDXkW7GPC.c5Fe33jtuIo4xnJV"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.",
+      "description": "Ифриты могут произнести за вас заклинание желания три раза. Он исчезает, когда исполняет последнее желание или через 1 час, и бутылка теряет свою магию.",
       "name": "",
       "_key": "!tables.results!bmGR3HurDXkW7GPC.eW5GvazJEvkaSC36"
     }
@@ -92,7 +92,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426271039,
     "modifiedTime": 1729534287913,

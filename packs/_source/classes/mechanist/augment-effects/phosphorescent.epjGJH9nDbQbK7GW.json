@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Phosphorescent",
+  "name": "фосфоресцирующий",
   "type": "feature",
   "_id": "epjGJH9nDbQbK7GW",
   "img": "icons/magic/light/light-lantern-lit-white.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128705381,

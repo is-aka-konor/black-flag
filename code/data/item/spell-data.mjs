@@ -56,7 +56,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 				legacyMixin: false,
 				localization: "BF.Item.Type.Spell",
 				icon: "fa-solid fa-wand-sparkles",
-				img: "systems/black-flag/artwork/types/spell.svg",
+				img: "systems/black-flag-ru/artwork/types/spell.svg",
 				sheet: {
 					application: SpellSheet,
 					label: "BF.Sheet.Default.Spell"
@@ -465,7 +465,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 		const context = await this.parent.sheet._prepareContext({ embed: true });
 		const section = document.createElement("section");
 		section.innerHTML = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/item/embeds/spell-embed.hbs",
+			"systems/black-flag-ru/templates/item/embeds/spell-embed.hbs",
 			context
 		);
 		return section.children;

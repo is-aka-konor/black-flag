@@ -1,6 +1,6 @@
 {
   "folder": "PvR5bshdgWxMUS7N",
-  "name": "Dice Set",
+  "name": "Набор кубиков",
   "type": "tool",
   "_id": "BI9JyierXbSWY3ra",
   "img": "icons/sundries/gaming/dice-runed-brown.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1703972224607,

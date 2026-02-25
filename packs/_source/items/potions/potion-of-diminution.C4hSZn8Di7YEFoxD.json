@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Diminution",
+  "name": "Зелье уменьшения",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "o9AqSeHGRiCsBriJ"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
   "effects": [
     {
-      "name": "Reduced",
+      "name": "Уменьшенный",
       "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
-      "origin": "Compendium.black-flag.items.Item.C4hSZn8Di7YEFoxD",
+      "origin": "Compendium.black-flag-ru.items.Item.C4hSZn8Di7YEFoxD",
       "transfer": false,
       "_id": "4g1iFFaLjhiXA2N6",
       "type": "base",
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540869150,
         "modifiedTime": 1729540873960,
@@ -159,7 +159,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073396413,
     "modifiedTime": 1729540869192,

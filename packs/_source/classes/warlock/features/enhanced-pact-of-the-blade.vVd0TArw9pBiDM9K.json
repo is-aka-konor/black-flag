@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Enhanced Pact of the Blade",
+  "name": "Улучшенный Пакт клинка",
   "type": "feature",
   "_id": "vVd0TArw9pBiDM9K",
   "img": "icons/skills/melee/weapons-crossed-swords-teal.webp",
@@ -22,7 +22,7 @@
       "filters": [],
       "requireAll": true,
       "items": [
-        "Compendium.black-flag.classes.Item.X2iTkFkmoJW9OKk5"
+        "Compendium.black-flag-ru.classes.Item.X2iTkFkmoJW9OKk5"
       ]
     },
     "type": {
@@ -47,7 +47,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376194204,

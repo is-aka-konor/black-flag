@@ -1,6 +1,6 @@
 {
   "folder": "GDoFM686nV2sICKW",
-  "name": "Dark One’s Own Luck",
+  "name": "Удача Темного",
   "type": "feature",
   "_id": "2wQBLAVVeqPHDvUG",
   "img": "icons/magic/fire/orbs-silhouette-sun.webp",
@@ -9,7 +9,7 @@
       "9xqC6kirph077x3P": {
         "type": "utility",
         "_id": "9xqC6kirph077x3P",
-        "description": "<p>You can call on your patron to alter fate in your favor. When you make an ability check or a save, you can use this feature to add [[/r 1d10]] to your roll.</p>",
+        "description": "<p>Вы можете обратиться к своему покровителю, чтобы тот изменил судьбу в вашу пользу. Когда вы проверяете возможности проверки или спасбросок, вы можете использовать эту функцию, чтобы добавить [[/r 1d10]] к вашему броску.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -55,7 +55,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Boost Check or Save",
+        "name": "Ускорить проверку или сохранить",
         "img": ""
       }
     },
@@ -102,7 +102,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719377063875,

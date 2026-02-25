@@ -1,6 +1,6 @@
 {
   "folder": "JjE8PredgikSEDdj",
-  "name": "Multiattack",
+  "name": "Мультиатака",
   "type": "feature",
   "_id": "JS1OeXoOYImwdtu8",
   "img": "icons/skills/ranged/arrows-flying-triple-brown.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718408200600,

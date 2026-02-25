@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wind Fan",
+  "name": "Ветер Вентилятор",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While holding this fan, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.0u1CqWulRC8QY1X6]{gust of wind}</em> spell (save DC 13) from it. Once used, the fan shouldn’t be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.</p>",
+      "value": "<p>While holding this fan, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.0u1CqWulRC8QY1X6]{gust of wind}</em> spell (save DC 13) from it. Once used, the fan shouldn’t be used again until the next dawn. Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters.</p>",
       "source": {
         "fallback": ""
       }
@@ -22,7 +22,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.0u1CqWulRC8QY1X6",
+            "uuid": "Compendium.black-flag-ru.spells.Item.0u1CqWulRC8QY1X6",
             "challenge": {
               "attack": null,
               "save": 13,
@@ -125,7 +125,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071677197,
     "modifiedTime": 1735681480881,

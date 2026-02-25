@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Helm of Brilliance",
+  "name": "Шлем блеска",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -85,7 +85,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Daylight (opal)",
+        "name": "Дневной свет (опал)",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -160,7 +160,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Fireball (fire opal)",
+        "name": "Огненный шар (огненный опал)",
         "img": "",
         "_id": "oPW4KSAKUwo7Sq5A",
         "visibility": {
@@ -236,7 +236,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Prismatic Spray (diamond)",
+        "name": "Призматический спрей (бриллиант)",
         "img": "",
         "_id": "pUBBaQ0CGWCGqLw8",
         "visibility": {
@@ -312,7 +312,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Wall of Fire (ruby)",
+        "name": "Стена Огня (рубин)",
         "img": "",
         "_id": "aTnZ9QrslGc6ssVC",
         "visibility": {
@@ -394,7 +394,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Damage vs. Undead",
+        "name": "Урон против нежити",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -476,7 +476,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Ignite Weapon",
+        "name": "Зажечь оружие",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -511,8 +511,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Helm of Brilliance",
-      "origin": "Compendium.black-flag.items.Item.3NEVzXGZUcmyrh0d",
+      "name": "Шлем блеска",
+      "origin": "Compendium.black-flag-ru.items.Item.3NEVzXGZUcmyrh0d",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -536,7 +536,7 @@
           "priority": null
         }
       ],
-      "description": "<p>As long as the helm has at least one ruby, you have resistance to fire damage.</p>",
+      "description": "<p>Пока на шлеме есть хотя бы один рубин, у вас есть устойчивость к урону от огня.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -546,7 +546,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728594759674,
         "modifiedTime": 1756334114837,
@@ -565,7 +565,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724985760286,
     "modifiedTime": 1756334106008,

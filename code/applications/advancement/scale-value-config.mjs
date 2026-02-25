@@ -18,11 +18,11 @@ export default class ScaleValueConfig extends AdvancementConfig {
 	static PARTS = {
 		config: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/scale-value-config-details.hbs"
+			template: "systems/black-flag-ru/templates/advancement/scale-value-config-details.hbs"
 		},
 		scale: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/advancement/scale-value-config-scale.hbs"
+			template: "systems/black-flag-ru/templates/advancement/scale-value-config-scale.hbs"
 		}
 	};
 

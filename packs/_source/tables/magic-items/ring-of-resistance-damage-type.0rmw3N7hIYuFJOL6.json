@@ -1,8 +1,8 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Ring of Resistance Damage Type",
+  "name": "Тип урона «Кольцо сопротивления»",
   "img": "icons/equipment/finger/ring-cabochon-gold-orange.webp",
-  "description": "<p>Type / Gem</p>",
+  "description": "<p>Тип / Камень</p>",
   "results": [
     {
       "type": "text",
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Acid / Pearl",
+      "description": "Кислота/Жемчуг",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.uq7BiYOp4NYWhAVt"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Cold / Tourmaline",
+      "description": "Холодный / Турмалин",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.CQs8TPjox73zvhiA"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Fire / Garnet",
+      "description": "Огонь / Гранат",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.g7yGwhWfoRFqVYOc"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Force / Sapphire",
+      "description": "Сила/Сапфир",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.fP7TOl72g5izgKjj"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Lightning / Citrine",
+      "description": "Молния / Цитрин",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.sfBB2C8YpRaoksir"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Necrotic / Jet",
+      "description": "Некротический / Джет",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.mSxJmXGT6NNDIhow"
     },
@@ -182,7 +182,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Poison / Amethyst",
+      "description": "Яд/Аметист",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.epyGR9LFBCw2JeBP"
     },
@@ -208,7 +208,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Psychic / Jade",
+      "description": "Экстрасенс / Джейд",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.SWuyE2ZrkmRLiA8t"
     },
@@ -234,7 +234,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Radiant / Topaz",
+      "description": "Сияющий / Топаз",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.I3MAlhDrFJQJjAsc"
     },
@@ -260,7 +260,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Thunder / Spinel",
+      "description": "Гром / Шпинель",
       "name": "",
       "_key": "!tables.results!0rmw3N7hIYuFJOL6.nCBxFQEFddQMSUOC"
     }
@@ -274,7 +274,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426278858,
     "modifiedTime": 1729534623160,

@@ -1,6 +1,6 @@
 {
   "folder": "9wNf4h5hxBJVdfHn",
-  "name": "Blasting Power",
+  "name": "Взрывная мощность",
   "type": "feature",
   "_id": "j6VANtb9cIZnogOO",
   "img": "icons/magic/fire/projectile-fireball-sparks-orange.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715742820775,

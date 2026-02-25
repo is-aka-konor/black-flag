@@ -1,5 +1,5 @@
 {
-  "name": "Scurry",
+  "name": "Спешить",
   "type": "feature",
   "_id": "btBU5OGY6mEbmuhd",
   "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
@@ -47,7 +47,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Scurry",
+        "name": "Спешить",
         "img": ""
       }
     },
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716230316086,

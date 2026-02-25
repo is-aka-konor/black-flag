@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Witch Sight",
+  "name": "Ведьмин взгляд",
   "type": "feature",
   "_id": "quSRkjkGwJQ7FZng",
   "img": "icons/magic/perception/eye-slit-red-orange.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376888626,

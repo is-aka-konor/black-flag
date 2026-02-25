@@ -19,24 +19,24 @@ export default class ChooseSpellsConfig extends ChooseFeaturesConfig {
 	static PARTS = {
 		config: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		spellConfig: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/parts/advancement-spell-configuration.hbs"
+			template: "systems/black-flag-ru/templates/advancement/parts/advancement-spell-configuration.hbs"
 		},
 		restrictions: {
 			container: { classes: ["column-container"], id: "column-center" },
-			template: "systems/black-flag/templates/advancement/choose-spells-config-restrictions.hbs"
+			template: "systems/black-flag-ru/templates/advancement/choose-spells-config-restrictions.hbs"
 		},
 		items: {
 			container: { classes: ["column-container"], id: "column-center" },
-			template: "systems/black-flag/templates/advancement/choose-spells-config-items.hbs",
-			templates: ["systems/black-flag/templates/advancement/parts/spells-list.hbs"]
+			template: "systems/black-flag-ru/templates/advancement/choose-spells-config-items.hbs",
+			templates: ["systems/black-flag-ru/templates/advancement/parts/spells-list.hbs"]
 		},
 		levels: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/advancement/parts/choice-levels.hbs"
+			template: "systems/black-flag-ru/templates/advancement/parts/choice-levels.hbs"
 		}
 	};
 

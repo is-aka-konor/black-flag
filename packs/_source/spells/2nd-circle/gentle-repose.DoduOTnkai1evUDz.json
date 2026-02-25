@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Gentle Repose",
+  "name": "Нежный отдых",
   "type": "spell",
   "_id": "DoduOTnkai1evUDz",
   "img": "icons/magic/death/skeleton-bird-skull-gray.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become Undead. The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as <em>raise dead</em>.</p>",
       "source": {},
-      "short": "Ward corpse from decay, undeath."
+      "short": "Оберегать труп от разложения, нежити."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a pinch of salt and one copper piece placed on each of the corpse’s eyes, which must remain there for the duration",
+        "description": "щепотку соли и один медный кусочек, помещенный в каждый глаз трупа, которые должны оставаться там на протяжении всего времени",
         "consumed": false,
         "denomination": "gp"
       }
@@ -95,7 +95,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.040",
     "coreVersion": "13.347",
     "createdTime": 1706933864119,

@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Harm",
+  "name": "Вред",
   "type": "spell",
   "_id": "oA6apqbpPhODO1Uc",
   "img": "icons/skills/wounds/injury-eyes-blood-red.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>You unleash a virulent disease on a creature that you can see within range. The target must make a [[/save]] save. On a failure, it takes [[/damage]] damage, or half as much damage on a success. The damage can’t reduce the target’s hit points below 1. If the target fails the save, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature’s hit point maximum to return to normal before that time passes.</p>",
       "source": {},
-      "short": "Necrotic that won’t quite kill."
+      "short": "Некротик, который не совсем убивает."
     },
     "source": [
       "divine",
@@ -144,7 +144,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722569575299,
     "modifiedTime": 1722835008936,

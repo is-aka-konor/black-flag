@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "False Life",
+  "name": "Ложная жизнь",
   "type": "spell",
   "_id": "FITcXCcDkoWdG3PH",
   "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>You bolster yourself with a touch of the same necromantic powers used to preserve the dead. You gain [[/healing]]{1d4 + 4 temporary hit points} for the duration.</p><p><em>At Higher Circles.</em> When you cast this spell using a 2nd-circle spell slot or higher, you gain [[/healing 5 temp]]{5} additional temporary hit points for each slot above 1st.</p>",
       "source": {},
-      "short": "Gain temporary hit points."
+      "short": "Получите временные очки жизни."
     },
     "type": {
       "value": "standard"
@@ -79,7 +79,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small amount of alcohol or distilled spirits",
+        "description": "небольшое количество алкоголя или дистиллированных спиртов",
         "denomination": "pp",
         "consumed": false
       }
@@ -116,7 +116,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933369013,

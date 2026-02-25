@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Speak with Dead",
+  "name": "Поговорить с Мертвым",
   "type": "spell",
   "_id": "er0d27qCTrTZkpu1",
   "img": "icons/magic/death/skull-pile-glowing-pink.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can’t be Undead. The spell fails if the corpse was the target of this spell within the last 10 days.</p><p>Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events.</p><p>Once you target a particular corpse with this spell, you can never cast this ritual on that particular corpse again.</p>",
       "source": {},
-      "short": "Ask a corpse five questions."
+      "short": "Задайте трупу пять вопросов."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "burning incense",
+        "description": "сжигание благовоний",
         "consumed": false,
         "denomination": "gp"
       }
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935641428,

@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Lizardfolk Ruler",
+  "name": "Правитель лизардфолков",
   "type": "npc",
   "_id": "AVUy5QORsFknY1cl",
-  "img": "systems/black-flag/artwork/tokens/lizardfolk-ruler.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lizardfolk-ruler.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,7 +154,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lizardfolk Ruler",
+    "name": "Правитель лизардфолков",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -162,7 +162,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lizardfolk-ruler.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lizardfolk-ruler.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Scale Mail",
+      "name": "Масштабная кольчуга",
       "type": "armor",
       "_id": "7gYm7dPTioflRRMN",
       "img": "icons/equipment/chest/breastplate-rivited-red.webp",
@@ -317,9 +317,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.lpKzUaG0LmkOqTb0",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.lpKzUaG0LmkOqTb0",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -329,7 +329,7 @@
       "_key": "!actors.items!AVUy5QORsFknY1cl.7gYm7dPTioflRRMN"
     },
     {
-      "name": "Brutal",
+      "name": "жестокий",
       "type": "feature",
       "_id": "rwjMR1Xh9tBowkMn",
       "img": "icons/skills/melee/strike-axe-blood-red.webp",
@@ -383,9 +383,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.GwEfQ9adrzpzAjze",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.GwEfQ9adrzpzAjze",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -433,7 +433,7 @@
           "value": null
         }
       },
-      "name": "Heightened Smell and Taste",
+      "name": "Обостренный запах и вкус",
       "type": "feature",
       "_id": "q7NlDTk4uqyr5rWT",
       "img": "icons/magic/air/wind-swirl-gray-blue.webp",
@@ -449,7 +449,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.Bi4Qj5n6qkjsPHv2",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -501,7 +501,7 @@
           "value": null
         }
       },
-      "name": "Hold Breath",
+      "name": "Задержать дыхание",
       "type": "feature",
       "_id": "JWzkBCRrUunxiv7I",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -517,7 +517,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.aghkHGPciEFs7PuF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -531,7 +531,7 @@
       "_key": "!actors.items!AVUy5QORsFknY1cl.JWzkBCRrUunxiv7I"
     },
     {
-      "name": "Unshakable Command",
+      "name": "Непоколебимая команда",
       "type": "feature",
       "_id": "hkXU8XHj1jB4urts",
       "img": "icons/skills/social/intimidation-impressing.webp",
@@ -589,7 +589,7 @@
         "compendiumSource": "Actor.lvJrzSKFfYsgeYTo.Item.8mwQLNM0Sb1qt47B",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -599,7 +599,7 @@
       "_key": "!actors.items!AVUy5QORsFknY1cl.hkXU8XHj1jB4urts"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "G1BE7Qc4VWKzHpQs",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -703,7 +703,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -718,7 +718,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Greataxe",
+      "name": "Большой топор",
       "type": "weapon",
       "_id": "WUSPH6UdCLUbriif",
       "img": "icons/weapons/axes/axe-battle-engraved-purple.webp",
@@ -855,9 +855,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.9EAkaGqWPK0qFoDq",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.9EAkaGqWPK0qFoDq",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758519506,
@@ -868,7 +868,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Javelin",
+      "name": "Копье",
       "type": "weapon",
       "_id": "x9nfiP9woRqwoOIY",
       "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
@@ -941,7 +941,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Melee Attack",
+            "name": "Атака в ближнем бою",
             "img": "",
             "sort": 0,
             "magical": false
@@ -1030,7 +1030,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Range Attack",
+            "name": "Атака по дальности",
             "img": ""
           }
         },
@@ -1116,9 +1116,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.8wAd9MmtaW1tizSN",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.8wAd9MmtaW1tizSN",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758531924,
@@ -1196,7 +1196,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1236,7 +1236,7 @@
           "value": null
         }
       },
-      "name": "Leader’s Challenge",
+      "name": "Задача лидера",
       "type": "feature",
       "_id": "XuvUejNMWcSyqbKo",
       "img": "icons/magic/control/control-influence-crown-gold.webp",
@@ -1256,7 +1256,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1337,7 +1337,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/heal.svg",
+            "img": "systems/black-flag-ru/artwork/activities/heal.svg",
             "sort": 0,
             "magical": false
           }
@@ -1377,7 +1377,7 @@
           "value": null
         }
       },
-      "name": "Inspiring Hiss",
+      "name": "Вдохновляющее шипение",
       "type": "feature",
       "_id": "pLyKDyuAtLLdoGTn",
       "img": "icons/magic/control/control-influence-rally-purple.webp",
@@ -1397,7 +1397,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1407,7 +1407,7 @@
       "_key": "!actors.items!AVUy5QORsFknY1cl.pLyKDyuAtLLdoGTn"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "Rpny604TbRQ0DgCW",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1457,7 +1457,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1567,7 +1567,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928192,
         "modifiedTime": 1756758511509,
@@ -1585,7 +1585,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

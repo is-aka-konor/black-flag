@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Spellguard Shield",
+  "name": "Защитный щит от заклинаний",
   "type": "armor",
   "img": "icons/equipment/shield/kite-wooden-sigil-purple.webp",
   "system": {
@@ -55,8 +55,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Spellguard",
-      "origin": "Compendium.black-flag.items.Item.79v4XFqFjU04hQdA",
+      "name": "Спеллгард",
+      "origin": "Compendium.black-flag-ru.items.Item.79v4XFqFjU04hQdA",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -88,7 +88,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.050",
         "createdTime": 1730072626915,
         "modifiedTime": 1730072687618,
@@ -106,7 +106,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1725589643277,
     "modifiedTime": 1730072618834,

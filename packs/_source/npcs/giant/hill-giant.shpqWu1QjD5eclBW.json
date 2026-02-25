@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Hill Giant",
+  "name": "Холмовый Гигант",
   "type": "npc",
   "_id": "shpqWu1QjD5eclBW",
-  "img": "systems/black-flag/artwork/tokens/giant-hill.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/giant-hill.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,7 +153,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Hill Giant",
+    "name": "Холмовый Гигант",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -161,7 +161,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/giant-hill.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/giant-hill.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -249,7 +249,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Hide Armor",
+      "name": "Скрыть броню",
       "type": "armor",
       "_id": "NCqZAssM11S0FNh6",
       "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
@@ -316,9 +316,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.fN3bw7IZzSxbkcYX",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.fN3bw7IZzSxbkcYX",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -328,7 +328,7 @@
       "_key": "!actors.items!shpqWu1QjD5eclBW.NCqZAssM11S0FNh6"
     },
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "m3cdM1tHGOicpPio",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -369,7 +369,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -380,7 +380,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -405,7 +405,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -431,7 +431,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -483,7 +483,7 @@
           "value": null
         }
       },
-      "name": "Show of Might",
+      "name": "Демонстрация мощи",
       "type": "feature",
       "_id": "hQtmV0uGz9mMUWDE",
       "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
@@ -503,7 +503,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -513,7 +513,7 @@
       "_key": "!actors.items!shpqWu1QjD5eclBW.hQtmV0uGz9mMUWDE"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "MUHcveYTwSzsiIpR",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -617,7 +617,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -632,7 +632,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Spiked Tree Branch",
+      "name": "Шипастая ветка дерева",
       "type": "weapon",
       "_id": "ykCY5KIkgqNcFgfJ",
       "img": "icons/weapons/clubs/club-spiked-glowing.webp",
@@ -733,7 +733,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           }
@@ -811,9 +811,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.WhFDR7nOBaBhhwmp",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.WhFDR7nOBaBhhwmp",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757270687,
@@ -922,7 +922,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           },
@@ -988,7 +988,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": ""
           }
         },
@@ -1000,7 +1000,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 16 format=long]] or be &amp;Reference[poisoned]{poisoned} until the end of its next turn.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1043,7 +1043,7 @@
         },
         "rarity": ""
       },
-      "name": "Rotten Snack",
+      "name": "Гнилая закуска",
       "type": "weapon",
       "_id": "t18oLCkxDJaT3bDm",
       "img": "icons/magic/unholy/strike-beam-blood-small-red-green.webp",
@@ -1063,7 +1063,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757285301,
@@ -1142,7 +1142,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1156,7 +1156,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hill giant bumps its stomach, hip, shoulder, knee, or other part of its body into a creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the giant and knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The hill giant bumps its stomach, hip, shoulder, knee, or other part of its body into a creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the giant and knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1182,7 +1182,7 @@
           "value": null
         }
       },
-      "name": "Body Bounce",
+      "name": "Отскок тела",
       "type": "feature",
       "_id": "dh32m8zQ2g35yWsp",
       "img": "icons/skills/melee/unarmed-punch-fist-white.webp",
@@ -1202,7 +1202,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1217,7 +1217,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

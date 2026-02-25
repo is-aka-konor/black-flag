@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Cloak of Displacement",
+  "name": "Плащ смещения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -48,7 +48,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983724354,
     "modifiedTime": 1728426556234,

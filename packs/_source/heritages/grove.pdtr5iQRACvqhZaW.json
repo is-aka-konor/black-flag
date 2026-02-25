@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Grove",
+  "name": "Роща",
   "type": "heritage",
   "img": "icons/environment/wilderness/tree-oak.webp",
   "system": {
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.dY7HGWQ3eTZwCoJW"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.dY7HGWQ3eTZwCoJW"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.PgizKCeRI9qz8mGW"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.PgizKCeRI9qz8mGW"
             }
           ]
         },
@@ -55,8 +55,8 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.dY7HGWQ3eTZwCoJW inline]{Canopy Walker}</p><p>@Embed[Compendium.black-flag.heritages.Item.PgizKCeRI9qz8mGW inline]{Nature's Camouflage}</p><p>@Embed[.Advancement.5T1mnPI3SisIsc7h inline]{Languages}</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.dY7HGWQ3eTZwCoJW inline]{Canopy Walker}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.PgizKCeRI9qz8mGW inline]{Nature's Camouflage}</p><p>@Embed[.Advancement.5T1mnPI3SisIsc7h inline]{Languages}</p>",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "grove"
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1694990521071,

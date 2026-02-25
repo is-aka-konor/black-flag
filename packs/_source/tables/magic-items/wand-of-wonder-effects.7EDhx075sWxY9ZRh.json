@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Wand of Wonder Effects",
+  "name": "Эффекты «Жезла чудес»",
   "img": "icons/weapons/wands/wand-totem.webp",
   "description": "",
   "results": [
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast slow.",
+      "description": "Ты кастуешь медленно.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.WK19yMNB0Yu530JH"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast faerie fire.",
+      "description": "Вы бросаете волшебный огонь.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.pasnYKlj2ajnptDU"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You are stunned until the start of your next turn, believing something awesome just happened.",
+      "description": "Вы ошеломлены до начала своего следующего хода, полагая, что только что произошло что-то потрясающее.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.B9sLtdZZHMrHX3IW"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast gust of wind.",
+      "description": "Вы бросаете порыв ветра.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.2l4EyWqw6hlYh3sD"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast detect thoughts on the target you chose. If you didn’t target a creature, you instead take [[/damage 1d6 psychic]] damage.",
+      "description": "Вы применяете «Обнаружение мыслей» к выбранной вами цели. Если вы не выбрали Цель Существования, вместо этого вы нанесете [[/damage 1d6 psychic]] урона.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.UjcCS7DLGAZNe8eH"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast stinking cloud.",
+      "description": "Вы создаете вонючее облако.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.22Ip6Zkk9XvKY02j"
     },
@@ -182,7 +182,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn.",
+      "description": "Дождь падает в радиусе 60 футов от центра цели. Область становится слегка затемненной. Дождь будет идти до начала вашего следующего хода.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.xJvHV2pQoRoUr20h"
     },
@@ -208,7 +208,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "An animal appears in the unoccupied space nearest the target. The animal isn’t under your control and acts as it normally would. Roll a [[/r d100]]: on a 01–25, a rhinoceros appears; on a 26–50, an elephant appears; and on a 51–100, a rat appears.",
+      "description": "Животное появляется в незанятом пространстве, ближайшем к цели. Животное не находится под вашим контролем и ведет себя как обычно. Бросьте [[/r d100]]: при выпадении 01–25 появляется носорог; при выпадении 26–50 появляется слон; а при результате 51–100 появляется крыса.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.my92ZyuysbRY7S6f"
     },
@@ -234,7 +234,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast lightning bolt.",
+      "description": "Вы бросаете молнию.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.0qXiIpWfen8Afgx8"
     },
@@ -260,7 +260,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes.",
+      "description": "Облако из 600 огромных бабочек заполняет радиус 30 футов с центром на цели. Район становится сильно затемненным. Бабочки остаются на 10 минут.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.dbCvVvlu9QuiL6hZ"
     },
@@ -286,7 +286,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You enlarge the target as if you had cast enlarge/reduce. If the target can’t be affected by that spell, or if you didn’t target a creature, you become the target.",
+      "description": "Вы увеличиваете цель, как если бы вы использовали увеличение/уменьшение. Если на цель не может воздействовать это заклинание или если вы не выбрали целью существо, вы становитесь целью.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.B7oWFJdRtwaLsBAO"
     },
@@ -312,7 +312,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast darkness.",
+      "description": "Ты насылаешь тьму.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.2opjRERDXUFCJKdA"
     },
@@ -338,7 +338,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.",
+      "description": "Трава растет на земле в радиусе 60 футов от центра цели. Если трава уже есть, она вырастает в десять раз по сравнению с обычным размером и остается заросшей в течение 1 минуты.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.kcqEawrspXvI2Bf4"
     },
@@ -364,7 +364,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "An object of the GM’s choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension.",
+      "description": "Объект по выбору Мастера исчезает в Эфирном Плане. Объект нельзя носить и носить с собой, в пределах 120 футов от цели и не более 10 футов в любом измерении.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.TGN7z1F16bnVEUyQ"
     },
@@ -390,7 +390,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You shrink as if you had cast enlarge/reduce on yourself.",
+      "description": "Вы сжимаетесь, как будто наложили на себя увеличение/уменьшение.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.upt4A4XNWYWFRqY2"
     },
@@ -416,7 +416,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast fireball.",
+      "description": "Вы бросаете огненный шар.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.dwdsngHBTRPJNnAg"
     },
@@ -442,7 +442,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "You cast invisibility on yourself.",
+      "description": "Вы накладываете на себя невидимость.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.G4PEV8kNH7l2uNa6"
     },
@@ -468,7 +468,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours.",
+      "description": "Листья растут из мишени. Если вы выбрали точку в пространстве в качестве цели, из существа, ближайшего к этой точке, прорастут листья. Если их не сорвать, листья становятся коричневыми и опадают через 24 часа.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.IPrywZa5Abg4owdd"
     },
@@ -494,7 +494,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A stream of [[/r 1d4 * 10]]{1d4 × 10} gems, each worth 1 gp, shoots from the wand’s tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the line.",
+      "description": "Поток [[/r 1d4 * 10]]{1d4 × 10} драгоценных камней, каждый стоимостью 1 зм, вырывается из кончика палочки линией длиной 30 футов и шириной 5 футов. Каждый драгоценный камень наносит 1 дробящий урон, а общий урон драгоценных камней делится поровну между всеми существами в линии.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.YaNP2XJfvkuJZj83"
     },
@@ -520,7 +520,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a [[/save DC 15 CON]] save or become blinded for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.",
+      "description": "Всплеск разноцветного мерцающего света распространяется от вас в радиусе 30 футов. Вы и все существа в области, которые могут видеть, должны преуспеть в спасброске [[/save DC 15 CON]], иначе вы ослепнете на 1 минуту. Существенно может повторять спасбросок в конце каждого своего хода, снимая эффект на себя в случае успеха.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.aVzfCyuWYU7Iruot"
     },
@@ -546,7 +546,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The target’s skin turns blue for [[/r 1d10]] days. If you chose a point in space, the creature nearest to that point is affected.",
+      "description": "Кожа цели становится синей на [[/r 1d10]] дней. Если вы выбрали точку в пространстве, это повлияет на существо, ближайшее к этой точке.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.fyeheqvFEhn4Ith2"
     },
@@ -572,7 +572,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "If you targeted a creature, it must make a [[/save DC 15 CON]] save. If you didn’t target a creature, you become the target and must make the save. If the save fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic.",
+      "description": "Если вы нацелились на Существо, оно должно сделать спасбросок [[/save DC 15 CON]]. Если вы не выбрали Цель Бытия, вы становитесь Целью и должны сделать спасбросок. Если спасбросок проваливается на 5 или более, цель мгновенно окаменевает.При любом другом провале спасброске цель удерживается и начинает превращаться в камень. Находясь в таком состоянии, цель должна создать спасбросок в конце следующего хода, окаменев в случае неудачи или прекратив эффект в случае успеха. Окаменение завершится до тех пор, пока цель не будет освобождена от закрытия Великого восстановления или подобной магии.",
       "name": "",
       "_key": "!tables.results!7EDhx075sWxY9ZRh.RyvOFbc33cHeyRJd"
     }
@@ -586,7 +586,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426280211,
     "modifiedTime": 1729534678836,

@@ -1,6 +1,6 @@
 {
   "folder": "7uCzGtcOYYcRFLda",
-  "name": "Arcane Instruction",
+  "name": "Тайная инструкция",
   "type": "feature",
   "_id": "PAgVbKkz6qVklCch",
   "img": "icons/sundries/books/book-symbol-triangle-silver-purple.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.U7TtFFdzkbVMNQ2D",
+              "target": "Compendium.black-flag-ru.classes.Item.U7TtFFdzkbVMNQ2D",
               "value": "1"
             }
           ],
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Bump Check",
+        "name": "Ударная проверка",
         "img": ""
       }
     },
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718682106397,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Weasel",
+  "name": "Гигантская ласка",
   "type": "npc",
   "_id": "opwZgKqVqntUSyxN",
-  "img": "systems/black-flag/artwork/types/npc.svg",
+  "img": "systems/black-flag-ru/artwork/types/npc.svg",
   "system": {
     "attributes": {
       "ac": {
@@ -143,7 +143,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Weasel",
+    "name": "Гигантская ласка",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -151,7 +151,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/types/npc.svg",
+      "src": "systems/black-flag-ru/artwork/types/npc.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -238,7 +238,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "2ROv4eVvGdQPRSy4",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -290,7 +290,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -386,7 +386,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the weasel can see moves to a space within 15 feet of it, the weasel can release a pungent spray at the creature. The target must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} until the end of its next turn. While poisoned, the creature can’t move to a space within 5 feet of the weasel.</p>",
+          "value": "<p>When a creature the weasel can see moves to a space within 15 feet of it, the weasel can release a pungent spray at the creature. The target must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn. While poisoned, the creature can’t move to a space within 5 feet of the weasel.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -412,7 +412,7 @@
           "value": null
         }
       },
-      "name": "Repellent Spray",
+      "name": "Репеллентный спрей",
       "type": "feature",
       "_id": "yNQfblgGVuKdFQf5",
       "img": "icons/magic/air/fog-gas-smoke-orange.webp",
@@ -432,7 +432,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -442,7 +442,7 @@
       "_key": "!actors.items!opwZgKqVqntUSyxN.yNQfblgGVuKdFQf5"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "AMDMV2RcKAQ4qj2d",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -494,7 +494,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -604,7 +604,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934619,
         "modifiedTime": 1756750363346,
@@ -622,7 +622,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1730134879580,

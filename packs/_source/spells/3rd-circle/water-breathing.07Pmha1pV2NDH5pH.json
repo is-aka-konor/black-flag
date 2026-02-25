@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Water Breathing",
+  "name": "Водное дыхание",
   "type": "spell",
   "_id": "07Pmha1pV2NDH5pH",
   "img": "icons/magic/water/barrier-ice-water-cube.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.</p>",
       "source": {},
-      "short": "Allies breathe underwater."
+      "short": "Союзники дышат под водой."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a short reed or a piece of straw",
+        "description": "короткая тростинка или кусок соломинки",
         "consumed": false,
         "denomination": "gp"
       }
@@ -99,9 +99,9 @@
   },
   "effects": [
     {
-      "name": "Water Breathing",
+      "name": "Водное дыхание",
       "img": "icons/magic/water/barrier-ice-water-cube.webp",
-      "origin": "Compendium.black-flag.spells.Item.07Pmha1pV2NDH5pH",
+      "origin": "Compendium.black-flag-ru.spells.Item.07Pmha1pV2NDH5pH",
       "transfer": false,
       "_id": "51E3OmCnuXqAUUFw",
       "type": "base",
@@ -117,7 +117,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have the ability to breathe underwater.</p>",
+      "description": "<p>Вы можете дышать под водой.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -126,7 +126,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723603790535,
         "modifiedTime": 1723603811687,
@@ -142,7 +142,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706936107917,

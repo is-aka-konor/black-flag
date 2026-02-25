@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Tiny Hut",
+  "name": "Крошечная хижина",
   "type": "spell",
   "_id": "jk91nr3wOuw3kyep",
   "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>A 10-foot-radius, immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.</p><p>Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.</p><p>Until the spell ends, you can command the interior to become dimly lit or dark. The dome is an opaque color of your choice from the outside, but it is transparent from the inside.</p>",
       "source": {},
-      "short": "Dome blocks passage to inside."
+      "short": "Купол блокирует проход внутрь."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small crystal bead",
+        "description": "маленькая хрустальная бусина",
         "consumed": false,
         "denomination": "gp"
       }
@@ -99,7 +99,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997256443,

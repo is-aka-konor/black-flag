@@ -260,15 +260,15 @@ export const itemProperties = {
 	// Armor
 	cumbersome: {
 		label: "BF.Armor.Property.Cumbersome",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.520mFFl9c7MsE3X5"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.520mFFl9c7MsE3X5"
 	},
 	naturalMaterials: {
 		label: "BF.Armor.Property.NaturalMaterials",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.DgadUc3PINhgxqT7"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.DgadUc3PINhgxqT7"
 	},
 	noisy: {
 		label: "BF.Armor.Property.Noisy",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.fbvoFGjhh0fwqVxI"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.fbvoFGjhh0fwqVxI"
 	},
 
 	// Container
@@ -279,11 +279,11 @@ export const itemProperties = {
 	// Weapon
 	ammunition: {
 		label: "BF.WEAPON.Property.Ammunition",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hEqdEZpofvIVhZbV"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hEqdEZpofvIVhZbV"
 	},
 	finesse: {
 		label: "BF.WEAPON.Property.Finesse",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.Nwe1EXlZHGBrNOGD"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.Nwe1EXlZHGBrNOGD"
 	},
 	gunpowder: {
 		label: "BF.WEAPON.Property.Gunpowder",
@@ -291,15 +291,15 @@ export const itemProperties = {
 	},
 	heavy: {
 		label: "BF.WEAPON.Property.Heavy",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.06OJCIgMWhfAWfi6"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.06OJCIgMWhfAWfi6"
 	},
 	light: {
 		label: "BF.WEAPON.Property.Light",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.AjLCb6Qp0btCuzv1"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.AjLCb6Qp0btCuzv1"
 	},
 	loading: {
 		label: "BF.WEAPON.Property.Loading",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.6T8MmG97dLpEOv36"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.6T8MmG97dLpEOv36"
 	},
 	magazine: {
 		label: "BF.WEAPON.Property.Magazine",
@@ -307,19 +307,19 @@ export const itemProperties = {
 	},
 	reach: {
 		label: "BF.WEAPON.Property.Reach",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.IqJ491vX9cgfBC4a"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.IqJ491vX9cgfBC4a"
 	},
 	thrown: {
 		label: "BF.WEAPON.Property.Thrown",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nlNCYugyCLULTc55"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nlNCYugyCLULTc55"
 	},
 	twoHanded: {
 		label: "BF.WEAPON.Property.TwoHanded",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ncge72BaBpqk68V0"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ncge72BaBpqk68V0"
 	},
 	versatile: {
 		label: "BF.WEAPON.Property.Versatile",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.iuDmrgxZEnH5bQF0"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.iuDmrgxZEnH5bQF0"
 	}
 };
 localizeConfig(itemProperties);

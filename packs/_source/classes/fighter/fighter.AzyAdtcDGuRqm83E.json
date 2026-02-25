@@ -1,13 +1,13 @@
 {
-  "name": "Fighter",
+  "name": "боец",
   "type": "class",
   "img": "icons/skills/melee/hand-grip-sword-red.webp",
   "system": {
     "description": {
       "value": "",
-      "short": "Hardy adventurers who excel in combat and weapon-use.",
+      "short": "Отважные искатели приключений, преуспевающие в бою и использовании оружия.",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.DKfJWt7ZmKWpPUqG"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.DKfJWt7ZmKWpPUqG"
     },
     "identifier": {
       "value": "fighter"
@@ -37,10 +37,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.TudxlF4gLtGTfnIq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.TudxlF4gLtGTfnIq"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Zjt0I8L1mzbjv4Ls"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Zjt0I8L1mzbjv4Ls"
             }
           ]
         },
@@ -60,7 +60,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.uiN72fEnJX0RiDDl"
+              "uuid": "Compendium.black-flag-ru.classes.Item.uiN72fEnJX0RiDDl"
             }
           ]
         },
@@ -77,7 +77,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.TK93O2sVebh1COY1"
+              "uuid": "Compendium.black-flag-ru.classes.Item.TK93O2sVebh1COY1"
             }
           ]
         },
@@ -281,7 +281,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.3GICsTmnGIydSZDI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.3GICsTmnGIydSZDI"
             }
           ]
         },
@@ -300,7 +300,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.1weXuZ8GoRqgnCOg"
+              "uuid": "Compendium.black-flag-ru.classes.Item.1weXuZ8GoRqgnCOg"
             }
           ]
         },
@@ -373,7 +373,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.FrdsogSzdIlz9Lmo",
+              "key": "Compendium.black-flag-ru.items.Item.FrdsogSzdIlz9Lmo",
               "requiresProficiency": false,
               "_id": "z5ExPxEOHzsljZJJ",
               "group": "I9OL6PjJ7JGcMvCR",
@@ -389,7 +389,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY",
+              "key": "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY",
               "requiresProficiency": false,
               "_id": "bwBVb5L4a4Cc9bJk",
               "group": "YfZFRPs4GHcxenmS",
@@ -398,7 +398,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+              "key": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
               "requiresProficiency": false,
               "_id": "cwpJt0Fq0x3CIczG",
               "group": "YfZFRPs4GHcxenmS",
@@ -407,7 +407,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.pLXuZs8PTiEt5PmK",
+              "key": "Compendium.black-flag-ru.items.Item.pLXuZs8PTiEt5PmK",
               "requiresProficiency": false,
               "_id": "vHPjlPnhz0cpYvjZ",
               "group": "YfZFRPs4GHcxenmS",
@@ -439,7 +439,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp",
+              "key": "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp",
               "requiresProficiency": false,
               "_id": "bKuf0bUJpebj7XbL",
               "group": "yG9BafLjyOToTSf6",
@@ -471,7 +471,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.Zu15sMMg2KvxhA3e",
+              "key": "Compendium.black-flag-ru.items.Item.Zu15sMMg2KvxhA3e",
               "requiresProficiency": false,
               "_id": "IzbfHkEn2zLPFaJk",
               "group": "VQzvwpfryrx1Fbb7",
@@ -480,7 +480,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.cUcIM6yesvDT51kY",
+              "key": "Compendium.black-flag-ru.items.Item.cUcIM6yesvDT51kY",
               "requiresProficiency": false,
               "_id": "90gQDYIS3CzUaAeH",
               "group": "VQzvwpfryrx1Fbb7",
@@ -489,7 +489,7 @@
             {
               "type": "linked",
               "count": 2,
-              "key": "Compendium.black-flag.items.Item.y6xWtgpXkPkn8cqO",
+              "key": "Compendium.black-flag-ru.items.Item.y6xWtgpXkPkn8cqO",
               "requiresProficiency": false,
               "_id": "ruDcOheKN2hZCKck",
               "group": "7fDAvScCEh0cboCu",
@@ -505,7 +505,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "coWQfzp4s4aHt7XU",
               "group": "rx1ssNtpk0agaGls",
@@ -514,7 +514,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "zhR1lWndGc73DuQm",
               "group": "rx1ssNtpk0agaGls",
@@ -541,7 +541,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1694368941451,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Chime of Opening",
+  "name": "Звон открытия",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -80,7 +80,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Ring Chime",
+        "name": "Кольцевой колокольчик",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -124,7 +124,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983678815,
     "modifiedTime": 1756335167689,

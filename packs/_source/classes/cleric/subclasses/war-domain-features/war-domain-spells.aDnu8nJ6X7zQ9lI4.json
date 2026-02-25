@@ -1,6 +1,6 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "War Domain Spells",
+  "name": "Заклинания военного домена",
   "type": "feature",
   "_id": "aDnu8nJ6X7zQ9lI4",
   "img": "icons/magic/light/projectile-halo-teal.webp",
@@ -19,16 +19,16 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.lkBDXbx2O78UA8gz"
+              "uuid": "Compendium.black-flag-ru.spells.Item.lkBDXbx2O78UA8gz"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.6P5eYTRcKoIQFmGu"
+              "uuid": "Compendium.black-flag-ru.spells.Item.6P5eYTRcKoIQFmGu"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.zqls78yW5JLJWzSN"
+              "uuid": "Compendium.black-flag-ru.spells.Item.zqls78yW5JLJWzSN"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.KcUbMYrnTrhoYrCo"
+              "uuid": "Compendium.black-flag-ru.spells.Item.KcUbMYrnTrhoYrCo"
             }
           ],
           "spell": {
@@ -55,10 +55,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.moUAyN0JUuMvoY6U"
+              "uuid": "Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.SiUSPKtQCHfy7Hwi"
+              "uuid": "Compendium.black-flag-ru.spells.Item.SiUSPKtQCHfy7Hwi"
             }
           ],
           "spell": {
@@ -85,10 +85,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.4e5kuXZgzEHtxSMj"
+              "uuid": "Compendium.black-flag-ru.spells.Item.4e5kuXZgzEHtxSMj"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.OQ0njCY39L7GmygK"
+              "uuid": "Compendium.black-flag-ru.spells.Item.OQ0njCY39L7GmygK"
             }
           ],
           "spell": {
@@ -115,10 +115,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.RWPfwnvOjy1uGt9Q"
+              "uuid": "Compendium.black-flag-ru.spells.Item.RWPfwnvOjy1uGt9Q"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.zN7iox5s7uic3PTH"
+              "uuid": "Compendium.black-flag-ru.spells.Item.zN7iox5s7uic3PTH"
             }
           ],
           "spell": {
@@ -142,7 +142,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain domain spells at the cleric levels listed in the <strong>War Domain Spells</strong> table. See the Cleric Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.WjXj1rpzbhcIUYMg inline]</p>",
+      "value": "<p>You gain domain spells at the cleric levels listed in the <strong>War Domain Spells</strong> table. See the Cleric Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.WjXj1rpzbhcIUYMg inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -171,7 +171,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1718424477741,

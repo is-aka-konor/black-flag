@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Ancient Black Dragon",
+  "name": "Древний Черный Дракон",
   "type": "npc",
   "_id": "RS2SzdUsZvEAYUDt",
-  "img": "systems/black-flag/artwork/tokens/dragon-black-ancient.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-black-ancient.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -160,7 +160,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ancient Black Dragon",
+    "name": "Древний Черный Дракон",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -168,7 +168,7 @@
     "width": 4,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-black-ancient.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-black-ancient.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -261,7 +261,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "nQneUSLg275r15oQ",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -315,7 +315,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -329,7 +329,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.nQneUSLg275r15oQ"
     },
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "H7Q4VjcIpkIfZgYz",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -372,7 +372,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -450,7 +450,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -464,7 +464,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.H7Q4VjcIpkIfZgYz"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "9mMj3CaRpOWnyUeY",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -568,7 +568,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -582,7 +582,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.9mMj3CaRpOWnyUeY"
     },
     {
-      "name": "Detect",
+      "name": "Обнаружить",
       "type": "feature",
       "_id": "hY8IBuuq7JYq8ReX",
       "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
@@ -619,7 +619,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -692,7 +692,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.pD51S4Dg9ox8MhUX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -706,7 +706,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.hY8IBuuq7JYq8ReX"
     },
     {
-      "name": "Tail Attack",
+      "name": "Атака хвостом",
       "type": "feature",
       "_id": "5rlP3Zuw00barypA",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -743,7 +743,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -816,7 +816,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.TOsVH0rXphcr2p5u",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -900,7 +900,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -914,7 +914,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] uses its Acid Breath, acid clings to its mouth, throat, and nostrils for a time, evaporating as the [[lookup @name lowercase]] breathes. While the [[lookup @name lowercase]]'s Acid Breath is unavailable, acidic vapors surround it, and each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} until the start of its next turn.</p>",
+          "value": "<p>After the [[lookup @name lowercase]] uses its Acid Breath, acid clings to its mouth, throat, and nostrils for a time, evaporating as the [[lookup @name lowercase]] breathes. While the [[lookup @name lowercase]]'s Acid Breath is unavailable, acidic vapors surround it, and each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -940,7 +940,7 @@
           "value": null
         }
       },
-      "name": "Acidic Vapors",
+      "name": "Кислые пары",
       "type": "feature",
       "_id": "E4n9Zhu4g9zdNKD9",
       "img": "icons/magic/air/fog-gas-smoke-dense-green.webp",
@@ -960,7 +960,7 @@
         "compendiumSource": "Actor.1ImbqMffnFLT0YyB.Item.wDDtx57LUTuKXYXu",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -970,7 +970,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.E4n9Zhu4g9zdNKD9"
     },
     {
-      "name": "Elemental Roar",
+      "name": "Элементальный рев",
       "type": "feature",
       "_id": "QxFrczPCzDZcWbm3",
       "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
@@ -1015,7 +1015,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1097,9 +1097,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.8R4XXpbwLn8tic0m",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.8R4XXpbwLn8tic0m",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1109,7 +1109,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.QxFrczPCzDZcWbm3"
     },
     {
-      "name": "Wing Attack",
+      "name": "Крылатая атака",
       "type": "feature",
       "_id": "z03BmfDxonixBN1z",
       "img": "icons/creatures/abilities/wing-batlike-white-blue.webp",
@@ -1169,7 +1169,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1210,7 +1210,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 15 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &amp;Reference[prone]{prone}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 15 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{prone}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1251,9 +1251,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.EhzKBSBAraL7ifUf",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.EhzKBSBAraL7ifUf",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1263,7 +1263,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.z03BmfDxonixBN1z"
     },
     {
-      "name": "Frightful Presence",
+      "name": "Ужасающее присутствие",
       "type": "feature",
       "_id": "TxtJaPRpsiEJvIDY",
       "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
@@ -1308,7 +1308,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1350,7 +1350,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &amp;Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1391,9 +1391,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.LzEUyc24v6yn18nE",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.LzEUyc24v6yn18nE",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1495,7 +1495,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -1541,7 +1541,7 @@
           "value": null
         }
       },
-      "name": "Acid Breath",
+      "name": "Кислотное дыхание",
       "type": "feature",
       "_id": "CfDa5hoCqTfVZP57",
       "img": "icons/magic/acid/projectile-smoke-glowing.webp",
@@ -1568,7 +1568,7 @@
         "compendiumSource": "Actor.1ImbqMffnFLT0YyB.Item.nDtgzySglA9k5ud0",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1578,7 +1578,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.CfDa5hoCqTfVZP57"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "0TQxeApuOcS9tU3y",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1643,7 +1643,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1756,7 +1756,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931548,
         "modifiedTime": 1756752383168,
@@ -1769,7 +1769,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.0TQxeApuOcS9tU3y"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "h3bLdUPrxQqkFVwe",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1819,7 +1819,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1932,7 +1932,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931548,
         "modifiedTime": 1756752387334,
@@ -1945,7 +1945,7 @@
       "_key": "!actors.items!RS2SzdUsZvEAYUDt.h3bLdUPrxQqkFVwe"
     },
     {
-      "name": "Tail",
+      "name": "Хвост",
       "type": "weapon",
       "_id": "dpwEJb4mWxfBqmCF",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -1995,7 +1995,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -2108,7 +2108,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931548,
         "modifiedTime": 1756752392848,
@@ -2126,7 +2126,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

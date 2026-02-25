@@ -1,9 +1,9 @@
 {
   "folder": "x3Bmb2gdlf2FaLyV",
-  "name": "Adherent Motivation",
+  "name": "Приверженная мотивация",
   "_id": "UhreZBK0QFgI0rFY",
   "img": "icons/environment/people/cleric-grey.webp",
-  "description": "<p>Many adherents do not stray far from the object of their devotion. Those who roam often do so for reasons specific to their order. When you begin your adventures, consider what has tempted—or called—you to step away from the safety of your order into the unknown.</p>",
+  "description": "<p>Многие приверженцы не отходят далеко от объекта своей преданности. Те, кто бродят, часто делают это по причинам, специфичным для их ордена. Когда вы начинаете свои приключения, подумайте, что побудило — или призвало — вас отойти от безопасности вашего ордена в неизведанное.</p>",
   "results": [
     {
       "type": "text",
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring lets me test the limits of my devotion.",
+      "description": "Приключения позволяют мне проверить пределы моей преданности.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.fjOVSxxgAZDJUtND"
     },
@@ -53,7 +53,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring allows me to learn about and report on other religions and orders.",
+      "description": "Приключения позволяют мне узнавать и сообщать о других религиях и орденах.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.F6NOfkOgY4l0kCyi"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring allows me to practice more unorthodox methods of worship.",
+      "description": "Приключения позволяют мне практиковать более неортодоксальные методы поклонения.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.zE6ygH4vNzQTOVi2"
     },
@@ -105,7 +105,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to find others sworn to my order.",
+      "description": "Приключения — это способ найти тех, кто присягнул моему ордену.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.pTwaJp4AQufkgDG7"
     },
@@ -131,7 +131,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring allows me to share my faith with heretics, pagans, and the uninitiated.",
+      "description": "Приключения позволяют мне делиться своей верой с еретиками, язычниками и непосвященными.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.iW8o01pezLOI0dJn"
     },
@@ -157,7 +157,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring brings glory and notoriety to my order.",
+      "description": "Приключения приносят моему ордену славу и известность.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.HXpujnjkMCQYeYEm"
     },
@@ -183,7 +183,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring furnishes me with the tithe my order deserves.",
+      "description": "Приключения приносят мне десятину, которую заслуживает мой орден.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.eEK5tnD7SQfKXu5M"
     },
@@ -209,7 +209,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring keeps me from being dragged back to the order from which I narrowly escaped.",
+      "description": "Приключения не позволяют мне вернуться в порядок, от которого я едва избежал.",
       "name": "",
       "_key": "!tables.results!UhreZBK0QFgI0rFY.UUkzAsLpdEKm1KY6"
     }
@@ -222,7 +222,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1706650155121,

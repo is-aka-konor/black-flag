@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Sanctuary",
+  "name": "Святилище",
   "type": "spell",
   "_id": "AGXXq1EcLVPFMVPh",
   "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a [[/save]] save. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a <em>fireball</em>.</p><p>If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.</p>",
       "source": {},
-      "short": "Ward a creature against attacks."
+      "short": "Защитите существо от атак."
     },
     "type": {
       "value": "standard"
@@ -78,7 +78,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small silver mirror",
+        "description": "маленькое серебряное зеркало",
         "denomination": "pp",
         "consumed": false
       }
@@ -113,9 +113,9 @@
   },
   "effects": [
     {
-      "name": "Sanctuary",
+      "name": "Святилище",
       "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
-      "origin": "Compendium.black-flag.spells.Item.AGXXq1EcLVPFMVPh",
+      "origin": "Compendium.black-flag-ru.spells.Item.AGXXq1EcLVPFMVPh",
       "transfer": false,
       "_id": "481RiBMKhMmDYTQi",
       "type": "base",
@@ -131,7 +131,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>Any creature who targets you with an attack or a harmful spell must first make a [[/save]] save. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect you from area effects, such as the explosion of a <em>fireball</em>.</p><p>If you make an attack or casts a spell that affects an enemy creature, this spell ends.</p>",
+      "description": "<p>Любое Существо, которое нацеливается на вас атакой или конкурентным заклинанием, должно сначала сделать спасбросок [[/save]].В случае провала Существо должно выбрать новый цель или потерять атаку или заклинание. Это заклинание не защищает вас от эффектов на площади, таких как взрыв <em>огненного шара</em>.</p><p>Если вы совершаете атаку или произносите заклинание, воздействующее на внешнее Существо, это заклинание оканчивается.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723606070620,
         "modifiedTime": 1723606110713,
@@ -156,7 +156,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935282460,

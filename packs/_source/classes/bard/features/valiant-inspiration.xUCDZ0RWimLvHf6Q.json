@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Valiant Inspiration",
+  "name": "Доблестное вдохновение",
   "type": "feature",
   "_id": "xUCDZ0RWimLvHf6Q",
   "img": "icons/magic/light/projectiles-star-purple.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717558897700,

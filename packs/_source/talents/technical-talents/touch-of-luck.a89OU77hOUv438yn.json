@@ -1,6 +1,6 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Touch of Luck",
+  "name": "Прикосновение удачи",
   "type": "talent",
   "img": "icons/sundries/gaming/dice-runed-brown.webp",
   "system": {
@@ -55,7 +55,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.071",
     "coreVersion": "13.348",
     "createdTime": 1695925612918,

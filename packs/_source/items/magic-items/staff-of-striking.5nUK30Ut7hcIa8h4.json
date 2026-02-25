@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Striking",
+  "name": "Посох удара",
   "type": "weapon",
   "_id": "5nUK30Ut7hcIa8h4",
   "img": "icons/weapons/staves/staff-ornate-purple.webp",
@@ -148,7 +148,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Strike",
+        "name": "Удар",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -235,7 +235,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590568822,
     "modifiedTime": 1756332414404,

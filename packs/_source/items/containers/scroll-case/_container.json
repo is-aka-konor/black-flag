@@ -1,6 +1,6 @@
 {
   "folder": "UmAJtvm6pFXVRXGe",
-  "name": "Scroll Case",
+  "name": "Чехол для прокрутки",
   "type": "container",
   "_id": "JthmPCYc3wim4jX8",
   "img": "icons/containers/bags/case-scroll-leather-tan.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707363365585,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Belt of Frost Giant Strength",
+  "name": "Пояс силы ледяного великана",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/waist/belt-buckle-horn-blue.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.nqzZUazRfPbENNns",
+      "origin": "Compendium.black-flag-ru.items.Item.nqzZUazRfPbENNns",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Frost Giant Strength",
+      "name": "Сила ледяного гиганта",
       "img": "icons/equipment/waist/belt-buckle-horn-blue.webp",
       "_id": "L2yAlsHTeI367YOI",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wearing this belt, your STR score changes to 23. If your STR is already equal to or greater than the belt’s score, the item has no effect on you.</p>",
+      "description": "<p>При ношении этого пояса ваша Сила меняется на 23. Если ваша Сила уже меняется или превращается в показательный пояс, предмет не оказывает на вас никакого воздействия.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901310956,
         "modifiedTime": 1756335014885,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983138306,
     "modifiedTime": 1728426556234,

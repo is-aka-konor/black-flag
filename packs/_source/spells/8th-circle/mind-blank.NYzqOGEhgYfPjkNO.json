@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Mind Blank",
+  "name": "Разум пустой",
   "type": "spell",
   "_id": "NYzqOGEhgYfPjkNO",
   "img": "icons/magic/unholy/orb-swirling-teal.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils <em>wish</em> spells and spells or effects of similar power used to affect the target’s mind or to gain information about the target.</p>",
       "source": {},
-      "short": "Block all mental effects."
+      "short": "Блокируйте все психические воздействия."
     },
     "source": [
       "arcane"
@@ -122,7 +122,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.NYzqOGEhgYfPjkNO",
+      "origin": "Compendium.black-flag-ru.spells.Item.NYzqOGEhgYfPjkNO",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -133,7 +133,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Mind Blank",
+      "name": "Разум пустой",
       "img": "icons/magic/unholy/orb-swirling-teal.webp",
       "_id": "Fh8HC9GKUcP44r6G",
       "type": "base",
@@ -152,7 +152,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You are immune to psychic damage, any effect that would sense your emotions or read your thoughts, divination spells, and the charmed condition. The spell even foils <em>wish</em> spells and spells or effects of similar power used to affect the target’s mind or to gain information about the target.</p>",
+      "description": "<p>Вы не подвержены психическому повреждению, любому эффекту, который может ощутить ваши эмоции или прочитать ваши мысли, заклинаниям гадания и состояния очарования. Заклинание даже приводит к заклинаниям <em>wish</em> и заклинаниям эффектов или переменных сил, используемых для воздействия на разумные цели или для получения информации о целях.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -162,7 +162,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1722986640859,
         "modifiedTime": 1722986715098,
@@ -180,7 +180,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919929792,
     "modifiedTime": 1723780792561,

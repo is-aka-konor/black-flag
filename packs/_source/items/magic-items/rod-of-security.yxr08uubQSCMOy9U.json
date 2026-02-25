@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Rod of Security",
+  "name": "Жезл безопасности",
   "system": {
     "type": {
       "category": "rod"
@@ -85,7 +85,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Activate",
+        "name": "Активировать",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -130,7 +130,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725071212042,
     "modifiedTime": 1756333667577,

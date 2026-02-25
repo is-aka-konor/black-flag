@@ -1,10 +1,10 @@
 {
-  "name": "Equipment & Magic Items",
+  "name": "Снаряжение и магические предметы",
   "_id": "P0mD7RvEjOQkJZzE",
   "pages": [
     {
       "sort": 200000,
-      "name": "Currency",
+      "name": "Валюта",
       "type": "text",
       "_id": "lAtVy49lROEjjBvt",
       "title": {
@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>An average coin weighs less than half an ounce. A pouch of 50 coins weighs 1 pound.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.aN0jPVxz9kmi7kMQ inline]</p>"
+        "content": "<p>Средняя монета весит менее половины унции. Мешочек из 50 монет весит 1 фунт.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.aN0jPVxz9kmi7kMQ inline]</p>"
       },
       "video": {
         "controls": true,
@@ -27,7 +27,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1709421591965,
@@ -41,7 +41,7 @@
     },
     {
       "sort": 400000,
-      "name": "Equipment",
+      "name": "Оборудование",
       "type": "text",
       "_id": "mYPSoxibbgao9YOe",
       "title": {
@@ -51,7 +51,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Armor</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BCnHjS3Df0fZYo92 inline]</p><h3>Weapons</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.P1mt6DBRhooyOhL4 inline]</p><h3>Adventuring Gear</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.xX5APF15x3BD90x7 inline]</p><h3>Tools</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzHtWppmIShkxblT inline]</p>",
+        "content": "<h3>Armor</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BCnHjS3Df0fZYo92 inline]</p><h3>Weapons</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.P1mt6DBRhooyOhL4 inline]</p><h3>Adventuring Gear</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.xX5APF15x3BD90x7 inline]</p><h3>Tools</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzHtWppmISHkxblT inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -65,7 +65,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1709421603698,
@@ -79,7 +79,7 @@
     },
     {
       "sort": 500000,
-      "name": "Magic Items",
+      "name": "Магические предметы",
       "type": "text",
       "_id": "Jq64PrkOxzjtJp4w",
       "title": {
@@ -89,7 +89,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h4>Attunement</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.8SCJhZwG6fxaUIUd inline]</p><h3>Equipping Magic Items</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.9rszJnZhhAw398BD inline]</p><h3>Activating an Item</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mocDwKtTgnA0OqMF inline]</p><h3>Magic Item Descriptions</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.VLhIi5BCzREFELtb inline]</p>",
+        "content": "<h4>Attunement</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.8SCJhZwG6fxaUIUd inline]</p><h3>Equipping Magic Items</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.9rszJnZhhAw398BD inline]</p><h3>Активация элемент</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mocDwKtTgnA0OqMF inline]</p><h3>Magic Item Описания</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.VLhIi5BCzREFELtb inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -103,7 +103,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1709421663100,
@@ -117,7 +117,7 @@
     },
     {
       "sort": 450000,
-      "name": "Mounts",
+      "name": "Маунты",
       "type": "text",
       "_id": "JPbuk6i8Wy5VlmvL",
       "title": {
@@ -127,7 +127,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.utTSWKE0robbaS1G inline]</p><h4>Mount Gear and Expenses</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.XsQttEdkAQUjbj3e inline]</p>",
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.utTSWKE0robbaS1G inline]</p><h4>Mount Gear и Расходы</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.XsQttEdkAQUjbj3e inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -141,7 +141,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1716518864474,
@@ -155,7 +155,7 @@
     },
     {
       "sort": 475000,
-      "name": "Services",
+      "name": "Услуги",
       "type": "text",
       "_id": "fQY6tkhpNNTst34v",
       "title": {
@@ -165,7 +165,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BiKvKH1EduDuNNmM inline]</p><h4>Spellcasting Services</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.puOeqh8aVkJaUlMI inline]</p><h4>Food, Drink, and Loding</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.khcB9n4f92mWK349 inline]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BiKvKH1EduDuNNmM inline]</p><h4>Заклинания Услуги</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.puOeqh8aVkJaUlMI inline]</p><h4>Еда, напитки и Loding</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.khcB9n4f92mWK349 inline]</p>"
       },
       "video": {
         "controls": true,
@@ -178,7 +178,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1716518891757,
@@ -192,7 +192,7 @@
     },
     {
       "sort": 487500,
-      "name": "Vehicles",
+      "name": "Транспортные средства",
       "type": "text",
       "_id": "wxdDSKOMharljwSz",
       "title": {
@@ -202,7 +202,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.0sMRTstUKVRwSh7t inline]{Vehicle Proficiency}</p><h4>Elements of a Vehicle</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.e9UhsLVgZjtXWBZW inline]</p><h4>Vehicle Movement</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.M1XvQhry1Fp2WItL inline]</p><h4>Vehicle Repairs</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mpxIeR6ANqoySDC6 inline]</p><h4>Vehicle Descriptions</h4><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dvzin85VwegvvChY inline]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.0sMRTstUKVRwSh7t inline]{Уровень транспортных средств}</p><h4>Элементы a Vehicle</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.e9UhsLVgZjtXWBZW inline]</p><h4>Движение транспорта средства</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.M1XvQhry1Fp2WItL inline]</p><h4>Ремонт автомобиля</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mpxIeR6ANqoySDC6 inline]</p><h4>Vehicle Описания</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dvzin85VwegvvChY inline]</p>"
       },
       "video": {
         "controls": true,
@@ -215,7 +215,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1716518898543,
@@ -235,7 +235,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1700344474991,

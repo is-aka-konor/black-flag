@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of Magic Missiles",
+  "name": "Жезл волшебных стрел",
   "system": {
     "type": {
       "category": "wand"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the <em>@UUID[Compendium.black-flag.spells.Item.RBoSYpr3alIlLBro]{magic missile}</em> spell from it. For 1 charge, you cast the 1st-circle version of the spell. You can increase the spell slot circle by one for each additional charge you expend.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
+      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{magic missile}</em> spell from it. For 1 charge, you cast the 1st-circle version of the spell. You can increase the spell slot circle by one for each additional charge you expend.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
       "source": {
         "fallback": ""
       }
@@ -21,7 +21,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.RBoSYpr3alIlLBro",
+            "uuid": "Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro",
             "challenge": {
               "attack": null,
               "save": null,
@@ -128,7 +128,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071498137,
     "modifiedTime": 1735681524900,

@@ -1,9 +1,9 @@
 {
   "folder": "FFlPMIZKxcUrNSW5",
-  "name": "Sea Hag",
+  "name": "Морская ведьма",
   "type": "npc",
   "_id": "viZtu4bAm6ZvKmIN",
-  "img": "systems/black-flag/artwork/tokens/hag-sea.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/hag-sea.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Sea Hag",
+    "name": "Морская ведьма",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/hag-sea.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/hag-sea.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -254,7 +254,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "58IoGvF1lZgFBXll",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -308,7 +308,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -322,7 +322,7 @@
       "_key": "!actors.items!viZtu4bAm6ZvKmIN.58IoGvF1lZgFBXll"
     },
     {
-      "name": "Fey Resilience",
+      "name": "Фейская устойчивость",
       "type": "feature",
       "_id": "vU23YMqq1UqznFz6",
       "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -365,7 +365,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -376,7 +376,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Resilience",
+          "name": "Фейская устойчивость",
           "_id": "xsKr4hZ7kVgeQaXM",
           "changes": [
             {
@@ -401,7 +401,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -427,7 +427,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ktWTCgJSzoZompKX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -510,7 +510,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -524,7 +524,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a Humanoid that can see the hag’s true form starts its turn within 30 feet of the hag, the hag can force it to make a [[/save format=long]]. On a failure, the creature is &amp;Reference[frightened]{frightened} until the start of its next turn.</p><p>Unless surprised or the revelation of the hag’s true form is sudden, such as the ending of Illusory Appearance, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the hag until the start of its next turn, when it can avert its eyes again. If the creature looks at the hag in the meantime, it must immediately make the save.</p>",
+          "value": "<p>When a Humanoid that can see the hag’s true form starts its turn within 30 feet of the hag, the hag can force it to make a [[/save format=long]]. On a failure, the creature is &Reference[frightened]{frightened} until the start of its next turn.</p><p>Unless surprised or the revelation of the hag’s true form is sudden, such as the ending of Illusory Appearance, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the hag until the start of its next turn, when it can avert its eyes again. If the creature looks at the hag in the meantime, it must immediately make the save.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -550,7 +550,7 @@
           "value": null
         }
       },
-      "name": "Horrific Appearance",
+      "name": "Ужасающий внешний вид",
       "type": "feature",
       "_id": "8DOVRbLbDCEkyCZH",
       "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
@@ -570,7 +570,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -618,7 +618,7 @@
           "value": null
         }
       },
-      "name": "Underwater Camouflage",
+      "name": "Подводный камуфляж",
       "type": "feature",
       "_id": "MGXVPWJ2LeUHjKB1",
       "img": "icons/magic/nature/plant-undersea-glow-green.webp",
@@ -638,7 +638,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -648,7 +648,7 @@
       "_key": "!actors.items!viZtu4bAm6ZvKmIN.MGXVPWJ2LeUHjKB1"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "1DxjdEI3xInBUJFx",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -752,7 +752,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -835,7 +835,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -849,7 +849,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the hag can see within 30 feet of it must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn. If the target is already frightened and fails the save, it is reduced to 0 HP instead. If reduced to 0 HP in this way, the creature is stable.</p>",
+          "value": "<p>One creature the hag can see within 30 feet of it must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. If the target is already frightened and fails the save, it is reduced to 0 HP instead. If reduced to 0 HP in this way, the creature is stable.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -875,7 +875,7 @@
           "value": null
         }
       },
-      "name": "Death Glare",
+      "name": "Смертельный взгляд",
       "type": "feature",
       "_id": "XdILwArrQyHxQxhE",
       "img": "icons/magic/death/skull-energy-light-white.webp",
@@ -895,7 +895,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1009,7 +1009,7 @@
           "value": null
         }
       },
-      "name": "Illusory Appearance",
+      "name": "Иллюзорная внешность",
       "type": "feature",
       "_id": "O9BJemA9hRbySSIW",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -1025,7 +1025,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.15XUrcQZmwWwQxFY",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1153,7 +1153,7 @@
           "value": null
         }
       },
-      "name": "Barnacle Block",
+      "name": "Барнакл Блок",
       "type": "feature",
       "_id": "hQoZ8YfrrO9PZ4Ra",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -1173,7 +1173,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1183,7 +1183,7 @@
       "_key": "!actors.items!viZtu4bAm6ZvKmIN.hQoZ8YfrrO9PZ4Ra"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "w379UVUC1ImFbiTk",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1233,7 +1233,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1343,7 +1343,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935806,
         "modifiedTime": 1756755805711,
@@ -1361,7 +1361,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

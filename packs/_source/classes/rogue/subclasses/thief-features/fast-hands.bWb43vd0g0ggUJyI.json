@@ -1,6 +1,6 @@
 {
   "folder": "OGEfr5Be5pXnTgIL",
-  "name": "Fast Hands",
+  "name": "Быстрые руки",
   "type": "feature",
   "_id": "bWb43vd0g0ggUJyI",
   "img": "icons/equipment/hand/glove-ring-leather-green.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700002811234,

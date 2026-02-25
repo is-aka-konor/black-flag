@@ -16,7 +16,7 @@ export default class ForwardActivity extends Activity {
 			{
 				type: "forward",
 				dataModel: ForwardData,
-				icon: "systems/black-flag/artwork/activities/forward.svg",
+				icon: "systems/black-flag-ru/artwork/activities/forward.svg",
 				title: "BF.FORWARD.Title",
 				hint: "BF.FORWARD.Hint"
 			},

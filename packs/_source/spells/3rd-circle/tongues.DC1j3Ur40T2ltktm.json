@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Tongues",
+  "name": "Языки",
   "type": "spell",
   "_id": "DC1j3Ur40T2ltktm",
   "img": "icons/creatures/abilities/mouth-teeth-human.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.</p>",
       "source": {},
-      "short": "Target understands all language."
+      "short": "Цель понимает весь язык."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small clay model of a ziggurat",
+        "description": "небольшая глиняная модель зиккурата",
         "consumed": false,
         "denomination": "gp"
       }
@@ -98,9 +98,9 @@
   },
   "effects": [
     {
-      "name": "Tongues",
+      "name": "Языки",
       "img": "icons/creatures/abilities/mouth-teeth-human.webp",
-      "origin": "Compendium.black-flag.spells.Item.DC1j3Ur40T2ltktm",
+      "origin": "Compendium.black-flag-ru.spells.Item.DC1j3Ur40T2ltktm",
       "transfer": false,
       "_id": "J5bJOelOTfIZqQcI",
       "type": "base",
@@ -123,7 +123,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have the ability to understand any spoken language you hear. Moreover, when you speak, any creature that knows at least one language and can hear you understands what you say.</p>",
+      "description": "<p>Вы способны понимать любую разговорную речь, которую слышите. Более того, когда вы говорите, любое существо, знающее хотя бы один язык и способное вас слышать, понимает, что вы говорите.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -132,7 +132,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723577517269,
         "modifiedTime": 1723577601050,
@@ -148,7 +148,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935900181,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Necklace of Fireballs",
+  "name": "Ожерелье огненных шаров",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>per bead This necklace has [[/r 1d6 + 3]] beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-circle <em>@UUID[Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> spell (save DC 15).</p><p>You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the spell circle of the fireball by 1 for each bead beyond the first.</p>",
+      "value": "<p>per bead This necklace has [[/r 1d6 + 3]] beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-circle <em>@UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> spell (save DC 15).</p><p>You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the spell circle of the fireball by 1 for each bead beyond the first.</p>",
       "source": {
         "fallback": ""
       }
@@ -21,7 +21,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI",
             "challenge": {
               "attack": null,
               "save": 13,
@@ -126,7 +126,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1724986786819,
     "modifiedTime": 1729532568161,

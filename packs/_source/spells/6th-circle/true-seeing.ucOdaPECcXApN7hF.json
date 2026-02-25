@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "True Seeing",
+  "name": "Истинное Видение",
   "type": "spell",
   "_id": "ucOdaPECcXApN7hF",
   "img": "icons/magic/perception/eye-ringed-green.webp",
@@ -61,7 +61,7 @@
     "description": {
       "value": "<p>You touch a willing creature to grant it the ability to see things as they actually are. For the duration, that creature has truesight to a range of 120 feet.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, you can target one additional creature for each slot above 6th.</p>",
       "source": {},
-      "short": "Ally sees things truly."
+      "short": "Элли видит вещи по-настоящему."
     },
     "casting": {
       "value": null,
@@ -82,7 +82,7 @@
         "consumed": false,
         "cost": 25,
         "denomination": "gp",
-        "description": "ointment made from powdered mushrooms and saffron worth 25 gp, which the spell consumes"
+        "description": "мазь из измельченных грибов и шафрана стоимостью 25 зм, которую расходует заклинание"
       }
     },
     "duration": {
@@ -117,9 +117,9 @@
   },
   "effects": [
     {
-      "name": "True Seeing",
+      "name": "Истинное Видение",
       "img": "icons/magic/perception/eye-ringed-green.webp",
-      "origin": "Compendium.black-flag.spells.Item.ucOdaPECcXApN7hF",
+      "origin": "Compendium.black-flag-ru.spells.Item.ucOdaPECcXApN7hF",
       "transfer": false,
       "_id": "NASY94AcE3QzHDGb",
       "type": "base",
@@ -142,7 +142,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have the ability to see things as they actually are. For the duration, you have truesight to a range of 120 feet.</p>",
+      "description": "<p>У вас есть способность видеть вещи такими, какие они есть на самом деле. На это время вы получаете истинное зрение на расстоянии 120 футов.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -151,7 +151,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723578110594,
         "modifiedTime": 1723578144297,
@@ -169,7 +169,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527977259,
     "modifiedTime": 1723578152039,

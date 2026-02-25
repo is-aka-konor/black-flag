@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Hold",
+  "name": "Держать",
   "type": "spell",
   "_id": "kVXub5YGKOSXv8ix",
   "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
@@ -54,9 +54,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a [[/save]] save or be &amp;Reference[paralyzed] for the duration. At the end of each of its turns, an affected target can repeat the [[/save]] save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+      "value": "<p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a [[/save]] save or be &Reference[paralyzed] for the duration. At the end of each of its turns, an affected target can repeat the [[/save]] save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
       "source": {},
-      "short": "Paralyze a Medium creature."
+      "short": "Парализуйте существо Среднего размера."
     },
     "type": {
       "value": "standard"
@@ -78,7 +78,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small, straight piece of iron",
+        "description": "небольшой, прямой кусок железа",
         "consumed": false,
         "denomination": "gp"
       }
@@ -116,7 +116,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.kVXub5YGKOSXv8ix",
+      "origin": "Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -127,13 +127,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Hold",
+      "name": "Держать",
       "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
       "_id": "7jxJgJzn0Cp5EzS8",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You are paralyzed for the duration. At the end of each of your turns, you can repeat the [[/save WIS]] save, ending the effect on a success.</p>",
+      "description": "<p>Вы на парализованы. В конце каждого вашего хода вы можете просмотреть спасбросок [[/save WIS]], прекратив эффект при успехе.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [
@@ -145,7 +145,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722573545956,
         "modifiedTime": 1722573583604,
@@ -161,7 +161,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934136728,

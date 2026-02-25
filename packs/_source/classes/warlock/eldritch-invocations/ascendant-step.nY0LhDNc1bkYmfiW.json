@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Ascendant Step",
+  "name": "Восходящий шаг",
   "type": "feature",
   "_id": "nY0LhDNc1bkYmfiW",
   "img": "icons/magic/control/debuff-energy-hold-teal-blue.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376499825,

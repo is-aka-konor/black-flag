@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Conjure Woodland Beings",
+  "name": "Вызов лесных существ",
   "type": "spell",
   "_id": "0DJYzsH6997OXOEp",
   "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You summon Fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:</p><ul><li><p>One Fey creature of CR 2 or lower</p></li><li><p>Two Fey creatures of CR 1 or lower</p></li><li><p>Four Fey creatures of CR 1/2 or lower</p></li></ul><p>A summoned creature disappears when it drops to 0 HP or when the spell ends.</p><p>The summoned creatures are friendly to you and your companions. The summoned creatures act on your initiative, taking their turns immediately after yours. They obey any verbal commands you give them (no action required by you). If you don’t give any commands, they defend themselves from hostile creatures but otherwise take no actions. The GM has the creatures’ statistics.</p><p><em>At Higher Circles.</em> When you cast this spell using certain higher-circle spell slots, choose one of the summoning options above, and more creatures appear: twice as many with a 6th-circle slot and three times as many with an 8th- circle slot.</p>",
       "source": {},
-      "short": "Call Fey to help."
+      "short": "Позвоните Фей, чтобы она помогла."
     },
     "source": [
       "primordial"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a holly berry for each creature summoned"
+        "description": "ягода падуба за каждое призванное существо"
       }
     },
     "duration": {
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720285279332,

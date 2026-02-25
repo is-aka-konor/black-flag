@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Shield of Faith",
+  "name": "Щит Веры",
   "type": "spell",
   "_id": "zqls78yW5JLJWzSN",
   "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>",
       "source": {},
-      "short": "Creature gets +2 AC."
+      "short": "Существо получает +2 AC."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small parchment with a bit of holy text written on it",
+        "description": "небольшой пергамент с написанным на нем священным текстом",
         "denomination": "pp",
         "consumed": false
       }
@@ -100,9 +100,9 @@
   },
   "effects": [
     {
-      "name": "Shield of Faith",
+      "name": "Щит Веры",
       "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
-      "origin": "Compendium.black-flag.spells.Item.zqls78yW5JLJWzSN",
+      "origin": "Compendium.black-flag-ru.spells.Item.zqls78yW5JLJWzSN",
       "transfer": false,
       "_id": "xXzRhx3r7mHEkblB",
       "type": "base",
@@ -125,7 +125,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>A shimmering field appears and you, granting you a +2 bonus to AC for the duration.</p>",
+      "description": "<p>Мерцающее поле появляется и вы, предоставляя вам бонус +2 к AC на время действия.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -134,7 +134,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723437146572,
         "modifiedTime": 1741736151530,
@@ -150,7 +150,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935460334,

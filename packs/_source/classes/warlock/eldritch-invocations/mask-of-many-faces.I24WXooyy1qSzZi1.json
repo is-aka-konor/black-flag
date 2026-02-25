@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Mask of Many Faces",
+  "name": "Многоликая маска",
   "type": "feature",
   "_id": "I24WXooyy1qSzZi1",
   "img": "icons/creatures/magical/spirit-poison-smoke-green.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376790085,

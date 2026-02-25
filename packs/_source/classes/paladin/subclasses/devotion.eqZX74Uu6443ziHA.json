@@ -1,6 +1,6 @@
 {
   "folder": "ZtkqlpZCCbdxajYy",
-  "name": "Devotion",
+  "name": "Преданность",
   "type": "subclass",
   "_id": "eqZX74Uu6443ziHA",
   "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
@@ -16,10 +16,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.m1BUPaUA38ZxC5mz"
+              "uuid": "Compendium.black-flag-ru.classes.Item.m1BUPaUA38ZxC5mz"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.6jl5wmGohVgRe5qS"
+              "uuid": "Compendium.black-flag-ru.classes.Item.6jl5wmGohVgRe5qS"
             }
           ]
         },
@@ -35,7 +35,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.R365OGVCH7cvXdK3"
+              "uuid": "Compendium.black-flag-ru.classes.Item.R365OGVCH7cvXdK3"
             }
           ]
         },
@@ -51,7 +51,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.LHeDY9c0lTYsTO4s"
+              "uuid": "Compendium.black-flag-ru.classes.Item.LHeDY9c0lTYsTO4s"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.WYMngWOKX4SeJPp3"
+              "uuid": "Compendium.black-flag-ru.classes.Item.WYMngWOKX4SeJPp3"
             }
           ]
         },
@@ -77,8 +77,8 @@
     "description": {
       "value": "<p>Swearing an oath of Devotion binds a paladin to the principles of duty, honor, justice, and order. These paladins define themselves as holy warriors or knights, pledged to further a righteous cause to which they devote themselves. They typically hold angels, resplendent servants of good, in high regard, often adorning their armor, shield, or weapon with their iconography.</p><h5>Tenents of Devotion</h5><p>Though the exact words and strictures of the oath of Devotion vary, its paladins share these tenets.</p><p><strong>Compassion.</strong> Protect the weak, aid the helpless, and show mercy to your enemies whenever you are able.</p><p><strong>Courage.</strong> Though caution is wise, never fear to act.</p><p><strong>Duty.</strong> Do always as you have sworn to do. Obey those who have authority over you.</p><p><strong>Honesty.</strong> Never tell a lie when the truth will suffice. Your word is your sacred promise.</p><p><strong>Honor.</strong> Treat others with fairness. Let your deeds prove your character.</p>",
       "source": {},
-      "short": "Swearing an oath of Devotion binds a paladin to the principles of duty, honor, justice, and order. These paladins define themselves as holy warriors or knights, pledged to further a righteous cause to which they devote themselves. They typically hold angels, resplendent servants of good, in high regard, often adorning their armor, shield, or weapon with their iconography.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.1ThDixaio09QFYxp"
+      "short": "Принесение клятвы Преданности связывает паладина с принципами долга, чести, справедливости и порядка. Эти паладины называют себя святыми воинами или рыцарями, поклявшимися продвигать праведное дело, которому они посвятили себя. Они обычно высоко ценят ангелов, блестящих служителей добра, часто украшая свои доспехи, щиты или оружие своей иконографией.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.1ThDixaio09QFYxp"
     },
     "identifier": {
       "value": "devotion",
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718403532117,

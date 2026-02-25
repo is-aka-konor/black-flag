@@ -27,10 +27,10 @@ export default class ConceptSelectionDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		class: {
-			template: "systems/black-flag/templates/actor/concept-selection-dialog-class.hbs"
+			template: "systems/black-flag-ru/templates/actor/concept-selection-dialog-class.hbs"
 		},
 		other: {
-			template: "systems/black-flag/templates/actor/concept-selection-dialog-other.hbs"
+			template: "systems/black-flag-ru/templates/actor/concept-selection-dialog-other.hbs"
 		}
 	};
 

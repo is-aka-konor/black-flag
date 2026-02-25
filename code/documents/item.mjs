@@ -449,7 +449,7 @@ export default class BlackFlagItem extends DocumentMixin(Item) {
 				data: {
 					style: CONST.CHAT_MESSAGE_STYLES.OTHER,
 					content: await foundry.applications.handlebars.renderTemplate(
-						"systems/black-flag/templates/chat/item-card.hbs",
+						"systems/black-flag-ru/templates/chat/item-card.hbs",
 						context
 					),
 					speaker: ChatMessage.getSpeaker({ actor: this.actor }),

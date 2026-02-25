@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Earth Elemental",
+  "name": "Элементаль земли",
   "type": "npc",
   "_id": "AbtSnvjVHTDzZciV",
-  "img": "systems/black-flag/artwork/tokens/elemental-earth.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/elemental-earth.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Earth Elemental",
+    "name": "Элементаль земли",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/elemental-earth.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/elemental-earth.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -296,7 +296,7 @@
           "value": null
         }
       },
-      "name": "Earth Glide",
+      "name": "Земное скольжение",
       "type": "feature",
       "_id": "lAa8z6CmOzkwAK74",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
@@ -316,7 +316,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -364,7 +364,7 @@
           "value": null
         }
       },
-      "name": "Earthen Camouflage",
+      "name": "Земляной камуфляж",
       "type": "feature",
       "_id": "AJIhJzJBcA7TOm61",
       "img": "icons/magic/earth/construct-stone.webp",
@@ -384,7 +384,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -394,7 +394,7 @@
       "_key": "!actors.items!AbtSnvjVHTDzZciV.AJIhJzJBcA7TOm61"
     },
     {
-      "name": "Elemental Nature",
+      "name": "Элементальная природа",
       "type": "feature",
       "_id": "8k0T0EDE777yZZ9X",
       "img": "icons/creatures/magical/spirit-fire-yellow.webp",
@@ -446,7 +446,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.CuDrKHlcxRjOVQBl",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -460,7 +460,7 @@
       "_key": "!actors.items!AbtSnvjVHTDzZciV.8k0T0EDE777yZZ9X"
     },
     {
-      "name": "Elemental Resilience",
+      "name": "Элементальная устойчивость",
       "type": "feature",
       "_id": "q5EmhWncWmlLSIZm",
       "img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
@@ -503,7 +503,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.VKad18HEnCZvMvYo",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.VKad18HEnCZvMvYo",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -514,7 +514,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Elemental Resilience",
+          "name": "Элементальная устойчивость",
           "_id": "MLyzN1UQtBKetE48",
           "changes": [
             {
@@ -605,7 +605,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -631,7 +631,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.s5HXXs2eFNJymwkb",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -683,7 +683,7 @@
           "value": null
         }
       },
-      "name": "Siege Monster",
+      "name": "Осадный монстр",
       "type": "feature",
       "_id": "VaMwDVAKvxncJUWw",
       "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
@@ -699,7 +699,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1bhmj4jAaoUkOqbQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -713,7 +713,7 @@
       "_key": "!actors.items!AbtSnvjVHTDzZciV.VaMwDVAKvxncJUWw"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "pqvIJgupR1iWcn00",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -780,7 +780,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -794,7 +794,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental makes three Slam attacks, or it makes two Lob Stone attacks. If two Slam or Lob Stone attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The elemental makes three Slam attacks, or it makes two Lob Stone attacks. If two Slam or Lob Stone attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -833,7 +833,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -933,7 +933,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -997,7 +997,7 @@
         },
         "rarity": ""
       },
-      "name": "Lob Stone",
+      "name": "Лоб Стоун",
       "type": "weapon",
       "_id": "yCrAjn2d4b07cVQF",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -1017,7 +1017,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755118037,
@@ -1104,7 +1104,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -1124,7 +1124,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1150,7 +1150,7 @@
           "value": null
         }
       },
-      "name": "Earth Tremor",
+      "name": "Земной тремор",
       "type": "feature",
       "_id": "8XS5zB4izK5vWDjF",
       "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
@@ -1170,7 +1170,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1180,7 +1180,7 @@
       "_key": "!actors.items!AbtSnvjVHTDzZciV.8XS5zB4izK5vWDjF"
     },
     {
-      "name": "Slam",
+      "name": "Хлопок",
       "type": "weapon",
       "_id": "hCAZa5raUNSHfA79",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1230,7 +1230,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1343,7 +1343,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928219,
         "modifiedTime": 1756755092111,
@@ -1361,7 +1361,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

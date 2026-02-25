@@ -1,5 +1,5 @@
 {
-  "name": "Fungal Toxicity",
+  "name": "Грибковая токсичность",
   "type": "feature",
   "_id": "NRN4uNF5u1HhHRJb",
   "img": "icons/magic/nature/mushroom-glow-red.webp",
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1711915094669,

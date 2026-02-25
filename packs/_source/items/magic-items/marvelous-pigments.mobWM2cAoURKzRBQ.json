@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Marvelous Pigments",
+  "name": "Чудесные пигменты",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -87,7 +87,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Use Pigments",
+        "name": "Используйте пигменты",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -131,7 +131,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986762233,
     "modifiedTime": 1756334411417,

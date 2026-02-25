@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of the Woodlands",
+  "name": "Посох Лесных Земель",
   "type": "weapon",
   "_id": "zBuYA4vMWtfzZ70l",
   "img": "icons/weapons/staves/staff-nature-spiral.webp",
@@ -65,7 +65,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.F1s8TRosgOUvR4iv",
+            "uuid": "Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv",
             "challenge": {
               "attack": null,
               "save": null,
@@ -143,7 +143,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.GBrUc9jRlY5C0V46",
+            "uuid": "Compendium.black-flag-ru.spells.Item.GBrUc9jRlY5C0V46",
             "challenge": {
               "attack": null,
               "save": null,
@@ -221,7 +221,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.SdIMnQDBbxLsMocU",
+            "uuid": "Compendium.black-flag-ru.spells.Item.SdIMnQDBbxLsMocU",
             "challenge": {
               "attack": null,
               "save": null,
@@ -299,7 +299,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VEYRZOPPA3yH6AeK",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK",
             "challenge": {
               "attack": null,
               "save": null,
@@ -377,7 +377,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.HY9kiXpgSNSWwG4w",
+            "uuid": "Compendium.black-flag-ru.spells.Item.HY9kiXpgSNSWwG4w",
             "challenge": {
               "attack": null,
               "save": null,
@@ -455,7 +455,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.XGuKqLPyauHx0WyS",
+            "uuid": "Compendium.black-flag-ru.spells.Item.XGuKqLPyauHx0WyS",
             "challenge": {
               "attack": null,
               "save": null,
@@ -533,7 +533,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.PJhD4Dztf5Vsp1h5",
+            "uuid": "Compendium.black-flag-ru.spells.Item.PJhD4Dztf5Vsp1h5",
             "challenge": {
               "attack": null,
               "save": null,
@@ -655,7 +655,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Tree Form",
+        "name": "Форма дерева",
         "img": "",
         "visibility": {
           "requireIdentification": true,
@@ -681,7 +681,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While carrying it, you have a +2 bonus to spell attack rolls.</p><p>The staff has 10 charges. The staff has the following additional properties:</p><p><em><strong>Spells.</strong></em> You can use an action to expend 1 or more of the staff ’s charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag.spells.Item.F1s8TRosgOUvR4iv]{animal friendship}</em> (1 charge), <em>@UUID[Compendium.black-flag.spells.Item.GBrUc9jRlY5C0V46]{awaken}</em> (5 charges), <em>@UUID[Compendium.black-flag.spells.Item.SdIMnQDBbxLsMocU]{barkskin}</em> (2 charges), <em>wildsense</em> (2 charges), <em>@UUID[Compendium.black-flag.spells.Item.VEYRZOPPA3yH6AeK]{speak with animals}</em> (1 charge), <em>@UUID[Compendium.black-flag.spells.Item.HY9kiXpgSNSWwG4w]{speak with plants}</em> (3 charges), or <em>@UUID[Compendium.black-flag.spells.Item.XGuKqLPyauHx0WyS]{wall of thorns}</em> (6 charges).</p><p>You can also use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.PJhD4Dztf5Vsp1h5]{pass without trace}</em> spell from the staff without expending any charges.</p><p><em><strong>Tree Form.</strong></em> You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20‑foot radius.</p><p>The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by <em>detect magic</em>. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.</p>",
+      "value": "<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While carrying it, you have a +2 bonus to spell attack rolls.</p><p>The staff has 10 charges. The staff has the following additional properties:</p><p><em><strong>Spells.</strong></em> You can use an action to expend 1 or more of the staff ’s charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{animal friendship}</em> (1 charge), <em>@UUID[Compendium.black-flag-ru.spells.Item.GBrUc9jRlY5C0V46]{awaken}</em> (5 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.SdIMnQDBbxLsMocU]{barkskin}</em> (2 charges), <em>wildsense</em> (2 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK]{speak with animals}</em> (1 charge), <em>@UUID[Compendium.black-flag-ru.spells.Item.HY9kiXpgSNSWwG4w]{speak with plants}</em> (3 charges), or <em>@UUID[Compendium.black-flag-ru.spells.Item.XGuKqLPyauHx0WyS]{wall of thorns}</em> (6 charges).</p><p>You can also use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.PJhD4Dztf5Vsp1h5]{pass without trace}</em> spell from the staff without expending any charges.</p><p><em><strong>Tree Form.</strong></em> You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20‑foot radius.</p><p>The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by <em>detect magic</em>. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -728,7 +728,7 @@
     "rarity": "rare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Druid"
+      "requirement": "от друида"
     },
     "container": null,
     "magicalBonus": 2
@@ -736,8 +736,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "The Woodlands",
-      "origin": "Compendium.black-flag.items.Item.zBuYA4vMWtfzZ70l",
+      "name": "Вудлендс",
+      "origin": "Compendium.black-flag-ru.items.Item.zBuYA4vMWtfzZ70l",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -771,7 +771,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730073274892,
         "modifiedTime": 1756332592867,
@@ -789,7 +789,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590743742,
     "modifiedTime": 1756332617912,

@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Lay on Hands",
+  "name": "Возложение рук",
   "type": "feature",
   "_id": "YluACRMApSz4ANoS",
   "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -74,7 +74,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Heal Another",
+        "name": "Исцели другого",
         "img": ""
       },
       "fabXqnkYcJ46wmtT": {
@@ -144,7 +144,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Heal Self",
+        "name": "Исцелить себя",
         "img": "",
         "_id": "fabXqnkYcJ46wmtT"
       },
@@ -207,7 +207,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Cure Disease or Neutralize Poison",
+        "name": "Вылечить болезнь или нейтрализовать яд",
         "img": ""
       }
     },
@@ -254,7 +254,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718399639980,

@@ -1,6 +1,6 @@
 {
   "folder": "ljc34ps9wz9LJGuf",
-  "name": "Turn the Tide",
+  "name": "Повернуть ситуацию",
   "type": "feature",
   "_id": "IX8Sm9HNt3nbRYzx",
   "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
@@ -33,7 +33,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Extra Damage",
+        "name": "Дополнительный урон",
         "img": ""
       }
     },
@@ -75,7 +75,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715720907,

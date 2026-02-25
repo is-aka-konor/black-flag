@@ -15,13 +15,13 @@ export default class ResistanceConfig extends BaseConfigSheet {
 	/** @override */
 	static PARTS = {
 		damageAll: {
-			template: "systems/black-flag/templates/actor/config/resistance-entries.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/resistance-entries.hbs"
 		},
 		damageNonmagical: {
-			template: "systems/black-flag/templates/actor/config/resistance-entries.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/resistance-entries.hbs"
 		},
 		conditions: {
-			template: "systems/black-flag/templates/actor/config/resistance-entries.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/resistance-entries.hbs"
 		}
 	};
 

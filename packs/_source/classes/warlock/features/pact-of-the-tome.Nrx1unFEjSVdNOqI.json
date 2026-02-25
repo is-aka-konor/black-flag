@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Pact of the Tome",
+  "name": "Пакт Тома",
   "type": "feature",
   "_id": "Nrx1unFEjSVdNOqI",
   "img": "icons/sundries/books/book-symbol-spiral-silver-blue.webp",
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719375791254,

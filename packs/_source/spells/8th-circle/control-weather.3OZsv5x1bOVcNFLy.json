@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Control Weather",
+  "name": "Управлять погодой",
   "type": "spell",
   "_id": "3OZsv5x1bOVcNFLy",
   "img": "icons/magic/air/wind-weather-snow-gusts.webp",
@@ -51,9 +51,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.</p><p>When you cast the spell, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes [[/r 1d4 * 10]]{1d4 × 10} minutes for the new conditions to take effect.</p><p>Once they do, you can change the conditions again. When the spell ends, the weather gradually returns to normal.</p><p>When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.BEwnWaORKPEMlbJZ inline]</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.ipqe4c76scixt2QC inline]</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.NCXAFgGW8N97p5TT inline]</p>",
+      "value": "<p>You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.</p><p>When you cast the spell, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes [[/r 1d4 * 10]]{1d4 × 10} minutes for the new conditions to take effect.</p><p>Once they do, you can change the conditions again. When the spell ends, the weather gradually returns to normal.</p><p>When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.BEwnWaORKPEMlbJZ inline]</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.ipqe4c76scixt2QC inline]</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.NCXAFgGW8N97p5TT inline]</p>",
       "source": {},
-      "short": "Change weather within 5 miles."
+      "short": "Изменение погоды в радиусе 5 миль."
     },
     "source": [
       "divine",
@@ -78,7 +78,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "burning incense and bits of earth and wood mixed in water"
+        "description": "горящие благовония и кусочки земли и дерева, смешанные с водой"
       }
     },
     "duration": {
@@ -117,7 +117,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1720288327498,

@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Soldier",
+  "name": "Солдат",
   "type": "background",
   "img": "icons/environment/people/infantry-army.webp",
   "system": {
@@ -85,13 +85,13 @@
           "allowDrops": false,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.talents.Item.r8ZTz5fXwJEdjv6E"
+              "uuid": "Compendium.black-flag-ru.talents.Item.r8ZTz5fXwJEdjv6E"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.bh77YhJPYJorKvXA"
+              "uuid": "Compendium.black-flag-ru.talents.Item.bh77YhJPYJorKvXA"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.DRjPTISlkqhp4zoT"
+              "uuid": "Compendium.black-flag-ru.talents.Item.DRjPTISlkqhp4zoT"
             }
           ]
         },
@@ -106,7 +106,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.backgrounds.Item.bw5sVLkKZlpnlhop",
+              "key": "Compendium.black-flag-ru.backgrounds.Item.bw5sVLkKZlpnlhop",
               "requiresProficiency": false,
               "_id": "kVPiHS5XifHATa7I",
               "group": "",
@@ -115,7 +115,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.grk6tvBlUUfrlMkP",
+              "key": "Compendium.black-flag-ru.items.Item.grk6tvBlUUfrlMkP",
               "requiresProficiency": false,
               "_id": "0uBiOxBjTXHsyMdU",
               "group": "",
@@ -131,7 +131,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.Q7MSeHGCKue2HJha",
+              "key": "Compendium.black-flag-ru.items.Item.Q7MSeHGCKue2HJha",
               "requiresProficiency": false,
               "_id": "AVQKdPtwAlfHWTtB",
               "group": "4dOq72HIcTgXga9w",
@@ -140,7 +140,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.BI9JyierXbSWY3ra",
+              "key": "Compendium.black-flag-ru.items.Item.BI9JyierXbSWY3ra",
               "requiresProficiency": false,
               "_id": "A4aOI89HndsYRzCg",
               "group": "4dOq72HIcTgXga9w",
@@ -149,7 +149,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.5AfLmOnVqJHTuZMP",
+              "key": "Compendium.black-flag-ru.items.Item.5AfLmOnVqJHTuZMP",
               "requiresProficiency": false,
               "_id": "i52A3OIaKVm0yl9K",
               "group": "",
@@ -158,7 +158,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.SttZ2VQd3PLoBTnt",
+              "key": "Compendium.black-flag-ru.items.Item.SttZ2VQd3PLoBTnt",
               "requiresProficiency": false,
               "_id": "DAciWV7p4inWRJfk",
               "group": "",
@@ -167,7 +167,7 @@
             {
               "type": "linked",
               "count": 10,
-              "key": "Compendium.black-flag.currencies.Item.eWMYzM5UVZUDIqtg",
+              "key": "Compendium.black-flag-ru.currencies.Item.eWMYzM5UVZUDIqtg",
               "requiresProficiency": false,
               "_id": "JK0ksQSM7RULtHij",
               "group": "",
@@ -189,7 +189,7 @@
       "short": "",
       "source": "Player's Guide",
       "value": "<p>@Embed[.Advancement.LU90CIyYZNPt2LMv inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.q8kgh3KDjxCpXcH5 inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.zDKJ2aoVzMQ2mlu1 inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.zyeIe2LttZsNCm3U inline list=false]</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
     },
     "identifier": {
       "value": "soldier"
@@ -201,7 +201,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1694990678249,

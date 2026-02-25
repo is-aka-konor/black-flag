@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Glibness",
+  "name": "Бойкость",
   "type": "spell",
   "_id": "41ZrbBuwqsxQ2eR2",
   "img": "icons/magic/control/fear-fright-monster-purple-blue.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>Until the spell ends, when you make a CHA ability check or save, you can replace the number you roll with a 15. In addition, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.</p>",
       "source": {},
-      "short": "Your CHA check, save roll is 15."
+      "short": "Ваша проверка CHA, спасбросок равен 15."
     },
     "source": [
       "arcane",
@@ -122,7 +122,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.41ZrbBuwqsxQ2eR2",
+      "origin": "Compendium.black-flag-ru.spells.Item.41ZrbBuwqsxQ2eR2",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -133,7 +133,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Glibness",
+      "name": "Бойкость",
       "img": "icons/magic/control/fear-fright-monster-purple-blue.webp",
       "_id": "4KLy854QcvLlmoIq",
       "type": "base",
@@ -146,7 +146,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Until the spell ends, when you make a CHA ability check or save, you can replace the number you roll with a 15. In addition, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.</p>",
+      "description": "<p>Пока заклинание не завершится, когда вы примените проверку или спасбросок способностей CHA, вы можете заменить выпавшее число на 15. Кроме того, независимо от того, что вы говорите, магия, которая определяет, говорит ли вы правду, указывает на то, что вы говорите правду.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -156,7 +156,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.040",
         "createdTime": 1721967335121,
         "modifiedTime": 1721967426554,
@@ -174,7 +174,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721967208310,
     "modifiedTime": 1723780738818,

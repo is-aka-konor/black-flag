@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Battleaxe",
+  "name": "Боевой топор",
   "type": "weapon",
   "_id": "bDVnEZSy0tcZg0js",
   "img": "icons/weapons/axes/axe-double-chopping-black.webp",
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024930950,

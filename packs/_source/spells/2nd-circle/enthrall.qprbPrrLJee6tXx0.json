@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Enthrall",
+  "name": "порабощать",
   "type": "spell",
   "_id": "qprbPrrLJee6tXx0",
   "img": "icons/magic/control/fear-fright-jackolantern-yellow.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a [[/save wisdom]] save. Any creature that can’t be charmed succeeds on this save automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on WIS (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.</p>",
       "source": {},
-      "short": "Group sees, hears only you."
+      "short": "Группа видит, слышит только вас."
     },
     "source": [
       "wyrd"
@@ -126,9 +126,9 @@
   },
   "effects": [
     {
-      "name": "Enthrall",
+      "name": "порабощать",
       "img": "icons/magic/control/fear-fright-jackolantern-yellow.webp",
-      "origin": "Compendium.black-flag.spells.Item.qprbPrrLJee6tXx0",
+      "origin": "Compendium.black-flag-ru.spells.Item.qprbPrrLJee6tXx0",
       "transfer": false,
       "_id": "DOU2dJoGvUDcIeVV",
       "type": "base",
@@ -144,7 +144,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have disadvantage on WIS (Perception) checks made to perceive any creature other than the caster until the spell ends or until you can no longer hear them.</p>",
+      "description": "<p>Вы совершаете с помехой проверки МУД (Восприятие), направленные на восприятие любого существа, кроме заклинателя, до тех пор, пока заклинание не закончится или пока вы больше не сможете их слышать.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -153,7 +153,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723697940200,
         "modifiedTime": 1723697961399,
@@ -171,7 +171,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721357386728,
     "modifiedTime": 1723697940234,

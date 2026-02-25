@@ -1,6 +1,6 @@
 {
   "folder": "Y8UQ7n2ei8CgBzr3",
-  "name": "Bedroll",
+  "name": "Спальное место",
   "type": "gear",
   "img": "icons/sundries/survival/bedroll-grey.webp",
   "system": {
@@ -37,7 +37,7 @@
   "effects": [],
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362847817,

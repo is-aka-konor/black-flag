@@ -14,10 +14,10 @@ export default class KeyAbilityConfig extends AdvancementConfig {
 
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		keyAbility: {
-			template: "systems/black-flag/templates/advancement/key-ability-config.hbs"
+			template: "systems/black-flag-ru/templates/advancement/key-ability-config.hbs"
 		}
 	};
 

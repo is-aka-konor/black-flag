@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Octopus",
+  "name": "Гигантский осьминог",
   "type": "npc",
   "_id": "vlB6jIBlQqXBM2QF",
-  "img": "systems/black-flag/artwork/tokens/octopus.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/octopus.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,7 +149,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Octopus",
+    "name": "Гигантский осьминог",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -157,7 +157,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/octopus.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/octopus.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -282,7 +282,7 @@
           "value": null
         }
       },
-      "name": "Hold Breath",
+      "name": "Задержать дыхание",
       "type": "feature",
       "_id": "XsdJtAjng5pnkBfF",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -298,7 +298,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.aghkHGPciEFs7PuF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -350,7 +350,7 @@
           "value": null
         }
       },
-      "name": "Underwater Camouflage",
+      "name": "Подводный камуфляж",
       "type": "feature",
       "_id": "BJx5GUbdVMyfKjms",
       "img": "icons/magic/nature/plant-undersea-glow-green.webp",
@@ -366,7 +366,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.EVMIs7zKwP4az0rq",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -418,7 +418,7 @@
           "value": null
         }
       },
-      "name": "Water Breathing",
+      "name": "Водное дыхание",
       "type": "feature",
       "_id": "8r9SJkJnXFp9INTZ",
       "img": "icons/creatures/fish/squid-kraken-teal.webp",
@@ -438,7 +438,7 @@
         "compendiumSource": "Actor.IJdyJCqfn6aI505u.Item.NY8jhTwQQoXnviWg",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -516,7 +516,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -562,7 +562,7 @@
           "value": null
         }
       },
-      "name": "Ink Dash",
+      "name": "Чернила Дэш",
       "type": "feature",
       "_id": "AowZFe17aQNPtmC2",
       "img": "icons/magic/water/orb-water-bubbles-blue.webp",
@@ -582,7 +582,7 @@
         "compendiumSource": "Actor.IJdyJCqfn6aI505u.Item.w79JZ2RtYsLxnRli",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -675,7 +675,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -715,7 +715,7 @@
           "value": null
         }
       },
-      "name": "Tentacle Slam",
+      "name": "Удар щупальцами",
       "type": "feature",
       "_id": "QlG9ZpISK6qQrOYc",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -735,7 +735,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -745,7 +745,7 @@
       "_key": "!actors.items!vlB6jIBlQqXBM2QF.QlG9ZpISK6qQrOYc"
     },
     {
-      "name": "Tentacles",
+      "name": "Щупальца",
       "type": "weapon",
       "_id": "vRXUJpXUF4pIa3Rd",
       "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -795,7 +795,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -841,7 +841,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 13), if it is a Huge or smaller creature. Until this grapple ends, the target is &amp;Reference[restrained]{restrained}. The octopus can grapple up to two creatures at one time.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 13), if it is a Huge or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}. The octopus can grapple up to two creatures at one time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -908,7 +908,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935830,
         "modifiedTime": 1756750240834,
@@ -926,7 +926,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

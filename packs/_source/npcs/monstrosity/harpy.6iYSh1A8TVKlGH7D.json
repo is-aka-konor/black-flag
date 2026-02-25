@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Harpy",
+  "name": "Гарпия",
   "type": "npc",
   "_id": "6iYSh1A8TVKlGH7D",
-  "img": "systems/black-flag/artwork/tokens/harpy.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/harpy.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -152,13 +152,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Harpy",
+    "name": "Гарпия",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/harpy.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/harpy.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -247,7 +247,7 @@
   },
   "items": [
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "ABZwqp5nucX5uMTD",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -284,7 +284,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -295,7 +295,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -347,20 +347,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1706473622104,
         "modifiedTime": 1711908451908,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!6iYSh1A8TVKlGH7D.ABZwqp5nucX5uMTD"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "6YPKWUnx1rAhUokX",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -459,20 +459,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711908655765,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!6iYSh1A8TVKlGH7D.6YPKWUnx1rAhUokX"
     },
     {
-      "name": "Luring Song",
+      "name": "Заманчивая песня",
       "type": "feature",
       "system": {
         "type": {
@@ -584,7 +584,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711908695588,
@@ -597,7 +597,7 @@
       "_key": "!actors.items!6iYSh1A8TVKlGH7D.pWvQ6YIxnNrizlmg"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "3OstrSMbKPDS8Y5J",
       "img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
@@ -751,11 +751,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2hYUlglK9czNmHNx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2hYUlglK9czNmHNx",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927593,
         "modifiedTime": 1756759821800,
@@ -764,7 +764,7 @@
       "_key": "!actors.items!6iYSh1A8TVKlGH7D.3OstrSMbKPDS8Y5J"
     },
     {
-      "name": "Screech",
+      "name": "Визг",
       "type": "weapon",
       "system": {
         "type": {
@@ -922,7 +922,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927593,
         "modifiedTime": 1756759826126,
@@ -938,7 +938,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709672004001,

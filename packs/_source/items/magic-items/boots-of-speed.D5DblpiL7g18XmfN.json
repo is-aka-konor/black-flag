@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of Speed",
+  "name": "Сапоги скорости",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -80,7 +80,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Click Heels",
+        "name": "Нажмите Каблуки",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -113,7 +113,7 @@
   "img": "icons/equipment/feet/boots-armored-steel-purple.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.D5DblpiL7g18XmfN",
+      "origin": "Compendium.black-flag-ru.items.Item.D5DblpiL7g18XmfN",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -124,7 +124,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Enhanced Speed",
+      "name": "Повышенная скорость",
       "img": "icons/equipment/feet/boots-armored-steel-purple.webp",
       "_id": "0tvUSSUhK8vLkt6X",
       "type": "base",
@@ -139,7 +139,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your walking speed is doubled and any creature that makes an opportunity attack against you has disadvantage on the attack roll.</p>",
+      "description": "<p>Ваша скорость потока удваивается, и любое Существо, совершающее против вас провоцированную атаку, получает удары при броске атаки.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901723828,
         "modifiedTime": 1756335086668,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983477912,
     "modifiedTime": 1756335077830,

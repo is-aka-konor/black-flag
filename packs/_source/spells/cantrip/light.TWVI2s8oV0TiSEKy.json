@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Light",
+  "name": "Свет",
   "type": "spell",
   "_id": "TWVI2s8oV0TiSEKy",
   "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p><p>If you target an object held or worn by a hostile creature, that creature must succeed on a [[/save DEX dc=@spellcasting.dc]] save to avoid the spell.</p>",
       "source": {},
-      "short": "Object emits bright light."
+      "short": "Объект излучает яркий свет."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a firefly or phosphorescent moss",
+        "description": "светлячок или фосфоресцирующий мох",
         "denomination": "pp",
         "consumed": false
       }
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934344025,

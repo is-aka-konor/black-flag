@@ -13,7 +13,7 @@ export default class SizeAdvancement extends Advancement {
 					value: SizeValueData
 				},
 				order: 10,
-				icon: "systems/black-flag/artwork/advancement/size.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/size.svg",
 				title: "BF.Advancement.Size.Title",
 				hint: "BF.Advancement.Size.Hint",
 				configurableHint: true,

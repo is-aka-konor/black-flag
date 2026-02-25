@@ -1,5 +1,5 @@
 {
-  "name": "Abacus",
+  "name": "Счеты",
   "type": "gear",
   "_id": "odWBGuEtEhU6pM7k",
   "img": "icons/commodities/wood/framing-reinforced-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717531769188,

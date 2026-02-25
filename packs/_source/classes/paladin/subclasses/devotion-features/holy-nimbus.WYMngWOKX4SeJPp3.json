@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Holy Nimbus",
+  "name": "Святой Нимб",
   "type": "feature",
   "_id": "WYMngWOKX4SeJPp3",
   "img": "icons/magic/light/explosion-star-large-teal.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Emanate Light",
+        "name": "излучать свет",
         "img": ""
       }
     },
@@ -101,7 +101,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718403921405,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Mantle of Spell Resistance",
+  "name": "Мантия сопротивления заклинаниям",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Spell Resistance",
-      "origin": "Compendium.black-flag.items.Item.WrCEfzmrBGdU04M8",
+      "name": "Сопротивление заклинаниям",
+      "origin": "Compendium.black-flag-ru.items.Item.WrCEfzmrBGdU04M8",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729531951568,
         "modifiedTime": 1756334391292,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724986362036,
     "modifiedTime": 1729531907660,

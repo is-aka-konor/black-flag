@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Water Walk",
+  "name": "Водная прогулка",
   "type": "spell",
   "_id": "saVflOr3xsvwHSX4",
   "img": "icons/magic/water/water-iceberg-bubbles.webp",
@@ -61,7 +61,7 @@
     "description": {
       "value": "<p>This spell grants the ability to move across any liquid surface—water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.</p><p>If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.</p>",
       "source": {},
-      "short": "Allies can walk on liquids."
+      "short": "Союзники могут ходить по жидкостям."
     },
     "casting": {
       "value": 10,
@@ -82,7 +82,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a piece of cork"
+        "description": "кусок пробки"
       }
     },
     "duration": {
@@ -118,9 +118,9 @@
   },
   "effects": [
     {
-      "name": "Water Walk",
+      "name": "Водная прогулка",
       "img": "icons/magic/water/water-iceberg-bubbles.webp",
-      "origin": "Compendium.black-flag.spells.Item.saVflOr3xsvwHSX4",
+      "origin": "Compendium.black-flag-ru.spells.Item.saVflOr3xsvwHSX4",
       "transfer": false,
       "_id": "L3poaOx692IKs76M",
       "type": "base",
@@ -136,7 +136,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have the ability to move across any liquid surface—water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat).</p><p>If you are submerged in a liquid, the spell carries you to the surface of the liquid at a rate of 60 feet per round.</p>",
+      "description": "<p>У вас есть способность перемещаться по любой жидкой поверхности — воде, кислоте, грязи, снегу, зыбучем песку или лаве — как если бы это была безвредная твердая земля (существа, пересекающие расплавленную лаву, все равно могут получить урон от жары).</p><p>Если вы погружены в жидкость, заклинание переносит вас на поверхность жидкости со скоростью 60 футов за раунд.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -145,7 +145,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723575704808,
         "modifiedTime": 1723575768698,
@@ -163,7 +163,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527539102,
     "modifiedTime": 1723575704848,

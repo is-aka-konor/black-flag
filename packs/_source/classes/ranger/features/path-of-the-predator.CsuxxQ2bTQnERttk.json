@@ -1,6 +1,6 @@
 {
   "folder": "JjE8PredgikSEDdj",
-  "name": "Path of the Predator",
+  "name": "Путь Хищника",
   "type": "feature",
   "_id": "CsuxxQ2bTQnERttk",
   "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
@@ -93,7 +93,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Shift Mark",
+        "name": "Метка смещения",
         "img": ""
       }
     },
@@ -135,7 +135,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718408254007,

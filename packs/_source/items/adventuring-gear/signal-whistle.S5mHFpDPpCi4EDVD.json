@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Signal Whistle",
+  "name": "Сигнальный свисток",
   "type": "gear",
   "_id": "S5mHFpDPpCi4EDVD",
   "img": "icons/tools/instruments/pipe-flute-yellow.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363611272,

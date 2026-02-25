@@ -1,6 +1,6 @@
 {
   "folder": "JjE8PredgikSEDdj",
-  "name": "Keensense",
+  "name": "Кинсенс",
   "type": "feature",
   "_id": "xtoebXoxtG9S4Ei6",
   "img": "icons/magic/nature/plant-bamboo-green.webp",
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718408313259,

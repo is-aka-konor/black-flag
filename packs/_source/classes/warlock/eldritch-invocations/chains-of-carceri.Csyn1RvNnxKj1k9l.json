@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Chains of Carceri",
+  "name": "Цепи Карцери",
   "type": "feature",
   "_id": "Csyn1RvNnxKj1k9l",
   "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376516598,

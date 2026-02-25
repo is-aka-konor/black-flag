@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Cloud Giant Strength",
+  "name": "Зелье силы облачного гиганта",
   "system": {
     "type": {
       "category": "potion"
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "vijBGsjlUPuo3xUT"
       }
@@ -115,9 +115,9 @@
   "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
   "effects": [
     {
-      "name": "Cloud Giant Strength",
+      "name": "Сила облачного гиганта",
       "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.LAmCSOytcZ2ZsdGK",
+      "origin": "Compendium.black-flag-ru.items.Item.LAmCSOytcZ2ZsdGK",
       "transfer": false,
       "_id": "8gc6zHbMeBXHLYFi",
       "type": "base",
@@ -140,7 +140,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>When you drink this potion, your STR score changes to 27 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p>",
+      "description": "<p>Когда вы выберете это зелье, ваш показатель Силы изменится на 27 в 1 час. Зелье не дает никакого результата, если ваш показатель СИЛ равен этому показателю или указывает на него.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540097380,
         "modifiedTime": 1729540182434,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073610206,
     "modifiedTime": 1729541195189,

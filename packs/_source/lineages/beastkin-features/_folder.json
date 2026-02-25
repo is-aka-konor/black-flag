@@ -1,5 +1,5 @@
 {
-  "name": "Beastkin Features",
+  "name": "Особенности Зверскина",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": null,
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.5.005",
     "coreVersion": "11.315",
     "createdTime": 1701130237420,

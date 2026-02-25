@@ -1,12 +1,12 @@
 {
-  "name": "Shield",
+  "name": "Щит",
   "type": "spell",
   "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
   "system": {
     "description": {
       "value": "<p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from darts created by the <em>magic missile</em> spell.</p>",
       "source": {},
-      "short": "Repel an incoming attack."
+      "short": "Отразите приближающуюся атаку."
     },
     "type": {
       "value": "standard"
@@ -100,9 +100,9 @@
   },
   "effects": [
     {
-      "name": "Shield",
+      "name": "Щит",
       "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
-      "origin": "Compendium.black-flag.spells.Item.MibJGjLMmuyrSzUZ",
+      "origin": "Compendium.black-flag-ru.spells.Item.MibJGjLMmuyrSzUZ",
       "transfer": false,
       "_id": "EuxJSl6nqUf0YiJy",
       "type": "base",
@@ -125,7 +125,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from darts created by the <em>magic missile</em> spell.</p>",
+      "description": "<p>До начала следующего хода вы получаете бонус +5 к AC, в том числе против вызывающей атаки, и вы не наносите реальный урон от дротиков, созданных заклинанием <em>magic rocket</em>.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -134,7 +134,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723437069635,
         "modifiedTime": 1723606130274,
@@ -150,7 +150,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1699211483460,

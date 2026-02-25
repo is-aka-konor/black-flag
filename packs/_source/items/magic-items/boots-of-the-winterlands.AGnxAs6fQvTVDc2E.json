@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of the Winterlands",
+  "name": "Сапоги Зимних земель",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -41,7 +41,7 @@
   "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.AGnxAs6fQvTVDc2E",
+      "origin": "Compendium.black-flag-ru.items.Item.AGnxAs6fQvTVDc2E",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -52,7 +52,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "The Winterlands",
+      "name": "Зимние земли",
       "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
       "_id": "YgPUDOGj56PcXHnt",
       "type": "base",
@@ -79,7 +79,7 @@
           "priority": null
         }
       ],
-      "description": "<p>• You have resistance to cold damage.</p><p>• You ignore difficult terrain created by ice or snow.</p><p>• You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.</p>",
+      "description": "<p>• У вас есть устойчивость к урону от холода.</p><p>• Вы игнорируете труднопроходимую местность, созданную полем или снегом.</p><p>• Вы можете переносить температуру до -50 градусов по Фаренгейту без какой-либо дополнительной защиты. Если вы носите тяжелую одежду, вы можете переносить температуру до -100 градусов по Фаренгейту.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -89,7 +89,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901884777,
         "modifiedTime": 1756766568283,
@@ -108,7 +108,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983501348,
     "modifiedTime": 1756766534071,

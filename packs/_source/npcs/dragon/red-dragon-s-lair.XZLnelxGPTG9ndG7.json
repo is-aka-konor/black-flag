@@ -1,6 +1,6 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Red Dragon’s Lair",
+  "name": "Логово Красного Дракона",
   "type": "lair",
   "_id": "XZLnelxGPTG9ndG7",
   "img": "icons/magic/earth/lava-explosion-orange.webp",
@@ -9,13 +9,13 @@
       "value": "",
       "lairActions": "<p>On initiative count [[lookup @initiative]] (losing initiative ties), the dragon can take a lair action to cause one of the following effects; the dragon can’t use the same effect two rounds in a row:</p>",
       "regionalEffects": "<p>The region containing a red dragon’s lair is suffused with fiery chaos, which creates one or more of the following effects:</p>",
-      "conclusion": "<p>If the dragon dies, these effects fade in [[/r 1d10]] days.</p>",
+      "conclusion": "_<p>Если дракон умирает, последствия эти исчезают через _[[/r 1d10]] дней.</p>",
       "source": {}
     },
     "initiative": 20
   },
   "prototypeToken": {
-    "name": "Red Dragon’s Lair",
+    "name": "Логово Красного Дракона",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -110,7 +110,7 @@
   },
   "items": [
     {
-      "name": "Collapse",
+      "name": "Свернуть",
       "type": "feature",
       "system": {
         "type": {
@@ -218,7 +218,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526484784,
@@ -231,7 +231,7 @@
       "_key": "!actors.items!XZLnelxGPTG9ndG7.SEIBLeAk6TutvxFK"
     },
     {
-      "name": "Swirling Ash",
+      "name": "Кружащийся пепел",
       "type": "feature",
       "system": {
         "type": {
@@ -348,7 +348,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526486010,
@@ -361,7 +361,7 @@
       "_key": "!actors.items!XZLnelxGPTG9ndG7.C5sQ5Ab6jk24FEPd"
     },
     {
-      "name": "Conflagrate",
+      "name": "Поджигать",
       "type": "feature",
       "system": {
         "type": {
@@ -478,7 +478,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526486521,
@@ -491,7 +491,7 @@
       "_key": "!actors.items!XZLnelxGPTG9ndG7.bNMIQ6dCNZ1Ablil"
     },
     {
-      "name": "Acid Rain",
+      "name": "Кислотный дождь",
       "type": "feature",
       "system": {
         "type": {
@@ -542,7 +542,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526487002,
@@ -555,7 +555,7 @@
       "_key": "!actors.items!XZLnelxGPTG9ndG7.NmbLDBwUhTXKeaaS"
     },
     {
-      "name": "Incited Rage",
+      "name": "Возбуждённая ярость",
       "type": "feature",
       "system": {
         "type": {
@@ -606,7 +606,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526487489,
@@ -619,7 +619,7 @@
       "_key": "!actors.items!XZLnelxGPTG9ndG7.CGtnMGwtS4i94MKZ"
     },
     {
-      "name": "Unnatural Heat",
+      "name": "Неестественная жара",
       "type": "feature",
       "system": {
         "type": {
@@ -670,7 +670,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.032",
         "coreVersion": "13.347",
         "createdTime": 1717526488631,
@@ -690,7 +690,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717526427358,

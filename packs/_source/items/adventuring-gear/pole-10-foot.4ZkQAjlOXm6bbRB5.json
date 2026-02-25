@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Pole (10-foot)",
+  "name": "Полюс (10 футов)",
   "type": "gear",
   "_id": "4ZkQAjlOXm6bbRB5",
   "img": "icons/commodities/wood/wood-pole.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363549294,

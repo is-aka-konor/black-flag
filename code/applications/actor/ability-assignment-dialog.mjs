@@ -30,7 +30,7 @@ export default class AbilityAssignmentDialog extends BFDocumentSheet {
 	/** @override */
 	static PARTS = {
 		dialog: {
-			template: "systems/black-flag/templates/actor/ability-assignment-dialog.hbs"
+			template: "systems/black-flag-ru/templates/actor/ability-assignment-dialog.hbs"
 		}
 	};
 

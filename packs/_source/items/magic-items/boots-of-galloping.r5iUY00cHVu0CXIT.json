@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Boots of Galloping",
+  "name": "Сапоги галопа",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -71,7 +71,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Gallop",
+        "name": "Галоп",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983426523,
     "modifiedTime": 1756335058283,

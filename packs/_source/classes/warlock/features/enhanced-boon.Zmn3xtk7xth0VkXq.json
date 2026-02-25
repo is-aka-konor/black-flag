@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Enhanced Boon",
+  "name": "Улучшенный дар",
   "type": "feature",
   "_id": "Zmn3xtk7xth0VkXq",
   "img": "icons/creatures/magical/spirit-undead-horned-blue.webp",
@@ -25,13 +25,13 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.vVd0TArw9pBiDM9K"
+              "uuid": "Compendium.black-flag-ru.classes.Item.vVd0TArw9pBiDM9K"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EYGh5pcaDA1OhjxG"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EYGh5pcaDA1OhjxG"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.CGnB8trEx1NRWWiq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.CGnB8trEx1NRWWiq"
             }
           ],
           "restriction": {
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376103956,

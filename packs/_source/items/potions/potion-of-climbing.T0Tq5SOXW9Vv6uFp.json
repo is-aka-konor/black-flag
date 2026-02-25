@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Climbing",
+  "name": "Зелье восхождения",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "82LffLmSRjLDs4D8"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-flask-corked-tied-necklace-teal.webp",
   "effects": [
     {
-      "name": "Climbing",
+      "name": "Восхождение",
       "img": "icons/consumables/potions/potion-flask-corked-tied-necklace-teal.webp",
-      "origin": "Compendium.black-flag.items.Item.T0Tq5SOXW9Vv6uFp",
+      "origin": "Compendium.black-flag-ru.items.Item.T0Tq5SOXW9Vv6uFp",
       "transfer": false,
       "_id": "SDAfSmD84UybC2IZ",
       "type": "base",
@@ -153,7 +153,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729541085556,
         "modifiedTime": 1729541146531,
@@ -172,7 +172,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073390099,
     "modifiedTime": 1729541085593,

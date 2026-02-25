@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Second Boon",
+  "name": "Второе благо",
   "type": "feature",
   "_id": "cS9R17yuSIlvoAf8",
   "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
@@ -24,13 +24,13 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.X2iTkFkmoJW9OKk5"
+              "uuid": "Compendium.black-flag-ru.classes.Item.X2iTkFkmoJW9OKk5"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.C9FG5NlEsX8IaZ9T"
+              "uuid": "Compendium.black-flag-ru.classes.Item.C9FG5NlEsX8IaZ9T"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Nrx1unFEjSVdNOqI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Nrx1unFEjSVdNOqI"
             }
           ],
           "restriction": {
@@ -49,7 +49,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain the benefits of a second boon from the options described in the 1st level feature @UUID[Compendium.black-flag.classes.Item.hbtZCD7LaI2ceqKW]{Pact Boon}: Pact of the Blade, Pact of the Chain, or Pact of the Tome.</p>",
+      "value": "<p>You gain the benefits of a second boon from the options described in the 1st level feature @UUID[Compendium.black-flag-ru.classes.Item.hbtZCD7LaI2ceqKW]{Pact Boon}: Pact of the Blade, Pact of the Chain, or Pact of the Tome.</p>",
       "source": {}
     },
     "restriction": {
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376855794,

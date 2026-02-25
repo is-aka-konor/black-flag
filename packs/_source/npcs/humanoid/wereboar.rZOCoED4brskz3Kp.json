@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Wereboar",
+  "name": "Кабан-оборотень",
   "type": "npc",
   "_id": "rZOCoED4brskz3Kp",
-  "img": "systems/black-flag/artwork/tokens/lycanthrope-wereboar.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lycanthrope-wereboar.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -150,7 +150,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Wereboar",
+    "name": "Кабан-оборотень",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -158,7 +158,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lycanthrope-wereboar.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lycanthrope-wereboar.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -324,7 +324,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           },
@@ -391,7 +391,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": ""
           }
         },
@@ -404,7 +404,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a target and then hits it with a Slam or Tusks attack on the same turn, the target takes an extra [[/damage average]] damage of the weapon’s type. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a target and then hits it with a Slam or Tusks attack on the same turn, the target takes an extra [[/damage average]] damage of the weapon’s type. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -430,7 +430,7 @@
           "value": null
         }
       },
-      "name": "Charge (Boar or Hybrid Form Only)",
+      "name": "Заряд (только в форме кабана или гибрида)",
       "type": "feature",
       "_id": "0Qc8XXBNL7prrKo0",
       "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
@@ -450,7 +450,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -460,7 +460,7 @@
       "_key": "!actors.items!rZOCoED4brskz3Kp.0Qc8XXBNL7prrKo0"
     },
     {
-      "name": "Relentless",
+      "name": "Безжалостный",
       "type": "feature",
       "_id": "6Vv76gcM8TNeZmvU",
       "img": "icons/skills/wounds/injury-eyes-blood-red-pink.webp",
@@ -514,7 +514,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/healing.svg",
+            "img": "systems/black-flag-ru/artwork/activities/healing.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -595,7 +595,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.679e3wPzJm98gUhc",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -609,7 +609,7 @@
       "_key": "!actors.items!rZOCoED4brskz3Kp.6Vv76gcM8TNeZmvU"
     },
     {
-      "name": "Multiattack (Humanoid or Hybrid Form Only)",
+      "name": "Мультиатака (только в гуманоидной или гибридной форме)",
       "type": "feature",
       "_id": "yfTVrZuBNAKrBTZQ",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -690,7 +690,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wereboar makes three Maul or Slam attacks. It can replace one attack with a Tusks attack, provided it is in the appropriate form. If two Maul or Slam attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The wereboar makes three Maul or Slam attacks. It can replace one attack with a Tusks attack, provided it is in the appropriate form. If two Maul or Slam attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -729,7 +729,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -744,7 +744,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Maul (Humanoid or Hybrid Form Only)",
+      "name": "Мол (только в гуманоидной или гибридной форме)",
       "type": "weapon",
       "_id": "ZGsmrkZyQtBcxW4N",
       "img": "icons/weapons/hammers/hammer-drilling-spiked.webp",
@@ -881,9 +881,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.WWJHSzi0T466vB3o",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.WWJHSzi0T466vB3o",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759134362,
@@ -962,7 +962,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -976,7 +976,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the [[lookup @name lowercase]].</p>",
+          "value": "<p>The [[lookup @name lowercase]] snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1002,7 +1002,7 @@
           "value": null
         }
       },
-      "name": "Challenging Snort (Boar or Hybrid Form Only)",
+      "name": "Вызывающее фырканье (только в форме кабана или гибрида)",
       "type": "feature",
       "_id": "nKwBQa7xliWppwKV",
       "img": "icons/magic/air/wind-swirl-gray-blue.webp",
@@ -1022,7 +1022,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1089,7 +1089,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1129,7 +1129,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "7qPwU3buSVyJS8Ro",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -1145,7 +1145,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1159,7 +1159,7 @@
       "_key": "!actors.items!rZOCoED4brskz3Kp.7qPwU3buSVyJS8Ro"
     },
     {
-      "name": "Slam (Boar or Hybrid Form Only)",
+      "name": "Slam (только в кабинной или гибридной форме)",
       "type": "weapon",
       "_id": "VZxL9Q11iHnfhxae",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1209,7 +1209,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1319,7 +1319,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935196,
         "modifiedTime": 1756759139332,
@@ -1406,7 +1406,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1482,7 +1482,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1550,7 +1550,7 @@
         },
         "rarity": ""
       },
-      "name": "Tusks (Boar or Hybrid Form Only)",
+      "name": "Бивни (только в форме кабана или гибрида)",
       "type": "weapon",
       "_id": "94ZJMmVjM3nHxipO",
       "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
@@ -1571,7 +1571,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935196,
         "modifiedTime": 1756759147311,
@@ -1593,7 +1593,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "AC and Speed in Boar & Hybrid Form",
+      "name": "Кондиционер и скорость в кабине и гибриде",
       "img": "icons/svg/aura.svg",
       "_id": "5sjgqPgyo7lT79SB",
       "type": "base",
@@ -1622,7 +1622,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1636,7 +1636,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

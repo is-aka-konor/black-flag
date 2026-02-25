@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Maze",
+  "name": "Лабиринт",
   "type": "spell",
   "_id": "lYor5ljOiNpJsCjh",
   "img": "icons/commodities/stone/paver-brick-blue.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze. The target can use its action to attempt to escape. When it does so, it makes a [[/check dc=20 INT]] check. If it succeeds, it escapes, and the spell ends. When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.</p>",
       "source": {},
-      "short": "Send target to demiplane maze."
+      "short": "Отправьте цель в лабиринт демиплана."
     },
     "source": [
       "arcane",
@@ -116,7 +116,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919809935,
     "modifiedTime": 1722986295418,

@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Rapid Augment",
+  "name": "Быстрое увеличение",
   "type": "feature",
   "_id": "KM5SpphPyQLoCUbS",
   "img": "icons/commodities/tech/transmission.webp",
@@ -55,7 +55,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Augment Rapidly",
+        "name": "Быстрое увеличение",
         "img": ""
       }
     },
@@ -104,7 +104,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127636693,

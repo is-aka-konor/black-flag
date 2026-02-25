@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Prismatic Spray",
+  "name": "Призматический спрей",
   "type": "spell",
   "_id": "iztHmI1LmOrGzgsf",
   "img": "icons/magic/light/beam-strike-orange.webp",
@@ -66,9 +66,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a [[/save]] save. For each target, roll a [[/r d8]] to determine which color ray affects it.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7A5pZL18ARXn5mJg inline]</p>",
+      "value": "<p>Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a [[/save]] save. For each target, roll a [[/r d8]] to determine which color ray affects it.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7A5pZL18ARXn5mJg inline]</p>",
       "source": {},
-      "short": "Rainbow rays deal random effects."
+      "short": "Радужные лучи оказывают случайный эффект."
     },
     "casting": {
       "value": null,
@@ -127,7 +127,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "createdTime": 1723093353552,
     "modifiedTime": 1737399370402,

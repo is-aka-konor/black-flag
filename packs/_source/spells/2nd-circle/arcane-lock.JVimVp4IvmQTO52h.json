@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Arcane Lock",
+  "name": "Чародейский замок",
   "type": "spell",
   "_id": "JVimVp4IvmQTO52h",
   "img": "icons/sundries/misc/lock-steel-blue.webp",
@@ -46,7 +46,7 @@
     "description": {
       "value": "<p>You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken, or the spell is dispelled or suppressed. Casting <em>knock</em> on the object suppresses arcane lock for 10 minutes.</p><p>While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.</p>",
       "source": {},
-      "short": "Lock a door, chest, etc."
+      "short": "Заприте дверь, сундук и т. д."
     },
     "type": {
       "value": "standard"
@@ -68,7 +68,7 @@
       ],
       "material": {
         "cost": 25,
-        "description": "gold dust worth at least 25 gp, which the spell consumes",
+        "description": "золотая пыль стоимостью не менее 25 зм, которую расходует заклинание",
         "consumed": true,
         "denomination": "gp"
       }
@@ -106,7 +106,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706996604930,

@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Shadow",
+  "name": "Тень",
   "type": "npc",
   "_id": "jH8xObIbnEmk6Sjx",
-  "img": "systems/black-flag/artwork/tokens/shadow.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/shadow.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -173,7 +173,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Shadow",
+    "name": "Тень",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -181,7 +181,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/shadow.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/shadow.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -268,7 +268,7 @@
   },
   "items": [
     {
-      "name": "Amorphous",
+      "name": "Аморфный",
       "type": "feature",
       "_id": "A71Qz1Ra0HXDDuh2",
       "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
@@ -320,7 +320,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.QaiEaxjonCbmH30t",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -334,7 +334,7 @@
       "_key": "!actors.items!jH8xObIbnEmk6Sjx.A71Qz1Ra0HXDDuh2"
     },
     {
-      "name": "Spider Climb",
+      "name": "Паучье восхождение",
       "type": "feature",
       "_id": "YNBkxZnDV8qEgwOE",
       "img": "icons/creatures/invertebrates/spider-web-red.webp",
@@ -388,7 +388,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.9SnGOXer6OWDVFZR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -402,7 +402,7 @@
       "_key": "!actors.items!jH8xObIbnEmk6Sjx.YNBkxZnDV8qEgwOE"
     },
     {
-      "name": "Sunlight Weakness",
+      "name": "Слабость солнечного света",
       "type": "feature",
       "_id": "GVkz8q7AsffRAbO2",
       "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -456,7 +456,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hzFrJFfPPIv20rWe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -470,7 +470,7 @@
       "_key": "!actors.items!jH8xObIbnEmk6Sjx.GVkz8q7AsffRAbO2"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -521,7 +521,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.nryL8pXwd7SJzonQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -536,7 +536,7 @@
       "_key": "!actors.items!jH8xObIbnEmk6Sjx.kk3cpvu00Xlt0oBX"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -578,7 +578,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -589,7 +589,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -620,7 +620,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -646,7 +646,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -771,7 +771,7 @@
           "value": null
         }
       },
-      "name": "Shadow Bond",
+      "name": "Теневая связь",
       "type": "feature",
       "_id": "JaFxiTdi2Q7kU8DI",
       "img": "icons/magic/light/orb-shadow-blue.webp",
@@ -791,7 +791,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -858,7 +858,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -872,7 +872,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &amp;Reference[Hide]{Hide} action. It can use this bonus action only while in dim light or darkness.</p>",
+          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Hide]{Hide} action. It can use this bonus action only while in dim light or darkness.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -898,7 +898,7 @@
           "value": null
         }
       },
-      "name": "Shadow Stealth",
+      "name": "Теневая скрытность",
       "type": "feature",
       "_id": "GawHxgrCL0012xE1",
       "img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
@@ -918,7 +918,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1002,7 +1002,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1071,7 +1071,7 @@
         },
         "rarity": ""
       },
-      "name": "Strength Drain",
+      "name": "Истощение силы",
       "type": "weapon",
       "_id": "jBVKrxqBa3keNxEz",
       "img": "icons/magic/death/hand-withered-gray.webp",
@@ -1092,7 +1092,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934019,
         "modifiedTime": 1756760919455,
@@ -1106,7 +1106,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

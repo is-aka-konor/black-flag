@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Bestow Curse",
+  "name": "Наложить проклятие",
   "type": "spell",
   "_id": "f1ovNdb57AhbmDUn",
   "img": "icons/magic/unholy/strike-beam-blood-large-red-teal.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>You touch a creature, and that creature must succeed on a [[/save]] save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
       "source": {},
-      "short": "Choose a bad effect for a foe."
+      "short": "Выберите плохой эффект для противника."
     },
     "type": {
       "value": "standard"
@@ -113,9 +113,9 @@
   },
   "effects": [
     {
-      "name": "Bestow Curse",
+      "name": "Наложить проклятие",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-teal.webp",
-      "origin": "Compendium.black-flag.spells.Item.f1ovNdb57AhbmDUn",
+      "origin": "Compendium.black-flag-ru.spells.Item.f1ovNdb57AhbmDUn",
       "transfer": false,
       "_id": "kDEaNjK5NLY73Bno",
       "type": "base",
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723698217774,
         "modifiedTime": 1723698217774,
@@ -156,7 +156,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932300677,

@@ -1,6 +1,6 @@
 {
   "type": "feature",
-  "name": "Howling Arrows",
+  "name": "Воющие стрелы",
   "system": {
     "description": {
       "value": "<p>These arrowheads are made from hollowed antler and emit a shrill whistle while airborne. A successful attack made with a howling arrow deals only half damage, but the target must succeed on a [[/save 11 CON]] or be deafened until the end of its next turn.</p><section class=\"secret\" id=\"secret-lTb5w2ubjg2Ilg7J\"><p><strong>Foundry Note</strong></p><p><em>Wondrous Item (Any Piercing Ammunition), Common, 10 gp</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
@@ -43,7 +43,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Howling Arrows",
+      "name": "Воющие стрелы",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -106,7 +106,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.048",
         "createdTime": 1728592876606,
         "modifiedTime": 1728592931540,
@@ -125,7 +125,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1726788393240,
     "modifiedTime": 1730158833649,

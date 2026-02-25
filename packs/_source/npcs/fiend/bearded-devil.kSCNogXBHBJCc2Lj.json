@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Bearded Devil",
+  "name": "Бородатый дьявол",
   "type": "npc",
   "_id": "kSCNogXBHBJCc2Lj",
-  "img": "systems/black-flag/artwork/tokens/devil-bearded.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/devil-bearded.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -158,7 +158,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Bearded Devil",
+    "name": "Бородатый дьявол",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -166,7 +166,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/devil-bearded.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/devil-bearded.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -291,7 +291,7 @@
           "value": null
         }
       },
-      "name": "Devil’s Sight",
+      "name": "Взгляд Дьявола",
       "type": "feature",
       "img": "icons/magic/perception/eye-slit-red-orange.webp",
       "effects": [],
@@ -309,7 +309,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qaTYdbDMm8oAcpZT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -321,7 +321,7 @@
       "_key": "!actors.items!kSCNogXBHBJCc2Lj.dp6RkCO02gkbL4D4"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "mBkWWi1C04wZGxVT",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -375,7 +375,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -427,7 +427,7 @@
           "value": null
         }
       },
-      "name": "Show Mettle",
+      "name": "Показать характер",
       "type": "feature",
       "_id": "k2Q0gZvgmpcwgGrV",
       "img": "icons/magic/control/buff-strength-muscle-damage-red.webp",
@@ -447,7 +447,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -457,7 +457,7 @@
       "_key": "!actors.items!kSCNogXBHBJCc2Lj.k2Q0gZvgmpcwgGrV"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "wdYCgCkEwO9OZb1M",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -561,7 +561,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -575,7 +575,7 @@
       "_key": "!actors.items!kSCNogXBHBJCc2Lj.wdYCgCkEwO9OZb1M"
     },
     {
-      "name": "Glaive",
+      "name": "Глефа",
       "type": "weapon",
       "_id": "ruNirhtBiMJyM783",
       "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
@@ -654,7 +654,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -742,7 +742,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Save & Wound Damage",
+            "name": "CON Спасение и урон от ран",
             "img": ""
           },
           "Is0LSmuJ4ASUQdjX": {
@@ -806,7 +806,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Stanch the Wound Medicine Check",
+            "name": "Остановить проверку лекарств для ран",
             "img": ""
           }
         },
@@ -884,9 +884,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.caf9G1uCz7agcoym",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.caf9G1uCz7agcoym",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756756044289,
@@ -980,7 +980,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil’s Beard Spines attack or suffering an infernal wound from the devil’s Glaive attack. The target must succeed on a [[/save format=long]] or be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn, as it doubles over in pain.</p>",
+          "value": "<p>The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil’s Beard Spines attack or suffering an infernal wound from the devil’s Glaive attack. The target must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn, as it doubles over in pain.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1006,7 +1006,7 @@
           "value": null
         }
       },
-      "name": "Enhance Pain",
+      "name": "Усиление боли",
       "type": "feature",
       "_id": "QwIW3JrAH6SNwz4A",
       "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
@@ -1026,7 +1026,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1074,7 +1074,7 @@
           "value": null
         }
       },
-      "name": "Devilish Resilience",
+      "name": "Дьявольская стойкость",
       "type": "feature",
       "_id": "qWuHQiDCrhb1t7jJ",
       "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
@@ -1091,7 +1091,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Devilish Resilience",
+          "name": "Дьявольская стойкость",
           "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
           "_id": "uJ6N3XWMfDKvX9cK",
           "type": "base",
@@ -1156,7 +1156,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1177,7 +1177,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.x1nZb854NRe24wtG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1266,7 +1266,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1342,7 +1342,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1360,7 +1360,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1410,13 +1410,13 @@
         },
         "rarity": ""
       },
-      "name": "Beard Spines",
+      "name": "Шипы для бороды",
       "type": "weapon",
       "_id": "GwzpqTiTquWnVd1P",
       "img": "icons/magic/light/projectile-bolts-salvo-yellow.webp",
       "effects": [
         {
-          "name": "Beard Spines",
+          "name": "Шипы для бороды",
           "img": "icons/magic/light/projectile-bolts-salvo-yellow.webp",
           "origin": "Actor.UYyLgRglThNxpyGV.Item.GwzpqTiTquWnVd1P",
           "transfer": false,
@@ -1449,7 +1449,7 @@
             "duplicateSource": null,
             "exportSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "2.0.068",
             "lastModifiedBy": null
           },
@@ -1472,7 +1472,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934144,
         "modifiedTime": 1756756017186,
@@ -1486,7 +1486,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

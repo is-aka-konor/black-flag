@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Sacrificial Dagger",
+  "name": "Жертвенный кинжал",
   "type": "weapon",
   "img": "icons/weapons/daggers/dagger-crooked-black.webp",
   "system": {
@@ -123,7 +123,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1701024042732,

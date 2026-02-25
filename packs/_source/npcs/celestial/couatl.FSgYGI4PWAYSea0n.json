@@ -1,9 +1,9 @@
 {
   "folder": "znixScbzurqLkz5j",
-  "name": "Couatl",
+  "name": "Коатль",
   "type": "npc",
   "_id": "FSgYGI4PWAYSea0n",
-  "img": "systems/black-flag/artwork/tokens/couati.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/couati.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Couatl",
+    "name": "Коатль",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/couati.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/couati.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -263,7 +263,7 @@
   },
   "items": [
     {
-      "name": "Celestial Resilience",
+      "name": "Небесная устойчивость",
       "type": "feature",
       "_id": "NbVWBK7dQ80C4U6d",
       "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
@@ -306,7 +306,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.CyOvikNLSOB1L2fT",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.CyOvikNLSOB1L2fT",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -317,7 +317,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Celestial Resilience",
+          "name": "Небесная устойчивость",
           "_id": "ggk3wSDvlMxXXpMT",
           "changes": [
             {
@@ -336,7 +336,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -364,9 +364,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.CyOvikNLSOB1L2fT",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.CyOvikNLSOB1L2fT",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -414,7 +414,7 @@
           "value": null
         }
       },
-      "name": "Inscrutable",
+      "name": "Непостижимый",
       "type": "feature",
       "_id": "Pz3NTxjGpzINwNDe",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -434,7 +434,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -444,7 +444,7 @@
       "_key": "!actors.items!FSgYGI4PWAYSea0n.Pz3NTxjGpzINwNDe"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "ClToT6Bpt6RkT2fK",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -498,7 +498,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -512,7 +512,7 @@
       "_key": "!actors.items!FSgYGI4PWAYSea0n.ClToT6Bpt6RkT2fK"
     },
     {
-      "name": "Magic Weapons",
+      "name": "Магическое оружие",
       "type": "feature",
       "_id": "9Ps56QNZ0dOsAs0B",
       "img": "icons/weapons/swords/sword-runed-glowing.webp",
@@ -568,9 +568,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.d8IaVs2urx4Anq3K",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.d8IaVs2urx4Anq3K",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -580,7 +580,7 @@
       "_key": "!actors.items!FSgYGI4PWAYSea0n.9Ps56QNZ0dOsAs0B"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "ABnwO07yXajxuyD4",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -684,7 +684,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -755,7 +755,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -795,7 +795,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "9fZG8F5UYQmv0vz4",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -811,7 +811,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -886,7 +886,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -926,7 +926,7 @@
           "value": null
         }
       },
-      "name": "Rainbow Shield",
+      "name": "Радужный щит",
       "type": "feature",
       "_id": "pZ6yRghkj3L5dKQk",
       "img": "icons/magic/control/buff-luck-fortune-rainbow.webp",
@@ -946,7 +946,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1078,7 +1078,7 @@
           "value": null
         }
       },
-      "name": "Healing Hiss",
+      "name": "Исцеляющее шипение",
       "type": "feature",
       "_id": "lrQSmmlZoA9fb80P",
       "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
@@ -1098,7 +1098,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1108,7 +1108,7 @@
       "_key": "!actors.items!FSgYGI4PWAYSea0n.lrQSmmlZoA9fb80P"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "xLdcoqiuvDLAVUgd",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1173,7 +1173,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1220,7 +1220,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but &amp;Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &amp;Reference[unconscious]{unconscious} while poisoned in this way.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but &Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1285,10 +1285,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929403,
         "modifiedTime": 1756751666489,
@@ -1371,7 +1371,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1390,7 +1390,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is &amp;Reference[restrained]{restrained}, and the [[lookup @name lowercase]] can’t Constrict another target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}, and the [[lookup @name lowercase]] can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1443,7 +1443,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Constrict",
+      "name": "Сжимать",
       "type": "weapon",
       "_id": "j6VAHw0f9kOXxj84",
       "img": "icons/creatures/reptiles/snake-poised-white.webp",
@@ -1464,7 +1464,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929403,
         "modifiedTime": 1756751675227,
@@ -1478,7 +1478,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756675609279,

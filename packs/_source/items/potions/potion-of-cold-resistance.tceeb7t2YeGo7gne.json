@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Cold Resistance",
+  "name": "Зелье сопротивления холоду",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "tBTnio5odSB2nDqq"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-bottle-fumes-blue.webp",
   "effects": [
     {
-      "name": "Cold Resistance",
+      "name": "Сопротивление холоду",
       "img": "icons/consumables/potions/potion-bottle-fumes-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.tceeb7t2YeGo7gne",
+      "origin": "Compendium.black-flag-ru.items.Item.tceeb7t2YeGo7gne",
       "transfer": false,
       "_id": "QmM38I0dsRNDL3MQ",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539842033,
         "modifiedTime": 1729539982432,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073725281,
     "modifiedTime": 1735684922981,

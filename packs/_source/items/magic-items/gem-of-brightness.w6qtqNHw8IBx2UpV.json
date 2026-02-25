@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Gem of Brightness",
+  "name": "Жемчужина яркости",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -20,7 +20,7 @@
       "INNHEB9AdWfO8y9G": {
         "type": "utility",
         "_id": "INNHEB9AdWfO8y9G",
-        "description": "<p>The first command word causes the gem to shed bright light in a 30-foot radius and dim light for an additional 30 feet. This effect doesn’t expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.</p>",
+        "description": "<p>Первое командное слово заставляет драгоценный камень излучать исключительный свет в радиусе 30 футов и тусклый свет еще на 30 футов. Этот эффект не расходует заряд. Бонус продолжается до тех пор, пока вы не примените действие для повторения командного слова или пока вы не используете вторую функцию камня.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -75,7 +75,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Bright Light",
+        "name": "Яркий свет",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -89,7 +89,7 @@
       "vXetbVaidfoPsQbk": {
         "type": "save",
         "_id": "vXetbVaidfoPsQbk",
-        "description": "<p>The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a [[/save DC 15 CON]] save or become &Reference[blinded] for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+        "description": "<p>Второе командное слово расходует 1 заряд и заставляет самоцвет излучать исходный луч света в одном Существе, которое вы видите на расстоянии 60 футов от себя. Существо необходимо преуспеть в спасброске [[/save DC 15 CON]], иначе оно станет &Reference[ослепленным] на 1 минуте.",
         "sort": 0,
         "system": {
           "damage": {
@@ -163,7 +163,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Brilliant Beam",
+        "name": "Блестящий луч",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -176,7 +176,7 @@
       },
       "Ki6vYOaevvkUSjZ3": {
         "type": "save",
-        "description": "<p>The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-foot cone originating from it. Each creature in the cone must succeed on a [[/save DC 15 CON]] save or become blinded for 1 minute.</p>",
+        "description": "<p>Третье командное слово расходует 5 зарядов и заставляет драгоценный камень вспыхнуть ослепляющим светом в 30-футовом конусе, исходящем из него. Каждое существо в конусе должно преуспеть в спасброске [[/save DC 15 CON]], иначе оно ослепнет на 1 минуту.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -251,7 +251,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Flare of Light",
+        "name": "Вспышка Света",
         "img": "",
         "_id": "Ki6vYOaevvkUSjZ3",
         "visibility": {
@@ -288,9 +288,9 @@
   "img": "icons/commodities/gems/gem-faceted-diamond-pink-gold.webp",
   "effects": [
     {
-      "name": "Blinded",
+      "name": "Ослепленный",
       "img": "icons/commodities/gems/gem-faceted-diamond-pink-gold.webp",
-      "origin": "Compendium.black-flag.items.Item.w6qtqNHw8IBx2UpV",
+      "origin": "Compendium.black-flag-ru.items.Item.w6qtqNHw8IBx2UpV",
       "transfer": false,
       "_id": "AjMYI61owZ5G4PtX",
       "type": "base",
@@ -315,7 +315,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.048",
         "createdTime": 1728594084235,
         "modifiedTime": 1728594110672,
@@ -334,7 +334,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724985110343,
     "modifiedTime": 1756333997633,

@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Finger of Death",
+  "name": "Палец смерти",
   "type": "spell",
   "_id": "TD3OUI8BeG9zO2vy",
   "img": "icons/magic/death/hand-withered-gray.webp",
@@ -83,7 +83,7 @@
     "description": {
       "value": "<p>You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a [[/save constitution]] save. It takes [[/damage 7d8 + 30 necrotic]] damage on a failed save, or half as much damage on a success.</p><p>A Humanoid killed by this spell rises as a <strong>zombie</strong> at the start of your next turn. The zombie is permanently under your command and follows your verbal orders to the best of its ability.</p>",
       "source": {},
-      "short": "Major necrotic, zombify Humanoid."
+      "short": "Крупный некротик, зомбирующий гуманоида."
     },
     "source": [
       "arcane",
@@ -144,7 +144,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "createdTime": 1721443221014,
     "modifiedTime": 1721446074128,

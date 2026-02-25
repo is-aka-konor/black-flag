@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Sculptor of Flesh",
+  "name": "Скульптор из плоти",
   "type": "feature",
   "_id": "bPgyHv5Br3VNZjrl",
   "img": "icons/creatures/slimes/slime-face-teeth-purple.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376853213,

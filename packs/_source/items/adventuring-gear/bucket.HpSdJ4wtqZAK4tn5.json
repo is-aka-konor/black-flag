@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Bucket",
+  "name": "Ведро",
   "type": "gear",
   "_id": "HpSdJ4wtqZAK4tn5",
   "img": "icons/containers/misc/bucket-steel.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362936267,

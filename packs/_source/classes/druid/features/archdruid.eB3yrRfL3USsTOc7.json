@@ -1,6 +1,6 @@
 {
   "folder": "6P0Rxao2AROWasas",
-  "name": "Archdruid",
+  "name": "Верховный друид",
   "type": "feature",
   "_id": "eB3yrRfL3USsTOc7",
   "img": "icons/magic/nature/tree-spirit-glow-black-yellow.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717737135246,

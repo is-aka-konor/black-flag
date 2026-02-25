@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Augment",
+  "name": "Дополнить",
   "type": "feature",
   "_id": "Jsbk5t2H2s7TCed1",
   "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -32,43 +32,43 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.yoUiakYIVlo22q7J"
+              "uuid": "Compendium.black-flag-ru.classes.Item.yoUiakYIVlo22q7J"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.wDdjlD0joAvtqDu7"
+              "uuid": "Compendium.black-flag-ru.classes.Item.wDdjlD0joAvtqDu7"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.JlTLHsum2ATtEuOs"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JlTLHsum2ATtEuOs"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.FEHYQiWYxClTY0h9"
+              "uuid": "Compendium.black-flag-ru.classes.Item.FEHYQiWYxClTY0h9"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.g74T8iFulmGCYtGj"
+              "uuid": "Compendium.black-flag-ru.classes.Item.g74T8iFulmGCYtGj"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.OvJ2eCtBqB0BgCIP"
+              "uuid": "Compendium.black-flag-ru.classes.Item.OvJ2eCtBqB0BgCIP"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.epjGJH9nDbQbK7GW"
+              "uuid": "Compendium.black-flag-ru.classes.Item.epjGJH9nDbQbK7GW"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.VcmMYpwFLGYQ0OVm"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VcmMYpwFLGYQ0OVm"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.bHXBba0RljS5bKZG"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bHXBba0RljS5bKZG"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.f3HVJB8iwczpGbHO"
+              "uuid": "Compendium.black-flag-ru.classes.Item.f3HVJB8iwczpGbHO"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.YDMvY5Q6msCX7sKV"
+              "uuid": "Compendium.black-flag-ru.classes.Item.YDMvY5Q6msCX7sKV"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.WR1cZLv4QvyekArQ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.WR1cZLv4QvyekArQ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.9JKaKUB9EyFO931k"
+              "uuid": "Compendium.black-flag-ru.classes.Item.9JKaKUB9EyFO931k"
             }
           ],
           "restriction": {
@@ -117,7 +117,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127501926,

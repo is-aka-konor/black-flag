@@ -1,5 +1,5 @@
 {
-  "name": "Sting",
+  "name": "Стинг",
   "type": "weapon",
   "_id": "lA42gzSugdKluuYF",
   "img": "icons/commodities/biological/stinger-insect-grey.webp",
@@ -147,7 +147,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709712,
     "modifiedTime": 1756767766019,

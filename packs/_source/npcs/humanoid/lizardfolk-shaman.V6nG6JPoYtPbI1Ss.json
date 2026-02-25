@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Lizardfolk Shaman",
+  "name": "Ящеролюдский Шаман",
   "type": "npc",
   "_id": "V6nG6JPoYtPbI1Ss",
-  "img": "systems/black-flag/artwork/tokens/lizardfolk-shaman.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lizardfolk-shaman.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -154,7 +154,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lizardfolk Shaman",
+    "name": "Ящеролюдский Шаман",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -162,7 +162,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lizardfolk-shaman.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lizardfolk-shaman.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -287,7 +287,7 @@
           "value": null
         }
       },
-      "name": "Heightened Smell and Taste",
+      "name": "Обостренный запах и вкус",
       "type": "feature",
       "_id": "iTQS5t24BUlRMG4M",
       "img": "icons/magic/air/wind-swirl-gray-blue.webp",
@@ -303,7 +303,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.Bi4Qj5n6qkjsPHv2",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -355,7 +355,7 @@
           "value": null
         }
       },
-      "name": "Hold Breath",
+      "name": "Задержать дыхание",
       "type": "feature",
       "_id": "9tkK2db9bDiVuoY9",
       "img": "icons/magic/water/bubbles-air-water-light.webp",
@@ -371,7 +371,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.aghkHGPciEFs7PuF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -385,7 +385,7 @@
       "_key": "!actors.items!V6nG6JPoYtPbI1Ss.9tkK2db9bDiVuoY9"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "pTCoWrwBg1BqzjE0",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -489,7 +489,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -504,7 +504,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Ritual Staff",
+      "name": "Ритуальный посох",
       "type": "weapon",
       "_id": "fHRyxgWcKczASCtX",
       "img": "icons/weapons/staves/staff-forest-jewel.webp",
@@ -588,7 +588,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           }
@@ -662,9 +662,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.B5J4heAlwqhvzXKW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.B5J4heAlwqhvzXKW",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758550018,
@@ -675,7 +675,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Druidcraft",
+      "name": "Друидкрафт",
       "type": "spell",
       "_id": "qrqHhujQOBMgxrHR",
       "img": "icons/consumables/plants/kelp-fern-glowing-green.webp",
@@ -743,7 +743,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless natural effects."
+          "short": "Безвредное природное воздействие."
         },
         "circle": {
           "value": null,
@@ -806,9 +806,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.rwGcFyilX3avbA5E",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.rwGcFyilX3avbA5E",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -819,7 +819,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Guidance",
+      "name": "Руководство",
       "type": "spell",
       "_id": "IsTWBRA5p5wz8Dx3",
       "img": "icons/magic/symbols/circled-gem-pink.webp",
@@ -887,7 +887,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally adds d4 to ability check."
+          "short": "Союзник добавил d4 к внешним возможностям."
         },
         "circle": {
           "value": null,
@@ -942,7 +942,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+          "origin": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -953,13 +953,13 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Guidance",
+          "name": "Руководство",
           "img": "icons/magic/symbols/circled-gem-pink.webp",
           "_id": "QX9n2KU4w9evJUYL",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>Once before the spell ends, you can roll a [[/r d4]] and add the number rolled to one ability check of your. You can roll the die before or after making the ability check. The spell then ends.</p>",
+          "description": "<p>Незадолго до окончания заклинания вы можете выкинуть [[/r d4]] и добавить выпавшее число к вашей способности с одной стороны. Вы можете бросить кубик до или после проверки функций. Затем заклинание заканчивается.</p>",
           "tint": "#ffffff",
           "transfer": false,
           "statuses": [],
@@ -969,7 +969,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -992,9 +992,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1005,7 +1005,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Mending",
+      "name": "Починка",
       "type": "spell",
       "_id": "riEphtwKCTKvEVlt",
       "img": "icons/magic/control/debuff-chains-blue.webp",
@@ -1073,7 +1073,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Minor repairs to an object."
+          "short": "Мелкий ремонт объекта."
         },
         "circle": {
           "value": null,
@@ -1092,7 +1092,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "two lodestones",
+            "description": "два магнита",
             "denomination": "pp",
             "consumed": false
           }
@@ -1137,9 +1137,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.QxIWdfDm7GSrxYBE",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.QxIWdfDm7GSrxYBE",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1150,7 +1150,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Cure Wounds",
+      "name": "Лечение ран",
       "type": "spell",
       "_id": "3iXWZRPpZcVxLTkk",
       "img": "icons/magic/life/cross-flared-green.webp",
@@ -1206,7 +1206,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/healing.svg",
+            "img": "systems/black-flag-ru/artwork/activities/healing.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1248,7 +1248,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Average heal to ally."
+          "short": "Среднее исцеление союзника."
         },
         "circle": {
           "value": null,
@@ -1317,9 +1317,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.NQvy34IRCNEJfwip",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1330,7 +1330,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Entangle",
+      "name": "Запутывать",
       "type": "spell",
       "_id": "mMboNR9ZA1E7tlBn",
       "img": "icons/magic/nature/root-vine-entwined-thorns.webp",
@@ -1399,7 +1399,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -1421,7 +1421,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Restrains targets in 20-ft. square."
+          "short": "Сдерживает цели в радиусе 20 футов. квадрат."
         },
         "circle": {
           "value": null,
@@ -1477,7 +1477,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.CM2MI0J59OeCL7I4",
+          "origin": "Compendium.black-flag-ru.spells.Item.CM2MI0J59OeCL7I4",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -1488,13 +1488,13 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Entangle",
+          "name": "Запутывать",
           "img": "icons/magic/nature/root-vine-entwined-thorns.webp",
           "_id": "BmCXwBJvIO2xwGVZ",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>You are restrained by the entangling plants until the spell ends. You can use your action to make a [[/check strength]] check against the caster's spell save DC. On a success, you free yourself.</p>",
+          "description": "<p>Опутающие растения о вас до тех пор, пока заклинание не завершится. Вы проводите свою международную проверку [[/check strength]] против спасброска округа Колумбия заклинания заклинателя. В случае успеха вы освобождаетесь.</p>",
           "tint": "#ffffff",
           "transfer": true,
           "statuses": [
@@ -1506,7 +1506,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1534,9 +1534,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.CM2MI0J59OeCL7I4",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.CM2MI0J59OeCL7I4",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1547,7 +1547,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Grease",
+      "name": "Смазка",
       "type": "spell",
       "_id": "BNNasBLLgfrOeVnp",
       "img": "icons/commodities/materials/slime-white.webp",
@@ -1596,7 +1596,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1634,11 +1634,11 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.</p><p>When the grease appears, each creature standing in its area must succeed on a [[/save]] save or fall prone. A creature that enters the area or ends its turn there must also succeed on a [[/save]] save or fall &amp;Reference[prone].</p>",
+          "value": "<p>Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.</p><p>When the grease appears, each creature standing in its area must succeed on a [[/save]] save or fall prone. A creature that enters the area or ends its turn there must also succeed on a [[/save]] save or fall &Reference[prone].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Create slippery terrain."
+          "short": "Создайте скользкую местность."
         },
         "circle": {
           "value": null,
@@ -1657,7 +1657,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of pork rind or butter",
+            "description": "немного свиной шкурки или сливочного масла",
             "denomination": "pp",
             "consumed": false
           }
@@ -1711,9 +1711,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.vj70K3TUp67pl6ta",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.vj70K3TUp67pl6ta",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1724,7 +1724,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Ray of Enfeeblement",
+      "name": "Луч ослабления",
       "type": "spell",
       "_id": "Wd1cJybDc9GRwJmY",
       "img": "icons/magic/unholy/projectile-bullet-orb-pink.webp",
@@ -1781,7 +1781,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1823,7 +1823,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Sap a foe’s strength."
+          "short": "Лишите силы врага."
         },
         "circle": {
           "value": null,
@@ -1895,9 +1895,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.V8TvqGWojL1ucfUZ",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.V8TvqGWojL1ucfUZ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1986,7 +1986,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           }
@@ -2026,7 +2026,7 @@
           "value": null
         }
       },
-      "name": "Poisoned Body (32 HP or Fewer)",
+      "name": "Отравленное тело (32 HP или меньше)",
       "type": "feature",
       "_id": "o5vFFKzprxfjTx3n",
       "img": "icons/magic/acid/dissolve-bone-skull.webp",
@@ -2046,7 +2046,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758592340,
@@ -2056,7 +2056,7 @@
       "_key": "!actors.items!V6nG6JPoYtPbI1Ss.o5vFFKzprxfjTx3n"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "puNtQvZdhvMjiOqf",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -2106,7 +2106,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2214,7 +2214,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932235,
         "modifiedTime": 1756758540831,
@@ -2301,7 +2301,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -2320,7 +2320,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &amp;Reference[poisoned]{poisoned} until the end of its next turn.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2370,7 +2370,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Swamp Bolt",
+      "name": "Болотный болт",
       "type": "weapon",
       "_id": "Mhel55cOaKuQ91He",
       "img": "icons/magic/acid/projectile-faceted-glob.webp",
@@ -2391,7 +2391,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932235,
         "modifiedTime": 1756758565374,
@@ -2405,7 +2405,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

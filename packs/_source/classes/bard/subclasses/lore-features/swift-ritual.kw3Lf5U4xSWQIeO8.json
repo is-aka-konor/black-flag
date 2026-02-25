@@ -1,6 +1,6 @@
 {
   "folder": "qMTJQup73eOQq8Qf",
-  "name": "Swift Ritual",
+  "name": "Быстрый Ритуал",
   "type": "feature",
   "_id": "kw3Lf5U4xSWQIeO8",
   "img": "icons/magic/symbols/runes-carved-stone-purple.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Cast Ritual",
+        "name": "Литой Ритуал",
         "img": ""
       }
     },
@@ -101,7 +101,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717618013570,

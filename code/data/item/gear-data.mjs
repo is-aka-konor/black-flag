@@ -45,7 +45,7 @@ export default class GearData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Gear",
 				icon: "fa-solid fa-wand-magic",
-				img: "systems/black-flag/artwork/types/gear.svg"
+				img: "systems/black-flag-ru/artwork/types/gear.svg"
 			},
 			{ inplace: false }
 		)

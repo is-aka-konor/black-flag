@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Antilife Shell",
+  "name": "Антилайф Шелл",
   "type": "spell",
   "_id": "RWPfwnvOjy1uGt9Q",
   "img": "icons/magic/unholy/orb-glowing-yellow-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>A shimmering barrier extends out from you in a 10-foot radius and moves with you. It remains centered on you, hedging out creatures other than Undead and Constructs. The barrier lasts for the duration.</p><p>The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.</p><p>If you move so that an affected creature is forced to pass through the barrier, the spell ends.</p>",
       "source": {},
-      "short": "10-ft. field blocks the living."
+      "short": "10 футов. поле блокирует жизнь."
     },
     "type": {
       "value": "standard"
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706997484381,

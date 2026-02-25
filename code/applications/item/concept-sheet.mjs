@@ -30,7 +30,7 @@ export default class ConceptSheet extends BaseItemSheet {
 	/** @override */
 	static PARTS = {
 		header: {
-			template: "systems/black-flag/templates/item/concept-summary.hbs"
+			template: "systems/black-flag-ru/templates/item/concept-summary.hbs"
 		},
 		tabs: {
 			container: { classes: ["details"], id: "sheet-body" },
@@ -38,12 +38,12 @@ export default class ConceptSheet extends BaseItemSheet {
 		},
 		advancement: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/concept-advancement.hbs",
+			template: "systems/black-flag-ru/templates/item/concept-advancement.hbs",
 			scrollable: [""]
 		},
 		description: {
 			container: { id: "sheet-body" },
-			template: "systems/black-flag/templates/item/description.hbs",
+			template: "systems/black-flag-ru/templates/item/description.hbs",
 			scrollable: [""]
 		}
 	};

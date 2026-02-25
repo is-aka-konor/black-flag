@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Portable Hole",
+  "name": "Портативное отверстие",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -76,7 +76,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Unfold/Close",
+        "name": "Развернуть/Закрыть",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -147,7 +147,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Attempt Escape",
+        "name": "Попытка побега",
         "img": ""
       }
     },
@@ -183,7 +183,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986890790,
     "modifiedTime": 1756333150154,

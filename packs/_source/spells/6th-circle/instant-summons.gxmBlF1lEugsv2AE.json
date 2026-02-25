@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Instant Summons",
+  "name": "Мгновенный вызов",
   "type": "spell",
   "_id": "gxmBlF1lEugsv2AE",
   "img": "icons/tools/navigation/compass-plain-blue.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You touch an item weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.</p><p>At any time thereafter, you can use your action to speak the item’s name and crush the sapphire, destroying it. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.</p><p>If another creature is holding or carrying the item, crushing the sapphire doesn’t transport the item to you, but instead you learn who the creature possessing the item is and roughly where that creature is located at that moment.</p><p><em>Dispel magic</em> or a similar effect successfully applied to the sapphire ends this spell’s effect.</p>",
       "source": {},
-      "short": "Mark an item to summon later."
+      "short": "Отметьте предмет, который нужно вызвать позже."
     },
     "source": [
       "arcane"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": 1000,
         "denomination": "gp",
-        "description": "a sapphire worth 1,000 gp"
+        "description": "сапфир стоимостью 1000 зм"
       }
     },
     "duration": {
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722834483309,
     "modifiedTime": 1722834950307,

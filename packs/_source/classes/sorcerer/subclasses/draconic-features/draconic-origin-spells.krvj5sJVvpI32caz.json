@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Draconic Origin Spells",
+  "name": "Заклинания Драконьего происхождения",
   "type": "feature",
   "_id": "krvj5sJVvpI32caz",
   "img": "icons/magic/unholy/projectile-smoke-trail-pink.webp",
@@ -21,7 +21,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.YPmREL9S2QWq8qTa"
+              "uuid": "Compendium.black-flag-ru.spells.Item.YPmREL9S2QWq8qTa"
             }
           ],
           "spell": {
@@ -50,7 +50,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.WJONNMNuHKaPsfX5"
+              "uuid": "Compendium.black-flag-ru.spells.Item.WJONNMNuHKaPsfX5"
             }
           ],
           "spell": {
@@ -80,7 +80,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.moUAyN0JUuMvoY6U"
+              "uuid": "Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U"
             }
           ],
           "spell": {
@@ -110,7 +110,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.GXpD8HiVyZvH2hsB"
+              "uuid": "Compendium.black-flag-ru.spells.Item.GXpD8HiVyZvH2hsB"
             }
           ],
           "spell": {
@@ -140,7 +140,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.5mipsDCRlAEIpZXs"
+              "uuid": "Compendium.black-flag-ru.spells.Item.5mipsDCRlAEIpZXs"
             }
           ],
           "spell": {
@@ -166,7 +166,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain origin spells at the sorcerer levels listed in the Dragon Ancestor Damage Type and Spells table. See the Sorcerer Subclass class feature for how these spells work.</p><p>Note that one of the spells you gain at each listed sorcerer level is determined by the type of dragon you select as your ancestor (see Dragon Ancestor).</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.JQHQVJBv08shYVpS inline]</p>",
+      "value": "<p>You gain origin spells at the sorcerer levels listed in the Dragon Ancestor Damage Type and Spells table. See the Sorcerer Subclass class feature for how these spells work.</p><p>Note that one of the spells you gain at each listed sorcerer level is determined by the type of dragon you select as your ancestor (see Dragon Ancestor).</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.JQHQVJBv08shYVpS inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -195,7 +195,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1718729331024,

@@ -1,5 +1,5 @@
 {
-  "name": "Pitcher",
+  "name": "Кувшин",
   "type": "gear",
   "_id": "3O3T3iW7PXARwZXQ",
   "img": "icons/containers/kitchenware/jug-terracotta-orange.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717531909038,

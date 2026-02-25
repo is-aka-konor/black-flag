@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Djinni",
+  "name": "Джинны",
   "type": "npc",
   "_id": "E2GtLSyUX3zyv1iK",
-  "img": "systems/black-flag/artwork/tokens/genie-djiin.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/genie-djiin.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Djinni",
+    "name": "Джинны",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -169,7 +169,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/genie-djiin.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/genie-djiin.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -294,7 +294,7 @@
           "value": null
         }
       },
-      "name": "Nebulous (Cloud Form Only)",
+      "name": "Туманность (только в форме облака)",
       "type": "feature",
       "_id": "e5w669NkWelgOYYl",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -314,7 +314,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -324,7 +324,7 @@
       "_key": "!actors.items!E2GtLSyUX3zyv1iK.e5w669NkWelgOYYl"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "QZpvcbF6TmnCCixj",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -428,7 +428,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -443,7 +443,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Scimitar",
+      "name": "Ятаган",
       "type": "weapon",
       "_id": "eKQ4h526dsYNWn7r",
       "img": "icons/weapons/swords/scimitar-worn-blue.webp",
@@ -537,7 +537,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -621,9 +621,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.MwYjehTr9oJlHb1Z",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.MwYjehTr9oJlHb1Z",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755024024,
@@ -700,7 +700,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -745,7 +745,7 @@
           "value": null
         }
       },
-      "name": "Create Air Elemental",
+      "name": "Создать элементаля воздуха",
       "type": "feature",
       "_id": "00kL0AYgSK8aNbRe",
       "img": "icons/magic/air/air-wave-gust-blue.webp",
@@ -765,7 +765,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -838,7 +838,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -883,7 +883,7 @@
           "value": null
         }
       },
-      "name": "Travel the Planes",
+      "name": "Путешествуйте на самолетах",
       "type": "feature",
       "_id": "f5prZWPlA49tOkuB",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -903,7 +903,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -993,7 +993,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/check str 17 format=long]] or be &amp;Reference[restrained]{restrained} by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a [[/check str 17 format=long]].</p><p>While at least one creature is restrained by one of these whirlwinds, the [[lookup @name lowercase]] can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.</p>",
+          "value": "<p>The [[lookup @name lowercase]] creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/check str 17 format=long]] or be &Reference[restrained]{restrained} by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a [[/check str 17 format=long]].</p><p>While at least one creature is restrained by one of these whirlwinds, the [[lookup @name lowercase]] can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1019,7 +1019,7 @@
           "value": null
         }
       },
-      "name": "Create Whirlwind",
+      "name": "Создать вихрь",
       "type": "feature",
       "_id": "D2myyoGAMTNitjNP",
       "img": "icons/magic/air/wind-tornado-wall-blue.webp",
@@ -1039,7 +1039,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1106,7 +1106,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1146,7 +1146,7 @@
           "value": null
         }
       },
-      "name": "Genie Shape",
+      "name": "Джинн Форма",
       "type": "feature",
       "_id": "AmE67IvAlKrGKzpY",
       "img": "icons/magic/air/wind-swirl-purple-blue.webp",
@@ -1166,7 +1166,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1265,7 +1265,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1334,7 +1334,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Storm Bolt",
+      "name": "Штормовой болт",
       "type": "weapon",
       "_id": "wS1bpQjHkxSKQuRZ",
       "img": "icons/magic/lightning/bolt-strike-blue-white.webp",
@@ -1355,7 +1355,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928885,
         "modifiedTime": 1756755038578,
@@ -1369,7 +1369,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Ice Mephit",
+  "name": "Ледяной Мефит",
   "type": "npc",
   "_id": "3kWX8wTv3jSx6Eip",
-  "img": "systems/black-flag/artwork/tokens/mephit-Ice.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/mephit-Ice.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -160,7 +160,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ice Mephit",
+    "name": "Ледяной Мефит",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -168,7 +168,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/mephit-Ice.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/mephit-Ice.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -340,7 +340,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -404,7 +404,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Check",
+            "name": "Проверка СПО",
             "img": ""
           }
         },
@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the mephit dies, it explodes in a burst of viscous ice. Each creature within 5 feet of it must succeed on a [[/save format=long]] or be &amp;Reference[restrained]{restrained} by ice for 1 minute. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 11 format=long]]. The ice melts immediately if the restrained creature takes fire damage, freeing the creature.</p>",
+          "value": "<p>When the mephit dies, it explodes in a burst of viscous ice. Each creature within 5 feet of it must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained} by ice for 1 minute. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 11 format=long]]. The ice melts immediately if the restrained creature takes fire damage, freeing the creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -443,7 +443,7 @@
           "value": null
         }
       },
-      "name": "Death Burst",
+      "name": "Смертельный взрыв",
       "type": "feature",
       "_id": "DaX7zqeEDUWQCeW6",
       "img": "icons/magic/light/explosion-star-blue-large.webp",
@@ -459,7 +459,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.k6XJzoEMRGhsm3WJ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -473,7 +473,7 @@
       "_key": "!actors.items!3kWX8wTv3jSx6Eip.DaX7zqeEDUWQCeW6"
     },
     {
-      "name": "False Appearance",
+      "name": "Ложная внешность",
       "type": "feature",
       "_id": "QyK3filumsR3RyxP",
       "img": "icons/commodities/treasure/statue-carved-figurehead.webp",
@@ -527,7 +527,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.P3tFaxFkcBUSL0r9",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -627,7 +627,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -690,7 +690,7 @@
         },
         "rarity": ""
       },
-      "name": "Ice Shard",
+      "name": "Ледяной осколок",
       "type": "weapon",
       "_id": "NBqt1XxWpPP8oc97",
       "img": "icons/magic/water/projectile-ice-faceted-blue.webp",
@@ -710,7 +710,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755281030,
@@ -811,7 +811,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -831,7 +831,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit exhales freezing fog in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &amp;Reference[restrained]{restrained} by ice until the end of its next turn. On a success, a creature takes half the damage and isn’t restrained.</p>",
+          "value": "<p>The mephit exhales freezing fog in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{restrained} by ice until the end of its next turn. On a success, a creature takes half the damage and isn’t restrained.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -857,7 +857,7 @@
           "value": null
         }
       },
-      "name": "Frost Breath",
+      "name": "Ледяное дыхание",
       "type": "feature",
       "_id": "6x69JX4uTf6pErCa",
       "img": "icons/magic/water/projectile-beams-salvo-blue.webp",
@@ -877,7 +877,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -951,7 +951,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -970,7 +970,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit casts the @UUID[Compendium.black-flag.spells.Item.cvyXEJ2dVH7aG5Px]{fog cloud} spell, requiring no material components and using CHA as the spellcasting ability.</p>",
+          "value": "<p>The mephit casts the @UUID[Compendium.black-flag-ru.spells.Item.cvyXEJ2dVH7aG5Px]{fog cloud} spell, requiring no material components and using CHA as the spellcasting ability.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -996,7 +996,7 @@
           "value": null
         }
       },
-      "name": "Cloud of Snow",
+      "name": "Облако снега",
       "type": "feature",
       "_id": "eEMuCc3JPbGZoEhm",
       "img": "icons/magic/water/snowflake-ice-blue-white.webp",
@@ -1016,7 +1016,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1027,7 +1027,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Fog Cloud",
+      "name": "Туманное облако",
       "type": "spell",
       "_id": "QS6P6uAhqykQkVU4",
       "img": "icons/magic/air/fog-gas-smoke-swirling-white.webp",
@@ -1091,7 +1091,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1113,7 +1113,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Fog obscures an area."
+          "short": "Туман застилает местность."
         },
         "circle": {
           "value": null,
@@ -1187,9 +1187,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.cvyXEJ2dVH7aG5Px",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.cvyXEJ2dVH7aG5Px",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1199,7 +1199,7 @@
       "_key": "!actors.items!3kWX8wTv3jSx6Eip.QS6P6uAhqykQkVU4"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "k5fp7CatYHai5cau",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1264,7 +1264,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1374,7 +1374,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927154,
         "modifiedTime": 1756755256210,
@@ -1392,7 +1392,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

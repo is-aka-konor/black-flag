@@ -1,6 +1,6 @@
 {
   "folder": "lYXmARawJt9DnCS4",
-  "name": "Symbol of Rank",
+  "name": "Символ ранга",
   "type": "sundry",
   "_id": "bw5sVLkKZlpnlhop",
   "img": "icons/commodities/treasure/medal-ribbon-gold-blue.webp",
@@ -34,7 +34,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722102006769,
     "modifiedTime": 1722102065341,

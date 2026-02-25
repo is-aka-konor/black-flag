@@ -1,6 +1,6 @@
 {
   "folder": "O4IxXknv80RC9gjl",
-  "name": "Stunts",
+  "name": "Трюки",
   "type": "feature",
   "_id": "ARqJyLmMnVQDbw0S",
   "img": "icons/skills/melee/maneuver-greatsword-yellow.webp",
@@ -12,28 +12,28 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.moRiR9MPuqeupawQ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.moRiR9MPuqeupawQ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.IymGHeBYS9Fnsp6F"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IymGHeBYS9Fnsp6F"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.c3dSFTn8e7oBtbIm"
+              "uuid": "Compendium.black-flag-ru.classes.Item.c3dSFTn8e7oBtbIm"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.HB0ojsQJIQ50IYPs"
+              "uuid": "Compendium.black-flag-ru.classes.Item.HB0ojsQJIQ50IYPs"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EnBjNnJsCaH1y5CY"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EnBjNnJsCaH1y5CY"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.DB3dv9M92Bg6qQyS"
+              "uuid": "Compendium.black-flag-ru.classes.Item.DB3dv9M92Bg6qQyS"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.JD05XwzXKr0GAiC5"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JD05XwzXKr0GAiC5"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.uWsau2kY47bq6cYC"
+              "uuid": "Compendium.black-flag-ru.classes.Item.uWsau2kY47bq6cYC"
             }
           ]
         },
@@ -80,7 +80,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700002545041,

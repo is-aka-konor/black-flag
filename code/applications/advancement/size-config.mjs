@@ -14,10 +14,10 @@ export default class SizeConfig extends AdvancementConfig {
 
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		size: {
-			template: "systems/black-flag/templates/advancement/size-config.hbs"
+			template: "systems/black-flag-ru/templates/advancement/size-config.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Periapt of Wound Closure",
+  "name": "Периапт закрытия раны",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724986847292,
     "modifiedTime": 1729533296734,

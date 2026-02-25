@@ -1,6 +1,6 @@
 {
   "folder": "GDoFM686nV2sICKW",
-  "name": "Dark One’s Blessing",
+  "name": "Благословение Темного",
   "type": "feature",
   "_id": "wILbx6Y5rMUAdu0q",
   "img": "icons/magic/fire/beam-strike-whip-red.webp",
@@ -106,7 +106,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719377051403,

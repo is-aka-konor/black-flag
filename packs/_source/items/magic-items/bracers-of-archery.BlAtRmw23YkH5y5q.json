@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Bracers of Archery",
+  "name": "Наручи стрельбы из лука",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/wrist/bracer-orange-fancy.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.BlAtRmw23YkH5y5q",
+      "origin": "Compendium.black-flag-ru.items.Item.BlAtRmw23YkH5y5q",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bracers of Archery",
+      "name": "Наручи стрельбы из лука",
       "img": "icons/equipment/wrist/bracer-orange-fancy.webp",
       "_id": "daSLrHcthKQuttt9",
       "type": "base",
@@ -78,7 +78,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have proficiency with longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.</p>",
+      "description": "<p>Вы одновременно длинным и коротким луком, а также дополнительный бонус +2 к броскам на урон при дальних атаках, выполненных с использованием такого оружия.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -88,7 +88,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725902116233,
         "modifiedTime": 1756335122844,
@@ -107,7 +107,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983520800,
     "modifiedTime": 1728426556234,

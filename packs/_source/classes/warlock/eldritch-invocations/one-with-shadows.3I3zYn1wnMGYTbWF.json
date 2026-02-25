@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "One With Shadows",
+  "name": "Один с тенями",
   "type": "feature",
   "_id": "3I3zYn1wnMGYTbWF",
   "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
@@ -50,7 +50,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Go Invisible",
+        "name": "Стать невидимым",
         "img": ""
       }
     },
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376825885,

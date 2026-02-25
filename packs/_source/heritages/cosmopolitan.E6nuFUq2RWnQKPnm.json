@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Cosmopolitan",
+  "name": "Космополитен",
   "type": "heritage",
   "img": "icons/environment/settlement/castle.webp",
   "system": {
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.BlvWLpQaiW5RrUhi"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.BlvWLpQaiW5RrUhi"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.ytqmqGeJ0twlpqIY"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.ytqmqGeJ0twlpqIY"
             }
           ]
         },
@@ -55,8 +55,8 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.BlvWLpQaiW5RrUhi inline]{Street Smarts}</p><p>@Embed[Compendium.black-flag.heritages.Item.ytqmqGeJ0twlpqIY inline]{Worldly Wisdom}</p><p>@Embed[.Advancement.sqKfqiFDAuLNgnQ3 inline]{Languages}</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.BlvWLpQaiW5RrUhi inline]{Street Smarts}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.ytqmqGeJ0twlpqIY inline]{Worldly Wisdom}</p><p>@Embed[.Advancement.sqKfqiFDAuLNgnQ3 inline]{Languages}</p>",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "cosmopolitan"
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1694990510039,

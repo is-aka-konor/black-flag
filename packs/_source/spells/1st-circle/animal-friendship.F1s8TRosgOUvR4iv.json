@@ -1,5 +1,5 @@
 {
-  "name": "Animal Friendship",
+  "name": "Дружба животных",
   "type": "spell",
   "_id": "F1s8TRosgOUvR4iv",
   "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
@@ -66,7 +66,7 @@
     "description": {
       "value": "<p>This spell lets you convince an animal that you mean it no harm. Choose a Beast or creature with the Animal tag that you can see within range. It must see and hear you. If the creature’s INT is 4 (−3) or higher, the spell fails. Otherwise, the creature must succeed on a [[/save]] save or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st.</p>",
       "source": {},
-      "short": "Charm a Beast for a day."
+      "short": "Очаруйте чудовище на один день."
     },
     "source": [
       "primordial"
@@ -90,7 +90,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a morsel of food"
+        "description": "кусочек еды"
       }
     },
     "duration": {
@@ -126,7 +126,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1717965618340,

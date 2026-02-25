@@ -25,7 +25,7 @@ export default class PseudoDocumentSelection extends DialogV2 {
 	 * Template to use when rendering the dialog.
 	 * @type {string}
 	 */
-	static TEMPLATE = "systems/black-flag/templates/pseudo-document-selection.hbs";
+	static TEMPLATE = "systems/black-flag-ru/templates/pseudo-document-selection.hbs";
 
 	/* <><><><> <><><><> <><><><> <><><><> */
 	/*             Properties              */

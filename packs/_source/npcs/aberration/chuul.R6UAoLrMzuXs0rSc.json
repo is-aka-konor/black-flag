@@ -1,9 +1,9 @@
 {
   "folder": "RuA1hZVgwPDxXhg8",
-  "name": "Chuul",
+  "name": "Чуул",
   "type": "npc",
   "_id": "R6UAoLrMzuXs0rSc",
-  "img": "systems/black-flag/artwork/tokens/chuul.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/chuul.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Chuul",
+    "name": "Чуул",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/chuul.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/chuul.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -254,7 +254,7 @@
   },
   "items": [
     {
-      "name": "Aberrant Resilience",
+      "name": "Аберрантная устойчивость",
       "type": "feature",
       "_id": "6vGKJKjjYA3W3r5e",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -297,7 +297,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -308,7 +308,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Aberrant Resilience",
+          "name": "Аберрантная устойчивость",
           "_id": "vyiAWYKxFWNBOFa1",
           "changes": [
             {
@@ -345,7 +345,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -371,7 +371,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.SXHeq6pvWONWyCUU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -385,7 +385,7 @@
       "_key": "!actors.items!R6UAoLrMzuXs0rSc.6vGKJKjjYA3W3r5e"
     },
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "TUcaJX91MHMkj3yy",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -439,7 +439,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -512,7 +512,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -552,7 +552,7 @@
           "value": null
         }
       },
-      "name": "Sense Magic",
+      "name": "Чувство магии",
       "type": "feature",
       "_id": "4cj7Ig0opftqFF4N",
       "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
@@ -568,7 +568,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1WUMa066KJdDFpuS",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -582,7 +582,7 @@
       "_key": "!actors.items!R6UAoLrMzuXs0rSc.4cj7Ig0opftqFF4N"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "uyIaSl6NqEomoFTA",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -686,7 +686,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -837,7 +837,7 @@
           "value": null
         }
       },
-      "name": "Wild Reach",
+      "name": "Дикий Предел",
       "type": "feature",
       "_id": "A8utGHO34DUBdebS",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
@@ -857,7 +857,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -951,7 +951,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the chuul must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute. Until this poison ends, the creature is &amp;Reference[paralyzed]{paralyzed}. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>One creature grappled by the chuul must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. Until this poison ends, the creature is &Reference[paralyzed]{paralyzed}. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -977,7 +977,7 @@
           "value": null
         }
       },
-      "name": "Paralyzing Tentacles",
+      "name": "Парализующие щупальца",
       "type": "feature",
       "_id": "Wcxq1V9zqUIvbMnE",
       "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
@@ -997,7 +997,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1081,7 +1081,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1100,7 +1100,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is Large or smaller, it is &amp;Reference[grappled]{grappled} (escape DC 14). The chuul has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is Large or smaller, it is &Reference[grappled]{grappled} (escape DC 14). The chuul has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1153,7 +1153,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Pincer",
+      "name": "Клещи",
       "type": "weapon",
       "_id": "gviWn6S72YUUCuOw",
       "img": "icons/creatures/claws/pincer-crab-brown.webp",
@@ -1174,7 +1174,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931511,
         "modifiedTime": 1756749161466,
@@ -1188,7 +1188,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

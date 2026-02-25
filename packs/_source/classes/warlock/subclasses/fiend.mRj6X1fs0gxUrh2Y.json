@@ -1,6 +1,6 @@
 {
   "folder": "sKeJjeNmn8WvUzET",
-  "name": "Fiend",
+  "name": "Дьявол",
   "type": "subclass",
   "_id": "mRj6X1fs0gxUrh2Y",
   "img": "icons/creatures/unholy/demon-fire-horned-winged-roar.webp",
@@ -16,10 +16,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.wILbx6Y5rMUAdu0q"
+              "uuid": "Compendium.black-flag-ru.classes.Item.wILbx6Y5rMUAdu0q"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.uYazv6bvQh4TxGvr"
+              "uuid": "Compendium.black-flag-ru.classes.Item.uYazv6bvQh4TxGvr"
             }
           ]
         },
@@ -35,7 +35,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.2wQBLAVVeqPHDvUG"
+              "uuid": "Compendium.black-flag-ru.classes.Item.2wQBLAVVeqPHDvUG"
             }
           ]
         },
@@ -51,7 +51,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.uAVFZaOnHg6JENWc"
+              "uuid": "Compendium.black-flag-ru.classes.Item.uAVFZaOnHg6JENWc"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.IZPE9SYK63gT1JW2"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IZPE9SYK63gT1JW2"
             }
           ]
         },
@@ -77,8 +77,8 @@
     "description": {
       "value": "<p>Your patron is a greater fiend who holds dominion over lesser demons or devils. Fiendish patrons are uncontestably bound to the forces of evil—though the warlocks they choose rarely are. These patrons often delight in granting power to mortals, even if those mortals openly strive against their destructive aims. Whether these tendencies are exercises in corruption or serve a more nefarious design, few can say.</p>",
       "source": {},
-      "short": "Your patron is a greater fiend who holds dominion over lesser demons or devils. Fiendish patrons are uncontestably bound to the forces of evil—though the warlocks they choose rarely are. These patrons often delight in granting power to mortals, even if those mortals openly strive against their destructive aims. Whether these tendencies are exercises in corruption or serve a more nefarious design, few can say.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.kryxFxs3VKB9FMON"
+      "short": "Ваш покровитель — великий злодей, властвующий над меньшими демонами и дьяволами. Дьявольские покровители, несомненно, связаны с силами зла, хотя колдуны, которых они выбирают, редко таковы. Эти покровители часто получают удовольствие от предоставления власти смертным, даже если эти смертные открыто борются против их разрушительных целей. Являются ли эти тенденции проявлением коррупции или служат более гнусным замыслам, мало кто может сказать.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.kryxFxs3VKB9FMON"
     },
     "identifier": {
       "value": "fiend",
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376985032,

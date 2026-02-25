@@ -1,6 +1,6 @@
 {
   "folder": "LMtPAhFY28bApEKC",
-  "name": "Favored Foe",
+  "name": "Привилегированный враг",
   "type": "feature",
   "_id": "tgPYAORtOXRt73Z8",
   "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
@@ -49,7 +49,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Study Foe",
+        "name": "Изучите врага",
         "img": ""
       }
     },
@@ -91,7 +91,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718422353436,

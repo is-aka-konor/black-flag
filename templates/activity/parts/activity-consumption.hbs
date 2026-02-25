@@ -5,7 +5,7 @@
 			<ul class="configuration-list">
 				{{#each activity.consumption.targets}}
 					<li data-index="{{ @index }}">
-						{{> "systems/black-flag/templates/activity/parts/activity-consumption-part.hbs" consumption=this
+						{{> "systems/black-flag-ru/templates/activity/parts/activity-consumption-part.hbs" consumption=this
 						    fields=@root.fields.consumption.fields.targets.element.fields
 								prefix=(concat "consumption.targets." @index ".")
 						    scalingAllowed=@root.source.consumption.scale.allowed }}
@@ -35,5 +35,5 @@
 		</fieldset>
 	</blackFlag-consumption>
 
-	{{> "systems/black-flag/templates/shared/uses-config.hbs" name="uses" source=source.uses derived=activity.uses }}
+	{{> "systems/black-flag-ru/templates/shared/uses-config.hbs" name="uses" source=source.uses derived=activity.uses }}
 </section>

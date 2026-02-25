@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Fire Beetle",
+  "name": "Гигантский огненный жук",
   "type": "npc",
   "_id": "qvC6VqO6BfDUg0sf",
-  "img": "systems/black-flag/artwork/tokens/beetle-fire.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/beetle-fire.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,7 +149,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Fire Beetle",
+    "name": "Гигантский огненный жук",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -157,7 +157,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/beetle-fire.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/beetle-fire.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -288,7 +288,7 @@
           "proficiency": null
         }
       },
-      "name": "Illumination",
+      "name": "Освещение",
       "type": "feature",
       "_id": "mDYs1uHtghYi9CKQ",
       "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -301,10 +301,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -450,7 +450,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Subsequent Fire Damage",
+            "name": "Последующий ущерб от огня",
             "img": ""
           }
         },
@@ -505,7 +505,7 @@
         },
         "rarity": ""
       },
-      "name": "Igniting Mucus",
+      "name": "Разжигающая слизь",
       "type": "weapon",
       "_id": "iQD62za0y7Dmg19b",
       "img": "icons/creatures/slimes/slime-movement-splashing-red.webp",
@@ -525,7 +525,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -535,7 +535,7 @@
       "_key": "!actors.items!qvC6VqO6BfDUg0sf.iQD62za0y7Dmg19b"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "DW9k9zGbghAgGX6r",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -585,7 +585,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -695,7 +695,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935003,
         "modifiedTime": 1756750197280,
@@ -713,7 +713,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

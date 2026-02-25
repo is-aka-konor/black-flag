@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Lead-Based Ink (for Illusory Script)",
+  "name": "Чернила на основе свинца (для иллюзорного письма)",
   "type": "sundry",
   "_id": "VENhWhFIXW4m7dIl",
   "img": "icons/tools/scribal/ink-quill-red.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703962704550,

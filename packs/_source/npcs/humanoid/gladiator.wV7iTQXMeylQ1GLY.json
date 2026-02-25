@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Gladiator",
+  "name": "Гладиатор",
   "type": "npc",
   "_id": "wV7iTQXMeylQ1GLY",
-  "img": "systems/black-flag/artwork/tokens/gladiator.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/gladiator.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,7 +149,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gladiator",
+    "name": "Гладиатор",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -157,7 +157,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/gladiator.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/gladiator.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   "items": [
     {
       "folder": "9Er7AXgwcIA7EnGb",
-      "name": "Studded Leather",
+      "name": "Кожа с шипами",
       "type": "armor",
       "_id": "8phoJjAHrvB7LBZl",
       "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
@@ -310,9 +310,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.wltnYOTuHz96wXq5",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.wltnYOTuHz96wXq5",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -323,7 +323,7 @@
     },
     {
       "folder": "wY6fgyjQXhuGiB1F",
-      "name": "Shield",
+      "name": "Щит",
       "type": "armor",
       "_id": "2c1KXd523I1qAahm",
       "img": "icons/equipment/shield/buckler-wooden-boss.webp",
@@ -387,9 +387,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -399,7 +399,7 @@
       "_key": "!actors.items!wV7iTQXMeylQ1GLY.2c1KXd523I1qAahm"
     },
     {
-      "name": "Brutal",
+      "name": "жестокий",
       "type": "feature",
       "_id": "GpPmUceflKDGmMym",
       "img": "icons/skills/melee/strike-axe-blood-red.webp",
@@ -453,9 +453,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.GwEfQ9adrzpzAjze",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.GwEfQ9adrzpzAjze",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -465,7 +465,7 @@
       "_key": "!actors.items!wV7iTQXMeylQ1GLY.GpPmUceflKDGmMym"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "o90RM71TJISTd86A",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -569,7 +569,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -584,7 +584,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Spear",
+      "name": "Копье",
       "type": "weapon",
       "_id": "CF2aUat1jra1Qwpc",
       "img": "icons/weapons/polearms/spear-simple-engraved.webp",
@@ -658,7 +658,7 @@
               "min": "",
               "max": ""
             },
-            "name": "One-Handed Attack",
+            "name": "Одноручная атака",
             "img": "",
             "sort": 0
           },
@@ -751,7 +751,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Two-Handed Attack",
+            "name": "Двуручная атака",
             "img": ""
           }
         },
@@ -828,9 +828,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eG0Vk1Kr8peAAYhW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eG0Vk1Kr8peAAYhW",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758195967,
@@ -922,7 +922,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gladiator slams its spear against its shield, twirls its spear, or roars while flexing, entertaining or intimidating up to two creatures it can see within 15 feet of it. Each target must succeed on a [[/save format=long]] or be &amp;Reference[charmed]{charmed} or &amp;Reference[frightened]{frightened} (the gladiator’s choice) until the end of its next turn.</p>",
+          "value": "<p>The gladiator slams its spear against its shield, twirls its spear, or roars while flexing, entertaining or intimidating up to two creatures it can see within 15 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} or &Reference[frightened]{frightened} (the gladiator’s choice) until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -948,7 +948,7 @@
           "value": null
         }
       },
-      "name": "Entertaining Display",
+      "name": "Развлекательный дисплей",
       "type": "feature",
       "_id": "ZDyfiOCTSv6ELRFA",
       "img": "icons/magic/control/buff-strength-muscle-damage.webp",
@@ -968,7 +968,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -978,7 +978,7 @@
       "_key": "!actors.items!wV7iTQXMeylQ1GLY.ZDyfiOCTSv6ELRFA"
     },
     {
-      "name": "Parry",
+      "name": "Парировать",
       "type": "feature",
       "_id": "LqjsktoMHz3VPZ6h",
       "img": "icons/skills/melee/swords-parry-block-blue.webp",
@@ -1088,7 +1088,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Parry",
+          "name": "Парировать",
           "img": "icons/skills/melee/swords-parry-block-blue.webp",
           "_id": "ekXxX78ZwV9cciOr",
           "type": "base",
@@ -1111,7 +1111,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1135,9 +1135,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.JezxlzgUm9HJrUaR",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.JezxlzgUm9HJrUaR",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1223,7 +1223,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -1299,7 +1299,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1317,7 +1317,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it must succeed on a [[/save str 15 format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it must succeed on a [[/save str 15 format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1367,7 +1367,7 @@
         },
         "rarity": ""
       },
-      "name": "Shield Bash",
+      "name": "Удар щитом",
       "type": "weapon",
       "_id": "OKpf1bbkkzIw6Z4B",
       "img": "icons/equipment/shield/heater-stone-orange.webp",
@@ -1384,7 +1384,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936051,
         "modifiedTime": 1756758152347,
@@ -1402,7 +1402,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

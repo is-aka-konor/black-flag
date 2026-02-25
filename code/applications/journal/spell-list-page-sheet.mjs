@@ -26,11 +26,11 @@ export default class JournalSpellListPageSheet extends JournalEntryPageHandlebar
 	static EDIT_PARTS = {
 		header: super.EDIT_PARTS.header,
 		config: {
-			template: "systems/black-flag/templates/journal/spell-list-page-config.hbs"
+			template: "systems/black-flag-ru/templates/journal/spell-list-page-config.hbs"
 		},
 		list: {
 			classes: ["right", "spell-list"],
-			template: "systems/black-flag/templates/journal/spell-list-page-list.hbs",
+			template: "systems/black-flag-ru/templates/journal/spell-list-page-list.hbs",
 			scrollable: []
 		}
 	};
@@ -41,7 +41,7 @@ export default class JournalSpellListPageSheet extends JournalEntryPageHandlebar
 	static VIEW_PARTS = {
 		content: {
 			root: true,
-			template: "systems/black-flag/templates/journal/spell-list-page-view.hbs"
+			template: "systems/black-flag-ru/templates/journal/spell-list-page-view.hbs"
 		}
 	};
 

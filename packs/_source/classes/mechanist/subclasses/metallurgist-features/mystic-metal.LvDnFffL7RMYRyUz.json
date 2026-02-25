@@ -1,6 +1,6 @@
 {
   "folder": "kbsqEF5chqRSFMf7",
-  "name": "Mystic Metal",
+  "name": "Мистический Металл",
   "type": "feature",
   "_id": "LvDnFffL7RMYRyUz",
   "img": "icons/commodities/tech/frame-copper.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128156397,

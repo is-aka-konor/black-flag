@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Goggles of Night",
+  "name": "Очки ночи",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -42,8 +42,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Goggles of Night",
-      "origin": "Compendium.black-flag.items.Item.oTOpeVMfa0mSpPoe",
+      "name": "Очки ночи",
+      "origin": "Compendium.black-flag-ru.items.Item.oTOpeVMfa0mSpPoe",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -77,7 +77,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728594520321,
         "modifiedTime": 1756334056044,
@@ -96,7 +96,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724985201131,
     "modifiedTime": 1728594515817,

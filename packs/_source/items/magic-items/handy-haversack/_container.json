@@ -1,6 +1,6 @@
 {
   "type": "container",
-  "name": "Handy Haversack",
+  "name": "Удобный рюкзак",
   "system": {
     "rarity": "rare",
     "price": {
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1724985696159,
     "modifiedTime": 1728594622997,

@@ -1,5 +1,5 @@
 {
-  "name": "Copper",
+  "name": "Медь",
   "type": "currency",
   "_id": "CsAQAHTK5LWUHcPX",
   "img": "icons/commodities/currency/coin-oval-rune-copper.webp",
@@ -33,7 +33,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1704133100845,

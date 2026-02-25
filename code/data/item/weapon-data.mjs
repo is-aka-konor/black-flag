@@ -70,7 +70,7 @@ export default class WeaponData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Weapon",
 				icon: "fa-solid fa-trowel",
-				img: "systems/black-flag/artwork/types/weapon.svg"
+				img: "systems/black-flag-ru/artwork/types/weapon.svg"
 			},
 			{ inplace: false }
 		)

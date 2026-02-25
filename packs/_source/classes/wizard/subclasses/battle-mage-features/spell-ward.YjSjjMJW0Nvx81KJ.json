@@ -1,6 +1,6 @@
 {
   "folder": "9wNf4h5hxBJVdfHn",
-  "name": "Spell Ward",
+  "name": "Защита от заклинаний",
   "type": "feature",
   "_id": "YjSjjMJW0Nvx81KJ",
   "img": "icons/magic/defensive/barrier-shield-dome-deflect-teal.webp",
@@ -68,7 +68,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.YjSjjMJW0Nvx81KJ",
+      "origin": "Compendium.black-flag-ru.classes.Item.YjSjjMJW0Nvx81KJ",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -79,7 +79,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Spell Ward",
+      "name": "Защита от заклинаний",
       "_id": "dqha31WGdiIZsYOy",
       "changes": [
         {
@@ -136,7 +136,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700002851822,

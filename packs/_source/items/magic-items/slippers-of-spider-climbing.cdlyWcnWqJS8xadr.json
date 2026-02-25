@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Slippers of Spider Climbing",
+  "name": "Тапочки Паучьего Лазанья",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Spider Climbing",
-      "origin": "Compendium.black-flag.items.Item.cdlyWcnWqJS8xadr",
+      "name": "Паук восхождение",
+      "origin": "Compendium.black-flag-ru.items.Item.cdlyWcnWqJS8xadr",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.050",
         "createdTime": 1730072502747,
         "modifiedTime": 1730072520259,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1725071284372,
     "modifiedTime": 1730072501552,

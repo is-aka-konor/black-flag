@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Fiendish Vigor",
+  "name": "Дьявольская энергия",
   "type": "feature",
   "_id": "abYX4crZeAx5O04N",
   "img": "icons/magic/death/bones-crossed-orange.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376547040,

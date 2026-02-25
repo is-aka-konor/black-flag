@@ -19,11 +19,11 @@ export default class SkillConfig extends BaseSelectorConfigSheet {
 		...super.PARTS,
 		config: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/skill-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/skill-config.hbs"
 		},
 		modifiers: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/modifier-section.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/modifier-section.hbs"
 		}
 	};
 

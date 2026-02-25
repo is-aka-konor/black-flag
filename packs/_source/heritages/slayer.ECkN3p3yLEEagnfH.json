@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Slayer",
+  "name": "убийца",
   "type": "heritage",
   "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
   "system": {
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.6J1NfgxVkXX2RIfE"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.6J1NfgxVkXX2RIfE"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.SqSal1OIRyeCBN4e"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.SqSal1OIRyeCBN4e"
             }
           ]
         },
@@ -55,8 +55,8 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.6J1NfgxVkXX2RIfE inline]{Ferocity}</p><p>@Embed[Compendium.black-flag.heritages.Item.SqSal1OIRyeCBN4e inline]{Natural Predator}</p><p>@Embed[.Advancement.keARfPlTLtOG9ree inline]{Languages}</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.6J1NfgxVkXX2RIfE inline]{Ferocity}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.SqSal1OIRyeCBN4e inline]{Natural Predator}</p><p>@Embed[.Advancement.keARfPlTLtOG9ree inline]{Languages}</p>",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "slayer"
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1694990542073,

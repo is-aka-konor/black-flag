@@ -1,5 +1,5 @@
 {
-  "name": "Whetstone",
+  "name": "точильный камень",
   "type": "gear",
   "_id": "BcwroBTsfJ2mQJfK",
   "img": "icons/commodities/stone/masonry-block-cube-grey.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717532417373,

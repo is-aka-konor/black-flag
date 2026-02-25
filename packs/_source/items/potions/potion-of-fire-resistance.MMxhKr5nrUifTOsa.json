@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Fire Resistance",
+  "name": "Зелье огнестойкости",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "G8oFBmOit2c2HdlX"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
   "effects": [
     {
-      "name": "Fire Resistance",
+      "name": "Огнестойкость",
       "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
-      "origin": "Compendium.black-flag.items.Item.MMxhKr5nrUifTOsa",
+      "origin": "Compendium.black-flag-ru.items.Item.MMxhKr5nrUifTOsa",
       "transfer": false,
       "_id": "x3qBFW0pISknHapT",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539863961,
         "modifiedTime": 1729539975116,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073732036,
     "modifiedTime": 1735684925603,

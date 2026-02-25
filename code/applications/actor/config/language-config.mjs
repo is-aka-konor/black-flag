@@ -20,19 +20,19 @@ export default class LanguageConfig extends BaseCustomConfigSheet {
 	static PARTS = {
 		dialects: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/actor/config/language-config-dialects.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/language-config-dialects.hbs"
 		},
 		custom: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/actor/config/language-config-custom.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/language-config-custom.hbs"
 		},
 		tags: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/actor/config/language-config-tags.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/language-config-tags.hbs"
 		},
 		communication: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/actor/config/language-config-communication.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/language-config-communication.hbs"
 		}
 	};
 

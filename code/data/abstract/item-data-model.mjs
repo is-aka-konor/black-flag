@@ -27,7 +27,7 @@ export default class ItemDataModel extends BaseDataModel {
 			{
 				hasDetails: true,
 				hasEffects: true,
-				tooltipTemplate: "systems/black-flag/templates/item/item-tooltip.hbs"
+				tooltipTemplate: "systems/black-flag-ru/templates/item/item-tooltip.hbs"
 			},
 			{ inplace: false }
 		)

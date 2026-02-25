@@ -24,7 +24,7 @@ export default class TableOfContentsCompendium extends foundry.applications.side
 	static PARTS = {
 		article: {
 			root: true,
-			template: "systems/black-flag/templates/journal/table-of-contents.hbs"
+			template: "systems/black-flag-ru/templates/journal/table-of-contents.hbs"
 		}
 	};
 

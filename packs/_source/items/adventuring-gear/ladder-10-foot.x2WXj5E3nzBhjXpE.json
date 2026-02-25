@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Ladder (10-foot)",
+  "name": "Лестница (10 футов)",
   "type": "gear",
   "_id": "x2WXj5E3nzBhjXpE",
   "img": "icons/sundries/misc/ladder-improvised.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363426703,

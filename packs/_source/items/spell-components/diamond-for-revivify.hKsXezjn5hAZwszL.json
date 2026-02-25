@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Diamond (for Revivify)",
+  "name": "Алмаз (для оживления)",
   "type": "sundry",
   "_id": "hKsXezjn5hAZwszL",
   "img": "icons/commodities/gems/gem-faceted-round-white.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703961862972,

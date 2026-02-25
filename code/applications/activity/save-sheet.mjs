@@ -15,14 +15,14 @@ export default class SaveSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		effect: {
-			template: "systems/black-flag/templates/activity/save-effect.hbs",
+			template: "systems/black-flag-ru/templates/activity/save-effect.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-effects.hbs",
-				"systems/black-flag/templates/activity/parts/damage-part.hbs",
-				"systems/black-flag/templates/activity/parts/damage-parts.hbs",
-				"systems/black-flag/templates/activity/parts/save-damage.hbs",
-				"systems/black-flag/templates/activity/parts/save-details.hbs",
-				"systems/black-flag/templates/activity/parts/save-effect-settings.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-effects.hbs",
+				"systems/black-flag-ru/templates/activity/parts/damage-part.hbs",
+				"systems/black-flag-ru/templates/activity/parts/damage-parts.hbs",
+				"systems/black-flag-ru/templates/activity/parts/save-damage.hbs",
+				"systems/black-flag-ru/templates/activity/parts/save-details.hbs",
+				"systems/black-flag-ru/templates/activity/parts/save-effect-settings.hbs"
 			]
 		}
 	};
@@ -33,7 +33,7 @@ export default class SaveSheet extends ActivitySheet {
 
 	/** @override */
 	_prepareAppliedEffectContext(context, effect) {
-		effect.additionalSettings = "systems/black-flag/templates/activity/parts/save-effect-settings.hbs";
+		effect.additionalSettings = "systems/black-flag-ru/templates/activity/parts/save-effect-settings.hbs";
 		return effect;
 	}
 

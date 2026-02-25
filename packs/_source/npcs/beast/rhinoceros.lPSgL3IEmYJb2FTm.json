@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Rhinoceros",
+  "name": "Носорог",
   "type": "npc",
   "_id": "lPSgL3IEmYJb2FTm",
-  "img": "systems/black-flag/artwork/tokens/rhino.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/rhino.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -152,7 +152,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Rhinoceros",
+    "name": "Носорог",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -160,7 +160,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/rhino.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/rhino.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -331,7 +331,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -345,7 +345,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the rhinoceros and knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the rhinoceros and knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -371,7 +371,7 @@
           "value": null
         }
       },
-      "name": "Charge",
+      "name": "Зарядка",
       "type": "feature",
       "_id": "zlkbiEOohuhao7hw",
       "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
@@ -387,7 +387,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hw5fweWJcaECt9xk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -401,7 +401,7 @@
       "_key": "!actors.items!lPSgL3IEmYJb2FTm.zlkbiEOohuhao7hw"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "xxghCGJs5sKL03LH",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -505,7 +505,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -585,7 +585,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -599,7 +599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -625,7 +625,7 @@
           "value": null
         }
       },
-      "name": "Quaking Stomp",
+      "name": "Трясущийся топот",
       "type": "feature",
       "_id": "7HTJ1Vh00pCMjgmU",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -645,7 +645,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -729,7 +729,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -798,7 +798,7 @@
         },
         "rarity": ""
       },
-      "name": "Gore",
+      "name": "Гор",
       "type": "weapon",
       "_id": "sThSbWaJmvb6o4WG",
       "img": "icons/creatures/mammals/bull-horns-eyes-glowin-orange.webp",
@@ -815,7 +815,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934257,
         "modifiedTime": 1756750578781,
@@ -833,7 +833,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,8 +1,8 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Sahuagin",
+  "name": "Сахуагин",
   "type": "npc",
-  "img": "systems/black-flag/artwork/tokens/sahuagin.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/sahuagin.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,7 +153,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Sahuagin",
+    "name": "Сахуагин",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -161,7 +161,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/sahuagin.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/sahuagin.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -286,7 +286,7 @@
           "value": null
         }
       },
-      "name": "Blood Frenzy",
+      "name": "Кровавое безумие",
       "type": "feature",
       "_id": "vos7st898vHQARTs",
       "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
@@ -302,7 +302,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qQ9jHMyRWJRCSiXF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -316,7 +316,7 @@
       "_key": "!actors.items!hiQXL3rtSIZsrKui.vos7st898vHQARTs"
     },
     {
-      "name": "Limited Amphibiousness",
+      "name": "Ограниченная амфибийность",
       "type": "feature",
       "_id": "Bp8WQMJTqOYor5XG",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -370,7 +370,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -487,7 +487,7 @@
           "value": null
         }
       },
-      "name": "Shark Telepathy",
+      "name": "Акулья телепатия",
       "type": "feature",
       "_id": "cmjmkUJFFgKaL36o",
       "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
@@ -503,7 +503,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.lvdFpKkYOFgqRmYq",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -517,7 +517,7 @@
       "_key": "!actors.items!hiQXL3rtSIZsrKui.cmjmkUJFFgKaL36o"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "HMbV8d8JseWT0r3j",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -621,7 +621,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -635,7 +635,7 @@
       "_key": "!actors.items!hiQXL3rtSIZsrKui.HMbV8d8JseWT0r3j"
     },
     {
-      "name": "Trident",
+      "name": "Трезубец",
       "type": "weapon",
       "_id": "5XflU17uLYQjbaCT",
       "img": "icons/weapons/polearms/trident-silver-blue.webp",
@@ -712,7 +712,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 100000,
             "magical": false,
             "visibility": {
@@ -785,7 +785,7 @@
               "min": "",
               "max": ""
             },
-            "name": "DEX Save",
+            "name": "Сохранить DEX",
             "img": ""
           }
         },
@@ -862,9 +862,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.KOE2ZOUMtbY0OkS9",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.KOE2ZOUMtbY0OkS9",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758937541,
@@ -957,7 +957,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the [[lookup @name lowercase]] can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the [[lookup @name lowercase]] can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -983,7 +983,7 @@
           "value": null
         }
       },
-      "name": "Circling Sharks",
+      "name": "Кружащие акулы",
       "type": "feature",
       "_id": "YbR4OJ6CyMjQ6nNh",
       "img": "icons/creatures/fish/fish-shark-swimming.webp",
@@ -1003,7 +1003,7 @@
         "compendiumSource": "Actor.lsDh4yW8ozZeZDME.Item.JHr0gMH7q7pQgKLb",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1013,7 +1013,7 @@
       "_key": "!actors.items!hiQXL3rtSIZsrKui.YbR4OJ6CyMjQ6nNh"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "DcJgWqtEZDh8xYhE",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1063,7 +1063,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1173,7 +1173,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933793,
         "modifiedTime": 1756758912948,
@@ -1191,7 +1191,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

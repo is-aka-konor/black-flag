@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Will-o’-Wisp",
+  "name": "Блуждающий огонь",
   "type": "npc",
   "_id": "Z7Im1Pl2ugOycad7",
-  "img": "systems/black-flag/artwork/tokens/will-o-wisp.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/will-o-wisp.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -171,7 +171,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Will-o’-Wisp",
+    "name": "Блуждающий огонь",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -179,7 +179,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/will-o-wisp.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/will-o-wisp.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -304,7 +304,7 @@
           "value": null
         }
       },
-      "name": "Ephemeral",
+      "name": "Эфемерный",
       "type": "feature",
       "_id": "MKfpPXEY7mOtlcqe",
       "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -324,7 +324,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -448,7 +448,7 @@
           "value": null
         }
       },
-      "name": "Incorporeal Movement",
+      "name": "Бестелесное движение",
       "type": "feature",
       "_id": "5HyopJ6JLuwF3x8A",
       "img": "icons/magic/death/undead-ghost-scream-teal.webp",
@@ -464,7 +464,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.6m51CqqCQ91UkrbH",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -516,7 +516,7 @@
           "value": null
         }
       },
-      "name": "Variable Illumination",
+      "name": "Переменная освещенность",
       "type": "feature",
       "_id": "vRmyXGJWtjDXA4uK",
       "img": "icons/magic/light/explosion-star-small-teal-purple.webp",
@@ -536,7 +536,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -546,7 +546,7 @@
       "_key": "!actors.items!Z7Im1Pl2ugOycad7.vRmyXGJWtjDXA4uK"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -597,7 +597,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.nryL8pXwd7SJzonQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -612,7 +612,7 @@
       "_key": "!actors.items!Z7Im1Pl2ugOycad7.mGkkyz92j1PL7e8h"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -654,7 +654,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -665,7 +665,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -696,7 +696,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -722,7 +722,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -737,7 +737,7 @@
       "_key": "!actors.items!Z7Im1Pl2ugOycad7.hOpKnR0H5muv51e7"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "iV00jBHsdWUN9iLd",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -841,7 +841,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -855,7 +855,7 @@
       "_key": "!actors.items!Z7Im1Pl2ugOycad7.iV00jBHsdWUN9iLd"
     },
     {
-      "name": "Invisibility",
+      "name": "Невидимость",
       "type": "feature",
       "_id": "cmxaNVmCyb9Klc6A",
       "img": "icons/creatures/magical/spirit-fear-energy-pink.webp",
@@ -959,7 +959,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.89t9TSnZO2qnDjao",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1082,7 +1082,7 @@
           "value": null
         }
       },
-      "name": "Beckon",
+      "name": "Манить",
       "type": "feature",
       "_id": "UqXPfTJL5io6jP6A",
       "img": "icons/magic/light/orb-container-orange.webp",
@@ -1102,7 +1102,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1223,7 +1223,7 @@
           "value": null
         }
       },
-      "name": "Consume Life",
+      "name": "Потребляйте жизнь",
       "type": "feature",
       "_id": "df2O7y74KnYtA7kj",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
@@ -1243,7 +1243,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1327,7 +1327,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1396,7 +1396,7 @@
         },
         "rarity": ""
       },
-      "name": "Shock",
+      "name": "Шок",
       "type": "weapon",
       "_id": "pxsCye0S0gW0vBV1",
       "img": "icons/magic/lightning/barrier-shield-crackling-orb-pink.webp",
@@ -1417,7 +1417,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932892,
         "modifiedTime": 1756761139272,
@@ -1431,7 +1431,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

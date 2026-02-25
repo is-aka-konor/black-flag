@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Regenerate",
+  "name": "Регенерировать",
   "type": "spell",
   "_id": "xh1UQL21umN4ZRsE",
   "img": "icons/magic/unholy/hand-marked-pink.webp",
@@ -89,7 +89,7 @@
     "description": {
       "value": "<p>You touch a creature and stimulate its natural healing ability. The target regains [[/healing 4d8 + 15]]{4d8 + 15 hit points}. For the duration of the spell, the target regains 1 HP at the start of each of its turns (10 HP each minute).</p><p>The target’s severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.</p><p>Once you cast this spell, you can’t do so again until you complete a long rest.</p>",
       "source": {},
-      "short": "Heal creature slowly, completely."
+      "short": "Лечите существо медленно и полностью."
     },
     "casting": {
       "value": 1,
@@ -110,7 +110,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a prayer wheel or an intact sleeve of snakeskin and holy water"
+        "description": "молитвенное колесо или неповрежденный рукав из змеиной кожи и святой воды"
       }
     },
     "duration": {
@@ -153,7 +153,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723264592630,
     "modifiedTime": 1723265397013,

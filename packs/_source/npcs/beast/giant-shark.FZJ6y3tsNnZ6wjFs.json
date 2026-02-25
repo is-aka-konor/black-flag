@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Shark",
+  "name": "Гигантская акула",
   "type": "npc",
   "_id": "FZJ6y3tsNnZ6wjFs",
-  "img": "systems/black-flag/artwork/tokens/shark.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/shark.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,7 +153,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Shark",
+    "name": "Гигантская акула",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -161,7 +161,7 @@
     "width": 3,
     "height": 3,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/shark.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/shark.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -292,7 +292,7 @@
           "value": null
         }
       },
-      "name": "Blood Frenzy",
+      "name": "Кровавое безумие",
       "type": "feature",
       "_id": "QzIrZbEf6KdImSvQ",
       "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
@@ -308,7 +308,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qQ9jHMyRWJRCSiXF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -425,7 +425,7 @@
           "value": null
         }
       },
-      "name": "Blood Sense",
+      "name": "Чувство крови",
       "type": "feature",
       "_id": "GHN9VHFYHajyLcHH",
       "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
@@ -441,7 +441,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OVIUDnfP4QmF7Cjt",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -533,7 +533,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the shark takes lightning damage, it must succeed on a [[/save format=long]] or be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>Whenever the shark takes lightning damage, it must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -559,7 +559,7 @@
           "value": null
         }
       },
-      "name": "Electrical Sensitivity",
+      "name": "Электрическая чувствительность",
       "type": "feature",
       "_id": "SGzVT0ccvySWrsKt",
       "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
@@ -579,7 +579,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -627,7 +627,7 @@
           "value": null
         }
       },
-      "name": "Water Breathing",
+      "name": "Водное дыхание",
       "type": "feature",
       "_id": "JQQh1UFDp7TspOYK",
       "img": "icons/creatures/fish/squid-kraken-teal.webp",
@@ -643,7 +643,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.2blGHf9wxEk2itGI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -657,7 +657,7 @@
       "_key": "!actors.items!FZJ6y3tsNnZ6wjFs.JQQh1UFDp7TspOYK"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "z7b7hFV0wgejvb04",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -761,7 +761,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -874,7 +874,7 @@
           "value": null
         }
       },
-      "name": "Swift Hunter",
+      "name": "Стремительный охотник",
       "type": "feature",
       "_id": "Zxiz5zC8L0tATtaB",
       "img": "icons/creatures/fish/fish-shark-swimming.webp",
@@ -894,7 +894,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -904,7 +904,7 @@
       "_key": "!actors.items!FZJ6y3tsNnZ6wjFs.Zxiz5zC8L0tATtaB"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "z1E4YiL5sp2RA1qU",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -956,7 +956,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1066,7 +1066,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929426,
         "modifiedTime": 1756750323139,
@@ -1084,7 +1084,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

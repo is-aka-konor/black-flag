@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Jade Dust (for Magic Mouth)",
+  "name": "Нефритовая пыль (для Волшебного рта)",
   "type": "sundry",
   "_id": "QOCbcwhK2QwJ3gqc",
   "img": "icons/commodities/materials/bowl-powder-teal.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703962818886,

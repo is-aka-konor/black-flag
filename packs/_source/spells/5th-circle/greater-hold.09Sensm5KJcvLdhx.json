@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Greater Hold",
+  "name": "Большой Холд",
   "type": "spell",
   "_id": "09Sensm5KJcvLdhx",
   "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
@@ -70,9 +70,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose any creature that you can see within range. The target must succeed on a [[/save]] save or be &amp;Reference[paralyzed] for the duration. At the end of each of its turns, an affected target can repeat the [[/save]] save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, you can target one additional creature for each slot above 5th. The creatures must be within 30 feet of each other when you target them.</p>",
+      "value": "<p>Choose any creature that you can see within range. The target must succeed on a [[/save]] save or be &Reference[paralyzed] for the duration. At the end of each of its turns, an affected target can repeat the [[/save]] save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, you can target one additional creature for each slot above 5th. The creatures must be within 30 feet of each other when you target them.</p>",
       "source": {},
-      "short": "Paralyze any creature."
+      "short": "Парализуйте любое существо."
     },
     "source": [
       "arcane",
@@ -98,7 +98,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a small, straight piece of iron"
+        "description": "небольшой, прямой кусок железа"
       }
     },
     "duration": {
@@ -130,7 +130,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.09Sensm5KJcvLdhx",
+      "origin": "Compendium.black-flag-ru.spells.Item.09Sensm5KJcvLdhx",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -141,13 +141,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Greater Hold",
+      "name": "Большой Холд",
       "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
       "_id": "tsOaoxMRt50UThBg",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You are paralyzed. At the end of each of your turns, you can repeat the [[/save WIS]] save, ending the effect on a success.</p>",
+      "description": "<p>Вы парализованы. В конце каждого вашего хода вы можете просмотреть спасбросок [[/save WIS]], прекратив эффект при успехе.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [
@@ -159,7 +159,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.040",
         "createdTime": 1721968121276,
         "modifiedTime": 1723779649945,
@@ -175,7 +175,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718423902080,

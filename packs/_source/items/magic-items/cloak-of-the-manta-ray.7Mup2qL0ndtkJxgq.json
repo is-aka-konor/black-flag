@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Cloak of the Manta Ray",
+  "name": "Плащ манты",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,8 +40,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "The Manta Ray",
-      "origin": "Compendium.black-flag.items.Item.7Mup2qL0ndtkJxgq",
+      "name": "Манта-скат",
+      "origin": "Compendium.black-flag-ru.items.Item.7Mup2qL0ndtkJxgq",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -65,7 +65,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet.</p>",
+      "description": "<p>Надев этот плащ с поднятым капюшоном, вы можете дышать под водой, и ваша скорость плавания составляет 60 футов.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -75,7 +75,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726799780294,
         "modifiedTime": 1756335213422,
@@ -94,7 +94,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983771204,
     "modifiedTime": 1728426556234,

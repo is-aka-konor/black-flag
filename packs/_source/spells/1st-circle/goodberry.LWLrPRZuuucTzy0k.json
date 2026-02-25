@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Goodberry",
+  "name": "Гудберри",
   "type": "spell",
   "_id": "LWLrPRZuuucTzy0k",
   "img": "icons/consumables/fruit/berry-leaf-pink.webp",
@@ -55,7 +55,7 @@
     "description": {
       "value": "<p>You transform up to ten berries in your hand, infusing them with magic for up to 24 hours. A creature can use its action to eat one berry. Eating a berry restores [[/healing]] and provides enough nourishment to sustain a creature for one day, though a creature can’t be sustained by eating berries two or more days in a row.</p><p>The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.</p>",
       "source": {},
-      "short": "Ten berries heal 1 HP each."
+      "short": "Десять ягод исцеляют по 1 HP каждая."
     },
     "type": {
       "value": "standard"
@@ -77,7 +77,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a sprig of mistletoe",
+        "description": "веточка омелы",
         "denomination": "pp",
         "consumed": false
       }
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997794874,

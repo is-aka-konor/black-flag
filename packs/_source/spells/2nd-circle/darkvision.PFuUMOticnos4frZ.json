@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Darkvision",
+  "name": "темновидение",
   "type": "spell",
   "_id": "PFuUMOticnos4frZ",
   "img": "icons/magic/perception/eye-slit-red-orange.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>You touch a willing creature to grant it the ability to see in nonmagical darkness. For the duration, that creature has darkvision to a range of 60 feet.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd.</p>",
       "source": {},
-      "short": "Allies can see in the dark."
+      "short": "Союзники могут видеть в темноте."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a pinch of dried carrot or an agate",
+        "description": "щепотка сушеной моркови или агата",
         "consumed": false,
         "denomination": "gp"
       }
@@ -98,9 +98,9 @@
   },
   "effects": [
     {
-      "name": "Darkvision",
+      "name": "темновидение",
       "img": "icons/magic/perception/eye-slit-red-orange.webp",
-      "origin": "Compendium.black-flag.spells.Item.PFuUMOticnos4frZ",
+      "origin": "Compendium.black-flag-ru.spells.Item.PFuUMOticnos4frZ",
       "transfer": false,
       "_id": "y9JKAWmbZpTS8Boa",
       "type": "base",
@@ -123,7 +123,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You have darkvision to a range of 60 feet.</p>",
+      "description": "<p>Вы обладаете темновидением на расстоянии до 60 футов.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -132,7 +132,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723697625322,
         "modifiedTime": 1723697653944,
@@ -148,7 +148,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932990346,

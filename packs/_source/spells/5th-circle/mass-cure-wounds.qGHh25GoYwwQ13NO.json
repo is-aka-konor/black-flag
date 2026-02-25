@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Mass Cure Wounds",
+  "name": "Массовое лечение ран",
   "type": "spell",
   "_id": "qGHh25GoYwwQ13NO",
   "img": "icons/magic/life/cross-beam-green.webp",
@@ -55,7 +55,7 @@
     "description": {
       "value": "<p>A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to [[/healing]]{3d8 + your spellcasting ability modifier}. This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the healing increases by [[/healing 1d8]]{1d8} for each slot above 5th.</p>",
       "source": {},
-      "short": "Average heal to allies."
+      "short": "Среднее лечение союзников."
     },
     "source": [
       "divine",
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1715663481733,

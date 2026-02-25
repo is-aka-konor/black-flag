@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of the Magi",
+  "name": "Посох волхвов",
   "type": "weapon",
   "_id": "feBiGEtyINXwz7Fa",
   "img": "icons/weapons/staves/staff-ornate-eye.webp",
@@ -130,7 +130,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Absorb Spell",
+        "name": "Заклинание поглощения",
         "img": "",
         "visibility": {
           "requireIdentification": true,
@@ -146,7 +146,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.JVimVp4IvmQTO52h",
+            "uuid": "Compendium.black-flag-ru.spells.Item.JVimVp4IvmQTO52h",
             "challenge": {
               "attack": null,
               "save": null,
@@ -216,7 +216,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.r3D0SVvYQkzi6lE4",
+            "uuid": "Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4",
             "challenge": {
               "attack": null,
               "save": null,
@@ -294,7 +294,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+            "uuid": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
             "challenge": {
               "attack": null,
               "save": null,
@@ -364,7 +364,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw",
+            "uuid": "Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw",
             "challenge": {
               "attack": null,
               "save": null,
@@ -442,7 +442,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.ReN0VQRCHBtYmvst",
+            "uuid": "Compendium.black-flag-ru.spells.Item.ReN0VQRCHBtYmvst",
             "challenge": {
               "attack": null,
               "save": null,
@@ -512,7 +512,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI",
             "challenge": {
               "attack": null,
               "save": null,
@@ -590,7 +590,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.ZJcpzubvE6PLsS5c",
+            "uuid": "Compendium.black-flag-ru.spells.Item.ZJcpzubvE6PLsS5c",
             "challenge": {
               "attack": null,
               "save": null,
@@ -668,7 +668,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.qzHBcRIxWK8H6zXo",
+            "uuid": "Compendium.black-flag-ru.spells.Item.qzHBcRIxWK8H6zXo",
             "challenge": {
               "attack": null,
               "save": null,
@@ -746,7 +746,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb",
+            "uuid": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb",
             "challenge": {
               "attack": null,
               "save": null,
@@ -824,7 +824,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.KW9pI3ghpmz6J5T1",
+            "uuid": "Compendium.black-flag-ru.spells.Item.KW9pI3ghpmz6J5T1",
             "challenge": {
               "attack": null,
               "save": null,
@@ -902,7 +902,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.TWVI2s8oV0TiSEKy",
+            "uuid": "Compendium.black-flag-ru.spells.Item.TWVI2s8oV0TiSEKy",
             "challenge": {
               "attack": null,
               "save": null,
@@ -972,7 +972,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.RIOCsdRfuC31r9Rf",
+            "uuid": "Compendium.black-flag-ru.spells.Item.RIOCsdRfuC31r9Rf",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1050,7 +1050,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.z0bwd75DutQ7TOcY",
+            "uuid": "Compendium.black-flag-ru.spells.Item.z0bwd75DutQ7TOcY",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1120,7 +1120,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.IWRO3njx4Jym0qZc",
+            "uuid": "Compendium.black-flag-ru.spells.Item.IWRO3njx4Jym0qZc",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1198,7 +1198,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.9C1ZtrdSaiyWefRx",
+            "uuid": "Compendium.black-flag-ru.spells.Item.9C1ZtrdSaiyWefRx",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1276,7 +1276,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.gBis1QK0mfhwc26a",
+            "uuid": "Compendium.black-flag-ru.spells.Item.gBis1QK0mfhwc26a",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1346,7 +1346,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.jlDdoNUWTP3Gc1rX",
+            "uuid": "Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1424,7 +1424,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.xOthSJ1mF0Qpe9DM",
+            "uuid": "Compendium.black-flag-ru.spells.Item.xOthSJ1mF0Qpe9DM",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1502,7 +1502,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.HNAOZepYj1Cmtfje",
+            "uuid": "Compendium.black-flag-ru.spells.Item.HNAOZepYj1Cmtfje",
             "challenge": {
               "attack": null,
               "save": null,
@@ -1654,7 +1654,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Retributive Strike",
+        "name": "Карательный удар",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -1680,7 +1680,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. The staff has 50 charges and regains [[/r 4d6 + 2]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains [[/r 1d12 + 1]] charges. The staff has the following additional properties:</p><p><em><strong>Spell Absorption.</strong></em> While holding the staff, you have advantage on saves against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s circle. However, if doing so brings the staff ’s total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).</p><p><em><strong>Spells.</strong></em> While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: <em>@UUID[Compendium.black-flag.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> (7 charges), <em>@UUID[Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em> (3 charges), <em>@UUID[Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> (7th-circle version, 7 charges), <em>@UUID[Compendium.black-flag.spells.Item.ZJcpzubvE6PLsS5c]{flaming sphere}</em> (2 charges), <em>@UUID[Compendium.black-flag.spells.Item.qzHBcRIxWK8H6zXo]{ice storm}</em> (4 charges), <em>@UUID[Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb]{invisibility}</em> (2 charges), <em>@UUID[Compendium.black-flag.spells.Item.KW9pI3ghpmz6J5T1]{knock}</em> (2 charges), <em>@UUID[Compendium.black-flag.spells.Item.RIOCsdRfuC31r9Rf]{lightning bolt}</em> (7th-circle version, 7 charges), <em>@UUID[Compendium.black-flag.spells.Item.IWRO3njx4Jym0qZc]{passwall}</em> (5 charges), <em>@UUID[Compendium.black-flag.spells.Item.9C1ZtrdSaiyWefRx]{plane shift}</em> (7 charges), <em>@UUID[Compendium.black-flag.spells.Item.jlDdoNUWTP3Gc1rX]{telekinesis}</em> (5 charges), <em>@UUID[Compendium.black-flag.spells.Item.xOthSJ1mF0Qpe9DM]{wall of fire}</em> (4 charges), or <em>@UUID[Compendium.black-flag.spells.Item.HNAOZepYj1Cmtfje]{web}</em> (2 charges).</p><p>You can also use an action to cast one of the following spells from the staff without using any charges: <em>@UUID[Compendium.black-flag.spells.Item.JVimVp4IvmQTO52h]{arcane lock}</em>, <em>@UUID[Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy]{detect magic}</em>, <em>@UUID[Compendium.black-flag.spells.Item.ReN0VQRCHBtYmvst]{enlarge/reduce}</em>, <em>@UUID[Compendium.black-flag.spells.Item.TWVI2s8oV0TiSEKy]{light}</em>, <em>@UUID[Compendium.black-flag.spells.Item.z0bwd75DutQ7TOcY]{mage hand}</em>, or <em>@UUID[Compendium.black-flag.spells.Item.gBis1QK0mfhwc26a]{protection from evil and good}</em>.</p><p><em><strong>Retributive Strike.</strong></em> You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30‑foot‑radius sphere centered on it.</p><p>You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff.</p><p>Every other creature in the area must make a [[/save 17 DEX]]. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.oDtGdauFgUvygCw4 inline]</p>",
+      "value": "<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. The staff has 50 charges and regains [[/r 4d6 + 2]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains [[/r 1d12 + 1]] charges. The staff has the following additional properties:</p><p><em><strong>Spell Absorption.</strong></em> While holding the staff, you have advantage on saves against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell’s circle. However, if doing so brings the staff ’s total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).</p><p><em><strong>Spells.</strong></em> While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> (7 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em> (3 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> (7th-circle version, 7 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.ZJcpzubvE6PLsS5c]{flaming sphere}</em> (2 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.qzHBcRIxWK8H6zXo]{ice storm}</em> (4 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb]{invisibility}</em> (2 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.KW9pI3ghpmz6J5T1]{knock}</em> (2 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.RIOCsdRfuC31r9Rf]{lightning bolt}</em> (7th-circle version, 7 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.IWRO3njx4Jym0qZc]{passwall}</em> (5 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.9C1ZtrdSaiyWefRx]{plane shift}</em> (7 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX]{telekinesis}</em> (5 charges), <em>@UUID[Compendium.black-flag-ru.spells.Item.xOthSJ1mF0Qpe9DM]{wall of fire}</em> (4 charges), or <em>@UUID[Compendium.black-flag-ru.spells.Item.HNAOZepYj1Cmtfje]{web}</em> (2 charges).</p><p>You can also use an action to cast one of the following spells from the staff without using any charges: <em>@UUID[Compendium.black-flag-ru.spells.Item.JVimVp4IvmQTO52h]{arcane lock}</em>, <em>@UUID[Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy]{detect magic}</em>, <em>@UUID[Compendium.black-flag-ru.spells.Item.ReN0VQRCHBtYmvst]{enlarge/reduce}</em>, <em>@UUID[Compendium.black-flag-ru.spells.Item.TWVI2s8oV0TiSEKy]{light}</em>, <em>@UUID[Compendium.black-flag-ru.spells.Item.z0bwd75DutQ7TOcY]{mage hand}</em>, or <em>@UUID[Compendium.black-flag-ru.spells.Item.gBis1QK0mfhwc26a]{protection from evil and good}</em>.</p><p><em><strong>Retributive Strike.</strong></em> You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30‑foot‑radius sphere centered on it.</p><p>You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff.</p><p>Every other creature in the area must make a [[/save 17 DEX]]. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.oDtGdauFgUvygCw4 inline]</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -1727,7 +1727,7 @@
     "rarity": "legendary",
     "attunement": {
       "value": "required",
-      "requirement": "by a Sorcerer, Warlock, or Wizard"
+      "requirement": "от колдуна, чернокнижника или волшебника"
     },
     "container": null,
     "magicalBonus": 2
@@ -1735,8 +1735,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "The Magi",
-      "origin": "Compendium.black-flag.items.Item.feBiGEtyINXwz7Fa",
+      "name": "Волхвы",
+      "origin": "Compendium.black-flag-ru.items.Item.feBiGEtyINXwz7Fa",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1776,7 +1776,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730073119035,
         "modifiedTime": 1756332446961,
@@ -1794,7 +1794,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590632140,
     "modifiedTime": 1756332522514,

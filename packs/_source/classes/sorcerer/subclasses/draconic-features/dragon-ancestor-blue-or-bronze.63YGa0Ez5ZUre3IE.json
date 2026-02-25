@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Dragon Ancestor: Blue or Bronze",
+  "name": "Предок Дракона: Синий или Бронзовый",
   "type": "feature",
   "_id": "63YGa0Ez5ZUre3IE",
   "img": "icons/commodities/biological/wing-lizard-green.webp",
@@ -20,7 +20,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.NPyFmtRkJh4MdT3o"
+              "uuid": "Compendium.black-flag-ru.spells.Item.NPyFmtRkJh4MdT3o"
             }
           ],
           "spell": {
@@ -50,7 +50,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb"
+              "uuid": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb"
             }
           ],
           "spell": {
@@ -80,7 +80,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.RIOCsdRfuC31r9Rf"
+              "uuid": "Compendium.black-flag-ru.spells.Item.RIOCsdRfuC31r9Rf"
             }
           ],
           "spell": {
@@ -110,7 +110,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.6T8BIGQrvpiLF4CE"
+              "uuid": "Compendium.black-flag-ru.spells.Item.6T8BIGQrvpiLF4CE"
             }
           ],
           "spell": {
@@ -140,7 +140,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.r3D0SVvYQkzi6lE4"
+              "uuid": "Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4"
             }
           ],
           "spell": {
@@ -166,7 +166,7 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.miF7ofGUjWav1hHv inline]</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.miF7ofGUjWav1hHv inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -195,7 +195,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1718730718109,

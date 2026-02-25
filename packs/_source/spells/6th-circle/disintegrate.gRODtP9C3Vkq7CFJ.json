@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Disintegrate",
+  "name": "Распасться",
   "type": "spell",
   "_id": "gRODtP9C3Vkq7CFJ",
   "img": "icons/magic/lightning/bolt-strike-explosion-blue.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by a wall of force spell.</p><p>A creature targeted by this spell must make a [[/save]] save. On a failed save, the target takes [[/damage]] damage. If this damage reduces the target to 0 HP, it is disintegrated.</p><p>A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a <em>true resurrection</em> or a <em>wish</em> spell. If the target is destroyed, any magic items it was wearing or holding drop onto the ground in a space previously occupied by the target.</p><p>This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it. A magic item is unaffected by this spell.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, the damage increases by [[/damage 3d6 force]]{3d6} for each slot above 6th.</p>",
       "source": {},
-      "short": "Force, utter destruction at 0 HP."
+      "short": "Сила, полное разрушение при 0 HP."
     },
     "source": [
       "arcane",
@@ -109,7 +109,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a lodestone and pinch of dust"
+        "description": "магнит и щепотка пыли"
       }
     },
     "duration": {
@@ -146,7 +146,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721270619154,
     "modifiedTime": 1723779860698,

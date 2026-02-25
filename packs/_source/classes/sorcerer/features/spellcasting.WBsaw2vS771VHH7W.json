@@ -1,6 +1,6 @@
 {
   "folder": "7uCzGtcOYYcRFLda",
-  "name": "Spellcasting",
+  "name": "Колдовство",
   "type": "feature",
   "_id": "WBsaw2vS771VHH7W",
   "img": "icons/weapons/wands/wand-carved-pink.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718682052413,

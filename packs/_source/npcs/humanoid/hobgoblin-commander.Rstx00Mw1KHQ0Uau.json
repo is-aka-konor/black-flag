@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Hobgoblin Commander",
+  "name": "Хобгоблин-командир",
   "type": "npc",
   "_id": "Rstx00Mw1KHQ0Uau",
-  "img": "systems/black-flag/artwork/tokens/hobgoblin-commander.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/hobgoblin-commander.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,13 +149,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Hobgoblin Commander",
+    "name": "Хобгоблин-командир",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/hobgoblin-commander.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/hobgoblin-commander.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Half Plate",
+      "name": "Половина пластины",
       "type": "armor",
       "_id": "WuSrnFK7GUGxdUeq",
       "img": "icons/equipment/chest/breastplate-gorget-steel.webp",
@@ -307,20 +307,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.015",
         "coreVersion": "13.347",
         "createdTime": 1701023517026,
         "modifiedTime": 1709618423819,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.Hu7dZSxIN5djyyti",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.Hu7dZSxIN5djyyti",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!Rstx00Mw1KHQ0Uau.WuSrnFK7GUGxdUeq"
     },
     {
-      "name": "Unshakable Command",
+      "name": "Непоколебимая команда",
       "type": "feature",
       "_id": "8mwQLNM0Sb1qt47B",
       "img": "icons/skills/social/intimidation-impressing.webp",
@@ -369,7 +369,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711750597007,
@@ -382,7 +382,7 @@
       "_key": "!actors.items!Rstx00Mw1KHQ0Uau.8mwQLNM0Sb1qt47B"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "5OtzBhkTSQIiyZHI",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -481,13 +481,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711750731185,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -495,7 +495,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Greatsword",
+      "name": "Большой меч",
       "type": "weapon",
       "_id": "qVSEi5siXwCpzhI0",
       "img": "icons/weapons/swords/greatsword-crossguard-barbed.webp",
@@ -639,13 +639,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "coreVersion": "13.347",
         "createdTime": 1701024964053,
         "modifiedTime": 1756758382442,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.LG9czlXCwzBSmWR4",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.LG9czlXCwzBSmWR4",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -653,7 +653,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Longbow",
+      "name": "Длинный лук",
       "type": "weapon",
       "_id": "VCcVAbSVQCwrwcnt",
       "img": "icons/weapons/bows/longbow-recurve-leather-red.webp",
@@ -800,20 +800,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "coreVersion": "13.347",
         "createdTime": 1701024656713,
         "modifiedTime": 1756758389695,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!Rstx00Mw1KHQ0Uau.VCcVAbSVQCwrwcnt"
     },
     {
-      "name": "Martial Tactics",
+      "name": "Боевая Тактика",
       "type": "feature",
       "_id": "mYef0aGCeY2oqmTg",
       "img": "icons/sundries/documents/blueprint-helmet.webp",
@@ -822,7 +822,7 @@
           "6aejTOrUuETVpGnH": {
             "type": "heal",
             "_id": "6aejTOrUuETVpGnH",
-            "description": "<p>One friendly creature within 30 feet of the hobgoblin commander that it can see gains [[/healing 2d6 temp average]] until the start of the commander’s next turn.</p>",
+            "description": "<p>Одно дружелюбное Существо, находящееся в пределах 30 футов от командира хобгоблинов, которого оно может видеть, получает [[/healing 2d6 temp average]] до начала следующего хода командира.</p>",
             "system": {
               "healing": {
                 "type": "temp",
@@ -859,7 +859,7 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Emboldening Shout",
+            "name": "Ободряющий крик",
             "img": "",
             "sort": 0,
             "duration": {
@@ -887,7 +887,7 @@
           "d1iO8dR7sRKi0vb7": {
             "type": "utility",
             "_id": "d1iO8dR7sRKi0vb7",
-            "description": "<p>The commander moves up to half its speed and commands one friendly creature it can see within 30 feet of it to also move. The target can use its reaction to move up to half its speed in the direction of the commander’s choosing. This movement for both creatures is unaffected by difficult terrain and doesn’t provoke opportunity attacks.</p>",
+            "description": "<p>Командир перемещается на рассвете и показывает одно дружелюбное существование, он видит в пределах 30 футов от себя, а также движется. Цель может использовать свой ответ, чтобы двигаться в направлении, выбранном командиром, на ночной скорости. На это движение обоих существ не влияет на трудную ситуацию, и оно не провоцирует провоцирующие воздействия.</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -914,7 +914,7 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Pressing Advance",
+            "name": "Нажатие «Вперед»",
             "img": "",
             "sort": 0,
             "duration": {
@@ -986,7 +986,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "coreVersion": "13.347",
         "createdTime": 1711750734869,
@@ -1006,7 +1006,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709618391372,

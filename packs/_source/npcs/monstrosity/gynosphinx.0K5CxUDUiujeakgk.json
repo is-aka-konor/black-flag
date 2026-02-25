@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Gynosphinx",
+  "name": "Гиносфинкс",
   "type": "npc",
   "_id": "0K5CxUDUiujeakgk",
-  "img": "systems/black-flag/artwork/tokens/sphinx-gynosphinx.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/sphinx-gynosphinx.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -171,7 +171,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Gynosphinx",
+    "name": "Гиносфинкс",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -179,7 +179,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/sphinx-gynosphinx.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/sphinx-gynosphinx.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -310,7 +310,7 @@
           "value": null
         }
       },
-      "name": "Inscrutable",
+      "name": "Непостижимый",
       "type": "feature",
       "_id": "6FNWSe3oEMiJmF9J",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -326,7 +326,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.BbYvzTep6oj55CUk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -378,7 +378,7 @@
           "value": null
         }
       },
-      "name": "Psychic Claws",
+      "name": "Психические когти",
       "type": "feature",
       "_id": "ddzhlIlJ7Q4vAhzY",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -398,7 +398,7 @@
         "compendiumSource": "Actor.7CQzEZizeSIcSP7O.Item.dHpGWtc747QnTBJC",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -408,7 +408,7 @@
       "_key": "!actors.items!0K5CxUDUiujeakgk.ddzhlIlJ7Q4vAhzY"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "Wx9TlIzWGQk2wGUv",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -449,7 +449,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -460,7 +460,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -485,7 +485,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -511,7 +511,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -525,7 +525,7 @@
       "_key": "!actors.items!0K5CxUDUiujeakgk.Wx9TlIzWGQk2wGUv"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "xUJrcJic1drOrmAp",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -629,7 +629,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -703,7 +703,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -743,7 +743,7 @@
           "value": null
         }
       },
-      "name": "Teleport",
+      "name": "Телепортироваться",
       "type": "feature",
       "_id": "GFD6CRT0l6RM5Sf9",
       "img": "icons/magic/control/silhouette-hold-change-blue.webp",
@@ -763,7 +763,7 @@
         "compendiumSource": "Actor.7CQzEZizeSIcSP7O.Item.O7NQhUv7pxdQQm5T",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -830,7 +830,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -870,7 +870,7 @@
           "value": null
         }
       },
-      "name": "Cast a Spell",
+      "name": "Наложить заклинание",
       "type": "feature",
       "_id": "dm7z6ICRrDMK9MWs",
       "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
@@ -886,7 +886,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1mfH5RDUtqGjmM0N",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -983,7 +983,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a [[/save format=long]] or be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn, as it reels from the psychic onslaught.</p>",
+          "value": "<p>The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn, as it reels from the psychic onslaught.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1009,7 +1009,7 @@
           "value": null
         }
       },
-      "name": "Psychic Burst",
+      "name": "Психический взрыв",
       "type": "feature",
       "_id": "ESdOxo0PgEUOYnuS",
       "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -1029,7 +1029,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1045,7 +1045,7 @@
           "Q3o5VBOxtcXXmv7E": {
             "type": "save",
             "_id": "Q3o5VBOxtcXXmv7E",
-            "description": "<p>When the target moves, it moves in a random direction.</p>",
+            "description": "<p>Когда цель движется, она движется в случайном направлении.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -1108,14 +1108,14 @@
               "min": "",
               "max": ""
             },
-            "name": "Disoriented",
+            "name": "Дезориентированный",
             "img": "",
             "sort": 0
           },
           "RhFFjDvx2XBhw3gx": {
             "type": "save",
             "_id": "RhFFjDvx2XBhw3gx",
-            "description": "<p>When the target casts a spell, it must succeed on a [[/save format=long]] or be unable to cast the spell, using the action, bonus action, or reaction to cast the spell but not expending the spell slot or similar limited use of the spell.</p>",
+            "description": "<p>Когда цель накладывает заклинание, она должна преуспеть в [[/save format=long]] или быть неспособной наложить заклинание, с помощью действия, бонусного действия или шага для наложения заклинания, но не расходуя ячейку заклинания или умеренно ограниченное использование заклинания.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -1179,13 +1179,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Distracted",
+            "name": "Отвлеченный",
             "img": ""
           },
           "ITQ1oO5D5AD83lAt": {
             "type": "save",
             "_id": "ITQ1oO5D5AD83lAt",
-            "description": "<p>The target has disadvantage on weapon attack rolls.</p>",
+            "description": "<p>Цель имеет помехи при бросках оружия.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -1249,7 +1249,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Seeing Double",
+            "name": "Видеть двойника",
             "img": ""
           }
         },
@@ -1288,7 +1288,7 @@
           "value": null
         }
       },
-      "name": "Psychic Connection",
+      "name": "Психическая связь",
       "type": "feature",
       "_id": "XDRq9SbK2S2MGI4Y",
       "img": "icons/magic/control/energy-stream-link-teal.webp",
@@ -1308,7 +1308,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1319,7 +1319,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Detect Magic",
+      "name": "Обнаружение магии",
       "type": "spell",
       "_id": "qOsPK6VOKxLuoqh2",
       "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
@@ -1391,7 +1391,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Sense nearby magic."
+          "short": "Почувствуйте близкую магию."
         },
         "circle": {
           "value": null,
@@ -1445,9 +1445,9 @@
       },
       "effects": [
         {
-          "name": "Detect Magic",
+          "name": "Обнаружение магии",
           "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
-          "origin": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+          "origin": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
           "transfer": false,
           "_id": "pn3JeNsWe9uDUK85",
           "type": "base",
@@ -1463,7 +1463,7 @@
             "startRound": null,
             "startTurn": null
           },
-          "description": "<p>You sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+          "description": "<p>Вы отметили присутствие магии в пределах 30 футов от себя. Если вы покажете такую ​​магию, вы сможете создать слабую ауру вокруг любого видимого существа или предмета в области небольшой магии и изучить его школьную магию, если таковая имеется.</p><p>Заклинание может проникнуть через все барьеры, но оно блокируется 1 футом камня, 1 дюймом соответствующего металла, окруженным листом свинца или 3 футами дерева или земли.</p>",
           "tint": "#ffffff",
           "statuses": [],
           "sort": 0,
@@ -1472,7 +1472,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1495,9 +1495,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1508,7 +1508,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Minor Illusion",
+      "name": "Незначительная иллюзия",
       "type": "spell",
       "_id": "VsqglereaNbG6OI1",
       "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -1576,7 +1576,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Small illusory sound or image."
+          "short": "Маленький иллюзорный звук или изображение."
         },
         "circle": {
           "value": null,
@@ -1594,7 +1594,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of fleece",
+            "description": "немного флиса",
             "denomination": "pp",
             "consumed": false
           }
@@ -1640,9 +1640,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.AR6lGdaHEnUy6Em6",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.AR6lGdaHEnUy6Em6",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1653,7 +1653,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Prestidigitation",
+      "name": "Престидигитация",
       "type": "spell",
       "_id": "JOmLOg8eWPreT8cr",
       "img": "icons/magic/symbols/runes-triangle-orange-purple.webp",
@@ -1721,7 +1721,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless magical effect."
+          "short": "Безвредный магический эффект."
         },
         "circle": {
           "value": null,
@@ -1784,9 +1784,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.TgJgOsNetxkikvZa",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.TgJgOsNetxkikvZa",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1797,7 +1797,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Augury (as an action)",
+      "name": "Предсказание (как действие)",
       "type": "spell",
       "_id": "DtUp1hcNv0AwP0Yp",
       "img": "icons/magic/symbols/runes-carved-stone-red.webp",
@@ -1861,7 +1861,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -1883,7 +1883,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Get an omen about your plans."
+          "short": "Получите предзнаменование о своих планах."
         },
         "circle": {
           "value": null,
@@ -1902,7 +1902,7 @@
           ],
           "material": {
             "cost": 25,
-            "description": "specially marked sticks, bones, or similar tokens worth at least 25 gp",
+            "description": "специально отмеченные палки, кости или подобные жетоны стоимостью не менее 25 зм.",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1947,9 +1947,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.CnNNEgO2tpR1uMZ6",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.CnNNEgO2tpR1uMZ6",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1960,7 +1960,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Major Image",
+      "name": "Основное изображение",
       "type": "spell",
       "_id": "wHRI4DEE5gPXZVX3",
       "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -2024,7 +2024,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -2046,7 +2046,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Make a complex illusion."
+          "short": "Создайте сложную иллюзию."
         },
         "circle": {
           "value": null,
@@ -2065,7 +2065,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of fleece",
+            "description": "немного флиса",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2113,9 +2113,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.hDdvHqQgCRbmFltS",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.hDdvHqQgCRbmFltS",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2126,7 +2126,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Suggestion",
+      "name": "Предложение",
       "type": "spell",
       "_id": "1DamQLEVleWzhN8x",
       "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
@@ -2175,7 +2175,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -2281,7 +2281,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Creature obeys your order."
+          "short": "Существо подчиняется вашему приказу."
         },
         "circle": {
           "value": null,
@@ -2300,7 +2300,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a snake’s tongue and either a bit of honeycomb or a drop of sweet oil",
+            "description": "змеиный язык и немного сот или капля сладкого масла",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2354,9 +2354,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.iw5BfQdWrDssHFWZ",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2367,7 +2367,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Tongues",
+      "name": "Языки",
       "type": "spell",
       "_id": "CTnXxto1i2J3Om7s",
       "img": "icons/creatures/abilities/mouth-teeth-human.webp",
@@ -2431,7 +2431,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -2453,7 +2453,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Target understands all language."
+          "short": "Цель понимает весь язык."
         },
         "circle": {
           "value": null,
@@ -2472,7 +2472,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a small clay model of a ziggurat",
+            "description": "небольшая глиняная модель зиккурата",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2520,9 +2520,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.DC1j3Ur40T2ltktm",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.DC1j3Ur40T2ltktm",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2533,7 +2533,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Hallucinatory Terrain (As an Action)",
+      "name": "Галлюцинаторный ландшафт (как действие)",
       "type": "spell",
       "_id": "0NhJAgrFaEPLYYgY",
       "img": "icons/environment/wilderness/terrain-rocky-ground.webp",
@@ -2602,7 +2602,7 @@
               "max": "0"
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           },
@@ -2688,7 +2688,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "You make natural terrain that looks, sounds, and smells like some other sort of natural terrain."
+          "short": "Вы создаете естественную местность, которая выглядит, звучит и пахнет как какая-то другая естественная местность."
         },
         "source": [
           "arcane",
@@ -2713,7 +2713,7 @@
             "consumed": false,
             "cost": null,
             "denomination": "gp",
-            "description": "A stone, a twig, and a bit of green plant"
+            "description": "Камень, веточка и немного зеленого растения"
           }
         },
         "duration": {
@@ -2764,7 +2764,7 @@
         "compendiumSource": "Item.tw5UKzJUaCLrthVG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2774,7 +2774,7 @@
       "_key": "!actors.items!0K5CxUDUiujeakgk.0NhJAgrFaEPLYYgY"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "TbO0nLFnpoj11n4P",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -2841,7 +2841,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2951,7 +2951,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926582,
         "modifiedTime": 1756759810054,
@@ -3040,7 +3040,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": true,
             "sort": 0,
             "flags": {},
@@ -3109,7 +3109,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Psychic Bolt",
+      "name": "Психический заряд",
       "type": "weapon",
       "_id": "hipiTId72VaZyo0O",
       "img": "icons/magic/light/projectile-smoke-blue-light.webp",
@@ -3126,7 +3126,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926582,
         "modifiedTime": 1756759815231,
@@ -3144,7 +3144,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

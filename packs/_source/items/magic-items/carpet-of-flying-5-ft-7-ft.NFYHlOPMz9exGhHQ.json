@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Carpet of Flying (5 ft. × 7 ft.)",
+  "name": "Ковер полета (5 футов × 7 футов)",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -45,7 +45,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1725903624477,
     "modifiedTime": 1728426556234,

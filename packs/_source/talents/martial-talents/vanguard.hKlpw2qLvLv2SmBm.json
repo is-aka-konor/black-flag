@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Vanguard",
+  "name": "Авангард",
   "type": "talent",
   "_id": "hKlpw2qLvLv2SmBm",
   "img": "icons/skills/melee/spear-tips-three-green.webp",
@@ -79,7 +79,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1716347721585,

@@ -1,6 +1,6 @@
 {
   "folder": "NM2cIQ9aafWAC0yl",
-  "name": "Focus Intent",
+  "name": "Фокус Намерение",
   "type": "feature",
   "_id": "nJpoWnpUj4ge0CPg",
   "img": "icons/magic/nature/beam-hand-leaves-green.webp",
@@ -9,7 +9,7 @@
       "jK56u7nSQewFLl7o": {
         "type": "utility",
         "_id": "jK56u7nSQewFLl7o",
-        "description": "<p>When you or a creature within 5 feet of you makes an ability check or attack roll, you can use your reaction to roll [[/r @scale.monk.die]]. The target gains a bonus or a penalty (your choice) to its roll equal to the number you rolled.</p>",
+        "description": "<p>Когда вы или Существо находится на расстоянии 5 футов от вас, при наличии очевидных проверочных способностей или броскового удара, вы можете ответить на бросок [[/r @scale.monk.die]]. Цель получает бонус или штраф (по вашему выбору) за свой бросок, равный выпавшему результату.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -56,7 +56,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Roll Bonus/Penalty",
+        "name": "Бонус/штраф за бросок",
         "img": ""
       }
     },
@@ -103,7 +103,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718042328902,

@@ -1,9 +1,9 @@
 {
   "type": "feature",
-  "name": "Weapon, +1, +2, or +3",
+  "name": "Оружие, +1, +2 или +3",
   "system": {
     "description": {
-      "value": "<p>You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7xTJRP68Vv0HVOhb inline]</p><section class=\"secret\" id=\"secret-GvE5BbMh9xQa8A9U\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7xTJRP68Vv0HVOhb inline]</p><section class=\"secret\" id=\"secret-GvE5BbMh9xQa8A9U\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -43,7 +43,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Weapon, +1",
+      "name": "Оружие, +1",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -102,7 +102,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +1 to attack and damage rolls made with this magic weapon.</p>",
+      "description": "<p>У вас есть +1 к броскам удара и урона, нанесенного этим магическим оружием.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -112,7 +112,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.050",
         "createdTime": 1730155968813,
         "modifiedTime": 1730156150625,
@@ -123,7 +123,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Weapon, +2",
+      "name": "Оружие, +2",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -182,7 +182,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +2 to attack and damage rolls made with this magic weapon.</p>",
+      "description": "<p>У вас есть +2 к броскам и урону, нанесенному магическим оружием.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -192,7 +192,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.050",
         "createdTime": 1730155976021,
         "modifiedTime": 1730156153523,
@@ -203,7 +203,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Weapon, +3",
+      "name": "Оружие, +3",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -262,7 +262,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +3 to attack and damage rolls made with this magic weapon.</p>",
+      "description": "<p>У вас есть +3 к броскам этого и урону, нанесенному магическим оружием.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -272,7 +272,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.050",
         "createdTime": 1730155984230,
         "modifiedTime": 1730156165007,
@@ -291,7 +291,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1726788979815,
     "modifiedTime": 1735684582342,

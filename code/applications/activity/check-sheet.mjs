@@ -15,10 +15,10 @@ export default class CheckSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		effect: {
-			template: "systems/black-flag/templates/activity/check-effect.hbs",
+			template: "systems/black-flag-ru/templates/activity/check-effect.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-effects.hbs",
-				"systems/black-flag/templates/activity/parts/check-details.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-effects.hbs",
+				"systems/black-flag-ru/templates/activity/parts/check-details.hbs"
 			]
 		}
 	};

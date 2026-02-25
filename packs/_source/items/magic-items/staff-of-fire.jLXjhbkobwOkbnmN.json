@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Fire",
+  "name": "Посох Огня",
   "type": "weapon",
   "_id": "jLXjhbkobwOkbnmN",
   "img": "icons/weapons/staves/staff-ornate-red.webp",
@@ -10,7 +10,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.6HSESlJ472aQngrP",
+            "uuid": "Compendium.black-flag-ru.spells.Item.6HSESlJ472aQngrP",
             "challenge": {
               "attack": null,
               "save": null,
@@ -88,7 +88,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI",
             "challenge": {
               "attack": null,
               "save": null,
@@ -166,7 +166,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.xOthSJ1mF0Qpe9DM",
+            "uuid": "Compendium.black-flag-ru.spells.Item.xOthSJ1mF0Qpe9DM",
             "challenge": {
               "attack": null,
               "save": null,
@@ -254,7 +254,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>You have resistance to fire damage while you hold this staff.</p><p>The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag.spells.Item.6HSESlJ472aQngrP]{burning hands}</em> (1 charge), <em>@UUID[Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> (3 charges), or <em>@UUID[Compendium.black-flag.spells.Item.xOthSJ1mF0Qpe9DM]{wall of fire}</em> (4 charges).</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.</p>",
+      "value": "<p>You have resistance to fire damage while you hold this staff.</p><p>The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag-ru.spells.Item.6HSESlJ472aQngrP]{burning hands}</em> (1 charge), <em>@UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> (3 charges), or <em>@UUID[Compendium.black-flag-ru.spells.Item.xOthSJ1mF0Qpe9DM]{wall of fire}</em> (4 charges).</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -301,7 +301,7 @@
     "rarity": "veryRare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Druid, Sorcerer, Warlock, or Wizard"
+      "requirement": "от друида, колдуна, чернокнижника или волшебника"
     },
     "container": null,
     "magicalBonus": null
@@ -309,8 +309,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Fire Resistance",
-      "origin": "Compendium.black-flag.items.Item.jLXjhbkobwOkbnmN",
+      "name": "Огнестойкость",
+      "origin": "Compendium.black-flag-ru.items.Item.jLXjhbkobwOkbnmN",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -344,7 +344,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730072815663,
         "modifiedTime": 1756332294431,
@@ -362,7 +362,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590319557,
     "modifiedTime": 1756332285928,

@@ -1,6 +1,6 @@
 {
   "folder": "x4qOEwfVVNq1inZj",
-  "name": "Barbarian",
+  "name": "Варвар",
   "type": "class",
   "_id": "4gURUlLgJr1YNtfq",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
@@ -140,10 +140,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.7wqTqzh8CYPFXqSW"
+              "uuid": "Compendium.black-flag-ru.classes.Item.7wqTqzh8CYPFXqSW"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.nBBXe8AplujmpsUp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.nBBXe8AplujmpsUp"
             }
           ]
         },
@@ -158,10 +158,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.SzKMzL5LJFbtZwMp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.SzKMzL5LJFbtZwMp"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.IkACAwagIMylocmk"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IkACAwagIMylocmk"
             }
           ]
         },
@@ -180,10 +180,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.iOd7bPIFkWBh68t6"
+              "uuid": "Compendium.black-flag-ru.classes.Item.iOd7bPIFkWBh68t6"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.27TJBuJZLfGKE56d"
+              "uuid": "Compendium.black-flag-ru.classes.Item.27TJBuJZLfGKE56d"
             }
           ]
         },
@@ -202,7 +202,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Y6ZevV9RePdc2saE"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Y6ZevV9RePdc2saE"
             }
           ]
         },
@@ -220,7 +220,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.0RNSFvVul05sNBj7"
+              "uuid": "Compendium.black-flag-ru.classes.Item.0RNSFvVul05sNBj7"
             }
           ]
         },
@@ -239,7 +239,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.EnkKmMFn52vJ6oEM"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EnkKmMFn52vJ6oEM"
             }
           ]
         },
@@ -258,7 +258,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.IxEBc6O95t04pcEp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.IxEBc6O95t04pcEp"
             }
           ]
         },
@@ -277,7 +277,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.5O14Y91OvJVDamt2"
+              "uuid": "Compendium.black-flag-ru.classes.Item.5O14Y91OvJVDamt2"
             }
           ]
         },
@@ -296,7 +296,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.roHxkLcsNTzNAGOk"
+              "uuid": "Compendium.black-flag-ru.classes.Item.roHxkLcsNTzNAGOk"
             }
           ]
         },
@@ -513,7 +513,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.9EAkaGqWPK0qFoDq",
+              "key": "Compendium.black-flag-ru.items.Item.9EAkaGqWPK0qFoDq",
               "requiresProficiency": false,
               "_id": "QGAYuKAHmtpHWEoV",
               "group": "o24xoxrLv9CmFl7h",
@@ -538,7 +538,7 @@
             {
               "type": "linked",
               "count": 2,
-              "key": "Compendium.black-flag.items.Item.y6xWtgpXkPkn8cqO",
+              "key": "Compendium.black-flag-ru.items.Item.y6xWtgpXkPkn8cqO",
               "requiresProficiency": false,
               "_id": "sQD9LuD8FSnv8gHi",
               "group": "Iymv7GDsxoYGQl5E",
@@ -563,7 +563,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "pkCExR0znzdJv8WV",
               "group": "YI21QFNMvurSy2hf",
@@ -572,7 +572,7 @@
             {
               "type": "linked",
               "count": 4,
-              "key": "Compendium.black-flag.items.Item.8wAd9MmtaW1tizSN",
+              "key": "Compendium.black-flag-ru.items.Item.8wAd9MmtaW1tizSN",
               "requiresProficiency": false,
               "_id": "GnmoilTb2i3M3J6j",
               "group": "YI21QFNMvurSy2hf",
@@ -593,8 +593,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Ferocious warriors who harness primal power.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.NDhNbkejgY8poLrC"
+      "short": "Свирепые воины, использующие первобытную силу.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.NDhNbkejgY8poLrC"
     },
     "identifier": {
       "value": "barbarian"
@@ -608,7 +608,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1717382738486,

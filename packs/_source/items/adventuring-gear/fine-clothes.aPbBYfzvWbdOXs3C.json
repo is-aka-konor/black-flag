@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Fine Clothes",
+  "name": "Изысканная одежда",
   "type": "sundry",
   "_id": "aPbBYfzvWbdOXs3C",
   "img": "icons/equipment/chest/shirt-collared-grey.webp",
@@ -32,7 +32,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363305384,

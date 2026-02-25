@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Dreadful Word",
+  "name": "Страшное слово",
   "type": "feature",
   "_id": "46YrVW4NUSppEWiU",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376520089,

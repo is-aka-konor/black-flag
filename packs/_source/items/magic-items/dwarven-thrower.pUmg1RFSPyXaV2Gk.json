@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Dwarven Thrower",
+  "name": "Гномий метатель",
   "type": "weapon",
   "img": "icons/weapons/hammers/hammer-double-sledge-engraved.webp",
   "system": {
@@ -147,7 +147,7 @@
         },
         "sort": 0,
         "_id": "I1Fcq7MMZTDxZES2",
-        "name": "Throw",
+        "name": "Бросок",
         "img": ""
       },
       "kW8U5JNme9aN2yeB": {
@@ -233,7 +233,7 @@
           "max": ""
         },
         "sort": 0,
-        "name": "Throw vs. Giant",
+        "name": "Бросок против Гиганта",
         "img": "",
         "_id": "kW8U5JNme9aN2yeB",
         "visibility": {
@@ -302,7 +302,7 @@
     "rarity": "veryRare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Dwarf"
+      "requirement": "от гнома"
     },
     "container": null,
     "magicalBonus": 3
@@ -316,7 +316,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589342539,
     "modifiedTime": 1756335407606,

@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Heroic Boon",
+  "name": "Героический дар",
   "type": "feature",
   "img": "icons/environment/people/cavalry.webp",
   "system": {
@@ -24,10 +24,10 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.O3f7RklTYVJ0nKM9"
+              "uuid": "Compendium.black-flag-ru.classes.Item.O3f7RklTYVJ0nKM9"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.xUCDZ0RWimLvHf6Q"
+              "uuid": "Compendium.black-flag-ru.classes.Item.xUCDZ0RWimLvHf6Q"
             }
           ],
           "restriction": {
@@ -74,7 +74,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1715660473490,

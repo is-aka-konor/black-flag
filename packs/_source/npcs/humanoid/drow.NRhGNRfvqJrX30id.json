@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Drow",
+  "name": "Дроу",
   "type": "npc",
   "_id": "NRhGNRfvqJrX30id",
-  "img": "systems/black-flag/artwork/tokens/elf-drow-female.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/elf-drow-female.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -151,7 +151,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Drow",
+    "name": "Дроу",
     "displayName": 30,
     "actorLink": false,
     "appendNumber": false,
@@ -159,7 +159,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/elf-drow-female.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/elf-drow-female.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -247,7 +247,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Chain Shirt",
+      "name": "Кольчужная рубашка",
       "type": "armor",
       "_id": "Or1gJ6OcL6gS0X0G",
       "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -312,9 +312,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.FO53M9vYJXLrYPDs",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.FO53M9vYJXLrYPDs",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -362,7 +362,7 @@
           "value": null
         }
       },
-      "name": "Fey Ancestry",
+      "name": "Фейское происхождение",
       "type": "feature",
       "_id": "pjeDiwwf1WyFgEuD",
       "img": "icons/magic/nature/beam-hand-leaves-green.webp",
@@ -379,7 +379,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Ancestry",
+          "name": "Фейское происхождение",
           "img": "icons/magic/nature/beam-hand-leaves-green.webp",
           "_id": "y6e5zkQcNLQ2ebR5",
           "type": "base",
@@ -402,7 +402,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -423,7 +423,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RbZGBRoq4nHGevGy",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -437,7 +437,7 @@
       "_key": "!actors.items!NRhGNRfvqJrX30id.pjeDiwwf1WyFgEuD"
     },
     {
-      "name": "Sunlight Sensitivity",
+      "name": "Чувствительность к солнечному свету",
       "type": "feature",
       "_id": "ZOqKXIdxFwgwnTJf",
       "img": "icons/magic/light/explosion-glow-spiral-yellow.webp",
@@ -489,7 +489,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hzFrJFfPPIv20rWe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -504,7 +504,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Shortsword",
+      "name": "Короткий меч",
       "type": "weapon",
       "_id": "dI8nAt1DfXbvtNsS",
       "img": "icons/weapons/swords/shortsword-guard-brass.webp",
@@ -583,7 +583,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -667,9 +667,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.C9nwbmL7uTX8t8nr",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.C9nwbmL7uTX8t8nr",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757984400,
@@ -680,7 +680,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Hand Crossbow",
+      "name": "Ручной арбалет",
       "type": "weapon",
       "_id": "3YkjvtZOMN0VcZKM",
       "img": "icons/weapons/crossbows/handcrossbow-black.webp",
@@ -757,7 +757,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -845,9 +845,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.b126bs62p8TQIYZ8",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.b126bs62p8TQIYZ8",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758000012,
@@ -927,7 +927,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -941,7 +941,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a [[/save format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute and suffer the chosen poison’s effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow’s next turn.</p><ul><li><p><strong>Beetle’s Bite</strong>. The target’s speed is halved while poisoned.</p></li><li><p><strong>Dark Caress</strong>. The target is &amp;Reference[blinded]{blinded} while poisoned.</p></li><li><p><strong>Nightmare’s Kiss</strong>. The target is &amp;Reference[frightened]{frightened} of the drow while poisoned.</p></li><li><p><strong>Slumber’s Call</strong>. The target falls &amp;Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p></li></ul>",
+          "value": "<p>The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} for 1 minute and suffer the chosen poison’s effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow’s next turn.</p><ul><li><p><strong>Beetle’s Bite</strong>. The target’s speed is halved while poisoned.</p></li><li><p><strong>Dark Caress</strong>. The target is &Reference[blinded]{blinded} while poisoned.</p></li><li><p><strong>Nightmare’s Kiss</strong>. The target is &Reference[frightened]{frightened} of the drow while poisoned.</p></li><li><p><strong>Slumber’s Call</strong>. The target falls &Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -967,7 +967,7 @@
           "value": null
         }
       },
-      "name": "Poison Weapon",
+      "name": "Ядовитое оружие",
       "type": "feature",
       "_id": "fyYeOwOh0jQnxGD9",
       "img": "icons/magic/acid/orb-bubble-smoke-drip.webp",
@@ -987,7 +987,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758006221,
@@ -1002,7 +1002,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

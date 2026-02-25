@@ -1,5 +1,5 @@
 {
-  "name": "Bag of Sand",
+  "name": "Мешок с песком",
   "type": "gear",
   "img": "icons/commodities/materials/powder-black.webp",
   "system": {
@@ -37,7 +37,7 @@
   "folder": "Y8UQ7n2ei8CgBzr3",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1713286399064,

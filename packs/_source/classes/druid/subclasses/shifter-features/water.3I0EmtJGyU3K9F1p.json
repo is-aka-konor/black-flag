@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Water",
+  "name": "Вода",
   "type": "feature",
   "_id": "3I0EmtJGyU3K9F1p",
   "img": "icons/creatures/fish/jellyfish-swarm-eyed-teal.webp",
@@ -9,7 +9,7 @@
       "fd7a9ybyDbzJGl4e": {
         "type": "savingThrow",
         "_id": "fd7a9ybyDbzJGl4e",
-        "description": "<p>Each creature within 5 feet of you must make a [[/save]]. On a failure, a target takes [[/damage]] damage. If a target is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe in water. On a successful STR save, a creature takes half damage and isn’t grappled. At the start of each of your turns, each target grappled by you takes [[/damage]] damage. A creature within 5 feet of a grappled target can pull it out of the grapple if it expends an action to attempt a [[/check strength athletics 14]] check—freeing the target on a success.</p>",
+        "description": "<p>Каждое Существо, находящееся на расстоянии 5 футов от вас, должно быть указано [[/save]]. В случае провала цель получает [[/damage]] урона. Если цель большего или меньшего размера, она также захватывает (уклонения США 14). Пока этот захват не завершится, цель удерживается и не может светиться, если только она не может светиться в воде. При успешном спасброске STR Существо получает половину урона и не включается в захват.В начале каждого вашего хода захваченная вами цель получает [[/damage]] урона. Существенно, что на расстоянии 5 футов от захваченной цели вы можете вытащить ее из захвата, если она стоит на месте проверки [[/check strength athletics 14]] — освобождая цель прие.</p>",
         "system": {
           "ability": "strength",
           "damage": {
@@ -75,7 +75,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Wave",
+        "name": "Волна",
         "img": ""
       }
     },
@@ -112,7 +112,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.3I0EmtJGyU3K9F1p",
+      "origin": "Compendium.black-flag-ru.classes.Item.3I0EmtJGyU3K9F1p",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -123,7 +123,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Water Infusion",
+      "name": "Водный настой",
       "_id": "kIo6pIl8bZXlPHoX",
       "changes": [
         {
@@ -174,7 +174,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717791114554,

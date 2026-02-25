@@ -1,5 +1,5 @@
 {
-  "name": "Hunting Trap (basic)",
+  "name": "Охотничья ловушка (базовая)",
   "type": "gear",
   "_id": "8QmpJXoPonbTNfm3",
   "img": "icons/environment/traps/trap-jaw-green.webp",
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Set Trap",
+        "name": "Установить ловушку",
         "img": ""
       },
       "sGhrx4gi7ctwk9H1": {
@@ -110,7 +110,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Trigger Trap",
+        "name": "Триггерная ловушка",
         "img": ""
       }
     },
@@ -152,7 +152,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717532017747,

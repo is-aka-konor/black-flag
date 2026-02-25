@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Echoes of Knowledge",
+  "name": "Отголоски знаний",
   "type": "feature",
   "_id": "YQ13UiHtVuSdGH6n",
   "img": "icons/skills/trades/academics-astronomy-navigation-blue.webp",
@@ -107,7 +107,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376254584,

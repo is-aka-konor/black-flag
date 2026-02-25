@@ -1,6 +1,6 @@
 {
   "type": "feature",
-  "name": "Defender",
+  "name": "Защитник",
   "system": {
     "description": {
       "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p><p>The first time you attack with this sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p><section class=\"secret\" id=\"secret-lMWB4zSeQpdssCuv\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Legendary, 100,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
@@ -41,7 +41,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Defender",
+      "name": "Защитник",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -116,7 +116,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.047",
         "createdTime": 1727899531647,
         "modifiedTime": 1727899790958,
@@ -135,7 +135,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1726788082452,
     "modifiedTime": 1730158916824,

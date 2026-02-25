@@ -1,6 +1,6 @@
 {
   "folder": "ASbozScOjLlpmkOc",
-  "name": "Arcane Recovery",
+  "name": "Тайное восстановление",
   "type": "feature",
   "_id": "iUtVqw2qaoa6oFYa",
   "img": "icons/sundries/books/book-open-turquoise.webp",
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1699045911860,

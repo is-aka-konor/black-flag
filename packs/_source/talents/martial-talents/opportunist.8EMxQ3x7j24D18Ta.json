@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Opportunist",
+  "name": "Оппортунист",
   "type": "talent",
   "_id": "8EMxQ3x7j24D18Ta",
   "img": "icons/skills/melee/sword-twirl-orange.webp",
@@ -33,7 +33,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1716347741851,

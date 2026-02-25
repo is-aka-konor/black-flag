@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Kraken",
+  "name": "Кракен",
   "type": "npc",
   "_id": "JX1vSza5sipBjUjf",
-  "img": "systems/black-flag/artwork/tokens/kraken.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/kraken.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -177,7 +177,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Kraken",
+    "name": "Кракен",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -185,7 +185,7 @@
     "width": 4,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/kraken.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/kraken.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -283,7 +283,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "c0GTx8X9cvigeqiz",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -337,7 +337,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -389,7 +389,7 @@
           "value": null
         }
       },
-      "name": "Freedom of Movement",
+      "name": "Свобода передвижения",
       "type": "feature",
       "_id": "PcvqXc4XPB1tgfoa",
       "img": "icons/skills/movement/arrow-upward-yellow.webp",
@@ -409,7 +409,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -419,7 +419,7 @@
       "_key": "!actors.items!JX1vSza5sipBjUjf.PcvqXc4XPB1tgfoa"
     },
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "vlYMLkVT5rW2vp3I",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -462,7 +462,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -540,7 +540,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -554,7 +554,7 @@
       "_key": "!actors.items!JX1vSza5sipBjUjf.vlYMLkVT5rW2vp3I"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "XhdhDXPmEUVXKsLj",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -595,7 +595,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -606,7 +606,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -631,7 +631,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -657,7 +657,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -709,7 +709,7 @@
           "value": null
         }
       },
-      "name": "Siege Monster",
+      "name": "Осадный монстр",
       "type": "feature",
       "_id": "9zhJtfKvT7R1l4BR",
       "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
@@ -725,7 +725,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1bhmj4jAaoUkOqbQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -739,7 +739,7 @@
       "_key": "!actors.items!JX1vSza5sipBjUjf.9zhJtfKvT7R1l4BR"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "JQltU4r1UKtFJyAp",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -843,7 +843,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -949,7 +949,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -1035,7 +1035,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Save/Damage When First Entering Cloud",
+            "name": "Сохранение/повреждение при первом входе в облако",
             "img": ""
           }
         },
@@ -1054,7 +1054,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &amp;Reference[poisoned]{poisoned} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
+          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &Reference[poisoned]{poisoned} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1080,7 +1080,7 @@
           "value": null
         }
       },
-      "name": "Ink Cloud",
+      "name": "Чернильное облако",
       "type": "feature",
       "_id": "Bu1edbuhcpkLY0ye",
       "img": "icons/magic/air/fog-gas-smoke-gray.webp",
@@ -1100,7 +1100,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1194,7 +1194,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1208,7 +1208,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked &amp;Reference[prone]{prone}. If a thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked &Reference[prone]{prone}. If a thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1234,7 +1234,7 @@
           "value": null
         }
       },
-      "name": "Fling",
+      "name": "Бросок",
       "type": "feature",
       "_id": "Y7kMwdI83ZQ5UCCc",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -1254,7 +1254,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1325,7 +1325,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1365,7 +1365,7 @@
           "value": null
         }
       },
-      "name": "Reel",
+      "name": "Катушка",
       "type": "feature",
       "_id": "aCfievExQqDasm0O",
       "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -1385,7 +1385,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1452,7 +1452,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1492,7 +1492,7 @@
           "value": null
         }
       },
-      "name": "Swim",
+      "name": "Плавать",
       "type": "feature",
       "_id": "HPWBBtmUXVaXjIQn",
       "img": "icons/magic/water/wave-water-blue.webp",
@@ -1508,7 +1508,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.HXHCVK6A8eIDIlkY",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1579,7 +1579,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1619,7 +1619,7 @@
           "value": null
         }
       },
-      "name": "Tentacle Attack",
+      "name": "Атака щупальцами",
       "type": "feature",
       "_id": "SYxYEhqTasbBEPT0",
       "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
@@ -1639,7 +1639,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1733,7 +1733,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1773,7 +1773,7 @@
           "value": null
         }
       },
-      "name": "Lightning Storm",
+      "name": "Молния",
       "type": "feature",
       "_id": "rw5Rl8E4MQaFk925",
       "img": "icons/magic/lightning/bolts-forked-large-orange-purple.webp",
@@ -1793,7 +1793,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1803,7 +1803,7 @@
       "_key": "!actors.items!JX1vSza5sipBjUjf.rw5Rl8E4MQaFk925"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "QYTTY3Vg9mVDm5HR",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1853,7 +1853,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1956,7 +1956,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -2038,7 +2038,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Subsequent Acid Damage",
+            "name": "Последующее повреждение кислотой",
             "img": "",
             "flags": {},
             "visibility": {
@@ -2056,7 +2056,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Large or smaller creature &amp;Reference[grappled]{grappled} by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is &amp;Reference[blinded]{blinded} and &amp;Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the kraken, and it takes [[/damage 12d6 acid average]] damage at the start of each of the kraken’s turns.</p><p>If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a [[/save con 24 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &amp;Reference[prone]{prone} in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Large or smaller creature &Reference[grappled]{grappled} by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the kraken, and it takes [[/damage 12d6 acid average]] damage at the start of each of the kraken’s turns.</p><p>If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a [[/save con 24 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{prone} in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2120,7 +2120,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930272,
         "modifiedTime": 1756759884544,
@@ -2133,7 +2133,7 @@
       "_key": "!actors.items!JX1vSza5sipBjUjf.QYTTY3Vg9mVDm5HR"
     },
     {
-      "name": "Tentacle",
+      "name": "Щупальце",
       "type": "weapon",
       "_id": "JGXhL2M9yJZJBoSC",
       "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -2183,7 +2183,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2229,7 +2229,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 22). Until this grapple ends, the target is &amp;Reference[restrained]{restrained}. The kraken has ten tentacles, each of which can grapple one target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 22). Until this grapple ends, the target is &Reference[restrained]{restrained}. The kraken has ten tentacles, each of which can grapple one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2296,7 +2296,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930272,
         "modifiedTime": 1756759894287,
@@ -2314,7 +2314,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756767053264,

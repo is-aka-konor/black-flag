@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Hideous Laughter",
+  "name": "отвратительный смех",
   "type": "spell",
   "_id": "2KCL7Tsd8sqEd9g0",
   "img": "icons/magic/control/fear-fright-white.webp",
@@ -54,9 +54,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a [[/save]] save or fall prone, becoming &amp;Reference[incapacitated] and unable to stand up for the duration. A creature with an INT of 3 (−4) or lower isn’t affected by this spell.</p><p>At the end of each of its turns and each time it takes damage, the target can make another [[/save]] save, ending the spell on a success. The target has advantage on the save if it’s triggered by damage.</p>",
+      "value": "<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a [[/save]] save or fall prone, becoming &Reference[incapacitated] and unable to stand up for the duration. A creature with an INT of 3 (−4) or lower isn’t affected by this spell.</p><p>At the end of each of its turns and each time it takes damage, the target can make another [[/save]] save, ending the spell on a success. The target has advantage on the save if it’s triggered by damage.</p>",
       "source": {},
-      "short": "Foe laughs uncontrollably."
+      "short": "Враг неудержимо смеется."
     },
     "type": {
       "value": "standard"
@@ -78,7 +78,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "tiny darts and a feather that is waved in the air",
+        "description": "крошечные дротики и перо, которым машут в воздухе",
         "denomination": "pp",
         "consumed": false
       }
@@ -116,7 +116,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.2KCL7Tsd8sqEd9g0",
+      "origin": "Compendium.black-flag-ru.spells.Item.2KCL7Tsd8sqEd9g0",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -127,13 +127,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Hideous Laughter",
+      "name": "отвратительный смех",
       "img": "icons/magic/control/fear-fright-white.webp",
       "_id": "7wTPk8P7ycHeddkk",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You are &amp;Reference[incapacitated] and are unable to stand up for the duration.</p><p>At the end of each of your turns and each time you take damage, you can make another [[/save WIS]], ending the spell on a success. You have advantage on the save if it’s triggered by damage.</p>",
+      "description": "<p>Вы &Reference[выданный из строя] и не можете встать на время действия.</p><p>В конце каждого вашего хода и каждый раз, когда вы наносите урон, вы можете сделать еще один [[/save WIS]], завершая заклинание при успехе. У вас есть преимущество в спасброске, если он вызван повреждениями.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [
@@ -146,7 +146,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722573421692,
         "modifiedTime": 1723605996984,
@@ -162,7 +162,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934112629,

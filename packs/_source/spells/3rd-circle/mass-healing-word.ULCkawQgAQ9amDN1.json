@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Mass Healing Word",
+  "name": "Слово массового исцеления",
   "type": "spell",
   "_id": "ULCkawQgAQ9amDN1",
   "img": "icons/magic/life/heart-cross-strong-blue.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to [[/healing]]{1d4 + your spellcasting ability modifier}. This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the healing increases by [[/healing 1d4]]{1d4} for each slot above 3rd.</p>",
       "source": {},
-      "short": "Minor heal to many at 60 ft."
+      "short": "Небольшое исцеление для многих на расстоянии 60 футов."
     },
     "type": {
       "value": "standard"
@@ -114,7 +114,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934598512,

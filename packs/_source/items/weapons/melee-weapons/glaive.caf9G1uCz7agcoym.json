@@ -1,5 +1,5 @@
 {
-  "name": "Glaive",
+  "name": "Глефа",
   "type": "weapon",
   "_id": "caf9G1uCz7agcoym",
   "img": "icons/weapons/polearms/glaive-hooked-steel.webp",
@@ -112,7 +112,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716237029238,

@@ -17,7 +17,7 @@ export default class VehicleSheet extends BaseStatBlockSheet {
 		...super.PARTS,
 		main: {
 			...super.PARTS.main,
-			template: "systems/black-flag/templates/actor/tabs/vehicle-main.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/vehicle-main.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Manifestation of Faith",
+  "name": "Проявление веры",
   "type": "feature",
   "_id": "xf5dzZURnah36SEP",
   "img": "icons/commodities/treasure/stone-cracked-lightning-blue.webp",
@@ -20,10 +20,10 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.E8rMSrbtxoIHhY8a"
+              "uuid": "Compendium.black-flag-ru.classes.Item.E8rMSrbtxoIHhY8a"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.innskwMl6jteEy4R"
+              "uuid": "Compendium.black-flag-ru.classes.Item.innskwMl6jteEy4R"
             }
           ],
           "restriction": {
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045161580,

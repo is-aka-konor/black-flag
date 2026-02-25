@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Book",
+  "name": "Книга",
   "type": "sundry",
   "_id": "sXQqSZcEpEeT29vT",
   "img": "icons/sundries/books/book-tooled-gold-brown.webp",
@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a field of lore, diagrams, notes on contraptions, or just about anything that can be represented using text or pictures. A @UUID[Compendium.black-flag.items.Item.0udkcM3mDnmXQyNg]{spellbook} is a separate item described later in this section.</p>",
+      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a field of lore, diagrams, notes on contraptions, or just about anything that can be represented using text or pictures. A @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{spellbook} is a separate item described later in this section.</p>",
       "source": {}
     },
     "type": {
@@ -32,7 +32,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707362892455,

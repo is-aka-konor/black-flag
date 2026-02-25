@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wings of Flying",
+  "name": "Крылья полета",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -89,7 +89,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Invoke Wings",
+        "name": "Вызов крыльев",
         "img": ""
       }
     },
@@ -119,9 +119,9 @@
   "img": "icons/equipment/back/cloak-layered-white.webp",
   "effects": [
     {
-      "name": "Wings of Flying",
+      "name": "Крылья полета",
       "img": "icons/equipment/back/cloak-layered-white.webp",
-      "origin": "Compendium.black-flag.items.Item.uCGluWyYKFA1J0Yg",
+      "origin": "Compendium.black-flag-ru.items.Item.uCGluWyYKFA1J0Yg",
       "transfer": false,
       "_id": "ScZbcgTKmZtEemLi",
       "type": "base",
@@ -155,7 +155,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730155760564,
         "modifiedTime": 1756332952553,
@@ -174,7 +174,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725071711812,
     "modifiedTime": 1730155793037,

@@ -1,6 +1,6 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Psycanist",
+  "name": "Псиканист",
   "type": "talent",
   "_id": "xVBzpKBu60WMxdVu",
   "img": "icons/magic/control/energy-stream-link-blue.webp",
@@ -25,13 +25,13 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.talents.Item.SjVl1c2L8FhyzFQk"
+              "uuid": "Compendium.black-flag-ru.talents.Item.SjVl1c2L8FhyzFQk"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.DXDjN5b5OTE432Fo"
+              "uuid": "Compendium.black-flag-ru.talents.Item.DXDjN5b5OTE432Fo"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.VVKyBsZcV7lH54E2"
+              "uuid": "Compendium.black-flag-ru.talents.Item.VVKyBsZcV7lH54E2"
             }
           ],
           "restriction": {
@@ -48,7 +48,7 @@
       }
     },
     "description": {
-      "value": "<p>Through magic, you learned to influence and manipulate the world around you with your mind. You gain one of the following benefits:</p><ul><li><p>@UUID[Compendium.black-flag.talents.Item.VVKyBsZcV7lH54E2]{Telepathy}</p></li><li><p>@UUID[Compendium.black-flag.talents.Item.SjVl1c2L8FhyzFQk]{Read Auras}</p></li><li><p>@UUID[Compendium.black-flag.talents.Item.DXDjN5b5OTE432Fo]{Telekinesis}</p></li></ul><p>You can select this talent multiple times, choosing a different benefit each time.</p>",
+      "value": "<p>Through magic, you learned to influence and manipulate the world around you with your mind. You gain one of the following benefits:</p><ul><li><p>@UUID[Compendium.black-flag-ru.talents.Item.VVKyBsZcV7lH54E2]{Telepathy}</p></li><li><p>@UUID[Compendium.black-flag-ru.talents.Item.SjVl1c2L8FhyzFQk]{Read Auras}</p></li><li><p>@UUID[Compendium.black-flag-ru.talents.Item.DXDjN5b5OTE432Fo]{Telekinesis}</p></li></ul><p>You can select this talent multiple times, choosing a different benefit each time.</p>",
       "source": {}
     },
     "restriction": {
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1717175616948,

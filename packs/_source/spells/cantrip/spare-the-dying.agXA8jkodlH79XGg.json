@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Spare the Dying",
+  "name": "Пощадите умирающих",
   "type": "spell",
   "_id": "agXA8jkodlH79XGg",
   "img": "icons/magic/life/heart-cross-purple-orange.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You touch a living creature that has 0 HP. The creature becomes stable. This spell has no effect on Constructs or Undead.</p>",
       "source": {},
-      "short": "Stabilize a dying creature."
+      "short": "Стабилизировать умирающее существо."
     },
     "type": {
       "value": "standard"
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935619922,

@@ -70,18 +70,18 @@ export default class SpellcastingDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		slots: {
-			template: "systems/black-flag/templates/advancement/spellcasting-dialog-slots.hbs",
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-dialog-slots.hbs",
 			scrollable: [""]
 		},
 		restrictions: {
-			template: "systems/black-flag/templates/advancement/spellcasting-dialog-restrictions.hbs"
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-dialog-restrictions.hbs"
 		},
 		spells: {
-			template: "systems/black-flag/templates/advancement/spellcasting-dialog-spells.hbs",
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-dialog-spells.hbs",
 			scrollable: [""]
 		},
 		controls: {
-			template: "systems/black-flag/templates/advancement/spellcasting-dialog-controls.hbs"
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-dialog-controls.hbs"
 		}
 	};
 

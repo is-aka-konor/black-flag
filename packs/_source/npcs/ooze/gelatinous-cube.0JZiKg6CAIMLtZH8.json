@@ -1,9 +1,9 @@
 {
   "folder": "7q5scxWTyXA37xUj",
-  "name": "Gelatinous Cube",
+  "name": "Желатиновый кубик",
   "type": "npc",
   "_id": "0JZiKg6CAIMLtZH8",
-  "img": "systems/black-flag/artwork/tokens/gelatinous-cube.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/gelatinous-cube.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,13 +149,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Gelatinous Cube",
+    "name": "Желатиновый кубик",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/gelatinous-cube.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/gelatinous-cube.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   },
   "items": [
     {
-      "name": "Ooze Cube",
+      "name": "Слизняк Куб",
       "type": "feature",
       "_id": "6n3SRtHVFfWdy9ZW",
       "img": "icons/creatures/slimes/slime-movement-splashing-yellow.webp",
@@ -299,7 +299,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711683501085,
@@ -312,7 +312,7 @@
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.6n3SRtHVFfWdy9ZW"
     },
     {
-      "name": "Ooze Nature",
+      "name": "Тина Природа",
       "type": "feature",
       "_id": "8Bw71UR4pclV1d1V",
       "img": "icons/creatures/slimes/slime-blob-pseudopods-green.webp",
@@ -361,20 +361,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1709774827111,
         "modifiedTime": 1711683654755,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.q6Fcwt1u5j4YntFm",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.q6Fcwt1u5j4YntFm",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.8Bw71UR4pclV1d1V"
     },
     {
-      "name": "Ooze Resilience",
+      "name": "Слизистая устойчивость",
       "type": "feature",
       "_id": "flRbY80QEXWIgogu",
       "img": "icons/creatures/slimes/slime-giant-face-eyes.webp",
@@ -411,7 +411,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.QInPwozfDFprThf1",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.QInPwozfDFprThf1",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -422,7 +422,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Ooze Resilience",
+          "name": "Слизистая устойчивость",
           "_id": "TRIJesrj6nA7uktU",
           "changes": [
             {
@@ -510,20 +510,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1709611470478,
         "modifiedTime": 1711683656953,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.QInPwozfDFprThf1",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.QInPwozfDFprThf1",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.flRbY80QEXWIgogu"
     },
     {
-      "name": "Transparent",
+      "name": "Прозрачный",
       "type": "feature",
       "_id": "40uetyaCtfHKNG8l",
       "img": "icons/creatures/slimes/slime-giant-face-eyes.webp",
@@ -572,7 +572,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711683679657,
@@ -585,7 +585,7 @@
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.40uetyaCtfHKNG8l"
     },
     {
-      "name": "Engulf",
+      "name": "Поглотить",
       "type": "feature",
       "_id": "joTLsUdIjs6iVmSA",
       "img": "icons/creatures/slimes/slime-face-skull-green.webp",
@@ -712,7 +712,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711683836514,
@@ -725,7 +725,7 @@
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.joTLsUdIjs6iVmSA"
     },
     {
-      "name": "Skewer Prey",
+      "name": "Шашлык Добыча",
       "type": "feature",
       "_id": "HvnIMns26fVKIjyS",
       "img": "icons/skills/melee/blade-tip-smoke-green.webp",
@@ -830,7 +830,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711683934344,
@@ -843,7 +843,7 @@
       "_key": "!actors.items!0JZiKg6CAIMLtZH8.HvnIMns26fVKIjyS"
     },
     {
-      "name": "Pseudopod",
+      "name": "Псевдопод",
       "type": "weapon",
       "_id": "9HO6aVYr2bReAp65",
       "img": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp",
@@ -1005,11 +1005,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.BM0wnwrOQkmV3utI",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.BM0wnwrOQkmV3utI",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926548,
         "modifiedTime": 1756760414898,
@@ -1025,7 +1025,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709617254212,

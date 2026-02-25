@@ -1,5 +1,5 @@
 {
-  "name": "Platinum",
+  "name": "Платина",
   "type": "currency",
   "_id": "DSIvSjJQvxdi7IWG",
   "img": "icons/commodities/currency/coin-embossed-skull-silver.webp",
@@ -33,7 +33,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1704133229599,

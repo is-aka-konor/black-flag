@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Illusory Script",
+  "name": "Иллюзорный сценарий",
   "type": "spell",
   "_id": "68ev3I1T8tFOB3QE",
   "img": "icons/sundries/scrolls/scroll-runed-brown-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.</p><p>To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.</p><p>If the spell is dispelled, the original script and the illusion both disappear.</p><p>A creature with truesight can read the hidden message.</p>",
       "source": {},
-      "short": "Write hidden messages."
+      "short": "Напишите скрытые сообщения."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": 10,
-        "description": "a lead-based ink worth at least 10 gp, which the spell consumes",
+        "description": "чернила на основе свинца стоимостью не менее 10 зм, которые расходуются на заклинание",
         "denomination": "gp",
         "consumed": true
       }
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1706997080980,

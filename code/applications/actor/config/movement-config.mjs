@@ -20,7 +20,7 @@ export default class MovementConfig extends BaseCustomConfigSheet {
 	static PARTS = {
 		config: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/movement-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/movement-config.hbs"
 		}
 	};
 

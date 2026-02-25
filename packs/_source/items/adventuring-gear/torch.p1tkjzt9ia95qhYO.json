@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Torch",
+  "name": "Факел",
   "type": "gear",
   "_id": "p1tkjzt9ia95qhYO",
   "img": "icons/sundries/lights/torch-white.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363680922,

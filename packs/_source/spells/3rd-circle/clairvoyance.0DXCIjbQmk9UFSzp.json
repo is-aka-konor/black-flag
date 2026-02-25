@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Clairvoyance",
+  "name": "Ясновидение",
   "type": "spell",
   "_id": "0DXCIjbQmk9UFSzp",
   "img": "icons/magic/perception/orb-eye-scrying.webp",
@@ -37,7 +37,7 @@
     "description": {
       "value": "<p>You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.</p><p>When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.</p><p>A creature that can see the sensor (such as a creature benefiting from <span style=\"text-decoration:underline\"><em>see invisibility</em></span> or truesight) sees a luminous, intangible orb about the size of your fist.</p>",
       "source": {},
-      "short": "View or hear up to 1 mile away."
+      "short": "Посмотреть или услышать на расстоянии до 1 мили."
     },
     "type": {
       "value": "standard"
@@ -59,7 +59,7 @@
       ],
       "material": {
         "cost": 100,
-        "description": "a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing",
+        "description": "фокус стоимостью не менее 100 зм, либо украшенный драгоценными камнями рог для слуха, либо стеклянный глаз для зрения",
         "consumed": false,
         "denomination": "gp"
       }
@@ -102,7 +102,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706996812481,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Helm of Teleportation",
+  "name": "Шлем телепортации",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the <em>@UUID[Compendium.black-flag.spells.Item.NJKjBBmBG98Lo2XY]{teleport}</em> spell from it. The helm regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.NJKjBBmBG98Lo2XY]{teleport}</em> spell from it. The helm regains [[/r 1d3]] expended charges daily at dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -26,7 +26,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.NJKjBBmBG98Lo2XY",
+            "uuid": "Compendium.black-flag-ru.spells.Item.NJKjBBmBG98Lo2XY",
             "challenge": {
               "attack": null,
               "save": null,
@@ -125,7 +125,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1724985796974,
     "modifiedTime": 1735681960367,

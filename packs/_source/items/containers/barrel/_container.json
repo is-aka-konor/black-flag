@@ -1,6 +1,6 @@
 {
   "folder": "UmAJtvm6pFXVRXGe",
-  "name": "Barrel",
+  "name": "Бочка",
   "type": "container",
   "_id": "a2tFFz1WBNHO3WiT",
   "img": "icons/containers/barrels/barrel-reinforced-cherry-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707362518460,

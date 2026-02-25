@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Young Copper Dragon",
+  "name": "Молодой Медный Дракон",
   "type": "npc",
   "_id": "0V3Lr3QRumobWHx0",
-  "img": "systems/black-flag/artwork/tokens/dragon-copper-young.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-copper-young.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -158,7 +158,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Young Copper Dragon",
+    "name": "Молодой Медный Дракон",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -166,7 +166,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-copper-young.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-copper-young.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -259,7 +259,7 @@
   },
   "items": [
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "v8vwfIGs1h8ydIcQ",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -363,7 +363,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -469,7 +469,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -515,7 +515,7 @@
           "value": null
         }
       },
-      "name": "Acid Breath",
+      "name": "Кислотное дыхание",
       "type": "feature",
       "_id": "10IMxsgViWONCnbC",
       "img": "icons/magic/acid/projectile-faceted-glob.webp",
@@ -531,7 +531,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.KIXtRmyJHK2SSIBV",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -622,7 +622,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -668,7 +668,7 @@
           "value": null
         }
       },
-      "name": "Slowing Breath",
+      "name": "Замедление дыхания",
       "type": "feature",
       "_id": "LfwpxHvX8br59H5B",
       "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
@@ -684,7 +684,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XYnAiYBcilmpln1q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -755,7 +755,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -795,7 +795,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "j8loySllibKmdDqy",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -811,7 +811,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -863,7 +863,7 @@
           "value": null
         }
       },
-      "name": "Corrosive Scales",
+      "name": "Коррозионная чешуя",
       "type": "feature",
       "_id": "XfbmgAgSR9lVUuC6",
       "img": "icons/commodities/biological/shell-tan.webp",
@@ -879,7 +879,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.K1AW7toC9mVh4aDw",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -893,7 +893,7 @@
       "_key": "!actors.items!0V3Lr3QRumobWHx0.XfbmgAgSR9lVUuC6"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "8Vtu3DAlrB3Js1dr",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -943,7 +943,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1056,7 +1056,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926682,
         "modifiedTime": 1756752990502,
@@ -1069,7 +1069,7 @@
       "_key": "!actors.items!0V3Lr3QRumobWHx0.8Vtu3DAlrB3Js1dr"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "KnL7ZlYjxuCaUsmJ",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1119,7 +1119,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1229,7 +1229,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926682,
         "modifiedTime": 1756752985731,
@@ -1247,7 +1247,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1730135008370,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Eagle",
+  "name": "Гигантский орел",
   "type": "npc",
   "_id": "FoI9Kwk09xJJ8TJq",
-  "img": "systems/black-flag/artwork/tokens/eagle-giant.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/eagle-giant.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Eagle",
+    "name": "Гигантский орел",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -156,7 +156,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/eagle-giant.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/eagle-giant.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -243,7 +243,7 @@
   },
   "items": [
     {
-      "name": "Heightened Sight",
+      "name": "Обостренное зрение",
       "type": "feature",
       "_id": "vMZLoYjgSoZoXxUa",
       "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
@@ -295,7 +295,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.C8UpUQHLWNlBu1FU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -377,7 +377,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Initial CON Save",
+            "name": "Начальное сохранение CON",
             "img": "",
             "sort": 0
           },
@@ -441,7 +441,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Suffocation Check",
+            "name": "Проверка удушья",
             "img": ""
           }
         },
@@ -480,7 +480,7 @@
           "value": null
         }
       },
-      "name": "Seabird",
+      "name": "Морская птица",
       "type": "feature",
       "_id": "mvjmAEsr6aMXHFbj",
       "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
@@ -500,7 +500,7 @@
         "compendiumSource": "Actor.0RnEUV8shkrk7yrP.Item.jumBCWtMrjiGKtqZ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -510,7 +510,7 @@
       "_key": "!actors.items!FoI9Kwk09xJJ8TJq.mvjmAEsr6aMXHFbj"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "fwypBnYuOVIr6wJe",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -614,7 +614,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -628,7 +628,7 @@
       "_key": "!actors.items!FoI9Kwk09xJJ8TJq.fwypBnYuOVIr6wJe"
     },
     {
-      "name": "Beak",
+      "name": "Клюв",
       "type": "weapon",
       "_id": "vjJonZjiSKr1NSs9",
       "img": "icons/commodities/bones/beak-orange-green.webp",
@@ -680,7 +680,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -790,7 +790,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929494,
         "modifiedTime": 1756750145634,
@@ -879,7 +879,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -898,7 +898,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 13) if it is a Medium or smaller creature. Until this grapple ends, the target is &amp;Reference[restrained]{restrained}, and the eagle can’t use its Talons on another target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 13) if it is a Medium or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}, and the eagle can’t use its Talons on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -948,7 +948,7 @@
         },
         "rarity": ""
       },
-      "name": "Talon",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "zqrPoF5qprQ2NDCq",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -965,7 +965,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929494,
         "modifiedTime": 1756750152485,
@@ -983,7 +983,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

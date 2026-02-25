@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Elusive",
+  "name": "неуловимый",
   "type": "feature",
   "_id": "YgxHOUpylQ8Rddo3",
   "img": "icons/magic/control/debuff-energy-snare-purple-pink.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715739866307,

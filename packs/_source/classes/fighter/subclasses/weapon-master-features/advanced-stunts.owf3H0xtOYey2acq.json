@@ -1,6 +1,6 @@
 {
   "folder": "O4IxXknv80RC9gjl",
-  "name": "Advanced Stunts",
+  "name": "Продвинутые трюки",
   "type": "feature",
   "_id": "owf3H0xtOYey2acq",
   "img": "icons/skills/ranged/person-archery-bow-attack-orange.webp",
@@ -20,22 +20,22 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.UeDQ2YAtJjBDRZeU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.UeDQ2YAtJjBDRZeU"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.teCTYpFGLj7NUort"
+              "uuid": "Compendium.black-flag-ru.classes.Item.teCTYpFGLj7NUort"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.hKgvfuKUFOKCcya3"
+              "uuid": "Compendium.black-flag-ru.classes.Item.hKgvfuKUFOKCcya3"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.fswfigCSXH0vfRAm"
+              "uuid": "Compendium.black-flag-ru.classes.Item.fswfigCSXH0vfRAm"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.EV60JhipXOaygP2a"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EV60JhipXOaygP2a"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.OAcsKen7sgQzn76L"
+              "uuid": "Compendium.black-flag-ru.classes.Item.OAcsKen7sgQzn76L"
             }
           ]
         },
@@ -75,7 +75,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715787390,

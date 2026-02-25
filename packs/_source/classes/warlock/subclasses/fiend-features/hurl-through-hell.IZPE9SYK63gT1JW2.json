@@ -1,6 +1,6 @@
 {
   "folder": "GDoFM686nV2sICKW",
-  "name": "Hurl Through Hell",
+  "name": "Брось сквозь ад",
   "type": "feature",
   "_id": "IZPE9SYK63gT1JW2",
   "img": "icons/magic/fire/flame-burning-skeleton-explosion.webp",
@@ -9,7 +9,7 @@
       "8R1nIE7konpuqppX": {
         "type": "utility",
         "_id": "8R1nIE7konpuqppX",
-        "description": "<p>When you hit a creature with an attack, you can use this feature to instantly transport the target, causing it to disappear and hurtle through a nightmare landscape.</p><p>At the end of your next turn, the target returns to the space it previously occupied or to the nearest unoccupied space.</p><p>If the target is not a Fiend, it takes [[/damage 10d10 psychic]] damage as it reels from its horrific experience.</p>",
+        "description": "<p>Когда вы атакуете Сущность, вы можете использовать эту способность, чтобы мгновенно переместить цель, заставив ее и помчаться по кошмарному ландшафту.</p><p>В конце вашего следующего хода цель возвращается в место, которое она ранее занимала, или в ближайшее незанятое пространство.</p><p>Если цель не демон, она получает [[/damage 10d10 psychic]] урона, откатываясь от своего.ужасного опыт._</p>_",
         "system": {},
         "activation": {
           "value": null,
@@ -104,7 +104,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719377073668,

@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Water Breathing",
+  "name": "Зелье водного дыхания",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "CGsXiLMhgmTNKKx7"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
   "effects": [
     {
-      "name": "Water Breathing",
+      "name": "Водное дыхание",
       "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
-      "origin": "Compendium.black-flag.items.Item.kt1S3sJbbzrJUAT7",
+      "origin": "Compendium.black-flag-ru.items.Item.kt1S3sJbbzrJUAT7",
       "transfer": false,
       "_id": "QLXLRVTOkG89x8v6",
       "type": "base",
@@ -140,7 +140,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540650084,
         "modifiedTime": 1729540653015,
@@ -159,7 +159,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073817912,
     "modifiedTime": 1729540650124,

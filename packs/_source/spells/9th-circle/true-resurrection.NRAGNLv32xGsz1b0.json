@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "True Resurrection",
+  "name": "Истинное воскресение",
   "type": "spell",
   "_id": "NRAGNLv32xGsz1b0",
   "img": "icons/magic/life/heart-shadow-red.webp",
@@ -69,7 +69,7 @@
     "description": {
       "value": "<p>You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature’s soul is free and willing, the creature is restored to life with all its hit points.</p><p>This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs.</p><p>The spell can even provide a new body if the original no longer exists, in which case you must speak the creature’s name. The creature then appears in an unoccupied space you choose within 10 feet of you.</p>",
       "source": {},
-      "short": "Resurrect 200 years dead."
+      "short": "Воскресите мертвых 200 лет назад."
     },
     "casting": {
       "value": 1,
@@ -90,7 +90,7 @@
         "consumed": true,
         "cost": 25000,
         "denomination": "gp",
-        "description": "a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes"
+        "description": "немного святой воды и алмазов стоимостью не менее 25 000 зм, которые расходуются на заклинание"
       }
     },
     "duration": {
@@ -129,7 +129,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527499204,
     "modifiedTime": 1723575550532,

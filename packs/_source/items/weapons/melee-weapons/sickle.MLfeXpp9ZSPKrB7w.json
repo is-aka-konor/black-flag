@@ -1,5 +1,5 @@
 {
-  "name": "Sickle",
+  "name": "Серп",
   "type": "weapon",
   "_id": "MLfeXpp9ZSPKrB7w",
   "img": "icons/weapons/sickles/sickle-curved.webp",
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716236702159,

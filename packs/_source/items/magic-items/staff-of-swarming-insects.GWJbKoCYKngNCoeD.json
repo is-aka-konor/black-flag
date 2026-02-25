@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Swarming Insects",
+  "name": "Посох роящихся насекомых",
   "type": "weapon",
   "_id": "GWJbKoCYKngNCoeD",
   "img": "icons/weapons/staves/staff-spiked.webp",
@@ -10,7 +10,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.7irCOXrPAuMjPYJH",
+            "uuid": "Compendium.black-flag-ru.spells.Item.7irCOXrPAuMjPYJH",
             "challenge": {
               "attack": null,
               "save": null,
@@ -88,7 +88,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.lGmxkutPlXsgyzRd",
+            "uuid": "Compendium.black-flag-ru.spells.Item.lGmxkutPlXsgyzRd",
             "challenge": {
               "attack": null,
               "save": null,
@@ -230,7 +230,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Insect Cloud",
+        "name": "Облако насекомых",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -256,7 +256,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff has 10 charges and regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses. The staff has the following additional properties:</p><p><em><strong>Spells.</strong></em> While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag.spells.Item.7irCOXrPAuMjPYJH]{giant insect}</em> (4 charges) or <em>@UUID[Compendium.black-flag.spells.Item.lGmxkutPlXsgyzRd]{insect plague}</em> (5 charges).</p><p><em><strong>Insect Cloud.</strong></em> While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30‑foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.</p>",
+      "value": "<p>This staff has 10 charges and regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses. The staff has the following additional properties:</p><p><em><strong>Spells.</strong></em> While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: <em>@UUID[Compendium.black-flag-ru.spells.Item.7irCOXrPAuMjPYJH]{giant insect}</em> (4 charges) or <em>@UUID[Compendium.black-flag-ru.spells.Item.lGmxkutPlXsgyzRd]{insect plague}</em> (5 charges).</p><p><em><strong>Insect Cloud.</strong></em> While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30‑foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -303,7 +303,7 @@
     "rarity": "rare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Bard, Cleric, Druid, Sorcerer,Warlock, or Wizard"
+      "requirement": "от Барда, Священника, Друида, Колдуна, Чернокнижника или Волшебника"
     },
     "container": null,
     "magicalBonus": null
@@ -317,7 +317,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590585223,
     "modifiedTime": 1756332437600,

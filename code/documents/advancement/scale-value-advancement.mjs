@@ -15,7 +15,7 @@ export default class ScaleValueAdvancement extends Advancement {
 					configuration: ScaleValueConfigurationData
 				},
 				order: 60,
-				icon: "systems/black-flag/artwork/advancement/scale-value.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/scale-value.svg",
 				title: "BF.Advancement.ScaleValue.Title",
 				hint: "BF.Advancement.ScaleValue.Hint",
 				identifier: {

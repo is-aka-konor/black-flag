@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Resistance",
+  "name": "Сопротивление",
   "type": "spell",
   "_id": "KD0WeQfEhqqvQ8cY",
   "img": "icons/magic/defensive/shield-barrier-glowing-triangle-teal-purple.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one save of its choice. It can roll the die before or after making the save. The spell then ends.</p>",
       "source": {},
-      "short": "Ally adds d4 to save."
+      "short": "Элли добавляет d4 для спасения."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a miniature cloak",
+        "description": "миниатюрный плащ",
         "denomination": "pp",
         "consumed": false
       }
@@ -100,9 +100,9 @@
   },
   "effects": [
     {
-      "name": "Resistance",
+      "name": "Сопротивление",
       "img": "icons/magic/defensive/shield-barrier-glowing-triangle-teal-purple.webp",
-      "origin": "Compendium.black-flag.spells.Item.KD0WeQfEhqqvQ8cY",
+      "origin": "Compendium.black-flag-ru.spells.Item.KD0WeQfEhqqvQ8cY",
       "transfer": false,
       "_id": "EPO9cHqZj34yjp8n",
       "type": "base",
@@ -118,7 +118,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>Once before the spells ends, you can roll a [[/r 1d4]] and add the number rolled to one save of your choice. You can roll the die before or after making the save. The spell then ends.</p>",
+      "description": "<p>Как только заклинание закончится, вы можете выбросить [[/r 1d4]] и добавить выпавшее число к одному спас-броску по вашему выбору. Вы можете бросить кубик до или после сохранения. Затем заклинание заканчивается.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -127,7 +127,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723266725629,
         "modifiedTime": 1723266774121,
@@ -143,7 +143,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935181987,

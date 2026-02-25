@@ -1,13 +1,13 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "Channel Divinity: Mark of Thiumph",
+  "name": "Канал Divinity: Знак Тиумфа",
   "type": "feature",
   "_id": "WvenH1OyYc2h0Ml3",
   "img": "icons/skills/targeting/crosshair-mark-rough-pink.webp",
   "system": {
     "advancement": {},
     "description": {
-      "value": "<p>Starting at 3rd level, you can use your Channel Divinity to mystically mark a foe, making them easier to defeat.</p><p>As a bonus action, you present your holy symbol and mystically mark one creature you can see within 30 feet of you. Until the start of your next turn, any creature who attacks a marked creature has advantage on the first attack roll they make against it.</p>",
+      "value": "<p>Starting at 3rd level, you can use your Божественный канал to mystically mark a foe, making them easier to defeat.</p><p>As a bonus action, you present your holy symbol and mystically mark one creature you can see within 30 feet of you. Until the start of your next turn, any creature who attacks a marked creature has advantage on the first attack roll they make against it.</p>",
       "source": {}
     },
     "identifier": {
@@ -41,7 +41,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.GcJRrE3ppTFS6Hnh",
+              "target": "Compendium.black-flag-ru.classes.Item.GcJRrE3ppTFS6Hnh",
               "value": "1"
             }
           ],
@@ -55,7 +55,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Mark a Creature",
+        "name": "Отметить существо",
         "img": ""
       }
     }
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1700001802960,

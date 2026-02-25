@@ -21,13 +21,13 @@ export default class SpellcastingConfig extends AdvancementConfig {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		details: {
-			template: "systems/black-flag/templates/advancement/spellcasting-config-details.hbs"
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-config-details.hbs"
 		},
 		learning: {
-			template: "systems/black-flag/templates/advancement/spellcasting-config-learning.hbs"
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-config-learning.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Headband of Intellect",
+  "name": "Повязка интеллекта",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Headband of Intellect",
-      "origin": "Compendium.black-flag.items.Item.coxAcu3zH6uR9eLi",
+      "name": "Повязка интеллекта",
+      "origin": "Compendium.black-flag-ru.items.Item.coxAcu3zH6uR9eLi",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728594682216,
         "modifiedTime": 1756334079676,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724985722286,
     "modifiedTime": 1729890261106,

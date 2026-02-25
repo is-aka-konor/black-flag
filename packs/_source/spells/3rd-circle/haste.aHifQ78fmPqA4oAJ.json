@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Haste",
+  "name": "Спешка",
   "type": "spell",
   "_id": "aHifQ78fmPqA4oAJ",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on DEX saves, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</p><p>When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.</p>",
       "source": {},
-      "short": "Ally speed × 2, +2 AC, more fast boosts."
+      "short": "Скорость союзника × 2, +2 AC, более быстрые усиления."
     },
     "type": {
       "value": "standard"
@@ -75,7 +75,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a shaving of licorice root",
+        "description": "стружка корня солодки",
         "consumed": false,
         "denomination": "gp"
       }
@@ -112,7 +112,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.aHifQ78fmPqA4oAJ",
+      "origin": "Compendium.black-flag-ru.spells.Item.aHifQ78fmPqA4oAJ",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -123,7 +123,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Haste",
+      "name": "Спешка",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "_id": "oAjTl6k4dBu3KmfZ",
       "type": "base",
@@ -148,7 +148,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your speed is doubled, you gain a +2 bonus to AC, you have advantage on DEX saves, and you gain an additional action on each of your turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</p>",
+      "description": "<p>Ваша скорость удваивается, вы постоянно получаете бонус +2 к AC, у вас есть преимущество в спасбросках DEX и дополнительное действие в каждом ходе. Это действие можно использовать только для совершения действия «Атака» (только одна атака оружием), «Рывок», «Выход из боя», «Спрятаться» или «Использовать объект».</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -158,7 +158,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722571887375,
         "modifiedTime": 1722572398856,
@@ -174,7 +174,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934086221,

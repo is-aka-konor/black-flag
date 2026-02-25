@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Inflict Wounds",
+  "name": "Наносить раны",
   "type": "spell",
   "_id": "8WxYpeoDwKFLim3D",
   "img": "icons/magic/unholy/hand-fire-skeleton-pink.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>Make a melee spell attack against a creature you can reach. On a hit, the target takes [[/damage]] damage.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the damage increases by [[/damage 1d10 necrotic]]{1d10} for each slot above 1st.</p>",
       "source": {},
-      "short": "Average necrotic to foe."
+      "short": "Средний некротический урон врагу."
     },
     "type": {
       "value": "standard"
@@ -132,7 +132,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1706934204227,

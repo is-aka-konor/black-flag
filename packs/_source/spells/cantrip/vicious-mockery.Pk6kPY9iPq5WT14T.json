@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Vicious Mockery",
+  "name": "Злобное издевательство",
   "type": "spell",
   "_id": "Pk6kPY9iPq5WT14T",
   "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
@@ -92,7 +92,7 @@
     "description": {
       "value": "<p>You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a [[/save]] save or take [[/damage]] damage and have disadvantage on the next attack roll it makes before the end of its next turn.</p><p>This spell’s damage increases by 1d4 when you reach 5th level ([[/damage 2d4 psychic]]{2d4}), 11th level ([[/damage 4d4 psychic]]{3d4}), and 17th level ([[/damage 4d4 psychic]]{4d4}).</p>",
       "source": {},
-      "short": "Psychic harm and disadvantage."
+      "short": "Психический вред и ущерб."
     },
     "casting": {
       "value": null,
@@ -144,9 +144,9 @@
   },
   "effects": [
     {
-      "name": "Vicious Mockery",
+      "name": "Злобное издевательство",
       "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
-      "origin": "Compendium.black-flag.spells.Item.Pk6kPY9iPq5WT14T",
+      "origin": "Compendium.black-flag-ru.spells.Item.Pk6kPY9iPq5WT14T",
       "transfer": false,
       "_id": "bzUPm7xsCzBGBzTz",
       "type": "base",
@@ -178,7 +178,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723578531939,
         "modifiedTime": 1723578612347,
@@ -196,7 +196,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723528022203,
     "modifiedTime": 1723578531983,

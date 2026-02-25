@@ -1,6 +1,6 @@
 {
   "folder": "qMTJQup73eOQq8Qf",
-  "name": "Bardic Performance",
+  "name": "Бардское выступление",
   "type": "feature",
   "_id": "JkXqE6KTGn7rYDOv",
   "img": "icons/tools/instruments/drum-standing-glowing-green.webp",
@@ -20,7 +20,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.bw4Hk310tZbI7YDS"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bw4Hk310tZbI7YDS"
             }
           ]
         },
@@ -36,7 +36,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain the following Bardic Performance option.</p><h6>Bardic Performance: Ode to Heroes</h6><p>@Embed[Compendium.black-flag.classes.Item.bw4Hk310tZbI7YDS inline]</p>",
+      "value": "<p>You gain the following Bardic Performance option.</p><h6>Bardic Performance: Ode to Heroes</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.bw4Hk310tZbI7YDS inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -65,7 +65,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717618557483,

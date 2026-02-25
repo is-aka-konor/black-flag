@@ -15,59 +15,59 @@ import { localizeConfig } from "../utils/_module.mjs";
 export const creatureTypes = {
 	aberration: {
 		localization: "BF.CreatureType.Type.Aberration",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.FdTfsFN2mEaH0dh0"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.FdTfsFN2mEaH0dh0"
 	},
 	beast: {
 		localization: "BF.CreatureType.Type.Beast",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.4CRbAERqSRQQ8rWM"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.4CRbAERqSRQQ8rWM"
 	},
 	celestial: {
 		localization: "BF.CreatureType.Type.Celestial",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.YihanG6MWJtWuXRH"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.YihanG6MWJtWuXRH"
 	},
 	construct: {
 		localization: "BF.CreatureType.Type.Construct",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.bU3uHbUTyEKCvMdw"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.bU3uHbUTyEKCvMdw"
 	},
 	dragon: {
 		localization: "BF.CreatureType.Type.Dragon",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.a3m05Htjwsr81ciO"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.a3m05Htjwsr81ciO"
 	},
 	elemental: {
 		localization: "BF.CreatureType.Type.Elemental",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KuitTyCuiyPJx7Yx"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KuitTyCuiyPJx7Yx"
 	},
 	fey: {
 		localization: "BF.CreatureType.Type.Fey",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GUU2PMiIVdkj302g"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GUU2PMiIVdkj302g"
 	},
 	fiend: {
 		localization: "BF.CreatureType.Type.Fiend",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.SuJnNFNcErG2SWlu"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.SuJnNFNcErG2SWlu"
 	},
 	giant: {
 		localization: "BF.CreatureType.Type.Giant",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CU2Aok5lj6Srf6p5"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CU2Aok5lj6Srf6p5"
 	},
 	humanoid: {
 		localization: "BF.CreatureType.Type.Humanoid",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.q74G8dHvaT2iSKiR"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.q74G8dHvaT2iSKiR"
 	},
 	monstrosity: {
 		localization: "BF.CreatureType.Type.Monstrosity",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.UIu4g5LNxbDlh1xl"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.UIu4g5LNxbDlh1xl"
 	},
 	ooze: {
 		localization: "BF.CreatureType.Type.Ooze",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ADqhMsVaa0L9DF7h"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ADqhMsVaa0L9DF7h"
 	},
 	plant: {
 		localization: "BF.CreatureType.Type.Plant",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.aIRHqfydG0iAyZuK"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.aIRHqfydG0iAyZuK"
 	},
 	undead: {
 		localization: "BF.CreatureType.Type.Undead",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.OuEGHqtpQB57PxW7"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.OuEGHqtpQB57PxW7"
 	}
 };
 localizeConfig(creatureTypes);
@@ -82,15 +82,15 @@ localizeConfig(creatureTypes, { propertyName: "localizedPlural", pluralRule: "ot
 export const creatureTags = {
 	animal: {
 		localization: "BF.CreatureType.Tag.Animal",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.wIVbWmvn1dq8vc68"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.wIVbWmvn1dq8vc68"
 	},
 	golem: {
 		localization: "BF.CreatureType.Tag.Golem",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.g8KIFr6a9FXbDVeX"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.g8KIFr6a9FXbDVeX"
 	},
 	outsider: {
 		localization: "BF.CreatureType.Tag.Outsider",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ynBgOpaDVZ1Ofxx4",
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.ynBgOpaDVZ1Ofxx4",
 		children: {
 			angel: {
 				localization: "BF.CreatureType.Tag.Angel"
@@ -105,7 +105,7 @@ export const creatureTags = {
 	},
 	shapechanger: {
 		localization: "BF.CreatureType.Tag.Shapechanger",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.lt1UiK4eCG5W4Htw",
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.lt1UiK4eCG5W4Htw",
 		children: {
 			lycanthrope: {
 				localization: "BF.CreatureType.Tag.Lycanthrope"
@@ -151,15 +151,15 @@ export const encumbrance = {
 	effects: {
 		encumbered: {
 			name: "EFFECT.BF.Encumbered",
-			icon: "systems/black-flag/artwork/statuses/encumbered.svg"
+			icon: "systems/black-flag-ru/artwork/statuses/encumbered.svg"
 		},
 		heavilyEncumbered: {
 			name: "EFFECT.BF.HeavilyEncumbered",
-			icon: "systems/black-flag/artwork/statuses/heavily-encumbered.svg"
+			icon: "systems/black-flag-ru/artwork/statuses/heavily-encumbered.svg"
 		},
 		exceedingCarryingCapacity: {
 			name: "EFFECT.BF.ExceedingCarryingCapacity",
-			icon: "systems/black-flag/artwork/statuses/exceeding-carrying-capacity.svg"
+			icon: "systems/black-flag-ru/artwork/statuses/exceeding-carrying-capacity.svg"
 		}
 	},
 	threshold: {
@@ -240,21 +240,21 @@ export const movementTypes = {
 	},
 	climb: {
 		label: "BF.MOVEMENT.Type.Climb",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CdBLKsrlKHR5HvDr",
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CdBLKsrlKHR5HvDr",
 		walkFallback: true
 	},
 	fly: {
 		label: "BF.MOVEMENT.Type.Fly",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CHNmwHjrIZtXEsf4"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CHNmwHjrIZtXEsf4"
 	},
 	swim: {
 		label: "BF.MOVEMENT.Type.Swim",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzj83NdxpPZQoW6Z",
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzj83NdxpPZQoW6Z",
 		walkFallback: true
 	},
 	burrow: {
 		label: "BF.MOVEMENT.Type.Burrow",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.jzO6qMcEroDupZDD"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.jzO6qMcEroDupZDD"
 	}
 };
 localizeConfig(movementTypes, { sort: false });
@@ -360,19 +360,19 @@ export const rest = {
 export const senses = {
 	darkvision: {
 		label: "BF.SENSES.Type.Darkvision",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.wdYu7KK3IEKJ8lte"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.wdYu7KK3IEKJ8lte"
 	},
 	keensense: {
 		label: "BF.SENSES.Type.Keensense",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gueujRnHAjOZxT6g"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gueujRnHAjOZxT6g"
 	},
 	tremorsense: {
 		label: "BF.SENSES.Type.Tremorsense",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.iGH9wAnloILFHmX8"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.iGH9wAnloILFHmX8"
 	},
 	truesight: {
 		label: "BF.SENSES.Type.Truesight",
-		reference: "Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.rGryrzkJD8x0LNkT"
+		reference: "Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.rGryrzkJD8x0LNkT"
 	}
 };
 localizeConfig(senses);

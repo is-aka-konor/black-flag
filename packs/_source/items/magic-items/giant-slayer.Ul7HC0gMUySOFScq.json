@@ -1,6 +1,6 @@
 {
   "type": "feature",
-  "name": "Giant Slayer",
+  "name": "Гигантский убийца",
   "system": {
     "description": {
       "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p><p>When you use it to hit a creature with the Giant type, the creature takes an extra [[/r 2d6]] damage of the weapon’s type and must succeed on a [[/save 15 STR]] or fall prone.</p><section class=\"secret\" id=\"secret-LWgFT10BX0uRo7QZ\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Axe or Sword), Rare, 1,500 gp + base item cost</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
@@ -83,7 +83,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Giant Save",
+        "name": "Гигантское сохранение",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -129,7 +129,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Giant Slayer",
+      "name": "Гигантский убийца",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -204,7 +204,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728592490990,
         "modifiedTime": 1756334023257,
@@ -231,7 +231,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1726788319699,
     "modifiedTime": 1756334027721,

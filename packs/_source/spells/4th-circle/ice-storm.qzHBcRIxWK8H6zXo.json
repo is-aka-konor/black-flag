@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Ice Storm",
+  "name": "Ледяной шторм",
   "type": "spell",
   "_id": "qzHBcRIxWK8H6zXo",
   "img": "icons/magic/water/projectile-icecicles-salvo.webp",
@@ -82,7 +82,7 @@
     "description": {
       "value": "<p>A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half damage on a successful one.</p><p>Hailstones turn the storm’s area of effect into difficult terrain until the end of your next turn.</p><p><em>At Higher Rings.</em> When you cast this spell using a spell slot of 5th ring or higher, the bludgeoning damage increases by [[/damage 1d8 bludgeoning]]{1d8} for each slot beyond 4th ring.</p>",
       "source": {},
-      "short": "Bludgeoning and cold hail."
+      "short": "Дробящий и холодный град."
     },
     "type": {
       "value": "standard"
@@ -103,7 +103,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a pinch of dust and a few drops of water",
+        "description": "щепотка пыли и несколько капель воды",
         "consumed": false,
         "denomination": "gp"
       }
@@ -145,7 +145,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1706997830635,

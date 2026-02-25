@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Robe of Eyes",
+  "name": "Мантия Глаз",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Eyes",
-      "origin": "Compendium.black-flag.items.Item.AnIWL7PHp60CXsml",
+      "name": "Глаза",
+      "origin": "Compendium.black-flag-ru.items.Item.AnIWL7PHp60CXsml",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -84,7 +84,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729892455721,
         "modifiedTime": 1756333550396,
@@ -103,7 +103,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725070997860,
     "modifiedTime": 1729892559489,

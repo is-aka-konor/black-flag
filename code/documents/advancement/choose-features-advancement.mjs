@@ -21,7 +21,7 @@ export default class ChooseFeaturesAdvancement extends GrantFeaturesAdvancement 
 					value: ChooseFeaturesValueData
 				},
 				order: 50,
-				icon: "systems/black-flag/artwork/advancement/choose-features.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/choose-features.svg",
 				title: "BF.Advancement.ChooseFeatures.Title",
 				hint: "BF.Advancement.ChooseFeatures.Hint",
 				multiLevel: true

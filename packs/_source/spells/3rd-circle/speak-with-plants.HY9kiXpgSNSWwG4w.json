@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Speak with Plants",
+  "name": "Поговорите с растениями",
   "type": "spell",
   "_id": "HY9kiXpgSNSWwG4w",
   "img": "icons/commodities/flowers/lily-grey-orange.webp",
@@ -61,7 +61,7 @@
     "description": {
       "value": "<p>You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.</p><p>You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.</p><p>Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.</p><p>If a Plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.</p><p>This spell can cause the plants created by the entangle spell to release a restrained creature.</p>",
       "source": {},
-      "short": "Converse with Plants."
+      "short": "Разговор с растениями."
     },
     "casting": {
       "value": null,
@@ -112,9 +112,9 @@
   },
   "effects": [
     {
-      "name": "Speak with Plants",
+      "name": "Поговорите с растениями",
       "img": "icons/commodities/flowers/lily-grey-orange.webp",
-      "origin": "Compendium.black-flag.spells.Item.HY9kiXpgSNSWwG4w",
+      "origin": "Compendium.black-flag-ru.spells.Item.HY9kiXpgSNSWwG4w",
       "transfer": false,
       "_id": "6I5msBUpCm7k7qIE",
       "type": "base",
@@ -139,7 +139,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723438154777,
         "modifiedTime": 1723438154777,
@@ -157,7 +157,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723267574558,
     "modifiedTime": 1723438154800,

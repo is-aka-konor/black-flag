@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Dust of Disappearance",
+  "name": "Пыль исчезновения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -87,7 +87,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Throw Dust",
+        "name": "Бросать пыль",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -131,7 +131,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983922732,
     "modifiedTime": 1756335366609,

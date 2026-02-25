@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Figurine of Wondrous Power, Ivory Goats",
+  "name": "Статуэтка Чудесной Силы, Козы цвета слоновой кости",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:</p><ul><li><p>The <em>goat of traveling</em> can become a Large goat with the same statistics as a <strong>@UUID[Compendium.black-flag.npcs.Actor.usBkwcEYxNPK7eXq]{riding horse}</strong>. It has 24 charges, and each hour or portion thereof it spends in this form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can’t be used again until 7 days have passed, when it regains all its charges.</p></li><li><p>The <em>goat of travail</em> becomes a <strong>@UUID[Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE]{giant goat}</strong> for up to 3 hours. Once it has been used, it can’t be used again until 30 days have passed.</p></li><li><p>The <em>goat of terror</em> becomes a <strong>@UUID[Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE]{giant goat}</strong> for up to 3 hours. The goat can’t attack, but you can remove its horns and use them as weapons. One horn becomes a +1 lance, and the other becomes a +2 longsword. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form.</p><p>In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a [[/save 15 WIS]] or be &amp;Reference[frightened] of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat’s aura for the next 24 hours. Once the figurine has been used, it can’t be used again until 15 days have passed.</p></li></ul><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:</p><ul><li><p>The <em>goat of traveling</em> can become a Large goat with the same statistics as a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.usBkwcEYxNPK7eXq]{riding horse}</strong>. It has 24 charges, and each hour or portion thereof it spends in this form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can’t be used again until 7 days have passed, when it regains all its charges.</p></li><li><p>The <em>goat of travail</em> becomes a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE]{giant goat}</strong> for up to 3 hours. Once it has been used, it can’t be used again until 30 days have passed.</p></li><li><p>The <em>goat of terror</em> becomes a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE]{giant goat}</strong> for up to 3 hours. The goat can’t attack, but you can remove its horns and use them as weapons. One horn becomes a +1 lance, and the other becomes a +2 longsword. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form.</p><p>In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a [[/save 15 WIS]] or be &Reference[frightened] of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat’s aura for the next 24 hours. Once the figurine has been used, it can’t be used again until 15 days have passed.</p></li></ul><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -19,7 +19,7 @@
     "activities": {
       "0BtVsywWXUn8GD8O": {
         "type": "summon",
-        "description": "<p>The <em>goat of traveling</em> can become a Large goat with the same statistics as a <strong>riding horse</strong>. It has 24 charges, and each hour or portion thereof it spends in this form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can’t be used again until 7 days have passed, when it regains all its charges.</p>",
+        "description": "<p>Путешествие <em>коза</em> может стать Большим козлом с такими же благополучными, как и <strong>верховая лошадь</strong>. У него 24 заряда, и каждый час или его часть, проведенная в таком виде, стоит 1 заряд.Хотя у него есть зарядное устройство, вы можете использовать его так часто, как вам кажется. Когда у него заканчиваются заряды, он превращается в фигурку, и его нельзя использовать снова до тех пор, пока не пройдут 7 дней, пока он не восстановит все свои заряды.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -34,7 +34,7 @@
               "count": "",
               "name": "",
               "_id": "t0DDOkkc1P769ozb",
-              "uuid": "Compendium.black-flag.npcs.Actor.usBkwcEYxNPK7eXq",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.usBkwcEYxNPK7eXq",
               "level": {
                 "min": null,
                 "max": null
@@ -105,7 +105,7 @@
           "min": "",
           "max": "24"
         },
-        "name": "Summon Goat of Traveling",
+        "name": "Призвать козла путешествий",
         "img": "",
         "_id": "0BtVsywWXUn8GD8O",
         "visibility": {
@@ -119,7 +119,7 @@
       },
       "WuBZO8POgPFSNCoU": {
         "type": "summon",
-        "description": "<p>The <em>goat of travail</em> becomes a <strong>giant goat</strong> for up to 3 hours. Once it has been used, it can’t be used again until 30 days have passed.</p>",
+        "description": "<p><em>козел родов</em> становится <strong>гигантским козлом</strong> на срок до 3 часов. После использования его нельзя использовать повторно до истечения 30 дней.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -134,7 +134,7 @@
               "count": "",
               "name": "",
               "_id": "WDtPqMQa3XF6kNFB",
-              "uuid": "Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE",
               "level": {
                 "min": null,
                 "max": null
@@ -202,7 +202,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Summon Goat of Travail",
+        "name": "Призвать Козла Трудов",
         "img": "",
         "_id": "WuBZO8POgPFSNCoU",
         "visibility": {
@@ -216,7 +216,7 @@
       },
       "i0lWNBfJiAmaYzMx": {
         "type": "summon",
-        "description": "<p>The <em>goat of terror</em> becomes a <strong>giant goat</strong> for up to 3 hours. The goat can’t attack, but you can remove its horns and use them as weapons. One horn becomes a +1 lance, and the other becomes a +2 longsword. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. Once the figurine has been used, it can’t be used again until 15 days have passed.</p>",
+        "description": "<p><em>козёл ужаса</em> становится <strong>гигантским козлом</strong> на срок до 3 часов. Козел не может атаковать, но вы можете с ним рога и использовать его как оружие. Один рог становится копьем +1, а другой — длинным мечом +2.Удаление рога требует действия: оружие исчезает, рога возвращаются, когда козел принимает форму фигурки.После того, как фигурка была использована, ее нельзя снова использовать, пока не пройдет 15 дней.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -231,7 +231,7 @@
               "count": "",
               "name": "",
               "_id": "LfpQwjVBJl3BSPfO",
-              "uuid": "Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE",
               "level": {
                 "min": null,
                 "max": null
@@ -299,7 +299,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Summon Goat of Terror",
+        "name": "Призвать Козла Ужаса",
         "img": "",
         "_id": "i0lWNBfJiAmaYzMx",
         "visibility": {
@@ -314,7 +314,7 @@
       "bgVe8m3QBrWVyZwf": {
         "type": "save",
         "_id": "bgVe8m3QBrWVyZwf",
-        "description": "<p>The goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a [[/save 15 WIS]] or be &Reference[frightened] of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat’s aura for the next 24 hours.</p>",
+        "description": "<p>Коза излучает ауру ужаса в радиусе 30 футов, пока вы едете на нее. Любое Существо, враждебное вам, которое начинает свой ход в ауре, должно преуспеть в [[/save 15 WIS]] или быть &Reference[напуганным] козлом в течение 1 минуты, или пока козел не вернется в форму фигурки. Испуганное Существо может сделать спасбросок в конце каждого своего хода, прежде чем принести в себя эффект в случае успеха.",
         "sort": 0,
         "system": {
           "damage": {
@@ -374,7 +374,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Aura of Terror",
+        "name": "Аура ужаса",
         "img": ""
       }
     },
@@ -410,7 +410,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984695531,
     "modifiedTime": 1756333845869,

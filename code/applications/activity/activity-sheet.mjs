@@ -27,27 +27,27 @@ export default class ActivitySheet extends PseudoDocumentSheet {
 			template: "templates/generic/tab-navigation.hbs"
 		},
 		identity: {
-			template: "systems/black-flag/templates/activity/activity-identity.hbs",
+			template: "systems/black-flag-ru/templates/activity/activity-identity.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-identity.hbs",
-				"systems/black-flag/templates/activity/parts/activity-visibility.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-identity.hbs",
+				"systems/black-flag-ru/templates/activity/parts/activity-visibility.hbs"
 			]
 		},
 		activation: {
-			template: "systems/black-flag/templates/activity/activity-activation.hbs",
+			template: "systems/black-flag-ru/templates/activity/activity-activation.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-time.hbs",
-				"systems/black-flag/templates/activity/parts/activity-targeting.hbs",
-				"systems/black-flag/templates/activity/parts/activity-consumption.hbs",
-				"systems/black-flag/templates/activity/parts/activity-consumption-part.hbs",
-				"systems/black-flag/templates/shared/parts/activity-affects.hbs",
-				"systems/black-flag/templates/shared/parts/activity-range.hbs",
-				"systems/black-flag/templates/shared/parts/activity-template.hbs",
-				"systems/black-flag/templates/shared/uses-config.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-time.hbs",
+				"systems/black-flag-ru/templates/activity/parts/activity-targeting.hbs",
+				"systems/black-flag-ru/templates/activity/parts/activity-consumption.hbs",
+				"systems/black-flag-ru/templates/activity/parts/activity-consumption-part.hbs",
+				"systems/black-flag-ru/templates/shared/parts/activity-affects.hbs",
+				"systems/black-flag-ru/templates/shared/parts/activity-range.hbs",
+				"systems/black-flag-ru/templates/shared/parts/activity-template.hbs",
+				"systems/black-flag-ru/templates/shared/uses-config.hbs"
 			]
 		},
 		effect: {
-			template: "systems/black-flag/templates/activity/activity-effect.hbs"
+			template: "systems/black-flag-ru/templates/activity/activity-effect.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Black Tentacles",
+  "name": "Черные щупальца",
   "type": "spell",
   "_id": "IXPJyBevdLlFAPCd",
   "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -80,9 +80,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.</p><p>When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a [[/save]] save or take [[/damage]] damage and be &amp;Reference[restrained] by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes [[/damage]] damage.</p><p>A creature restrained by the tentacles can use its action to make a [[/check STR dc=@spellcasting.dc]] or [[/check DEX dc=@spellcasting.dc]] check (its choice) against your spell save DC. On a success, it frees itself.</p>",
+      "value": "<p>Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.</p><p>When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a [[/save]] save or take [[/damage]] damage and be &Reference[restrained] by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes [[/damage]] damage.</p><p>A creature restrained by the tentacles can use its action to make a [[/check STR dc=@spellcasting.dc]] or [[/check DEX dc=@spellcasting.dc]] check (its choice) against your spell save DC. On a success, it frees itself.</p>",
       "source": {},
-      "short": "Tentacles bludgeon, restrain."
+      "short": "Щупальца дубасят, сдерживают."
     },
     "source": [
       "wyrd"
@@ -106,7 +106,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a piece of tentacle from a giant octopus or a giant squid"
+        "description": "кусок щупальца гигантского осьминога или гигантского кальмара"
       }
     },
     "duration": {
@@ -145,7 +145,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720234081377,

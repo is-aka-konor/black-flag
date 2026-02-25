@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Tokens (for Augury)",
+  "name": "Жетоны (для Авгура)",
   "type": "sundry",
   "_id": "CxGic9ga3DWExDd0",
   "img": "icons/commodities/stone/engraved-symbol-water-grey.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703962302037,

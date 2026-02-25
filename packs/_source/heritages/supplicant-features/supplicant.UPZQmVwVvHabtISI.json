@@ -1,5 +1,5 @@
 {
-  "name": "Supplicant",
+  "name": "проситель",
   "type": "feature",
   "_id": "UPZQmVwVvHabtISI",
   "img": "icons/commodities/treasure/statue-runed-blue-grey.webp",
@@ -69,7 +69,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716230321482,

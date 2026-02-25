@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Meteor Swarm",
+  "name": "Метеоритный рой",
   "type": "spell",
   "_id": "kwXRpbiuHed3nIn9",
   "img": "icons/magic/fire/projectile-fireball-orange-yellow.webp",
@@ -99,7 +99,7 @@
     "description": {
       "value": "<p>Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a [[/save]] save. The sphere spreads around corners. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.</p><p>The spell damages objects in the area and ignites flammable objects that aren’t being worn or carried.</p>",
       "source": {},
-      "short": "Rain massive harm in huge area."
+      "short": "Дождь причинил огромный ущерб огромной территории."
     },
     "source": [
       "arcane",
@@ -160,7 +160,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919893897,
     "modifiedTime": 1722986558087,

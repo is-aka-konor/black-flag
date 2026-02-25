@@ -18,10 +18,10 @@ export default class SpellcastingValueConfig extends ScaleValueConfig {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/scale-value-config-details.hbs"
+			template: "systems/black-flag-ru/templates/advancement/scale-value-config-details.hbs"
 		},
 		scale: {
-			template: "systems/black-flag/templates/advancement/spellcasting-value-config-scale.hbs"
+			template: "systems/black-flag-ru/templates/advancement/spellcasting-value-config-scale.hbs"
 		}
 	};
 

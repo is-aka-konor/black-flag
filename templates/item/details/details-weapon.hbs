@@ -32,7 +32,7 @@
 	{{#if (or (eq source.type.category "natural") (eq source.type.value "ranged") properties.thrown.selected)}}
 		{{#blackFlag-formGroup "BF.RANGE.Label" interiorClasses="range-fields"}}
 			{{ formField fields.range.fields.short value=source.range.short classes="label-top" rootId=partId }}
-			<blackFlag-icon src="systems/black-flag/artwork/interface/range-connector.svg" class="separator"></blackFlag-icon>
+			<blackFlag-icon src="systems/black-flag-ru/artwork/interface/range-connector.svg" class="separator"></blackFlag-icon>
 			{{ formField fields.range.fields.long value=source.range.long classes="label-top" rootId=partId }}
 			{{#unless properties.reach.selected}}
 				{{ formField fields.range.fields.unit value=source.range.unit options=CONFIG.distanceUnits.localizedOptions

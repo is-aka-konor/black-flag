@@ -1,5 +1,5 @@
 {
-  "name": "Open Hand Features",
+  "name": "Особенности открытой руки",
   "sorting": "a",
   "folder": "dic4aTioi73a88AS",
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#003e3b",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "11.315",
     "createdTime": null,

@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Fear",
+  "name": "Страх",
   "type": "spell",
   "_id": "moUAyN0JUuMvoY6U",
   "img": "icons/skills/wounds/injury-face-impact-orange.webp",
@@ -54,9 +54,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a [[/save wisdom]] save or drop whatever it is holding and become &amp;Reference[frightened] of you for the duration.</p><p>While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a WIS save, ending the effect on itself on a success.</p>",
+      "value": "<p>You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a [[/save wisdom]] save or drop whatever it is holding and become &Reference[frightened] of you for the duration.</p><p>While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a WIS save, ending the effect on itself on a success.</p>",
       "source": {},
-      "short": "Frighten a group."
+      "short": "Напугайте группу."
     },
     "type": {
       "value": "standard"
@@ -78,7 +78,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a white feather or the heart of a hen",
+        "description": "белое перо или сердце курицы",
         "consumed": false,
         "denomination": "gp"
       }
@@ -116,7 +116,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.moUAyN0JUuMvoY6U",
+      "origin": "Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -127,13 +127,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fear",
+      "name": "Страх",
       "img": "icons/skills/wounds/injury-face-impact-orange.webp",
       "_id": "OyyECU1lMQ11hG66",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>While frightened by this spell, you must take the Dash action and move away from the caster by the safest available route on each of your turns, unless there is nowhere to move. If you end your turn in a location where you don’t have line of sight to the caster, you can make a WIS save, ending the effect on yourself on a success.</p>",
+      "description": "<p>Напугавшись этого заклинания, вы должны произвести действие Рывок и уйти от заклинателя самым безопасным доступным маршрутом в каждый свой ход, если двигаться только некуда. Если вы закончите свой ход в месте, где у вас нет прямого пути с заклинателем, вы можете сделать спасбросок WIS, сняв эффект на себя в случае успеха.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [
@@ -145,7 +145,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721442838724,
         "modifiedTime": 1721442897747,
@@ -161,7 +161,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933403897,

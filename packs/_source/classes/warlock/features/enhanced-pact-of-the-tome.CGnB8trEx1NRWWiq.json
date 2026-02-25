@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Enhanced Pact of the Tome",
+  "name": "Усиленный договор тома",
   "type": "feature",
   "_id": "CGnB8trEx1NRWWiq",
   "img": "icons/sundries/books/book-symbol-square-blue-green.webp",
@@ -55,7 +55,7 @@
       "filters": [],
       "requireAll": true,
       "items": [
-        "Compendium.black-flag.classes.Item.Nrx1unFEjSVdNOqI"
+        "Compendium.black-flag-ru.classes.Item.Nrx1unFEjSVdNOqI"
       ]
     },
     "type": {
@@ -80,7 +80,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376205909,

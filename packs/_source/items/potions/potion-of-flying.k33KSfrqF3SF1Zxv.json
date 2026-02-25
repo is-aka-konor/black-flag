@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Flying",
+  "name": "Зелье полета",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "X4hPPqQ0km7vuxlJ"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
   "effects": [
     {
-      "name": "Flying",
+      "name": "Летающий",
       "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
-      "origin": "Compendium.black-flag.items.Item.k33KSfrqF3SF1Zxv",
+      "origin": "Compendium.black-flag-ru.items.Item.k33KSfrqF3SF1Zxv",
       "transfer": false,
       "_id": "UlNzAIQGhUkqc28K",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540587678,
         "modifiedTime": 1729540604178,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073412163,
     "modifiedTime": 1729540587707,

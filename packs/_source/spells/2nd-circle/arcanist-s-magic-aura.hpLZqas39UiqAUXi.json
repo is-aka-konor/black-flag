@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Arcanist’s Magic Aura",
+  "name": "Магическая аура арканиста",
   "type": "spell",
   "_id": "hpLZqas39UiqAUXi",
   "img": "icons/magic/light/explosion-impact-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.</p><p>When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.</p><p><strong>False Aura.</strong> You change the way the target appears to spells and magical effects, such as detect magic, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.</p><p><strong>Mask.</strong> You change the way the target appears to spells and magical effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a symbol spell. You choose a creature type, and other spells and magical effects treat the target as if it were a creature of that type.</p>",
       "source": {},
-      "short": "Ally deceives divinations."
+      "short": "Элли обманывает гадания."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": 10,
-        "description": "a small square of silk and burning incense worth at least 10 gp, which the spell consumes",
+        "description": "небольшой квадрат шелка и горящие благовония стоимостью не менее 10 зм, которые расходуются на заклинание",
         "consumed": true,
         "denomination": "gp"
       }
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706996684748,

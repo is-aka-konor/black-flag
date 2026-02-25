@@ -34,7 +34,7 @@
       "value": null
     }
   },
-  "name": "Lightweight",
+  "name": "Легкий",
   "type": "feature",
   "img": "icons/commodities/wood/bark-brown.webp",
   "effects": [],
@@ -51,7 +51,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733435549101,
     "modifiedTime": 1733438478138,

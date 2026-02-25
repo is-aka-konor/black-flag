@@ -1,6 +1,6 @@
 {
   "folder": "EqtckeMqGwwlhEYP",
-  "name": "Beast Affinity",
+  "name": "Близость к зверю",
   "type": "feature",
   "_id": "60G46JAl2vtIp8PU",
   "img": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1701131029786,

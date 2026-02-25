@@ -17,7 +17,7 @@ export default class SaveActivity extends Activity {
 			{
 				type: "save",
 				dataModel: SaveData,
-				icon: "systems/black-flag/artwork/activities/save.svg",
+				icon: "systems/black-flag-ru/artwork/activities/save.svg",
 				title: "BF.SAVE.Title",
 				hint: "BF.SAVE.Hint",
 				usage: {

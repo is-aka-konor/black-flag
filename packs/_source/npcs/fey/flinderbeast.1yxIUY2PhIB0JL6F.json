@@ -1,9 +1,9 @@
 {
   "folder": "FFlPMIZKxcUrNSW5",
-  "name": "Flinderbeast",
+  "name": "Флиндербист",
   "type": "npc",
   "_id": "1yxIUY2PhIB0JL6F",
-  "img": "systems/black-flag/artwork/tokens/flinderbeast.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/flinderbeast.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,7 +153,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Flinderbeast",
+    "name": "Флиндербист",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -161,7 +161,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/flinderbeast.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/flinderbeast.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -248,7 +248,7 @@
   },
   "items": [
     {
-      "name": "Fey Resilience",
+      "name": "Фейская устойчивость",
       "type": "feature",
       "_id": "ABz4p5XnSucVAdAF",
       "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -291,7 +291,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -302,7 +302,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Resilience",
+          "name": "Фейская устойчивость",
           "_id": "xsKr4hZ7kVgeQaXM",
           "changes": [
             {
@@ -327,7 +327,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -353,7 +353,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ktWTCgJSzoZompKX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -367,7 +367,7 @@
       "_key": "!actors.items!1yxIUY2PhIB0JL6F.ABz4p5XnSucVAdAF"
     },
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "2dhXNShrKtEO3pxK",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -419,7 +419,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -547,7 +547,7 @@
         },
         "rarity": ""
       },
-      "name": "Acid Spit",
+      "name": "Кислотный плевок",
       "type": "weapon",
       "_id": "1CqWRwSAgq2A5iBE",
       "img": "icons/magic/acid/projectile-faceted-glob.webp",
@@ -567,7 +567,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755761469,
@@ -668,7 +668,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -714,7 +714,7 @@
           "value": null
         }
       },
-      "name": "Breath of Flinders",
+      "name": "Дыхание Флиндерса",
       "type": "feature",
       "_id": "zDnHDYG97suCmxia",
       "img": "icons/magic/fire/projectile-feathers-embers-gold.webp",
@@ -734,7 +734,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -804,7 +804,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -844,7 +844,7 @@
           "value": null
         }
       },
-      "name": "Short Step",
+      "name": "Короткий шаг",
       "type": "feature",
       "_id": "tV9FkpLGUcpccqVB",
       "img": "icons/skills/movement/arrow-upward-blue.webp",
@@ -864,7 +864,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -941,7 +941,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/heal.svg",
+            "img": "systems/black-flag-ru/artwork/activities/heal.svg",
             "sort": 0,
             "magical": false
           },
@@ -1047,7 +1047,7 @@
           "value": null
         }
       },
-      "name": "Catch Snack",
+      "name": "Поймать закуску",
       "type": "feature",
       "_id": "SUTUiyKcOCfZ06AV",
       "img": "icons/weapons/ammunition/arrows-fletching.webp",
@@ -1067,7 +1067,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1077,7 +1077,7 @@
       "_key": "!actors.items!1yxIUY2PhIB0JL6F.SUTUiyKcOCfZ06AV"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "MStrxiAAkmAro6Mr",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1142,7 +1142,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1252,7 +1252,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926813,
         "modifiedTime": 1756755748489,
@@ -1270,7 +1270,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

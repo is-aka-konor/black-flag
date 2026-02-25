@@ -46,13 +46,13 @@ export default class ActivityActivationDialog extends BFFormDialog {
 	/** @override */
 	static PARTS = {
 		scaling: {
-			template: "systems/black-flag/templates/activity/activity-activation-scaling.hbs"
+			template: "systems/black-flag-ru/templates/activity/activity-activation-scaling.hbs"
 		},
 		consumption: {
-			template: "systems/black-flag/templates/activity/activity-activation-consumption.hbs"
+			template: "systems/black-flag-ru/templates/activity/activity-activation-consumption.hbs"
 		},
 		creation: {
-			template: "systems/black-flag/templates/activity/activity-activation-creation.hbs"
+			template: "systems/black-flag-ru/templates/activity/activity-activation-creation.hbs"
 		},
 		footer: {
 			template: "templates/generic/form-footer.hbs"

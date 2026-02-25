@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Agonizing Blast",
+  "name": "Мучительный взрыв",
   "type": "feature",
   "_id": "pG3Ej4ZjCNhkfZ52",
   "img": "icons/magic/lightning/bolt-strike-creature-pink.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376491829,

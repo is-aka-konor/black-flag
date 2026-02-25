@@ -22,11 +22,11 @@ export default class ToolConfig extends BaseSelectorConfigSheet {
 	static PARTS = {
 		...super.PARTS,
 		config: {
-			template: "systems/black-flag/templates/actor/config/tool-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/tool-config.hbs"
 		},
 		modifiers: {
 			classes: ["contents"],
-			template: "systems/black-flag/templates/actor/config/modifier-section.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/modifier-section.hbs"
 		}
 	};
 

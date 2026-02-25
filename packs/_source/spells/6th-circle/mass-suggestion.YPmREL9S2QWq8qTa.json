@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Mass Suggestion",
+  "name": "Массовое предложение",
   "type": "spell",
   "_id": "YPmREL9S2QWq8qTa",
   "img": "icons/magic/control/debuff-chains-ropes-net-white.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.</p><p>Each target must make a [[/save]] save. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.</p><p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition isn’t met before the spell ends, the activity isn’t performed.</p><p>If you or any of your companions damage a creature affected by this spell, the spell ends for that creature.</p><p><em>At Higher Circles.</em> When you cast this spell using a 7th‑circle spell slot, the duration is 10 days. When you use an 8th-circle spell slot, the duration is 30 days. When you use a 9th-circle spell slot, the duration is a year and a day.</p>",
       "source": {},
-      "short": "Group obeys your order."
+      "short": "Группа подчиняется вашему приказу."
     },
     "source": [
       "arcane",
@@ -97,7 +97,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a snake’s tongue and either a bit of honeycomb or a drop of sweet oil"
+        "description": "змеиный язык и немного сот или капля сладкого масла"
       }
     },
     "duration": {
@@ -128,9 +128,9 @@
   },
   "effects": [
     {
-      "name": "Mass Suggestion",
+      "name": "Массовое предложение",
       "img": "icons/magic/control/debuff-chains-ropes-net-white.webp",
-      "origin": "Compendium.black-flag.spells.Item.YPmREL9S2QWq8qTa",
+      "origin": "Compendium.black-flag-ru.spells.Item.YPmREL9S2QWq8qTa",
       "transfer": false,
       "_id": "hKvN4qICuY0TLXMQ",
       "type": "base",
@@ -155,7 +155,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723780267541,
         "modifiedTime": 1723780267541,
@@ -173,7 +173,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919766396,
     "modifiedTime": 1723780267573,

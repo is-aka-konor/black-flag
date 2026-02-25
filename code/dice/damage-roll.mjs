@@ -65,7 +65,7 @@ export default class DamageRoll extends BasicRoll {
 	/* ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ */
 
 	/** @inheritDoc */
-	static CHAT_TEMPLATE = "systems/black-flag/templates/dice/damage-roll.hbs";
+	static CHAT_TEMPLATE = "systems/black-flag-ru/templates/dice/damage-roll.hbs";
 
 	/* <><><><> <><><><> <><><><> <><><><> */
 	/*         Static Construction         */

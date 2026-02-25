@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Gaze of Two Minds",
+  "name": "Взгляд двух умов",
   "type": "feature",
   "_id": "bAt1gp6cPRStbKSd",
   "img": "icons/magic/perception/orb-eye-scrying.webp",
@@ -93,7 +93,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376550908,

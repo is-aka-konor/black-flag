@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Belt of Fire Giant Strength",
+  "name": "Пояс силы огненного гиганта",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/waist/belt-leather-gem-red-teal.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.M7nvMwH62c1GFUHG",
+      "origin": "Compendium.black-flag-ru.items.Item.M7nvMwH62c1GFUHG",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fire Giant Strength",
+      "name": "Сила огненного гиганта",
       "img": "icons/equipment/waist/belt-leather-gem-red-teal.webp",
       "_id": "S25u6VmiZabtyvG4",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wearing this belt, your STR score changes to 25. If your STR is already equal to or greater than the belt’s score, the item has no effect on you.</p>",
+      "description": "<p>При ношении этого пояса ваша Сила изменяется на 25. Если ваша Сила уже меняет или поворачивает показатель пояса, предмет не оказывает на вас никакого воздействия.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901337694,
         "modifiedTime": 1756335011041,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983148818,
     "modifiedTime": 1728426556234,

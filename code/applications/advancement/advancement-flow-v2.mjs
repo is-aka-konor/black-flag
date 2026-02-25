@@ -57,21 +57,21 @@ export default class AdvancementFlow extends BFApplication {
 		name: {
 			classes: ["advancement-name"],
 			container: { id: "advancement-header", tag: "header" },
-			template: "systems/black-flag/templates/advancement/advancement-flow-name.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-flow-name.hbs"
 		},
 		actions: {
 			classes: ["advancement-actions"],
 			container: { id: "advancement-header", tag: "header" },
-			template: "systems/black-flag/templates/advancement/advancement-flow-actions.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-flow-actions.hbs"
 		},
 		controls: {
 			classes: ["advancement-controls"],
 			container: { id: "advancement-header", tag: "header" },
-			template: "systems/black-flag/templates/advancement/advancement-flow-controls.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-flow-controls.hbs"
 		},
 		content: {
 			classes: ["advancement-summary"],
-			template: "systems/black-flag/templates/advancement/advancement-flow-content.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-flow-content.hbs"
 		}
 	};
 

@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Powdered Diamond (for Glyph of Warding)",
+  "name": "Алмазный порошок (для символа защиты)",
   "type": "sundry",
   "_id": "akGbJPRQJTEQwojD",
   "img": "icons/commodities/materials/bowl-powder-grey.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703962643404,

@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Animal Friendship",
+  "name": "Зелье дружбы животных",
   "system": {
     "type": {
       "category": "potion"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, animals tend to be friendly to you for 1 hour. For the duration, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.F1s8TRosgOUvR4iv]{animal friendship}</em> spell (save DC 13) at any time. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.</p>",
+      "value": "<p>When you drink this potion, animals tend to be friendly to you for 1 hour. For the duration, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{animal friendship}</em> spell (save DC 13) at any time. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.</p>",
       "source": {
         "fallback": ""
       }
@@ -83,14 +83,14 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       },
       "RNKNMGieLkijIZd9": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.F1s8TRosgOUvR4iv",
+            "uuid": "Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv",
             "challenge": {
               "attack": null,
               "save": null,
@@ -179,7 +179,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073361240,
     "modifiedTime": 1729540512934,

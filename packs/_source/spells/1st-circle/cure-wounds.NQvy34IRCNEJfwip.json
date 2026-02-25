@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Cure Wounds",
+  "name": "Лечение ран",
   "type": "spell",
   "_id": "NQvy34IRCNEJfwip",
   "img": "icons/magic/life/cross-flared-green.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>A creature you touch regains a number of hit points equal to [[/healing]]{1d8 + your spellcasting ability modifier}.</p><p>This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the healing increases by [[/healing 1d8]]{1d8} for each slot above 1st.</p>",
       "source": {},
-      "short": "Average heal to ally."
+      "short": "Среднее исцеление союзника."
     },
     "type": {
       "value": "standard"
@@ -115,7 +115,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932857027,

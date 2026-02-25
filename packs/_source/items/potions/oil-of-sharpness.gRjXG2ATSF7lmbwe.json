@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Oil of Sharpness",
+  "name": "Масло остроты",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Apply Oil",
+        "name": "Нанесите масло",
         "img": ""
       }
     },
@@ -109,7 +109,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Sharpness",
+      "name": "Резкость",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -154,7 +154,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729533871831,
         "modifiedTime": 1729533910489,
@@ -173,7 +173,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729533738183,
     "modifiedTime": 1729533965023,

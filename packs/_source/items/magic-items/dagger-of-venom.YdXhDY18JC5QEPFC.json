@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Dagger of Venom",
+  "name": "Кинжал Яда",
   "type": "weapon",
   "img": "icons/weapons/daggers/dagger-double-skull-pink.webp",
   "system": {
@@ -145,7 +145,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Poison",
+        "name": "Яд",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -222,9 +222,9 @@
   },
   "effects": [
     {
-      "name": "Dagger of Venom",
+      "name": "Кинжал Яда",
       "img": "icons/weapons/daggers/dagger-double-skull-pink.webp",
-      "origin": "Compendium.black-flag.items.Item.YdXhDY18JC5QEPFC",
+      "origin": "Compendium.black-flag-ru.items.Item.YdXhDY18JC5QEPFC",
       "transfer": false,
       "_id": "Him7rMnWcxyKNUMV",
       "type": "base",
@@ -240,7 +240,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You are poisoned for 1 minute.</p>",
+      "description": "<p>Вызывающие отравления на 1 минуту.</p>",
       "tint": "#ffffff",
       "statuses": [
         "poisoned"
@@ -251,7 +251,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.046",
         "createdTime": 1726800548541,
         "modifiedTime": 1726800566983,
@@ -269,7 +269,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589007806,
     "modifiedTime": 1756335266162,

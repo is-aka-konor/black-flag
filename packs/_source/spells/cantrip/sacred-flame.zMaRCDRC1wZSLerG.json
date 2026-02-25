@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Sacred Flame",
+  "name": "Священное пламя",
   "type": "spell",
   "_id": "zMaRCDRC1wZSLerG",
   "img": "icons/magic/light/projectile-smoke-yellow.webp",
@@ -68,7 +68,7 @@
     "description": {
       "value": "<p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a [[/save]] save or take [[/damage]] damage. The target gains no benefit from cover for this save.</p><p>The spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 radiant]]{2d8}), 11th level ([[/damage 3d8 radiant]]{3d8}), and 17th level ([[/damage 4d8 radiant]]{4d8}).</p>",
       "source": {},
-      "short": "Foe has no cover from radiant."
+      "short": "Враг не имеет укрытия от радианта."
     },
     "type": {
       "value": "standard"
@@ -127,7 +127,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935262062,

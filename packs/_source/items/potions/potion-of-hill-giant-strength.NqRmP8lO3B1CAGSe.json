@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Hill Giant Strength",
+  "name": "Зелье силы холмовых гигантов",
   "system": {
     "type": {
       "category": "potion"
@@ -89,7 +89,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       }
     },
@@ -115,9 +115,9 @@
   "img": "icons/consumables/potions/bottle-conical-corked-green.webp",
   "effects": [
     {
-      "name": "Hill Giant Strength",
+      "name": "Сила холмового гиганта",
       "img": "icons/consumables/potions/bottle-conical-corked-green.webp",
-      "origin": "Compendium.black-flag.items.Item.NqRmP8lO3B1CAGSe",
+      "origin": "Compendium.black-flag-ru.items.Item.NqRmP8lO3B1CAGSe",
       "transfer": false,
       "_id": "8N8te4fEIV63YefF",
       "type": "base",
@@ -140,7 +140,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>When you drink this potion, your STR score changes to 21 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p>",
+      "description": "<p>Когда вы выпьете это зелье, ваш показатель СИЛ меняется на 21 на 1 час. Зелье не дает никакого результата, если ваш показатель СИЛ равен этому показателю или указывает на него.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -149,7 +149,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540118163,
         "modifiedTime": 1729540230010,
@@ -168,7 +168,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073478576,
     "modifiedTime": 1729541236806,

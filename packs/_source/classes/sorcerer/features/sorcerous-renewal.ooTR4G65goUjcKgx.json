@@ -1,6 +1,6 @@
 {
   "folder": "7uCzGtcOYYcRFLda",
-  "name": "Sorcerous Renewal",
+  "name": "Колдовское обновление",
   "type": "feature",
   "_id": "ooTR4G65goUjcKgx",
   "img": "icons/magic/control/debuff-chains-purple.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.U7TtFFdzkbVMNQ2D",
+              "target": "Compendium.black-flag-ru.classes.Item.U7TtFFdzkbVMNQ2D",
               "value": "-@scale.sorcerer.renewal - 1"
             }
           ],
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Recover Sorcery Points",
+        "name": "Восстановите очки волшебства",
         "img": ""
       }
     },
@@ -127,7 +127,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718682081037,

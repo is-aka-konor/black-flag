@@ -19,11 +19,11 @@ export default class ProficiencyConfig extends BaseConfigSheet {
 	static PARTS = {
 		armor: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/actor/config/proficiency-config-armor.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/proficiency-config-armor.hbs"
 		},
 		weapons: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/actor/config/proficiency-config-weapons.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/proficiency-config-weapons.hbs"
 		}
 	};
 

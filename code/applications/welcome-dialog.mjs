@@ -1,7 +1,7 @@
 import BFApplication from "./api/application.mjs";
 
 const REMOTE_PATH = "https://koboldpress.github.io/black-flag-docs/assets/json/official-modules.json";
-const LOCAL_PATH = "systems/black-flag/json/official-modules.json";
+const LOCAL_PATH = "systems/black-flag-ru/json/official-modules.json";
 
 /**
  * Application that displays important links and official module information on first starting a new world.
@@ -28,10 +28,10 @@ export default class WelcomeDialog extends BFApplication {
 			template: "templates/generic/tab-navigation.hbs"
 		},
 		main: {
-			template: "systems/black-flag/templates/welcome-main.hbs"
+			template: "systems/black-flag-ru/templates/welcome-main.hbs"
 		},
 		modules: {
-			template: "systems/black-flag/templates/welcome-modules.hbs"
+			template: "systems/black-flag-ru/templates/welcome-modules.hbs"
 		}
 	};
 

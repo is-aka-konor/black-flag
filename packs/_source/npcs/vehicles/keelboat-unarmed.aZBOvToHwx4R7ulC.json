@@ -1,8 +1,8 @@
 {
   "folder": "SjIIitpQ2SwKbgfg",
-  "name": "Keelboat (unarmed)",
+  "name": "Килевая лодка (без оружия)",
   "type": "vehicle",
-  "img": "systems/black-flag/artwork/types/vehicle.svg",
+  "img": "systems/black-flag-ru/artwork/types/vehicle.svg",
   "system": {
     "modifiers": [],
     "traits": {
@@ -119,7 +119,7 @@
     "initiative": 7
   },
   "prototypeToken": {
-    "name": "Keelboat",
+    "name": "Килевая лодка",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -127,7 +127,7 @@
     "width": 12,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/types/vehicle.svg",
+      "src": "systems/black-flag-ru/artwork/types/vehicle.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -214,7 +214,7 @@
   },
   "items": [
     {
-      "name": "Vehicle Resilience",
+      "name": "Устойчивость автомобиля",
       "type": "feature",
       "system": {
         "identifier": {
@@ -253,7 +253,7 @@
       "img": "icons/environment/settlement/wagon.webp",
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -264,7 +264,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Vehicle Resilience",
+          "name": "Устойчивость автомобиля",
           "_id": "0B6GT0HRHM04q0fP",
           "changes": [
             {
@@ -361,7 +361,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "1.1.055",
             "createdTime": null,
             "modifiedTime": null,
@@ -388,9 +388,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.4mrsMh1wkqybueGe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.4mrsMh1wkqybueGe",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": null,
@@ -436,7 +436,7 @@
           "value": null
         }
       },
-      "name": "Sails",
+      "name": "Паруса",
       "type": "feature",
       "img": "icons/commodities/cloth/cloth-scraps-plain.webp",
       "effects": [],
@@ -452,10 +452,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.WQLqmKKPyDT9mOaD",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.WQLqmKKPyDT9mOaD",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": null,
@@ -551,7 +551,7 @@
           "value": null
         }
       },
-      "name": "Row",
+      "name": "Ряд",
       "type": "feature",
       "img": "icons/magic/water/wave-water-teal.webp",
       "effects": [],
@@ -567,10 +567,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.aex3DaR0KYtAmxMN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.aex3DaR0KYtAmxMN",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": null,
         "modifiedTime": null,
@@ -590,7 +590,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733435961109,
     "modifiedTime": 1733444513141,

@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Erinyes",
+  "name": "Эринии",
   "type": "npc",
   "_id": "Za8SWZT6BRyG18Kx",
-  "img": "systems/black-flag/artwork/tokens/devil-erineys.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/devil-erineys.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -164,7 +164,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Erinyes",
+    "name": "Эринии",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -172,7 +172,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/devil-erineys.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/devil-erineys.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -266,7 +266,7 @@
   "items": [
     {
       "folder": "FUnjG0V10gg8lqPG",
-      "name": "Plate",
+      "name": "Тарелка",
       "type": "armor",
       "_id": "5spLEeRTeSdbyNRS",
       "img": "icons/equipment/chest/breastplate-sculpted-green.webp",
@@ -334,9 +334,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.AG4f7orze4Gsj9UO",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.AG4f7orze4Gsj9UO",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -352,7 +352,7 @@
           "lcJyn98a7hvQKElW": {
             "type": "heal",
             "_id": "lcJyn98a7hvQKElW",
-            "description": "<p>The next time erinyes uses the Parry reaction, it takes only half the damage if the attack hits and regains [[/healing average]] if the attack doesn’t hit.</p>",
+            "description": "<p>В следующий раз, когда Эриния использует ответное парирование, она получает только половину урона, если атака открывается с внешней стороны, и взрывается [[/healing average]], если атака не с внешней стороны.</p>",
             "system": {
               "healing": {
                 "type": "healing",
@@ -413,15 +413,15 @@
               "min": "",
               "max": ""
             },
-            "name": "Defensive",
-            "img": "systems/black-flag/artwork/activities/heal.svg",
+            "name": "Оборонительный",
+            "img": "systems/black-flag-ru/artwork/activities/heal.svg",
             "sort": 0,
             "magical": false
           },
           "FqFFAKLj4UqTIA3i": {
             "type": "utility",
             "_id": "FqFFAKLj4UqTIA3i",
-            "description": "<p>The erinyes has advantage on the first attack it makes on its turn, but the next attack roll against the erinyes has advantage.</p>",
+            "description": "<p>Эринии, у которых есть преимущество при первой атаке, они сделали свой ход, но следующий бросок, атакующий по эриниям, имеет преимущество.</p>",
             "sort": -100000,
             "system": {
               "effects": [],
@@ -475,13 +475,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Aggressive",
+            "name": "Агрессивный",
             "img": ""
           },
           "ILMQ60mwKwRjTFAT": {
             "type": "utility",
             "_id": "ILMQ60mwKwRjTFAT",
-            "description": "<p>The next time the erinyes is hit by a melee weapon attack from a creature within 5 feet of it, the erinyes can make one Longsword attack against the attacker (no action required).</p>",
+            "description": "<p>В следующий раз, когда эринии будут поражены рукопашной атакой со стороны, находящейся в пределах 5 футов от нее, эринии могут использовать одну атакующую длинную мечом для атакующего (действия не требуется).</p>",
             "sort": -50000,
             "system": {
               "effects": [],
@@ -535,7 +535,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Retributive",
+            "name": "карательный",
             "img": ""
           }
         },
@@ -574,7 +574,7 @@
           "value": null
         }
       },
-      "name": "Disciplined Fighter",
+      "name": "Дисциплинированный боец",
       "type": "feature",
       "_id": "3bpZVs39XfrJZFwc",
       "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
@@ -594,7 +594,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -642,7 +642,7 @@
           "value": null
         }
       },
-      "name": "Poisonous Weapons",
+      "name": "Ядовитое оружие",
       "type": "feature",
       "_id": "aZ5fdP7SkB6qmsax",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -662,7 +662,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -672,7 +672,7 @@
       "_key": "!actors.items!Za8SWZT6BRyG18Kx.aZ5fdP7SkB6qmsax"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "A2gS7VHWvX061OSM",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -726,7 +726,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -740,7 +740,7 @@
       "_key": "!actors.items!Za8SWZT6BRyG18Kx.A2gS7VHWvX061OSM"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "LxaIxbhXelTlAMPK",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -844,7 +844,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -859,7 +859,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Longsword",
+      "name": "Длинный меч",
       "type": "weapon",
       "_id": "9b1HGAfEuRVCM6bl",
       "img": "icons/weapons/swords/sword-guard-engraved.webp",
@@ -945,7 +945,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -1030,9 +1030,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.ym1owWiMSNOcZNdO",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.ym1owWiMSNOcZNdO",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756756110087,
@@ -1043,7 +1043,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Longbow",
+      "name": "Длинный лук",
       "type": "weapon",
       "_id": "4KuoOX6wnRH5QtsA",
       "img": "icons/weapons/bows/longbow-recurve-leather-red.webp",
@@ -1132,7 +1132,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -1225,7 +1225,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 16 format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1289,9 +1289,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756756136975,
@@ -1301,7 +1301,7 @@
       "_key": "!actors.items!Za8SWZT6BRyG18Kx.4KuoOX6wnRH5QtsA"
     },
     {
-      "name": "Parry",
+      "name": "Парировать",
       "type": "feature",
       "_id": "pZx7XyzbwbYtn7AG",
       "img": "icons/skills/melee/swords-parry-block-blue.webp",
@@ -1338,7 +1338,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1411,7 +1411,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Parry",
+          "name": "Парировать",
           "img": "icons/skills/melee/swords-parry-block-blue.webp",
           "_id": "8tfmYodJYAynQffK",
           "type": "base",
@@ -1434,7 +1434,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1456,7 +1456,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.kJjgWkohKGXUr4Fk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756756148474,
@@ -1508,7 +1508,7 @@
           "value": null
         }
       },
-      "name": "Devilish Resilience",
+      "name": "Дьявольская стойкость",
       "type": "feature",
       "_id": "BydPkJitia3lR8LJ",
       "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
@@ -1525,7 +1525,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Devilish Resilience",
+          "name": "Дьявольская стойкость",
           "img": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp",
           "_id": "uJ6N3XWMfDKvX9cK",
           "type": "base",
@@ -1590,7 +1590,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1611,7 +1611,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.x1nZb854NRe24wtG",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1630,7 +1630,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -19,19 +19,19 @@ export const armor = {
 		children: {
 			padded: {
 				label: "BF.Armor.Type.Padded",
-				link: "Compendium.black-flag.items.Item.28Zmdi4lQAr5L45X"
+				link: "Compendium.black-flag-ru.items.Item.28Zmdi4lQAr5L45X"
 			},
 			leather: {
 				label: "BF.Armor.Type.Leather",
-				link: "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY"
+				link: "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY"
 			},
 			studdedLeather: {
 				label: "BF.Armor.Type.StuddedLeather",
-				link: "Compendium.black-flag.items.Item.wltnYOTuHz96wXq5"
+				link: "Compendium.black-flag-ru.items.Item.wltnYOTuHz96wXq5"
 			},
 			brigandine: {
 				label: "BF.Armor.Type.Brigandine",
-				link: "Compendium.black-flag.items.Item.Ignbkx9bqPp8hq90"
+				link: "Compendium.black-flag-ru.items.Item.Ignbkx9bqPp8hq90"
 			}
 		}
 	},
@@ -40,23 +40,23 @@ export const armor = {
 		children: {
 			hide: {
 				label: "BF.Armor.Type.Hide",
-				link: "Compendium.black-flag.items.Item.fN3bw7IZzSxbkcYX"
+				link: "Compendium.black-flag-ru.items.Item.fN3bw7IZzSxbkcYX"
 			},
 			chainShirt: {
 				label: "BF.Armor.Type.ChainShirt",
-				link: "Compendium.black-flag.items.Item.FO53M9vYJXLrYPDs"
+				link: "Compendium.black-flag-ru.items.Item.FO53M9vYJXLrYPDs"
 			},
 			scaleMail: {
 				label: "BF.Armor.Type.ScaleMail",
-				link: "Compendium.black-flag.items.Item.lpKzUaG0LmkOqTb0"
+				link: "Compendium.black-flag-ru.items.Item.lpKzUaG0LmkOqTb0"
 			},
 			breastplate: {
 				label: "BF.Armor.Type.Breastplate",
-				link: "Compendium.black-flag.items.Item.YdpLwxf7AjDtaSke"
+				link: "Compendium.black-flag-ru.items.Item.YdpLwxf7AjDtaSke"
 			},
 			halfPlate: {
 				label: "BF.Armor.Type.HalfPlate",
-				link: "Compendium.black-flag.items.Item.Hu7dZSxIN5djyyti"
+				link: "Compendium.black-flag-ru.items.Item.Hu7dZSxIN5djyyti"
 			}
 		},
 		modifier: {
@@ -68,19 +68,19 @@ export const armor = {
 		children: {
 			ringMail: {
 				label: "BF.Armor.Type.RingMail",
-				link: "Compendium.black-flag.items.Item.eu0rwXeQY3hIz8dq"
+				link: "Compendium.black-flag-ru.items.Item.eu0rwXeQY3hIz8dq"
 			},
 			chainMail: {
 				label: "BF.Armor.Type.ChainMail",
-				link: "Compendium.black-flag.items.Item.FrdsogSzdIlz9Lmo"
+				link: "Compendium.black-flag-ru.items.Item.FrdsogSzdIlz9Lmo"
 			},
 			splint: {
 				label: "BF.Armor.Type.Splint",
-				link: "Compendium.black-flag.items.Item.yvfflYNjyeKZNbew"
+				link: "Compendium.black-flag-ru.items.Item.yvfflYNjyeKZNbew"
 			},
 			plate: {
 				label: "BF.Armor.Type.Plate",
-				link: "Compendium.black-flag.items.Item.AG4f7orze4Gsj9UO"
+				link: "Compendium.black-flag-ru.items.Item.AG4f7orze4Gsj9UO"
 			}
 		},
 		modifier: {
@@ -90,7 +90,7 @@ export const armor = {
 	},
 	shield: {
 		localization: "BF.Armor.Category.Shield",
-		link: "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp"
+		link: "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp"
 	}
 };
 localizeConfig(armor, { sort: false });

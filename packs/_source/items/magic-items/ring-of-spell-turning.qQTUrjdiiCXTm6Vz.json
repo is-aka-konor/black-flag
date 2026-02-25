@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Spell Turning",
+  "name": "Кольцо обращения заклинаний",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Spell Turning",
-      "origin": "Compendium.black-flag.items.Item.qQTUrjdiiCXTm6Vz",
+      "name": "Заклинание",
+      "origin": "Compendium.black-flag-ru.items.Item.qQTUrjdiiCXTm6Vz",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -79,7 +79,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729891430166,
         "modifiedTime": 1756333350311,
@@ -98,7 +98,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724987368251,
     "modifiedTime": 1729890010983,

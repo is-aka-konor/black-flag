@@ -24,7 +24,7 @@ export default class ActivityChoiceDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		activities: {
-			template: "systems/black-flag/templates/activity/activity-choices.hbs"
+			template: "systems/black-flag-ru/templates/activity/activity-choices.hbs"
 		}
 	};
 

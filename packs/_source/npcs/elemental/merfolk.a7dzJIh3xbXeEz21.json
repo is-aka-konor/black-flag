@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Merfolk",
+  "name": "Мерфолк",
   "type": "npc",
   "_id": "a7dzJIh3xbXeEz21",
-  "img": "systems/black-flag/artwork/tokens/merfolk.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/merfolk.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Merfolk",
+    "name": "Мерфолк",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/merfolk.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/merfolk.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "NY86dANbRkKxrtbX",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -304,7 +304,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -319,7 +319,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Coral Spear",
+      "name": "Коралловое копье",
       "type": "weapon",
       "_id": "rOtIIRrG4nadvcgI",
       "img": "icons/weapons/polearms/spear-simple-engraved.webp",
@@ -456,9 +456,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eG0Vk1Kr8peAAYhW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eG0Vk1Kr8peAAYhW",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755346532,
@@ -543,7 +543,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -606,7 +606,7 @@
         },
         "rarity": ""
       },
-      "name": "Sharpened Shell",
+      "name": "Заостренный панцирь",
       "type": "weapon",
       "_id": "2CrXVZhB3Tiu8aNh",
       "img": "icons/commodities/biological/shell-plain-white.webp",
@@ -626,7 +626,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756755365038,
@@ -693,7 +693,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -707,7 +707,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &amp;Reference[Dash] or &amp;Reference[Disengage] action.</p>",
+          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Dash] or &Reference[Disengage] action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -733,7 +733,7 @@
           "value": null
         }
       },
-      "name": "Nimble Rush",
+      "name": "Шустрый Раш",
       "type": "feature",
       "_id": "0C5EVF1C7TBODF3k",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -753,7 +753,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -832,7 +832,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -872,7 +872,7 @@
           "value": null
         }
       },
-      "name": "Coral Scrape",
+      "name": "Коралловая царапина",
       "type": "feature",
       "_id": "HU5shMqoc7QtAbfE",
       "img": "icons/commodities/biological/shell-ridged-green.webp",
@@ -892,7 +892,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -907,7 +907,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

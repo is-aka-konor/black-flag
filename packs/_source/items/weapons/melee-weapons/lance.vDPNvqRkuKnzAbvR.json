@@ -1,5 +1,5 @@
 {
-  "name": "Lance",
+  "name": "Лэнс",
   "type": "weapon",
   "_id": "vDPNvqRkuKnzAbvR",
   "img": "icons/weapons/polearms/pike-flared-brown.webp",
@@ -109,7 +109,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716237038984,

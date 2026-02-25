@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Earth",
+  "name": "Земля",
   "type": "feature",
   "_id": "jGPZ62M4TvLUKSL8",
   "img": "icons/magic/earth/construct-stone.webp",
@@ -39,7 +39,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.jGPZ62M4TvLUKSL8",
+      "origin": "Compendium.black-flag-ru.classes.Item.jGPZ62M4TvLUKSL8",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -50,7 +50,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Earth Infusion",
+      "name": "Настой Земли",
       "_id": "zaKGBBFVY1aXrekO",
       "changes": [
         {
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717791110108,

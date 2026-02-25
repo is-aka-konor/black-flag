@@ -1,6 +1,6 @@
 {
   "folder": "JMgE0yhuJqOfNxdP",
-  "name": "Lore",
+  "name": "Лор",
   "type": "subclass",
   "_id": "afGKvLF1N9qzmqDH",
   "img": "icons/sundries/books/book-tooled-blue-yellow.webp",
@@ -15,10 +15,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.JkXqE6KTGn7rYDOv"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JkXqE6KTGn7rYDOv"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.UpTTevZoYMXsmY3h"
+              "uuid": "Compendium.black-flag-ru.classes.Item.UpTTevZoYMXsmY3h"
             }
           ]
         },
@@ -33,7 +33,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.kw3Lf5U4xSWQIeO8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.kw3Lf5U4xSWQIeO8"
             }
           ]
         },
@@ -48,7 +48,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.pl8b5zXA4k5NwRBT"
+              "uuid": "Compendium.black-flag-ru.classes.Item.pl8b5zXA4k5NwRBT"
             }
           ]
         },
@@ -63,7 +63,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.gNKbj9zvxnPbcTVQ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.gNKbj9zvxnPbcTVQ"
             }
           ]
         },
@@ -88,8 +88,8 @@
     "description": {
       "value": "<p>Bards who align with the college of Lore value knowledge most highly. Many from this college are preoccupied with preserving ancient rituals, folklore, and stories—or recovering such things that were lost. These bards glean wisdom from all manner of cultures and sources, allowing them to utilize their magic and talents in novel ways.</p>",
       "source": {},
-      "short": "Bards who align with the college of Lore value knowledge most highly. Many from this college are preoccupied with preserving ancient rituals, folklore, and stories—or recovering such things that were lost. These bards glean wisdom from all manner of cultures and sources, allowing them to utilize their magic and talents in novel ways.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.hIGqiuN8CDAzqk46"
+      "short": "Барды, принадлежащие к Коллегии Знаний, больше всего ценят знания. Многие из этого колледжа озабочены сохранением древних ритуалов, фольклора и историй или восстановлением утерянных вещей. Эти барды черпают мудрость из самых разных культур и источников, что позволяет им использовать свою магию и таланты новыми способами.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.hIGqiuN8CDAzqk46"
     },
     "identifier": {
       "value": "lore",
@@ -103,7 +103,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717617943223,

@@ -1,6 +1,6 @@
 {
   "folder": "j0P01s47GHKDynf7",
-  "name": "Shifter",
+  "name": "Переключатель",
   "type": "subclass",
   "_id": "JeigJ6pOGPwmxZMb",
   "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
@@ -15,13 +15,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.VUOPgd7VgcTj549p"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VUOPgd7VgcTj549p"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.NY5eOW5iyQfmpeDn"
+              "uuid": "Compendium.black-flag-ru.classes.Item.NY5eOW5iyQfmpeDn"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.6naV0ejTaaTG2yST"
+              "uuid": "Compendium.black-flag-ru.classes.Item.6naV0ejTaaTG2yST"
             }
           ]
         },
@@ -36,7 +36,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.4a9Bt4ORnQgQ3ERA"
+              "uuid": "Compendium.black-flag-ru.classes.Item.4a9Bt4ORnQgQ3ERA"
             }
           ]
         },
@@ -51,7 +51,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.VwyvngLoqq2aOuPp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VwyvngLoqq2aOuPp"
             }
           ]
         },
@@ -66,7 +66,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.bqxy53VanRoT8EPv"
+              "uuid": "Compendium.black-flag-ru.classes.Item.bqxy53VanRoT8EPv"
             }
           ]
         },
@@ -76,8 +76,8 @@
     "description": {
       "value": "<p>Druids that align with the ring of the Shifter feel a deep connection to the animals that walk the world. Shifters delve into the mysteries of transformation, spending much of their time in the forms of the beasts they so admire. To you, there is no greater joy than feeling wind beneath your wings, stalking prey on padded paws, or swimming through crystalline depths.</p>",
       "source": {},
-      "short": "Druids that align with the ring of the Shifter feel a deep connection to the animals that walk the world. Shifters delve into the mysteries of transformation, spending much of their time in the forms of the beasts they so admire. To you, there is no greater joy than feeling wind beneath your wings, stalking prey on padded paws, or swimming through crystalline depths.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.85nQMk0OHyP1rks9"
+      "short": "Друиды, которые присоединяются к кольцу Оборотня, чувствуют глубокую связь с животными, которые ходят по миру. Оборотни погружаются в тайны трансформации, проводя большую часть своего времени в образах зверей, которыми они так восхищаются. Для вас нет большей радости, чем чувствовать ветер под своими крыльями, преследовать добычу на мягких лапах или плавать в кристальных глубинах.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.85nQMk0OHyP1rks9"
     },
     "identifier": {
       "value": "shifter",
@@ -91,7 +91,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717790794491,

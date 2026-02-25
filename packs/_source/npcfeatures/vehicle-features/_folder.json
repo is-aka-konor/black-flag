@@ -1,5 +1,5 @@
 {
-  "name": "Vehicle Features",
+  "name": "Особенности автомобиля",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -11,7 +11,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "12.331",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733438378700,
     "modifiedTime": 1733438378700,

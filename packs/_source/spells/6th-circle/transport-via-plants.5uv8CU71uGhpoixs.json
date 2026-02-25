@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Transport via Plants",
+  "name": "Транспорт через растения",
   "type": "spell",
   "_id": "5uv8CU71uGhpoixs",
   "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>This spell creates a magical link between a Large or larger nonmagical plant within range and another plant, at any distance, on the same plane of existence. Creatures of the Plant type can’t be targeted by this spell. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.</p>",
       "source": {},
-      "short": "Better tree stride."
+      "short": "Лучше шагать по дереву."
     },
     "casting": {
       "value": null,
@@ -116,7 +116,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527808239,
     "modifiedTime": 1723577848412,

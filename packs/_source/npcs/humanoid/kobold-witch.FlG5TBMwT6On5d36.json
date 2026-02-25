@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Kobold Witch",
+  "name": "Кобольд Ведьма",
   "type": "npc",
   "_id": "FlG5TBMwT6On5d36",
-  "img": "systems/black-flag/artwork/tokens/kobold-witch.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/kobold-witch.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Kobold Witch",
+    "name": "Кобольд Ведьма",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -156,7 +156,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/kobold-witch.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/kobold-witch.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -303,7 +303,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -343,7 +343,7 @@
           "value": null
         }
       },
-      "name": "Scurry",
+      "name": "Спешить",
       "type": "feature",
       "_id": "t7QkoXjRbZQsfyBu",
       "img": "icons/skills/movement/ball-spinning-blue.webp",
@@ -359,7 +359,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.VjIfSouope7cCGXk",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -373,7 +373,7 @@
       "_key": "!actors.items!FlG5TBMwT6On5d36.t7QkoXjRbZQsfyBu"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "aFghfMIcVy0Diiq1",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -425,7 +425,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.EjEMkspf8jkoqGTP",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -439,7 +439,7 @@
       "_key": "!actors.items!FlG5TBMwT6On5d36.aFghfMIcVy0Diiq1"
     },
     {
-      "name": "Sunlight Sensitivity",
+      "name": "Чувствительность к солнечному свету",
       "type": "feature",
       "_id": "4xgoah7wPuQGcO27",
       "img": "icons/magic/light/explosion-glow-spiral-yellow.webp",
@@ -491,7 +491,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hzFrJFfPPIv20rWe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -505,7 +505,7 @@
       "_key": "!actors.items!FlG5TBMwT6On5d36.4xgoah7wPuQGcO27"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "2D99eZNZ6z0517IY",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -609,7 +609,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -624,7 +624,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Disguise Self",
+      "name": "Маскировка себя",
       "type": "spell",
       "_id": "thnYZ6GK32lvxlG0",
       "img": "icons/equipment/head/mask-horned-brown.webp",
@@ -692,7 +692,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Change your basic appearance."
+          "short": "Измените свой основной внешний вид."
         },
         "circle": {
           "value": null,
@@ -755,9 +755,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -768,7 +768,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Druidcraft",
+      "name": "Друидкрафт",
       "type": "spell",
       "_id": "Q2F47zP0qQ14ExbO",
       "img": "icons/consumables/plants/kelp-fern-glowing-green.webp",
@@ -836,7 +836,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless natural effects."
+          "short": "Безвредное природное воздействие."
         },
         "circle": {
           "value": null,
@@ -899,9 +899,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.rwGcFyilX3avbA5E",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.rwGcFyilX3avbA5E",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -912,7 +912,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Guidance",
+      "name": "Руководство",
       "type": "spell",
       "_id": "q6CUYUstDl9q52qO",
       "img": "icons/magic/symbols/circled-gem-pink.webp",
@@ -980,7 +980,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally adds d4 to ability check."
+          "short": "Союзник добавил d4 к внешним возможностям."
         },
         "circle": {
           "value": null,
@@ -1035,7 +1035,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+          "origin": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1046,13 +1046,13 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Guidance",
+          "name": "Руководство",
           "img": "icons/magic/symbols/circled-gem-pink.webp",
           "_id": "QX9n2KU4w9evJUYL",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>Once before the spell ends, you can roll a [[/r d4]] and add the number rolled to one ability check of your. You can roll the die before or after making the ability check. The spell then ends.</p>",
+          "description": "<p>Незадолго до окончания заклинания вы можете выкинуть [[/r d4]] и добавить выпавшее число к вашей способности с одной стороны. Вы можете бросить кубик до или после проверки функций. Затем заклинание заканчивается.</p>",
           "tint": "#ffffff",
           "transfer": false,
           "statuses": [],
@@ -1062,7 +1062,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1085,9 +1085,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.LGHPueVAi4bMnmFc",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.LGHPueVAi4bMnmFc",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1098,7 +1098,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Command",
+      "name": "Команда",
       "type": "spell",
       "_id": "CvQxmspDycotPZXx",
       "img": "icons/magic/control/control-influence-puppet.webp",
@@ -1147,7 +1147,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1189,7 +1189,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Creature obeys one-word order."
+          "short": "Существо подчиняется порядку из одного слова."
         },
         "circle": {
           "value": null,
@@ -1258,9 +1258,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.lkBDXbx2O78UA8gz",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.lkBDXbx2O78UA8gz",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1271,7 +1271,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Ray of Enfeeblement",
+      "name": "Луч ослабления",
       "type": "spell",
       "_id": "6MYNojPPL5n376Kg",
       "img": "icons/magic/unholy/projectile-bullet-orb-pink.webp",
@@ -1328,7 +1328,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1370,7 +1370,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Sap a foe’s strength."
+          "short": "Лишите силы врага."
         },
         "circle": {
           "value": null,
@@ -1442,9 +1442,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.V8TvqGWojL1ucfUZ",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.V8TvqGWojL1ucfUZ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1455,7 +1455,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Bestow Curse",
+      "name": "Наложить проклятие",
       "type": "spell",
       "_id": "DqTK7IvzzKmZYshL",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-teal.webp",
@@ -1504,7 +1504,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1546,7 +1546,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Choose a bad effect for a foe."
+          "short": "Выберите плохой эффект для противника."
         },
         "circle": {
           "value": null,
@@ -1618,9 +1618,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.f1ovNdb57AhbmDUn",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.f1ovNdb57AhbmDUn",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1697,7 +1697,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/healing.svg",
+            "img": "systems/black-flag-ru/artwork/activities/healing.svg",
             "sort": 0,
             "magical": false
           }
@@ -1737,7 +1737,7 @@
           "value": null
         }
       },
-      "name": "Witch’s Cauldron",
+      "name": "Ведьмин котел",
       "type": "feature",
       "_id": "ymmPIDrUvVtdsn6S",
       "img": "icons/skills/toxins/cauldron-bubbles-overflow-green.webp",
@@ -1757,7 +1757,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1828,7 +1828,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1868,7 +1868,7 @@
           "value": null
         }
       },
-      "name": "Hex",
+      "name": "Шестигранник",
       "type": "feature",
       "_id": "GXW4PQt3WgEzPKFs",
       "img": "icons/magic/control/buff-flight-wings-runes-purple-orange.webp",
@@ -1888,7 +1888,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1968,7 +1968,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -2037,7 +2037,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Eldritch Burst",
+      "name": "Жуткий взрыв",
       "type": "weapon",
       "_id": "HaLQsF93Yho78khw",
       "img": "icons/magic/light/explosion-star-teal.webp",
@@ -2058,7 +2058,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929461,
         "modifiedTime": 1756758479369,
@@ -2072,7 +2072,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

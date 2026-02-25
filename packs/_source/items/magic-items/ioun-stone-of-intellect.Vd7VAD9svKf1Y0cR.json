@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Intellect",
+  "name": "Юнский камень интеллекта",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -14,7 +14,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>Your INT score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>Your INT score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {}
     },
     "properties": [
@@ -40,8 +40,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Ioun Stone of Intellect",
-      "origin": "Compendium.black-flag.items.Item.Vd7VAD9svKf1Y0cR",
+      "name": "Юнский камень интеллекта",
+      "origin": "Compendium.black-flag-ru.items.Item.Vd7VAD9svKf1Y0cR",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -75,7 +75,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729031344766,
         "modifiedTime": 1756334192377,
@@ -94,7 +94,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1729031322597,
     "modifiedTime": 1729031341583,

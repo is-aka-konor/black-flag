@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Regeneration",
+  "name": "Йоунский камень регенерации",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>You regain 15 HP at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 HP.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>You regain 15 HP at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 HP.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {}
     },
     "properties": [
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Regenerate",
+        "name": "Регенерировать",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -126,7 +126,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729031669392,
     "modifiedTime": 1756334211916,

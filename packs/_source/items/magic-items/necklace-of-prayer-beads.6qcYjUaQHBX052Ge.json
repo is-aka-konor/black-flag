@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Necklace of Prayer Beads",
+  "name": "Ожерелье из четок",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -13,10 +13,10 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Cleric, Druid, or Paladin"
+      "requirement": "от священнослужителя, друида или паладина"
     },
     "description": {
-      "value": "<p>This necklace has [[/r 1d4 + 2]] magic beads made from aquamarine, black pearl, or topaz. It also has nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.</p><p>Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if necessary). Once a bead’s spell is cast, that bead can’t be used again until the next dawn.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.rDMWnsy2GdAxQElp inline]</p><section class=\"secret\" id=\"secret-yFWjLEjcRP9wp3qQ\"><p><strong>Foundry Note</strong></p><p>Each bead tracks its quantity using the uses on the activity except the Bead of Curing, which tracks it using the item uses. Adjust the various maximum uses to match the beads found and remove an unnecessary activities.</p></section>",
+      "value": "<p>This necklace has [[/r 1d4 + 2]] magic beads made from aquamarine, black pearl, or topaz. It also has nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.</p><p>Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if necessary). Once a bead’s spell is cast, that bead can’t be used again until the next dawn.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.rDMWnsy2GdAxQElp inline]</p><section class=\"secret\" id=\"secret-yFWjLEjcRP9wp3qQ\"><p><strong>Foundry Note</strong></p><p>Each bead tracks its quantity using the uses on the activity except the Bead of Curing, which tracks it using the item uses. Adjust the various maximum uses to match the beads found and remove an unnecessary activities.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -26,7 +26,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.Gnxh5w9pE08ZGF9S",
+            "uuid": "Compendium.black-flag-ru.spells.Item.Gnxh5w9pE08ZGF9S",
             "challenge": {
               "attack": null,
               "save": null,
@@ -95,14 +95,14 @@
           "min": "",
           "max": "1"
         },
-        "name": "Bead of Blessing",
+        "name": "Бусина благословения",
         "img": ""
       },
       "gVruHqCzeoy3M7Hb": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.NQvy34IRCNEJfwip",
+            "uuid": "Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip",
             "challenge": {
               "attack": null,
               "save": null,
@@ -165,14 +165,14 @@
           "min": "",
           "max": ""
         },
-        "name": "Bead of Curing (cure wounds)",
+        "name": "Бусина лечения (лечение ран)",
         "img": ""
       },
       "TcRxJ9ORpvKbhh7Y": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.Aqff6XGGmiVXo6A6",
+            "uuid": "Compendium.black-flag-ru.spells.Item.Aqff6XGGmiVXo6A6",
             "challenge": {
               "attack": null,
               "save": null,
@@ -235,14 +235,14 @@
           "min": "",
           "max": ""
         },
-        "name": "Bead of Curing (restoration)",
+        "name": "Бусина лечения (восстановление)",
         "img": ""
       },
       "Ae8GplXW3m4GoFpX": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.ZTVg00JolCuPkOOX",
+            "uuid": "Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX",
             "challenge": {
               "attack": null,
               "save": null,
@@ -311,14 +311,14 @@
           "min": "",
           "max": "1"
         },
-        "name": "Bead of Favor",
+        "name": "Бусина благосклонности",
         "img": ""
       },
       "BMIJeAvSXM3qBtKu": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.UBBSkwpMjPpwVSgG",
+            "uuid": "Compendium.black-flag-ru.spells.Item.UBBSkwpMjPpwVSgG",
             "challenge": {
               "attack": null,
               "save": null,
@@ -385,14 +385,14 @@
           "min": "",
           "max": "1"
         },
-        "name": "Bead of Smiting",
+        "name": "Бусина поражения",
         "img": ""
       },
       "Anu8D7nvuczoXwBt": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.ylqb7VpJ1snRNs7o",
+            "uuid": "Compendium.black-flag-ru.spells.Item.ylqb7VpJ1snRNs7o",
             "challenge": {
               "attack": null,
               "save": null,
@@ -460,14 +460,14 @@
           "min": "",
           "max": "1"
         },
-        "name": "Bead of Summons",
+        "name": "Бусина призыва",
         "img": ""
       },
       "t7XRjB1w4SQVwLO2": {
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.eXevf5sdtGjBdgQG",
+            "uuid": "Compendium.black-flag-ru.spells.Item.eXevf5sdtGjBdgQG",
             "challenge": {
               "attack": null,
               "save": null,
@@ -536,7 +536,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Bead of Wind Walking",
+        "name": "Бусина ходьбы по ветру",
         "img": ""
       }
     },
@@ -574,7 +574,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1724986806420,
     "modifiedTime": 1735681817607,

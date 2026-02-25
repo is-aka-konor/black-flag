@@ -1,6 +1,6 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "Aquatic",
+  "name": "Водный",
   "type": "feature",
   "img": "icons/creatures/fish/fish-marlin-swordfight-blue.webp",
   "system": {
@@ -23,7 +23,7 @@
         "type": "property",
         "_id": "KVYjHbFL3Ju1U5YA",
         "title": "Swim Speed",
-        "icon": "systems/black-flag/artwork/advancement/speed.svg",
+        "icon": "systems/black-flag-ru/artwork/advancement/speed.svg",
         "level": {
           "value": 0,
           "classIdentifier": ""
@@ -55,7 +55,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.027",
     "coreVersion": "13.347",
     "createdTime": 1695490982382,

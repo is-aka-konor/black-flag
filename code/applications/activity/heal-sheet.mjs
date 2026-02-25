@@ -15,11 +15,11 @@ export default class HealSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		effect: {
-			template: "systems/black-flag/templates/activity/heal-effect.hbs",
+			template: "systems/black-flag-ru/templates/activity/heal-effect.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-effects.hbs",
-				"systems/black-flag/templates/activity/parts/damage-part.hbs",
-				"systems/black-flag/templates/activity/parts/heal-healing.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-effects.hbs",
+				"systems/black-flag-ru/templates/activity/parts/damage-part.hbs",
+				"systems/black-flag-ru/templates/activity/parts/heal-healing.hbs"
 			]
 		}
 	};

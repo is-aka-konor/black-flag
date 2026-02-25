@@ -50,7 +50,7 @@ export default class AmmunitionData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Ammunition",
 				icon: "fa-solid fa-lines-leaning",
-				img: "systems/black-flag/artwork/types/ammunition.svg"
+				img: "systems/black-flag-ru/artwork/types/ammunition.svg"
 			},
 			{ inplace: false }
 		)

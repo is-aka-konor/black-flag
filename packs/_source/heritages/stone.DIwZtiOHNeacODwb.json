@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Stone",
+  "name": "Камень",
   "type": "heritage",
   "img": "icons/commodities/stone/masonry-block-cube-pink-white.webp",
   "system": {
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.ae45yXHxqribkGWz"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.ae45yXHxqribkGWz"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.XOetZrMvNqZpHNqk"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.XOetZrMvNqZpHNqk"
             }
           ]
         },
@@ -55,8 +55,8 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.ae45yXHxqribkGWz inline]{Ancestral Arts}</p><p>@Embed[Compendium.black-flag.heritages.Item.XOetZrMvNqZpHNqk inline]{Eye for Quality}</p><p>@Embed[.Advancement.xXPTXP1d51PbAzyc inline]{Languages}</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.ae45yXHxqribkGWz inline]{Ancestral Arts}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.XOetZrMvNqZpHNqk inline]{Eye for Quality}</p><p>@Embed[.Advancement.xXPTXP1d51PbAzyc inline]{Languages}</p>",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "stone"
@@ -68,7 +68,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1694990535205,

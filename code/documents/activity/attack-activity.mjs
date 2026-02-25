@@ -25,7 +25,7 @@ export default class AttackActivity extends Activity {
 			{
 				type: "attack",
 				dataModel: AttackData,
-				icon: "systems/black-flag/artwork/activities/attack.svg",
+				icon: "systems/black-flag-ru/artwork/activities/attack.svg",
 				title: "BF.ATTACK.Label",
 				hint: "BF.ATTACK.Hint",
 				usage: {
@@ -98,7 +98,7 @@ export default class AttackActivity extends Activity {
 		const buttons = [
 			{
 				label: game.i18n.localize("BF.ATTACK.Label"),
-				icon: '<i class="blackFlag-icon" data-src="systems/black-flag/artwork/traits/weapons.svg" inert></i>',
+				icon: '<i class="blackFlag-icon" data-src="systems/black-flag-ru/artwork/traits/weapons.svg" inert></i>',
 				dataset: {
 					action: "rollAttack"
 				}

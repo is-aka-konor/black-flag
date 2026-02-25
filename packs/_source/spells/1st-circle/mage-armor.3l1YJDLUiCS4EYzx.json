@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Mage Armor",
+  "name": "Магическая броня",
   "type": "spell",
   "_id": "3l1YJDLUiCS4EYzx",
   "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
@@ -49,7 +49,7 @@
     "description": {
       "value": "<p>You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its DEX modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</p>",
       "source": {},
-      "short": "Protect an unarmored ally."
+      "short": "Защитите небронированного союзника."
     },
     "type": {
       "value": "standard"
@@ -71,7 +71,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a piece of cured leather",
+        "description": "кусок выделанной кожи",
         "denomination": "pp",
         "consumed": false
       }
@@ -105,7 +105,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.3l1YJDLUiCS4EYzx",
+      "origin": "Compendium.black-flag-ru.spells.Item.3l1YJDLUiCS4EYzx",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -116,7 +116,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Mage Armor",
+      "name": "Магическая броня",
       "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
       "_id": "TJbQJmIkUgvc3Ij8",
       "type": "base",
@@ -129,7 +129,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your base AC becomes 13 + your DEX modifier.</p>",
+      "description": "<p>Ваш базовый AC становится 13 + ваш модификатор DEX.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -139,7 +139,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1722985377092,
         "modifiedTime": 1722985503300,
@@ -155,7 +155,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934475222,

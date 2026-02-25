@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Regeneration",
+  "name": "Кольцо регенерации",
   "system": {
     "type": {
       "category": "clothing",
@@ -131,7 +131,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724987031546,
     "modifiedTime": 1756333326044,

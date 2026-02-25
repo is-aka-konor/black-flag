@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Hallucinatory Terrain",
+  "name": "Галлюцинаторный ландшафт",
   "type": "spell",
   "_id": "r4Yc0FrcBvwvx8fF",
   "img": "icons/environment/wilderness/cave-entrance-mountain.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.</p><p>The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt an [[/check INT (investigation) dc=@spellcasting.dc]] check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is sees it as a vague image superimposed on the terrain.</p>",
       "source": {},
-      "short": "Terrain appears as you will it."
+      "short": "Ландшафт выглядит так, как вы этого хотите."
     },
     "source": [
       "arcane",
@@ -78,7 +78,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a stone, a twig, and a bit of green plant"
+        "description": "камень, веточка и немного зеленого растения"
       }
     },
     "duration": {
@@ -117,7 +117,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722569848828,
     "modifiedTime": 1723778949881,

@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Air Elemental",
+  "name": "Элементаль воздуха",
   "type": "npc",
   "_id": "xovBE0pXygwryVLa",
-  "img": "systems/black-flag/artwork/tokens/elemental-air.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/elemental-air.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Air Elemental",
+    "name": "Элементаль воздуха",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/elemental-air.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/elemental-air.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -290,7 +290,7 @@
           "value": null
         }
       },
-      "name": "Air Form",
+      "name": "Воздушная форма",
       "type": "feature",
       "_id": "JwGjy86UmRclGuu1",
       "img": "icons/magic/air/wind-tornado-wall-blue.webp",
@@ -310,7 +310,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -358,7 +358,7 @@
           "value": null
         }
       },
-      "name": "Cloud Camouflage",
+      "name": "Облачный камуфляж",
       "type": "feature",
       "_id": "I4dCqTBf7Cxmr36I",
       "img": "icons/magic/air/weather-clouds.webp",
@@ -378,7 +378,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -388,7 +388,7 @@
       "_key": "!actors.items!xovBE0pXygwryVLa.I4dCqTBf7Cxmr36I"
     },
     {
-      "name": "Elemental Nature",
+      "name": "Элементальная природа",
       "type": "feature",
       "_id": "sN14dubqu2nqelf9",
       "img": "icons/creatures/magical/spirit-fire-yellow.webp",
@@ -442,9 +442,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.JfTkl8wZoHGIlx56",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.JfTkl8wZoHGIlx56",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -454,7 +454,7 @@
       "_key": "!actors.items!xovBE0pXygwryVLa.sN14dubqu2nqelf9"
     },
     {
-      "name": "Elemental Resilience",
+      "name": "Элементальная устойчивость",
       "type": "feature",
       "_id": "3VpaKzgP3ahO7wWi",
       "img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
@@ -497,7 +497,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.VKad18HEnCZvMvYo",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.VKad18HEnCZvMvYo",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -508,7 +508,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Elemental Resilience",
+          "name": "Элементальная устойчивость",
           "_id": "MLyzN1UQtBKetE48",
           "changes": [
             {
@@ -599,7 +599,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -627,9 +627,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.VKad18HEnCZvMvYo",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.VKad18HEnCZvMvYo",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -639,7 +639,7 @@
       "_key": "!actors.items!xovBE0pXygwryVLa.3VpaKzgP3ahO7wWi"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "9JcrSCqzyR6nerpT",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -743,7 +743,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -871,7 +871,7 @@
         },
         "rarity": ""
       },
-      "name": "Lightning Bolt",
+      "name": "Молния",
       "type": "weapon",
       "_id": "eYL1EDEqoHkr0xfr",
       "img": "icons/magic/lightning/bolt-beam-strike-blue.webp",
@@ -891,7 +891,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -992,7 +992,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -1059,7 +1059,7 @@
               "min": "",
               "max": ""
             },
-            "name": "DEX Save",
+            "name": "Сохранить DEX",
             "img": ""
           }
         },
@@ -1078,7 +1078,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each creature in the [[lookup @name lowercase]]'s space must make a [[/save format=long]]. On a failure, a target takes [[/damage average]] damage and is flung up 20 feet away from the [[lookup @name lowercase]] in a random direction and knocked &amp;Reference[prone]{prone}. If a thrown target strikes an object, such as a wall or floor, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save dex 13 format=long]] or take the same damage and be knocked &amp;Reference[prone]{prone}.</p><p>If the save is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.</p>",
+          "value": "<p>Each creature in the [[lookup @name lowercase]]'s space must make a [[/save format=long]]. On a failure, a target takes [[/damage average]] damage and is flung up 20 feet away from the [[lookup @name lowercase]] in a random direction and knocked &Reference[prone]{prone}. If a thrown target strikes an object, such as a wall or floor, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save dex 13 format=long]] or take the same damage and be knocked &Reference[prone]{prone}.</p><p>If the save is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1104,7 +1104,7 @@
           "value": null
         }
       },
-      "name": "Whirlwind",
+      "name": "Вихрь",
       "type": "feature",
       "_id": "g0JMAyVAcKLL2IAW",
       "img": "icons/magic/air/wind-tornado-funnel-gray.webp",
@@ -1124,7 +1124,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1219,7 +1219,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1259,7 +1259,7 @@
           "value": null
         }
       },
-      "name": "Thunderous Retreat",
+      "name": "Громовое отступление",
       "type": "feature",
       "_id": "81T3FkJbrRPCo2js",
       "img": "icons/magic/lightning/bolt-cloud-sky-green.webp",
@@ -1279,7 +1279,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1363,7 +1363,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1432,7 +1432,7 @@
         },
         "rarity": ""
       },
-      "name": "Wind Lash",
+      "name": "Хлыст ветра",
       "type": "weapon",
       "_id": "HY3GJs88DbJnAPi2",
       "img": "icons/magic/air/air-wave-gust-blue.webp",
@@ -1453,7 +1453,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936315,
         "modifiedTime": 1756754951063,
@@ -1467,7 +1467,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

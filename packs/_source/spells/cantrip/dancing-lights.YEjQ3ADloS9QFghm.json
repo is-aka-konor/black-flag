@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Dancing Lights",
+  "name": "Танцующие огни",
   "type": "spell",
   "_id": "YEjQ3ADloS9QFghm",
   "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
@@ -9,7 +9,7 @@
       "bBlfxOiyMKUenQNO": {
         "type": "utility",
         "_id": "bBlfxOiyMKUenQNO",
-        "description": "<p>You create up to four torch-sized lights, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p>",
+        "description": "<p>Вы создаете до четырех источников света размером с факел, делая их похожими на факелы, фонари или светящиеся шары, которые на время парят в воздухе. Вы также можете объединить четыре источника света в одну смутно светящуюся гуманоидную форму среднего размера. Какую бы форму вы ни выбрали, каждый источник света излучает тусклый свет в радиусе 10 футов.</p>",
         "system": {},
         "activation": {
           "type": "",
@@ -28,13 +28,13 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Create Lights",
+        "name": "Создать источники света",
         "img": ""
       },
       "XkgSY5VgLzZCE5M9": {
         "type": "utility",
         "_id": "XkgSY5VgLzZCE5M9",
-        "description": "<p>You move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.</p>",
+        "description": "<p>Вы перемещаете фонари на расстояние до 60 футов в новое место в пределах досягаемости. Свет должен находиться в пределах 20 футов от другого источника света, созданного этим заклинанием, и свет гаснет, если он выходит за пределы диапазона заклинания.</p>",
         "system": {},
         "activation": {
           "type": "bonus",
@@ -53,7 +53,7 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Move Lights",
+        "name": "Переместить свет",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     "description": {
       "value": "<p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely Humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p><p>As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.</p>",
       "source": {},
-      "short": "Make and control four lights."
+      "short": "Создайте и управляйте четырьмя огнями."
     },
     "type": {
       "value": "standard"
@@ -89,7 +89,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a bit of phosphorus or wychwood, or a glowworm",
+        "description": "немного фосфора, вичвуда или светлячка",
         "denomination": "pp",
         "consumed": false
       }
@@ -131,7 +131,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "coreVersion": "13.347",
     "createdTime": 1706914899361,

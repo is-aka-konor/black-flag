@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Oil (flask)",
+  "name": "Масло (колба)",
   "type": "consumable",
   "_id": "On8cf8hBFAzb4HbK",
   "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Throw",
+        "name": "Бросок",
         "img": "",
         "target": {
           "affects": {
@@ -105,7 +105,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363488573,

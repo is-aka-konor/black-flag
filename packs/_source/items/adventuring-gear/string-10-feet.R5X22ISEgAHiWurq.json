@@ -1,5 +1,5 @@
 {
-  "name": "String (10 feet)",
+  "name": "Струна (10 футов)",
   "type": "gear",
   "_id": "R5X22ISEgAHiWurq",
   "img": "icons/sundries/survival/rope-wrapped-red.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1713284313633,

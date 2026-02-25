@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Hand Crossbow",
+  "name": "Ручной арбалет",
   "type": "weapon",
   "_id": "b126bs62p8TQIYZ8",
   "img": "icons/weapons/crossbows/handcrossbow-black.webp",
@@ -77,7 +77,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024650623,

@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Druid",
+  "name": "Друид",
   "type": "npc",
   "_id": "9MiXuSE9adOdqXSh",
-  "img": "systems/black-flag/artwork/tokens/druid.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/druid.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -146,13 +146,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Druid",
+    "name": "Друид",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/druid.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/druid.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -241,7 +241,7 @@
   },
   "items": [
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "MGowWdPXtonu5Xck",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -340,13 +340,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1713152214358,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -354,7 +354,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Flowering Quarterstaff",
+      "name": "Цветущий посох",
       "type": "weapon",
       "_id": "tKIPQwmGSYezJ22o",
       "img": "icons/weapons/staves/staff-vines-green.webp",
@@ -508,20 +508,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "coreVersion": "13.347",
         "createdTime": 1701024066522,
         "modifiedTime": 1756758020556,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.items.Item.B5J4heAlwqhvzXKW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.B5J4heAlwqhvzXKW",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!9MiXuSE9adOdqXSh.tKIPQwmGSYezJ22o"
     },
     {
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "system": {
         "type": {
@@ -626,7 +626,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1713152400751,
@@ -640,7 +640,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Druidcraft",
+      "name": "Друидкрафт",
       "type": "spell",
       "_id": "evcV3cR7nxGhTMFI",
       "img": "icons/consumables/plants/kelp-fern-glowing-green.webp",
@@ -766,13 +766,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706997674649,
         "modifiedTime": 1713152448332,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.rwGcFyilX3avbA5E",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.rwGcFyilX3avbA5E",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -780,7 +780,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Speak with Animals",
+      "name": "Разговаривайте с животными",
       "type": "spell",
       "_id": "3Auw6wAVwbygtfCt",
       "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
@@ -907,13 +907,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706997928541,
         "modifiedTime": 1713152451977,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.VEYRZOPPA3yH6AeK",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -921,7 +921,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Entangle",
+      "name": "Запутывать",
       "type": "spell",
       "_id": "VCyWwD2wmnBZPKlR",
       "img": "icons/magic/nature/root-vine-entwined-thorns.webp",
@@ -1074,13 +1074,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706997707977,
         "modifiedTime": 1717088314072,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.CM2MI0J59OeCL7I4",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.CM2MI0J59OeCL7I4",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -1088,7 +1088,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Cure Wounds",
+      "name": "Лечение ран",
       "type": "spell",
       "_id": "oI3N1773UfqIC5OH",
       "img": "icons/magic/life/cross-flared-green.webp",
@@ -1241,13 +1241,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706932857027,
         "modifiedTime": 1717088314072,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.NQvy34IRCNEJfwip",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -1255,7 +1255,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Thunderwave",
+      "name": "Громовая волна",
       "type": "spell",
       "_id": "C774gUIp54yttbIu",
       "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -1419,13 +1419,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706935826513,
         "modifiedTime": 1717088314072,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.46QP4gtGhM6YXqQN",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.46QP4gtGhM6YXqQN",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -1433,7 +1433,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Barkskin",
+      "name": "Коровая кожа",
       "type": "spell",
       "_id": "qpAQRgItTGpFxMZ8",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -1531,7 +1531,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a handful of oak bark",
+            "description": "горсть дубовой коры",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1581,13 +1581,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706997517394,
         "modifiedTime": 1717088314072,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.SdIMnQDBbxLsMocU",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.SdIMnQDBbxLsMocU",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -1595,7 +1595,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Spike Growth",
+      "name": "Пиковый рост",
       "type": "spell",
       "_id": "LA1Wye3BjYB2ey2R",
       "img": "icons/magic/nature/trap-spikes-thorns-green.webp",
@@ -1693,7 +1693,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "seven sharp thorns or seven sharpened twigs",
+            "description": "семь острых шипов или семь заостренных ветвей",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1745,20 +1745,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706997972095,
         "modifiedTime": 1717088314072,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.spells.Item.881NeWKz2mfAQ4kT",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.881NeWKz2mfAQ4kT",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!9MiXuSE9adOdqXSh.LA1Wye3BjYB2ey2R"
     },
     {
-      "name": "Poison Bolt",
+      "name": "Ядовитый болт",
       "type": "weapon",
       "system": {
         "type": {
@@ -1916,7 +1916,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928038,
         "modifiedTime": 1756758025829,
@@ -1932,7 +1932,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709698781887,

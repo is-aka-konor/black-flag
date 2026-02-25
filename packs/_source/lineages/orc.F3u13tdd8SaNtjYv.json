@@ -1,5 +1,5 @@
 {
-  "name": "Orc",
+  "name": "орк",
   "type": "lineage",
   "_id": "F3u13tdd8SaNtjYv",
   "img": "icons/creatures/eyes/lizard-single-slit-green.webp",
@@ -27,13 +27,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.lineages.Item.gq4X2TWJolsO9Ls1"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.gq4X2TWJolsO9Ls1"
             },
             {
-              "uuid": "Compendium.black-flag.lineages.Item.cVnYCq9cu59IFkuJ"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.cVnYCq9cu59IFkuJ"
             },
             {
-              "uuid": "Compendium.black-flag.lineages.Item.nZkQuYiKKnLIdy7o"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.nZkQuYiKKnLIdy7o"
             }
           ]
         },
@@ -44,10 +44,10 @@
       }
     },
     "description": {
-      "value": "<p>Your orc character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Orcs reach adulthood within two decades and seldom live longer than 60 years. However, orcs remain in their prime for most of their lives, undergoing few physical changes or signs of aging between adulthood and the end of their natural lifespan.</p><p>@Embed[.Advancement.sngAt3jgHJiYEN21 inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag.lineages.Item.gq4X2TWJolsO9Ls1 inline]{Orcish Perseverance}</p><p>@Embed[Compendium.black-flag.lineages.Item.cVnYCq9cu59IFkuJ inline]{Heightened Senses}</p><p>@Embed[Compendium.black-flag.lineages.Item.nZkQuYiKKnLIdy7o inline]{Stalwart}</p>",
+      "value": "<p>Your orc character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Orcs reach adulthood within two decades and seldom live longer than 60 years. However, orcs remain in their prime for most of their lives, undergoing few physical changes or signs of aging between adulthood and the end of their natural lifespan.</p><p>@Embed[.Advancement.sngAt3jgHJiYEN21 inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.gq4X2TWJolsO9Ls1 inline]{Orcish Perseverance}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.cVnYCq9cu59IFkuJ inline]{Heightened Senses}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.nZkQuYiKKnLIdy7o inline]{Stalwart}</p>",
       "source": {},
       "short": "",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "orc"
@@ -61,7 +61,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716093415491,

@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Legend Lore",
+  "name": "Легенда",
   "type": "spell",
   "_id": "KaEFkKHQFee5R6KQ",
   "img": "icons/sundries/scrolls/scroll-old-bound-brown-gray.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn’t of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.</p><p>The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: <q>Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of the dwarven gods, may awaken the true powers of the axe, and only with the sacred word Rudnoss on the lips.</q></p>",
       "source": {},
-      "short": "Instantly know about a legend."
+      "short": "Мгновенно узнавайте о легенде."
     },
     "source": [
       "arcane",
@@ -78,7 +78,7 @@
         "consumed": true,
         "cost": 250,
         "denomination": "gp",
-        "description": "incense worth at least 250 gp, which the spell consumes"
+        "description": "благовония стоимостью не менее 250 зм, которые расходуются на заклинание"
       }
     },
     "duration": {
@@ -112,7 +112,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722919009666,
     "modifiedTime": 1722919514435,

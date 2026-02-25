@@ -1,9 +1,9 @@
 {
   "folder": "RkwCXQpGwejwtQmy",
-  "name": "Confusion Effects",
+  "name": "Эффекты замешательства",
   "_id": "9jJuPmkPOrFBfzu8",
   "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
-  "description": "<p>An affected target must roll a d10 at the start of each of its turns to determine its behavior for that turn.</p>",
+  "description": "<p>Пораженная цель должна бросить d10 в начале каждого своего хода, чтобы определить свое поведение на этот ход.</p>",
   "results": [
     {
       "type": "text",
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The creature uses all its movement to move in a random direction. To determine the direction, roll a [[/r d8]] and assign a direction to each die face. The creature doesn’t take an action this turn.",
+      "description": "Существо использует все свое движение, чтобы двигаться в случайном направлении. Чтобы определить направление, бросьте [[/r d8]] и назначьте направление каждой грани матрицы. Существо не совершает действия в этом ходу.",
       "name": "",
       "_key": "!tables.results!9jJuPmkPOrFBfzu8.FJztnN24dVg1yBrF"
     },
@@ -53,7 +53,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The creature doesn’t move or take actions this turn.",
+      "description": "Существо не двигается и не предпринимает действий в этом ходу.",
       "name": "",
       "_key": "!tables.results!9jJuPmkPOrFBfzu8.Vn8Ld0g1FNkjltrA"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within reach, the creature does nothing this turn.",
+      "description": "Существо действием совершает рукопашную атаку по случайно определенному существу в пределах досягаемости. Если в пределах досягаемости нет существа, оно в этом ходу ничего не делает.",
       "name": "",
       "_key": "!tables.results!9jJuPmkPOrFBfzu8.rPTuB2evEarts6U2"
     },
@@ -105,7 +105,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "The creature can act and move normally. At the end of each of its turns, an affected creature can make a [[/save wisdom]] save, ending the effect on itself on a success.",
+      "description": "Существо может действовать и двигаться нормально. В конце каждого своего хода такое существо может совершить спасбросок [[/save wisdom]], прекращая эффект на себе прие.",
       "name": "",
       "_key": "!tables.results!9jJuPmkPOrFBfzu8.hE9js5UEf8vbQ4H8"
     }
@@ -118,7 +118,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720284940249,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Protection",
+  "name": "Кольцо защиты",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Protection",
-      "origin": "Compendium.black-flag.items.Item.lOqdl0UbO3sVylf9",
+      "name": "Защита",
+      "origin": "Compendium.black-flag-ru.items.Item.lOqdl0UbO3sVylf9",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -79,7 +79,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729890980092,
         "modifiedTime": 1756333312264,
@@ -98,7 +98,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724987023355,
     "modifiedTime": 1729890195703,

@@ -1,6 +1,6 @@
 {
   "folder": "kbsqEF5chqRSFMf7",
-  "name": "Augment: Absorbing",
+  "name": "Дополнение: Поглощение",
   "type": "feature",
   "_id": "u6dQlHNXT5yPy5ne",
   "img": "icons/commodities/tech/blueprint.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the <strong>Mechanist Progression</strong> table.</p><h6>Absorbing</h6><p>@Embed[Compendium.black-flag.classes.Item.PbIfYeiudRUhjD0g inline]</p>",
+      "value": "<p>You gain the following unique effect for your Augment feature. This effect can’t be replaced and doesn’t count against the number of effects that you know, as shown in the Augment Effects Known column of the <strong>Mechanist Progression</strong> table.</p><h6>Absorbing</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.PbIfYeiudRUhjD0g inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128141371,

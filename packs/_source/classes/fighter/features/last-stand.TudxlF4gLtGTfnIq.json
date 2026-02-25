@@ -1,6 +1,6 @@
 {
   "folder": "ljc34ps9wz9LJGuf",
-  "name": "Last Stand",
+  "name": "Последний бой",
   "type": "feature",
   "img": "icons/skills/wounds/injury-pain-body-orange.webp",
   "system": {
@@ -103,7 +103,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.074",
     "coreVersion": "13.350",
     "createdTime": 1695229305563,

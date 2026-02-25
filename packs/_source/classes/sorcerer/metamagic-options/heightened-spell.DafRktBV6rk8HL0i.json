@@ -1,6 +1,6 @@
 {
   "folder": "1TP7FLNgMIFG1ows",
-  "name": "Heightened Spell",
+  "name": "Усиленное заклинание",
   "type": "feature",
   "_id": "DafRktBV6rk8HL0i",
   "img": "icons/magic/unholy/hand-fire-skeleton-pink.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.U7TtFFdzkbVMNQ2D",
+              "target": "Compendium.black-flag-ru.classes.Item.U7TtFFdzkbVMNQ2D",
               "value": "3"
             }
           ],
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718682914704,

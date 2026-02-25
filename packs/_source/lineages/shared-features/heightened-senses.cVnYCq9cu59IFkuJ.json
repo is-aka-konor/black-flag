@@ -1,6 +1,6 @@
 {
   "folder": "XYZ88rSWotkOwvzc",
-  "name": "Heightened Senses",
+  "name": "Обостренные чувства",
   "type": "feature",
   "_id": "cVnYCq9cu59IFkuJ",
   "img": "icons/magic/perception/eye-slit-orange.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716091145722,

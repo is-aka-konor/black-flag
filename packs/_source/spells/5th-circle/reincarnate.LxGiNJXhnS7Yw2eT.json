@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Reincarnate",
+  "name": "Реинкарнировать",
   "type": "spell",
   "_id": "LxGiNJXhnS7Yw2eT",
   "img": "icons/skills/wounds/anatomy-organ-heart-red.webp",
@@ -67,9 +67,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a dead Humanoid or a piece of a dead Humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target’s soul isn’t free or willing to do so, the spell fails.</p><p>The magic fashions a new body for the creature to inhabit, which likely causes the creature’s lineage to change. The GM rolls a [[/r d100]] and consults the <strong>Reincarnation Bodies</strong> table to determine what form the creature takes when restored to life, or the GM chooses a form.</p><p>The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original lineage for the new one and changes its lineage traits accordingly.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.cmoq0F8Hs8iaEug9 inline]</p>",
+      "value": "<p>You touch a dead Humanoid or a piece of a dead Humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target’s soul isn’t free or willing to do so, the spell fails.</p><p>The magic fashions a new body for the creature to inhabit, which likely causes the creature’s lineage to change. The GM rolls a [[/r d100]] and consults the <strong>Reincarnation Bodies</strong> table to determine what form the creature takes when restored to life, or the GM chooses a form.</p><p>The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original lineage for the new one and changes its lineage traits accordingly.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.cmoq0F8Hs8iaEug9 inline]</p>",
       "source": {},
-      "short": "Dead Humanoid returns in new body."
+      "short": "Мертвый гуманоид возвращается в новом теле."
     },
     "casting": {
       "value": 1,
@@ -90,7 +90,7 @@
         "consumed": true,
         "cost": 1000,
         "denomination": "gp",
-        "description": "rare oils and unguents worth at least 1,000 gp, which the spell consumes"
+        "description": "редкие масла и мази стоимостью не менее 1000 зм, которые расходуются на заклинание"
       }
     },
     "duration": {
@@ -131,7 +131,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "createdTime": 1723264651080,
     "modifiedTime": 1737399492119,

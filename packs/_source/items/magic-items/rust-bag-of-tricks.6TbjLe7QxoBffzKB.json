@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Rust Bag of Tricks",
+  "name": "Ржавая сумка с трюками",
   "system": {
     "rarity": "uncommon",
     "attunement": {
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals a small, fuzzy object. The bag weighs 1/2 pound.</p><p>You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag’s color. The creature vanishes at the next dawn or when it is reduced to 0 HP.</p><p>The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p><p>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.D6i9C40kWUjIYKPf inline]</p>",
+      "value": "<p>This ordinary bag, made from rust cloth, appears empty. Reaching inside the bag, however, reveals a small, fuzzy object. The bag weighs 1/2 pound.</p><p>You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag’s color. The creature vanishes at the next dawn or when it is reduced to 0 HP.</p><p>The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p><p>Once three fuzzy objects have been pulled from the bag, the bag can’t be used again until the next dawn.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.D6i9C40kWUjIYKPf inline]</p>",
       "source": {
         "fallback": ""
       }
@@ -104,7 +104,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Command Creature",
+        "name": "Командное существо",
         "img": "",
         "_id": "aYFq2Lez5ZTCW7vh"
       },
@@ -133,7 +133,7 @@
               "count": "",
               "name": "",
               "_id": "qwEo2fRYkwUJpeQS",
-              "uuid": "Compendium.black-flag.npcs.Actor.Wu2QaZI38nWZEZtb",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.Wu2QaZI38nWZEZtb",
               "level": {
                 "min": null,
                 "max": null
@@ -144,7 +144,7 @@
               "count": "",
               "name": "",
               "_id": "COzqGjmWOXfN9SAk",
-              "uuid": "Compendium.black-flag.npcs.Actor.tI2hsbBl6skqEkOp",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.tI2hsbBl6skqEkOp",
               "level": {
                 "min": null,
                 "max": null
@@ -155,7 +155,7 @@
               "count": "",
               "name": "",
               "_id": "6ds2p1K2mVn7SzV7",
-              "uuid": "Compendium.black-flag.npcs.Actor.ck0kqumkVqWznctK",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.ck0kqumkVqWznctK",
               "level": {
                 "min": null,
                 "max": null
@@ -166,7 +166,7 @@
               "count": "",
               "name": "",
               "_id": "y7krR98x81OfCFK2",
-              "uuid": "Compendium.black-flag.npcs.Actor.sC5LVxumiNuA8EJH",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.sC5LVxumiNuA8EJH",
               "level": {
                 "min": null,
                 "max": null
@@ -177,7 +177,7 @@
               "count": "",
               "name": "",
               "_id": "UNhU9diuuju4Aj0w",
-              "uuid": "Compendium.black-flag.npcs.Actor.X82CDCyHgR41wdQE",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.X82CDCyHgR41wdQE",
               "level": {
                 "min": null,
                 "max": null
@@ -188,7 +188,7 @@
               "count": "",
               "name": "",
               "_id": "ZN65wwIztUfvRLT0",
-              "uuid": "Compendium.black-flag.npcs.Actor.h1hoa6N6IlypbFz0",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.h1hoa6N6IlypbFz0",
               "level": {
                 "min": null,
                 "max": null
@@ -199,7 +199,7 @@
               "count": "",
               "name": "",
               "_id": "uVWx7OSCRkPcIUnP",
-              "uuid": "Compendium.black-flag.npcs.Actor.PIz6OxdTiqdlix0y",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.PIz6OxdTiqdlix0y",
               "level": {
                 "min": null,
                 "max": null
@@ -210,7 +210,7 @@
               "count": "",
               "name": "",
               "_id": "Y7pfa47VsiSxvqUZ",
-              "uuid": "Compendium.black-flag.npcs.Actor.2Uyw9ZrqRJur5bwE",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.2Uyw9ZrqRJur5bwE",
               "level": {
                 "min": null,
                 "max": null
@@ -275,7 +275,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Pull Creature",
+        "name": "Вытащить существо",
         "img": "",
         "_id": "6DoGWXS5pBpr7mhV",
         "visibility": {
@@ -302,7 +302,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725739606652,
     "modifiedTime": 1756333694498,

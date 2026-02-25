@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Plant Growth",
+  "name": "Рост растений",
   "type": "spell",
   "_id": "dhXAUGv93c7RYXJO",
   "img": "icons/magic/nature/root-vine-leaves-green.webp",
@@ -46,7 +46,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Grow Plants",
+        "name": "Выращивать растения",
         "img": ""
       },
       "XIwa6WrSvb1cQmE1": {
@@ -97,7 +97,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Enrich Land",
+        "name": "Обогатить землю",
         "img": ""
       }
     },
@@ -111,7 +111,7 @@
     "description": {
       "value": "<p>There are two possible uses for this spell, depending on its casting time, granting either immediate or long-term benefits.</p><p>If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell’s area from being affected.</p><p>If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.</p>",
       "source": {},
-      "short": "Plants slow movement or grow richly."
+      "short": "Растения замедляют движение или обильно растут."
     },
     "casting": {
       "value": null,
@@ -169,7 +169,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093185031,
     "modifiedTime": 1723156395542,

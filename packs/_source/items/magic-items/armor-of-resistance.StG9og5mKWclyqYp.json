@@ -1,9 +1,9 @@
 {
   "type": "feature",
-  "name": "Armor of Resistance",
+  "name": "Броня сопротивления",
   "system": {
     "description": {
-      "value": "<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.jhuEeuKgkLytITZz inline]</p><section class=\"secret\" id=\"secret-UtZfHoem597hb4n5\"><p><strong>Foundry Note</strong></p><p><em>Armor (Light, Medium, or Heavy), Rare, 5,000 gp + armor base cost (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.jhuEeuKgkLytITZz inline]</p><section class=\"secret\" id=\"secret-UtZfHoem597hb4n5\"><p><strong>Foundry Note</strong></p><p><em>Armor (Light, Medium, or Heavy), Rare, 5,000 gp + armor base cost (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
       "source": {}
     },
     "activities": {},
@@ -41,7 +41,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Armor of Acid Resistance",
+      "name": "Броня кислотостойкости",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -106,7 +106,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to acid damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону кислот.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -116,7 +116,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726797932525,
         "modifiedTime": 1756334713241,
@@ -127,8 +127,8 @@
     },
     {
       "type": "base",
-      "name": "Acid Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Кислотостойкость",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -152,7 +152,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to acid damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону кислот.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -162,7 +162,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798025065,
         "modifiedTime": 1756339371759,
@@ -173,8 +173,8 @@
     },
     {
       "type": "base",
-      "name": "Cold Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Сопротивление холоду",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -197,7 +197,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to cold damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от холода.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -207,7 +207,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798072978,
         "modifiedTime": 1756339370469,
@@ -219,8 +219,8 @@
     },
     {
       "type": "base",
-      "name": "Fire Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Огнестойкость",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -243,7 +243,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to fire damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление урону от огня.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -253,7 +253,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798074589,
         "modifiedTime": 1756339369185,
@@ -265,8 +265,8 @@
     },
     {
       "type": "base",
-      "name": "Force Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Силовое сопротивление",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -289,7 +289,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to force damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление силовому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -299,7 +299,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798075369,
         "modifiedTime": 1756339367338,
@@ -311,8 +311,8 @@
     },
     {
       "type": "base",
-      "name": "Lightning Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Сопротивление молнии",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -335,7 +335,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to lightning damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от застежки.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -345,7 +345,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798076607,
         "modifiedTime": 1756339366256,
@@ -357,8 +357,8 @@
     },
     {
       "type": "base",
-      "name": "Necrotic Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Некротическая устойчивость",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -381,7 +381,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to necrotic damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление некротическому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -391,7 +391,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798077396,
         "modifiedTime": 1756339364901,
@@ -403,8 +403,8 @@
     },
     {
       "type": "base",
-      "name": "Poison Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Сопротивление яду",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -427,7 +427,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to poison damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону ядом.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -437,7 +437,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798078149,
         "modifiedTime": 1756339363681,
@@ -449,8 +449,8 @@
     },
     {
       "type": "base",
-      "name": "Psychic Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Психическое сопротивление",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -473,7 +473,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to psychic damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к психическому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -483,7 +483,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798078893,
         "modifiedTime": 1756339362503,
@@ -495,8 +495,8 @@
     },
     {
       "type": "base",
-      "name": "Radiant Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Лучезарное сопротивление",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -519,7 +519,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to radiant damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление урону от излучений.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -529,7 +529,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798079614,
         "modifiedTime": 1756339360649,
@@ -541,8 +541,8 @@
     },
     {
       "type": "base",
-      "name": "Thunder Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Громовое сопротивление",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -565,7 +565,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to thunder damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от грома.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -575,7 +575,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1726798080507,
         "modifiedTime": 1756339359195,
@@ -587,8 +587,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Cold Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сопротивления холоду",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -657,7 +657,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to cold damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от холода.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -668,7 +668,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334583554,
         "modifiedTime": 1756334706637,
@@ -679,8 +679,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Fire Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня огнестойкости",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -749,7 +749,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to fire damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление урону от огня.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -760,7 +760,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334585304,
         "modifiedTime": 1756334696711,
@@ -771,8 +771,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Force Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сопротивления силе",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -841,7 +841,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to force damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление силовому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -852,7 +852,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334586466,
         "modifiedTime": 1756334730951,
@@ -863,8 +863,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Lightning Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сопротивления молнии",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -933,7 +933,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to lightning damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от застежки.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -944,7 +944,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334587815,
         "modifiedTime": 1756334754910,
@@ -955,8 +955,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Necrotic Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Доспех некротической устойчивости",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1025,7 +1025,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to necrotic damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление некротическому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -1036,7 +1036,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334588681,
         "modifiedTime": 1756334792259,
@@ -1047,8 +1047,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Poison Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сопротивления яду",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1117,7 +1117,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to poison damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону ядом.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -1128,7 +1128,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334589541,
         "modifiedTime": 1756334815467,
@@ -1139,8 +1139,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Psychic Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня психического сопротивления",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1209,7 +1209,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to psychic damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к психическому урону.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -1220,7 +1220,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334590416,
         "modifiedTime": 1756334849869,
@@ -1231,8 +1231,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Radiant Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сияющего сопротивления",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1301,7 +1301,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to radiant damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть сопротивление урону от излучений.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -1312,7 +1312,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334822489,
         "modifiedTime": 1756334908610,
@@ -1323,8 +1323,8 @@
     },
     {
       "type": "enchantment",
-      "name": "Armor of Thunder Resistance",
-      "origin": "Compendium.black-flag.items.Item.StG9og5mKWclyqYp",
+      "name": "Броня сопротивления грому",
+      "origin": "Compendium.black-flag-ru.items.Item.StG9og5mKWclyqYp",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -1393,7 +1393,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to thunder damage while you wear this armor.</p>",
+      "description": "<p>Пока вы носите эту броню, у вас есть устойчивость к урону от грома.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -1404,7 +1404,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756334827485,
         "modifiedTime": 1756334931062,
@@ -1440,7 +1440,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1726787840054,
     "modifiedTime": 1756334931138,

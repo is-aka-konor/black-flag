@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Continual Flame",
+  "name": "Постоянное пламя",
   "type": "spell",
   "_id": "mc6kv1vpgC79Xli4",
   "img": "icons/magic/fire/flame-burning-fence.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>A flame equivalent in brightness to a torch springs from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. The flame can be covered or hidden but not smothered or quenched.</p>",
       "source": {},
-      "short": "Heatless, long-lasting flame."
+      "short": "Нежаркое, продолжительное пламя."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": 50,
-        "description": "ruby dust worth 50 gp, which the spell consumes",
+        "description": "рубиновая пыль стоимостью 50 зм, которую расходует заклинание",
         "denomination": "gp",
         "consumed": true
       }
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706932744043,

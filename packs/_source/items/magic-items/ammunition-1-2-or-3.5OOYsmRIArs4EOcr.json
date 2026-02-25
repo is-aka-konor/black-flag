@@ -1,9 +1,9 @@
 {
   "type": "feature",
-  "name": "Ammunition, +1, +2, or +3",
+  "name": "Боеприпасы: +1, +2 или +3.",
   "system": {
     "description": {
-      "value": "<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.8dnaDCJMMoaYpYkr inline]</p><section class=\"secret\" id=\"secret-9nHbWnSKvNAG8S2y\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Ammunition), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.8dnaDCJMMoaYpYkr inline]</p><section class=\"secret\" id=\"secret-9nHbWnSKvNAG8S2y\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Ammunition), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
       "source": {}
     },
     "activities": {},
@@ -41,7 +41,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Ammunition, +1",
+      "name": "Боеприпасы, +1",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -100,7 +100,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+      "description": "<p>Вы добавили бонус +1 к броскам удара и урону, нанесенным с помощью этого магического боеприпаса. После получения цели боеприпас становится немагическим.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -110,7 +110,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.046",
         "createdTime": 1726797094176,
         "modifiedTime": 1726798509387,
@@ -121,7 +121,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Ammunition, +2",
+      "name": "Боеприпасы, +2",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -179,7 +179,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+      "description": "<p>Вы изменили бонус +2 к броскам удара и урону, выполненным с помощью этого магического боеприпаса. После получения цели боеприпас становится немагическим.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -189,7 +189,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.046",
         "createdTime": 1726797673263,
         "modifiedTime": 1726798516365,
@@ -201,7 +201,7 @@
     },
     {
       "type": "enchantment",
-      "name": "Ammunition, +3",
+      "name": "Боеприпасы, +3",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -259,7 +259,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+      "description": "<p>Вы добавили бонус +3 к броскам удара и урону, выполненным с помощью этого магического боеприпаса. После получения цели боеприпас становится немагическим.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -269,7 +269,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.046",
         "createdTime": 1726797684476,
         "modifiedTime": 1726798523017,
@@ -289,7 +289,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "createdTime": 1726787772205,
     "modifiedTime": 1737398965886,

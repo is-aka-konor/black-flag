@@ -1,6 +1,6 @@
 {
   "folder": "yF4n6L4nZDOTaVMr",
-  "name": "Preemptive Strike",
+  "name": "Превентивный удар",
   "type": "feature",
   "_id": "fswfigCSXH0vfRAm",
   "img": "icons/skills/melee/strike-sword-dagger-runes-gold.webp",
@@ -19,7 +19,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.ARqJyLmMnVQDbw0S",
+              "target": "Compendium.black-flag-ru.classes.Item.ARqJyLmMnVQDbw0S",
               "value": "1"
             }
           ],
@@ -71,7 +71,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715837615,

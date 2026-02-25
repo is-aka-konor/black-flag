@@ -1,9 +1,9 @@
 {
   "folder": "x3Bmb2gdlf2FaLyV",
-  "name": "Outcast Motivation",
+  "name": "Мотивация изгоя",
   "_id": "wQLmkpK6UmvFKX6R",
   "img": "icons/environment/people/group.webp",
-  "description": "<p>Outcasts like you are familiar with the hardships adventurers face on their travels, but think about how your own history of such hardship shapes your relationships and reasons to travel to unfamiliar places. When you begin your adventures, consider why you chose—or were forced—to exchange a life of familiarity and criminal enterprise for a life of exploration and bravura.</p>",
+  "description": "<p>Изгои, подобные вам, знакомы с трудностями, с которыми сталкиваются искатели приключений в своих путешествиях, но подумайте о том, как ваша собственная история таких трудностей формирует ваши отношения и причины путешествовать в незнакомые места.Когда вы начнете свои приключения, подумайте, почему вы решили — или были вынуждены — сменить жизнь, полную знакомств и преступного бизнеса, на жизнь, полную исследований и бравуры.</p>",
   "results": [
     {
       "type": "text",
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to stay ahead of the law, I hope.",
+      "description": "Я надеюсь, что приключения — это способ обойти закон.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.a6YLUKpcMz3bfu3k"
     },
@@ -53,7 +53,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is how I’ll finally earn (or seize) my fortune.",
+      "description": "Приключения — это то, как я наконец заработаю (или завладею) своим состоянием.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.15k3EjUz9BpGbYdf"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to amass power and influence before my inevitable return home.",
+      "description": "Приключения — это способ накопить власть и влияние перед неизбежным возвращением домой.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.r3qhRMUyq3uK3OiB"
     },
@@ -105,7 +105,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is how I’ll make amends for a life of wrongdoing.",
+      "description": "Приключения — это то, как я исправлю свою жизнь, полную проступков.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.de0egjBJFJhdTuVB"
     },
@@ -131,7 +131,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to master my skills without fear of ending up in a cell.",
+      "description": "Приключения — это способ отточить свои навыки, не опасаясь оказаться в камере.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.BjEe2AVTkcT8F9oN"
     },
@@ -157,7 +157,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to make a name for myself that will be feared and respected.",
+      "description": "Приключения – это способ сделать себе имя, которого будут бояться и уважать.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.fXdri2NRl8Lrxa9B"
     },
@@ -183,7 +183,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is how I’ll track down the person who ruined my life.",
+      "description": "Приключение — это способ найти человека, который разрушил мою жизнь.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.wlYHfVFaEoFqgmNN"
     },
@@ -209,7 +209,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Adventuring is a way to find a crew I can trust.",
+      "description": "Приключения — это способ найти команду, которой я могу доверять.",
       "name": "",
       "_key": "!tables.results!wQLmkpK6UmvFKX6R.sOqj55GaahDN98Qz"
     }
@@ -222,7 +222,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1706650240586,

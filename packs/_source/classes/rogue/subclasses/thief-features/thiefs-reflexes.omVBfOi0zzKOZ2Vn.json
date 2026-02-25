@@ -1,6 +1,6 @@
 {
   "folder": "OGEfr5Be5pXnTgIL",
-  "name": "Thief's Reflexes",
+  "name": "Рефлексы вора",
   "type": "feature",
   "_id": "omVBfOi0zzKOZ2Vn",
   "img": "icons/skills/movement/feet-winged-boots-brown.webp",
@@ -40,7 +40,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715740931037,

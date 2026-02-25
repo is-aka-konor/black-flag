@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Dispel Magic",
+  "name": "Рассеять магию",
   "type": "spell",
   "_id": "t61I6zrmEDPdOLfw",
   "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd circle or lower on the target ends. For each spell of 4th circle or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a successful check, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, you automatically end the effects of a spell on the target if the spell’s circle is equal to or less than the circle of the spell slot you used.</p>",
       "source": {},
-      "short": "Break an ongoing spell."
+      "short": "Прервите действующее заклинание."
     },
     "type": {
       "value": "standard"
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "coreVersion": "13.347",
     "createdTime": 1706933206164,

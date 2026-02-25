@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Patch Effects",
+  "name": "Эффекты патчей",
   "img": "icons/equipment/back/cloak-simple-tan.webp",
   "description": "",
   "results": [
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Bag of 100 gp",
+      "description": "Сумка 100 зм",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.CIdkuQkZk1EcbUTu"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp",
+      "description": "Серебряный сундук (длина 1 фут, ширина и глубина 6 дюймов) стоит 500 зм.",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.Mnw0yEFBDPiVcU1D"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself",
+      "description": "Железная дверь (шириной до 10 футов и высотой до 10 футов, зарешеченная с одной стороны по вашему выбору), которую вы можете разместить в проеме, до которого можете добраться; он соответствует проему, крепится и навешивается на петли",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.rPTDGn4LZOUbrUu6"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Ten gems worth 100 gp each",
+      "description": "Десять драгоценных камней стоимостью 100 зм каждый",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.jyVCUbW2rScG7EqB"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Wooden ladder (24 feet long)",
+      "description": "Деревянная лестница (длиной 24 фута)",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.KZNHwMijg1tpJf5n"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "A riding horse with saddle bags",
+      "description": "Верховая лошадь с седельными сумками",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.K3NimYFH0inXE4Be"
     },
@@ -182,7 +182,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you",
+      "description": "Яма (куб со стороной 10 футов), которую вы можете разместить на земле в пределах 10 футов от себя.",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.hgbrumlV5wSNX3gZ"
     },
@@ -208,7 +208,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Four potions of healing",
+      "description": "Четыре зелья исцеления",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.Bh0EgCo1R7vWmTVJ"
     },
@@ -234,7 +234,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Rowboat (12 feet long)",
+      "description": "Весельная лодка (длиной 12 футов)",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.L5WR2wrNsjDGYNDb"
     },
@@ -260,7 +260,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Spell scroll containing one spell of 1st to 3rd circle",
+      "description": "Свиток заклинаний, содержащий одно заклинание 1-3 круга.",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.w9FMCsTQ7HXqWuzE"
     },
@@ -286,7 +286,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Two mastiffs",
+      "description": "Два мастифа",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.F447R4tZ8im9LhYD"
     },
@@ -312,7 +312,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach",
+      "description": "Окно (2 на 4 фута, глубиной до 2 футов), которое можно разместить на вертикальной поверхности, до которой можно дотянуться.",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.CxxxiO4mYcoMGHv8"
     },
@@ -338,7 +338,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Portable ram",
+      "description": "Портативная оперативная память",
       "name": "",
       "_key": "!tables.results!GGoOK9JADK9ad2QM.CcyCQgtmVazv6y3v"
     }
@@ -352,7 +352,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1728426276343,
     "modifiedTime": 1729534577938,

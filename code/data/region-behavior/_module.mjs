@@ -3,9 +3,9 @@ import { default as DifficultTerrainRegionBehaviorType } from "./difficult-terra
 export { DifficultTerrainRegionBehaviorType };
 
 export const config = {
-	"black-flag.difficultTerrain": DifficultTerrainRegionBehaviorType
+	"black-flag-ru.difficultTerrain": DifficultTerrainRegionBehaviorType
 };
 
 export const icons = {
-	"black-flag.difficultTerrain": "fa-solid fa-hill-rockslide"
+	"black-flag-ru.difficultTerrain": "fa-solid fa-hill-rockslide"
 };

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Bracers of Defense",
+  "name": "Наручи защиты",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/wrist/bracer-straight-steel-black.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.DC2j960lF9ydvSkc",
+      "origin": "Compendium.black-flag-ru.items.Item.DC2j960lF9ydvSkc",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bracers of Defense",
+      "name": "Наручи защиты",
       "img": "icons/equipment/wrist/bracer-straight-steel-black.webp",
       "_id": "sXSrZe50FwbJ8p4q",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You gain a +2 bonus to AC if you are wearing no armor and using no shield.</p>",
+      "description": "<p>Вы продолжаете бонус +2 к AC, если вы не носите доспехи и не носите щит.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725902481064,
         "modifiedTime": 1756335128516,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983525935,
     "modifiedTime": 1728426556234,

@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Patron’s Favor",
+  "name": "Благосклонность покровителя",
   "type": "feature",
   "_id": "14TEXqlHAx4o57Rr",
   "img": "icons/creatures/magical/construct-golem-stone-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376280847,

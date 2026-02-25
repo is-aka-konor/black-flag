@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Gem of Seeing",
+  "name": "Жемчужина зрения",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -92,7 +92,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Activate Gem",
+        "name": "Активировать драгоценный камень",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -131,9 +131,9 @@
   "img": "icons/commodities/gems/gem-rough-rose-teal.webp",
   "effects": [
     {
-      "name": "Gem Truesight",
+      "name": "Драгоценный камень истинного видения",
       "img": "icons/commodities/gems/gem-rough-rose-teal.webp",
-      "origin": "Compendium.black-flag.items.Item.IiYsZwPIJzW2FDZx",
+      "origin": "Compendium.black-flag-ru.items.Item.IiYsZwPIJzW2FDZx",
       "transfer": false,
       "_id": "BOXhWC5QAObil61Z",
       "type": "base",
@@ -167,7 +167,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728594249194,
         "modifiedTime": 1756334016891,
@@ -186,7 +186,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724985175832,
     "modifiedTime": 1756334010161,

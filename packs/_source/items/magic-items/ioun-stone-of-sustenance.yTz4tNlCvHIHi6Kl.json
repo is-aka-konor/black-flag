@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Sustenance",
+  "name": "Юнский камень жизнеобеспечения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You don’t need to eat or drink while this clear spindle orbits your head.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>You don’t need to eat or drink while this clear spindle orbits your head.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1724986295287,
     "modifiedTime": 1729031518467,

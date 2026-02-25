@@ -281,7 +281,7 @@ async function handlePostRequest(event, target) {
 	const MessageClass = getDocumentClass("ChatMessage");
 	const chatData = {
 		content: await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/chat/request-card.hbs",
+			"systems/black-flag-ru/templates/chat/request-card.hbs",
 			{ buttons }
 		),
 		flavor: game.i18n.localize("BF.Enricher.Request.Title"),

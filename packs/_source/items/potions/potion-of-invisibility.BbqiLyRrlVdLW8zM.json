@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Invisibility",
+  "name": "Зелье невидимости",
   "system": {
     "type": {
       "category": "potion"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you become &amp;Reference[invisible] for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell. This potion’s container looks empty but feels as though it holds liquid.</p>",
+      "value": "<p>When you drink this potion, you become &Reference[invisible] for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell. This potion’s container looks empty but feels as though it holds liquid.</p>",
       "source": {
         "fallback": ""
       }
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "bj57h3VlUmqpfqg7"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
   "effects": [
     {
-      "name": "Invisibility",
+      "name": "Невидимость",
       "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
-      "origin": "Compendium.black-flag.items.Item.BbqiLyRrlVdLW8zM",
+      "origin": "Compendium.black-flag-ru.items.Item.BbqiLyRrlVdLW8zM",
       "transfer": false,
       "_id": "1HKdaE9q0ojblriu",
       "type": "base",
@@ -142,7 +142,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540560303,
         "modifiedTime": 1729540568079,
@@ -161,7 +161,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073684118,
     "modifiedTime": 1729540570341,

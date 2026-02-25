@@ -76,7 +76,7 @@ export default class BaseActorSheet extends DocumentSheetMixin(foundry.appv1.she
 
 	/** @inheritDoc */
 	get template() {
-		return `systems/black-flag/templates/actor/${this.actor.type}.hbs`;
+		return `systems/black-flag-ru/templates/actor/${this.actor.type}.hbs`;
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */

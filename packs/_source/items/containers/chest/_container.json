@@ -1,6 +1,6 @@
 {
   "folder": "UmAJtvm6pFXVRXGe",
-  "name": "Chest",
+  "name": "Грудь",
   "type": "container",
   "_id": "eZATacgdlCEkQw9Z",
   "img": "icons/containers/chest/chest-simple-steel-brown.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707362577977,

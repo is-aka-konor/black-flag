@@ -1,6 +1,6 @@
 {
   "folder": "cfyaN12HT6rVwTgv",
-  "name": "Hunter",
+  "name": "Охотник",
   "type": "subclass",
   "_id": "0yvJZ37nsbbuLLkG",
   "img": "icons/environment/traps/spike-skull-white-brown.webp",
@@ -16,13 +16,13 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.CwzyrsECSRXN5dYS"
+              "uuid": "Compendium.black-flag-ru.classes.Item.CwzyrsECSRXN5dYS"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.BpnFuy1ceH8U6ZgB"
+              "uuid": "Compendium.black-flag-ru.classes.Item.BpnFuy1ceH8U6ZgB"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.M3ppXxDvemEzCbm8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.M3ppXxDvemEzCbm8"
             }
           ]
         },
@@ -38,7 +38,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.tgPYAORtOXRt73Z8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.tgPYAORtOXRt73Z8"
             }
           ]
         },
@@ -54,7 +54,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Ct9WSgSXhlJkSEFV"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Ct9WSgSXhlJkSEFV"
             }
           ]
         },
@@ -70,7 +70,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Ba0wF6dc76mDMZri"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Ba0wF6dc76mDMZri"
             }
           ]
         },
@@ -80,8 +80,8 @@
     "description": {
       "value": "<p>Rangers who heed the calling of the Hunter are no mere trappers or furriers. They are the last line of defense between the natural and the supernatural world. Hunters seek, stalk, and slay monstrous predators like outsiders, fiends, and undead who devastate populations with their malign magic.</p>",
       "source": {},
-      "short": "Rangers who heed the calling of the Hunter are no mere trappers or furriers. They are the last line of defense between the natural and the supernatural world. Hunters seek, stalk, and slay monstrous predators like outsiders, fiends, and undead who devastate populations with their malign magic.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.aCRXWxCiISk4TzI4"
+      "short": "Рейнджеры, прислушивающиеся к призыву Охотника, не просто звероловы или меховщики. Они являются последней линией защиты между естественным и сверхъестественным миром. Охотники ищут, выслеживают и убивают чудовищных хищников, таких как чужаки, изверги и нежить, которые опустошают население своей пагубной магией.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.aCRXWxCiISk4TzI4"
     },
     "identifier": {
       "value": "hunter",
@@ -95,7 +95,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718422156524,

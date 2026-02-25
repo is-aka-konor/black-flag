@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Mess Kit",
+  "name": "Беспорядок",
   "type": "gear",
   "_id": "grk6tvBlUUfrlMkP",
   "img": "icons/containers/kitchenware/pot-meal.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363467892,

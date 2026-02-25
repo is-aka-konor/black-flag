@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Blur",
+  "name": "Размытие",
   "type": "spell",
   "_id": "ZYLMA2g3OIC3ecTz",
   "img": "icons/magic/movement/abstract-ribbons-red-orange.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with keensense, or can see through illusions, as with truesight.</p>",
       "source": {},
-      "short": "Blur self to give disadvantage."
+      "short": "Размытие себя, чтобы создать неудобство."
     },
     "type": {
       "value": "standard"
@@ -94,9 +94,9 @@
   },
   "effects": [
     {
-      "name": "Blur",
+      "name": "Размытие",
       "img": "icons/magic/movement/abstract-ribbons-red-orange.webp",
-      "origin": "Compendium.black-flag.spells.Item.ZYLMA2g3OIC3ecTz",
+      "origin": "Compendium.black-flag-ru.spells.Item.ZYLMA2g3OIC3ecTz",
       "transfer": false,
       "_id": "qvWr0KqoRbt3k9mM",
       "type": "base",
@@ -112,7 +112,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>our body becomes blurred, shifting and wavering to all who can see you. For the duration, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with keensense, or can see through illusions, as with truesight.</p>",
+      "description": "<p>наше тело становится размытым, смещается и колеблется перед всеми, кто может вас видеть. На это время существа совершают броски атаки против вас с помехой. Атакующий невосприимчив к этому эффекту, если он не полагается на зрение, как в случае с острым чутьем, или может видеть сквозь иллюзии, как в случае с истинным зрением.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -121,7 +121,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723697383155,
         "modifiedTime": 1723697392463,
@@ -137,7 +137,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932469352,

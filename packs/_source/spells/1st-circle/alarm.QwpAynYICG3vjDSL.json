@@ -1,12 +1,12 @@
 {
-  "name": "Alarm",
+  "name": "Тревога",
   "type": "spell",
   "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
   "system": {
     "description": {
       "value": "<p>You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you when a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.</p><p>A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.</p><p>An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.</p><p>If you perform this ritual a second time before the duration of the first <em>alarm</em> spell has ended, the first alarm immediately ends.</p>",
       "source": {},
-      "short": "Set an alarm for intruders."
+      "short": "Установите сигнализацию для злоумышленников."
     },
     "type": {
       "value": "standard"
@@ -32,7 +32,7 @@
       ],
       "material": {
         "cost": 10,
-        "description": "silver hand bell worth at least 10 gp",
+        "description": "серебряный колокольчик стоимостью не менее 10 зм",
         "denomination": "gp",
         "consumed": false
       }
@@ -62,7 +62,7 @@
     "activities": {
       "BACFXmgFGxTR6Fum": {
         "type": "utility",
-        "description": "<p>An alarm alerts you whenever a Tiny or larger creature touches or enters the warded area, unless the creature is designated by you when you cast the spell.</p><p>A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.</p><p>An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.</p>",
+        "description": "<p>Сигнал тревоги предупреждает вас всякий раз, когда Маленькое или более крупное существо касается охраняемой области или входит в нее, если только это существо не указано вами при произнесении заклинания.</p><p>Ментальная тревога предупреждает вас звуковым сигналом в вашем уме, если вы находитесь в пределах 1 мили от защищенной области.Этот сигнал разбудит вас, если вы спите.</p><p>Звуковой сигнал тревоги издает звук колокольчика в течение 10 секунд в радиусе 60 футов.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -82,7 +82,7 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Set Alarm",
+        "name": "Установить будильник",
         "img": "",
         "_id": "BACFXmgFGxTR6Fum"
       }
@@ -105,7 +105,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1699211110623,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Helm of Telepathy",
+  "name": "Шлем телепатии",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.</p><p>While focusing on a creature with <em>detect thoughts</em>, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.iw5BfQdWrDssHFWZ]{suggestion}</em> spell (save DC 13) from the helm on that creature. You don’t need to concentrate to maintain <em>suggestion</em> for the duration of the spell, but it ends if the <em>detect thoughts</em> spell ends. Once used, the <em>suggestion</em> property can’t be used again until the next dawn.</p>",
+      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.</p><p>While focusing on a creature with <em>detect thoughts</em>, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ]{suggestion}</em> spell (save DC 13) from the helm on that creature. You don’t need to concentrate to maintain <em>suggestion</em> for the duration of the spell, but it ends if the <em>detect thoughts</em> spell ends. Once used, the <em>suggestion</em> property can’t be used again until the next dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -26,7 +26,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.q3ggx5aH69iqrcL3",
+            "uuid": "Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3",
             "challenge": {
               "attack": null,
               "save": 13,
@@ -88,7 +88,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.iw5BfQdWrDssHFWZ",
+            "uuid": "Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ",
             "challenge": {
               "attack": null,
               "save": 13,
@@ -191,7 +191,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1724985789403,
     "modifiedTime": 1735681985008,

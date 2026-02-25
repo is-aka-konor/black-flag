@@ -16,7 +16,7 @@ export default class KeyAbilityAdvancement extends Advancement {
 					configuration: KeyAbilityConfigurationData
 				},
 				order: 15,
-				icon: "systems/black-flag/artwork/advancement/key-ability.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/key-ability.svg",
 				title: "BF.Advancement.KeyAbility.Title",
 				hint: "BF.Advancement.KeyAbility.Hint",
 				singleton: true

@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Spiritual Weapon",
+  "name": "Духовное оружие",
   "type": "spell",
   "_id": "gw9njoo5Aolp6uMz",
   "img": "icons/weapons/hammers/hammer-double-glowing-yellow.webp",
@@ -74,7 +74,7 @@
     "description": {
       "value": "<p>You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. The weapon can take any form you choose. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to [[/damage]]{1d8 + your spellcasting ability modifier}.</p><p>As a bonus action on each of your subsequent turns, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by [[/damage 1d8 force]]{1d8} for every two slots above 2nd.</p>",
       "source": {},
-      "short": "Spectral weapon deals force."
+      "short": "Спектральное оружие наносит силу."
     },
     "type": {
       "value": "standard"
@@ -133,7 +133,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935708646,

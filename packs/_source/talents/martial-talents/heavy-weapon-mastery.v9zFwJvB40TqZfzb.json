@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Heavy Weapon Mastery",
+  "name": "Владение тяжелым оружием",
   "type": "talent",
   "_id": "v9zFwJvB40TqZfzb",
   "img": "icons/skills/melee/strike-hammer-destructive-orange.webp",
@@ -9,7 +9,7 @@
       "8BPqxrJOiHbCBwj5": {
         "type": "utility",
         "_id": "8BPqxrJOiHbCBwj5",
-        "description": "<p>You can give yourself one of the following benefits:</p><ul><li>The next melee attack you make with a Heavy weapon ignores resistance to your weapon’s damage.</li><li>Your next melee attack with a Heavy weapon has a −5 penalty to the attack roll. If the attack hits, it deals extra damage equal to half your STR score.</li></ul>",
+        "description": "<p>Вы можете дать одно из следующих преимуществ:</p><ul><li>Следующая рукопашная атака, которую вы вызываете, блокирует урон сопротивления вашего оружия.</li><li>Ваша следующая рукопашная атака имеет штраф -5 к бросковому удару. STR._</li></ul>",
         "system": {},
         "activation": {
           "value": null,
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Heavy Strike",
+        "name": "Тяжелый удар",
         "img": ""
       }
     },
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1716347689743,

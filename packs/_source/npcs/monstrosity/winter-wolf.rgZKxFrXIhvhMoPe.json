@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Winter Wolf",
+  "name": "Зимний волк",
   "type": "npc",
   "_id": "rgZKxFrXIhvhMoPe",
-  "img": "systems/black-flag/artwork/tokens/winter-wolf.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/winter-wolf.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Winter Wolf",
+    "name": "Зимний волк",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/winter-wolf.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/winter-wolf.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "XOyEGg5BJbuXvjkQ",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -302,7 +302,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -316,7 +316,7 @@
       "_key": "!actors.items!rgZKxFrXIhvhMoPe.XOyEGg5BJbuXvjkQ"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "QOwjolgHKsM7NYbB",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -357,7 +357,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -368,7 +368,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -393,7 +393,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -419,7 +419,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -433,7 +433,7 @@
       "_key": "!actors.items!rgZKxFrXIhvhMoPe.QOwjolgHKsM7NYbB"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "kiJWJTTKmG9anJja",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -485,7 +485,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.EjEMkspf8jkoqGTP",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -537,7 +537,7 @@
           "value": null
         }
       },
-      "name": "Snow Camouflage",
+      "name": "Снежный камуфляж",
       "type": "feature",
       "_id": "bjP4VLXs5QnFJ7Bx",
       "img": "icons/magic/water/ice-snowman.webp",
@@ -557,7 +557,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -567,7 +567,7 @@
       "_key": "!actors.items!rgZKxFrXIhvhMoPe.bjP4VLXs5QnFJ7Bx"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "W5Mm1ycPKTQt9q5C",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -671,7 +671,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -822,7 +822,7 @@
           "value": null
         }
       },
-      "name": "Cold Breath",
+      "name": "Холодное дыхание",
       "type": "feature",
       "_id": "fuB7I8Lz5SVhLQ1B",
       "img": "icons/magic/water/projectile-ice-chunk-blue.webp",
@@ -838,7 +838,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.p9BUq9B8eLU1ZCNT",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -922,14 +922,14 @@
               "min": "",
               "max": ""
             },
-            "name": "Freezing Nose",
+            "name": "Замерзающий нос",
             "img": "",
             "sort": 0
           },
           "ayfnyn4BfIBc0IgL": {
             "type": "utility",
             "_id": "ayfnyn4BfIBc0IgL",
-            "description": "<p>The target has disadvantage on CON saves and is vulnerable to the first instance of cold damage it takes each turn.</p>",
+            "description": "<p>Цель имеет помехи на спасброски ВЫН и уязвима к первому урону холодом, который она получает при каждом ходе.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -983,13 +983,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Body",
+            "name": "Тело",
             "img": ""
           },
           "998qlqV7w9RLLUmh": {
             "type": "utility",
             "_id": "998qlqV7w9RLLUmh",
-            "description": "<p>The target can’t breathe or speak.</p>",
+            "description": "<p>Цель не может дышать и говорить.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1043,13 +1043,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Head",
+            "name": "Глава",
             "img": ""
           },
           "grW3Vd56cswojZvc": {
             "type": "utility",
             "_id": "grW3Vd56cswojZvc",
-            "description": "<p>The target’s speed is reduced to 0, and it has disadvantage on DEX checks and DEX saves.</p>",
+            "description": "<p>Скорость цели падает до 0, и у нее имеются помехи на проверку DEX и спасброски DEX.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1103,13 +1103,13 @@
               "min": "",
               "max": ""
             },
-            "name": "Lower Limb",
+            "name": "Нижняя конечность",
             "img": ""
           },
           "wlZmBw43jTLo9hIX": {
             "type": "utility",
             "_id": "wlZmBw43jTLo9hIX",
-            "description": "<p>The target has disadvantage on weapon attack rolls made with that limb.</p>",
+            "description": "__P0___Цель имеет помехи при броске оружия, выполняя эту конечность.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1163,7 +1163,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Upper Limb",
+            "name": "Верхняя конечность",
             "img": ""
           }
         },
@@ -1176,7 +1176,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The winter wolf touches its nose to a creature it can see within 5 feet of it. The target must succeed on a [[/save format=long]] or one of the following parts of its body (the winter wolf’s choice) is &amp;Reference[petrified]{petrified} in ice for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. If the target takes fire damage, it has advantage on the next save it makes to end the effect.</p><ul><li><p>@Embed[.Activity.ayfnyn4BfIBc0IgL activate inline]{Body}</p></li><li><p>@Embed[.Activity.998qlqV7w9RLLUmh activate inline]{Head}</p></li><li><p>@Embed[.Activity.grW3Vd56cswojZvc activate inline]{Lower Limb}</p></li><li><p>@Embed[.Activity.wlZmBw43jTLo9hIX activate inline]{Upper Limb}</p></li></ul>",
+          "value": "<p>The winter wolf touches its nose to a creature it can see within 5 feet of it. The target must succeed on a [[/save format=long]] or one of the following parts of its body (the winter wolf’s choice) is &Reference[petrified]{petrified} in ice for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. If the target takes fire damage, it has advantage on the next save it makes to end the effect.</p><ul><li><p>@Embed[.Activity.ayfnyn4BfIBc0IgL activate inline]{Body}</p></li><li><p>@Embed[.Activity.998qlqV7w9RLLUmh activate inline]{Head}</p></li><li><p>@Embed[.Activity.grW3Vd56cswojZvc activate inline]{Lower Limb}</p></li><li><p>@Embed[.Activity.wlZmBw43jTLo9hIX activate inline]{Upper Limb}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1202,7 +1202,7 @@
           "value": null
         }
       },
-      "name": "Freezing Nose",
+      "name": "Замерзающий нос",
       "type": "feature",
       "_id": "hMdpCFRWrFXaOlZb",
       "img": "icons/magic/water/barrier-ice-crystal-wall-faceted-blue.webp",
@@ -1222,7 +1222,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1232,7 +1232,7 @@
       "_key": "!actors.items!rgZKxFrXIhvhMoPe.hMdpCFRWrFXaOlZb"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "5EPCbc0JZYtV2uF1",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1297,7 +1297,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1400,7 +1400,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1418,7 +1418,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1482,7 +1482,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935239,
         "modifiedTime": 1756760249397,
@@ -1500,7 +1500,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

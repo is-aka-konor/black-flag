@@ -1,6 +1,6 @@
 {
   "folder": "PvR5bshdgWxMUS7N",
-  "name": "Alchemist Tools",
+  "name": "Алхимические инструменты",
   "type": "tool",
   "_id": "klz44oS9m4omG4eG",
   "img": "icons/tools/laboratory/vials-blue-pink.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1703971758468,

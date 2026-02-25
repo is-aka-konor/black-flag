@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Roc",
+  "name": "Рок",
   "type": "npc",
   "_id": "zXP6iOGQpuxcyqp1",
-  "img": "systems/black-flag/artwork/tokens/roc.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/roc.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -152,7 +152,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Roc",
+    "name": "Рок",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -160,7 +160,7 @@
     "width": 4,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/roc.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/roc.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -247,7 +247,7 @@
   },
   "items": [
     {
-      "name": "Heightened Sight",
+      "name": "Обостренное зрение",
       "type": "feature",
       "_id": "mOnUjwgxbI7DcVWV",
       "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
@@ -299,7 +299,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.C8UpUQHLWNlBu1FU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -313,7 +313,7 @@
       "_key": "!actors.items!zXP6iOGQpuxcyqp1.mOnUjwgxbI7DcVWV"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "xsBrjgExtEFOGxM8",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -354,7 +354,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -365,7 +365,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -390,7 +390,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -416,7 +416,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -496,8 +496,8 @@
               "min": "",
               "max": ""
             },
-            "name": "Initial CON Save",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "name": "Начальное сохранение CON",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -561,7 +561,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Check",
+            "name": "Проверка СПО",
             "img": ""
           }
         },
@@ -600,7 +600,7 @@
           "value": null
         }
       },
-      "name": "Seabird",
+      "name": "Морская птица",
       "type": "feature",
       "_id": "u6jqoz8VrWMpDh9k",
       "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
@@ -620,7 +620,7 @@
         "compendiumSource": "Actor.dGRGzMVinh2wLa8v.Item.aW91LIjynEsTTwH8",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -630,7 +630,7 @@
       "_key": "!actors.items!zXP6iOGQpuxcyqp1.u6jqoz8VrWMpDh9k"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "iy52gustZFOBVM2U",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -695,7 +695,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roc makes one Beak attack and two Talon attacks. If both Talon attacks hit one Huge or Gargantuan creature, the target is &amp;Reference[grappled]{grappled} (escape DC 17). Until this grapple ends, the target is &amp;Reference[restrained]{restrained}, and the roc can’t use its Talons on another target.</p>",
+          "value": "<p>The roc makes one Beak attack and two Talon attacks. If both Talon attacks hit one Huge or Gargantuan creature, the target is &Reference[grappled]{grappled} (escape DC 17). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the roc can’t use its Talons on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -734,7 +734,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -817,7 +817,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -831,7 +831,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roc shrieks a territorial challenge at up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn. While frightened by this shriek, a creature must take the &amp;Reference[Dash] action on its turn and move away from the roc by the safest available route, unless there is nowhere to move.</p>",
+          "value": "<p>The roc shrieks a territorial challenge at up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. While frightened by this shriek, a creature must take the &Reference[Dash] action on its turn and move away from the roc by the safest available route, unless there is nowhere to move.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -857,7 +857,7 @@
           "value": null
         }
       },
-      "name": "Territorial Shriek",
+      "name": "Территориальный визг",
       "type": "feature",
       "_id": "gFUU5MlyIrMe8laH",
       "img": "icons/creatures/birds/corvid-call-sound-glowing.webp",
@@ -877,7 +877,7 @@
         "compendiumSource": "Actor.dGRGzMVinh2wLa8v.Item.0xSrCP35tzngBiTb",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -887,7 +887,7 @@
       "_key": "!actors.items!zXP6iOGQpuxcyqp1.gFUU5MlyIrMe8laH"
     },
     {
-      "name": "Beak",
+      "name": "Клюв",
       "type": "weapon",
       "_id": "CiF5vd7ABfyCuRJ0",
       "img": "icons/commodities/bones/beak-orange-green.webp",
@@ -937,7 +937,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1050,7 +1050,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936640,
         "modifiedTime": 1756760125956,
@@ -1137,7 +1137,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1156,7 +1156,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &amp;Reference[grappled]{grappled} (escape DC 17) if it is a Large or smaller creature. Until this grapple ends, the target is &amp;Reference[restrained]{restrained}, and the roc can’t use its Talons on another target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 17) if it is a Large or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}, and the roc can’t use its Talons on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1206,7 +1206,7 @@
         },
         "rarity": ""
       },
-      "name": "Talon",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "95Xd1RKXWDCbIGt4",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -1223,7 +1223,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936640,
         "modifiedTime": 1756760133742,
@@ -1241,7 +1241,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

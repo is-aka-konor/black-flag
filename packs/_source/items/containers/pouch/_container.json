@@ -1,6 +1,6 @@
 {
   "folder": "UmAJtvm6pFXVRXGe",
-  "name": "Pouch",
+  "name": "Мешочек",
   "type": "container",
   "_id": "SttZ2VQd3PLoBTnt",
   "img": "icons/containers/bags/pouch-leather-silver-grey.webp",
@@ -20,7 +20,7 @@
     },
     "properties": [],
     "description": {
-      "value": "<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a @UUID[Compendium.black-flag.items.Item.f32H3HCS3Gg19diW]{component pouch}.</p>",
+      "value": "<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a @UUID[Compendium.black-flag-ru.items.Item.f32H3HCS3Gg19diW]{component pouch}.</p>",
       "source": {}
     },
     "capacity": {
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.011",
     "coreVersion": "13.347",
     "createdTime": 1707362603493,

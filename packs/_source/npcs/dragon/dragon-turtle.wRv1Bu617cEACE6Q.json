@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Dragon Turtle",
+  "name": "Дракон Черепаха",
   "type": "npc",
   "_id": "wRv1Bu617cEACE6Q",
-  "img": "systems/black-flag/artwork/tokens/dragon-turtle.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-turtle.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dragon Turtle",
+    "name": "Дракон Черепаха",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 4,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-turtle.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-turtle.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -254,7 +254,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "EJrKlqfABeRhDDcP",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -308,7 +308,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -360,7 +360,7 @@
           "value": null
         }
       },
-      "name": "Siege Monster",
+      "name": "Осадный монстр",
       "type": "feature",
       "_id": "gNYaSHAtrvyksZO3",
       "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
@@ -380,7 +380,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -390,7 +390,7 @@
       "_key": "!actors.items!wRv1Bu617cEACE6Q.gNYaSHAtrvyksZO3"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "blYXO60i2GVficWg",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -494,7 +494,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -645,7 +645,7 @@
           "value": null
         }
       },
-      "name": "Steam Breath",
+      "name": "Паровое дыхание",
       "type": "feature",
       "_id": "fgLtm1ADD7TONhAz",
       "img": "icons/magic/air/wind-tornado-wall-blue.webp",
@@ -665,7 +665,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -734,7 +734,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -774,7 +774,7 @@
           "value": null
         }
       },
-      "name": "Siege Follow-Through",
+      "name": "Проведение осады",
       "type": "feature",
       "_id": "UAyTPoUMhH76Zoyj",
       "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
@@ -794,7 +794,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -804,7 +804,7 @@
       "_key": "!actors.items!wRv1Bu617cEACE6Q.UAyTPoUMhH76Zoyj"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "aNzBMthuOTKpjBaO",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -869,7 +869,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -982,7 +982,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936013,
         "modifiedTime": 1756752689634,
@@ -995,7 +995,7 @@
       "_key": "!actors.items!wRv1Bu617cEACE6Q.aNzBMthuOTKpjBaO"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "QcoeE8VMRetxqU6K",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1045,7 +1045,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1158,7 +1158,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936013,
         "modifiedTime": 1756752696356,
@@ -1171,7 +1171,7 @@
       "_key": "!actors.items!wRv1Bu617cEACE6Q.QcoeE8VMRetxqU6K"
     },
     {
-      "name": "Tail",
+      "name": "Хвост",
       "type": "weapon",
       "_id": "64yTARxMIoid1xSK",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -1221,7 +1221,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1324,7 +1324,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1342,7 +1342,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 19 format=long]] or be pushed up to 15 feet away from the dragon turtle and knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 19 format=long]] or be pushed up to 15 feet away from the dragon turtle and knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1409,7 +1409,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936013,
         "modifiedTime": 1756752706105,
@@ -1427,7 +1427,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

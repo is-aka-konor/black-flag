@@ -1,6 +1,6 @@
 {
   "type": "container",
-  "name": "Efficient Quiver",
+  "name": "Эффективный колчан",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -57,7 +57,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.048",
     "createdTime": 1724984000725,
     "modifiedTime": 1728426556234,

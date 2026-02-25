@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Mire Fiend",
+  "name": "Болотный Дьявол",
   "type": "npc",
   "_id": "nVo8nTfyk8DkPv3p",
-  "img": "systems/black-flag/artwork/tokens/demon-mire-fiend.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/demon-mire-fiend.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Mire Fiend",
+    "name": "Болотный Дьявол",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/demon-mire-fiend.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/demon-mire-fiend.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -258,7 +258,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "suJUb6WiMXRo78Hj",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -312,7 +312,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -326,7 +326,7 @@
       "_key": "!actors.items!nVo8nTfyk8DkPv3p.suJUb6WiMXRo78Hj"
     },
     {
-      "name": "Demonic Resilience",
+      "name": "Демоническая стойкость",
       "type": "feature",
       "_id": "L1Axkwi7sw1FU5ol",
       "img": "icons/creatures/unholy/demon-fire-horned-winged-roar.webp",
@@ -367,7 +367,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.30zXkRqsI6WEowjf",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.30zXkRqsI6WEowjf",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -378,7 +378,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Demonic Resilience",
+          "name": "Демоническая стойкость",
           "_id": "QEROKmLmQGbXQUxg",
           "changes": [
             {
@@ -421,7 +421,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -447,7 +447,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.yEnzD1P6so8fuqeg",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -461,7 +461,7 @@
       "_key": "!actors.items!nVo8nTfyk8DkPv3p.L1Axkwi7sw1FU5ol"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "GXCZVhbcL3Qld4pa",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -515,7 +515,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -529,7 +529,7 @@
       "_key": "!actors.items!nVo8nTfyk8DkPv3p.GXCZVhbcL3Qld4pa"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "H5enPypzeNBX5kj5",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -581,7 +581,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.EjEMkspf8jkoqGTP",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -633,7 +633,7 @@
           "value": null
         }
       },
-      "name": "Swamp Camouflage",
+      "name": "Болотный камуфляж",
       "type": "feature",
       "_id": "OJZy61oakQq1dwtV",
       "img": "icons/magic/nature/trap-spikes-thorns-green.webp",
@@ -653,7 +653,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -663,7 +663,7 @@
       "_key": "!actors.items!nVo8nTfyk8DkPv3p.OJZy61oakQq1dwtV"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "2tiwRySyWdK0ni7g",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -767,7 +767,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -782,7 +782,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Spear",
+      "name": "Копье",
       "type": "weapon",
       "_id": "9Z64FfHjROLgWQc5",
       "img": "icons/weapons/polearms/spear-simple-engraved.webp",
@@ -942,9 +942,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eG0Vk1Kr8peAAYhW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eG0Vk1Kr8peAAYhW",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756756576791,
@@ -1066,7 +1066,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the mire fiend has no creature grappled, it snaps its mandibles together with great force, creating a miniature sonic boom in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]]damage and is &amp;Reference[stunned]{stunned} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>If the mire fiend has no creature grappled, it snaps its mandibles together with great force, creating a miniature sonic boom in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]]damage and is &Reference[stunned]{stunned} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1092,7 +1092,7 @@
           "value": null
         }
       },
-      "name": "Stunning Snap",
+      "name": "Потрясающий снимок",
       "type": "feature",
       "_id": "gHXT0RoxnxxQgdMO",
       "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -1119,7 +1119,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1254,7 +1254,7 @@
           "value": null
         }
       },
-      "name": "Acidic Retribution",
+      "name": "Кислотное возмездие",
       "type": "feature",
       "_id": "TvlHfiQygYvROAtJ",
       "img": "icons/magic/acid/projectile-beams-salvo-green.webp",
@@ -1274,7 +1274,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1360,7 +1360,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1429,7 +1429,7 @@
         },
         "rarity": ""
       },
-      "name": "Mandibles",
+      "name": "Мандибулы",
       "type": "weapon",
       "_id": "A2FAhl7tcf97SYGL",
       "img": "icons/creatures/invertebrates/spider-mandibles-brown.webp",
@@ -1450,7 +1450,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934460,
         "modifiedTime": 1756756538678,
@@ -1548,7 +1548,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1624,7 +1624,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1642,7 +1642,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &amp;Reference[poisoned]{poisoned}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{poisoned}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1695,7 +1695,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Stinger",
+      "name": "Стингер",
       "type": "weapon",
       "_id": "cALcTQ8rRTT9wM71",
       "img": "icons/creatures/abilities/stinger-poison-scorpion-brown.webp",
@@ -1716,7 +1716,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934460,
         "modifiedTime": 1756756589706,
@@ -1730,7 +1730,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

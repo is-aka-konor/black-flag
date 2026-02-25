@@ -1,6 +1,6 @@
 {
   "folder": "NJ7MOfSV86dZsbEi",
-  "name": "Basic Poison",
+  "name": "Основной яд",
   "type": "consumable",
   "_id": "NBvFvDggHEaQPpAp",
   "img": "icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp",
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1717298989723,

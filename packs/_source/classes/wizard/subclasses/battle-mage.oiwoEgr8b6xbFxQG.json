@@ -1,6 +1,6 @@
 {
   "folder": "pfWQC0SjauaWOXAI",
-  "name": "Battle Mage",
+  "name": "Боевой маг",
   "type": "subclass",
   "_id": "oiwoEgr8b6xbFxQG",
   "img": "icons/magic/fire/projectiles-salvo-trio-orange.webp",
@@ -17,10 +17,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.YjSjjMJW0Nvx81KJ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.YjSjjMJW0Nvx81KJ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.zOUQ7p0izLL8mKzB"
+              "uuid": "Compendium.black-flag-ru.classes.Item.zOUQ7p0izLL8mKzB"
             }
           ]
         }
@@ -44,7 +44,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.a05i60zv2GGTCQoR"
+              "uuid": "Compendium.black-flag-ru.classes.Item.a05i60zv2GGTCQoR"
             }
           ]
         },
@@ -62,7 +62,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.j6VANtb9cIZnogOO"
+              "uuid": "Compendium.black-flag-ru.classes.Item.j6VANtb9cIZnogOO"
             }
           ]
         },
@@ -80,7 +80,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.kf11B79emmdbhNyU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.kf11B79emmdbhNyU"
             }
           ]
         },
@@ -96,8 +96,8 @@
     "description": {
       "value": "<p>Wizards who follow the Battle Mage tradition aren't interested in theoretical musings or tedious experiments. Instead, they pursue new ways to enhance their power so that they can destroy their foes (and defend their allies) with ever-greater efficiency.</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.f2OGBsOuorSZ3YpR",
-      "short": "Wizards who follow the Battle Mage tradition aren't interested in theoretical musings or tedious experiments. Instead, they pursue new ways to enhance their power so that they can destroy their foes (and defend their allies) with ever-greater efficiency."
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.f2OGBsOuorSZ3YpR",
+      "short": "Волшебники, следующие традиции боевых магов, не заинтересованы в теоретических размышлениях или утомительных экспериментах. Вместо этого они ищут новые способы усиления своей мощи, чтобы они могли уничтожать своих врагов (и защищать своих союзников) со все большей эффективностью."
     },
     "identifier": {
       "class": "wizard"
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1700002113836,

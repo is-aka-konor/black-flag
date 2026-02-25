@@ -35,7 +35,7 @@ export default class ChooseFeaturesDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		options: {
-			template: "systems/black-flag/templates/advancement/choose-features-dialog.hbs"
+			template: "systems/black-flag-ru/templates/advancement/choose-features-dialog.hbs"
 		}
 	};
 

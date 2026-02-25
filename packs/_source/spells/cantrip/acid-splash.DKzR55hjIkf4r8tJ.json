@@ -1,5 +1,5 @@
 {
-  "name": "Acid Splash",
+  "name": "Кислотный всплеск",
   "type": "spell",
   "_id": "DKzR55hjIkf4r8tJ",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -67,7 +67,7 @@
     "description": {
       "value": "<p>Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a [[/save]] save or take [[/damage]] damage.</p><p>This spell’s damage increases by 1d6 when you reach 5th level ([[/damage 2d6 acid]]{2d6}), 11th level ([[/damage 3d6 acid]]{3d6}), and 17th level ([[/damage 4d6 acid]]{4d6}).</p>",
       "source": {},
-      "short": "Acid bursts over foes."
+      "short": "Кислота обрушивается на противников."
     },
     "type": {
       "value": "standard"
@@ -127,7 +127,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706914791735,

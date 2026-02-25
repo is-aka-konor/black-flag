@@ -1,6 +1,6 @@
 {
   "folder": "0hNQWiVBjGDH2kZ9",
-  "name": "Metallurgist",
+  "name": "Металлург",
   "type": "subclass",
   "_id": "Y6gwQL99e7nAKY7i",
   "img": "icons/tools/smithing/crucible.webp",
@@ -16,10 +16,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.u6dQlHNXT5yPy5ne"
+              "uuid": "Compendium.black-flag-ru.classes.Item.u6dQlHNXT5yPy5ne"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.LvDnFffL7RMYRyUz"
+              "uuid": "Compendium.black-flag-ru.classes.Item.LvDnFffL7RMYRyUz"
             }
           ]
         },
@@ -35,7 +35,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.DkVbpgdPekYE4CMF"
+              "uuid": "Compendium.black-flag-ru.classes.Item.DkVbpgdPekYE4CMF"
             }
           ]
         },
@@ -51,7 +51,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.fToXLXCY0jH6Gv1U"
+              "uuid": "Compendium.black-flag-ru.classes.Item.fToXLXCY0jH6Gv1U"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.sSwXQsmFrfqLnytb"
+              "uuid": "Compendium.black-flag-ru.classes.Item.sSwXQsmFrfqLnytb"
             }
           ]
         },
@@ -77,8 +77,8 @@
     "description": {
       "value": "<p>Mechanists who pursue the Metallurgist’s craft delight in the thrill of combat and engineered armaments. Metallurgist creations are awesome to behold in battle, though few enemies live to spread tales of their terrifying metal mechanisms.</p>",
       "source": {},
-      "short": "Mechanists who pursue the Metallurgist’s craft delight in the thrill of combat and engineered armaments. Metallurgist creations are awesome to behold in battle, though few enemies live to spread tales of their terrifying metal mechanisms.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.3BWmNRXUtplxVffY"
+      "short": "Механики, занимающиеся ремеслом Металлурга, наслаждаются азартом боя и инженерными вооружениями. На творения металлургов приятно смотреть в бою, хотя лишь немногие враги доживают до того, чтобы распространять истории об их ужасающих металлических механизмах.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.3BWmNRXUtplxVffY"
     },
     "identifier": {
       "value": "metallurgist",
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127346299,

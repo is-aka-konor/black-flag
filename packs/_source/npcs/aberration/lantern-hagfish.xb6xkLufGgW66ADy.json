@@ -1,9 +1,9 @@
 {
   "folder": "RuA1hZVgwPDxXhg8",
-  "name": "Lantern Hagfish",
+  "name": "Фонарь Миксина",
   "type": "npc",
   "_id": "xb6xkLufGgW66ADy",
-  "img": "systems/black-flag/artwork/tokens/lantern-hagfish.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lantern-hagfish.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -150,7 +150,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Lantern Hagfish",
+    "name": "Фонарь Миксина",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -158,7 +158,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lantern-hagfish.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lantern-hagfish.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   },
   "items": [
     {
-      "name": "Aberrant Resilience",
+      "name": "Аберрантная устойчивость",
       "type": "feature",
       "_id": "4NbqGEpD3cflESnl",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -288,7 +288,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -299,7 +299,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Aberrant Resilience",
+          "name": "Аберрантная устойчивость",
           "_id": "vyiAWYKxFWNBOFa1",
           "changes": [
             {
@@ -336,7 +336,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -362,7 +362,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.SXHeq6pvWONWyCUU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -414,7 +414,7 @@
           "value": null
         }
       },
-      "name": "Bioluminescent Slime",
+      "name": "Биолюминесцентная слизь",
       "type": "feature",
       "_id": "SBMHxrkQetwr2VEY",
       "img": "icons/creatures/slimes/slime-movement-splash-green.webp",
@@ -434,7 +434,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -482,7 +482,7 @@
           "value": null
         }
       },
-      "name": "Void Dweller",
+      "name": "Обитатель Бездны",
       "type": "feature",
       "_id": "JYvR9nxiGZ0SFtGB",
       "img": "icons/skills/trades/academics-astronomy-navigation-purple.webp",
@@ -498,7 +498,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.mhz4OwILIhICPgus",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -582,7 +582,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -596,7 +596,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish’s next turn. Each creature in that line, and any creature that enters a slime‑coated space for the first time on a turn must succeed on a [[/save format=long]] or fall &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish’s next turn. Each creature in that line, and any creature that enters a slime‑coated space for the first time on a turn must succeed on a [[/save format=long]] or fall &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -622,7 +622,7 @@
           "value": null
         }
       },
-      "name": "Slime Slide",
+      "name": "Слайм Слайд",
       "type": "feature",
       "_id": "Iz3xJ0Os7pgXoy0j",
       "img": "icons/creatures/slimes/slime-movement-splashing-yellow.webp",
@@ -642,7 +642,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -652,7 +652,7 @@
       "_key": "!actors.items!xb6xkLufGgW66ADy.Iz3xJ0Os7pgXoy0j"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "fMeCYvFPPOxc2IzA",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -703,8 +703,8 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Main Attack",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "name": "Основная атака",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -814,7 +814,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Ongoing HP Loss",
+            "name": "Продолжающаяся потеря HP",
             "img": "",
             "flags": {},
             "visibility": {
@@ -886,7 +886,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Medicine Check",
+            "name": "Проверка лекарств",
             "img": "",
             "flags": {},
             "visibility": {
@@ -968,7 +968,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936251,
         "modifiedTime": 1756749559318,
@@ -986,7 +986,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

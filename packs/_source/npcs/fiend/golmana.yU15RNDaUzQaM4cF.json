@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Golmana",
+  "name": "Гольмана",
   "type": "npc",
   "_id": "yU15RNDaUzQaM4cF",
-  "img": "systems/black-flag/artwork/tokens/demon-golmana.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/demon-golmana.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -168,7 +168,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Golmana",
+    "name": "Гольмана",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -176,7 +176,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/demon-golmana.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/demon-golmana.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -269,7 +269,7 @@
   },
   "items": [
     {
-      "name": "Demonic Resilience",
+      "name": "Демоническая стойкость",
       "type": "feature",
       "_id": "jYCsAU6VqO5Hs6K6",
       "img": "icons/creatures/unholy/demon-fire-horned-winged-roar.webp",
@@ -312,7 +312,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.30zXkRqsI6WEowjf",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.30zXkRqsI6WEowjf",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -323,7 +323,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Demonic Resilience",
+          "name": "Демоническая стойкость",
           "_id": "QEROKmLmQGbXQUxg",
           "changes": [
             {
@@ -366,7 +366,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -392,7 +392,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.yEnzD1P6so8fuqeg",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -406,7 +406,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.jYCsAU6VqO5Hs6K6"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "1mqIiUk50VqSapgs",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -460,7 +460,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -474,7 +474,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.1mqIiUk50VqSapgs"
     },
     {
-      "name": "Spider Climb",
+      "name": "Паучье восхождение",
       "type": "feature",
       "_id": "y0wYrudFNmPjIkCq",
       "img": "icons/creatures/invertebrates/spider-web-red.webp",
@@ -528,7 +528,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.9SnGOXer6OWDVFZR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -542,7 +542,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.y0wYrudFNmPjIkCq"
     },
     {
-      "name": "Heightened Hearing",
+      "name": "Повышенный слух",
       "type": "feature",
       "_id": "TxcpUMdvd8TUizmY",
       "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
@@ -596,9 +596,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.HLqV7Bq9XPh7KTaB",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.HLqV7Bq9XPh7KTaB",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -608,7 +608,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.TxcpUMdvd8TUizmY"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "hTISOpgD5btVYUqM",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -673,7 +673,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golmana makes two Claws attacks and one Tail attack. If both Claws attacks hit a Medium or smaller creature, the target is &amp;Reference[grappled]{grappled} (escape DC 15). Until this grapple ends, the target is restrained, and the golmana can’t make Claws attacks against other targets.</p>",
+          "value": "<p>The golmana makes two Claws attacks and one Tail attack. If both Claws attacks hit a Medium or smaller creature, the target is &Reference[grappled]{grappled} (escape DC 15). Until this grapple ends, the target is restrained, and the golmana can’t make Claws attacks against other targets.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -712,7 +712,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -877,7 +877,7 @@
           "value": null
         }
       },
-      "name": "Void Screech",
+      "name": "Визг пустоты",
       "type": "feature",
       "_id": "wgT0kuKBLq0cVv46",
       "img": "icons/magic/sonic/explosion-impact-shock-wave.webp",
@@ -905,7 +905,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1035,7 +1035,7 @@
           "value": null
         }
       },
-      "name": "Consuming Rend",
+      "name": "Потребление ренда",
       "type": "feature",
       "_id": "GRZyRRpLDInOWOB2",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-gray.webp",
@@ -1055,7 +1055,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1065,7 +1065,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.GRZyRRpLDInOWOB2"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "r0FPqf7EEGVexPbl",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1115,7 +1115,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1225,7 +1225,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936402,
         "modifiedTime": 1756756199830,
@@ -1238,7 +1238,7 @@
       "_key": "!actors.items!yU15RNDaUzQaM4cF.r0FPqf7EEGVexPbl"
     },
     {
-      "name": "Tail",
+      "name": "Хвост",
       "type": "weapon",
       "_id": "ekjnHcPjz87oVQio",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -1288,7 +1288,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1402,10 +1402,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.b8zfKznhQRxpJ1ru",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.b8zfKznhQRxpJ1ru",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748936402,
         "modifiedTime": 1756756205309,
@@ -1419,7 +1419,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

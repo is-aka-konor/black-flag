@@ -1,6 +1,6 @@
 {
   "folder": "9B5W88iS36CBCPGv",
-  "name": "Weapon Master",
+  "name": "Мастер оружия",
   "type": "subclass",
   "_id": "hkC2dMVQtg051DQg",
   "img": "icons/weapons/swords/sword-guard-steel-green.webp",
@@ -12,10 +12,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.dMhCvM4ORBqEBJ3W"
+              "uuid": "Compendium.black-flag-ru.classes.Item.dMhCvM4ORBqEBJ3W"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.ARqJyLmMnVQDbw0S"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ARqJyLmMnVQDbw0S"
             }
           ]
         },
@@ -31,7 +31,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ukIB93N7YmyEY7J7"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ukIB93N7YmyEY7J7"
             }
           ]
         },
@@ -49,7 +49,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.owf3H0xtOYey2acq"
+              "uuid": "Compendium.black-flag-ru.classes.Item.owf3H0xtOYey2acq"
             }
           ]
         },
@@ -67,7 +67,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Gaan0ZfmLfFIJeJO"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Gaan0ZfmLfFIJeJO"
             }
           ]
         },
@@ -83,8 +83,8 @@
     "description": {
       "value": "<p>Most fighters feel a deep connection to their weapons, but none more so than the Weapon Master. For them, a favored bow or blade is a natural extension of their body and a trusted ally. Fighters who pursue this subclass learn to use their chosen arms with efficiency and artistry.</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.aKdUbf4xIoaZCvvA",
-      "short": "Most fighters feel a deep connection to their weapons, but none more so than the Weapon Master. For them, a favored bow or blade is a natural extension of their body and a trusted ally. Fighters who pursue this subclass learn to use their chosen arms with efficiency and artistry."
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.aKdUbf4xIoaZCvvA",
+      "short": "Большинство бойцов чувствуют глубокую связь со своим оружием, но не более, чем Мастер Оружия. Для них любимый лук или клинок — естественное продолжение тела и надежный союзник. Бойцы, преследующие этот подкласс, учатся эффективно и артистично использовать выбранное оружие."
     },
     "identifier": {
       "class": "fighter"
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1700002071880,

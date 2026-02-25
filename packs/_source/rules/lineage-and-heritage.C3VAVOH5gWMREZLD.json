@@ -1,10 +1,10 @@
 {
-  "name": "Lineage and Heritage",
+  "name": "Родословная и наследие",
   "_id": "C3VAVOH5gWMREZLD",
   "pages": [
     {
       "sort": 0,
-      "name": "Lineage & Heritage",
+      "name": "Родословная и наследие",
       "type": "text",
       "_id": "EVluLAqzZtqaTozc",
       "title": {
@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h4>Beastkin Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.QEsG38SZx6CrIK4e inline]</p><h4>Dwarf Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.FDN9LQ9PuWO7qISX inline]</p><h4>Elf Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.MM7zjzxCO28oFVlv inline]</p><h4>Human Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.pppO9iaGj37Fq0e7 inline]</p><h4>Orc Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.F3u13tdd8SaNtjYv inline]</p><h4>Smallfolk Lineage Traits</h4><p>@Embed[Compendium.black-flag.lineages.Item.cBURD485nDtmJDeE inline]</p><h4>Cosmopolitan Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.E6nuFUq2RWnQKPnm inline]</p><h4>Cottage Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.zVguHSReS4QGiydI inline]</p><h4>Diaspora Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.1aPZdPOhSLxtdYhr inline]</p><h4>Grove Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.pdtr5iQRACvqhZaW inline]</p><h4>Nomadic Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.GVvyWSemb9GD22fW inline]</p><h4>Slayer Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.ECkN3p3yLEEagnfH inline]</p><h4>Stone Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.DIwZtiOHNeacODwb inline]</p><h4>Supplicant Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.Q6ophoE2toOZDs5L inline]</p><h4>Wildlands Heritage</h4><p>@Embed[Compendium.black-flag.heritages.Item.Y4nmkyJMwj9m3jPK inline]</p>"
+        "content": "<h4>Особенности Beastkin Lineage</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.QEsG38SZx6CrIK4e inline]</p><h4>Dwarf Lineage Traits</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.FDN9LQ9PuWO7qISX inline]</p><h4>Elf Lineage Traits</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.MM7zjzxCO28oFVlv встроенный]</p><h4>Особенности человеческого происхождения</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.pppO9iaGj37Fq0e7 inline]</p><h4>Происхождение орков Traits</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.F3u13tdd8SaNtjYv inline]</p><h4>Smallfolk Lineage Traits</h4><p>@Embed[Compendium.black-flag-ru.lineages.Item.cBURD485nDtmJDeE inline]</p><h4>Cosmopolitan Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.E6nuFUq2RWnQKPnm inline]</p><h4>Коттедж Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.zVguHSReS4QGiydI inline]</p><h4>Наследие диаспоры</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.1aPZdPOhSLxtdYhr inline]</p><h4>Grove Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.pdtr5iQRACvqhZaW inline]</p><h4>Nomadic Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.GVvyWSemb9GD22fW inline]</p><h4>Slayer Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.ECkN3p3yLEEagnfH inline]</p><h4>Stone Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.DIwZtiOHNeacODwb inline]</p><h4>Supplicant Heritage</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.Q6ophoE2toOZDs5L inline]</p><h4>Наследие диких земель</h4><p>@Embed[Compendium.black-flag-ru.heritages.Item.Y4nmkyJMwj9m3jPK inline]</p>"
       },
       "video": {
         "controls": true,
@@ -27,7 +27,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1706648893035,
@@ -47,7 +47,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716515329025,

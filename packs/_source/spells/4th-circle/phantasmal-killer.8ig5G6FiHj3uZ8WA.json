@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Phantasmal Killer",
+  "name": "Призрачный убийца",
   "type": "spell",
   "_id": "8ig5G6FiHj3uZ8WA",
   "img": "icons/magic/unholy/strike-body-life-soul-green.webp",
@@ -84,7 +84,7 @@
     "description": {
       "value": "<p>You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a [[/save]] save. On a failed save, the target becomes frightened of you for the duration. At the end of each of the target’s turns before the spell ends, the target must succeed on a [[/save]] save or take [[/damage]] damage. On a successful save, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the damage increases by [[/damage 1d10 psychic]]{1d10} for each slot above 4th.</p>",
       "source": {},
-      "short": "Frighten, psychic to foe."
+      "short": "Напугайте экстрасенса врага."
     },
     "casting": {
       "value": null,
@@ -147,7 +147,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093107147,
     "modifiedTime": 1723156056707,

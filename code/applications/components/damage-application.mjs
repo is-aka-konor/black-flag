@@ -109,7 +109,7 @@ export default class DamageApplicationElement extends TargetedApplicationMixin(C
 		for (const [change, values] of Object.entries(active)) {
 			for (const type of values) {
 				if (type === "all") {
-					types.push({ type, change, icon: "systems/black-flag/artwork/damage/all.svg" });
+					types.push({ type, change, icon: "systems/black-flag-ru/artwork/damage/all.svg" });
 				} else {
 					const config = CONFIG.BlackFlag.damageTypes[type] ?? CONFIG.BlackFlag.healingTypes[type];
 					if (!config) continue;
@@ -134,7 +134,7 @@ export default class DamageApplicationElement extends TargetedApplicationMixin(C
 			changeSources += `
 				<button class="change-source unbutton" type="button" data-change="threshold" data-tooltip="${label}"
 			        	aria-label="${label}" aria-pressed="${pressed}">
-					<blackFlag-icon src="systems/black-flag/artwork/damage/threshold.svg" inert></blackFlag-icon>
+					<blackFlag-icon src="systems/black-flag-ru/artwork/damage/threshold.svg" inert></blackFlag-icon>
 					<i class="fa-solid fa-slash" inert></i>
 				</button>
 				`;

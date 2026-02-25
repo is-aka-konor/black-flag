@@ -1,6 +1,6 @@
 {
   "folder": "ljc34ps9wz9LJGuf",
-  "name": "Action Surge",
+  "name": "Всплеск действий",
   "type": "feature",
   "img": "icons/skills/wounds/injury-face-impact-orange.webp",
   "system": {
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1695229317590,

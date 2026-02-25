@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of Wonder",
+  "name": "Жезл чудес",
   "system": {
     "type": {
       "category": "wand"
@@ -12,10 +12,10 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Spellcaster"
+      "requirement": "от заклинателя"
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens.</p><p>If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet.</p><p>If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.tcGUtqGBN35kUHhn inline]</p>",
+      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens.</p><p>If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet.</p><p>If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.tcGUtqGBN35kUHhn inline]</p>",
       "source": {
         "fallback": ""
       }
@@ -25,7 +25,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.65Sa7kguiOuycPt0",
+            "uuid": "Compendium.black-flag-ru.spells.Item.65Sa7kguiOuycPt0",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -92,7 +92,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.6dvUhdyeuOtRySf9",
+            "uuid": "Compendium.black-flag-ru.spells.Item.6dvUhdyeuOtRySf9",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -159,7 +159,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.0u1CqWulRC8QY1X6",
+            "uuid": "Compendium.black-flag-ru.spells.Item.0u1CqWulRC8QY1X6",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -226,7 +226,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.q3ggx5aH69iqrcL3",
+            "uuid": "Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -293,7 +293,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.Bf0cetCjUrF24nNy",
+            "uuid": "Compendium.black-flag-ru.spells.Item.Bf0cetCjUrF24nNy",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -360,7 +360,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.RIOCsdRfuC31r9Rf",
+            "uuid": "Compendium.black-flag-ru.spells.Item.RIOCsdRfuC31r9Rf",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -424,7 +424,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.zAdVL033HkTXL6Nq",
+            "uuid": "Compendium.black-flag-ru.spells.Item.zAdVL033HkTXL6Nq",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -491,7 +491,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI",
+            "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -558,7 +558,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb",
+            "uuid": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -657,7 +657,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071656594,
     "modifiedTime": 1735681488918,

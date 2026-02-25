@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Hypnotic Pattern",
+  "name": "Гипнотический узор",
   "type": "spell",
   "_id": "wpv41TYYICzPZpIg",
   "img": "icons/magic/control/hypnosis-mesmerism-watch.webp",
@@ -54,9 +54,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a [[/save]] save. On a failure, the creature becomes &amp;Reference[charmed] for the duration. While charmed by this spell, the creature is &amp;Reference[incapacitated] and has a speed of 0.</p><p>The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.</p>",
+      "value": "<p>You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a [[/save]] save. On a failure, the creature becomes &Reference[charmed] for the duration. While charmed by this spell, the creature is &Reference[incapacitated] and has a speed of 0.</p><p>The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.</p>",
       "source": {},
-      "short": "Charm foes in 30-ft. cube."
+      "short": "Очаровывайте врагов в радиусе 30 футов. куб."
     },
     "type": {
       "value": "standard"
@@ -77,7 +77,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a glowing stick of incense or a crystal vial filled with phosphorescent material",
+        "description": "светящаяся палочка благовоний или хрустальный флакон, наполненный фосфоресцирующим материалом.",
         "consumed": false,
         "denomination": "gp"
       }
@@ -115,7 +115,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.wpv41TYYICzPZpIg",
+      "origin": "Compendium.black-flag-ru.spells.Item.wpv41TYYICzPZpIg",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -126,7 +126,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Hypnotic Pattern",
+      "name": "Гипнотический узор",
       "img": "icons/magic/control/hypnosis-mesmerism-watch.webp",
       "_id": "hNEUP0OTna7JHfvv",
       "type": "base",
@@ -152,7 +152,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "createdTime": 1722573812458,
         "modifiedTime": 1722573834654,
@@ -168,7 +168,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934167852,

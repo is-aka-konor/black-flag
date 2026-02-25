@@ -1,6 +1,6 @@
 {
   "folder": "6P0Rxao2AROWasas",
-  "name": "Nature's Gift",
+  "name": "Дар природы",
   "type": "feature",
   "_id": "pTpcg49T8TmfgUj3",
   "img": "icons/magic/nature/beam-hand-leaves-green.webp",
@@ -109,7 +109,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717736825330,

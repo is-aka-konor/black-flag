@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Decanter of Endless Water",
+  "name": "Графин бесконечной воды",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -74,7 +74,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Remove Stopper",
+        "name": "Удалить пробку",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -88,7 +88,7 @@
       "z8hEC8LTAoWP4Rqm": {
         "type": "save",
         "_id": "z8hEC8LTAoWP4Rqm",
-        "description": "<p>You can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a [[/save]] or take [[/damage]] and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.</p>",
+        "description": "<p>Вы можете нацелить гейзер на Существо, которое видите, в пределах 30 футов от себя. Цель должна добиться успеха на [[/save]] или взять [[/damage]] и упасть ничьим. Вместо этого вы можете выбрать объект, который никто не носит и не носит с собой, и который весит не более 200 фунтов. Объект либо прокинут, либо отброшен на расстояние до 15 футов от вас.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -164,7 +164,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Geyser",
+        "name": "Гейзер",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -208,7 +208,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983857603,
     "modifiedTime": 1756335293004,

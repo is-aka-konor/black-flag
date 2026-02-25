@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Invisibility",
+  "name": "Кольцо невидимости",
   "system": {
     "type": {
       "category": "clothing",
@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can turn &amp;Reference[invisible] as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.</p>",
+      "value": "<p>While wearing this ring, you can turn &Reference[invisible] as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.</p>",
       "source": {
         "fallback": ""
       }
@@ -81,7 +81,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Become Invisible",
+        "name": "Стать невидимым",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -152,7 +152,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Become Visible",
+        "name": "Стать видимым",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -194,7 +194,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986993582,
     "modifiedTime": 1756333285263,

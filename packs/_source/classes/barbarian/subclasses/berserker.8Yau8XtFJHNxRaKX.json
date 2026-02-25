@@ -1,6 +1,6 @@
 {
   "folder": "WohVsRKg1kyEESzB",
-  "name": "Berserker",
+  "name": "Берсеркер",
   "type": "subclass",
   "_id": "8Yau8XtFJHNxRaKX",
   "img": "icons/skills/melee/strike-flail-spiked-pink.webp",
@@ -15,10 +15,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.4LI6apPZqTUzZsHZ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.4LI6apPZqTUzZsHZ"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.GZde7w3HBAuRa3HP"
+              "uuid": "Compendium.black-flag-ru.classes.Item.GZde7w3HBAuRa3HP"
             }
           ]
         },
@@ -33,7 +33,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.MAUUbvUk30Gxnsmp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.MAUUbvUk30Gxnsmp"
             }
           ]
         },
@@ -48,7 +48,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.b7W75FeCsQ6UCWRD"
+              "uuid": "Compendium.black-flag-ru.classes.Item.b7W75FeCsQ6UCWRD"
             }
           ]
         },
@@ -63,7 +63,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.NIRo1XbLH9p3ODJK"
+              "uuid": "Compendium.black-flag-ru.classes.Item.NIRo1XbLH9p3ODJK"
             }
           ]
         },
@@ -73,8 +73,8 @@
     "description": {
       "value": "<p>Through primal rite or natural bloodthirst, some barbarians can work themselves into a rage so ferocious and explosively violent that it risks breaking their bodies. Berserkers may lose themselves in their frenzy, seething with raw brutality, embracing the blood-soaked battlefield, uncaring of their own safety.</p>",
       "source": {},
-      "short": "Through primal rite or natural bloodthirst, some barbarians can work themselves into a rage so ferocious and explosively violent that it risks breaking their bodies. Berserkers may lose themselves in their frenzy, seething with raw brutality, embracing the blood-soaked battlefield, uncaring of their own safety.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.FXPVM1OkO4qP1l1o"
+      "short": "С помощью первобытного обряда или естественной кровожадности некоторые варвары могут довести себя до такой свирепой и взрывоопасной ярости, что рискуют сломать себе тело. Берсерки могут потеряться в своем безумии, кипя от неприкрытой жестокости, охватывая залитое кровью поле битвы, не заботясь о собственной безопасности.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.FXPVM1OkO4qP1l1o"
     },
     "identifier": {
       "value": "berserker",
@@ -88,7 +88,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717435936770,

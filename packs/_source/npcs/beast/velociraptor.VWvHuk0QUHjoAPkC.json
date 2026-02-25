@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Velociraptor",
+  "name": "Велоцираптор",
   "type": "npc",
   "_id": "VWvHuk0QUHjoAPkC",
-  "img": "systems/black-flag/artwork/tokens/velociraptor.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/velociraptor.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -138,13 +138,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Velociraptor",
+    "name": "Велоцираптор",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/velociraptor.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/velociraptor.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -233,7 +233,7 @@
   },
   "items": [
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "fc5wBxZWyhCjQrtk",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -282,20 +282,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1709774072494,
         "modifiedTime": 1711666535195,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ivOwfLQnIrKPW3bv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ivOwfLQnIrKPW3bv",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!VWvHuk0QUHjoAPkC.fc5wBxZWyhCjQrtk"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "7ALdpB5qy47rj7hM",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -394,20 +394,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711666770792,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!VWvHuk0QUHjoAPkC.7ALdpB5qy47rj7hM"
     },
     {
-      "name": "Maul",
+      "name": "Мол",
       "type": "feature",
       "_id": "QG6npgCSEVyiEaIu",
       "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
@@ -534,7 +534,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711666568073,
@@ -547,7 +547,7 @@
       "_key": "!actors.items!VWvHuk0QUHjoAPkC.QG6npgCSEVyiEaIu"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "cgbQ8oNFUNV1zwaE",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -701,11 +701,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932290,
         "modifiedTime": 1756751028436,
@@ -714,7 +714,7 @@
       "_key": "!actors.items!VWvHuk0QUHjoAPkC.cgbQ8oNFUNV1zwaE"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "QXBmlZqw47HKpL6l",
       "img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
@@ -868,11 +868,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2hYUlglK9czNmHNx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2hYUlglK9czNmHNx",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932290,
         "modifiedTime": 1756751035049,
@@ -888,7 +888,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709616473209,

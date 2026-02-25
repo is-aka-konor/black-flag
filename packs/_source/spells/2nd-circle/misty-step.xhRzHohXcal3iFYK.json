@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Misty Step",
+  "name": "Туманный шаг",
   "type": "spell",
   "_id": "xhRzHohXcal3iFYK",
   "img": "icons/magic/control/energy-stream-link-teal.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.</p>",
       "source": {},
-      "short": "Quick teleport at short range."
+      "short": "Быстрый телепорт на короткое расстояние."
     },
     "type": {
       "value": "standard"
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934750637,

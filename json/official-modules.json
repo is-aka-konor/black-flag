@@ -2,40 +2,40 @@
 	"core": [
 		{
 			"id": "kp-tov-players-guide",
-			"name": "Player’s Guide",
-			"description": "<p>Start your own tale in an infinite universe of high fantasy adventure with the <em>Player’s Guide</em>! Within these pages, a trove of knowledge lies waiting for the valiant to claim it! The <em>Player’s Guide</em> is a streamlined, 5E-compatible ruleset with unique mechanics to increase both risk and reward for adventurous players of all stripes!</p>",
+			"name": "Руководство игрока",
+			"description": "<p>Начните свою собственную историю в бесконечной вселенной фэнтезийных приключений с помощью <em>Руководства игрока</em>! На этих страницах скрыта сокровищница знаний, ожидающая, чтобы отважные воспользовались ею! <em>Руководство игрока</em> – это упрощенный набор правил, совместимый с 5E, с уникальной механикой, повышающей как риск, так и вознаграждение для отважных игроков всех мастей!</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/players-guide.jpg"
 		},
 		{
 			"id": "kp-tov-game-masters-guide",
-			"name": "Game Master’s Guide",
-			"description": "<p>Advance your game beyond the basics with the <em>Game Master’s Guide</em>. It’s got everything game masters need to build deep narratives, exciting combat, and compelling adventures. The <em>Game Master’s Guide</em> is a distilled collection of professional, tested advice and tools for running a better, smarter, more fun game. It’s a level-up for your whole table.</p>",
+			"name": "Руководство мастера игры",
+			"description": "<p>Расширьте свою игру, выйдя за пределы основ, с помощью <em>Руководства ведущего игры</em>. В ней есть все, что нужно мастерам игр для создания глубокого повествования, захватывающих боев и захватывающих приключений. <em>Руководство ведущего игры</em> – это сборник профессиональных, проверенных советов и инструментов, которые помогут сделать игру лучше, умнее и увлекательнее. Это повышение уровня всего вашего стола.</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/game-masters-guide.jpg"
 		},
 		{
 			"id": "kp-tov-monster-vault",
-			"name": "Monster Vault",
-			"description": "<p>The <em>Monster Vault</em> contains over 400 monsters and all the guidance you need as a game master to run encounters with those monsters! The <em>Monster Vault</em> contains all the information a GM needs to create encounters with monsters, including monster roles and tactics, guidelines for modifying monsters to fit your campaign, optional rules for Doom points, and rules for characters wanting to harvest monsters for unique crafting and spell components.</p>",
+			"name": "Хранилище монстров",
+			"description": "<p>В <em>Хранилище монстров</em> содержится более 400 монстров и все инструкции, необходимые мастеру игры для встреч с этими монстрами! <em>Хранилище монстров</em> содержит всю информацию, необходимую ГМ для создания встреч с монстрами, включая роли и тактику монстров, рекомендации по модификации монстров в соответствии с вашей кампанией, дополнительные правила для очков Рока и правила для персонажей, желающих собирать монстров для создания уникальных компонентов для крафта и заклинаний.</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/monster-vault.jpg"
 		}
 	],
 	"adventures": [
 		{
 			"id": "tov-caverns-of-the-spore-lord",
-			"name": "Caverns of the Spore Lord",
-			"description": "<p>The people of Hulgig are desperate. The hamlet’s tainted well water is transforming the residents into sporeborn. To make matters worse, the transmogrified villagers are drawn to the nearby cave complex that leads to the subterranean village of Bellgrove, and its mycolid inhabitants are having their own problems.</p>",
+			"name": "Пещеры Повелителя Спор",
+			"description": "<p>Жители Хульгига в отчаянии. Испорченная колодезная вода деревни превращает жителей в споророжденных. Что еще хуже, трансмогрифицированных жителей притягивает близлежащий пещерный комплекс, ведущий в подземную деревню Беллгроув, и у ее обитателей-миколидов возникают свои проблемы.</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/caverns-of-the-spore-lord.jpg"
 		},
 		{
 			"id": "tov-hidden-tomb-of-nargoth",
-			"name": "Hidden Tomb of Nargoth",
-			"description": "<p>The seeds of an unearthly chaos have been sown throughout the Wyvernmere Valley. A sinister void cult works within the shadows to stoke havoc and discord. Their goal: Uncovering the lost wisdom of the ancient and powerful wizard Nargoth in an attempt to bring about the end of days.</p>",
+			"name": "Скрытая гробница Наргота",
+			"description": "<p>По всей долине Вивернмир посеяны семена неземного хаоса. Зловещий культ пустоты работает в тени, разжигая хаос и раздор. Их цель: раскрыть утраченную мудрость древнего и могущественного волшебника Наргота в попытке приблизить конец дней.</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/hidden-tomb-of-nargoth.jpg"
 		},
 		{
 			"id": "kp-tov-old-margreve",
-			"name": "The Old Margreve",
-			"description": "<p>For years beyond counting, the roots of the Old Margreve have grown deep and strong. Explore an ancient, magical forest rife with dangers both mundane and fantastic, deep in the shadow of its dark canopy. This deep woodland quickly claims unwary travelers who fail to follow the Old Ways.</p>",
+			"name": "Старый Маргрев",
+			"description": "<p>За долгие годы корни Старого Маргрива укрепились и укрепились. Исследуйте древний волшебный лес, полный опасностей, как обыденных, так и фантастических, глубоко в тени его темного полога. Этот густой лес быстро уничтожает неосторожных путешественников, которые не следуют Старым Путям.</p>",
 			"img": "https://koboldpress.github.io/black-flag-docs/assets/images/marketing/old-margreve.jpg"
 		}
 	]

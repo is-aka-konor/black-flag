@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Weasel",
+  "name": "ласка",
   "type": "npc",
   "_id": "VeVmo85SztJhGZsN",
-  "img": "systems/black-flag/artwork/types/npc.svg",
+  "img": "systems/black-flag-ru/artwork/types/npc.svg",
   "system": {
     "attributes": {
       "ac": {
@@ -138,7 +138,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Weasel",
+    "name": "ласка",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -146,7 +146,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/types/npc.svg",
+      "src": "systems/black-flag-ru/artwork/types/npc.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -233,7 +233,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "0mFcHjttKAbMIVaJ",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -285,7 +285,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -299,7 +299,7 @@
       "_key": "!actors.items!VeVmo85SztJhGZsN.0mFcHjttKAbMIVaJ"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "BkVQUhXOHUOfvMLg",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -351,7 +351,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -461,7 +461,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932315,
         "modifiedTime": 1756751048648,
@@ -479,7 +479,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1730134853809,

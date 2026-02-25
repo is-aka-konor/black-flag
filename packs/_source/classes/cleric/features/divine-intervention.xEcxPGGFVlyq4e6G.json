@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Divine Intervention",
+  "name": "Божественное вмешательство",
   "type": "feature",
   "_id": "xEcxPGGFVlyq4e6G",
   "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
@@ -9,7 +9,7 @@
       "j4qEHCuBQRmwUK7l": {
         "type": "utility",
         "_id": "j4qEHCuBQRmwUK7l",
-        "description": "<p>You request aid from your deity by rolling [[/roll 1d20 + @prof target=20]]. If the result is 19 or lower, your request fails, and your deity doesn't intervene. If the result is 20 or higher, your deity intervenes on your behalf, imbuing you with a fraction of their power.</p>",
+        "description": "<p>Вы просите помощи у своего божества, бросая [[/roll 1d20 + @prof target=20]]. Если результат 19 или ниже, ваш запрос не выполнен, и ваше божество не помешает. Если результат 20 или выше, ваше лучшее влияние зависит от вашего имени, наполняя вас частью своей силы.</p>",
         "system": {},
         "activation": {
           "type": "free",
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715659557155,

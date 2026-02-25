@@ -1,9 +1,9 @@
 {
   "folder": "BqIgsmjqLqST0iqd",
-  "name": "Ogre",
+  "name": "Огр",
   "type": "npc",
   "_id": "cwmRactFb8d6yQRn",
-  "img": "systems/black-flag/artwork/tokens/ogre.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/ogre.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -156,7 +156,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ogre",
+    "name": "Огр",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -164,7 +164,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/ogre.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/ogre.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -252,7 +252,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Hide Armor",
+      "name": "Скрыть броню",
       "type": "armor",
       "_id": "DUOUyPEF7q9N2ywg",
       "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
@@ -319,9 +319,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.fN3bw7IZzSxbkcYX",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.fN3bw7IZzSxbkcYX",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -331,7 +331,7 @@
       "_key": "!actors.items!cwmRactFb8d6yQRn.DUOUyPEF7q9N2ywg"
     },
     {
-      "name": "Giant Attributes",
+      "name": "Гигантские атрибуты",
       "type": "feature",
       "_id": "02ACTGnAjNMEyZxa",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -372,7 +372,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.m72mAsPV1hqNYPSi",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.m72mAsPV1hqNYPSi",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -383,7 +383,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Giant Attributes",
+          "name": "Гигантские атрибуты",
           "_id": "1F1KR2nud7oEdy85",
           "changes": [
             {
@@ -408,7 +408,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -434,7 +434,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.NXzP92LbivNcESTI",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -448,7 +448,7 @@
       "_key": "!actors.items!cwmRactFb8d6yQRn.02ACTGnAjNMEyZxa"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "ipJZxhfVfjk5bSAZ",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -552,7 +552,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -567,7 +567,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Greatclub",
+      "name": "Отличный клуб",
       "type": "weapon",
       "_id": "inVSbkLAnc9DYnV1",
       "img": "icons/weapons/clubs/club-simple-stone-brown.webp",
@@ -646,7 +646,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -729,9 +729,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.QAPscsGRbv5l778n",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.QAPscsGRbv5l778n",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757301124,
@@ -742,7 +742,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Javelin",
+      "name": "Копье",
       "type": "weapon",
       "_id": "vZgdDkRKyYEX53Ob",
       "img": "icons/weapons/polearms/speartip-simple-stone.webp",
@@ -877,9 +877,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.8wAd9MmtaW1tizSN",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.8wAd9MmtaW1tizSN",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757310931,
@@ -980,7 +980,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1000,7 +1000,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ogre sweeps its weapon in a wide arc around it. Each creature within 10 feet of the ogre must make a [[/save format=long]]. Small and smaller creatures have disadvantage on the save. On a failure, a creature takes [[/damage format=long]] damage, is pushed up to 10 feet away from the ogre, and is knocked &amp;Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t pushed or knocked prone.</p>",
+          "value": "<p>The ogre sweeps its weapon in a wide arc around it. Each creature within 10 feet of the ogre must make a [[/save format=long]]. Small and smaller creatures have disadvantage on the save. On a failure, a creature takes [[/damage format=long]] damage, is pushed up to 10 feet away from the ogre, and is knocked &Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t pushed or knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1026,7 +1026,7 @@
           "value": null
         }
       },
-      "name": "Bowling Sweep",
+      "name": "Боулинг",
       "type": "feature",
       "_id": "sH8thf5fyZggXNOq",
       "img": "icons/skills/melee/hand-grip-hammer-spiked-blue.webp",
@@ -1046,7 +1046,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1121,7 +1121,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1135,7 +1135,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ogre takes the &amp;Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &amp;Reference[prone]{prone}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
+          "value": "<p>The ogre takes the &Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1161,7 +1161,7 @@
           "value": null
         }
       },
-      "name": "Shoving Rush",
+      "name": "толкая Раш",
       "type": "feature",
       "_id": "djBryFqO2ZmoxwqO",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -1181,7 +1181,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1196,7 +1196,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

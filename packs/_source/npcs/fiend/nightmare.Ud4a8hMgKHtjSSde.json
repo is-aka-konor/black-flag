@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Nightmare",
+  "name": "Кошмар",
   "type": "npc",
   "_id": "Ud4a8hMgKHtjSSde",
-  "img": "systems/black-flag/artwork/tokens/nightmare.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/nightmare.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -156,7 +156,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Nightmare",
+    "name": "Кошмар",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -164,7 +164,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/nightmare.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/nightmare.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -289,7 +289,7 @@
           "proficiency": null
         }
       },
-      "name": "Illumination",
+      "name": "Освещение",
       "type": "feature",
       "_id": "dqtrXDqpMQSrwAvl",
       "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -302,10 +302,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -393,7 +393,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           }
@@ -433,7 +433,7 @@
           "value": null
         }
       },
-      "name": "Riding Flames",
+      "name": "Ездовое пламя",
       "type": "feature",
       "_id": "qcZ5lisowk69xcq3",
       "img": "icons/magic/fire/flame-burning-embers-yellow.webp",
@@ -453,7 +453,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -463,7 +463,7 @@
       "_key": "!actors.items!Ud4a8hMgKHtjSSde.qcZ5lisowk69xcq3"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "lOpwMtTkGPBmpMqT",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -567,7 +567,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -642,7 +642,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -682,7 +682,7 @@
           "value": null
         }
       },
-      "name": "Ethereal Stride",
+      "name": "Эфирный шаг",
       "type": "feature",
       "_id": "ZBX7AXQGbhfKVMz7",
       "img": "icons/magic/movement/trail-streak-pink.webp",
@@ -702,7 +702,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -793,7 +793,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -833,7 +833,7 @@
           "value": null
         }
       },
-      "name": "Burning Hoofprints",
+      "name": "Горящие следы копыт",
       "type": "feature",
       "_id": "0yBZYf5cnqZIQYih",
       "img": "icons/magic/fire/projectile-wave-yellow.webp",
@@ -853,7 +853,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -952,7 +952,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1021,7 +1021,7 @@
         },
         "rarity": ""
       },
-      "name": "Flaming Hoof",
+      "name": "Пылающее Копыто",
       "type": "weapon",
       "_id": "hJNYbMbmpiCdgGrN",
       "img": "icons/magic/fire/blast-jet-stream-splash.webp",
@@ -1042,7 +1042,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932072,
         "modifiedTime": 1756756635203,
@@ -1056,7 +1056,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

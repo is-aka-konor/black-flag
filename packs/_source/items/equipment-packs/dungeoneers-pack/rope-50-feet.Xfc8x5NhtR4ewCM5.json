@@ -1,6 +1,6 @@
 {
   "folder": "Y8UQ7n2ei8CgBzr3",
-  "name": "Rope (50 feet)",
+  "name": "Веревка (50 футов)",
   "type": "gear",
   "img": "icons/sundries/survival/rope-wrapped-brown.webp",
   "system": {
@@ -37,7 +37,7 @@
   "effects": [],
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363566307,

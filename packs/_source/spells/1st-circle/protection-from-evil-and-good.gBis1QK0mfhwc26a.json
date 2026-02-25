@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Protection from Evil and Good",
+  "name": "Защита от зла ​​и добра",
   "type": "spell",
   "_id": "gBis1QK0mfhwc26a",
   "img": "icons/magic/symbols/cog-shield-white-blue.webp",
@@ -49,7 +49,7 @@
     "description": {
       "value": "<p>Until the spell ends, one willing creature you touch is protected against certain types of creatures: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead.</p><p>The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new save against the relevant effect.</p>",
       "source": {},
-      "short": "Ward against creature types."
+      "short": "Защита от типов существ."
     },
     "type": {
       "value": "standard"
@@ -71,7 +71,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "holy water or powdered silver and iron, which the spell consumes",
+        "description": "святая вода или порошок серебра и железа, которые расходуются заклинанием",
         "denomination": "pp",
         "consumed": false
       }
@@ -108,7 +108,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.gBis1QK0mfhwc26a",
+      "origin": "Compendium.black-flag-ru.spells.Item.gBis1QK0mfhwc26a",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -119,13 +119,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Evil and Good",
+      "name": "Защита от зла ​​и добра",
       "img": "icons/magic/symbols/cog-shield-white-blue.webp",
       "_id": "dFvw1qN96Vq4gEOW",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>This protection grants several benefits. Creatures of those types have disadvantage on attack rolls against you. You also can’t be charmed, frightened, or possessed by them. You are already charmed, frightened, or possessed by such a creature, you have advantage on any new save against the relevant effect.</p>",
+      "description": "<p>Эта защита дает несколько преимуществ. Существа этих типов имеют помеху при бросках атаки против вас. Вы также не можете быть очарованы, напуганы или одержимы ими. Вы уже очарованы, напуганы или одержимы таким существом, вы имеете преимущество на любой новый спасбросок против соответствующего эффекта.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -135,7 +135,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158141132,
         "modifiedTime": 1723158181164,
@@ -151,7 +151,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935047093,

@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Perfect Motion",
+  "name": "Идеальное движение",
   "type": "feature",
   "_id": "JDqkYb4iYJbgNX9o",
   "img": "icons/magic/movement/chevrons-down-yellow.webp",
@@ -9,7 +9,7 @@
       "9fToJ7f2oPFWQN4E": {
         "type": "utility",
         "_id": "9fToJ7f2oPFWQN4E",
-        "description": "<p>You reduce any falling damage you take by [[calc 5 * @progression.classes.monk.levels]]{an amount equal to 5 × your monk level}.</p>",
+        "description": "_<p>Вы уменьшаете получаемый вами урон от падения на [[calc 5 * @progression.classes.monk.levels]]{наибольшую, равную 5 × вашего уровня монаха}.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Slow Fall",
+        "name": "Медленное падение",
         "img": ""
       }
     },
@@ -90,7 +90,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717970266973,

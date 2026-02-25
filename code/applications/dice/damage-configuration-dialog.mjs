@@ -8,7 +8,7 @@ export default class DamageRollConfigurationDialog extends BasicRollConfiguratio
 	static PARTS = {
 		...super.PARTS,
 		formulas: {
-			template: "systems/black-flag/templates/dice/damage-formulas.hbs"
+			template: "systems/black-flag-ru/templates/dice/damage-formulas.hbs"
 		}
 	};
 

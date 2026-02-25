@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Armor Training",
+  "name": "Тренировка брони",
   "type": "talent",
   "_id": "ieEOvLswOxJWoE1Z",
   "img": "icons/equipment/chest/breastplate-banded-blue.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1716347652254,

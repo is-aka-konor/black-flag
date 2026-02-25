@@ -1,6 +1,6 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "Greater Triumph",
+  "name": "Великий Триумф",
   "type": "feature",
   "_id": "ML4WDJXYjMqzIgVX",
   "img": "icons/skills/targeting/target-strike-triple-blue.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>When you use the Mark of Triumph effect of your Channel Divinity feature, you can mystically mark a number of creatures equal to your PB. All targets must be within 60 feet of you.</p><p>In addition, when a creature marked by your Mark of Triumph feature is reduced to 0 HP, you can use your reaction to move the mark to a different target within 60 feet of you that you can see. A mark moved in this way still disappears at the start of your next turn, as normal.</p>",
+      "value": "<p>When you use the Mark of Triumph effect of your Божественный канал feature, you can mystically mark a number of creatures equal to your PB. All targets must be within 60 feet of you.</p><p>In addition, when a creature marked by your Mark of Triumph feature is reduced to 0 HP, you can use your reaction to move the mark to a different target within 60 feet of you that you can see. A mark moved in this way still disappears at the start of your next turn, as normal.</p>",
       "source": {}
     },
     "restriction": {
@@ -39,7 +39,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715662253155,

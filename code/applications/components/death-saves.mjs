@@ -57,7 +57,7 @@ export default class DeathSavesElement extends AppAssociatedElement {
 			"afterbegin",
 			`
 			<button type="button" data-action="roll" aria-label="roll death save">
-				<blackFlag-icon src="systems/black-flag/artwork/interface/death-save.svg"></blackFlag-icon>
+				<blackFlag-icon src="systems/black-flag-ru/artwork/interface/death-save.svg"></blackFlag-icon>
 			</button>
 			<div class="levels">
 				${buttons.map(b => makeButton(b)).join("")}

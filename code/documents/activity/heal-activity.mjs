@@ -16,7 +16,7 @@ export default class HealActivity extends Activity {
 			{
 				type: "heal",
 				dataModel: HealData,
-				icon: "systems/black-flag/artwork/activities/heal.svg",
+				icon: "systems/black-flag-ru/artwork/activities/heal.svg",
 				title: "BF.HEAL.Title",
 				hint: "BF.HEAL.Hint",
 				usage: {

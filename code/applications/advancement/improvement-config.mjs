@@ -13,10 +13,10 @@ export default class ImprovementConfig extends AdvancementConfig {
 
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		improvement: {
-			template: "systems/black-flag/templates/advancement/improvement-config.hbs"
+			template: "systems/black-flag-ru/templates/advancement/improvement-config.hbs"
 		}
 	};
 

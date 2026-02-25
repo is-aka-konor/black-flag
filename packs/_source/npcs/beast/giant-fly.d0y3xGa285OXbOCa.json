@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Fly",
+  "name": "Гигантская муха",
   "type": "npc",
   "_id": "d0y3xGa285OXbOCa",
-  "img": "systems/black-flag/artwork/types/npc.svg",
+  "img": "systems/black-flag-ru/artwork/types/npc.svg",
   "system": {
     "attributes": {
       "ac": {
@@ -149,7 +149,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Fly",
+    "name": "Гигантская муха",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -157,7 +157,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/types/npc.svg",
+      "src": "systems/black-flag-ru/artwork/types/npc.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -252,7 +252,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1730157765144,
     "modifiedTime": 1730157829728,

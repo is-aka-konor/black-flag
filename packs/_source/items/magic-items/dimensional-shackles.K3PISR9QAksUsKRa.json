@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Dimensional Shackles",
+  "name": "Пространственные кандалы",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -79,7 +79,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Shackle",
+        "name": "Серьга",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -151,7 +151,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Attempt Escape",
+        "name": "Попытка побега",
         "img": ""
       }
     },
@@ -179,9 +179,9 @@
   "img": "icons/magic/control/debuff-chains-shackles-movement-blue.webp",
   "effects": [
     {
-      "name": "Shackled",
+      "name": "Скованный",
       "img": "icons/magic/control/debuff-chains-shackles-movement-blue.webp",
-      "origin": "Compendium.black-flag.items.Item.K3PISR9QAksUsKRa",
+      "origin": "Compendium.black-flag-ru.items.Item.K3PISR9QAksUsKRa",
       "transfer": false,
       "_id": "KxtCGnrfcOGnByz0",
       "type": "base",
@@ -197,7 +197,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal.</p>",
+      "description": "<p>Помимо того, что кандалы оказываются одинаковыми кандалами, они не допускают использования какого-либо связанного ими метода межпространственного перемещения, включая телепортацию или путешествие по другому плану освещения. Они не мешают существующему проходу через межпространственный портал.</p>",
       "tint": "#ffffff",
       "statuses": [
         "restrained"
@@ -208,7 +208,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.047",
         "createdTime": 1727900496699,
         "modifiedTime": 1727900529341,
@@ -227,7 +227,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983909978,
     "modifiedTime": 1756335309799,

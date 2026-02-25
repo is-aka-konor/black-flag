@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Javelin",
+  "name": "Копье",
   "type": "weapon",
   "_id": "8wAd9MmtaW1tizSN",
   "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
@@ -72,7 +72,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024052999,

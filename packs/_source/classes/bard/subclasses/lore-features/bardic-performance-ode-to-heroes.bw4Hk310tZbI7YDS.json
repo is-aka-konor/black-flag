@@ -1,6 +1,6 @@
 {
   "folder": "qMTJQup73eOQq8Qf",
-  "name": "Bardic Performance: Ode to Heroes",
+  "name": "Бардовское выступление: Ода героям",
   "type": "feature",
   "_id": "bw4Hk310tZbI7YDS",
   "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717617971727,

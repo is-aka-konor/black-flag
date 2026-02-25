@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Helm of Comprehending Languages",
+  "name": "Шлем понимания языков",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag.spells.Item.wyKjdoHh1PVEId7q]{comprehend languages}</em> spell from it.</p>",
+      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.wyKjdoHh1PVEId7q]{comprehend languages}</em> spell from it.</p>",
       "source": {
         "fallback": ""
       }
@@ -21,7 +21,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.wyKjdoHh1PVEId7q",
+            "uuid": "Compendium.black-flag-ru.spells.Item.wyKjdoHh1PVEId7q",
             "challenge": {
               "attack": null,
               "save": null,
@@ -112,7 +112,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1724985773144,
     "modifiedTime": 1729531088796,

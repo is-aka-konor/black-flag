@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Sleet Storm",
+  "name": "мокрый снег",
   "type": "spell",
   "_id": "UfwtYcFkww3Vx8rd",
   "img": "icons/magic/water/projectile-icecicles-salvo.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames are doused.</p><p>The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell’s area for the first time on a turn or starts its turn there, it must make a [[/save DEX dc=@spellcasting.dc]] save. On a failed save, it falls prone.</p><p>If a creature is concentrating in the spell’s area, the creature must make a successful [[/save CON dc=@spellcasting.dc]] save against your spell save DC or lose concentration.</p>",
       "source": {},
-      "short": "Ice disrupts movement, concentration."
+      "short": "Лед нарушает движение, концентрацию."
     },
     "source": [
       "primordial"
@@ -81,7 +81,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a pinch of dust and a few drops of water"
+        "description": "щепотка пыли и несколько капель воды"
       }
     },
     "duration": {
@@ -120,7 +120,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718732235366,

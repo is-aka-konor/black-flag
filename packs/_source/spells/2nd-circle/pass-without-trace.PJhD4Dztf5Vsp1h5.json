@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Pass Without Trace",
+  "name": "Пройти без следа",
   "type": "spell",
   "_id": "PJhD4Dztf5Vsp1h5",
   "img": "icons/magic/nature/wolf-paw-glow-orange.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to DEX (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.</p>",
       "source": {},
-      "short": "Group has +10 Stealth, no tracks."
+      "short": "Группа имеет +10 к Скрытности, гусениц нет."
     },
     "casting": {
       "value": null,
@@ -91,7 +91,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "ashes from a burned leaf of mistletoe and sprig of spruce"
+        "description": "пепел от сгоревшего листа омелы и веточки ели"
       }
     },
     "duration": {
@@ -127,7 +127,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.PJhD4Dztf5Vsp1h5",
+      "origin": "Compendium.black-flag-ru.spells.Item.PJhD4Dztf5Vsp1h5",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -138,7 +138,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Pass Without Trace",
+      "name": "Пройти без следа",
       "img": "icons/magic/nature/wolf-paw-glow-orange.webp",
       "_id": "M0ZwTRWpHFQdkYMT",
       "type": "base",
@@ -151,7 +151,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have a +10 bonus to DEX (Stealth) checks and can’t be tracked except by magical means. You leave behind no tracks or other traces of your passage.</p>",
+      "description": "<p>У вас есть бонус +10 к проверкам ЛВК (Скрытность), и вас нельзя выследить, кроме как магическими средствами. Вы не оставляете после себя никаких следов или других следов своего прохождения.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -161,7 +161,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723155659319,
         "modifiedTime": 1723155881956,
@@ -179,7 +179,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723092965520,
     "modifiedTime": 1723698131442,

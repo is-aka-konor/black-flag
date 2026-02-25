@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Mend the Broken",
+  "name": "Починить сломанное",
   "type": "feature",
   "_id": "q8PDPvedS5zIwvvU",
   "img": "icons/commodities/tech/wire-spliced.webp",
@@ -121,7 +121,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127693014,

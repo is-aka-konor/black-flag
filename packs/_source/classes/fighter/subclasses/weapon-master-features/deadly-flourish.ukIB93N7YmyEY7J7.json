@@ -1,6 +1,6 @@
 {
   "folder": "O4IxXknv80RC9gjl",
-  "name": "Deadly Flourish",
+  "name": "Смертельный расцвет",
   "type": "feature",
   "_id": "ukIB93N7YmyEY7J7",
   "img": "icons/skills/melee/strike-blade-scimitar-blue-red.webp",
@@ -39,7 +39,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1715715771360,

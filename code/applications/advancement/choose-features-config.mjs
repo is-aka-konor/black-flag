@@ -19,20 +19,20 @@ export default class ChooseFeaturesConfig extends GrantFeaturesConfig {
 	static PARTS = {
 		config: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		details: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/choose-features-config-details.hbs"
+			template: "systems/black-flag-ru/templates/advancement/choose-features-config-details.hbs"
 		},
 		items: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/choose-features-config-items.hbs",
-			templates: ["systems/black-flag/templates/advancement/parts/features-list.hbs"]
+			template: "systems/black-flag-ru/templates/advancement/choose-features-config-items.hbs",
+			templates: ["systems/black-flag-ru/templates/advancement/parts/features-list.hbs"]
 		},
 		levels: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/advancement/parts/choice-levels.hbs"
+			template: "systems/black-flag-ru/templates/advancement/parts/choice-levels.hbs"
 		}
 	};
 

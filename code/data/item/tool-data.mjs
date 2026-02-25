@@ -48,7 +48,7 @@ export default class ToolData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Tool",
 				icon: "fa-solid fa-screwdriver-wrench",
-				img: "systems/black-flag/artwork/types/tool.svg"
+				img: "systems/black-flag-ru/artwork/types/tool.svg"
 			},
 			{ inplace: false }
 		)

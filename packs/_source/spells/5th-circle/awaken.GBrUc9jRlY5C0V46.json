@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Awaken",
+  "name": "Пробудиться",
   "type": "spell",
   "_id": "GBrUc9jRlY5C0V46",
   "img": "icons/creatures/magical/spirit-undead-ghost-tan-teal.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller Beast or Plant. The target must have no INT or an INT of 3 (−4) or lower to be affected by this spell.</p><p>The target gains INT of 10 (+0) and the ability to speak one language you know. If the target is a Plant, it gains mobility, can move its limbs, roots, vines, creepers, and so forth, and gains senses similar to a human’s. Your GM chooses statistics appropriate for the awakened Plant, such as the statistics for the <strong>awakened shrub</strong> or the <strong>awakened tree</strong>.</p><p>The awakened Beast or Plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you based on how you treated it while it was charmed.</p>",
       "source": {},
-      "short": "Make a Beast or Plant sentient."
+      "short": "Сделайте зверя или растение разумным."
     },
     "source": [
       "primordial"
@@ -77,7 +77,7 @@
         "consumed": true,
         "cost": 1000,
         "denomination": "gp",
-        "description": "an agate worth at least 1,000 gp, which the spell consumes"
+        "description": "агат стоимостью не менее 1000 зм, который расходуется на заклинание"
       }
     },
     "duration": {
@@ -111,7 +111,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720204553959,

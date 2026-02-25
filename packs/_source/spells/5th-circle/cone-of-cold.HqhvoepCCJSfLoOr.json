@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Cone of Cold",
+  "name": "Конус холода",
   "type": "spell",
   "_id": "HqhvoepCCJSfLoOr",
   "img": "icons/magic/water/projectile-bolts-salvo-blue.webp",
@@ -65,7 +65,7 @@
     "description": {
       "value": "<p>A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a [[/damage]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p>A creature killed by this spell becomes a frozen statue until it thaws.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the damage increases by [[/damage 1d8 cold]]{1d8} for each circle above 5th.</p>",
       "source": {},
-      "short": "60-ft. cone of cold."
+      "short": "60 футов. конус холода."
     },
     "type": {
       "value": "standard"
@@ -87,7 +87,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a small crystal or glass cone",
+        "description": "небольшой хрустальный или стеклянный конус",
         "consumed": false,
         "denomination": "gp"
       }
@@ -127,7 +127,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997622421,

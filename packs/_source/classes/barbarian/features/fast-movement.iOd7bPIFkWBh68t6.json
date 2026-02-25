@@ -1,6 +1,6 @@
 {
   "folder": "PEMLuhC7aYMz4s84",
-  "name": "Fast Movement",
+  "name": "Быстрое движение",
   "type": "feature",
   "_id": "iOd7bPIFkWBh68t6",
   "img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.046",
     "coreVersion": "13.347",
     "createdTime": 1717383192237,

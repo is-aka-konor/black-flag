@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Instant Fortress",
+  "name": "Мгновенная крепость",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -91,7 +91,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Expand/Collapse",
+        "name": "Развернуть/Свернуть",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -135,7 +135,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724985860754,
     "modifiedTime": 1756334157142,

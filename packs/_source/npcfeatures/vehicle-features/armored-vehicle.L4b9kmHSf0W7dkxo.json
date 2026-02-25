@@ -1,5 +1,5 @@
 {
-  "name": "Armored Vehicle",
+  "name": "Бронированная машина",
   "type": "feature",
   "system": {
     "identifier": {
@@ -47,7 +47,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733437940754,
     "modifiedTime": 1733438478138,

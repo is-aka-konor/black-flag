@@ -13,7 +13,7 @@ export default class CheckActivity extends Activity {
 			{
 				type: "check",
 				dataModel: CheckData,
-				icon: "systems/black-flag/artwork/activities/check.svg",
+				icon: "systems/black-flag-ru/artwork/activities/check.svg",
 				title: "BF.CHECK.Title",
 				hint: "BF.CHECK.Hint",
 				usage: {
@@ -68,7 +68,7 @@ export default class CheckActivity extends Activity {
 				icon:
 					checkType === "tool"
 						? '<i class="fa-solid fa-hammer" inert></i>'
-						: '<i class="blackFlag-icon" data-src="systems/black-flag/artwork/activities/check.svg" inert></i>',
+						: '<i class="blackFlag-icon" data-src="systems/black-flag-ru/artwork/activities/check.svg" inert></i>',
 				dataset
 			});
 		};

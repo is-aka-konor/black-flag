@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Project Image",
+  "name": "Изображение проекта",
   "type": "spell",
   "_id": "yzSu4Feaa7RjGXb5",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
@@ -46,13 +46,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Create Copy",
+        "name": "Создать копию",
         "img": ""
       },
       "JYk4Z4l9VQPMsBhx": {
         "type": "utility",
         "_id": "JYk4Z4l9VQPMsBhx",
-        "description": "<p>You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.</p>",
+        "description": "<p>Вы можете видеть его глазами и слышать его ушами, как если бы вы находились в его пространстве. В свой ход в качестве бонусного действия вы можете переключиться с использования его чувств на использование своих собственных или обратно. Пока вы пользуетесь его чувствами, вы ослеплены и оглушены по отношению к своему окружению.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -94,7 +94,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Shift Senses",
+        "name": "Сдвиг чувств",
         "img": ""
       }
     },
@@ -108,7 +108,7 @@
     "description": {
       "value": "<p>You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.</p><p>You can use your action to move this illusion up to twice your speed and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.</p><p>You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful [[/check INT (Investigation) dc=@spellcasting.dc]] check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.</p>",
       "source": {},
-      "short": "Perceive through illusion of you."
+      "short": "Воспринимайте себя через иллюзию."
     },
     "casting": {
       "value": null,
@@ -129,7 +129,7 @@
         "consumed": false,
         "cost": 5,
         "denomination": "gp",
-        "description": "a small replica of you made from materials worth at least 5 gp"
+        "description": "ваша маленькая копия, сделанная из материалов стоимостью не менее 5 зм"
       }
     },
     "duration": {
@@ -170,7 +170,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093502806,
     "modifiedTime": 1723780912260,

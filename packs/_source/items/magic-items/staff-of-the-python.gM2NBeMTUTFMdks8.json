@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of the Python",
+  "name": "Посох Питона",
   "type": "weapon",
   "_id": "gM2NBeMTUTFMdks8",
   "img": "icons/weapons/staves/staff-metal-mask.webp",
@@ -88,7 +88,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Transform",
+        "name": "Трансформировать",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -155,7 +155,7 @@
     "rarity": "uncommon",
     "attunement": {
       "value": "required",
-      "requirement": "by a Cleric, Druid, or Wizard"
+      "requirement": "от Священника, Друида или Волшебника"
     },
     "container": null,
     "magicalBonus": null
@@ -169,7 +169,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590661235,
     "modifiedTime": 1756332569606,

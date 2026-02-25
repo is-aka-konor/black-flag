@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Eldritch Burst",
+  "name": "Жуткий взрыв",
   "type": "feature",
   "_id": "tQNO1Drcya6D6IuN",
   "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376523599,

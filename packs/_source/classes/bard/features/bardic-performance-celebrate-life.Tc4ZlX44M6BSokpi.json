@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Bardic Performance: Celebrate Life",
+  "name": "Бардовское выступление: празднуйте жизнь",
   "type": "feature",
   "_id": "Tc4ZlX44M6BSokpi",
   "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717558748099,

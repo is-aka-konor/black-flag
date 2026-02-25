@@ -1,5 +1,5 @@
 {
-  "name": "Beak",
+  "name": "Клюв",
   "type": "weapon",
   "_id": "Oy9y16lIF2KikQwD",
   "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
@@ -142,7 +142,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709677,
     "modifiedTime": 1756767709677,

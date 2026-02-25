@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Shillelagh",
+  "name": "Шиллелах",
   "type": "spell",
   "_id": "l07uPF7XDuQGBNoe",
   "img": "icons/magic/nature/root-vine-coiled-crook.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of STR for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical if it isn’t already. As part of the same action used to cast this spell, you can make a single melee attack with the shillelagh, provided a creature is within the weapon’s range.</p><p>The spell ends if you cast it again or if you let go of the weapon.</p>",
       "source": {},
-      "short": "Empower your wooden weapon."
+      "short": "Усильте свое деревянное оружие."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "mistletoe, a shamrock leaf, and a club or quarterstaff",
+        "description": "омела, лист трилистника и дубинка или посох",
         "denomination": "pp",
         "consumed": false
       }
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997899543,

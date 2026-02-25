@@ -1,6 +1,6 @@
 {
   "folder": "FUnjG0V10gg8lqPG",
-  "name": "Ring Mail",
+  "name": "Кольцевая почта",
   "type": "armor",
   "_id": "eu0rwXeQY3hIz8dq",
   "img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1701023540749,

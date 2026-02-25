@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Scholar",
+  "name": "ученый",
   "type": "background",
   "img": "icons/sundries/books/book-stack.webp",
   "system": {
@@ -86,13 +86,13 @@
           "type": "talent",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.talents.Item.6khzLigcWfJj93jG"
+              "uuid": "Compendium.black-flag-ru.talents.Item.6khzLigcWfJj93jG"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.XgPmZKWdA0WJ9BVl"
+              "uuid": "Compendium.black-flag-ru.talents.Item.XgPmZKWdA0WJ9BVl"
             },
             {
-              "uuid": "Compendium.black-flag.talents.Item.nYc9jTRZrMMw8NoX"
+              "uuid": "Compendium.black-flag-ru.talents.Item.nYc9jTRZrMMw8NoX"
             }
           ]
         },
@@ -107,7 +107,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.yvLBjGT8I86xY4z9",
+              "key": "Compendium.black-flag-ru.items.Item.yvLBjGT8I86xY4z9",
               "requiresProficiency": false,
               "_id": "x3hl4bEk8fjBDCbH",
               "group": "",
@@ -116,7 +116,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.VV6ru5ffXwyXnPvq",
+              "key": "Compendium.black-flag-ru.items.Item.VV6ru5ffXwyXnPvq",
               "requiresProficiency": false,
               "_id": "4FgZH1HFgCfSm4Xr",
               "group": "",
@@ -125,7 +125,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.KrKSWy3eDn4Lf46k",
+              "key": "Compendium.black-flag-ru.items.Item.KrKSWy3eDn4Lf46k",
               "requiresProficiency": false,
               "_id": "egS3LfxXJib3T0ET",
               "group": "",
@@ -134,7 +134,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.sXQqSZcEpEeT29vT",
+              "key": "Compendium.black-flag-ru.items.Item.sXQqSZcEpEeT29vT",
               "requiresProficiency": false,
               "_id": "0Rcda2kpoVMRfC6X",
               "group": "",
@@ -143,7 +143,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.5AfLmOnVqJHTuZMP",
+              "key": "Compendium.black-flag-ru.items.Item.5AfLmOnVqJHTuZMP",
               "requiresProficiency": false,
               "_id": "8SjNFFK2Hw0P2ilC",
               "group": "",
@@ -152,7 +152,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.SttZ2VQd3PLoBTnt",
+              "key": "Compendium.black-flag-ru.items.Item.SttZ2VQd3PLoBTnt",
               "requiresProficiency": false,
               "_id": "JQL1S6PK38Va1qzc",
               "group": "",
@@ -161,7 +161,7 @@
             {
               "type": "linked",
               "count": 10,
-              "key": "Compendium.black-flag.currencies.Item.eWMYzM5UVZUDIqtg",
+              "key": "Compendium.black-flag-ru.currencies.Item.eWMYzM5UVZUDIqtg",
               "requiresProficiency": false,
               "_id": "7TlCtWjNRUQsxfgY",
               "group": "",
@@ -183,7 +183,7 @@
       "short": "",
       "source": {},
       "value": "<p>@Embed[.Advancement.pEYskJJdpwVHJhJi inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.3Qnb0oAVdHBgsK8t inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.siKPfdbIxGakSmTN inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.8jc0KWnsuX1WvfdT inline list=false]</p>",
-      "journal": "Compendium.black-flag.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
     },
     "identifier": {
       "value": "scholar"
@@ -195,7 +195,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1694990673091,

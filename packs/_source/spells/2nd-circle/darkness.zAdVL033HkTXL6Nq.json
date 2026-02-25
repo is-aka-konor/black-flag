@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Darkness",
+  "name": "Тьма",
   "type": "spell",
   "_id": "zAdVL033HkTXL6Nq",
   "img": "icons/magic/unholy/barrier-shield-glowing-pink.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.</p><p>If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</p><p>If any of this spell’s area overlaps with an area of light created by a 2nd circle spell or lower, the spell that created the light is dispelled.</p>",
       "source": {},
-      "short": "15-ft. radius magical darkness."
+      "short": "15 футов. радиус магической тьмы."
     },
     "type": {
       "value": "standard"
@@ -56,7 +56,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "bat fur and pitch or piece of coal",
+        "description": "мех летучей мыши и смола или кусок угля",
         "consumed": false,
         "denomination": "gp"
       }
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "coreVersion": "13.347",
     "createdTime": 1706932883787,

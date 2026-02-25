@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Arcane Eye",
+  "name": "Чародейский глаз",
   "type": "spell",
   "_id": "scoWKasjNs2nBEJ1",
   "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision to a range of 30 feet. The eye can look in every direction.</p><p>As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.</p>",
       "source": {},
-      "short": "Floating eye to spy through."
+      "short": "Плавающий глаз для шпионажа."
     },
     "source": [
       "arcane"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a bit of bat fur"
+        "description": "немного меха летучей мыши"
       }
     },
     "duration": {
@@ -113,7 +113,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720202100601,

@@ -1,5 +1,5 @@
 {
-  "name": "Magic Items",
+  "name": "Магические предметы",
   "sorting": "a",
   "folder": null,
   "type": "RollTable",
@@ -11,7 +11,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "12.331",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "createdTime": 1725739096023,
     "modifiedTime": 1725739096023,

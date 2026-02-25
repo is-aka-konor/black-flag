@@ -1,9 +1,9 @@
 {
   "folder": "FFlPMIZKxcUrNSW5",
-  "name": "Green Hag",
+  "name": "Зеленая ведьма",
   "type": "npc",
   "_id": "vlOJ3k4XJoZhhkdK",
-  "img": "systems/black-flag/artwork/tokens/hag-green.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/hag-green.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -152,7 +152,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Green Hag",
+    "name": "Зеленая ведьма",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -160,7 +160,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/hag-green.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/hag-green.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -247,7 +247,7 @@
   },
   "items": [
     {
-      "name": "Amphibious",
+      "name": "амфибия",
       "type": "feature",
       "_id": "v5reWI6NfbD14y7P",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -301,7 +301,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.RIs2Tj0lPhYJNcJ3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -315,7 +315,7 @@
       "_key": "!actors.items!vlOJ3k4XJoZhhkdK.v5reWI6NfbD14y7P"
     },
     {
-      "name": "Fey Resilience",
+      "name": "Фейская устойчивость",
       "type": "feature",
       "_id": "klfKv13XP9QtV5pX",
       "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -358,7 +358,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -369,7 +369,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Resilience",
+          "name": "Фейская устойчивость",
           "_id": "xsKr4hZ7kVgeQaXM",
           "changes": [
             {
@@ -394,7 +394,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -420,7 +420,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ktWTCgJSzoZompKX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -472,7 +472,7 @@
           "value": null
         }
       },
-      "name": "Speak with Beasts",
+      "name": "Поговорите со зверями",
       "type": "feature",
       "_id": "FzdZBJKvVPYpqN4c",
       "img": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
@@ -492,7 +492,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -502,7 +502,7 @@
       "_key": "!actors.items!vlOJ3k4XJoZhhkdK.FzdZBJKvVPYpqN4c"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "3OT2CR1IE7EwcUdM",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -569,7 +569,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -622,7 +622,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -701,7 +701,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -746,7 +746,7 @@
           "value": null
         }
       },
-      "name": "Poisonous Allies",
+      "name": "Ядовитые союзники",
       "type": "feature",
       "_id": "GtWsJI0G3MAFemTV",
       "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
@@ -766,7 +766,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -835,7 +835,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -875,7 +875,7 @@
           "value": null
         }
       },
-      "name": "Invisible Passage",
+      "name": "Невидимый проход",
       "type": "feature",
       "_id": "KmvJ9lxPDic8ykcA",
       "img": "icons/magic/control/silhouette-hold-change-green.webp",
@@ -895,7 +895,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -906,7 +906,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Dancing Lights",
+      "name": "Танцующие огни",
       "type": "spell",
       "_id": "gpETzcxIoA2ilLxp",
       "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
@@ -915,7 +915,7 @@
           "bBlfxOiyMKUenQNO": {
             "type": "utility",
             "_id": "bBlfxOiyMKUenQNO",
-            "description": "<p>You create up to four torch-sized lights, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p>",
+            "description": "<p>Вы представляете источник четырех световых величин размером с факелы, делающие их похожими на факелы, фонарики или светящиеся шары, которые парят в атмосфере во время действия. Вы также можете указать источник четырех светов в смутно светящейся гуманоидной форме среднего размера. Какую бы форму вы ни выбрали, каждый источник света излучает тусклый свет в радиусе 10 футов._</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -942,8 +942,8 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Create Lights",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "name": "Создать источники света",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -970,7 +970,7 @@
           "XkgSY5VgLzZCE5M9": {
             "type": "utility",
             "_id": "XkgSY5VgLzZCE5M9",
-            "description": "<p>You move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.</p>",
+            "description": "<p>Вы перемещаете фонари на расстояние до 60 футов в новое место в пределах досягаемости. Свет должен находиться в пределах 20 футов от другого источника света, созданного этим заклинанием, и свет гаснет, если он выходит за пределы границы заклинания.</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -997,8 +997,8 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Move Lights",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "name": "Переместить свет",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1035,7 +1035,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Make and control four lights."
+          "short": "Создайте и управляйте четырьмя огнями."
         },
         "circle": {
           "value": null,
@@ -1054,7 +1054,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of phosphorus or wychwood, or a glowworm",
+            "description": "немного фосфора, вичвуда или светлячка",
             "denomination": "pp",
             "consumed": false
           }
@@ -1104,9 +1104,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.YEjQ3ADloS9QFghm",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.YEjQ3ADloS9QFghm",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1117,7 +1117,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Minor Illusion",
+      "name": "Незначительная иллюзия",
       "type": "spell",
       "_id": "MBcUFYmObvxOyLdy",
       "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -1185,7 +1185,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Small illusory sound or image."
+          "short": "Маленький иллюзорный звук или изображение."
         },
         "circle": {
           "value": null,
@@ -1203,7 +1203,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a bit of fleece",
+            "description": "немного флиса",
             "denomination": "pp",
             "consumed": false
           }
@@ -1248,9 +1248,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.AR6lGdaHEnUy6Em6",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.AR6lGdaHEnUy6Em6",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1261,7 +1261,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Bestow Curse",
+      "name": "Наложить проклятие",
       "type": "spell",
       "_id": "mp0lQeRHkKzYReJy",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-teal.webp",
@@ -1310,7 +1310,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1352,7 +1352,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Choose a bad effect for a foe."
+          "short": "Выберите плохой эффект для противника."
         },
         "circle": {
           "value": null,
@@ -1424,9 +1424,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.f1ovNdb57AhbmDUn",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.f1ovNdb57AhbmDUn",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1540,7 +1540,7 @@
           "value": null
         }
       },
-      "name": "Illusory Appearance",
+      "name": "Иллюзорная внешность",
       "type": "feature",
       "_id": "F27gETljCNTM99bU",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -1556,7 +1556,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.15XUrcQZmwWwQxFY",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1635,7 +1635,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Insight Check",
+            "name": "Проверка понимания",
             "img": ""
           }
         },
@@ -1674,7 +1674,7 @@
           "value": null
         }
       },
-      "name": "Mimicry",
+      "name": "Мимикрия",
       "type": "feature",
       "_id": "Ab8ZRJHDZS5Wz8uI",
       "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
@@ -1694,7 +1694,7 @@
         "compendiumSource": "Actor.w0wchIrkh5xU1YYj.Item.c9RcY7a6qZ7KcDKm",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1704,7 +1704,7 @@
       "_key": "!actors.items!vlOJ3k4XJoZhhkdK.Ab8ZRJHDZS5Wz8uI"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "pnlDgv5bxagXSn9a",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1754,7 +1754,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1864,7 +1864,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935863,
         "modifiedTime": 1756755771557,
@@ -1951,7 +1951,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -2020,7 +2020,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Torment",
+      "name": "Мучение",
       "type": "weapon",
       "_id": "H3OCoNhIFjDOt3FW",
       "img": "icons/magic/control/fear-fright-white.webp",
@@ -2041,7 +2041,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935863,
         "modifiedTime": 1756755777113,
@@ -2055,7 +2055,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

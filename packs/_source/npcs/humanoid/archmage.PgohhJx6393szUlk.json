@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Archmage",
+  "name": "Архимаг",
   "type": "npc",
   "_id": "PgohhJx6393szUlk",
-  "img": "systems/black-flag/artwork/tokens/archmage.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/archmage.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Archmage",
+    "name": "Архимаг",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -156,7 +156,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/archmage.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/archmage.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -243,7 +243,7 @@
   },
   "items": [
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "5VVp6NoZQW4FolK6",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -297,7 +297,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -349,7 +349,7 @@
           "value": null
         }
       },
-      "name": "Magic Ward",
+      "name": "Магический оберег",
       "type": "feature",
       "_id": "lHxHPnB1Z1jmEZSL",
       "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
@@ -366,7 +366,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Magic Ward",
+          "name": "Магический оберег",
           "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
           "_id": "2cdQA9F2slaKrThK",
           "type": "base",
@@ -389,7 +389,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -414,7 +414,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -424,7 +424,7 @@
       "_key": "!actors.items!PgohhJx6393szUlk.lHxHPnB1Z1jmEZSL"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "d21EgVgfYZ2nTLrh",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -528,7 +528,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -698,7 +698,7 @@
           "value": null
         }
       },
-      "name": "Burst of Magic",
+      "name": "Взрыв магии",
       "type": "feature",
       "_id": "wI8t6ZxymAU5SuTv",
       "img": "icons/magic/light/explosion-impact-purple.webp",
@@ -725,7 +725,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -736,7 +736,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Detect Magic",
+      "name": "Обнаружение магии",
       "type": "spell",
       "_id": "yccScRErlZzcPeiD",
       "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
@@ -808,7 +808,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Sense nearby magic."
+          "short": "Почувствуйте близкую магию."
         },
         "circle": {
           "value": null,
@@ -862,9 +862,9 @@
       },
       "effects": [
         {
-          "name": "Detect Magic",
+          "name": "Обнаружение магии",
           "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
-          "origin": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+          "origin": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
           "transfer": false,
           "_id": "pn3JeNsWe9uDUK85",
           "type": "base",
@@ -880,7 +880,7 @@
             "startRound": null,
             "startTurn": null
           },
-          "description": "<p>You sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+          "description": "<p>Вы отметили присутствие магии в пределах 30 футов от себя. Если вы покажете такую ​​магию, вы сможете создать слабую ауру вокруг любого видимого существа или предмета в области небольшой магии и изучить его школьную магию, если таковая имеется.</p><p>Заклинание может проникнуть через все барьеры, но оно блокируется 1 футом камня, 1 дюймом соответствующего металла, окруженным листом свинца или 3 футами дерева или земли.</p>",
           "tint": "#ffffff",
           "statuses": [],
           "sort": 0,
@@ -889,7 +889,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -912,9 +912,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.jhMAM81keoyqBzsy",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -925,7 +925,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Disguise Self",
+      "name": "Маскировка себя",
       "type": "spell",
       "_id": "cWNJ0Yd1JN6UtHdS",
       "img": "icons/equipment/head/mask-horned-brown.webp",
@@ -997,7 +997,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Change your basic appearance."
+          "short": "Измените свой основной внешний вид."
         },
         "circle": {
           "value": null,
@@ -1048,9 +1048,9 @@
       },
       "effects": [
         {
-          "name": "Disguise Self",
+          "name": "Маскировка себя",
           "img": "icons/equipment/head/mask-horned-brown.webp",
-          "origin": "Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC",
+          "origin": "Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC",
           "transfer": false,
           "_id": "Dwm0CIwWcOqfYvsO",
           "type": "base",
@@ -1066,7 +1066,7 @@
             "startRound": null,
             "startTurn": null
           },
-          "description": "<p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p>",
+          "description": "<p>Вы заставляете себя – включая свою одежду, оружие и другие личные вещи – выглядеть по-другому, пока заклинание не завершится или пока вы не замените его. Вы можете казаться на 1 фут ниже или выше, а также худым, толстым или чем-то способным. Вы не можете изменить тип своего телосложения, поэтому вам следует принять форму, имеющую такое же базовое расположение конечностей. В противном случае степень иллюзии зависит от вас._</p>",
           "tint": "#ffffff",
           "statuses": [],
           "sort": 0,
@@ -1075,7 +1075,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1098,9 +1098,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1111,7 +1111,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Mage Hand",
+      "name": "Магическая рука",
       "type": "spell",
       "_id": "B1dEftsjqQs3nMBX",
       "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
@@ -1179,7 +1179,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Magical hand for simple tasks."
+          "short": "Волшебная рука для простых задач."
         },
         "circle": {
           "value": null,
@@ -1243,9 +1243,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.z0bwd75DutQ7TOcY",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.z0bwd75DutQ7TOcY",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1256,7 +1256,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Prestidigitation",
+      "name": "Престидигитация",
       "type": "spell",
       "_id": "Y1QnHvxBjj72oDzu",
       "img": "icons/magic/symbols/runes-triangle-orange-purple.webp",
@@ -1324,7 +1324,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless magical effect."
+          "short": "Безвредный магический эффект."
         },
         "circle": {
           "value": null,
@@ -1387,9 +1387,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.TgJgOsNetxkikvZa",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.TgJgOsNetxkikvZa",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1400,7 +1400,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Charm",
+      "name": "Очарование",
       "type": "spell",
       "_id": "QcIl5GRJoJqCti8B",
       "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
@@ -1495,7 +1495,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Compel creature to trust you."
+          "short": "Заставьте существо доверять вам."
         },
         "circle": {
           "value": null,
@@ -1549,7 +1549,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+          "origin": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1560,10 +1560,10 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Charm",
+          "name": "Очарование",
           "_id": "MHWYFHDDXmIygkPs",
           "changes": [],
-          "description": "<p>You are charmed by the caster until the spell ends or until they or their companions do anything harmful to you. You regards the caster as a friendly acquaintance. When the spell ends, you know you were charmed by them.</p>",
+          "description": "<p>Вы очарованы заклинателем до тех пор, пока заклинание не завершится или пока он или его товарищи не причинят вам ничего вредного. Вы относитесь к заклинателю как к знакомому исчезновению. Когда заклинание завершится, вы поймете, что были очарованы ими.</p>",
           "transfer": false,
           "statuses": [
             "charmed"
@@ -1574,7 +1574,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1606,9 +1606,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1619,7 +1619,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Dispel Magic",
+      "name": "Рассеять магию",
       "type": "spell",
       "_id": "LDFbmJijL5LTGAxf",
       "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -1707,7 +1707,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Break an ongoing spell."
+          "short": "Прервите действующее заклинание."
         },
         "circle": {
           "value": null,
@@ -1776,9 +1776,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1789,7 +1789,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Fly",
+      "name": "Летать",
       "type": "spell",
       "_id": "sGarS3ihuDyqxdIh",
       "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
@@ -1881,7 +1881,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally gets 60 ft. flying speed."
+          "short": "Союзник получает скорость полета 60 футов."
         },
         "circle": {
           "value": null,
@@ -1900,7 +1900,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a wing feather from any bird",
+            "description": "перо от любой птицы",
             "consumed": false,
             "denomination": "gp"
           }
@@ -1938,7 +1938,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.9m3weZVFQcscp85O",
+          "origin": "Compendium.black-flag-ru.spells.Item.9m3weZVFQcscp85O",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1949,7 +1949,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fly",
+          "name": "Летать",
           "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
           "_id": "mKgHbYahQqGnugbp",
           "type": "base",
@@ -1972,7 +1972,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2000,9 +2000,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.9m3weZVFQcscp85O",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.9m3weZVFQcscp85O",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2013,7 +2013,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Invisibility (Self Only)",
+      "name": "Невидимость (только для себя)",
       "type": "spell",
       "_id": "FBto2pZTM0d18keC",
       "img": "icons/magic/control/silhouette-hold-change-green.webp",
@@ -2101,7 +2101,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally becomes invisible."
+          "short": "Союзник становится невидимым."
         },
         "circle": {
           "value": null,
@@ -2120,7 +2120,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "an eyelash encased in tree sap",
+            "description": "ресница, залитая соком дерева",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2170,9 +2170,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2183,7 +2183,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Mirror Image",
+      "name": "Зеркальное изображение",
       "type": "spell",
       "_id": "0p35WhiHvGKrVz13",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -2247,7 +2247,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -2269,7 +2269,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Copies of you deflect attacks."
+          "short": "Ваши копии отражают атаки."
         },
         "circle": {
           "value": null,
@@ -2331,9 +2331,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.29lF0OpdddD1nOn2",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.29lF0OpdddD1nOn2",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2344,7 +2344,7 @@
     },
     {
       "folder": "tCxdqzClsLOnTgfE",
-      "name": "Dimension Door",
+      "name": "Размерная дверь",
       "type": "spell",
       "_id": "qmnGudjDJvjAJ39M",
       "img": "icons/magic/movement/trail-streak-pink.webp",
@@ -2408,7 +2408,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "magical": false,
             "sort": 0
           }
@@ -2430,7 +2430,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Teleport 500 ft. for two."
+          "short": "Телепорт на 500 футов на двоих."
         },
         "source": [
           "arcane",
@@ -2497,9 +2497,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.a79cPbF5G33jiDBa",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.a79cPbF5G33jiDBa",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2510,7 +2510,7 @@
     },
     {
       "folder": "rRg9we6fU3e9Hvu7",
-      "name": "Greater Hold",
+      "name": "Большой Холд",
       "type": "spell",
       "_id": "pabgHHIvjU9a6StM",
       "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
@@ -2579,7 +2579,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           },
@@ -2691,7 +2691,7 @@
             "consumed": false,
             "cost": null,
             "denomination": "gp",
-            "description": "a small, straight piece of iron"
+            "description": "небольшой, прямой кусок железа"
           }
         },
         "duration": {
@@ -2724,7 +2724,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.09Sensm5KJcvLdhx",
+          "origin": "Compendium.black-flag-ru.spells.Item.09Sensm5KJcvLdhx",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2735,13 +2735,13 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Greater Hold",
+          "name": "Большой Холд",
           "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
           "_id": "tsOaoxMRt50UThBg",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>You are paralyzed. At the end of each of your turns, you can repeat the [[/save wisdom]] save, ending the effect on a success.</p>",
+          "description": "<p>Вы парализованы. В конце каждого вашего хода вы можете просмотреть спасбросок [[/save wisdom]], прекратив эффект при успехе.</p>",
           "tint": "#ffffff",
           "transfer": false,
           "statuses": [
@@ -2753,7 +2753,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2781,9 +2781,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.09Sensm5KJcvLdhx",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.09Sensm5KJcvLdhx",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2794,7 +2794,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Wall of Force",
+      "name": "Стена Силы",
       "type": "spell",
       "_id": "k7TGQjGqtjwwqr6J",
       "img": "icons/magic/defensive/barrier-shield-dome-deflect-teal.webp",
@@ -2882,7 +2882,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "An invisible wall of force springs into existence at a point you choose within range."
+          "short": "Невидимая стена силы возникает в выбранной вами точке в пределах досягаемости."
         },
         "source": [
           "arcane",
@@ -2907,7 +2907,7 @@
             "consumed": false,
             "cost": null,
             "denomination": "gp",
-            "description": "A pinch of powder made by crushing a clear gemston"
+            "description": "Щепотка порошка, полученная путем измельчения прозрачного драгоценного камня."
           }
         },
         "duration": {
@@ -2958,7 +2958,7 @@
         "compendiumSource": "Item.HTmvpHlZsk6FlDoy",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3070,7 +3070,7 @@
           "value": null
         }
       },
-      "name": "Shimmering Step",
+      "name": "Мерцающий шаг",
       "type": "feature",
       "_id": "tLsO0jSRVBpBsPUe",
       "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -3090,7 +3090,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3177,7 +3177,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the archmage can see within 30 feet of it casts a spell, the archmage can counter the spell, interrupting the casting. This reaction works like the <em>@UUID[Compendium.black-flag.spells.Item.Uxv1vWfoFhwbXMLt]{counterspell}</em> spell with a +5 spellcasting ability check, except the archmage must always make the ability check, regardless of the spell’s circle. The archmage has advantage on this check if the spell is on the Arcane source spell list.</p>",
+          "value": "<p>When a creature the archmage can see within 30 feet of it casts a spell, the archmage can counter the spell, interrupting the casting. This reaction works like the <em>@UUID[Compendium.black-flag-ru.spells.Item.Uxv1vWfoFhwbXMLt]{counterspell}</em> spell with a +5 spellcasting ability check, except the archmage must always make the ability check, regardless of the spell’s circle. The archmage has advantage on this check if the spell is on the Arcane source spell list.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3203,7 +3203,7 @@
           "value": null
         }
       },
-      "name": "Counter Spell",
+      "name": "Контрзаклинание",
       "type": "feature",
       "_id": "33Pb2G4I0ypqO5WA",
       "img": "icons/magic/symbols/runes-star-blue.webp",
@@ -3223,7 +3223,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3309,7 +3309,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -3385,7 +3385,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -3403,7 +3403,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 17 format=long]] or be pushed up to 10 feet away from the archmage and knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 17 format=long]] or be pushed up to 10 feet away from the archmage and knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -3453,7 +3453,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Arcane Blast",
+      "name": "Чародейская вспышка",
       "type": "weapon",
       "_id": "pen1bwAEx4y3k8lv",
       "img": "icons/magic/light/beam-rays-orange-large.webp",
@@ -3474,7 +3474,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931130,
         "modifiedTime": 1756757651889,
@@ -3488,7 +3488,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

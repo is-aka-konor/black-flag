@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Traveler’s Clothes",
+  "name": "Одежда путешественника",
   "type": "sundry",
   "_id": "cu20qkGMLu8ZWzir",
   "img": "icons/equipment/chest/vest-leather-brown.webp",
@@ -34,7 +34,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722101339537,
     "modifiedTime": 1722101389961,

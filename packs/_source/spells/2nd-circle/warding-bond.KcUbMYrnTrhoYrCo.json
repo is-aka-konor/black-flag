@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Warding Bond",
+  "name": "Защитная связь",
   "type": "spell",
   "_id": "KcUbMYrnTrhoYrCo",
   "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-blue.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saves, and it has resistance to all damage. However, each time it takes damage, you take the same amount of damage.</p><p>The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.</p>",
       "source": {},
-      "short": "Halve, share pain with ally."
+      "short": "Разделите половину, поделитесь болью с союзником."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": 100,
-        "description": "a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration",
+        "description": "пара платиновых колец стоимостью не менее 50 зм каждое, которые вы и цель должны носить в течение всего времени действия",
         "consumed": false,
         "denomination": "gp"
       }
@@ -97,9 +97,9 @@
   },
   "effects": [
     {
-      "name": "Warding Bond",
+      "name": "Защитная связь",
       "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-blue.webp",
-      "origin": "Compendium.black-flag.spells.Item.KcUbMYrnTrhoYrCo",
+      "origin": "Compendium.black-flag-ru.spells.Item.KcUbMYrnTrhoYrCo",
       "transfer": false,
       "_id": "lE4WRASYPsebLlgQ",
       "type": "base",
@@ -122,7 +122,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You gain a +1 bonus to your AC and saves, and have resistance to all damage.</p>",
+      "description": "<p>Вы получаете бонус +1 к вашему AC и спасброскам, а также получаете сопротивление ко всему урону.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -131,7 +131,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723603621668,
         "modifiedTime": 1723603751338,
@@ -147,7 +147,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706936077595,

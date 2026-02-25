@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Expeditious Retreat",
+  "name": "Быстрое отступление",
   "type": "spell",
   "_id": "wYuMXx8uaz60HztN",
   "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>This spell allows you to move at an incredible pace. When you first cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.</p>",
       "source": {},
-      "short": "Dash as a bonus action."
+      "short": "Рывок в качестве бонусного действия."
     },
     "type": {
       "value": "standard"
@@ -96,9 +96,9 @@
   },
   "effects": [
     {
-      "name": "Expeditious Retreat",
+      "name": "Быстрое отступление",
       "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
-      "origin": "Compendium.black-flag.spells.Item.wYuMXx8uaz60HztN",
+      "origin": "Compendium.black-flag-ru.spells.Item.wYuMXx8uaz60HztN",
       "transfer": false,
       "_id": "l1nMbXABHSsz7SH3",
       "type": "base",
@@ -114,7 +114,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>As a bonus action on each of your turns until the spell ends, you can take the Dash action.</p>",
+      "description": "<p>В качестве бонусного действия в каждом вашем ходу, пока заклинание не закончится, вы можете совершить действие Рывок.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -123,7 +123,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723605642233,
         "modifiedTime": 1723605657869,
@@ -139,7 +139,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933330523,

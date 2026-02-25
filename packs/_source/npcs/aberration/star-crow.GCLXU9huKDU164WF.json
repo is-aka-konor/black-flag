@@ -1,9 +1,9 @@
 {
   "folder": "RuA1hZVgwPDxXhg8",
-  "name": "Star Crow",
+  "name": "Звездная ворона",
   "type": "npc",
   "_id": "GCLXU9huKDU164WF",
-  "img": "systems/black-flag/artwork/tokens/star-crow.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/star-crow.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -160,13 +160,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Star Crow",
+    "name": "Звездная ворона",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/star-crow.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/star-crow.webp",
       "scaleX": 0.5,
       "scaleY": 0.5,
       "offsetX": 0,
@@ -261,7 +261,7 @@
   },
   "items": [
     {
-      "name": "Aberrant Resilience",
+      "name": "Аберрантная устойчивость",
       "type": "feature",
       "_id": "7YPxEiw14vmWgHZ8",
       "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
@@ -299,7 +299,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -310,7 +310,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Aberrant Resilience",
+          "name": "Аберрантная устойчивость",
           "_id": "vyiAWYKxFWNBOFa1",
           "changes": [
             {
@@ -374,20 +374,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709672456179,
         "modifiedTime": 1712945758786,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!GCLXU9huKDU164WF.7YPxEiw14vmWgHZ8"
     },
     {
-      "name": "Illumination",
+      "name": "Освещение",
       "type": "feature",
       "_id": "QGpVCcTGmdCw3CtE",
       "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -436,20 +436,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711683171451,
         "modifiedTime": 1712945757145,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.7hFDJ5ZQs8kK4Uyx",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!GCLXU9huKDU164WF.QGpVCcTGmdCw3CtE"
     },
     {
-      "name": "Thought Share",
+      "name": "Мысль Поделиться",
       "type": "feature",
       "system": {
         "type": {
@@ -576,7 +576,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712945775022,
@@ -589,7 +589,7 @@
       "_key": "!actors.items!GCLXU9huKDU164WF.i7ORuNrwvzm8a6tH"
     },
     {
-      "name": "Blinding Burst",
+      "name": "Ослепляющий взрыв",
       "type": "feature",
       "system": {
         "type": {
@@ -713,7 +713,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712945775183,
@@ -726,7 +726,7 @@
       "_key": "!actors.items!GCLXU9huKDU164WF.wmk3E9CgZKHdxXLM"
     },
     {
-      "name": "Radiant Touch",
+      "name": "Сияющее прикосновение",
       "type": "weapon",
       "system": {
         "type": {
@@ -779,7 +779,7 @@
               "max": "",
               "consumeQuantity": false
             },
-            "name": "Initial Attack",
+            "name": "Начальная атака",
             "img": "",
             "target": {
               "affects": {
@@ -874,7 +874,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Check to Detach",
+            "name": "STR впоследствии от присоединения",
             "img": "",
             "flags": {},
             "visibility": {
@@ -956,7 +956,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929585,
         "modifiedTime": 1756749610528,
@@ -972,7 +972,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709697032861,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Giant Vulture",
+  "name": "Гигантский стервятник",
   "type": "npc",
   "_id": "jzd7C2z0p2vcCxLU",
-  "img": "systems/black-flag/artwork/tokens/vulture.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/vulture.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -144,7 +144,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Giant Vulture",
+    "name": "Гигантский стервятник",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -152,7 +152,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/vulture.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/vulture.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -342,7 +342,7 @@
           "value": null
         }
       },
-      "name": "Carrion Sense",
+      "name": "Чувство мертвечины",
       "type": "feature",
       "_id": "YBJMPfJdmH8GqLI8",
       "img": "icons/consumables/food/dried-meat-jerky-fish-red.webp",
@@ -358,7 +358,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.qWw6R4BTSpHHgkJu",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -372,7 +372,7 @@
       "_key": "!actors.items!jzd7C2z0p2vcCxLU.YBJMPfJdmH8GqLI8"
     },
     {
-      "name": "Heightened Sight and Smell",
+      "name": "Обостренное зрение и обоняние",
       "type": "feature",
       "_id": "7n0TnXy9RkCvPCzB",
       "img": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp",
@@ -424,7 +424,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.Ax5gVM2QgEToFYuP",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -438,7 +438,7 @@
       "_key": "!actors.items!jzd7C2z0p2vcCxLU.7n0TnXy9RkCvPCzB"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "mhHQco9nf8kWwEMe",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -542,7 +542,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -652,7 +652,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a [[/save format=long]]  or take [[/damage average]] and be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a [[/save format=long]]  or take [[/damage average]] and be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -678,7 +678,7 @@
           "value": null
         }
       },
-      "name": "Defensive Bile",
+      "name": "Защитная желчь",
       "type": "feature",
       "_id": "hvA9BPtIqx65lW6B",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-green.webp",
@@ -698,7 +698,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.D3ifP7BdJ2JiPB0p.Item.UYhRKzUCGf4JBRNg",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -708,7 +708,7 @@
       "_key": "!actors.items!jzd7C2z0p2vcCxLU.hvA9BPtIqx65lW6B"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "yLoublWPypDzd0bh",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -817,7 +817,7 @@
       },
       "effects": [
         {
-          "name": "Pack Tactics",
+          "name": "Тактика стаи",
           "img": "icons/creatures/mammals/wolf-shadow-black.webp",
           "origin": "Actor.W4vQapOttm43LoJU.Item.lbnxXjJzInLDI2jK",
           "transfer": false,
@@ -844,7 +844,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -863,10 +863,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ivOwfLQnIrKPW3bv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ivOwfLQnIrKPW3bv",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -880,7 +880,7 @@
       "_key": "!actors.items!jzd7C2z0p2vcCxLU.yLoublWPypDzd0bh"
     },
     {
-      "name": "Beak",
+      "name": "Клюв",
       "type": "weapon",
       "_id": "Gk8ipQBwxKwSSOdj",
       "img": "icons/commodities/bones/beak-orange-green.webp",
@@ -932,7 +932,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1042,7 +1042,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934114,
         "modifiedTime": 1756750339990,
@@ -1131,7 +1131,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -1200,7 +1200,7 @@
         },
         "rarity": ""
       },
-      "name": "Talons",
+      "name": "Когти",
       "type": "weapon",
       "_id": "GCyJC8igCF9T45oA",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -1217,7 +1217,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934114,
         "modifiedTime": 1756750344841,
@@ -1235,7 +1235,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Dragon Scale Mail (Brass)",
+  "name": "Кольчуга из чешуи дракона (латунь)",
   "type": "armor",
   "img": "icons/equipment/chest/breastplate-rivited-red.webp",
   "system": {
@@ -51,7 +51,7 @@
     "activities": {
       "hZdSWRPfQEouzR4K": {
         "type": "utility",
-        "description": "<p>You can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor.</p>",
+        "description": "<p>Вы можете заметить свои чувства, чтобы магическим образом определить расстояние и направление до ближайшего дракона в радиусе 30 миль от вас, того же типа, что и броня.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -117,7 +117,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Sense Dragons",
+        "name": "Чувственные драконы",
         "img": "",
         "_id": "hZdSWRPfQEouzR4K"
       }
@@ -128,8 +128,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Fire Protection",
-      "origin": "Compendium.black-flag.items.Item.2ECiCbKc64dBvOnv",
+      "name": "Противопожарная защита",
+      "origin": "Compendium.black-flag-ru.items.Item.2ECiCbKc64dBvOnv",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -169,7 +169,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1727900843671,
         "modifiedTime": 1756335328067,
@@ -187,7 +187,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725589217362,
     "modifiedTime": 1735682062227,

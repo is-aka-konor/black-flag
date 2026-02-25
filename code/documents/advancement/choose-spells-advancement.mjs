@@ -19,7 +19,7 @@ export default class ChooseSpellsAdvancement extends ChooseFeaturesAdvancement {
 					value: ChooseSpellsValueData
 				},
 				order: 55,
-				icon: "systems/black-flag/artwork/advancement/choose-spells.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/choose-spells.svg",
 				title: "BF.Advancement.ChooseSpells.Title",
 				hint: "BF.Advancement.ChooseSpells.Hint"
 			},

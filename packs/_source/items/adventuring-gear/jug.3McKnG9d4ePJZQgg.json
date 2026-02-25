@@ -1,5 +1,5 @@
 {
-  "name": "Jug",
+  "name": "Кувшин",
   "type": "gear",
   "_id": "3McKnG9d4ePJZQgg",
   "img": "icons/containers/kitchenware/vase-clay-cracked-white.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717531906105,

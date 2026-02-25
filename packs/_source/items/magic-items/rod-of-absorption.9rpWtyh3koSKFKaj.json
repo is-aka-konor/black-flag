@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Rod of Absorption",
+  "name": "Жезл поглощения",
   "system": {
     "type": {
       "category": "rod"
@@ -99,7 +99,7 @@
           "min": "",
           "max": "50"
         },
-        "name": "Absorb Spell",
+        "name": "Заклинание поглощения",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -190,7 +190,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Convert to Circle",
+        "name": "Преобразовать в круг",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -232,7 +232,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725071137254,
     "modifiedTime": 1756333594962,

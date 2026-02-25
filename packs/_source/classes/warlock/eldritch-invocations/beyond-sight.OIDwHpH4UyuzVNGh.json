@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Beyond Sight",
+  "name": "За пределами поля зрения",
   "type": "feature",
   "_id": "OIDwHpH4UyuzVNGh",
   "img": "icons/magic/perception/eye-winged-pink.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376507951,

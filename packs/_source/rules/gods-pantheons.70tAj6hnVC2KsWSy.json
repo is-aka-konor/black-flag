@@ -1,10 +1,10 @@
 {
-  "name": "Gods & Pantheons",
+  "name": "Боги и Пантеоны",
   "_id": "70tAj6hnVC2KsWSy",
   "pages": [
     {
       "sort": 100000,
-      "name": "Fantasy Historical Pantheons",
+      "name": "Фэнтези-исторические пантеоны",
       "type": "text",
       "_id": "Sxdr90FpSAqFVjlB",
       "title": {
@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Egyptian Pantheon</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hWxC6ojcKH7MhaAP inline]</p><h3>Greek Pantheon</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.D6O9av3sEbERJyuu inline]</p><h3>Norse Pantheon</h3><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.cF3gLNmzGCsrEVpL inline]</p>"
+        "content": "<h3>Египетский пантеон</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.hWxC6ojcKH7MhaAP inline]</p><h3>Greek Pantheon</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.D6O9av3sEbERJyuu inline]</p><h3>Скандинавский Пантеон</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.cF3gLNmzGCsrEVpL встроенный]</p>"
       },
       "video": {
         "controls": true,
@@ -27,7 +27,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.030",
         "coreVersion": "13.347",
         "createdTime": 1716517924460,
@@ -47,7 +47,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716515339488,

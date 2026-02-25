@@ -18,7 +18,7 @@ export default class HealthConfig extends BaseConfigSheet {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/actor/config/health-config.hbs"
+			template: "systems/black-flag-ru/templates/actor/config/health-config.hbs"
 		}
 	};
 

@@ -22,7 +22,7 @@ export default class SourceConfig extends BFDocumentSheet {
 	/** @override */
 	static PARTS = {
 		source: {
-			template: "systems/black-flag/templates/shared/identity-config.hbs"
+			template: "systems/black-flag-ru/templates/shared/identity-config.hbs"
 		}
 	};
 

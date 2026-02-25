@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Foresight",
+  "name": "Форсайт",
   "type": "spell",
   "_id": "j7yIAbS0qYdUfdBE",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be surprised and has advantage on attack rolls, ability checks, and saves. In addition, other creatures have disadvantage on attack rolls against the target for the duration.</p><p>This spell immediately ends if you cast it again before its duration ends.</p><p>Once you target a creature with this spell, the same creature can’t gain the benefits of this spell until 7 days have passed.</p>",
       "source": {},
-      "short": "Ally sees immediate future."
+      "short": "Элли видит ближайшее будущее."
     },
     "source": [
       "arcane",
@@ -95,7 +95,7 @@
         "consumed": true,
         "cost": 500,
         "denomination": "gp",
-        "description": "a gilded hourglass worth at least 500 gp, which the spell consumes"
+        "description": "позолоченные песочные часы стоимостью не менее 500 зм, которые расходуются на заклинание"
       }
     },
     "duration": {
@@ -127,7 +127,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.j7yIAbS0qYdUfdBE",
+      "origin": "Compendium.black-flag-ru.spells.Item.j7yIAbS0qYdUfdBE",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -138,7 +138,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Foresight",
+      "name": "Форсайт",
       "img": "icons/magic/perception/third-eye-blue-red.webp",
       "_id": "mwz9DqDEGc1XOeG6",
       "type": "base",
@@ -161,7 +161,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721445335955,
         "modifiedTime": 1721445424711,
@@ -179,7 +179,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721445191061,
     "modifiedTime": 1723780839632,

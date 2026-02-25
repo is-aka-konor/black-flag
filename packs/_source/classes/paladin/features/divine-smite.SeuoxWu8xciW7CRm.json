@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Divine Smite",
+  "name": "Божественный удар",
   "type": "feature",
   "_id": "SeuoxWu8xciW7CRm",
   "img": "icons/skills/melee/strike-sword-blood-red.webp",
@@ -99,7 +99,7 @@
           "recovery": [],
           "max": ""
         },
-        "name": "Damage",
+        "name": "Урон",
         "img": ""
       },
       "QZlV8TdguW0eJGw4": {
@@ -194,7 +194,7 @@
           "recovery": [],
           "max": ""
         },
-        "name": "Damage vs. Fiend or Undead",
+        "name": "Урон против демона или нежити",
         "img": "",
         "_id": "QZlV8TdguW0eJGw4"
       }
@@ -242,7 +242,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.3.064",
     "coreVersion": "13.347",
     "createdTime": 1718399649369,

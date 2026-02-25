@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Clone",
+  "name": "Клонировать",
   "type": "spell",
   "_id": "PlvPPehGV731hLKC",
   "img": "icons/magic/water/water-elemental-blue-teeth.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>This spell grows an inert duplicate of a living creature as a safeguard against death. This clone forms inside a sealed vessel and grows to full size and maturity after 120 days; you can also choose to have the clone be a younger version of the same creature. It remains inert and endures indefinitely, as long as its vessel remains undisturbed.</p><p>At any time after the clone matures, if the original creature dies, its soul transfers to the clone, provided that the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original’s equipment. The original creature’s physical remains, if they still exist, become inert and can’t thereafter be restored to life, since the creature’s soul is elsewhere.</p><p>If you attempt to cast this spell to create a clone of a creature that already has a clone created by this spell, the spell fails.</p>",
       "source": {},
-      "short": "Backup body for a creature."
+      "short": "Резервное тело существа."
     },
     "source": [
       "arcane"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": 1000,
         "denomination": "gp",
-        "description": "a diamond worth at least 1,000 gp; at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes; and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water"
+        "description": "бриллиант стоимостью не менее 1000 зм; не менее 1 кубического дюйма плоти клонируемого существа, потребляемой заклинанием; и сосуд стоимостью не менее 2000 зм, имеющий закрывающуюся крышку и достаточно большой, чтобы вместить существо Среднего размера, например огромную урну, гроб, заполненную грязью кисту в земле или хрустальный контейнер, наполненный соленой водой."
       }
     },
     "duration": {
@@ -114,7 +114,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720287264947,

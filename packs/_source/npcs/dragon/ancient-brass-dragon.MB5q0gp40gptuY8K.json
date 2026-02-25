@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Ancient Brass Dragon",
+  "name": "Древний латунный дракон",
   "type": "npc",
   "_id": "MB5q0gp40gptuY8K",
-  "img": "systems/black-flag/artwork/tokens/dragon-brass-ancient.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-brass-ancient.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -158,7 +158,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ancient Brass Dragon",
+    "name": "Древний латунный дракон",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -166,7 +166,7 @@
     "width": 4,
     "height": 4,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-brass-ancient.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-brass-ancient.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -259,7 +259,7 @@
   },
   "items": [
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "tZ2z0xq98lgEpNvD",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -302,7 +302,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -380,7 +380,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -394,7 +394,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.tZ2z0xq98lgEpNvD"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "oAOZ1D9GVPcriEkR",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -498,7 +498,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -569,7 +569,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -609,7 +609,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "UosgiVO0qtirinO1",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -625,7 +625,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -639,7 +639,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.UosgiVO0qtirinO1"
     },
     {
-      "name": "Detect",
+      "name": "Обнаружить",
       "type": "feature",
       "_id": "9yYOLBlV2krISqU6",
       "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
@@ -676,7 +676,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -749,7 +749,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.pD51S4Dg9ox8MhUX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -763,7 +763,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.9yYOLBlV2krISqU6"
     },
     {
-      "name": "Tail Attack",
+      "name": "Атака хвостом",
       "type": "feature",
       "_id": "dNnalvlI6CjZKpiw",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -800,7 +800,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -873,7 +873,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.TOsVH0rXphcr2p5u",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -957,7 +957,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -971,7 +971,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] uses its Fire Breath, the air around it is devoid of moisture and lacking in breathable air. While the [[lookup @name lowercase]]'s Fire Breath is unavailable, each creature that requires air to breathe, other than the [[lookup @name lowercase]], and that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or begin suffocating. A creature that fails this save for two consecutive rounds falls &amp;Reference[unconscious]{unconscious} until it takes damage or another creature uses an action to wake it.</p><p><em>Note: See hidden text for Suffocation rules.</em></p><section class=\"secret\" id=\"secret-yv9aeWFG4rjhTRmc\"><h5>Suffocating</h5><p>Most creatures, particularly most PCs, need to breathe air to survive. When a creature can’t breathe, such as while submersed in water, it must hold its breath.</p><p>A creature can hold its breath for a number of minutes equal to 1 + its CON modifier (minimum of 30 seconds).</p><p>When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its CON modifier (minimum of 1 round). If it is still out of air at the start of its next turn, it drops to 0 HP and begins making death saves. The creature can’t regain hit points or be stabilized until it can breathe again.</p><p>For example, a creature with a CON modifier</p></section>",
+          "value": "<p>After the [[lookup @name lowercase]] uses its Fire Breath, the air around it is devoid of moisture and lacking in breathable air. While the [[lookup @name lowercase]]'s Fire Breath is unavailable, each creature that requires air to breathe, other than the [[lookup @name lowercase]], and that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or begin suffocating. A creature that fails this save for two consecutive rounds falls &Reference[unconscious]{unconscious} until it takes damage or another creature uses an action to wake it.</p><p><em>Note: See hidden text for Suffocation rules.</em></p><section class=\"secret\" id=\"secret-yv9aeWFG4rjhTRmc\"><h5>Suffocating</h5><p>Most creatures, particularly most PCs, need to breathe air to survive. When a creature can’t breathe, such as while submersed in water, it must hold its breath.</p><p>A creature can hold its breath for a number of minutes equal to 1 + its CON modifier (minimum of 30 seconds).</p><p>When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its CON modifier (minimum of 1 round). If it is still out of air at the start of its next turn, it drops to 0 HP and begins making death saves. The creature can’t regain hit points or be stabilized until it can breathe again.</p><p>For example, a creature with a CON modifier</p></section>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -997,7 +997,7 @@
           "value": null
         }
       },
-      "name": "Suffocating Heat",
+      "name": "Удушающая жара",
       "type": "feature",
       "_id": "AiTA8lcaaLdNIQBQ",
       "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
@@ -1017,7 +1017,7 @@
         "compendiumSource": "Actor.xQtbvxfWwIRSmsUl.Item.ds8zrk6I9ot7mGDX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1027,7 +1027,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.AiTA8lcaaLdNIQBQ"
     },
     {
-      "name": "Elemental Roar",
+      "name": "Элементальный рев",
       "type": "feature",
       "_id": "33wGDNOfpxDUpoKk",
       "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
@@ -1072,7 +1072,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1154,9 +1154,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.8R4XXpbwLn8tic0m",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.8R4XXpbwLn8tic0m",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1166,7 +1166,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.33wGDNOfpxDUpoKk"
     },
     {
-      "name": "Wing Attack",
+      "name": "Крылатая атака",
       "type": "feature",
       "_id": "FrTx8FW1XfzbQFp6",
       "img": "icons/creatures/abilities/wing-batlike-white-blue.webp",
@@ -1226,7 +1226,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1267,7 +1267,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 15 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &amp;Reference[prone]{prone}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 15 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{prone}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1308,9 +1308,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.EhzKBSBAraL7ifUf",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.EhzKBSBAraL7ifUf",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1320,7 +1320,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.FrTx8FW1XfzbQFp6"
     },
     {
-      "name": "Frightful Presence",
+      "name": "Ужасающее присутствие",
       "type": "feature",
       "_id": "dmiqBcZhAl3HuY7o",
       "img": "icons/magic/control/fear-fright-monster-grin-red-orange.webp",
@@ -1365,7 +1365,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -1407,7 +1407,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &amp;Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1448,9 +1448,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.LzEUyc24v6yn18nE",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.LzEUyc24v6yn18nE",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1553,7 +1553,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -1599,7 +1599,7 @@
           "value": null
         }
       },
-      "name": "Fire Breath",
+      "name": "Огненное дыхание",
       "type": "feature",
       "_id": "3AdMjXTMaKfyEGoD",
       "img": "icons/magic/fire/beam-jet-stream-trails-orange.webp",
@@ -1626,7 +1626,7 @@
         "compendiumSource": "Actor.tI6lREz0xXbwpLuv.Item.BYoC2w5ffcngrRKz",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1713,7 +1713,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "magical": false,
             "sort": 0
           }
@@ -1733,7 +1733,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a [[/save format=long]] or fall &amp;Reference[unconscious]{unconscious} for 10 minute. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it.</p>",
+          "value": "<p>The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a [[/save format=long]] or fall &Reference[unconscious]{unconscious} for 10 minute. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1759,7 +1759,7 @@
           "value": null
         }
       },
-      "name": "Sleep Breath",
+      "name": "Дыхание во сне",
       "type": "feature",
       "_id": "GZXSvMq8NGsgvhrf",
       "img": "icons/magic/control/sleep-bubble-purple.webp",
@@ -1779,7 +1779,7 @@
         "compendiumSource": "Actor.tI6lREz0xXbwpLuv.Item.QOSvTVDvUGffCu5W",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1789,7 +1789,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.GZXSvMq8NGsgvhrf"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "2YcvsAV1TS7cXIAX",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1839,7 +1839,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1952,7 +1952,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930547,
         "modifiedTime": 1756752420323,
@@ -1965,7 +1965,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.2YcvsAV1TS7cXIAX"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "IZdEcmiI1KcJ5tn0",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -2015,7 +2015,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -2128,7 +2128,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930547,
         "modifiedTime": 1756752425162,
@@ -2141,7 +2141,7 @@
       "_key": "!actors.items!MB5q0gp40gptuY8K.IZdEcmiI1KcJ5tn0"
     },
     {
-      "name": "Tail",
+      "name": "Хвост",
       "type": "weapon",
       "_id": "Hvrm9N5TTUhdKDmB",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -2191,7 +2191,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -2304,7 +2304,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930547,
         "modifiedTime": 1756752429499,
@@ -2322,7 +2322,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

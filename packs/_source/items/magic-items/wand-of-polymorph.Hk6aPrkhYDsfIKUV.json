@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of Polymorph",
+  "name": "Жезл Превращения",
   "system": {
     "type": {
       "category": "wand"
@@ -12,10 +12,10 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Spellcaster"
+      "requirement": "от заклинателя"
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the <em>@UUID[Compendium.black-flag.spells.Item.izAYjuiXEYPJat3R]{polymorph}</em> spell (save DC 15) from it.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
+      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.izAYjuiXEYPJat3R]{polymorph}</em> spell (save DC 15) from it.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
       "source": {
         "fallback": ""
       }
@@ -25,7 +25,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.izAYjuiXEYPJat3R",
+            "uuid": "Compendium.black-flag-ru.spells.Item.izAYjuiXEYPJat3R",
             "challenge": {
               "attack": null,
               "save": 15,
@@ -126,7 +126,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725071518758,
     "modifiedTime": 1735681514487,

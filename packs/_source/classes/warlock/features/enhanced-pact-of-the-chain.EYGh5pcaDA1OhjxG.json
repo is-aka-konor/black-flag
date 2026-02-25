@@ -1,6 +1,6 @@
 {
   "folder": "D1WmQYYJGwDOOxa5",
-  "name": "Enhanced Pact of the Chain",
+  "name": "Усиленный Пакт Цепи",
   "type": "feature",
   "_id": "EYGh5pcaDA1OhjxG",
   "img": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
@@ -22,7 +22,7 @@
       "filters": [],
       "requireAll": true,
       "items": [
-        "Compendium.black-flag.classes.Item.C9FG5NlEsX8IaZ9T"
+        "Compendium.black-flag-ru.classes.Item.C9FG5NlEsX8IaZ9T"
       ]
     },
     "type": {
@@ -47,7 +47,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376200842,

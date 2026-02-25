@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Beast’s Fury",
+  "name": "Ярость Зверя",
   "type": "feature",
   "_id": "4a9Bt4ORnQgQ3ERA",
   "img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
@@ -131,7 +131,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.046",
     "coreVersion": "13.347",
     "createdTime": 1717790984532,

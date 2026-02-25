@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Charm",
+  "name": "Очарование",
   "type": "spell",
   "_id": "pw72u0bgcIKLtSBM",
   "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
@@ -56,7 +56,7 @@
     "description": {
       "value": "<p>You attempt to charm a creature that you can see within range. To be affected by this spell, the target must be able to understand at least one language, though it need not be a language you speak. The target must make a [[/save]] save and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each circle slot above 1st. The creatures must be within 30 feet of each other when you target them. In addition, if you cast this spell using a spell slot of 4th circle or higher, targeted creatures don’t need to understand any languages to be affected.</p>",
       "source": {},
-      "short": "Compel creature to trust you."
+      "short": "Заставьте существо доверять вам."
     },
     "type": {
       "value": "standard"
@@ -112,7 +112,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+      "origin": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -123,10 +123,10 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Charm",
+      "name": "Очарование",
       "_id": "MHWYFHDDXmIygkPs",
       "changes": [],
-      "description": "<p>You are charmed by the caster until the spell ends or until they or their companions do anything harmful to you. You regards the caster as a friendly acquaintance. When the spell ends, you know you were charmed by them.</p>",
+      "description": "<p>Вы очарованы заклинателем до тех пор, пока заклинание не закончится или пока он или его товарищи не сделают вам что-нибудь вредное. Вы относитесь к заклинателю как к дружескому знакомому. Когда заклинание закончится, вы поймете, что они вас очаровали.</p>",
       "transfer": false,
       "statuses": [
         "charmed"
@@ -157,7 +157,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932577177,

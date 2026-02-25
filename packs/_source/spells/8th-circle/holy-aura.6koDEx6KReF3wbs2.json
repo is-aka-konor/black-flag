@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Holy Aura",
+  "name": "Святая Аура",
   "type": "spell",
   "_id": "6koDEx6KReF3wbs2",
   "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -68,7 +68,7 @@
     "description": {
       "value": "<p>Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saves, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a Fiend or an Undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a [[/save]] save or be blinded until the spell ends.</p>",
       "source": {},
-      "short": "Allies light up, boost defenses."
+      "short": "Союзники загораются, повышают защиту."
     },
     "source": [
       "divine"
@@ -92,7 +92,7 @@
         "consumed": false,
         "cost": 1000,
         "denomination": "gp",
-        "description": "a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint’s robe"
+        "description": "крошечный реликварий стоимостью не менее 1000 зм, содержащий священную реликвию, например лоскут ткани от одежды святого"
       }
     },
     "duration": {
@@ -129,7 +129,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "createdTime": 1722569613206,
     "modifiedTime": 1722835094476,

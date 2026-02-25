@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Caltrops",
+  "name": "Кальтропы",
   "type": "gear",
   "_id": "rLrhtD0zTyeQmnIc",
   "img": "icons/weapons/thrown/bomb-spiked-purple.webp",
@@ -51,7 +51,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Spread",
+        "name": "Распространение",
         "img": "",
         "target": {
           "affects": {
@@ -109,7 +109,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.072",
     "coreVersion": "13.348",
     "createdTime": 1707362946398,

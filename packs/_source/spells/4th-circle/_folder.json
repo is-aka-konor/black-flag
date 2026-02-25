@@ -1,5 +1,5 @@
 {
-  "name": "4th Circle",
+  "name": "4-й круг",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#75528d",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.023",
     "coreVersion": "12.331",
     "createdTime": 1706997547808,

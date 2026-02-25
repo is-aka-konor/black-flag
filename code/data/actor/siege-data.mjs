@@ -50,7 +50,7 @@ export default class SiegeData extends ActorDataModel.mixin(
 				category: "thing",
 				legacyMixin: false,
 				localization: "BF.Actor.Type.SiegeWeapon",
-				img: "systems/black-flag/artwork/types/siege.svg",
+				img: "systems/black-flag-ru/artwork/types/siege.svg",
 				sheet: {
 					application: SiegeWeaponSheet,
 					label: "BF.Sheet.Default.SiegeWeapon"
@@ -130,7 +130,7 @@ export default class SiegeData extends ActorDataModel.mixin(
 		}
 		const section = document.createElement("section");
 		section.innerHTML = await foundry.applications.handlebars.renderTemplate(
-			"systems/black-flag/templates/actor/embeds/siege-embed.hbs",
+			"systems/black-flag-ru/templates/actor/embeds/siege-embed.hbs",
 			context
 		);
 		return section.children;
@@ -155,7 +155,7 @@ export default class SiegeData extends ActorDataModel.mixin(
 	async _onCreate(data, options, userId) {
 		await super._onCreate(data, options, userId);
 		if (userId === game.user.id && options[game.system.id]?.createResilience) {
-			const resilience = await fromUuid("Compendium.black-flag.npcfeatures.Item.rViKTBoqaXbonMPo");
+			const resilience = await fromUuid("Compendium.black-flag-ru.npcfeatures.Item.rViKTBoqaXbonMPo");
 			if (resilience) await this.parent.createEmbeddedDocuments("Item", [game.items.fromCompendium(resilience)]);
 		}
 	}

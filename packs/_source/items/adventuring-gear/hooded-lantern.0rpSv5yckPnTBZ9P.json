@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Hooded Lantern",
+  "name": "Фонарь с капюшоном",
   "type": "gear",
   "_id": "0rpSv5yckPnTBZ9P",
   "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363450643,

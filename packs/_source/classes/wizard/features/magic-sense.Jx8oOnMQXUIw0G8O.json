@@ -1,6 +1,6 @@
 {
   "folder": "ASbozScOjLlpmkOc",
-  "name": "Magic Sense",
+  "name": "Магическое чувство",
   "type": "feature",
   "_id": "Jx8oOnMQXUIw0G8O",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
@@ -52,7 +52,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Detect Magical Forces",
+        "name": "Обнаружение магических сил",
         "img": ""
       }
     },
@@ -74,7 +74,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1699045926413,

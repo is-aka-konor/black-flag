@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Blight",
+  "name": "порча",
   "type": "spell",
   "_id": "bf9OcuTnbJoaUueU",
   "img": "icons/magic/nature/root-vine-thorned-fire-purple.webp",
@@ -65,7 +65,7 @@
     "description": {
       "value": "<p>Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a [[/save]] save. It takes [[/damage]] damage on a failed save, or half as much damage on a successful one. This spell has no effect on Constructs or Undead.</p><p>If you target a Plant creature or a magical plant, it makes the save with disadvantage, and the spell deals maximum damage to it.</p><p>If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it withers and dies.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the damage increases by [[/damage 1d8 necrotic]]{1d8} for each slot above 4th.</p>",
       "source": {},
-      "short": "Necrotic to living creature."
+      "short": "Некротический для живого существа."
     },
     "type": {
       "value": "standard"
@@ -125,7 +125,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997553781,

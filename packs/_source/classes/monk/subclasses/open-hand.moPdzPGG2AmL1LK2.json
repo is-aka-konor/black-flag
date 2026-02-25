@@ -1,6 +1,6 @@
 {
   "folder": "dic4aTioi73a88AS",
-  "name": "Open Hand",
+  "name": "Открытая рука",
   "type": "subclass",
   "_id": "moPdzPGG2AmL1LK2",
   "img": "icons/skills/social/wave-halt-stop.webp",
@@ -16,10 +16,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.nJpoWnpUj4ge0CPg"
+              "uuid": "Compendium.black-flag-ru.classes.Item.nJpoWnpUj4ge0CPg"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.QYel2lT0bdrafvBg"
+              "uuid": "Compendium.black-flag-ru.classes.Item.QYel2lT0bdrafvBg"
             }
           ]
         },
@@ -35,7 +35,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.rdOiOoc6MqgOwEhA"
+              "uuid": "Compendium.black-flag-ru.classes.Item.rdOiOoc6MqgOwEhA"
             }
           ]
         },
@@ -51,7 +51,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.QkXXebv09r8SZFTB"
+              "uuid": "Compendium.black-flag-ru.classes.Item.QkXXebv09r8SZFTB"
             }
           ]
         },
@@ -67,7 +67,7 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.AliTq3awfHlOxL7L"
+              "uuid": "Compendium.black-flag-ru.classes.Item.AliTq3awfHlOxL7L"
             }
           ]
         },
@@ -77,8 +77,8 @@
     "description": {
       "value": "<p>Monks of the Open Hand hone their bodies to physical perfection. They learn techniques to push and trip their opponents, practice advanced meditation to protect them from harm, and develop secret techniques to transform their bodies into the ultimate weapon.</p>",
       "source": {},
-      "short": "Monks of the Open Hand hone their bodies to physical perfection. They learn techniques to push and trip their opponents, practice advanced meditation to protect them from harm, and develop secret techniques to transform their bodies into the ultimate weapon.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.IuMHrST77eG4pV2o"
+      "short": "Монахи Открытой Руки оттачивают свои тела до физического совершенства. Они изучают методы, позволяющие толкать и спотыкать своих противников, практикуют продвинутую медитацию, чтобы защитить их от вреда, и разрабатывают секретные методы, позволяющие превратить свои тела в совершенное оружие.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.IuMHrST77eG4pV2o"
     },
     "identifier": {
       "value": "open-hand",
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718042194804,

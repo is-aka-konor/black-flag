@@ -1,6 +1,6 @@
 {
   "type": "feature",
-  "name": "Frost Brand",
+  "name": "Морозный бренд",
   "system": {
     "description": {
       "value": "<p>When you hit with an attack using this magic sword, the target takes an extra [[/damage 1d6 cold]]. In addition, while you hold the sword, you have resistance to fire damage.</p><section class=\"secret\" id=\"secret-xnxu3MOAEbCoYg5i\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Very Rare, 5,000 gp + base weapon cost (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
@@ -43,7 +43,7 @@
   "effects": [
     {
       "type": "enchantment",
-      "name": "Frost Brand",
+      "name": "Морозный бренд",
       "origin": null,
       "duration": {
         "rounds": null,
@@ -118,7 +118,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728592364718,
         "modifiedTime": 1756333966106,
@@ -129,8 +129,8 @@
     },
     {
       "type": "base",
-      "name": "Frost Brand Resistance",
-      "origin": "Compendium.black-flag.items.Item.bab6C8gGkbQml7lH",
+      "name": "Сопротивление морозному клейму",
+      "origin": "Compendium.black-flag-ru.items.Item.bab6C8gGkbQml7lH",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -154,7 +154,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While you hold this sword, you have resistance to fire damage.</p>",
+      "description": "__P0___Пока вы держите этот меч, у вас есть сопротивление урону от огня.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -164,7 +164,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728592427545,
         "modifiedTime": 1756333971935,
@@ -191,7 +191,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1726788222228,
     "modifiedTime": 1756333966161,

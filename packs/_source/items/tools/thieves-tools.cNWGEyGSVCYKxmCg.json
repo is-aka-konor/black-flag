@@ -1,6 +1,6 @@
 {
   "folder": "PvR5bshdgWxMUS7N",
-  "name": "Thieves' Tools",
+  "name": "Воровские инструменты",
   "type": "tool",
   "_id": "cNWGEyGSVCYKxmCg",
   "img": "icons/tools/hand/lockpicks-steel-grey.webp",
@@ -41,7 +41,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1703972268359,

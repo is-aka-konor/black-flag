@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Freedom of Movement",
+  "name": "Свобода передвижения",
   "type": "spell",
   "_id": "ebGqTLYBFxSDf3g7",
   "img": "icons/magic/movement/pinwheel-turning-blue.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.</p><p>The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.</p>",
       "source": {},
-      "short": "Ally can’t be slowed or hindered."
+      "short": "Союзника нельзя замедлить или затруднить."
     },
     "type": {
       "value": "standard"
@@ -75,7 +75,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a leather strap, bound around the arm or a similar appendage",
+        "description": "кожаный ремешок, обвязанный вокруг руки или подобного придатка",
         "consumed": false,
         "denomination": "gp"
       }
@@ -110,7 +110,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.ebGqTLYBFxSDf3g7",
+      "origin": "Compendium.black-flag-ru.spells.Item.ebGqTLYBFxSDf3g7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -121,7 +121,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Freedom of Movement",
+      "name": "Свобода передвижения",
       "img": "icons/magic/movement/pinwheel-turning-blue.webp",
       "_id": "z0vvVF2g25tDE6YA",
       "type": "base",
@@ -134,7 +134,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce your speed nor cause you to be paralyzed or restrained.</p><p>You can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on your movement or attacks.</p>",
+      "description": "<p>На ваше движение не влияет труднопроходимая местность, а заклинания и другие магические эффекты не могут ни снизить вашу скорость, ни вызвать паралич или удержание вас.</p><p>Вы также можете потратить 5 футов движения, чтобы автоматически вырваться из немагических ограничений, таких как наручники или схваченное существо.Наконец, пребывание под водой не налагает штрафов на ваше движение или атаки.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -144,7 +144,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721444406415,
         "modifiedTime": 1756766826463,
@@ -160,7 +160,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997764100,

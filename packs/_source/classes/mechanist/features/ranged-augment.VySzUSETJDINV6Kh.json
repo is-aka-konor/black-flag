@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Ranged Augment",
+  "name": "Улучшение дальнего боя",
   "type": "feature",
   "_id": "VySzUSETJDINV6Kh",
   "img": "icons/commodities/tech/conduit-transmission-red.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127768954,

@@ -15,7 +15,7 @@ export default class SpellcastingAdvancement extends Advancement {
 					value: SpellcastingValueData
 				},
 				order: 35,
-				icon: "systems/black-flag/artwork/advancement/spellcasting.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/spellcasting.svg",
 				title: "BF.Advancement.Spellcasting.Title",
 				hint: "BF.Advancement.Spellcasting.Hint",
 				singleton: true

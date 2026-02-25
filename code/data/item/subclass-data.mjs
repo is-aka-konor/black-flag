@@ -39,7 +39,7 @@ export default class SubclassData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Subclass",
 				icon: "fa-solid fa-landmark-flag",
-				img: "systems/black-flag/artwork/types/subclass.svg",
+				img: "systems/black-flag-ru/artwork/types/subclass.svg",
 				hasEffects: false,
 				register: true
 			},

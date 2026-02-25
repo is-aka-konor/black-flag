@@ -146,7 +146,7 @@ export default class PCData extends ActorDataModel.mixin(
 				category: "person",
 				legacyMixin: false,
 				localization: "BF.Actor.Type.PC",
-				img: "systems/black-flag/artwork/types/pc.svg",
+				img: "systems/black-flag-ru/artwork/types/pc.svg",
 				sheet: {
 					application: PCSheet,
 					label: "BF.Sheet.Default.PC"

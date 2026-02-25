@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Stone Shape",
+  "name": "Каменная форма",
   "type": "spell",
   "_id": "1VMSLD8d4J34E3bs",
   "img": "icons/commodities/stone/ore-pile-iron-black.webp",
@@ -52,7 +52,7 @@
     "description": {
       "value": "<p>You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. For example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.</p>",
       "source": {},
-      "short": "Mold stone into any shape."
+      "short": "Придайте камню любую форму."
     },
     "source": [
       "primordial"
@@ -76,7 +76,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "soft clay, which must be worked into roughly the desired shape of the stone object"
+        "description": "мягкая глина, из которой необходимо придать примерно желаемую форму каменного предмета."
       }
     },
     "duration": {
@@ -109,7 +109,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718732107474,

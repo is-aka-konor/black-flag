@@ -1,9 +1,9 @@
 {
   "folder": "R0P4phVJmJx1Klt7",
-  "name": "Bloatblossom",
+  "name": "Раздутый цветок",
   "type": "npc",
   "_id": "PgG1Izz1wtP1AVc1",
-  "img": "systems/black-flag/artwork/tokens/bloatblossom.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/bloatblossom.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -147,13 +147,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Bloatblossom",
+    "name": "Раздутый цветок",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/bloatblossom.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/bloatblossom.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -248,7 +248,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing",
+      "name": "Повышенный слух",
       "type": "feature",
       "_id": "7vTU880R6bxz1BRy",
       "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
@@ -297,20 +297,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709773583652,
         "modifiedTime": 1712944993532,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.HLqV7Bq9XPh7KTaB",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.HLqV7Bq9XPh7KTaB",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.7vTU880R6bxz1BRy"
     },
     {
-      "name": "Plant Resilience",
+      "name": "Устойчивость растений",
       "type": "feature",
       "_id": "ii2YSy0xpBIOI1LT",
       "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -347,7 +347,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.wKYxtPQ0kudDdh4N",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.wKYxtPQ0kudDdh4N",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -358,7 +358,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Plant Resilience",
+          "name": "Устойчивость растений",
           "_id": "4alHXchWfiVtXGAv",
           "changes": [
             {
@@ -422,20 +422,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709615924250,
         "modifiedTime": 1712944995067,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.wKYxtPQ0kudDdh4N",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.wKYxtPQ0kudDdh4N",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.ii2YSy0xpBIOI1LT"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "Ok00YUpsub3hu6B8",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -534,20 +534,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1712945017015,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.Ok00YUpsub3hu6B8"
     },
     {
-      "name": "Instincy to Pursue",
+      "name": "Инстинкт преследования",
       "type": "feature",
       "system": {
         "type": {
@@ -652,20 +652,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712944732596,
         "modifiedTime": 1712945098711,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcs.Actor.OFvaU7jGTycWM8sp.Item.4aCRbq4jRg7nLApQ",
+        "compendiumSource": "Compendium.black-flag-ru.npcs.Actor.OFvaU7jGTycWM8sp.Item.4aCRbq4jRg7nLApQ",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.z2UDGTNzzYOu5thK"
     },
     {
-      "name": "Apocalyptic Fungus",
+      "name": "Апокалиптический гриб",
       "type": "feature",
       "system": {
         "type": {
@@ -681,7 +681,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p><em>Disease</em></p><p>An infectious disease transmitted via fungal spores. Infected creatures become irritable and sensitive to noise. In the final stages, fibrous fungal growths sprout from the skin—particularly around the cranium. If left untreated, infected creatures turn into <strong>sporeborn skullblooms</strong>.</p><p><strong>Trigger:</strong> A humanoid that ingests food or water contaminated with the spores of the apocalyptic fungus, breathes in the spores, or is bitten by an infected creature must make a [[/save constitution 12]] save or become infected.</p><p><strong>Effects:</strong> An infected target can’t regain hit points and when it finishes a long rest must make a [[/save constitution 15]] save or gain two levels of exhaustion. When the infected target reaches the sixth level of exhaustion, it does not die but instead becomes a <strong>@UUID[Compendium.black-flag.npcs.Actor.OFvaU7jGTycWM8sp]{skullbloom}</strong>, at which point no mundane or magical healing can return the creature to its former state. If a humanoid infected with apocalyptic fungal spores is killed, it rises an hour later as a <strong>skullbloom</strong>.</p><p><strong>Resolution:</strong> Pre-transformation, the fungal infection can only be cured by the lesser restoration spell or similar magic.</p>",
+          "value": "<p><em>Disease</em></p><p>An infectious disease transmitted via fungal spores. Infected creatures become irritable and sensitive to noise. In the final stages, fibrous fungal growths sprout from the skin—particularly around the cranium. If left untreated, infected creatures turn into <strong>sporeborn skullblooms</strong>.</p><p><strong>Trigger:</strong> A humanoid that ingests food or water contaminated with the spores of the apocalyptic fungus, breathes in the spores, or is bitten by an infected creature must make a [[/save constitution 12]] save or become infected.</p><p><strong>Effects:</strong> An infected target can’t regain hit points and when it finishes a long rest must make a [[/save constitution 15]] save or gain two levels of exhaustion. When the infected target reaches the sixth level of exhaustion, it does not die but instead becomes a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.OFvaU7jGTycWM8sp]{skullbloom}</strong>, at which point no mundane or magical healing can return the creature to its former state. If a humanoid infected with apocalyptic fungal spores is killed, it rises an hour later as a <strong>skullbloom</strong>.</p><p><strong>Resolution:</strong> Pre-transformation, the fungal infection can only be cured by the lesser restoration spell or similar magic.</p>",
           "source": {}
         },
         "identifier": {},
@@ -714,7 +714,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712945185187,
@@ -727,7 +727,7 @@
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.cHuOkSdaiIkW3l0M"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "WDXSESCs5WQvhtUG",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -896,11 +896,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931099,
         "modifiedTime": 1756760459324,
@@ -909,7 +909,7 @@
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.WDXSESCs5WQvhtUG"
     },
     {
-      "name": "Slam",
+      "name": "Хлопок",
       "type": "weapon",
       "_id": "gJuqS5Wdl6jbmwmA",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1078,11 +1078,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.OmsfJIeLWWS4jnTd",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.OmsfJIeLWWS4jnTd",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931099,
         "modifiedTime": 1756760466026,
@@ -1091,7 +1091,7 @@
       "_key": "!actors.items!PgG1Izz1wtP1AVc1.gJuqS5Wdl6jbmwmA"
     },
     {
-      "name": "Toxic Nodule",
+      "name": "Токсичный узелок",
       "type": "weapon",
       "system": {
         "type": {
@@ -1249,7 +1249,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931099,
         "modifiedTime": 1756760474792,
@@ -1265,7 +1265,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709673936945,

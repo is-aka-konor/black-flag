@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Lamp",
+  "name": "Лампа",
   "type": "gear",
   "_id": "YLPsCX9pO0ZLdqh9",
   "img": "icons/sundries/lights/lantern-iron-yellow.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363431868,

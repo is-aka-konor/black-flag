@@ -1,6 +1,6 @@
 {
   "folder": "JW7MCVevEcSMmi9e",
-  "name": "Chain Shirt",
+  "name": "Кольчужная рубашка",
   "type": "armor",
   "_id": "FO53M9vYJXLrYPDs",
   "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -50,7 +50,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1701023510950,

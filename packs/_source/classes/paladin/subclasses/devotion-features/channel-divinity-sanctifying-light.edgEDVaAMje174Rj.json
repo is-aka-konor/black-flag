@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Channel Divinity: Sanctifying Light",
+  "name": "Канал Божественности: Освящающий Свет",
   "type": "feature",
   "_id": "edgEDVaAMje174Rj",
   "img": "icons/magic/light/explosion-star-teal.webp",
@@ -29,7 +29,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.m1BUPaUA38ZxC5mz",
+              "target": "Compendium.black-flag-ru.classes.Item.m1BUPaUA38ZxC5mz",
               "value": "1"
             }
           ],
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718403718863,

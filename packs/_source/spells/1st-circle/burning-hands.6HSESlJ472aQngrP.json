@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Burning Hands",
+  "name": "Горящие руки",
   "type": "spell",
   "_id": "6HSESlJ472aQngrP",
   "img": "icons/magic/fire/beam-jet-stream-trails-orange.webp",
@@ -68,7 +68,7 @@
     "description": {
       "value": "<p>A thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p>The fire ignites any flammable objects in the area that aren’t being worn or carried.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the extra damage increases by [[/damage 1d6 fire]]{1d6} for each circle above 1st.</p>",
       "source": {},
-      "short": "Fire harms foes, ignites objects."
+      "short": "Огонь вредит противникам, поджигает предметы."
     },
     "type": {
       "value": "standard"
@@ -128,7 +128,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932494127,

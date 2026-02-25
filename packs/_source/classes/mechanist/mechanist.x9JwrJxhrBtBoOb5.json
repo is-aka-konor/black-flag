@@ -1,6 +1,6 @@
 {
   "folder": "BI5LkRzht1JAcRj3",
-  "name": "Mechanist",
+  "name": "Механик",
   "type": "class",
   "_id": "x9JwrJxhrBtBoOb5",
   "img": "icons/commodities/tech/bearing-steel-green.webp",
@@ -159,10 +159,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.qJC5wgFXUlADNopd"
+              "uuid": "Compendium.black-flag-ru.classes.Item.qJC5wgFXUlADNopd"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.oy0xcT4QIyiWu1AA"
+              "uuid": "Compendium.black-flag-ru.classes.Item.oy0xcT4QIyiWu1AA"
             }
           ],
           "enabled": true
@@ -179,10 +179,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Jsbk5t2H2s7TCed1"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Jsbk5t2H2s7TCed1"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.UiJm6JYgRgkOAGin"
+              "uuid": "Compendium.black-flag-ru.classes.Item.UiJm6JYgRgkOAGin"
             }
           ],
           "enabled": true
@@ -199,7 +199,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Yjpw8M1VIE6o84El"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Yjpw8M1VIE6o84El"
             }
           ],
           "enabled": true
@@ -216,7 +216,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.KM5SpphPyQLoCUbS"
+              "uuid": "Compendium.black-flag-ru.classes.Item.KM5SpphPyQLoCUbS"
             }
           ],
           "enabled": true
@@ -233,7 +233,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.RzjuJSJBAQAVmEFR"
+              "uuid": "Compendium.black-flag-ru.classes.Item.RzjuJSJBAQAVmEFR"
             }
           ],
           "enabled": true
@@ -250,7 +250,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.QmSqlWflRTc6YE4Q"
+              "uuid": "Compendium.black-flag-ru.classes.Item.QmSqlWflRTc6YE4Q"
             }
           ],
           "enabled": true
@@ -267,7 +267,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.VySzUSETJDINV6Kh"
+              "uuid": "Compendium.black-flag-ru.classes.Item.VySzUSETJDINV6Kh"
             }
           ],
           "enabled": true
@@ -284,7 +284,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Wv48N5xPj9bxvv1l"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Wv48N5xPj9bxvv1l"
             }
           ],
           "enabled": true
@@ -301,7 +301,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.DwEP3yI1EnFcX6HF"
+              "uuid": "Compendium.black-flag-ru.classes.Item.DwEP3yI1EnFcX6HF"
             }
           ],
           "enabled": true
@@ -318,7 +318,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.YuV8AdH29X5vvUk5"
+              "uuid": "Compendium.black-flag-ru.classes.Item.YuV8AdH29X5vvUk5"
             }
           ],
           "enabled": true
@@ -489,7 +489,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ndNyWeMQ20VYUHJI"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ndNyWeMQ20VYUHJI"
             }
           ],
           "enabled": true
@@ -528,7 +528,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp",
+              "key": "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp",
               "requiresProficiency": false,
               "_id": "HQdZinS6ogFE5buf",
               "group": "gXhkOVJdzqUJL9iY",
@@ -553,7 +553,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.Zu15sMMg2KvxhA3e",
+              "key": "Compendium.black-flag-ru.items.Item.Zu15sMMg2KvxhA3e",
               "requiresProficiency": false,
               "_id": "lSsE15RUdouq5myP",
               "group": "LpDXPjYJJhI5bhjK",
@@ -562,7 +562,7 @@
             {
               "type": "linked",
               "count": 20,
-              "key": "Compendium.black-flag.items.Item.cUcIM6yesvDT51kY",
+              "key": "Compendium.black-flag-ru.items.Item.cUcIM6yesvDT51kY",
               "requiresProficiency": false,
               "_id": "GHlMZ8Kd5B3y1NlQ",
               "group": "LpDXPjYJJhI5bhjK",
@@ -578,7 +578,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.lpKzUaG0LmkOqTb0",
+              "key": "Compendium.black-flag-ru.items.Item.lpKzUaG0LmkOqTb0",
               "requiresProficiency": false,
               "_id": "33H4trFNd2hvfMai",
               "group": "cE7EGvoctKOXgkkp",
@@ -587,7 +587,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY",
+              "key": "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY",
               "requiresProficiency": false,
               "_id": "wDUQzC5LuQaabUzu",
               "group": "cE7EGvoctKOXgkkp",
@@ -603,7 +603,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.02Se8KL2vaL2BF5s",
+              "key": "Compendium.black-flag-ru.items.Item.02Se8KL2vaL2BF5s",
               "requiresProficiency": false,
               "_id": "zblCjlsIwAuMVFfI",
               "group": "XGqb0Pp6UMHnWIVs",
@@ -612,7 +612,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "LU2Zm793J4H8KnnY",
               "group": "XGqb0Pp6UMHnWIVs",
@@ -633,8 +633,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Crafty engineers who sculpt mystic forces into items.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.C1pyCHqVuciXKUIL"
+      "short": "Искусные инженеры, воплощающие в предметах мистические силы.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.C1pyCHqVuciXKUIL"
     },
     "identifier": {
       "value": "mechanist"
@@ -648,7 +648,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1720127135931,

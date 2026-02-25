@@ -32,7 +32,7 @@ export default class JournalEditor extends BFDocumentSheet {
 	/** @override */
 	static PARTS = {
 		editor: {
-			template: "systems/black-flag/templates/journal/journal-editor.hbs"
+			template: "systems/black-flag-ru/templates/journal/journal-editor.hbs"
 		}
 	};
 

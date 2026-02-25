@@ -1,9 +1,9 @@
 {
   "folder": "FFlPMIZKxcUrNSW5",
-  "name": "Blink Dog",
+  "name": "Мигающая собака",
   "type": "npc",
   "_id": "E91VqMOUotcixlqp",
-  "img": "systems/black-flag/artwork/tokens/blink-dog.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/blink-dog.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -146,7 +146,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Blink Dog",
+    "name": "Мигающая собака",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -154,7 +154,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/blink-dog.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/blink-dog.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -241,7 +241,7 @@
   },
   "items": [
     {
-      "name": "Fey Resilience",
+      "name": "Фейская устойчивость",
       "type": "feature",
       "_id": "GJMLnFfy7KOT3Iqz",
       "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
@@ -282,7 +282,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -293,7 +293,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fey Resilience",
+          "name": "Фейская устойчивость",
           "_id": "xsKr4hZ7kVgeQaXM",
           "changes": [
             {
@@ -318,7 +318,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -346,9 +346,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.Pvh1Vv9rYGzhycly",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.Pvh1Vv9rYGzhycly",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -358,7 +358,7 @@
       "_key": "!actors.items!E91VqMOUotcixlqp.GJMLnFfy7KOT3Iqz"
     },
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "P2XyGQ9GyAuT4Rsm",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -412,9 +412,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.vlGTuDphxCZw4xYF",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.vlGTuDphxCZw4xYF",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -424,7 +424,7 @@
       "_key": "!actors.items!E91VqMOUotcixlqp.P2XyGQ9GyAuT4Rsm"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "6a4BOsKhT67fqqwY",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -478,9 +478,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ivOwfLQnIrKPW3bv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ivOwfLQnIrKPW3bv",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -557,7 +557,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -603,7 +603,7 @@
           "value": null
         }
       },
-      "name": "Teleport",
+      "name": "Телепортироваться",
       "type": "feature",
       "_id": "x81JBvy9GGOAJEhR",
       "img": "icons/magic/control/debuff-energy-hold-teal-blue.webp",
@@ -623,7 +623,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -633,7 +633,7 @@
       "_key": "!actors.items!E91VqMOUotcixlqp.x81JBvy9GGOAJEhR"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "UFXTz6IkbQbQK1XJ",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -683,7 +683,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -792,10 +792,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928959,
         "modifiedTime": 1756755666787,
@@ -809,7 +809,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

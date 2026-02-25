@@ -15,15 +15,15 @@ export default class ForwardSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		activation: {
-			template: "systems/black-flag/templates/activity/forward-activation.hbs",
+			template: "systems/black-flag-ru/templates/activity/forward-activation.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/activity-consumption.hbs",
-				"systems/black-flag/templates/activity/parts/activity-consumption-part.hbs",
-				"systems/black-flag/templates/shared/uses-config.hbs"
+				"systems/black-flag-ru/templates/activity/parts/activity-consumption.hbs",
+				"systems/black-flag-ru/templates/activity/parts/activity-consumption-part.hbs",
+				"systems/black-flag-ru/templates/shared/uses-config.hbs"
 			]
 		},
 		effect: {
-			template: "systems/black-flag/templates/activity/forward-effect.hbs"
+			template: "systems/black-flag-ru/templates/activity/forward-effect.hbs"
 		}
 	};
 

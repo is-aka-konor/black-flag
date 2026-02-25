@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Maul",
+  "name": "Мол",
   "type": "weapon",
   "_id": "WWJHSzi0T466vB3o",
   "img": "icons/weapons/hammers/hammer-drilling-spiked.webp",
@@ -74,7 +74,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024993768,

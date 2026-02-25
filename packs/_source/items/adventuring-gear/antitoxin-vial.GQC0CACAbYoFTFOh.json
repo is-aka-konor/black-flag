@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Antitoxin (vial)",
+  "name": "Антитоксин (флакон)",
   "type": "consumable",
   "_id": "GQC0CACAbYoFTFOh",
   "img": "icons/consumables/potions/bottle-conical-corked-yellow.webp",
@@ -32,7 +32,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       }
     },
@@ -70,7 +70,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362477564,

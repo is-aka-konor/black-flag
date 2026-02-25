@@ -1,5 +1,5 @@
 {
-  "name": "Healing Word",
+  "name": "Исцеляющее слово",
   "type": "spell",
   "img": "icons/magic/life/cross-worn-green.webp",
   "system": {
@@ -66,7 +66,7 @@
     "description": {
       "value": "<p>A creature of your choice that you can see within range regains hit points equal to [[/healing]]{1d4} + your spellcasting ability modifier. This spell has no effect on Undead or Constructs.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the healing increases by [[/healing 1d4 temp]]{1d4} for each slot above 1st.</p>",
       "source": {},
-      "short": "Minor heal at 60 ft."
+      "short": "Незначительное лечение на расстоянии 60 футов."
     },
     "type": {
       "value": "standard"
@@ -124,7 +124,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1703204964700,

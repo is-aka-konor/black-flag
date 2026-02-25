@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Pseudodragon",
+  "name": "Псевдодракон",
   "type": "npc",
   "_id": "6W5ONcmLafNXxgp1",
-  "img": "systems/black-flag/artwork/tokens/dragon-pseudodragon.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dragon-pseudodragon.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Pseudodragon",
+    "name": "Псевдодракон",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dragon-pseudodragon.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dragon-pseudodragon.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -301,7 +301,7 @@
           "value": null
         }
       },
-      "name": "Heightened Senses",
+      "name": "Обостренные чувства",
       "type": "feature",
       "_id": "3AyVQHZLmxGwN9eh",
       "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
@@ -321,7 +321,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -331,7 +331,7 @@
       "_key": "!actors.items!6W5ONcmLafNXxgp1.3AyVQHZLmxGwN9eh"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "I1TCINVe7UpjwLi4",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -385,7 +385,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -399,7 +399,7 @@
       "_key": "!actors.items!6W5ONcmLafNXxgp1.I1TCINVe7UpjwLi4"
     },
     {
-      "name": "Limited Telepathy",
+      "name": "Ограниченная телепатия",
       "type": "feature",
       "_id": "JMWOk89dN7izdi7y",
       "img": "icons/magic/control/energy-stream-link-white.webp",
@@ -455,9 +455,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.BvfrlUcapqDH9EMI",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.BvfrlUcapqDH9EMI",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -534,7 +534,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -579,7 +579,7 @@
           "value": null
         }
       },
-      "name": "Puff of Smoke",
+      "name": "Облако дыма",
       "type": "feature",
       "_id": "sH8STWn2VFlXpNTd",
       "img": "icons/magic/air/fog-gas-smoke-blue-gray.webp",
@@ -599,7 +599,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -609,7 +609,7 @@
       "_key": "!actors.items!6W5ONcmLafNXxgp1.sH8STWn2VFlXpNTd"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "vLDATwAGZmUHacal",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -659,7 +659,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -769,7 +769,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927518,
         "modifiedTime": 1756752791606,
@@ -874,7 +874,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -950,7 +950,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -968,7 +968,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &amp;Reference[poisoned]{poisoned} for 1 hour. If the creature fails the save by 5 or more, it falls unconscious while poisoned in this way, or until it takes damage or another creature uses an action to shake it awake.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[poisoned]{poisoned} for 1 hour. If the creature fails the save by 5 or more, it falls unconscious while poisoned in this way, or until it takes damage or another creature uses an action to shake it awake.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1018,7 +1018,7 @@
         },
         "rarity": ""
       },
-      "name": "Sting",
+      "name": "Стинг",
       "type": "weapon",
       "_id": "caDZ1cPPNfHSkHkK",
       "img": "icons/creatures/abilities/stinger-poison-scorpion-brown.webp",
@@ -1035,7 +1035,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927518,
         "modifiedTime": 1756752803066,
@@ -1053,7 +1053,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

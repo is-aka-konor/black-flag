@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Rod of Rulership",
+  "name": "Жезл правления",
   "system": {
     "type": {
       "category": "rod"
@@ -140,9 +140,9 @@
   "img": "icons/weapons/staves/staff-ornate-orb-steel-red.webp",
   "effects": [
     {
-      "name": "Ruled",
+      "name": "Правило",
       "img": "icons/weapons/staves/staff-ornate-orb-steel-red.webp",
-      "origin": "Compendium.black-flag.items.Item.27YbSErgUY393RSs",
+      "origin": "Compendium.black-flag-ru.items.Item.27YbSErgUY393RSs",
       "transfer": false,
       "_id": "gT3EaZ61mmvyP1va",
       "type": "base",
@@ -171,7 +171,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730068972612,
         "modifiedTime": 1756333624337,
@@ -190,7 +190,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725071190006,
     "modifiedTime": 1756333615704,

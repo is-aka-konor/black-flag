@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Dispel Evil and Good",
+  "name": "Рассеять зло и добро",
   "type": "spell",
   "_id": "K2znGDRplEsVj92W",
   "img": "icons/magic/unholy/strike-beam-blood-large-red-blue.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>Shimmering energy surrounds and protects you from certain types of creatures: Celestials, Elementals, Fey, Fiends, Undead, and creatures with the Outsider tag. Creatures of those types have disadvantage on attack rolls against you.</p><p>You can end the spell early by using either of the following special functions.</p><p><strong>Break Enchantment.</strong> As your action, you touch a creature you can reach that is charmed, frightened, or possessed by one of the listed creature types. The creature you touch is no longer charmed, frightened, or possessed by such creatures.</p><p><strong>Dismissal.</strong> As your action, make a melee spell attack against a creature of one of the listed types you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a [[/save CHA dc=@spellcasting.dc]] save or be sent back to its home plane (if it isn’t there already) or a different plane deemed appropriate by the GM.</p>",
       "source": {},
-      "short": "Send creature types home."
+      "short": "Отправьте типы существ домой."
     },
     "source": [
       "divine",
@@ -78,7 +78,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "holy water or powdered silver and iron"
+        "description": "святая вода или порошок серебра и железа"
       }
     },
     "duration": {
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1721270786480,
     "modifiedTime": 1723779505195,

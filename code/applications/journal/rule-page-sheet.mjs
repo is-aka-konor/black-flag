@@ -17,7 +17,7 @@ export default class JournalRulePageSheet extends JournalEntryPageProseMirrorShe
 		header: super.EDIT_PARTS.header,
 		content: super.EDIT_PARTS.content,
 		tooltip: {
-			template: "systems/black-flag/templates/journal/rule-page-edit.hbs"
+			template: "systems/black-flag-ru/templates/journal/rule-page-edit.hbs"
 		},
 		footer: super.EDIT_PARTS.footer
 	};

@@ -1,6 +1,6 @@
 {
   "folder": "PvR5bshdgWxMUS7N",
-  "name": "Lute",
+  "name": "Лютня",
   "type": "tool",
   "_id": "wmeF325yhWOASJki",
   "img": "icons/tools/instruments/lute-gold-brown.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1703972246779,

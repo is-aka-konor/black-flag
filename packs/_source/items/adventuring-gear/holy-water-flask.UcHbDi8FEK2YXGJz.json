@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Holy Water (flask)",
+  "name": "Святая вода (фляга)",
   "type": "consumable",
   "_id": "UcHbDi8FEK2YXGJz",
   "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
@@ -52,7 +52,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Splash or Throw",
+        "name": "Всплеск или бросок",
         "img": ""
       }
     },
@@ -90,7 +90,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362423447,

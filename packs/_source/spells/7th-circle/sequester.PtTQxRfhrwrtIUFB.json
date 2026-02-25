@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Sequester",
+  "name": "секвестр",
   "type": "spell",
   "_id": "PtTQxRfhrwrtIUFB",
   "img": "icons/tools/cooking/can.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can’t be targeted by divination spells or perceived through scrying sensors created by divination spells.</p><p>If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn’t grow older.</p><p>You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include <q>after 1,000 years</q> or <q>when the tarrasque awakens.</q> This spell also ends if the target takes any damage.</p>",
       "source": {},
-      "short": "Hide target in stasis."
+      "short": "Скрыть цель в стазисе."
     },
     "casting": {
       "value": null,
@@ -78,7 +78,7 @@
         "consumed": true,
         "cost": 5000,
         "denomination": "gp",
-        "description": "a powder composed of gemstone dust worth at least 5,000 gp, which the spell consumes"
+        "description": "порошок, состоящий из пыли драгоценных камней стоимостью не менее 5000 зм, который расходуется заклинанием"
       }
     },
     "duration": {
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723267391707,
     "modifiedTime": 1723436810686,

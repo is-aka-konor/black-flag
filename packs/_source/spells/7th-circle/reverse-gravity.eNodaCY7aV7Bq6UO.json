@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Reverse Gravity",
+  "name": "Обратная гравитация",
   "type": "spell",
   "_id": "eNodaCY7aV7Bq6UO",
   "img": "icons/magic/time/arrows-circling-pink.webp",
@@ -70,7 +70,7 @@
     "description": {
       "value": "<p>This spell reverses gravity in a 50-foot-radius, 100-foot‑high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a [[/save]] save to grab onto a fixed object it can reach, thus avoiding the fall.</p><p>If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.</p><p>At the end of the duration, affected objects and creatures fall back down.</p>",
       "source": {},
-      "short": "Down is up in 50-ft. radius."
+      "short": "Вниз находится вверх через 50 футов. радиус."
     },
     "casting": {
       "value": null,
@@ -91,7 +91,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a lodestone and iron filings"
+        "description": "магнит и железные опилки"
       }
     },
     "duration": {
@@ -137,7 +137,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723264464347,
     "modifiedTime": 1723267007949,

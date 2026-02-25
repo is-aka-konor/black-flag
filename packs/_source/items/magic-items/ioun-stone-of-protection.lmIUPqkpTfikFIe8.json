@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Protection",
+  "name": "Йоунский камень защиты",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You gain a +1 bonus to AC while this dusty rose prism orbits your head.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>You gain a +1 bonus to AC while this dusty rose prism orbits your head.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Ioun Stone of Protection",
-      "origin": "Compendium.black-flag.items.Item.lmIUPqkpTfikFIe8",
+      "name": "Йоунский камень защиты",
+      "origin": "Compendium.black-flag-ru.items.Item.lmIUPqkpTfikFIe8",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729031550741,
         "modifiedTime": 1756334207398,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1724986252007,
     "modifiedTime": 1729031570192,

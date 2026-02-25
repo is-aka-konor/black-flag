@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Wild Warrior",
+  "name": "Дикий воин",
   "type": "npc",
   "_id": "bdVcAUcSnPMT6ZnL",
-  "img": "systems/black-flag/artwork/tokens/berserker.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/berserker.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -145,7 +145,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Wild Warrior",
+    "name": "Дикий воин",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -153,7 +153,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/berserker.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/berserker.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -241,7 +241,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Hide Armor",
+      "name": "Скрыть броню",
       "type": "armor",
       "_id": "hFfvrG6lQ8T54o5D",
       "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
@@ -308,9 +308,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.fN3bw7IZzSxbkcYX",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.fN3bw7IZzSxbkcYX",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -358,7 +358,7 @@
           "value": null
         }
       },
-      "name": "Home in the Wilds",
+      "name": "Дом в дикой природе",
       "type": "feature",
       "_id": "tmrCynZf7SXSsDgX",
       "img": "icons/environment/wilderness/terrain-forest-gray.webp",
@@ -378,7 +378,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -389,7 +389,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Spear",
+      "name": "Копье",
       "type": "weapon",
       "_id": "h8lwdYScmJceBe89",
       "img": "icons/weapons/polearms/spear-simple-engraved.webp",
@@ -463,7 +463,7 @@
               "min": "",
               "max": ""
             },
-            "name": "One-Handed Attack",
+            "name": "Одноручная атака",
             "img": "",
             "sort": 0
           },
@@ -556,7 +556,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Two-Handed Attack",
+            "name": "Двуручная атака",
             "img": ""
           }
         },
@@ -633,9 +633,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eG0Vk1Kr8peAAYhW",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eG0Vk1Kr8peAAYhW",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759282182,
@@ -727,7 +727,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wild warrior cobbles together a makeshift trap with materials at hand and throws the trap at a creature it can see within 15 feet of it. The target must succeed on a [[/save format=long]] or be &amp;Reference[restrained]{restrained} until the end of its next turn.</p>",
+          "value": "<p>The wild warrior cobbles together a makeshift trap with materials at hand and throws the trap at a creature it can see within 15 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -753,7 +753,7 @@
           "value": null
         }
       },
-      "name": "Quick Trap",
+      "name": "Быстрая ловушка",
       "type": "feature",
       "_id": "PveF1TVbLNSFcQTo",
       "img": "icons/environment/traps/trap-jaw-steel.webp",
@@ -773,7 +773,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -783,7 +783,7 @@
       "_key": "!actors.items!bdVcAUcSnPMT6ZnL.PveF1TVbLNSFcQTo"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "hCoJcGXvIFhKPeuM",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -892,7 +892,7 @@
       },
       "effects": [
         {
-          "name": "Pack Tactics",
+          "name": "Тактика стаи",
           "img": "icons/creatures/mammals/wolf-shadow-black.webp",
           "origin": "Actor.W4vQapOttm43LoJU.Item.lbnxXjJzInLDI2jK",
           "transfer": false,
@@ -919,7 +919,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -938,10 +938,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ivOwfLQnIrKPW3bv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ivOwfLQnIrKPW3bv",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -960,7 +960,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

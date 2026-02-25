@@ -1,6 +1,6 @@
 {
   "folder": "Huc02j8J5weHOmFd",
-  "name": "Monk",
+  "name": "Монах",
   "type": "class",
   "_id": "jggcR3TArIb66S56",
   "img": "icons/equipment/waist/sash-cloth-green-white.webp",
@@ -118,10 +118,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.h1YeIUWlytNNDfrK"
+              "uuid": "Compendium.black-flag-ru.classes.Item.h1YeIUWlytNNDfrK"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.vkw0WZR9xruXOKdY"
+              "uuid": "Compendium.black-flag-ru.classes.Item.vkw0WZR9xruXOKdY"
             }
           ],
           "enabled": true
@@ -138,10 +138,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo"
+              "uuid": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.vjHPylMrjZd97kMX"
+              "uuid": "Compendium.black-flag-ru.classes.Item.vjHPylMrjZd97kMX"
             }
           ],
           "enabled": true
@@ -238,10 +238,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.Y0qhYKF7kH9k4wXp"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Y0qhYKF7kH9k4wXp"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.nCCOY40uPRG7C0Mi"
+              "uuid": "Compendium.black-flag-ru.classes.Item.nCCOY40uPRG7C0Mi"
             }
           ],
           "enabled": true
@@ -258,10 +258,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.HvtWj0XgBLe85cGz"
+              "uuid": "Compendium.black-flag-ru.classes.Item.HvtWj0XgBLe85cGz"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.PPan3IhqP9Bz2tIC"
+              "uuid": "Compendium.black-flag-ru.classes.Item.PPan3IhqP9Bz2tIC"
             }
           ],
           "enabled": true
@@ -278,7 +278,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.JDqkYb4iYJbgNX9o"
+              "uuid": "Compendium.black-flag-ru.classes.Item.JDqkYb4iYJbgNX9o"
             }
           ],
           "enabled": true
@@ -295,7 +295,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.mou18uA1wegnk77a"
+              "uuid": "Compendium.black-flag-ru.classes.Item.mou18uA1wegnk77a"
             }
           ],
           "enabled": true
@@ -312,7 +312,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.YtEhGPuqa5Ze4xPV"
+              "uuid": "Compendium.black-flag-ru.classes.Item.YtEhGPuqa5Ze4xPV"
             }
           ],
           "enabled": true
@@ -329,7 +329,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.14BKxwqZRgoF5ItD"
+              "uuid": "Compendium.black-flag-ru.classes.Item.14BKxwqZRgoF5ItD"
             }
           ],
           "enabled": true
@@ -346,7 +346,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.tPEfUe0mn6jDmR9N"
+              "uuid": "Compendium.black-flag-ru.classes.Item.tPEfUe0mn6jDmR9N"
             }
           ],
           "enabled": true
@@ -363,7 +363,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.ApZU8P5bWX1iNuGs"
+              "uuid": "Compendium.black-flag-ru.classes.Item.ApZU8P5bWX1iNuGs"
             }
           ],
           "enabled": true
@@ -380,7 +380,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.txpxY7MgOqXCer7n"
+              "uuid": "Compendium.black-flag-ru.classes.Item.txpxY7MgOqXCer7n"
             }
           ],
           "enabled": true
@@ -558,7 +558,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.bGl22o8tnx8ISlq7",
+              "key": "Compendium.black-flag-ru.items.Item.bGl22o8tnx8ISlq7",
               "requiresProficiency": false,
               "_id": "lqTV96kO56oCoILc",
               "group": "kqDAwgx9X8mt3BV6",
@@ -567,7 +567,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3FHmcPIgLjXrsKIo",
+              "key": "Compendium.black-flag-ru.items.Item.3FHmcPIgLjXrsKIo",
               "requiresProficiency": false,
               "_id": "Bky1GWwB6WITfOmF",
               "group": "kqDAwgx9X8mt3BV6",
@@ -583,7 +583,7 @@
             {
               "type": "linked",
               "count": 10,
-              "key": "Compendium.black-flag.items.Item.14pCY7bJYfjnSZqB",
+              "key": "Compendium.black-flag-ru.items.Item.14pCY7bJYfjnSZqB",
               "requiresProficiency": false,
               "_id": "w01OfhNWFCXQBcED",
               "group": "TdtxWI1PHKFpzriC",
@@ -592,7 +592,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.QoMwONkjb7knNonO",
+              "key": "Compendium.black-flag-ru.items.Item.QoMwONkjb7knNonO",
               "requiresProficiency": false,
               "_id": "gjL87YJuS6jf09Fy",
               "group": "TdtxWI1PHKFpzriC",
@@ -613,8 +613,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Martial artists who harness mystical energy.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.Ydxy9fNx0rHMcLV6"
+      "short": "Мастера боевых искусств, использующие мистическую энергию.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.Ydxy9fNx0rHMcLV6"
     },
     "identifier": {
       "value": "monk"
@@ -628,7 +628,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1717968454624,

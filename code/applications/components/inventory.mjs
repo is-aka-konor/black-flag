@@ -463,7 +463,7 @@ export default class InventoryElement extends DocumentSheetAssociatedElement {
 			// If no summary section exists yet, render and insert one
 			if (!expanded.querySelector(".item-summary")) {
 				const summary = await foundry.applications.handlebars.renderTemplate(
-					"systems/black-flag/templates/shared/parts/inventory-summary.hbs",
+					"systems/black-flag-ru/templates/shared/parts/inventory-summary.hbs",
 					await item.getSummaryContext({ sections: this.document.isOwner })
 				);
 				const div = document.createElement("div");

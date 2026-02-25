@@ -1,5 +1,5 @@
 {
-  "name": "Portable Ram",
+  "name": "Портативный баран",
   "type": "gear",
   "_id": "X6NCWbIrXC4dwaJb",
   "img": "icons/commodities/wood/wood-pole.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717532135212,

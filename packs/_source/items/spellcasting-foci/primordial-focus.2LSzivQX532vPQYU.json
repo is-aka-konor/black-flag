@@ -1,6 +1,6 @@
 {
   "folder": "wSiOfRiBKheFmCK3",
-  "name": "Primordial Focus",
+  "name": "Первозданный фокус",
   "type": "gear",
   "_id": "2LSzivQX532vPQYU",
   "img": "icons/magic/death/skull-cattle-totem-glow-red.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717532258830,

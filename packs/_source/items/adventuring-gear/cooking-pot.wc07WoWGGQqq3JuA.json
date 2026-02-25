@@ -1,5 +1,5 @@
 {
-  "name": "Cooking Pot",
+  "name": "Кулинарный котел",
   "type": "gear",
   "_id": "wc07WoWGGQqq3JuA",
   "img": "icons/tools/cooking/cauldron-empty.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717531937348,

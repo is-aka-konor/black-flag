@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Technique: Step of the Wind",
+  "name": "Техника: Шаг ветра",
   "type": "feature",
   "_id": "IpmFWGEjBogzw2DX",
   "img": "icons/skills/movement/arrow-upward-yellow.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo",
+              "target": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo",
               "value": "1"
             }
           ],
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717968820500,

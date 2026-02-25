@@ -1,5 +1,5 @@
 {
-  "name": "Tail",
+  "name": "Хвост",
   "type": "weapon",
   "_id": "b8zfKznhQRxpJ1ru",
   "img": "icons/creatures/abilities/tail-swipe-green.webp",
@@ -150,7 +150,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709692,
     "modifiedTime": 1756767775994,

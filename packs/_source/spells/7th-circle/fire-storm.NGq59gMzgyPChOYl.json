@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Fire Storm",
+  "name": "Огненный шторм",
   "type": "spell",
   "_id": "NGq59gMzgyPChOYl",
   "img": "icons/magic/fire/flame-burning-tree-bush.webp",
@@ -83,7 +83,7 @@
     "description": {
       "value": "<p>A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10‑foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube.</p><p>Each creature in the area must make a [[/save dexterity]] save. It takes [[/damage 7d10 fire]] damage on a failed save, or half as much damage on a successful one.</p><p>The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried. If you choose, plant life in the area is unaffected by this spell.</p>",
       "source": {},
-      "short": "Ten 10-ft. cubes of fire."
+      "short": "Десять 10 футов. кубики огня."
     },
     "source": [
       "arcane",
@@ -144,7 +144,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "createdTime": 1721443349770,
     "modifiedTime": 1721446067063,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Brown Bear",
+  "name": "Бурый Медведь",
   "type": "npc",
   "_id": "2Uyw9ZrqRJur5bwE",
-  "img": "systems/black-flag/artwork/tokens/bear-grizzly.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/bear-grizzly.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -148,7 +148,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Brown Bear",
+    "name": "Бурый Медведь",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -156,7 +156,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/bear-grizzly.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/bear-grizzly.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -243,7 +243,7 @@
   },
   "items": [
     {
-      "name": "Heightened Smell",
+      "name": "Усиленный запах",
       "type": "feature",
       "_id": "tUYm10rnsMRwhSpE",
       "img": "icons/creatures/mammals/rodent-rat-diseaed-gray.webp",
@@ -295,7 +295,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.KxYrP431EQTfMDuX",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -309,7 +309,7 @@
       "_key": "!actors.items!2Uyw9ZrqRJur5bwE.tUYm10rnsMRwhSpE"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "fquaeyafdFokpbN1",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -374,7 +374,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The brown bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &amp;Reference[grappled]{grappled} (escape DC 14). The bear can grapple only one creature at a time.</p>",
+          "value": "<p>The brown bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &Reference[grappled]{grappled} (escape DC 14). The bear can grapple only one creature at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -413,7 +413,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -427,7 +427,7 @@
       "_key": "!actors.items!2Uyw9ZrqRJur5bwE.fquaeyafdFokpbN1"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "LSuIUO8OWMZBwFQ5",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -477,7 +477,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -587,7 +587,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926908,
         "modifiedTime": 1756749826572,
@@ -600,7 +600,7 @@
       "_key": "!actors.items!2Uyw9ZrqRJur5bwE.LSuIUO8OWMZBwFQ5"
     },
     {
-      "name": "Claws",
+      "name": "Когти",
       "type": "weapon",
       "_id": "sjeD3Qc6iK3JVeZe",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -650,7 +650,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -760,7 +760,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926908,
         "modifiedTime": 1756749831013,
@@ -778,7 +778,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

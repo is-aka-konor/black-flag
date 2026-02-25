@@ -33,7 +33,7 @@
 						<div class="ability-save">
 							<div class="proficiency-selector" data-multiplier="{{ save.proficiency.multiplier }}"
 								data-rounding="{{ save.proficiency.rounding }}" aria-label="{{ save.proficiency.label }}">
-								<blackFlag-icon src="systems/black-flag/artwork/interface/proficiency.svg" inert></blackFlag-icon>
+								<blackFlag-icon src="systems/black-flag-ru/artwork/interface/proficiency.svg" inert></blackFlag-icon>
 								<input type="hidden" name="system.abilities.{{ @key }}.save.proficiency.multiplier"
 											value="{{ _source.save.proficiency.multiplier }}">
 							</div>
@@ -78,7 +78,7 @@
 					{{ blackFlag-notificationBadge actor category="armor-class" }}
 				</legend>
 				<div class="ac-shield">
-					<blackFlag-icon src="systems/black-flag/artwork/interface/armor-class.svg"
+					<blackFlag-icon src="systems/black-flag-ru/artwork/interface/armor-class.svg"
 													class="frame" inert></blackFlag-icon>
 					<span class="value">{{ system.attributes.ac.value }}</span>
 				</div>
@@ -91,7 +91,7 @@
 				<div class="{{ type }} stat-block" data-key="{{ @key }}">
 					<div class="proficiency-selector" data-multiplier="{{ proficiency.multiplier }}"
 							data-rounding="{{ proficiency.rounding }}" aria-label="{{ proficiency.label }}">
-						<blackFlag-icon src="systems/black-flag/artwork/interface/proficiency.svg" inert></blackFlag-icon>
+						<blackFlag-icon src="systems/black-flag-ru/artwork/interface/proficiency.svg" inert></blackFlag-icon>
 						<input type="hidden" name="system.proficiencies.{{ category }}.{{ @key }}.proficiency.multiplier"
 									value="{{ _source.proficiency.multiplier }}">
 					</div>
@@ -259,7 +259,7 @@
 											data-denomination="{{ denomination }}" {{ disabled (eq data.available 0) }} aria-label="
 											{{~ localize 'BF.Roll.Action.RollSpecific' type=(
 											localize 'BF.HitDie.LabelSpecific' denom=denomination) }}">
-								<blackFlag-icon src="systems/black-flag/artwork/interface/dice/d{{ denomination }}.svg"
+								<blackFlag-icon src="systems/black-flag-ru/artwork/interface/dice/d{{ denomination }}.svg"
 																class="die-icon blue" aria-hidden="true"></blackFlag-icon>
 							</button>
 						</div>
@@ -281,7 +281,7 @@
 					<span class="value">{{ blackFlag-number system.attributes.initiative.mod sign=true }}</span>
 					<button class="unbutton" type="button" data-action="roll" data-sub-action="initiative" aria-label="
 									{{~localize 'BF.Roll.Action.RollSpecific' type=(localize 'BF.Initiative.Label')}}">
-						<blackFlag-icon src="systems/black-flag/artwork/interface/dice/d20.svg"
+						<blackFlag-icon src="systems/black-flag-ru/artwork/interface/dice/d20.svg"
 														class="die-icon blue" aria-hidden="true"></blackFlag-icon>
 					</button>
 				</div>

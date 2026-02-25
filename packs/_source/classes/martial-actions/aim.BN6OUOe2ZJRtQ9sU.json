@@ -1,6 +1,6 @@
 {
   "folder": "H5qfE7S5caUYRLdk",
-  "name": "Aim",
+  "name": "Цель",
   "type": "feature",
   "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
   "system": {
@@ -26,7 +26,7 @@
       "eU1pHRXaXDLySy9i": {
         "type": "utility",
         "_id": "eU1pHRXaXDLySy9i",
-        "description": "<p>Select one target you can see. If you make a ranged weapon attack against that target before the end of your turn, double your PB for the first attack roll.</p>",
+        "description": "<p>Выберите видимую деталь. Если вы примените дальнобойную атаку по этой цели до конца вашего хода, удвойте свой PB для первого броска атаки.</p>",
         "system": {},
         "activation": {
           "type": "bonus",
@@ -44,7 +44,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Aim",
+        "name": "Цель",
         "img": ""
       }
     },
@@ -59,7 +59,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1695231421958,

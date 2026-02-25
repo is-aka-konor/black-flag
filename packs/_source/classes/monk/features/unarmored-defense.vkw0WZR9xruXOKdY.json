@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Unarmored Defense",
+  "name": "Небронированная защита",
   "type": "feature",
   "_id": "vkw0WZR9xruXOKdY",
   "img": "icons/equipment/chest/shirt-collared-green.webp",
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717968689552,

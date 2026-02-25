@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Duergar",
+  "name": "Дуэргар",
   "type": "npc",
   "_id": "aHutizsTtDFfX1xw",
-  "img": "systems/black-flag/artwork/tokens/dwarf-duergar.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/dwarf-duergar.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Duergar",
+    "name": "Дуэргар",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/dwarf-duergar.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/dwarf-duergar.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -292,7 +292,7 @@
           "value": null
         }
       },
-      "name": "Duergar Resilience",
+      "name": "Стойкость дуэргаров",
       "type": "feature",
       "_id": "xJpmyUL2mLlDgnvD",
       "img": "icons/magic/earth/projectile-stone-landslide.webp",
@@ -309,7 +309,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Duergar Resilience",
+          "name": "Стойкость дуэргаров",
           "img": "icons/magic/earth/projectile-stone-landslide.webp",
           "_id": "F85Ucfzb82jhLdUA",
           "type": "base",
@@ -338,7 +338,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -363,7 +363,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -411,7 +411,7 @@
           "value": null
         }
       },
-      "name": "Reduce",
+      "name": "Уменьшить",
       "type": "feature",
       "_id": "doxjCM5NrU6ldeKk",
       "img": "icons/magic/earth/strike-fist-stone-light.webp",
@@ -431,7 +431,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -441,7 +441,7 @@
       "_key": "!actors.items!aHutizsTtDFfX1xw.doxjCM5NrU6ldeKk"
     },
     {
-      "name": "Sunlight Sensitivity",
+      "name": "Чувствительность к солнечному свету",
       "type": "feature",
       "_id": "ATKmwvdhsxGd23Jl",
       "img": "icons/magic/light/explosion-glow-spiral-yellow.webp",
@@ -493,7 +493,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hzFrJFfPPIv20rWe",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -507,7 +507,7 @@
       "_key": "!actors.items!aHutizsTtDFfX1xw.ATKmwvdhsxGd23Jl"
     },
     {
-      "name": "War Pick",
+      "name": "Военный выбор",
       "type": "weapon",
       "_id": "kZTsfZ8oogB31NRt",
       "img": "icons/weapons/axes/pickaxe-iron-green.webp",
@@ -580,7 +580,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Standard Attack",
+            "name": "Стандартная атака",
             "img": "",
             "sort": 0,
             "magical": false
@@ -669,7 +669,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Attack While Enlarged",
+            "name": "Атака в увеличенном виде",
             "img": ""
           }
         },
@@ -743,9 +743,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.EcuWrcnF6FY79arQ",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.EcuWrcnF6FY79arQ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758041950,
@@ -756,7 +756,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Javelin",
+      "name": "Копье",
       "type": "weapon",
       "_id": "tu4pbt2u72s5H8w2",
       "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
@@ -829,7 +829,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Standard Attack",
+            "name": "Стандартная атака",
             "img": "",
             "sort": 0,
             "magical": false
@@ -918,7 +918,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Attack While Enlarged",
+            "name": "Атака в увеличенном виде",
             "img": ""
           }
         },
@@ -993,9 +993,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.8wAd9MmtaW1tizSN",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.8wAd9MmtaW1tizSN",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756758057793,
@@ -1005,7 +1005,7 @@
       "_key": "!actors.items!aHutizsTtDFfX1xw.tu4pbt2u72s5H8w2"
     },
     {
-      "name": "Invisibility",
+      "name": "Невидимость",
       "type": "feature",
       "_id": "323rxMT0F68GOn3n",
       "img": "icons/creatures/magical/spirit-fear-energy-pink.webp",
@@ -1109,9 +1109,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.1IHhl4zwr49sgVQS",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.1IHhl4zwr49sgVQS",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1178,7 +1178,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1218,7 +1218,7 @@
           "value": null
         }
       },
-      "name": "Enlarge",
+      "name": "Увеличить",
       "type": "feature",
       "_id": "mIXXLluEC4yBW882",
       "img": "icons/skills/social/intimidation-impressing.webp",
@@ -1238,7 +1238,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1305,7 +1305,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1345,14 +1345,14 @@
           "value": null
         }
       },
-      "name": "Shield Wall",
+      "name": "Стена щитов",
       "type": "feature",
       "_id": "aFJQAH5UBchHYhhq",
       "img": "icons/magic/defensive/shield-barrier-blue.webp",
       "effects": [
         {
           "type": "base",
-          "name": "Shield Wall AC Bonus",
+          "name": "Бонус AC Стены Щита",
           "origin": "Actor.K1ZUbUg44jIgyLfv.Item.aFJQAH5UBchHYhhq",
           "duration": {
             "rounds": null,
@@ -1385,7 +1385,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1410,7 +1410,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1421,7 +1421,7 @@
     },
     {
       "folder": "wY6fgyjQXhuGiB1F",
-      "name": "Shield",
+      "name": "Щит",
       "type": "armor",
       "_id": "k3kRulMkV6zd2dxj",
       "img": "icons/equipment/shield/buckler-wooden-boss.webp",
@@ -1485,9 +1485,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.eLqVG90tzGjKbWCp",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.eLqVG90tzGjKbWCp",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1498,7 +1498,7 @@
     },
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Scale Mail",
+      "name": "Масштабная кольчуга",
       "type": "armor",
       "_id": "DxFxjrnX0mv1BYeG",
       "img": "icons/equipment/chest/breastplate-rivited-red.webp",
@@ -1565,9 +1565,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.lpKzUaG0LmkOqTb0",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.lpKzUaG0LmkOqTb0",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1582,7 +1582,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

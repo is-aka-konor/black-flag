@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Weretiger",
+  "name": "Оборотень",
   "type": "npc",
   "_id": "iGeIfiy7aIAg7JV5",
-  "img": "systems/black-flag/artwork/tokens/lycanthrope-weretiger.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lycanthrope-weretiger.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Weretiger",
+    "name": "Оборотень",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lycanthrope-weretiger.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lycanthrope-weretiger.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -252,7 +252,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "hWdAWqkNwVuMLm4j",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -304,7 +304,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -318,7 +318,7 @@
       "_key": "!actors.items!iGeIfiy7aIAg7JV5.hWdAWqkNwVuMLm4j"
     },
     {
-      "name": "Pounce (Tiger or Hybrid Form Only)",
+      "name": "Набросок (только в форме тигра или гибрида)",
       "type": "feature",
       "_id": "VSQP1FairNuQX90n",
       "img": "icons/creatures/abilities/paw-glowing-yellow.webp",
@@ -363,7 +363,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -405,7 +405,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &amp;Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -444,7 +444,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GMhZfEqubydeeKl3",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -458,7 +458,7 @@
       "_key": "!actors.items!iGeIfiy7aIAg7JV5.VSQP1FairNuQX90n"
     },
     {
-      "name": "Multiattack (Humanoid or Hybrid Form Only)",
+      "name": "Мультиатака (только в гуманоидной или гибридной форме)",
       "type": "feature",
       "_id": "lWruML7KTEe8jG3g",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -562,7 +562,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -577,7 +577,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Scimitar (Humanoid or Hybrid Form Only)",
+      "name": "Ятаган (только в гуманоидной или гибридной форме)",
       "type": "weapon",
       "_id": "3edCrDH9Zp8pInZi",
       "img": "icons/weapons/swords/scimitar-worn-blue.webp",
@@ -649,7 +649,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false
           }
@@ -726,9 +726,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.MwYjehTr9oJlHb1Z",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.MwYjehTr9oJlHb1Z",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759202610,
@@ -739,7 +739,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Longbow (Humanoid or Hybrid Form Only)",
+      "name": "Длинный лук (только в гуманоидной или гибридной форме)",
       "type": "weapon",
       "_id": "Qphnid0oFGM1AmDu",
       "img": "icons/weapons/bows/longbow-recurve-leather-red.webp",
@@ -891,9 +891,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.IpWwpPrnKuwHQpVw",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.IpWwpPrnKuwHQpVw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756759211176,
@@ -987,7 +987,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1027,7 +1027,7 @@
           "value": null
         }
       },
-      "name": "Bleed Prey",
+      "name": "Кровотечение добычи",
       "type": "feature",
       "_id": "hgW3GW98XLeZYzcG",
       "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
@@ -1047,7 +1047,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1114,7 +1114,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1154,7 +1154,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "8cqQVR1pJx3FFoQF",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -1170,7 +1170,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.OcvlV6gbt6xUtMed",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1184,7 +1184,7 @@
       "_key": "!actors.items!iGeIfiy7aIAg7JV5.8cqQVR1pJx3FFoQF"
     },
     {
-      "name": "Bite (Tiger or Hybrid Form Only).",
+      "name": "Укус (только в форме тигра или гибрида).",
       "type": "weapon",
       "_id": "cv6se7X63bOvHGiA",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1234,7 +1234,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1337,7 +1337,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1419,7 +1419,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933909,
         "modifiedTime": 1756759186076,
@@ -1432,7 +1432,7 @@
       "_key": "!actors.items!iGeIfiy7aIAg7JV5.cv6se7X63bOvHGiA"
     },
     {
-      "name": "Claw (Tiger or Hybrid Form Only)",
+      "name": "Коготь (только в форме тигра или гибрида)",
       "type": "weapon",
       "_id": "u6uBnlLHiAxan6n7",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1482,7 +1482,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1592,7 +1592,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933909,
         "modifiedTime": 1756759190728,
@@ -1618,7 +1618,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "Speed in Tiger & Hybrid Form",
+      "name": "Скорость в форме тигра и гибрида",
       "img": "icons/svg/aura.svg",
       "_id": "wTgwtz5gdYtAdmJz",
       "type": "base",
@@ -1641,7 +1641,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1655,7 +1655,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

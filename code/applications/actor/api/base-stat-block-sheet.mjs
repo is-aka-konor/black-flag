@@ -33,33 +33,33 @@ export default class BaseStatBlockSheet extends BaseActorSheet {
 	/** @override */
 	static PARTS = {
 		header: {
-			template: "systems/black-flag/templates/actor/stat-block-header.hbs"
+			template: "systems/black-flag-ru/templates/actor/stat-block-header.hbs"
 		},
 		tabs: {
-			template: "systems/black-flag/templates/actor/tabs.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs.hbs"
 		},
 		main: {
 			classes: ["stat-block-tab"],
 			container: { classes: ["sheet-body"], id: "main" },
-			template: "systems/black-flag/templates/actor/tabs/stat-block-main.hbs",
+			template: "systems/black-flag-ru/templates/actor/tabs/stat-block-main.hbs",
 			templates: [
-				"systems/black-flag/templates/actor/parts/stat-block-abilities.hbs",
-				"systems/black-flag/templates/actor/parts/stat-block-actions.hbs",
-				"systems/black-flag/templates/actor/parts/stat-block-hit-points.hbs",
-				"systems/black-flag/templates/actor/parts/stat-block-resistances.hbs"
+				"systems/black-flag-ru/templates/actor/parts/stat-block-abilities.hbs",
+				"systems/black-flag-ru/templates/actor/parts/stat-block-actions.hbs",
+				"systems/black-flag-ru/templates/actor/parts/stat-block-hit-points.hbs",
+				"systems/black-flag-ru/templates/actor/parts/stat-block-resistances.hbs"
 			]
 		},
 		features: {
 			container: { classes: ["sheet-body"], id: "main" },
-			template: "systems/black-flag/templates/actor/tabs/stat-block-features.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/stat-block-features.hbs"
 		},
 		biography: {
 			container: { classes: ["sheet-body"], id: "main" },
-			template: "systems/black-flag/templates/actor/tabs/stat-block-biography.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/stat-block-biography.hbs"
 		},
 		effects: {
 			container: { classes: ["sheet-body"], id: "main" },
-			template: "systems/black-flag/templates/actor/tabs/active-effects.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/active-effects.hbs"
 		}
 	};
 

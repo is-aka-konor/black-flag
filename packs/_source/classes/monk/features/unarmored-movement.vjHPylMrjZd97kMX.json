@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Unarmored Movement",
+  "name": "Небронированное движение",
   "type": "feature",
   "_id": "vjHPylMrjZd97kMX",
   "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.043",
     "coreVersion": "13.347",
     "createdTime": 1717970129845,

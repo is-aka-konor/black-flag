@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Purity of Mind",
+  "name": "Чистота разума",
   "type": "feature",
   "_id": "uBVjJnGbrod8WtMU",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
@@ -9,7 +9,7 @@
       "WuCD0BMr50SGzrm9": {
         "type": "utility",
         "_id": "WuCD0BMr50SGzrm9",
-        "description": "<p>You can end one effect on yourself that is causing you to be charmed or frightened.</p>",
+        "description": "<p>Вы можете снять с себя один эффект, вызывающий у вас очарование или страх.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "End Charmed or Frightened",
+        "name": "Конец очарован или напуган",
         "img": ""
       }
     },
@@ -112,7 +112,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1717970290809,

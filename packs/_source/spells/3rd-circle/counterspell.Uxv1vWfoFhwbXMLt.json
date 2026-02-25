@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Counterspell",
+  "name": "Контрзаклинание",
   "type": "spell",
   "_id": "Uxv1vWfoFhwbXMLt",
   "img": "icons/magic/symbols/runes-star-blue.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd circle or lower, its spell automatically fails and has no effect. If it is casting a spell of 4th circle or above, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a success, the creature’s spell fails and has no effect.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the interrupted spell automatically has no effect if its circle is less than or equal to the circle of the spell slot you used.</p>",
       "source": {},
-      "short": "Interrupt target’s spell."
+      "short": "Прервите заклинание цели."
     },
     "type": {
       "value": "standard"
@@ -91,7 +91,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706932769990,

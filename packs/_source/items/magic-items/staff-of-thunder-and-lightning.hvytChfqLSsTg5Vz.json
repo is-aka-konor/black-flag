@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Thunder and Lightning",
+  "name": "Посох грома и молнии",
   "type": "weapon",
   "_id": "hvytChfqLSsTg5Vz",
   "img": "icons/weapons/staves/staff-ornate-teal.webp",
@@ -63,7 +63,7 @@
       "LIrRBK5OYyEzzNFc": {
         "type": "damage",
         "_id": "LIrRBK5OYyEzzNFc",
-        "description": "<p>When you hit with a melee attack using the staff, you can choose (no action required) to deal an extra [[/damage]] to the target.</p>",
+        "description": "<p>Когда вы наносите рукопашную атаку с использованием посоха, вы можете выбрать (действие не требуется) другую [[/damage]] цель.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -143,7 +143,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Lightning",
+        "name": "Молния",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -158,7 +158,7 @@
       "KwEuhJ1EVx8qObCR": {
         "type": "save",
         "_id": "KwEuhJ1EVx8qObCR",
-        "description": "<p>When you hit with a melee attack using the staff, you can choose (no action required) for the staff to emit a crack of thunder, audible to 300 feet. The target you hit must succeed on a [[/save]] or become &Reference[stunned] until the end of your next turn.</p>",
+        "description": "<p>Когда вы наносите рукопашную атаку с использованием посоха, вы можете выбрать (действие не требуется), чтобы посох издал раскат грома, слышимый на расстоянии 300 футов. Цель, которую вы поразили, должна добиться успеха на [[/save]] или стать &Reference[оглушенной] до конца следующего хода.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -234,7 +234,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Thunder",
+        "name": "Гром",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -249,7 +249,7 @@
       "atyIMH7klQQCpnNA": {
         "type": "save",
         "_id": "atyIMH7klQQCpnNA",
-        "description": "<p>You can use an action to cause a bolt of lightning to leap from the staff ’s tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a [[/save]], taking [[/damage]] on a failed save, or half as much damage on a successful one.</p>",
+        "description": "<p>Вы можете вызвать молнию, вылетевшую из кончика посоха по линии изгиба длиной 5 футов и длиной 120 футов. Каждое существо в этой строке должно [[/save]], получить _[[/damage]] в случае неудачи или половину этого урона при успехе.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -338,7 +338,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Lightning Strike",
+        "name": "Удар молнии",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -353,7 +353,7 @@
       "ds7Wrp9DH2iLOWcB": {
         "type": "save",
         "_id": "ds7Wrp9DH2iLOWcB",
-        "description": "<p>You can use an action to cause the staff to issue a deafening thunderclap, audible to 600 feet. Each creature within 60 feet of you (not including you) must make a [[/save]]. On a failed save, a creature takes [[/damage]] and is &Reference[deafened] for 1 minute. On a successful save, it takes half damage and isn’t deafened.</p>",
+        "description": "<p>Вы можете привести посох из дать оглушительный раскат грома, слышимый на расстоянии 600 футов. Каждое существо в пределах 60 футов от вас (не вас включая) должно производиться [[/save]]. В случае неудачи Существо получает [[/damage]] и становится &Reference[оглушить] на 1 минуту. При успешном спасброске он получает половину урона и не оглушается.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -441,7 +441,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Thunderclap",
+        "name": "Раскат грома",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -456,7 +456,7 @@
       "nbPPyY6AmM3nqdul": {
         "type": "save",
         "_id": "nbPPyY6AmM3nqdul",
-        "description": "<p>You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn’t expend the daily use of those properties, only the use of this one.</p>",
+        "description": "<p>Вы можете одновременно использовать свойства «Удар молнии» и «Удар грома». При этом расходуется не ежедневное использование этих свойств, а только использование этих.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -543,7 +543,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Thunder and Lightning",
+        "name": "Гром и молния",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -624,7 +624,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590702136,
     "modifiedTime": 1756332645328,

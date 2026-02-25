@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Rope of Climbing",
+  "name": "Веревка восхождения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -76,7 +76,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Command",
+        "name": "Команда",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -120,7 +120,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725071247187,
     "modifiedTime": 1756333675087,

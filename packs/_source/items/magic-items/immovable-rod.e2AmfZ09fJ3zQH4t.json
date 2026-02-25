@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Immovable Rod",
+  "name": "Неподвижный стержень",
   "type": "gear",
   "_id": "e2AmfZ09fJ3zQH4t",
   "img": "icons/commodities/tech/pipe-hexagonal.webp",
@@ -32,7 +32,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Activate/Deactivate",
+        "name": "Активировать/Деактивировать",
         "img": "",
         "target": {
           "affects": {
@@ -115,7 +115,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Attempt to Move",
+        "name": "Попытка перемещения",
         "img": ""
       }
     },
@@ -158,7 +158,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1707356362192,

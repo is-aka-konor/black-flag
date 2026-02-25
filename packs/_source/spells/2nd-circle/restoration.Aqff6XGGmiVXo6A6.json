@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Restoration",
+  "name": "Реставрация",
   "type": "spell",
   "_id": "Aqff6XGGmiVXo6A6",
   "img": "icons/magic/life/ankh-shadow-green.webp",
@@ -39,9 +39,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a creature and can end one disease or one condition afflicting it. The condition can be &amp;Reference[blinded], &amp;Reference[deafened], &amp;Reference[paralyzed], or &amp;Reference[poisoned].</p>",
+      "value": "<p>You touch a creature and can end one disease or one condition afflicting it. The condition can be &Reference[blinded], &Reference[deafened], &Reference[paralyzed], or &Reference[poisoned].</p>",
       "source": {},
-      "short": "Cure disease or condition on ally."
+      "short": "Вылечить болезнь или состояние союзника."
     },
     "type": {
       "value": "standard"
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934302069,

@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Manifest Might",
+  "name": "Проявленная мощь",
   "type": "feature",
   "_id": "E8rMSrbtxoIHhY8a",
   "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
@@ -67,7 +67,7 @@
       "SAUAl6ZvOK31DodS": {
         "type": "utility",
         "_id": "SAUAl6ZvOK31DodS",
-        "description": "<p>When you hit a creature with a weapon attack, you can deal additional [[/damage @prof radiant]] or [[/damage @prof necrotic]] damage (your choice).</p>",
+        "description": "<p>Когда вы причиняете действующее вредное повреждение, вы можете причинить вред [[/damage @prof radiant]] или [[/damage @prof necrotic]] (по вашему выбору).</p>",
         "system": {},
         "activation": {
           "type": "free",
@@ -104,7 +104,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1700006010811,

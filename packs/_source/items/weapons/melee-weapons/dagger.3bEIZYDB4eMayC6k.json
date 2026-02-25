@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Dagger",
+  "name": "Кинжал",
   "type": "weapon",
   "_id": "3bEIZYDB4eMayC6k",
   "img": "icons/weapons/daggers/dagger-straight-blue.webp",
@@ -74,7 +74,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701024042732,

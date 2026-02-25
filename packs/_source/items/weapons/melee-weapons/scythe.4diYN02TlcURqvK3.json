@@ -1,5 +1,5 @@
 {
-  "name": "Scythe",
+  "name": "Коса",
   "type": "weapon",
   "_id": "4diYN02TlcURqvK3",
   "img": "icons/weapons/sickles/scythe-curved-steel.webp",
@@ -112,7 +112,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1716237056070,

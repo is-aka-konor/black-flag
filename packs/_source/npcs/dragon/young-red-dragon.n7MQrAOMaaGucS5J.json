@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Young Red Dragon",
+  "name": "Молодой Красный Дракон",
   "type": "npc",
   "_id": "n7MQrAOMaaGucS5J",
-  "img": "systems/black-flag/artwork/tokens/young-red-dragon.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/young-red-dragon.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -153,13 +153,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Young Red Dragon",
+    "name": "Молодой Красный Дракон",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/young-red-dragon.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/young-red-dragon.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -254,7 +254,7 @@
   },
   "items": [
     {
-      "name": "Boil Over",
+      "name": "закипать",
       "type": "feature",
       "_id": "IeWvFL8wmVuDW923",
       "img": "icons/magic/fire/beam-jet-stream-spiral-yellow.webp",
@@ -303,7 +303,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711667885943,
@@ -316,7 +316,7 @@
       "_key": "!actors.items!n7MQrAOMaaGucS5J.IeWvFL8wmVuDW923"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "nWhEw4unbJbfC1hS",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -415,20 +415,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711667968447,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!n7MQrAOMaaGucS5J.nWhEw4unbJbfC1hS"
     },
     {
-      "name": "Fire Breath",
+      "name": "Огненное дыхание",
       "type": "feature",
       "_id": "WNyEBZS5y43H0sJ9",
       "img": "icons/magic/fire/blast-jet-stream-embers-yellow.webp",
@@ -567,20 +567,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711667664884,
         "modifiedTime": 1713147613670,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.fjq5Rf5e1ALoN5xc",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.fjq5Rf5e1ALoN5xc",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!n7MQrAOMaaGucS5J.WNyEBZS5y43H0sJ9"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "7ydYWlAaMsbRZyLs",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -752,11 +752,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934392,
         "modifiedTime": 1756753035455,
@@ -765,7 +765,7 @@
       "_key": "!actors.items!n7MQrAOMaaGucS5J.7ydYWlAaMsbRZyLs"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "9r4LlCbPdDEQKnXw",
       "img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
@@ -919,11 +919,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2hYUlglK9czNmHNx",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2hYUlglK9czNmHNx",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934392,
         "modifiedTime": 1756753040879,
@@ -939,7 +939,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709616835905,

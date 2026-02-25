@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Warhorse Skeleton",
+  "name": "Скелет боевого коня",
   "type": "npc",
   "_id": "3JVwDBkdsUvoi4fs",
-  "img": "systems/black-flag/artwork/tokens/warhorse-skeleton.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/warhorse-skeleton.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -149,13 +149,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Warhorse Skeleton",
+    "name": "Скелет боевого коня",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/warhorse-skeleton.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/warhorse-skeleton.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -244,7 +244,7 @@
   },
   "items": [
     {
-      "name": "False Appearance",
+      "name": "Ложная внешность",
       "type": "feature",
       "_id": "JZdux1DziHl2hqpf",
       "img": "icons/commodities/treasure/statue-carved-figurehead.webp",
@@ -293,20 +293,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1711421375455,
         "modifiedTime": 1712944676488,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.E2PyU7EAiv162L6t",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.E2PyU7EAiv162L6t",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!3JVwDBkdsUvoi4fs.JZdux1DziHl2hqpf"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -353,13 +353,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706467888787,
         "modifiedTime": 1712944622729,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.7sxXRJayum4g5Y2A",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.7sxXRJayum4g5Y2A",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -368,7 +368,7 @@
       "_key": "!actors.items!3JVwDBkdsUvoi4fs.4MGOHtZqihIV3iYP"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -404,7 +404,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -415,7 +415,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -453,7 +453,7 @@
             "duplicateSource": null,
             "exportSource": null
           },
-          "img": "systems/black-flag/artwork/types/feature.svg",
+          "img": "systems/black-flag-ru/artwork/types/feature.svg",
           "type": "base",
           "system": {},
           "sort": 0,
@@ -472,13 +472,13 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706467905493,
         "modifiedTime": 1712944618030,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
         "duplicateSource": null,
         "exportSource": null
       },
@@ -487,7 +487,7 @@
       "_key": "!actors.items!3JVwDBkdsUvoi4fs.QmnvQoDETMJ4ACz1"
     },
     {
-      "name": "Counterattack",
+      "name": "Контратака",
       "type": "feature",
       "system": {
         "type": {
@@ -604,20 +604,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1712944504150,
         "modifiedTime": 1713147949174,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcs.Actor.IN6xQ0eaTEGbzbjC.Item.H9hTa9rIqamcBWjG",
+        "compendiumSource": "Compendium.black-flag-ru.npcs.Actor.IN6xQ0eaTEGbzbjC.Item.H9hTa9rIqamcBWjG",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!3JVwDBkdsUvoi4fs.9k7QWVQxo6iHksTP"
     },
     {
-      "name": "Hooves",
+      "name": "Копыта",
       "type": "weapon",
       "_id": "ekaJInuOJdwQWYSJ",
       "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -771,11 +771,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.5ndxvSRcubJLDMsW",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.5ndxvSRcubJLDMsW",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927047,
         "modifiedTime": 1756761077905,
@@ -791,7 +791,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709673806888,

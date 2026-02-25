@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Fire",
+  "name": "Огонь",
   "type": "feature",
   "_id": "Qco8rSb1pldTRusr",
   "img": "icons/creatures/magical/spirit-fire-yellow.webp",
@@ -39,7 +39,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.classes.Item.Qco8rSb1pldTRusr",
+      "origin": "Compendium.black-flag-ru.classes.Item.Qco8rSb1pldTRusr",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -50,7 +50,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fire Infusion",
+      "name": "Огненный настой",
       "_id": "uHQNoPjP7H6Pujjr",
       "changes": [
         {
@@ -89,7 +89,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1717791112663,

@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Sending",
+  "name": "Отправка",
   "type": "spell",
   "_id": "7BrcSoBlBhlIh0MN",
   "img": "icons/magic/symbols/triangle-glowing-green.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You send a message of twenty-five words or fewer to a creature with whom you are familiar. Regardless of INT and language, the creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately.</p><p>You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive.</p>",
       "source": {},
-      "short": "Send a 25-word message anywhere."
+      "short": "Отправьте сообщение из 25 слов куда угодно."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a short piece of fine copper wire",
+        "description": "короткий кусок тонкой медной проволоки",
         "consumed": false,
         "denomination": "gp"
       }
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935382368,

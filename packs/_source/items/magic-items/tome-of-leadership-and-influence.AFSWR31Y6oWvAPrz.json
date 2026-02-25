@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Tome of Leadership and Influence",
+  "name": "Фолиант лидерства и влияния",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -49,7 +49,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724986547053,
     "modifiedTime": 1730154458700,

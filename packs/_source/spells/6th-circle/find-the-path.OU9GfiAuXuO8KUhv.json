@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Find the Path",
+  "name": "Найдите путь",
   "type": "spell",
   "_id": "OU9GfiAuXuO8KUhv",
   "img": "icons/tools/navigation/map-marked-red.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn’t specific (such as <q>a green dragon’s lair</q>), the spell fails.</p><p>For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, when you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.</p>",
       "source": {},
-      "short": "Know the most expedient route."
+      "short": "Знайте наиболее целесообразный маршрут."
     },
     "source": [
       "primordial"
@@ -77,7 +77,7 @@
         "consumed": false,
         "cost": 100,
         "denomination": "gp",
-        "description": "a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find"
+        "description": "набор инструментов для гаданий — таких как кости, палочки из слоновой кости, карты, зубы или резные руны — стоимостью 100 зм и предмет из места, которое вы хотите найти"
       }
     },
     "duration": {
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.039",
     "createdTime": 1721445152530,
     "modifiedTime": 1721446245724,

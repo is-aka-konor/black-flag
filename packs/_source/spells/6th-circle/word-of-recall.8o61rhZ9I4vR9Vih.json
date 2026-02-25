@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Word of Recall",
+  "name": "Слово воспоминания",
   "type": "spell",
   "_id": "8o61rhZ9I4vR9Vih",
   "img": "icons/sundries/scrolls/scroll-symbol-triangle-tan.webp",
@@ -57,7 +57,7 @@
     "description": {
       "value": "<p>You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and creatures that teleport with you appear in an unoccupied space nearest to the spot you designated when you prepared your sanctuary. If you cast this spell without first preparing a sanctuary, the spell has no effect.</p><p>You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn’t dedicated to your deity, the spell has no effect.</p>",
       "source": {},
-      "short": "Teleport group to chosen place."
+      "short": "Телепортируйте группу в выбранное место."
     },
     "casting": {
       "value": null,
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723528417182,
     "modifiedTime": 1723604504758,

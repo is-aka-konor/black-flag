@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Greater Absorption",
+  "name": "Йоунский камень великого поглощения",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th circle or lower cast by a creature you can see and targeting only you.</p><p>Once the stone has canceled 50 circles worth of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose circle is higher than the number of spell rings the stone has left, the stone can’t cancel it.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th circle or lower cast by a creature you can see and targeting only you.</p><p>Once the stone has canceled 50 circles worth of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose circle is higher than the number of spell rings the stone has left, the stone can’t cancel it.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -90,7 +90,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Cancel Spell",
+        "name": "Отменить заклинание",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -131,7 +131,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724986192620,
     "modifiedTime": 1756334182915,

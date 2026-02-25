@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Protection from Energy",
+  "name": "Защита от энергии",
   "type": "spell",
   "_id": "0jczEDug7EyPsHGu",
   "img": "icons/magic/light/beam-impact-deflect-teal.webp",
@@ -65,7 +65,7 @@
     "description": {
       "value": "<p>For the duration, one willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.</p>",
       "source": {},
-      "short": "Ally has damage type resistance."
+      "short": "У союзника есть сопротивление типу урона."
     },
     "type": {
       "value": "standard"
@@ -123,7 +123,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu",
+      "origin": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -134,7 +134,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Acid",
+      "name": "Защита от кислоты",
       "img": "icons/magic/light/beam-impact-deflect-teal.webp",
       "_id": "1HxCxX8riEPyJ0Nr",
       "type": "base",
@@ -147,7 +147,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to acid damage.</p>",
+      "description": "<p>У вас есть устойчивость к урону кислотой.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -157,7 +157,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158056383,
         "modifiedTime": 1723698634668,
@@ -167,7 +167,7 @@
       "_key": "!items.effects!0jczEDug7EyPsHGu.1HxCxX8riEPyJ0Nr"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu",
+      "origin": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -178,7 +178,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Cold",
+      "name": "Защита от холода",
       "img": "icons/magic/light/beam-impact-deflect-teal.webp",
       "type": "base",
       "system": {},
@@ -190,7 +190,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to cold damage.</p>",
+      "description": "<p>У вас есть устойчивость к урону от холода.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -200,7 +200,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158081569,
         "modifiedTime": 1723698639031,
@@ -211,7 +211,7 @@
       "_key": "!items.effects!0jczEDug7EyPsHGu.qL5mPrmSLIJ1t6b4"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu",
+      "origin": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -222,7 +222,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Fire",
+      "name": "Защита от огня",
       "img": "icons/magic/light/beam-impact-deflect-teal.webp",
       "type": "base",
       "system": {},
@@ -234,7 +234,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to fire damage.</p>",
+      "description": "<p>У вас есть сопротивление урону от огня.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -244,7 +244,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158084064,
         "modifiedTime": 1723698642122,
@@ -255,7 +255,7 @@
       "_key": "!items.effects!0jczEDug7EyPsHGu.lGOuPdMFeHdNXouH"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu",
+      "origin": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -266,7 +266,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Lightning",
+      "name": "Защита от молнии",
       "img": "icons/magic/light/beam-impact-deflect-teal.webp",
       "type": "base",
       "system": {},
@@ -278,7 +278,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to lightning damage.</p>",
+      "description": "<p>У вас есть сопротивление урону от молнии.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -288,7 +288,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158085269,
         "modifiedTime": 1723698644664,
@@ -299,7 +299,7 @@
       "_key": "!items.effects!0jczEDug7EyPsHGu.tboWI3WnAEMjIhft"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.0jczEDug7EyPsHGu",
+      "origin": "Compendium.black-flag-ru.spells.Item.0jczEDug7EyPsHGu",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -310,7 +310,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Thunder",
+      "name": "Защита от грома",
       "img": "icons/magic/light/beam-impact-deflect-teal.webp",
       "type": "base",
       "system": {},
@@ -322,7 +322,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to thunder damage.</p>",
+      "description": "<p>У вас есть сопротивление урону от грома.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -332,7 +332,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158086455,
         "modifiedTime": 1723698648034,
@@ -349,7 +349,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935015433,

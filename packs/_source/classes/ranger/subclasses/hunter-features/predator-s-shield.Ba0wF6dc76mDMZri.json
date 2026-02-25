@@ -1,6 +1,6 @@
 {
   "folder": "LMtPAhFY28bApEKC",
-  "name": "Predator’s Shield",
+  "name": "Щит Хищника",
   "type": "feature",
   "_id": "Ba0wF6dc76mDMZri",
   "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Resist Damage",
+        "name": "Сопротивление урону",
         "img": ""
       }
     },
@@ -101,7 +101,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718422394503,

@@ -1,6 +1,6 @@
 {
   "folder": "4YOTCKl2AYTMhWlk",
-  "name": "Natural Adaptation",
+  "name": "Естественная адаптация",
   "type": "feature",
   "_id": "16psMWogIaoLGhSb",
   "img": "icons/creatures/eyes/human-single-brown.webp",
@@ -25,10 +25,10 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.lineages.Item.w4ToYMQLZI9Bdc4B"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.w4ToYMQLZI9Bdc4B"
             },
             {
-              "uuid": "Compendium.black-flag.lineages.Item.H9bNnDRa4A77bIwh"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.H9bNnDRa4A77bIwh"
             }
           ],
           "restriction": {
@@ -71,7 +71,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716093605355,

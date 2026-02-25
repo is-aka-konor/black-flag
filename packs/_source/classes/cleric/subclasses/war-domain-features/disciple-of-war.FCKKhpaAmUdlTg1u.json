@@ -1,6 +1,6 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "Disciple of War",
+  "name": "Ученик войны",
   "type": "feature",
   "_id": "FCKKhpaAmUdlTg1u",
   "img": "icons/skills/melee/strikes-sword-scimitar.webp",
@@ -59,7 +59,7 @@
           "min": "",
           "max": "@prof"
         },
-        "name": "Make Additional Attack",
+        "name": "Сделать дополнительную атаку",
         "img": ""
       }
     }
@@ -71,7 +71,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1700001819779,

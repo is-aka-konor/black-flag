@@ -23,7 +23,7 @@ export default class SummonActivity extends Activity {
 			{
 				type: "summon",
 				dataModel: SummonData,
-				icon: "systems/black-flag/artwork/activities/summon.svg",
+				icon: "systems/black-flag-ru/artwork/activities/summon.svg",
 				title: "BF.SUMMON.Title",
 				hint: "BF.SUMMON.Hint",
 				usage: {

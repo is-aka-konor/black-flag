@@ -34,19 +34,19 @@ export default class TraitConfig extends AdvancementConfig {
 	static PARTS = {
 		config: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/trait-config-details.hbs"
+			template: "systems/black-flag-ru/templates/advancement/trait-config-details.hbs"
 		},
 		guaranteed: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/trait-config-guaranteed.hbs"
+			template: "systems/black-flag-ru/templates/advancement/trait-config-guaranteed.hbs"
 		},
 		choices: {
 			container: { classes: ["column-container"], id: "column-left" },
-			template: "systems/black-flag/templates/advancement/trait-config-choices.hbs"
+			template: "systems/black-flag-ru/templates/advancement/trait-config-choices.hbs"
 		},
 		options: {
 			container: { classes: ["column-container"], id: "column-right" },
-			template: "systems/black-flag/templates/advancement/trait-config-options.hbs"
+			template: "systems/black-flag-ru/templates/advancement/trait-config-options.hbs"
 		}
 	};
 

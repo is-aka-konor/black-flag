@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Contagion",
+  "name": "Заражение",
   "type": "spell",
   "_id": "BmdIVMXTMLCp6Nu7",
   "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
@@ -54,7 +54,7 @@
       "KvHv8I6Dy8HxtPKm": {
         "type": "savingThrow",
         "_id": "KvHv8I6Dy8HxtPKm",
-        "description": "<p>At the end of each of the target’s turns, it must make a CON save. After failing three of these saves, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saves, the creature recovers from the disease and the spell ends.</p>",
+        "description": "<p>В конце каждого хода цели она должна сделать спасбросок ВЫН. После провала трех из этих спасбросков эффекты болезни продолжаются в течение всего времени, и существо перестает делать эти спасброски. После успеха в трех из этих спасбросков существо выздоравливает от болезни, и заклинание заканчивается.</p>",
         "system": {
           "ability": "constitution",
           "damage": {
@@ -133,7 +133,7 @@
     "description": {
       "value": "<p>Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice selected from the options below.</p><p>At the end of each of the target’s turns, it must make a [[/save]] save. After failing three of these saves, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saves, the creature recovers from the disease and the spell ends.</p><p>Since this spell induces a natural disease in its target, any effect that removes or suppresses a disease’s effects apply to it.</p><p><strong>Blinding Sickness.</strong> Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.</p><p><strong>Filth Fever.</strong> A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.</p><p><strong>Flesh Rot.</strong> The creature’s flesh decays. The creature has disadvantage on CHA checks and becomes vulnerable to all damage.</p><p><strong>Mindfire.</strong> The creature’s mind becomes feverish. The creature has disadvantage on INT checks and INT saves, and the creature behaves as if under the effects of the confusion spell during combat.</p><p><strong>Seizure.</strong> The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.</p><p><strong>Slimy Doom.</strong> The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.</p>",
       "source": {},
-      "short": "Sicken foe with disease."
+      "short": "Больной враг с болезнью."
     },
     "source": [
       "divine",
@@ -186,7 +186,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -197,7 +197,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Blinding Sickness",
+      "name": "Ослепляющая болезнь",
       "_id": "fAZCKn8wySuUPFiD",
       "changes": [
         {
@@ -207,7 +207,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.</p>",
+      "description": "<p>Боль противостоит разуму существа, и его глаза становятся молочно-белыми. Существо имеет помеху на проверку WIS и спасброски WIS и ослеплено.</p>",
       "transfer": false,
       "statuses": [
         "blinded"
@@ -232,7 +232,7 @@
       "_key": "!items.effects!BmdIVMXTMLCp6Nu7.fAZCKn8wySuUPFiD"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -243,7 +243,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Filth Fever",
+      "name": "Грязная лихорадка",
       "_id": "hRcEBwf7vyc0lt3E",
       "changes": [
         {
@@ -253,7 +253,7 @@
           "priority": null
         }
       ],
-      "description": "<p>A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.</p>",
+      "description": "<p>Яростная лихорадка проносится по телу существа. Существо имеет помеху на проверки Силы, спасброски Силы и броски атаки, использующие Силу.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -276,7 +276,7 @@
       "_key": "!items.effects!BmdIVMXTMLCp6Nu7.hRcEBwf7vyc0lt3E"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -287,7 +287,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Flesh Rot",
+      "name": "Гниль плоти",
       "_id": "J1uOVccRY061PrHb",
       "changes": [
         {
@@ -303,7 +303,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The creature’s flesh decays. The creature has disadvantage on CHA checks and becomes vulnerable to all damage.</p>",
+      "description": "<p>Плоть существа разлагается. Существенно имеет помехи при проверке CHA и становится уязвимым ко всем повреждениям.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -326,7 +326,7 @@
       "_key": "!items.effects!BmdIVMXTMLCp6Nu7.J1uOVccRY061PrHb"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -337,7 +337,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Mindfire",
+      "name": "Огонь разума",
       "_id": "jKwfTnFk2VQtkulb",
       "changes": [
         {
@@ -347,7 +347,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The creature’s mind becomes feverish. The creature has disadvantage on INT checks and INT saves, and the creature behaves as if under the effects of the @UUID[Compendium.black-flag.spells.Item.Bcm0RKcg5os0dDhC]{confusion} spell during combat.</p>",
+      "description": "<p>Разум существует лихорадка. Существо имеет помехи при проверке ИНТ и спасброски ИНТ, и Существо ведет себя так, как будто находится под следствием заклинания @UUID[Compendium.black-flag-ru.spells.Item.Bcm0RKcg5os0dDhC]{confusion} во время боя.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -370,7 +370,7 @@
       "_key": "!items.effects!BmdIVMXTMLCp6Nu7.jKwfTnFk2VQtkulb"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -381,7 +381,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Seizure",
+      "name": "Захват",
       "_id": "jvLh1Q36VP2rslZL",
       "changes": [
         {
@@ -391,7 +391,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.</p>",
+      "description": "<p>Существо охватывает дрожь. Существо имеет помеху на проверки ЛВК, спасброски ЛВК и броски атаки, использующие ЛВК.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -414,7 +414,7 @@
       "_key": "!items.effects!BmdIVMXTMLCp6Nu7.jvLh1Q36VP2rslZL"
     },
     {
-      "origin": "Compendium.black-flag.spells.Item.BmdIVMXTMLCp6Nu7",
+      "origin": "Compendium.black-flag-ru.spells.Item.BmdIVMXTMLCp6Nu7",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -425,7 +425,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Slimy Doom",
+      "name": "Слизистая гибель",
       "_id": "gzXgEuAwbX5qRJ1V",
       "changes": [
         {
@@ -435,7 +435,7 @@
           "priority": null
         }
       ],
-      "description": "<p>The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.</p>",
+      "description": "<p>Существо начинает бесконтрольно истекать кровью. Существо имеет помеху на проверки ВЫН и спасброски ВЫН. Кроме того, когда существо получает урон, оно оглушается до конца своего следующего хода.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -464,7 +464,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1720285415283,

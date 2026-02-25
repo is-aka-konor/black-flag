@@ -18,10 +18,10 @@ export default class CastSheet extends ActivitySheet {
 	static PARTS = {
 		...super.PARTS,
 		effect: {
-			template: "systems/black-flag/templates/activity/cast-effect.hbs",
+			template: "systems/black-flag-ru/templates/activity/cast-effect.hbs",
 			templates: [
-				"systems/black-flag/templates/activity/parts/cast-spell.hbs",
-				"systems/black-flag/templates/activity/parts/cast-details.hbs"
+				"systems/black-flag-ru/templates/activity/parts/cast-spell.hbs",
+				"systems/black-flag-ru/templates/activity/parts/cast-details.hbs"
 			]
 		}
 	};

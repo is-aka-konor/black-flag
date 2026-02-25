@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Reserve",
+  "name": "Юнский камень резерва",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 circles worth of spells at a time. When found, it contains [[/r 1d4 - 1]] circles of stored spells chosen by the GM.</p><p>Any creature can cast a spell of 1st through 3rd circle into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can’t hold the spell, the spell is expended without effect. The circle of the slot used to cast the spell determines how much space it uses.</p><p>While this stone orbits your head, you can cast any spell stored in it. The spell uses the spell slot, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. Once cast, the spell is expended, freeing up space.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 circles worth of spells at a time. When found, it contains [[/r 1d4 - 1]] circles of stored spells chosen by the GM.</p><p>Any creature can cast a spell of 1st through 3rd circle into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can’t hold the spell, the spell is expended without effect. The circle of the slot used to cast the spell determines how much space it uses.</p><p>While this stone orbits your head, you can cast any spell stored in it. The spell uses the spell slot, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. Once cast, the spell is expended, freeing up space.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -50,7 +50,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1724986267849,
     "modifiedTime": 1729031466887,

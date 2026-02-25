@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Oculus Blossoms",
+  "name": "Окулус Цветет",
   "type": "spell",
   "_id": "Clta4Xijpyz6zr95",
   "img": "icons/commodities/flowers/iris-blue.webp",
@@ -51,9 +51,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You cause up to five Tiny magical flowers to sprout in spaces you can see within range. The spaces you select must contain an area suitable for supporting a living plant, such as a patch of open ground, a pot of dirt, or similar. The flowers that appear are always of a type native to the area and at a glance are indistinguishable from nonmagical flowers.</p><p>Until the spell ends, you can use an action to see and hear through any of the flowers as if you were standing in their space. You can do so no matter how far away you are from the flowers as long as you and the flowers are on the same plane of existence. While perceiving through a flower, you can use a bonus action to switch your senses to a different flower or end the effect.</p><p>Creatures that can see invisible things via spells like <em>see invisibility</em> or features like &amp;Reference[truesight] see a luminous, intangible eye in place of a blossom when they look at a flower created by this spell.</p><p>If you attempt to cast this spell a second time while flowers from the first casting are still active, the flowers from the first casting are immediately destroyed.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 8th-circle spell slots, the duration increases to 7 days. Once you have access to 9th-circle spell slots, the duration is 30 days.</p>",
+      "value": "<p>You cause up to five Tiny magical flowers to sprout in spaces you can see within range. The spaces you select must contain an area suitable for supporting a living plant, such as a patch of open ground, a pot of dirt, or similar. The flowers that appear are always of a type native to the area and at a glance are indistinguishable from nonmagical flowers.</p><p>Until the spell ends, you can use an action to see and hear through any of the flowers as if you were standing in their space. You can do so no matter how far away you are from the flowers as long as you and the flowers are on the same plane of existence. While perceiving through a flower, you can use a bonus action to switch your senses to a different flower or end the effect.</p><p>Creatures that can see invisible things via spells like <em>see invisibility</em> or features like &Reference[truesight] see a luminous, intangible eye in place of a blossom when they look at a flower created by this spell.</p><p>If you attempt to cast this spell a second time while flowers from the first casting are still active, the flowers from the first casting are immediately destroyed.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 8th-circle spell slots, the duration increases to 7 days. Once you have access to 9th-circle spell slots, the duration is 30 days.</p>",
       "source": {},
-      "short": "Spy through flowers."
+      "short": "Шпион через цветы."
     },
     "casting": {
       "value": 1,
@@ -74,7 +74,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a seed or bulb carved with the image of an eye"
+        "description": "семя или луковица с вырезанным изображением глаза"
       }
     },
     "duration": {
@@ -115,7 +115,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093652825,
     "modifiedTime": 1723095290459,

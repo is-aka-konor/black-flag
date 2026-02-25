@@ -1,6 +1,6 @@
 {
   "folder": "YNoCBhlNjhhSplJh",
-  "name": "Multiattack",
+  "name": "Мультиатака",
   "type": "feature",
   "_id": "xKQAmmwWBI1zssfx",
   "img": "icons/skills/melee/swords-triple-orange.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718399715833,

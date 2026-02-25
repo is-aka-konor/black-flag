@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Protection from Poison",
+  "name": "Защита от яда",
   "type": "spell",
   "_id": "oLoG89ESOdDLCEKI",
   "img": "icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.</p><p>For the duration, the target has advantage on saves against being poisoned, and it has resistance to poison damage.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd.</p>",
       "source": {},
-      "short": "Stop, resist poison for ally."
+      "short": "Стоп, сопротивляйся яду ради союзника."
     },
     "type": {
       "value": "standard"
@@ -96,7 +96,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.oLoG89ESOdDLCEKI",
+      "origin": "Compendium.black-flag-ru.spells.Item.oLoG89ESOdDLCEKI",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -107,7 +107,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Protection from Poison",
+      "name": "Защита от яда",
       "img": "icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
       "_id": "3XrbHXLORmVzi2sF",
       "type": "base",
@@ -126,7 +126,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have advantage on saves against being poisoned, and you have resistance to poison damage.</p>",
+      "description": "<p>У вас есть преимущество на спасброски против отравления, и у вас есть сопротивление к урону ядом.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -136,7 +136,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723158241592,
         "modifiedTime": 1723158318028,
@@ -152,7 +152,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935069036,

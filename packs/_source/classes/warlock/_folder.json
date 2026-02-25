@@ -1,5 +1,5 @@
 {
-  "name": "Warlock",
+  "name": "Чернокнижник",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#4e5d8d",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "11.315",
     "createdTime": 1717735305456,

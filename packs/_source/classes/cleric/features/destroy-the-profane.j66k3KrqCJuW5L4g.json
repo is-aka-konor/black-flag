@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Destroy the Profane",
+  "name": "Уничтожить нечестивцев",
   "type": "feature",
   "_id": "j66k3KrqCJuW5L4g",
   "img": "icons/magic/unholy/hand-fire-skeleton-pink.webp",
@@ -42,7 +42,7 @@
       }
     },
     "description": {
-      "value": "<p>When a Fiend or Undead fails its save against your Turn the Profane feature, it is instantly destroyed if its challenge rating (CR) is at or below a certain threshold, as shown in the <strong>Destroy the Profane</strong> table.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.I6uDlRHR6WSCjkGX inline]</p>",
+      "value": "<p>When a Fiend or Undead fails its save against your Turn the Profane feature, it is instantly destroyed if its challenge rating (CR) is at or below a certain threshold, as shown in the <strong>Destroy the Profane</strong> table.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.I6uDlRHR6WSCjkGX inline]</p>",
       "source": {}
     },
     "identifier": {
@@ -70,7 +70,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1699045183256,

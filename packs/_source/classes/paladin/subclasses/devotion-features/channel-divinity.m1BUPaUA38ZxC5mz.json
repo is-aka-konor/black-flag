@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Channel Divinity",
+  "name": "Канал Божественность",
   "type": "feature",
   "_id": "m1BUPaUA38ZxC5mz",
   "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -41,7 +41,7 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Channel Divinity Uses",
+        "title": "Божественный канал Uses",
         "icon": null,
         "hint": "",
         "identifier": "uses"
@@ -53,10 +53,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.PrO9KFaawwWJ47F1"
+              "uuid": "Compendium.black-flag-ru.classes.Item.PrO9KFaawwWJ47F1"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.edgEDVaAMje174Rj"
+              "uuid": "Compendium.black-flag-ru.classes.Item.edgEDVaAMje174Rj"
             }
           ]
         },
@@ -65,13 +65,13 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Channel Divinity",
+        "title": "Божественный канал",
         "icon": null,
         "hint": ""
       }
     },
     "description": {
-      "value": "<p>You gain the following two Channel Divinity options.</p><p>@Embed[.Advancement.ZkCGzBYxUM3szcnA inline]</p>",
+      "value": "<p>You gain the following two Божественный канал options.</p><p>@Embed[.Advancement.ZkCGzBYxUM3szcnA inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -100,7 +100,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718402669978,

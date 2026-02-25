@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Heroism",
+  "name": "Зелье героизма",
   "system": {
     "type": {
       "category": "potion"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>For 1 hour after drinking it, you gain 10 temporary HP that last for 1 hour. For the same duration, you are under the effect of the <em>@UUID[Compendium.black-flag.spells.Item.Gnxh5w9pE08ZGF9S]{bless}</em> spell (no concentration required). This blue potion bubbles and steams as if boiling.</p>",
+      "value": "<p>For 1 hour after drinking it, you gain 10 temporary HP that last for 1 hour. For the same duration, you are under the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.Gnxh5w9pE08ZGF9S]{bless}</em> spell (no concentration required). This blue potion bubbles and steams as if boiling.</p>",
       "source": {
         "fallback": ""
       }
@@ -94,7 +94,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": ""
       }
     },
@@ -120,9 +120,9 @@
   "img": "icons/consumables/potions/potion-flask-stopped-labeled-yellow.webp",
   "effects": [
     {
-      "name": "Heroism",
+      "name": "Героизм",
       "img": "icons/consumables/potions/potion-flask-stopped-labeled-yellow.webp",
-      "origin": "Compendium.black-flag.items.Item.cA0WjduYTgzkXSbn",
+      "origin": "Compendium.black-flag-ru.items.Item.cA0WjduYTgzkXSbn",
       "transfer": false,
       "_id": "HRFpdMBFVTeYjIS5",
       "type": "base",
@@ -154,7 +154,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729540763170,
         "modifiedTime": 1729540786579,
@@ -173,7 +173,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1725073676700,
     "modifiedTime": 1729540763203,

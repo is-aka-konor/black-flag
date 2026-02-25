@@ -1,6 +1,6 @@
 {
   "folder": "5tYeWnhaClNmVnlf",
-  "name": "Bard",
+  "name": "Бард",
   "type": "class",
   "_id": "uXNbZ6h3yfabDr95",
   "img": "icons/tools/instruments/lute-gold-brown.webp",
@@ -69,10 +69,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.EiPPrqc6Kc3uaUmU"
+              "uuid": "Compendium.black-flag-ru.classes.Item.EiPPrqc6Kc3uaUmU"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.PlRqmMB6VVPXaSGi"
+              "uuid": "Compendium.black-flag-ru.classes.Item.PlRqmMB6VVPXaSGi"
             }
           ]
         },
@@ -88,10 +88,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.n7DUg3Ati1WaJuE8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.n7DUg3Ati1WaJuE8"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.PaExQNCDUXEyfH9F"
+              "uuid": "Compendium.black-flag-ru.classes.Item.PaExQNCDUXEyfH9F"
             }
           ]
         },
@@ -107,7 +107,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.aPJMqEqOk3KPcs6q"
+              "uuid": "Compendium.black-flag-ru.classes.Item.aPJMqEqOk3KPcs6q"
             }
           ]
         },
@@ -123,7 +123,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.BPwZVJ1vvkjSCPp4"
+              "uuid": "Compendium.black-flag-ru.classes.Item.BPwZVJ1vvkjSCPp4"
             }
           ]
         },
@@ -139,7 +139,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.DiGLqpfHRsgEPcHz"
+              "uuid": "Compendium.black-flag-ru.classes.Item.DiGLqpfHRsgEPcHz"
             }
           ]
         },
@@ -155,7 +155,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.5VLj9aVqKsm3JWJ8"
+              "uuid": "Compendium.black-flag-ru.classes.Item.5VLj9aVqKsm3JWJ8"
             }
           ]
         },
@@ -171,7 +171,7 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.MJrXdvy3gYyilTdJ"
+              "uuid": "Compendium.black-flag-ru.classes.Item.MJrXdvy3gYyilTdJ"
             }
           ]
         },
@@ -570,7 +570,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.pcyyBxMi5naeXbSt",
+              "key": "Compendium.black-flag-ru.items.Item.pcyyBxMi5naeXbSt",
               "requiresProficiency": false,
               "_id": "3C1t7klCQq0RQ8TQ",
               "group": "1WKSnVkBRKSBnyMR",
@@ -595,7 +595,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.aR2W2zkqQLr7mXh0",
+              "key": "Compendium.black-flag-ru.items.Item.aR2W2zkqQLr7mXh0",
               "requiresProficiency": false,
               "_id": "sN9WAGBMtkvekGTB",
               "group": "70f7GErSAYzSuSXV",
@@ -604,7 +604,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.RRAauIfZF52oqTQ0",
+              "key": "Compendium.black-flag-ru.items.Item.RRAauIfZF52oqTQ0",
               "requiresProficiency": false,
               "_id": "kYo9SrRh6Io5XXDS",
               "group": "70f7GErSAYzSuSXV",
@@ -645,7 +645,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.h3Km60Kh2WNvWRoY",
+              "key": "Compendium.black-flag-ru.items.Item.h3Km60Kh2WNvWRoY",
               "requiresProficiency": false,
               "_id": "3Qv4iQgY4xCM2brV",
               "group": "9spQZ5fjaYsjGnTz",
@@ -654,7 +654,7 @@
             {
               "type": "linked",
               "count": null,
-              "key": "Compendium.black-flag.items.Item.3bEIZYDB4eMayC6k",
+              "key": "Compendium.black-flag-ru.items.Item.3bEIZYDB4eMayC6k",
               "requiresProficiency": false,
               "_id": "k7hK9ecEb7N0FG5V",
               "group": "9spQZ5fjaYsjGnTz",
@@ -675,8 +675,8 @@
     "description": {
       "value": "",
       "source": {},
-      "short": "Skilled performers who inspire allies and wield Arcane magic.",
-      "journal": "Compendium.black-flag.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.AlSAcEW7ExbDVSxL"
+      "short": "Опытные исполнители, вдохновляющие союзников и владеющие тайной магией.",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.v66RykFxGIYeGh29.JournalEntryPage.AlSAcEW7ExbDVSxL"
     },
     "identifier": {
       "value": "bard"
@@ -690,7 +690,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1717558498918,

@@ -1,6 +1,6 @@
 {
   "folder": "HGtaLcpTKyKkZHcy",
-  "name": "Resilient",
+  "name": "Устойчивый",
   "type": "feature",
   "_id": "GEB1SbyIvTiu9gCU",
   "img": "icons/skills/wounds/blood-cells-disease-green.webp",
@@ -32,7 +32,7 @@
       "n8smNKTVquLj6Wyb": {
         "type": "utility",
         "_id": "n8smNKTVquLj6Wyb",
-        "description": "<p>When you complete a short rest, you can reduce your exhaustion level by one.</p>",
+        "description": "<p>Завершив короткий отдых, вы можете снизить уровень утомления на единицу.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -81,7 +81,7 @@
           "min": "",
           "max": "1"
         },
-        "name": "Reduce Exhaustion",
+        "name": "Уменьшить утомление",
         "img": ""
       }
     }
@@ -93,7 +93,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1701130923468,

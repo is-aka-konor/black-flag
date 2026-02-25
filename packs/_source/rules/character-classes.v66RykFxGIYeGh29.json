@@ -1,10 +1,10 @@
 {
-  "name": "Character Classes",
+  "name": "Классы персонажей",
   "_id": "v66RykFxGIYeGh29",
   "pages": [
     {
       "sort": 400000,
-      "name": "Cleric",
+      "name": "Священник",
       "type": "class",
       "_id": "lNa46qDZLSZBvsty",
       "title": {
@@ -26,10 +26,10 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your relationship to your deity, Life, Light, or War (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Domain Spells</h6><p>Each cleric subclass has a list of domain spells that you can access as soon as you can cast spells of that circle (as shown on the <strong>Cleric Progression</strong> table). Once you gain such a spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare. However, casting a domain spell still expends a Divine spell slot as normal.</p><p>If one of these spells isn’t on the Divine spell list, it still counts as a Divine spell for you.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает ваше отношение к вашему божеству, Жизни, Свету или Войне (подробнее ступень в конце этого класса). Ваш выбор обеспечивает вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания домена</h6><p>Каждый подкласс клирика имеет список заклинания домена, к которому вы можете получить доступ, только вручную прочитав заклинание этого круга (как показано в таблице).<strong>Клирик) Прогресс</strong>).Однако наложение заклинания домена по-прежнему расходует ячейку Божественного заклинания, как обычно.</p><p>Если ни одного из этих заклинаний нет в списке Божественных заклинаний, оно равно все считается для Божественного заклинания.</p>",
           "subclassSection": ""
         },
-        "item": "Compendium.black-flag.classes.Item.sA0d2k4NbcaVFvMK",
+        "item": "Compendium.black-flag-ru.classes.Item.sA0d2k4NbcaVFvMK",
         "subclasses": []
       },
       "ownership": {
@@ -37,7 +37,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1700344576129,
@@ -51,7 +51,7 @@
     },
     {
       "sort": 500000,
-      "name": "Fighter",
+      "name": "боец",
       "type": "class",
       "_id": "DKfJWt7ZmKWpPUqG",
       "title": {
@@ -74,9 +74,9 @@
           "additionalTraits": "",
           "additionalEquipment": "",
           "subclassSection": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your role in battle, either Spell Blade or Weapon Master (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>"
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает вашу роль в бою: «Клинок заклинаний» или «Мастер оружия» (подробно описано в конце этого класса). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.AzyAdtcDGuRqm83E",
+        "item": "Compendium.black-flag-ru.classes.Item.AzyAdtcDGuRqm83E",
         "subclasses": []
       },
       "ownership": {
@@ -84,7 +84,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1700345248864,
@@ -98,7 +98,7 @@
     },
     {
       "sort": 600000,
-      "name": "Rogue",
+      "name": "Негодяй",
       "type": "class",
       "_id": "8XM1Rdj25DeZpXNt",
       "title": {
@@ -120,10 +120,10 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that represents your specialized set of skills, either Enforcer or Thief (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, соответствующий вашему специализированному набору навыков: Инфорсер или Вор (подробно описано в конце этого класса). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
-        "item": "Compendium.black-flag.classes.Item.whtWUs4c8QdwiMUg",
+        "item": "Compendium.black-flag-ru.classes.Item.whtWUs4c8QdwiMUg",
         "subclasses": []
       },
       "ownership": {
@@ -131,7 +131,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1700345344128,
@@ -145,7 +145,7 @@
     },
     {
       "sort": 700000,
-      "name": "Wizard",
+      "name": "Волшебник",
       "type": "class",
       "_id": "9I9mR9rcdY5wKm6X",
       "title": {
@@ -167,10 +167,10 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your specialized field of magical study, either Battle Mage or Cantrip Adept (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, соответствующий вашей специализированной области магического изучения: боевой маг или адепт колдовства (подробно описано в конце этого класса). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
-        "item": "Compendium.black-flag.classes.Item.FwmpKFVorkt5eGwl",
+        "item": "Compendium.black-flag-ru.classes.Item.FwmpKFVorkt5eGwl",
         "subclasses": []
       },
       "ownership": {
@@ -178,7 +178,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1700345410688,
@@ -192,7 +192,7 @@
     },
     {
       "sort": 300000,
-      "name": "Barbarian",
+      "name": "Варвар",
       "type": "class",
       "_id": "NDhNbkejgY8poLrC",
       "title": {
@@ -214,18 +214,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects the path you walk, either Berserker or Wild Fury (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает путь, по которому вы идете: Берсерк или Дикая ярость (подробно описано в конце этого класса). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.4gURUlLgJr1YNtfq"
+        "item": "Compendium.black-flag-ru.classes.Item.4gURUlLgJr1YNtfq"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517440792,
@@ -239,7 +239,7 @@
     },
     {
       "sort": 350000,
-      "name": "Bard",
+      "name": "Бард",
       "type": "class",
       "_id": "AlSAcEW7ExbDVSxL",
       "title": {
@@ -261,18 +261,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects the college you align with, either Lore or Victory (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, соответствующий колледжу, к которому вы принадлежите: «Знания» или «Победа» (подробно описано в конце этого урока). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.uXNbZ6h3yfabDr95"
+        "item": "Compendium.black-flag-ru.classes.Item.uXNbZ6h3yfabDr95"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517450385,
@@ -286,7 +286,7 @@
     },
     {
       "sort": 450000,
-      "name": "Druid",
+      "name": "Друид",
       "type": "class",
       "_id": "ed52nREmmi4wm04b",
       "title": {
@@ -308,18 +308,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your values and magical practices, either Leaf or Shifter (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Ring Spells</h6><p>Each subclass has a list of ring spells that you can access as soon as you can cast spells of that circle (as shown on the <strong>Druid Progression</strong> table). Once you gain such a spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare. However, casting a ring spell still expends a Primordial spell slot as normal.</p><p>If one of these spells isn’t on the Primordial spell list, it still counts as a Primordial spell for you.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, в котором отражаются ваши ценности и магические практики: Лист или Оборотень (подробнее прочтите в конце этого класса). Ваш выбор обеспечивает вам заклинания и другие возможности на 3, 7, 11 и 15 уровнях.</p><h6>Кольцевые заклинания</h6><p>Каждый класс имеет кольцевой список заклинаний, к которым вы можете получить доступ, как только можно творить заклинания этого круга (как показано в таблице <strong>Druid Progression</strong>).Однако наложение колец заклинания по-прежнему расходует ячейку начального заклинания, как обычно.</p><p>Если ни одного из заклинаний нет в списке Первичных заклинаний, оно равно все считается для в качестве Первичным заклинанием.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.pywwWzt29U2O75fa"
+        "item": "Compendium.black-flag-ru.classes.Item.pywwWzt29U2O75fa"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517464644,
@@ -333,7 +333,7 @@
     },
     {
       "sort": 550000,
-      "name": "Mechanist",
+      "name": "Механик",
       "type": "class",
       "_id": "C1pyCHqVuciXKUIL",
       "title": {
@@ -355,18 +355,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your relationship to your craft, either Metallurgist or Spellwright (detailed at the end of this class). Your choice grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает ваше отношение к вашему ремеслу: Металлург или Заклинатель (подробно описано в конце этого класса). Ваш выбор дает вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.x9JwrJxhrBtBoOb5"
+        "item": "Compendium.black-flag-ru.classes.Item.x9JwrJxhrBtBoOb5"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517478404,
@@ -380,7 +380,7 @@
     },
     {
       "sort": 575000,
-      "name": "Monk",
+      "name": "Монах",
       "type": "class",
       "_id": "Ydxy9fNx0rHMcLV6",
       "title": {
@@ -402,18 +402,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your method for connecting with the energies of the universe, either Flickering Dark or Open Hand (detailed at the end of this class). Your subclass grants you features at 3rd, 7th, 11th, and 15th level.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает ваш метод соединения с энергиями Вселенной: «Мерцающая тьма» или «Открытая рука» (подробно описано в конце этого класса). Ваш подкласс предоставляет вам возможности на 3, 7, 11 и 15 уровнях.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.jggcR3TArIb66S56"
+        "item": "Compendium.black-flag-ru.classes.Item.jggcR3TArIb66S56"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517495066,
@@ -427,7 +427,7 @@
     },
     {
       "sort": 587500,
-      "name": "Paladin",
+      "name": "Паладин",
       "type": "class",
       "_id": "2WtCqrnaa2eeG0lb",
       "title": {
@@ -449,18 +449,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects the oath you swear to uphold, either Devotion or Justice (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Oath Spells</h6><p>Each paladin subclass has a list of oath spells that you can access as soon as you can cast spells of that circle (as shown in the <strong>Paladin Progression</strong> table). Once you gain such a spell, it is always on your list of known spells, and it doesn’t count against the number of spells you know. However, casting an oath spell still expends a Divine spell slot as normal.</p><p>If one of these spells isn’t on the Divine spell list, it still counts as a Divine spell for you. You can’t replace oath spells when you gain a level of paladin.</p><h6>Channel Divinity</h6><p>Each paladin subclass gives you one or more ways to channel divine energy into magical effects, and each subclass explains how they work.</p><p>When you use your Channel Divinity feature, choose which effect you want. Some of these effects require a save, and in those cases, the DC is equal to your spell save DC.</p><p>Beginning at 13th level, you can use your Channel Divinity feature twice between rests, then three times at 18th level. When you finish a short or long rest, you regain any expended uses.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, в котором указана клятва, которую вы сверляете обратите внимание: Преданность или Справедливость (подробно прочтите в конце этого урока). Ваш выбор предоставляет вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания. клятвы</h6><p>Каждый подкласс паладина имеет список заклинаний клятвы, к которому вы можете получить доступ, как только всегда читать заклинания этого круга (как показано в таблице <strong>Прогресс) паладина</strong>).Как только вы получите такое заклинание, оно всегда будет в списке ваших известных заклинаний, и оно не будет упоминаться в ряде известных вам заклинаний.Однако наложение заклинания клятвы по-прежнему потребляет ячейку Божественного заклинания, как это предусмотрено для вас Божественным заклинанием. Вы не можете заменить заклинание клятвы, когда реализуется уровень паладина. они работают.</p><p>Когда вы используйте функцию «Канал божественности», выберите, какой эффект вам нужен. Некоторые из эффектов требуют спасброска, и в случаях DC DC, это условие спасброски заклинаний.</p><p>Начиная с 13-го уровня, вы можете использовать эту функцию «Канал божественности» случайно между отдыхами, а затем трижды на 18-м уровне. использование._</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.kLCaX446FhWCmOeo"
+        "item": "Compendium.black-flag-ru.classes.Item.kLCaX446FhWCmOeo"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517504404,
@@ -474,7 +474,7 @@
     },
     {
       "sort": 593750,
-      "name": "Ranger",
+      "name": "Рейнджер",
       "type": "class",
       "_id": "UBAPJtcA6uoYLcfZ",
       "title": {
@@ -496,18 +496,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects your connection to the natural world, either Hunter or Pack Master (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Calling Spells</h6><p>Each ranger subclass has a list of calling spells that you can access as soon as you can cast spells of that circle (as shown in the <strong>Ranger Progression</strong> table). Once you gain such a spell, it is always on your list of known spells, and it doesn’t count against the number of spells you know. However, casting a calling spell still expends a Primordial spell slot as normal.</p><p>If one of these spells isn’t on the Primordial spell list, it still counts as a Primordial spell for you. You can’t replace calling spells when you gain a level of ranger.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отобразит вашу связь с природой: Охотник или Повелитель мира (подробное обучение в конце этого урока). Ваш выбор предоставляет вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания вызова</h6><p>Каждый подкласс рейнджера имеет список заклинания вызова, к которому вы можете получить доступ, только вручную произведя заклинание этого круга (как показано натаблица <strong>Прогресс) рейнджера</strong>).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет упоминаться во многих известных вам заклинаниях.Однако предложение призывающего заклинания по-прежнему расходует ячейку первоначального заклинания, как обычно.",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.4WKi2UZOowzzK8G5"
+        "item": "Compendium.black-flag-ru.classes.Item.4WKi2UZOowzzK8G5"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517514872,
@@ -521,7 +521,7 @@
     },
     {
       "sort": 650000,
-      "name": "Sorcerer",
+      "name": "Колдун",
       "type": "class",
       "_id": "u38MsYCAzX5qHMuv",
       "title": {
@@ -543,18 +543,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects the origins of your magical power, either Chaos or Draconic (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Origin Spells</h6><p>Each sorcerer subclass has a list of origin spells that you can access as soon as you can cast spells of that circle (as shown in the <strong>Sorcerer Progression</strong> table). Once you gain such a spell, it is always on your list of known spells and doesn’t count against the number of spells you know. However, casting an origin spell still expends an Arcane spell slot as normal.</p><p>If one of these spells isn’t on the Arcane spell list, it still counts as an Arcane spell for you. You can’t replace origin spells when you gain a level of sorcerer.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, отражающий влияние вашей магической силы: Хаос или Драконий (подробнее о конце этого класса). Ваш выбор обеспечивает вам заклинания и другие возможности на 3, 7, 11 и 15 уровнях.</p><h6>Исходные заклинания</h6><p>Каждый подкласс чаро имеет список исходных заклинаний, к которым вы можете получить доступ, как только вы Вы можете проверить заклинание этой круга (как показано в таблице <strong>Sorcerer Progression</strong>).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет упоминаться во многих известных вам заклинаниях.Однако наложение исходного заклинания по-прежнему расходует ячейку тайного заклинания, как обычно.",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.7kjoZmAahEechTnM"
+        "item": "Compendium.black-flag-ru.classes.Item.7kjoZmAahEechTnM"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517527568,
@@ -568,7 +568,7 @@
     },
     {
       "sort": 675000,
-      "name": "Warlock",
+      "name": "Чернокнижник",
       "type": "class",
       "_id": "QDJIQ0dSCw13GSj0",
       "title": {
@@ -590,18 +590,18 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Choose a subclass that reflects the type of entity that becomes your patron, either Fiend or Reaper (detailed at the end of this class). Your choice grants you spells and other features at 3rd, 7th, 11th, and 15th level.</p><h6>Pact Spells</h6><p>Each warlock subclass has a list of pact spells that you can access as soon as you can cast spells of that circle (as shown in the <strong>Warlock Progression</strong> table). Once you gain such a spell, it is always on your list of known spells and doesn’t count against the number of spells you know. However, casting a pact spell still expends a Wyrd spell slot as normal.</p><p>If one of these spells isn’t on the Wyrd spell list, it still counts as a Wyrd spell for you. You can’t replace pact spells when you gain a level of warlock.</p><h6>Pact Magic</h6><p>Your patron gives you access to a special reservoir of power called Pact Magic. You can expend one use of Pact Magic to cast any Pact Spell you know without expending a spell slot, though they are always treated as cast at the highest‑circle warlock spell slot you can access (see <strong>Warlock Progression</strong>).</p><p>You can use this feature twice, whether casting the same or different spells from your Pact Spells. You gain additional uses of Pact Magic at higher warlock levels: at 13th level, you can use it three times between rests, and at 17th level, you can use it four times between rests.</p><p>You regain all expended uses of Pact Magic when you finish a short or long rest.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, в котором указан тип объекта, который станет вашим покровителем: Дьявол или Жнец (подробнее ступень в конце этого класса).Ваш обеспечивает выбор вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания договора</h6><p>Каждый подкласс чернокнижника имеет список заклинания договоров, к которым вы можете получить доступ, как только вы сможете творить заклинания этого круга (как показано в таблице <strong>Прогресс) чернокнижника___Р6____).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет учитываться во многих известных вам заклинаниях.Однако наложение договоров заклинания по-прежнему расходует ячейку заклинания Вирда, как обычно. чернокнижника самого высокого круга, к чему вы можете получить доступ (см.<strong>Прогресс чернокнижника</strong>).</p><p>Вы можете использовать эту функцию независимо от того, читаете ли вы одни и те же заклинания из своих заклинаний Пакта или разных заклинаний. 17-м уровне вы можете использовать ее четырераза между отдыхами.или продолжительный отдых.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
-        "item": "Compendium.black-flag.classes.Item.V1CiEUjHg9j3UxNy"
+        "item": "Compendium.black-flag-ru.classes.Item.V1CiEUjHg9j3UxNy"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.041",
         "coreVersion": "13.347",
         "createdTime": 1716517538436,
@@ -615,7 +615,7 @@
     },
     {
       "sort": 581250,
-      "name": "Open Hand Subclass",
+      "name": "Подкласс открытой руки",
       "type": "subclass",
       "_id": "IuMHrST77eG4pV2o",
       "title": {
@@ -634,16 +634,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.moPdzPGG2AmL1LK2 inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.moPdzPGG2AmL1LK2 inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.moPdzPGG2AmL1LK2"
+        "item": "Compendium.black-flag-ru.classes.Item.moPdzPGG2AmL1LK2"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718042271760,
@@ -657,7 +657,7 @@
     },
     {
       "sort": 590625,
-      "name": "Devotion Subclass",
+      "name": "Подкласс Преданности",
       "type": "subclass",
       "_id": "1ThDixaio09QFYxp",
       "title": {
@@ -676,16 +676,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.eqZX74Uu6443ziHA inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.eqZX74Uu6443ziHA inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.eqZX74Uu6443ziHA"
+        "item": "Compendium.black-flag-ru.classes.Item.eqZX74Uu6443ziHA"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404674488,
@@ -699,7 +699,7 @@
     },
     {
       "sort": 325000,
-      "name": "Berserker Subclass",
+      "name": "Подкласс Берсерка",
       "type": "subclass",
       "_id": "FXPVM1OkO4qP1l1o",
       "title": {
@@ -718,16 +718,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.8Yau8XtFJHNxRaKX inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.8Yau8XtFJHNxRaKX inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.8Yau8XtFJHNxRaKX"
+        "item": "Compendium.black-flag-ru.classes.Item.8Yau8XtFJHNxRaKX"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404781483,
@@ -741,7 +741,7 @@
     },
     {
       "sort": 375000,
-      "name": "Lore Subclass",
+      "name": "Подкласс знаний",
       "type": "subclass",
       "_id": "hIGqiuN8CDAzqk46",
       "title": {
@@ -760,16 +760,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.afGKvLF1N9qzmqDH inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.afGKvLF1N9qzmqDH inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.afGKvLF1N9qzmqDH"
+        "item": "Compendium.black-flag-ru.classes.Item.afGKvLF1N9qzmqDH"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404814086,
@@ -783,7 +783,7 @@
     },
     {
       "sort": 425000,
-      "name": "Life Domain Subclass",
+      "name": "Подкласс домена жизни",
       "type": "subclass",
       "_id": "8xCiSDEUJZeWeJ9K",
       "title": {
@@ -802,16 +802,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.JnVEjknCvF1dzKvz inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.JnVEjknCvF1dzKvz inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.JnVEjknCvF1dzKvz"
+        "item": "Compendium.black-flag-ru.classes.Item.JnVEjknCvF1dzKvz"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404852395,
@@ -825,7 +825,7 @@
     },
     {
       "sort": 437500,
-      "name": "War Domain Subclass",
+      "name": "Подкласс военного домена",
       "type": "subclass",
       "_id": "6Iat3Hp54gESmwih",
       "title": {
@@ -844,16 +844,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.wsZgdPKi1ZRHlKwD inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.wsZgdPKi1ZRHlKwD inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.wsZgdPKi1ZRHlKwD"
+        "item": "Compendium.black-flag-ru.classes.Item.wsZgdPKi1ZRHlKwD"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404869187,
@@ -867,7 +867,7 @@
     },
     {
       "sort": 475000,
-      "name": "Shifter Subclass",
+      "name": "Подкласс Шифтера",
       "type": "subclass",
       "_id": "85nQMk0OHyP1rks9",
       "title": {
@@ -886,16 +886,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.JeigJ6pOGPwmxZMb inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.JeigJ6pOGPwmxZMb inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.JeigJ6pOGPwmxZMb"
+        "item": "Compendium.black-flag-ru.classes.Item.JeigJ6pOGPwmxZMb"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404901425,
@@ -909,7 +909,7 @@
     },
     {
       "sort": 525000,
-      "name": "Weapon Master Subclass",
+      "name": "Подкласс Мастера Оружия",
       "type": "subclass",
       "_id": "aKdUbf4xIoaZCvvA",
       "title": {
@@ -928,16 +928,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.hkC2dMVQtg051DQg inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.hkC2dMVQtg051DQg inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.hkC2dMVQtg051DQg"
+        "item": "Compendium.black-flag-ru.classes.Item.hkC2dMVQtg051DQg"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718404939415,
@@ -951,7 +951,7 @@
     },
     {
       "sort": 562500,
-      "name": "Metallurgist Subclass",
+      "name": "Подкласс металлурга",
       "type": "subclass",
       "_id": "3BWmNRXUtplxVffY",
       "title": {
@@ -970,16 +970,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.Y6gwQL99e7nAKY7i inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.Y6gwQL99e7nAKY7i inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.Y6gwQL99e7nAKY7i"
+        "item": "Compendium.black-flag-ru.classes.Item.Y6gwQL99e7nAKY7i"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.038",
         "coreVersion": "13.347",
         "createdTime": 1718404992311,
@@ -993,7 +993,7 @@
     },
     {
       "sort": 596875,
-      "name": "Hunter Subclass",
+      "name": "Подкласс Охотника",
       "type": "subclass",
       "_id": "aCRXWxCiISk4TzI4",
       "title": {
@@ -1012,16 +1012,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.0yvJZ37nsbbuLLkG inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.0yvJZ37nsbbuLLkG inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.0yvJZ37nsbbuLLkG"
+        "item": "Compendium.black-flag-ru.classes.Item.0yvJZ37nsbbuLLkG"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718405057056,
@@ -1035,7 +1035,7 @@
     },
     {
       "sort": 625000,
-      "name": "Thief Subclass",
+      "name": "Подкласс вора",
       "type": "subclass",
       "_id": "ZL1BT4ftY3fOhgxW",
       "title": {
@@ -1054,16 +1054,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.pvleQ3WXoW1o1T6K inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.pvleQ3WXoW1o1T6K inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.pvleQ3WXoW1o1T6K"
+        "item": "Compendium.black-flag-ru.classes.Item.pvleQ3WXoW1o1T6K"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718405068357,
@@ -1077,7 +1077,7 @@
     },
     {
       "sort": 662500,
-      "name": "Draconic Subclass",
+      "name": "Драконий подкласс",
       "type": "subclass",
       "_id": "1ZrOYRPjdgpY9b9o",
       "title": {
@@ -1096,16 +1096,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.RO1kOksGkc4eNOGs inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.RO1kOksGkc4eNOGs inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.RO1kOksGkc4eNOGs"
+        "item": "Compendium.black-flag-ru.classes.Item.RO1kOksGkc4eNOGs"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.036",
         "coreVersion": "13.347",
         "createdTime": 1718405082600,
@@ -1119,7 +1119,7 @@
     },
     {
       "sort": 687500,
-      "name": "Fiend Subclass",
+      "name": "Подкласс демонов",
       "type": "subclass",
       "_id": "kryxFxs3VKB9FMON",
       "title": {
@@ -1138,16 +1138,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.mRj6X1fs0gxUrh2Y inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.mRj6X1fs0gxUrh2Y inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.mRj6X1fs0gxUrh2Y"
+        "item": "Compendium.black-flag-ru.classes.Item.mRj6X1fs0gxUrh2Y"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.037",
         "coreVersion": "13.347",
         "createdTime": 1718405097553,
@@ -1161,7 +1161,7 @@
     },
     {
       "sort": 800000,
-      "name": "Battle Mage Subclass",
+      "name": "Подкласс боевого мага",
       "type": "subclass",
       "_id": "f2OGBsOuorSZ3YpR",
       "title": {
@@ -1180,16 +1180,16 @@
       "system": {
         "headingLevel": 4,
         "description": {
-          "introduction": "<p>@Embed[Compendium.black-flag.classes.Item.oiwoEgr8b6xbFxQG inline]</p>"
+          "introduction": "<p>@Embed[Compendium.black-flag-ru.classes.Item.oiwoEgr8b6xbFxQG inline]</p>"
         },
-        "item": "Compendium.black-flag.classes.Item.oiwoEgr8b6xbFxQG"
+        "item": "Compendium.black-flag-ru.classes.Item.oiwoEgr8b6xbFxQG"
       },
       "ownership": {
         "default": -1
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.034",
         "coreVersion": "13.347",
         "createdTime": 1718405109073,
@@ -1203,7 +1203,7 @@
     },
     {
       "sort": 556250,
-      "name": "Augment Effects",
+      "name": "Эффекты усиления",
       "type": "text",
       "_id": "4DdhsVwdeYhBjXPo",
       "title": {
@@ -1213,7 +1213,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>This section lists the effects available for mechanists to learn and use with their Augment feature. Each option lists the type of item required for the effect to function and provides a description of how the effect works. Any effects that require an action to activate their properties can be activated with the Use an Object action.</p><p>Some effects require you to make an attack roll or require your target to make a save. The attack bonus and save DC for these is calculated as follows:</p><p><strong>Augment save DC</strong> = 8 + your proficiency bonus (PB) + your Intelligence (INT) modifier</p><p><strong>Augment attack modifier</strong> = your proficiency bonus (PB) + your Intelligence (INT) modifier</p><h5>Adhesive</h5><p>@Embed[Compendium.black-flag.classes.Item.yoUiakYIVlo22q7J inline]</p><h5>Collapsible</h5><p>@Embed[Compendium.black-flag.classes.Item.wDdjlD0joAvtqDu7 inline]</p><h5>Detecting</h5><p>@Embed[Compendium.black-flag.classes.Item.JlTLHsum2ATtEuOs inline]</p><h5>Empowered</h5><p>@Embed[Compendium.black-flag.classes.Item.FEHYQiWYxClTY0h9 inline]</p><h5>Illusive</h5><p>@Embed[Compendium.black-flag.classes.Item.g74T8iFulmGCYtGj inline]</p><h5>Loading</h5><p>@Embed[Compendium.black-flag.classes.Item.OvJ2eCtBqB0BgCIP inline]</p><h5>Phosphorescent</h5><p>@Embed[Compendium.black-flag.classes.Item.epjGJH9nDbQbK7GW inline]</p><h5>Propulsive</h5><p>@Embed[Compendium.black-flag.classes.Item.VcmMYpwFLGYQ0OVm inline]</p><h5>Protean</h5><p>@Embed[Compendium.black-flag.classes.Item.bHXBba0RljS5bKZG inline]</p><h5>Reactive</h5><p>@Embed[Compendium.black-flag.classes.Item.f3HVJB8iwczpGbHO inline]</p><h5>Reinforced</h5><p>@Embed[Compendium.black-flag.classes.Item.YDMvY5Q6msCX7sKV inline]</p><h5>Repellant</h5><p>@Embed[Compendium.black-flag.classes.Item.WR1cZLv4QvyekArQ inline]</p><h5>Returning</h5><p>@Embed[Compendium.black-flag.classes.Item.9JKaKUB9EyFO931k inline]</p>"
+        "content": "<p>В этом разделе перечислены эффекты, доступные механизмы для изучения и использования с помощью функции улучшения.В каждом варианте указан тип объекта, выбранный для воздействия, и приведено описание того, как работает эффект. Любые эффекты, требующие действия для активации своего свойства, можно активировать с помощью действия «Использовать объект».</p><p>Некоторые эффекты требуют, чтобы вы сделали бросок или потребовали, чтобы ваша цель сделала спасбросок.Бонус действия и спасброска DC для них рассчитываются следующим образом: </p><p><strong>Увеличенныйспасбросок DC</strong> = 8 + ваш бонус мастерства (PB) + ваш модификатор Интеллекта (INT)</p><p><strong>Усиленный модификатор действия</strong> = ваш бонус мастерства (PB) + ваш Интеллект (INT) модификатор</p><h5>Клей</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.yoUiakYIVlo22q7J inline]</p><h5>Collapsible</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.wDdjlD0joAvtqDu7 встрока]</p><h5>Обнаружение</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.JlTLHsum2ATtEuOs inline]</p><h5>Empowered</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.FEHYQiWYxClTY0h9 inline]</p><h5>Illusive</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.g74T8iFulmGCYtGj inline]</p><h5>Загрузка</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.OvJ2eCtBqB0BgCIP inline]</p><h5>Фосфоресцирующий</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.epjGJH9nDbQbK7GW inline]</p><h5>Propulsive</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VcmMYpwFLGYQ0OVm inline]</p><h5>Protean</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bHXBba0RljS5bKZG inline]</p><h5>Reactive</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.f3HVJB8iwczpGbHO inline]</p><h5>Reinforced</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.YDMvY5Q6msCX7sKV inline]</p><h5>Repellant</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.WR1cZLv4QvyekArQ inline]</p><h5>Возврат</h5><p>@Embed[Сборник.black-flag-ru.classes.Item.9JKaKUB9EyFO931k inline]</p>"
       },
       "video": {
         "controls": true,
@@ -1226,7 +1226,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.038",
         "coreVersion": "13.347",
         "createdTime": 1720128556279,
@@ -1240,7 +1240,7 @@
     },
     {
       "sort": 681250,
-      "name": "Eldritch Invocations",
+      "name": "Жуткие призывы",
       "type": "text",
       "_id": "gE37srciCAVLfwlX",
       "title": {
@@ -1250,7 +1250,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>This section lists the eldritch invocations available for warlocks to learn. If an invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.</p><p>If a prerequisite lists a level requirement, that is the minimum warlock level required (you can take it at higher warlock levels).</p><h5>Agonizing Blast</h5><p>@Embed[Compendium.black-flag.classes.Item.pG3Ej4ZjCNhkfZ52 inline]</p><h5>Armor of SHadows</h5><p>@Embed[Compendium.black-flag.classes.Item.o2Sfs3fbTzyr7S8M inline]</p><h5>AScendant Step</h5><p>@Embed[Compendium.black-flag.classes.Item.nY0LhDNc1bkYmfiW inline]</p><h5>Bewitching Whispers</h5><p>@Embed[Compendium.black-flag.classes.Item.54UHzW3ULZ9m1sLb inline]</p><h5>Beyond Sight</h5><p>@Embed[Compendium.black-flag.classes.Item.OIDwHpH4UyuzVNGh inline]</p><h5>Boon Savant</h5><p>@Embed[Compendium.black-flag.classes.Item.WyL3Nn0tPvH19aes inline]</p><h5>Chains of Carceri</h5><p>@Embed[Compendium.black-flag.classes.Item.Csyn1RvNnxKj1k9l inline]</p><h5>Dreadful Word</h5><p>@Embed[Compendium.black-flag.classes.Item.46YrVW4NUSppEWiU inline]</p><h5>Eldritch Burst</h5><p>@Embed[Compendium.black-flag.classes.Item.tQNO1Drcya6D6IuN inline]</p><h5>Eldritch Sight</h5><p>@Embed[Compendium.black-flag.classes.Item.EBGZdrrvbkjcfGtP inline]</p><h5>Eldritch Spear</h5><p>@Embed[Compendium.black-flag.classes.Item.QF0HmO3A1BYiOQz7 inline]</p><h5>Fiendish Vigor</h5><p>@Embed[Compendium.black-flag.classes.Item.abYX4crZeAx5O04N inline]</p><h5>Gaze of Two Minds</h5><p>@Embed[Compendium.black-flag.classes.Item.bAt1gp6cPRStbKSd inline]</p><h5>Lifedrinker</h5><p>@Embed[Compendium.black-flag.classes.Item.fF4wPecfYXSzoKMb inline]</p><h5>Mask of Many Faces</h5><p>@Embed[Compendium.black-flag.classes.Item.I24WXooyy1qSzZi1 inline]</p><h5>Mire the Mind</h5><p>@Embed[Compendium.black-flag.classes.Item.VTBYbdcqYfCieKIQ inline]</p><h5>Misty Visions</h5><p>@Embed[Compendium.black-flag.classes.Item.VmUF8jSE2RWtxMwK inline]</p><h5>Mystic Arcanum</h5><p>@Embed[Compendium.black-flag.classes.Item.LR1yRC2UD8ltVUym inline]</p><h5>One with Shadows</h5><p>@Embed[Compendium.black-flag.classes.Item.3I3zYn1wnMGYTbWF inline]</p><h5>Otherworldly Leap</h5><p>@Embed[Compendium.black-flag.classes.Item.J7bHvk715dMnAMQP inline]</p><h5>Patron’s Anchor</h5><p>@Embed[Compendium.black-flag.classes.Item.DqbuaQ5wftTU1Fpc inline]</p><h5>Repelling Blast</h5><p>@Embed[Compendium.black-flag.classes.Item.UEnJY4Uac10l8rck inline]</p><h5>Sculptor of Flesh</h5><p>@Embed[Compendium.black-flag.classes.Item.bPgyHv5Br3VNZjrl inline]</p><h5>Second Boon</h5><p>@Embed[Compendium.black-flag.classes.Item.cS9R17yuSIlvoAf8 inline]</p><h5>Sign of Ill Omen</h5><p>@Embed[Compendium.black-flag.classes.Item.VyfPBraUrVFEXFJJ inline]</p><h5>Spirit Translator</h5><p>@Embed[Compendium.black-flag.classes.Item.a5JVMra55IFT4rQq inline]</p><h5>Stolen Knowledge</h5><p>@Embed[Compendium.black-flag.classes.Item.d0hTMRXSSdbut5d2 inline]</p><h5>Thief of Five Fates</h5><p>@Embed[Compendium.black-flag.classes.Item.EmZaJbh4RpQu7B7M inline]</p><h5>Visions of Distant Realms</h5><p>@Embed[Compendium.black-flag.classes.Item.NJT95uCh76HdGsuO inline]</p><h5>Whispers of the Grave</h5><p>@Embed[Compendium.black-flag.classes.Item.yYuZE1Qs4l9vVqr0 inline]</p><h5>Witch Sight</h5><p>@Embed[Compendium.black-flag.classes.Item.quSRkjkGwJQ7FZng inline]</p>"
+        "content": "<p>В этом разделе перечислены жуткие заклинания, доступные для изучения колдунам. Если в вызове есть предварительные условия, вам следует адаптировать их, чтобы изучить его. Вы можете одновременно обучаться с выполнением его предварительных требований.</p><p>Если в предварительном жестком соответствии с требованиями, это будет требуемый уровень чернокнижника (вы можете получить его на более низком уровне чернокнижника).</p><h5>Агонизирующий взрыв</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.pG3Ej4ZjCNhkfZ52 inline]</p><h5>Броня Shadows</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.o2Sfs3fbTzyr7S8M inline]</p><h5>AScendant Step</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.nY0LhDNc1bkYmfiW inline]</p><h5>Завораживающий Шепот</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.54UHzW3ULZ9m1sLb inline]</p><h5>Beyond Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.OIDwHpH4UyuzVNGh inline]</p><h5>Бон Savant</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.WyL3Nn0tPvH19aes inline]</p><h5>Цепочки Carceri</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.Csyn1RvNnxKj1k9l inline]</p><h5>Dreadful Word</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.46YrVW4NUSppEWiU inline]</p><h5>Eldritch Burst</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.tQNO1Drcya6D6IuN inline]</p><h5>Eldritch Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EBGZdrrvbkjcfGtP inline]</p><h5>Жуткое копье</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.QF0HmO3A1BYiOQz7 inline]</p><h5>Fiendish Vigor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.abYX4crZeAx5O04N inline]</p><h5>Взгляд отца Minds</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bAt1gp6cPRStbKSd inline]</p><h5>Lifedrinker</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.fF4wPecfYXSzoKMb inline]</p><h5>Маска Faces</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.I24WXooyy1qSzZi1 inline]</p><h5>Mire the Mind</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VTBYbdcqYfCieKIQ inline]</p><h5>Misty Visions</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VmUF8jSE2RWtxMwK inline]</p><h5>Mystic Arcanum</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.LR1yRC2UD8ltVUym inline]</p><h5>Одинсии</h5>___Тен78___@Embed[Compendium.black-flag-ru.classes.Item.3I3zYn1wnMGYTbWF inline]</p><h5>Другой мир Leap</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.J7bHvk715dMnAMQP inline]</p><h5>Патрон Anchor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.DqbuaQ5wftTU1Fpc inline]</p><h5>ОтталкиваниеBlast</h5><p>@Embed[Compendium.bnedostok-flag-ru.classes.Item.UEnJY4Uac10l8rck inline]</p><h5>Скульптор плоти</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bPgyHv5Br3VNZjrl inline]</p><h5>Второй дар</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.cS9R17yuSIlvoAf8 inline]</p><h5>Знак злаOmen</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VyfPBraUrVFEXFJJ inline]</p><h5>Дух Переводчик</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.a5JVMra55IFT4rQq inline]</p><h5>Украден Знания</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.d0hTMRXSSdbut5d2 inline]</p><h5>Вор Пяти Толстых</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EmZaJbh4RpQu7B7M inline]</p><h5>Видения дальёкого Realms</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.NJT95uCh76HdGsuO inline]</p><h5>Шепоты Grave</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.yYuZE1Qs4l9vVqr0 inline]</p><h5>Ведьма Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.quSRkjkGwJQ7FZng inline]</p>"
       },
       "video": {
         "controls": true,
@@ -1263,7 +1263,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.9.038",
         "coreVersion": "13.347",
         "createdTime": 1720129232643,
@@ -1283,7 +1283,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1700344459552,

@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Augury",
+  "name": "предзнаменование",
   "type": "spell",
   "_id": "CnNNEgO2tpR1uMZ6",
   "img": "icons/magic/symbols/runes-carved-stone-red.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:</p><ul><li><p><em>Weal</em>, for good results</p></li><li><p><em>Woe</em>, for bad results</p></li><li><p><em>Weal and woe</em>, for both good and bad results</p></li><li><p><em>Nothing</em>, for results that aren’t especially good or bad</p></li></ul><p>The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.</p><p>If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.</p>",
       "source": {},
-      "short": "Get an omen about your plans."
+      "short": "Получите предзнаменование о своих планах."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": 25,
-        "description": "specially marked sticks, bones, or similar tokens worth at least 25 gp",
+        "description": "специально отмеченные палки, кости или подобные жетоны стоимостью не менее 25 зм.",
         "consumed": false,
         "denomination": "gp"
       }
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1706996733296,

@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Lightning Bolt",
+  "name": "Молния",
   "type": "spell",
   "_id": "RIOCsdRfuC31r9Rf",
   "img": "icons/magic/lightning/bolt-strike-blue.webp",
@@ -68,7 +68,7 @@
     "description": {
       "value": "<p>A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p>The lightning ignites flammable objects in the area that aren’t being worn or carried./p&gt;</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the damage increases by [[/damage 1d6 lightning]]{1d6} for each slot above 3rd.</p>",
       "source": {},
-      "short": "Deal lightning in a line."
+      "short": "Нанесите молнию на линию."
     },
     "type": {
       "value": "standard"
@@ -90,7 +90,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a bit of fur and a rod of amber, crystal, or glass",
+        "description": "немного меха и палочка из янтаря, хрусталя или стекла.",
         "consumed": false,
         "denomination": "gp"
       }
@@ -130,7 +130,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934380366,

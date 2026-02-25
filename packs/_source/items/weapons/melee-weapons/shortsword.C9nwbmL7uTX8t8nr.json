@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Shortsword",
+  "name": "Короткий меч",
   "type": "weapon",
   "_id": "C9nwbmL7uTX8t8nr",
   "img": "icons/weapons/swords/shortsword-guard-brass.webp",
@@ -73,7 +73,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "coreVersion": "13.347",
     "createdTime": 1701025035557,

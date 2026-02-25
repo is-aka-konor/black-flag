@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of the Ram",
+  "name": "Кольцо Барана",
   "system": {
     "type": {
       "category": "clothing",
@@ -171,7 +171,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724987382405,
     "modifiedTime": 1756333375497,

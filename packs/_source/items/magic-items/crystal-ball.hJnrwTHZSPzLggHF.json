@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Crystal Ball",
+  "name": "Хрустальный шар",
   "type": "gear",
   "_id": "hJnrwTHZSPzLggHF",
   "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
@@ -10,7 +10,7 @@
         "type": "cast",
         "system": {
           "spell": {
-            "uuid": "Compendium.black-flag.spells.Item.GRLnRMB9C9gU2PHq",
+            "uuid": "Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq",
             "challenge": {
               "attack": null,
               "save": 17,
@@ -87,7 +87,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The typical crystal ball is a very rare magic item about 6 inches in diameter. While touching it, you can cast the <em>@UUID[Compendium.black-flag.spells.Item.GRLnRMB9C9gU2PHq]{scrying}</em> spell (save DC 17) with it.</p>",
+      "value": "<p>The typical crystal ball is a very rare magic item about 6 inches in diameter. While touching it, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{scrying}</em> spell (save DC 17) with it.</p>",
       "source": {}
     },
     "type": {
@@ -105,7 +105,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1707267181116,

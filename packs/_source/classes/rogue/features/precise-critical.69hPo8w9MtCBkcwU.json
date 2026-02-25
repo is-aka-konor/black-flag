@@ -1,6 +1,6 @@
 {
   "folder": "XqTaWvsposppobbE",
-  "name": "Precise Critical",
+  "name": "Точный критический",
   "type": "feature",
   "_id": "69hPo8w9MtCBkcwU",
   "img": "icons/skills/melee/blade-tip-orange.webp",
@@ -90,7 +90,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.062",
     "coreVersion": "13.347",
     "createdTime": 1715739846053,

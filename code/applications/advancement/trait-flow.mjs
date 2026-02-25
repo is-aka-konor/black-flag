@@ -19,7 +19,7 @@ export default class TraitFlow extends AdvancementFlow {
 		...super.PARTS,
 		content: {
 			...super.PARTS.content,
-			template: "systems/black-flag/templates/advancement/trait-flow-content.hbs"
+			template: "systems/black-flag-ru/templates/advancement/trait-flow-content.hbs"
 		}
 	};
 

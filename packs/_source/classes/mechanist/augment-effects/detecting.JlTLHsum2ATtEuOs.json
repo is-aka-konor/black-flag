@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Detecting",
+  "name": "Обнаружение",
   "type": "feature",
   "_id": "JlTLHsum2ATtEuOs",
   "img": "icons/tools/navigation/spyglass-telescope-brass.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128687438,

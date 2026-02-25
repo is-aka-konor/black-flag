@@ -1,6 +1,6 @@
 {
   "folder": "Y8UQ7n2ei8CgBzr3",
-  "name": "Perfume (vial)",
+  "name": "Духи (флакон)",
   "type": "consumable",
   "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
   "system": {
@@ -35,7 +35,7 @@
   "effects": [],
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362437680,

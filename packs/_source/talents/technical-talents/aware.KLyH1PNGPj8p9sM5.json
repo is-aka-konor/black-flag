@@ -1,6 +1,6 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Aware",
+  "name": "Осведомленный",
   "type": "talent",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
   "system": {
@@ -50,7 +50,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.029",
     "coreVersion": "13.347",
     "createdTime": 1695925583264,

@@ -1,9 +1,9 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Flying Sword",
+  "name": "Летающий меч",
   "type": "npc",
   "_id": "WdBjJZWKexQ9yWKE",
-  "img": "systems/black-flag/artwork/tokens/flying-sword.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/flying-sword.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -158,13 +158,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Flying Sword",
+    "name": "Летающий меч",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/flying-sword.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/flying-sword.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -259,7 +259,7 @@
   },
   "items": [
     {
-      "name": "Antimagic Susceptibility",
+      "name": "Антимагическая восприимчивость",
       "type": "feature",
       "_id": "0rnE6H0HieAZOb6l",
       "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
@@ -274,7 +274,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is incapacitated while in the area of an <em>@UUID[Compendium.black-flag.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}</em>. If targeted by <em>@UUID[Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em>, the [[lookup @name lowercase]] must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute.</p>",
+          "value": "<p>The [[lookup @name lowercase]] is incapacitated while in the area of an <em>@UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}</em>. If targeted by <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em>, the [[lookup @name lowercase]] must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute.</p>",
           "source": {}
         },
         "identifier": {
@@ -311,20 +311,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421197052,
         "modifiedTime": 1711423373591,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ISiRmo3wc4v8hRmf",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ISiRmo3wc4v8hRmf",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.0rnE6H0HieAZOb6l"
     },
     {
-      "name": "Construct Nature",
+      "name": "Построить природу",
       "type": "feature",
       "_id": "GWfyGFB1cjbYmXj2",
       "img": "icons/commodities/tech/furnace-modern.webp",
@@ -373,20 +373,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1709775093376,
         "modifiedTime": 1711423384137,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.qfmee9GxY6dNoGxg",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.qfmee9GxY6dNoGxg",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.GWfyGFB1cjbYmXj2"
     },
     {
-      "name": "Construct Resilience",
+      "name": "Создать устойчивость",
       "type": "feature",
       "_id": "xvsssnE7I2CwvCM4",
       "img": "icons/commodities/tech/glass-electrode.webp",
@@ -423,7 +423,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.mgIy0dlBCDXk6o5C",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.mgIy0dlBCDXk6o5C",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -434,7 +434,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Construct Resilience",
+          "name": "Создать устойчивость",
           "_id": "kaexE9tx9L3fp0QH",
           "changes": [
             {
@@ -502,7 +502,7 @@
             "duplicateSource": null,
             "exportSource": null
           },
-          "img": "systems/black-flag/artwork/types/feature.svg",
+          "img": "systems/black-flag-ru/artwork/types/feature.svg",
           "type": "base",
           "system": {},
           "sort": 0,
@@ -522,20 +522,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1709606040616,
         "modifiedTime": 1711423386485,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.mgIy0dlBCDXk6o5C",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.mgIy0dlBCDXk6o5C",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.xvsssnE7I2CwvCM4"
     },
     {
-      "name": "False Appearance",
+      "name": "Ложная внешность",
       "type": "feature",
       "_id": "VvyeUCmeRQ0Uhlnd",
       "img": "icons/commodities/treasure/statue-carved-figurehead.webp",
@@ -584,20 +584,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711421375455,
         "modifiedTime": 1711423397755,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.E2PyU7EAiv162L6t",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.E2PyU7EAiv162L6t",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.VvyeUCmeRQ0Uhlnd"
     },
     {
-      "name": "Whirling Blade (6 HP or Fewer)",
+      "name": "Вращающийся клинок (6 HP или меньше)",
       "type": "feature",
       "_id": "9oTyPW4XTvpnRkPX",
       "img": "icons/skills/melee/swords-triple-orange.webp",
@@ -702,7 +702,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.018",
         "coreVersion": "13.347",
         "createdTime": 1711423526045,
@@ -715,7 +715,7 @@
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.9oTyPW4XTvpnRkPX"
     },
     {
-      "name": "Slash",
+      "name": "Слэш",
       "type": "weapon",
       "_id": "rHFXNJdmkNvJJS1K",
       "img": "icons/skills/melee/strike-sword-steel-yellow.webp",
@@ -869,11 +869,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ElVb4hPQIAKlDmN4",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ElVb4hPQIAKlDmN4",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748932564,
         "modifiedTime": 1756751952346,
@@ -889,7 +889,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709606236479,

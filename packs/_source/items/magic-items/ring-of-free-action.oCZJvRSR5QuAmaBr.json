@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Free Action",
+  "name": "Кольцо свободных действий",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "standard",
-      "name": "Free Action",
-      "origin": "Compendium.black-flag.items.Item.oCZJvRSR5QuAmaBr",
+      "name": "Бесплатное действие",
+      "origin": "Compendium.black-flag-ru.items.Item.oCZJvRSR5QuAmaBr",
       "duration": {
         "startTime": null,
         "combat": null,
@@ -72,7 +72,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Difficult terrain doesn’t cost you extra movement.</p>",
+      "description": "<p>Сложная местность не требует дополнительного движения.</p>_",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -83,7 +83,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756766711093,
         "modifiedTime": 1756766751116,
@@ -101,7 +101,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724986986628,
     "modifiedTime": 1729889903172,

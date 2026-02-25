@@ -1,6 +1,6 @@
 {
   "type": "consumable",
-  "name": "Potion of Radiant Resistance",
+  "name": "Зелье сопротивления излучению",
   "system": {
     "type": {
       "category": "potion"
@@ -86,7 +86,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Drink",
+        "name": "Напиток",
         "img": "",
         "_id": "vS9xOgC6sdgF0cdL"
       }
@@ -113,9 +113,9 @@
   "img": "icons/consumables/potions/bottle-conical-corked-cyan.webp",
   "effects": [
     {
-      "name": "Radiant Resistance",
+      "name": "Лучезарное сопротивление",
       "img": "icons/consumables/potions/bottle-conical-corked-cyan.webp",
-      "origin": "Compendium.black-flag.items.Item.JP8A6REQeuce2TIr",
+      "origin": "Compendium.black-flag-ru.items.Item.JP8A6REQeuce2TIr",
       "transfer": false,
       "_id": "2usiN2R2A9zNv13v",
       "type": "base",
@@ -147,7 +147,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": 1729539942848,
         "modifiedTime": 1729539980210,
@@ -166,7 +166,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.058",
     "createdTime": 1725073786287,
     "modifiedTime": 1735684945164,

@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Glass Eye (for Clairvoyance)",
+  "name": "Стеклянный глаз (для ясновидения)",
   "type": "sundry",
   "_id": "d1ziNwzQ4hZ8NS05",
   "img": "icons/commodities/materials/glass-orb-blue.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703962419787,

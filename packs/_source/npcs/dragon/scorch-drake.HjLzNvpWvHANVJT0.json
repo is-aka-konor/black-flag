@@ -1,9 +1,9 @@
 {
   "folder": "7PmjslpAX7mMmrcv",
-  "name": "Scorch Drake",
+  "name": "Скорч Дрейк",
   "type": "npc",
   "_id": "HjLzNvpWvHANVJT0",
-  "img": "systems/black-flag/artwork/tokens/drake-scorch.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/drake-scorch.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -159,7 +159,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Scorch Drake",
+    "name": "Скорч Дрейк",
     "displayName": 30,
     "actorLink": false,
     "appendNumber": false,
@@ -167,7 +167,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/drake-scorch.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/drake-scorch.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -292,7 +292,7 @@
           "value": null
         }
       },
-      "name": "Heat Shimmer",
+      "name": "Тепловое мерцание",
       "type": "feature",
       "_id": "GSst00kJU1bnKyZ7",
       "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -312,7 +312,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -406,7 +406,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -446,7 +446,7 @@
           "value": null
         }
       },
-      "name": "Scalding Blood",
+      "name": "Обжигающая кровь",
       "type": "feature",
       "_id": "Gj03SDZ4KU8VXClO",
       "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
@@ -466,7 +466,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -476,7 +476,7 @@
       "_key": "!actors.items!HjLzNvpWvHANVJT0.Gj03SDZ4KU8VXClO"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "cwNdnk99FvsWJ67I",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -580,7 +580,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -687,7 +687,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
@@ -763,7 +763,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Subsequent Fire Damage",
+            "name": "Последующий ущерб от огня",
             "img": ""
           }
         },
@@ -808,7 +808,7 @@
           "value": null
         }
       },
-      "name": "Fire Breath",
+      "name": "Огненное дыхание",
       "type": "feature",
       "_id": "vDc85C4JuUlURyWg",
       "img": "icons/magic/fire/beam-jet-stream-trails-orange.webp",
@@ -824,7 +824,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.aae9t26T58XAaodq",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -907,7 +907,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -921,7 +921,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] flaps its wings in the direction of one ignited creature it can see within 15 feet of it. The flames coating the target flare up and generate excess smoke. The target must succeed on a [[/save format=long]] or be &amp;Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The [[lookup @name lowercase]] flaps its wings in the direction of one ignited creature it can see within 15 feet of it. The flames coating the target flare up and generate excess smoke. The target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -947,7 +947,7 @@
           "value": null
         }
       },
-      "name": "Fan the Flames",
+      "name": "Раздувать пламя",
       "type": "feature",
       "_id": "Yhks7NsPbLAvG0FJ",
       "img": "icons/magic/fire/flame-burning-earth-orange.webp",
@@ -967,7 +967,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -977,7 +977,7 @@
       "_key": "!actors.items!HjLzNvpWvHANVJT0.Yhks7NsPbLAvG0FJ"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "hfUP3HfIaqSfcnbH",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1042,7 +1042,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1152,7 +1152,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929813,
         "modifiedTime": 1756752842935,
@@ -1165,7 +1165,7 @@
       "_key": "!actors.items!HjLzNvpWvHANVJT0.hfUP3HfIaqSfcnbH"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "HS1S8jBTORHJBObi",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1230,7 +1230,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1340,7 +1340,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748929813,
         "modifiedTime": 1756752838903,
@@ -1358,7 +1358,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

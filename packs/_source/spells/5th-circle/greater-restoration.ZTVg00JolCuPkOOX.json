@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Greater Restoration",
+  "name": "Великое восстановление",
   "type": "spell",
   "_id": "ZTVg00JolCuPkOOX",
   "img": "icons/magic/life/ankh-gold-blue.webp",
@@ -51,7 +51,7 @@
     "description": {
       "value": "<p>You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one or end one of the following effects on the target:</p><ul><li><p>One effect that charmed or petrified the target</p></li><li><p>One curse, including the target’s attunement to a cursed magic item</p></li><li><p>Any reduction to one of the target’s ability scores</p></li><li><p>One effect reducing the target’s hit point maximum</p></li></ul>",
       "source": {},
-      "short": "Better restoration."
+      "short": "Лучше восстановление."
     },
     "source": [
       "divine",
@@ -76,7 +76,7 @@
         "consumed": true,
         "cost": 100,
         "denomination": "gp",
-        "description": "diamond dust worth at least 100 gp, which the spell consumes"
+        "description": "алмазная пыль стоимостью не менее 100 зм, которую расходует заклинание"
       }
     },
     "duration": {
@@ -109,7 +109,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1715663158366,

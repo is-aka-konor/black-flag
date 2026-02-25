@@ -1,6 +1,6 @@
 {
   "folder": "SBlfT18ZNbug3Op3",
-  "name": "Channel Divinity: Preserve Life",
+  "name": "Канал Божественности: Сохранить жизнь",
   "type": "feature",
   "_id": "6P47eCF9nLN6MBCg",
   "img": "icons/magic/life/heart-cross-strong-flame-green.webp",
@@ -31,7 +31,7 @@
       "LVmD7tI88R69XaVR": {
         "type": "healing",
         "_id": "LVmD7tI88R69XaVR",
-        "description": "<p>Choose any creatures within 30 feet of you and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. This healing has no effect on creatures of the Undead or Construct creature type.</p>",
+        "description": "<p>Выберите любое существо на расстоянии 30 футов от вас и разделите эти очки жизни между ними. Эта функция может сохраниться не более чем до половины его максимальных очков жизни. Это исцеление не оказывает никакого эффекта на существа типа Нежить или Конструкт.</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -49,7 +49,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.GcJRrE3ppTFS6Hnh",
+              "target": "Compendium.black-flag-ru.classes.Item.GcJRrE3ppTFS6Hnh",
               "value": "1"
             }
           ],
@@ -75,7 +75,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1700001728874,

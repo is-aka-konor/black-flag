@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Banishment",
+  "name": "Изгнание",
   "type": "spell",
   "_id": "skEh2fs5eZlzAdJ1",
   "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
@@ -70,9 +70,9 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a [[/save]] save or be banished.</p><p>If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is &amp;Reference[incapacitated]. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.</p><p>If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, you can target one additional creature for each slot above 4th.</p>",
+      "value": "<p>You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a [[/save]] save or be banished.</p><p>If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is &Reference[incapacitated]. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.</p><p>If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, you can target one additional creature for each slot above 4th.</p>",
       "source": {},
-      "short": "Send target to another plane for 1 min."
+      "short": "Отправьте цель в другой самолет на 1 мин."
     },
     "source": [
       "arcane",
@@ -98,7 +98,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "an item distasteful to the target"
+        "description": "предмет, неприятный для цели"
       }
     },
     "duration": {
@@ -130,9 +130,9 @@
   },
   "effects": [
     {
-      "name": "Banishment",
+      "name": "Изгнание",
       "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
-      "origin": "Compendium.black-flag.spells.Item.skEh2fs5eZlzAdJ1",
+      "origin": "Compendium.black-flag-ru.spells.Item.skEh2fs5eZlzAdJ1",
       "transfer": false,
       "_id": "qk7dxYqdhR2jV6kR",
       "type": "base",
@@ -159,7 +159,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723778131780,
         "modifiedTime": 1723778148766,
@@ -175,7 +175,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1718423704833,

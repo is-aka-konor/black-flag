@@ -33,7 +33,7 @@ export default class BackgroundData extends ItemDataModel.mixin(
 				legacyMixin: false,
 				localization: "BF.Item.Type.Background",
 				icon: "fa-solid fa-person-digging",
-				img: "systems/black-flag/artwork/types/background.svg",
+				img: "systems/black-flag-ru/artwork/types/background.svg",
 				accentColor: "#0000aa",
 				hasEffects: false,
 				register: true

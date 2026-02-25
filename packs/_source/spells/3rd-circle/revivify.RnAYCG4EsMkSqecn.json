@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Revivify",
+  "name": "Оживить",
   "type": "spell",
   "_id": "RnAYCG4EsMkSqecn",
   "img": "icons/magic/control/sihouette-hold-beam-green.webp",
@@ -55,7 +55,7 @@
     "description": {
       "value": "<p>You touch a creature that has died within the last minute. That creature returns to life with [[/healing 1]]. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.</p>",
       "source": {},
-      "short": "Resurrect 1 minute dead."
+      "short": "Воскресите мертвым на 1 минуту."
     },
     "type": {
       "value": "standard"
@@ -77,7 +77,7 @@
       ],
       "material": {
         "cost": 300,
-        "description": "diamonds worth 300 gp, which the spell consumes",
+        "description": "алмазы стоимостью 300 зм, которые расходуются на заклинание",
         "consumed": true,
         "denomination": "gp"
       }
@@ -116,7 +116,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935204516,

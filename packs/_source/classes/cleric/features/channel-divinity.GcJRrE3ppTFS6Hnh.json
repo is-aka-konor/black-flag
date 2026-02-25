@@ -1,6 +1,6 @@
 {
   "folder": "6kQTbZ8pyM8HRWZg",
-  "name": "Channel Divinity",
+  "name": "Канал Божественность",
   "type": "feature",
   "_id": "GcJRrE3ppTFS6Hnh",
   "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -12,11 +12,11 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.9bmynMc0anpBLi6n"
+              "uuid": "Compendium.black-flag-ru.classes.Item.9bmynMc0anpBLi6n"
             }
           ]
         },
-        "title": "Channel Divinity",
+        "title": "Божественный канал",
         "icon": "",
         "level": {
           "value": 2,
@@ -50,14 +50,14 @@
           "classRestriction": ""
         },
         "flags": {},
-        "title": "Channel Divinity Uses",
+        "title": "Божественный канал Uses",
         "icon": "",
         "identifier": "channel-divinity-uses",
         "hint": ""
       }
     },
     "description": {
-      "value": "<p>You gain the ability to channel divine energy directly from your deity to produce effects beyond spells. You start with one effect: Turn the Profane. Some subclasses grant additional effects as you advance in levels, as noted in their descriptions.</p><p>When you use your Channel Divinity feature, choose which specific effect you want, such as Turn the Profane. Some of these effects require a save, and in those cases, the DC is equal to your cleric spell save DC.</p><p>Beginning at 2nd level, you can use your Channel Divinity feature once until you finish a short or long rest, then twice between rests at 6th level, three times at 13th level, and four times at 18th level. When you finish a short or long rest, you regain all expended uses.</p><p>@Embed[.Advancement.pC5GQiodmMOT1jvZ inline]</p>",
+      "value": "<p>You gain the ability to channel divine energy directly from your deity to produce effects beyond spells. You start with one effect: Turn the Profane. Some subclasses grant additional effects as you advance in levels, as noted in their descriptions.</p><p>When you use your Божественный канал feature, choose which specific effect you want, such as Turn the Profane. Some of these effects require a save, and in those cases, the DC is equal to your cleric spell save DC.</p><p>Beginning at 2nd level, you can use your Божественный канал feature once until you finish a short or long rest, then twice between rests at 6th level, three times at 13th level, and four times at 18th level. When you finish a short or long rest, you regain all expended uses.</p><p>@Embed[.Advancement.pC5GQiodmMOT1jvZ inline]</p>",
       "source": {}
     },
     "identifier": {
@@ -91,7 +91,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1699045206292,

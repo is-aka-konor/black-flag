@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Otherworldly Leap",
+  "name": "Потусторонний прыжок",
   "type": "feature",
   "_id": "J7bHvk715dMnAMQP",
   "img": "icons/skills/movement/feet-winged-sandals-tan.webp",
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376832953,

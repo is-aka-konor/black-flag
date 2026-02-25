@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Wand of the War Mage, +2",
+  "name": "Жезл боевого мага, +2",
   "system": {
     "type": {
       "category": "wand"
@@ -12,7 +12,7 @@
     },
     "attunement": {
       "value": "required",
-      "requirement": "by a Spellcaster"
+      "requirement": "от заклинателя"
     },
     "description": {
       "value": "<p>While holding this wand, you gain a +2 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack.</p>",
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "War Mage, +2",
-      "origin": "Compendium.black-flag.items.Item.pa8pPq4xdmzrlYF1",
+      "name": "Боевой маг, +2",
+      "origin": "Compendium.black-flag-ru.items.Item.pa8pPq4xdmzrlYF1",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1730154873623,
         "modifiedTime": 1756332866224,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1725071599353,
     "modifiedTime": 1730154663860,

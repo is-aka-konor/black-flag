@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Healer's Kit",
+  "name": "Набор Целителя",
   "type": "gear",
   "_id": "vmZm2JwuyAyMjc7a",
   "img": "icons/containers/bags/satchel-worn-leather-teal.webp",
@@ -9,7 +9,7 @@
       "8HJW7ASW45z4YkMz": {
         "type": "healing",
         "_id": "8HJW7ASW45z4YkMz",
-        "description": "<p>You stabilize a creature that has 0 hit points without needing to make a WIS (Medicine) check.</p>",
+        "description": "<p>Вы стабилизируете Существо, у которого 0 хитов, без необходимости проверки МДР (Медицина).</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -41,7 +41,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Stabilize",
+        "name": "Стабилизировать",
         "img": ""
       }
     },
@@ -81,7 +81,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363390577,

@@ -283,7 +283,7 @@ export function renderSettingsSidebar(html) {
 	section.innerHTML = `
 		<h4 class="divider">${game.i18n.localize("BF.GameSystem")}</h4>
 		<figure class="black-flag sidebar-badge">
-			<img src="systems/black-flag/artwork/branding/badge.webp" height="64" width="154"
+			<img src="systems/black-flag-ru/artwork/branding/badge.webp" height="64" width="154"
 			     data-tooltip="${game.system.title}" alt="${game.system.title}">
 			<span class="system-info">${systemVersion()}</span>
 		</figure>

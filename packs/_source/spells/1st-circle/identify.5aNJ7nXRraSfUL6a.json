@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Identify",
+  "name": "Идентифицировать",
   "type": "spell",
   "_id": "5aNJ7nXRraSfUL6a",
   "img": "icons/commodities/treasure/puzzle-box-glowing-blue.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</p><p>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</p>",
       "source": {},
-      "short": "Discover magic on target."
+      "short": "Откройте для себя магию прямо на цели."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": 100,
-        "description": "a pearl worth at least 100 gp and an owl feather",
+        "description": "жемчужина стоимостью не менее 100 зм и перо совы",
         "denomination": "gp",
         "consumed": false
       }
@@ -97,7 +97,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.041",
     "coreVersion": "13.347",
     "createdTime": 1706997049370,

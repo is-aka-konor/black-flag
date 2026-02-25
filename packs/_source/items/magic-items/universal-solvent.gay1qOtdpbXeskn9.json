@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Universal Solvent",
+  "name": "Универсальный растворитель",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -80,7 +80,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Apply",
+        "name": "Применить",
         "img": ""
       }
     },
@@ -116,7 +116,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725071390652,
     "modifiedTime": 1730154535093,

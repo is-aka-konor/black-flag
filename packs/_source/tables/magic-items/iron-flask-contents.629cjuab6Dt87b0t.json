@@ -1,6 +1,6 @@
 {
   "folder": "N7qWrD2YSVPGUeOz",
-  "name": "Iron Flask Contents",
+  "name": "Содержимое железной фляги",
   "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
   "description": "",
   "results": [
@@ -26,7 +26,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Empty",
+      "description": "Пустой",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.5pJQc8fUCQAMI13a"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Demon",
+      "description": "Демон",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.AYPcy4WvfRXMMqNR"
     },
@@ -78,7 +78,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Deva",
+      "description": "Дева",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.YuWet5ymgP6umQqp"
     },
@@ -104,7 +104,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Devil (greater)",
+      "description": "Дьявол (больший)",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.lvYaLFtk9Wwf6i25"
     },
@@ -130,7 +130,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Devil (lesser)",
+      "description": "Дьявол (меньший)",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.dgiqKxUOcZVz2NyI"
     },
@@ -156,7 +156,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Djinni",
+      "description": "Джинны",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.GOBw9edJkRJoifAO"
     },
@@ -182,7 +182,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Efreeti",
+      "description": "Ифрити",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.d8vhw50HyI0CTtMD"
     },
@@ -208,7 +208,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Elemental (any)",
+      "description": "Элементаль (любой)",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.b40TtICKzCkLdngK"
     },
@@ -234,7 +234,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Invisible stalker",
+      "description": "Невидимый сталкер",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.MlSNLUxqwOhQyVDh"
     },
@@ -260,7 +260,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Night hag",
+      "description": "Ночная ведьма",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.amX7Eb5ZDEjiv9Vn"
     },
@@ -286,7 +286,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Planetar",
+      "description": "Планетар",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.q2J5HvMMEUFEXpSO"
     },
@@ -312,7 +312,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Salamander",
+      "description": "Саламандра",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.7oGRSfzAnszL3mBg"
     },
@@ -338,7 +338,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Solar",
+      "description": "Солнечная",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.RoVdwAOS4xRTSGwe"
     },
@@ -364,7 +364,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Succubus/incubus",
+      "description": "Суккуб/инкуб",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.PySvvA02loIPIDdU"
     },
@@ -390,7 +390,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Xorn",
+      "description": "Ксорн",
       "name": "",
       "_key": "!tables.results!629cjuab6Dt87b0t.IKyHAMbLjaXAui0K"
     }
@@ -404,7 +404,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729534707587,
     "modifiedTime": 1729534707587,

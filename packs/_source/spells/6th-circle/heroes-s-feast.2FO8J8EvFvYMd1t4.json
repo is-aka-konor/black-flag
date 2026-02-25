@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Heroes’s Feast",
+  "name": "Праздник героев",
   "type": "spell",
   "_id": "2FO8J8EvFvYMd1t4",
   "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
@@ -93,7 +93,7 @@
     "description": {
       "value": "<p>You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve other creatures can partake of the feast.</p><p>A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all WIS saves with advantage. Its hit point maximum also increases by [[/healing]]{2d10}, and it gains the same number of hit points. These benefits last for 24 hours.</p><p>You must complete a long rest before you can cast this spell again.</p>",
       "source": {},
-      "short": "Feast gives eaters benefits."
+      "short": "Пир дает едокам преимущества."
     },
     "source": [
       "divine",
@@ -118,7 +118,7 @@
         "consumed": true,
         "cost": 1000,
         "denomination": "gp",
-        "description": "a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes"
+        "description": "инкрустированная драгоценными камнями чаша стоимостью не менее 1000 зм, которую расходует заклинание"
       }
     },
     "duration": {
@@ -150,9 +150,9 @@
   },
   "effects": [
     {
-      "name": "Heroes’s Feast",
+      "name": "Праздник героев",
       "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
-      "origin": "Compendium.black-flag.spells.Item.2FO8J8EvFvYMd1t4",
+      "origin": "Compendium.black-flag-ru.spells.Item.2FO8J8EvFvYMd1t4",
       "transfer": false,
       "_id": "iUSryGQJ9MSluIzR",
       "type": "base",
@@ -199,7 +199,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You are cured of all diseases and poison, become immune to poison and being frightened, and make all WIS saves with advantage. Your hit point maximum also increases by [[/healing 2d10 max]]{2d10}, and you gain the same number of hit points. These benefits last for 24 hours.</p>",
+      "description": "<p>Вы излечиваетесь от всех болезней и ядов, становитесь невосприимчивыми к яду и страху и делаете все спасброски WIS с преимуществом. Максимальное количество ваших очков жизни также увеличивается на [[/healing 2d10 max]]{2d10}, и вы продолжили такое же количество очков жизни. Эти преимущества действуют в течение 24 часов._</p>.",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -208,7 +208,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723780001467,
         "modifiedTime": 1723780174162,
@@ -226,7 +226,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1722569877344,
     "modifiedTime": 1723780001494,

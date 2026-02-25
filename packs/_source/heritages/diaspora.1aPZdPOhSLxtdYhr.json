@@ -1,5 +1,5 @@
 {
-  "name": "Diaspora",
+  "name": "Диаспора",
   "type": "heritage",
   "_id": "1aPZdPOhSLxtdYhr",
   "img": "icons/environment/people/group.webp",
@@ -39,10 +39,10 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.heritages.Item.tF7uvryjhYzDm0SQ"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.tF7uvryjhYzDm0SQ"
             },
             {
-              "uuid": "Compendium.black-flag.heritages.Item.Xc7odqrgCmVFSdaq"
+              "uuid": "Compendium.black-flag-ru.heritages.Item.Xc7odqrgCmVFSdaq"
             }
           ]
         },
@@ -53,10 +53,10 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag.heritages.Item.tF7uvryjhYzDm0SQ inline]{Preserved Traditions}</p><p>@Embed[Compendium.black-flag.heritages.Item.Xc7odqrgCmVFSdaq inline]{Timeless Resolve}</p><p>@Embed[.Advancement.NTXxZgJtZKXgkT2f inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.tF7uvryjhYzDm0SQ inline]{Preserved Traditions}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.Xc7odqrgCmVFSdaq inline]{Timeless Resolve}</p><p>@Embed[.Advancement.NTXxZgJtZKXgkT2f inline]{Languages}</p>",
       "source": {},
       "short": "",
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {
       "value": "diaspora"
@@ -70,7 +70,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1716230061011,

@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Gauntlets of Ogre Power",
+  "name": "Рукавицы силы огра",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Gauntlets of Ogre Power",
-      "origin": "Compendium.black-flag.items.Item.HNFIUaTXTfmM0MhT",
+      "name": "Рукавицы силы огра",
+      "origin": "Compendium.black-flag-ru.items.Item.HNFIUaTXTfmM0MhT",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -68,7 +68,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Your STR score is 19 while you wear these gauntlets. They have no effect on you if your STR is already 19 or higher.</p>",
+      "description": "<p>Ваш показатель STR равен 19, пока вы носите эти рукавицы. Они не окажут на вас ничего общего, если вашей силе уже 19 лет или выше.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1728593879815,
         "modifiedTime": 1756333979853,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724984840337,
     "modifiedTime": 1728593867539,

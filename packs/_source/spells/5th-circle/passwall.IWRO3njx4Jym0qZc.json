@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Passwall",
+  "name": "проход",
   "type": "spell",
   "_id": "IWRO3njx4Jym0qZc",
   "img": "icons/commodities/materials/glass-orb.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening’s dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.</p><p>When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.</p>",
       "source": {},
-      "short": "Make an opening on a surface."
+      "short": "Сделайте отверстие на поверхности."
     },
     "casting": {
       "value": null,
@@ -74,7 +74,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "a pinch of sesame seeds"
+        "description": "щепотка кунжута"
       }
     },
     "duration": {
@@ -114,7 +114,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723093009749,
     "modifiedTime": 1723155957217,

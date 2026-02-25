@@ -22,7 +22,7 @@ export default class LevelUpDialog extends BFApplication {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/actor/level-up-dialog.hbs"
+			template: "systems/black-flag-ru/templates/actor/level-up-dialog.hbs"
 		}
 	};
 

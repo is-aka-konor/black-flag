@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Demon Armor",
+  "name": "Демоническая броня",
   "type": "armor",
   "img": "icons/equipment/chest/breastplate-layered-leather-green.webp",
   "system": {
@@ -137,7 +137,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Claw Attack",
+        "name": "Атака когтями",
         "img": ""
       }
     },
@@ -147,8 +147,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Demon Armor",
-      "origin": "Compendium.black-flag.items.Item.AlSGfu22g9NBIbzk",
+      "name": "Демоническая броня",
+      "origin": "Compendium.black-flag-ru.items.Item.AlSGfu22g9NBIbzk",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -188,7 +188,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1727900134241,
         "modifiedTime": 1756335304079,
@@ -206,7 +206,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1725589059018,
     "modifiedTime": 1728426556234,

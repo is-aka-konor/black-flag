@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Dwarven Plate",
+  "name": "Двемерская латная пластина",
   "type": "armor",
   "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
   "system": {
@@ -109,7 +109,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Reduce Movement",
+        "name": "Уменьшить движение",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -133,7 +133,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725589330678,
     "modifiedTime": 1756335399248,

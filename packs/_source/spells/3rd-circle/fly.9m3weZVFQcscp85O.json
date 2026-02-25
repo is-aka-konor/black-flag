@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Fly",
+  "name": "Летать",
   "type": "spell",
   "_id": "9m3weZVFQcscp85O",
   "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.</p><p><em>At Higher Circles.</em> When you cast this spell using a 4th-circle spell slot or higher, you can target one additional creature for each slot above 3rd.</p>",
       "source": {},
-      "short": "Ally gets 60 ft. flying speed."
+      "short": "Союзник получает скорость полета 60 футов."
     },
     "type": {
       "value": "standard"
@@ -75,7 +75,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a wing feather from any bird",
+        "description": "перо от любой птицы",
         "consumed": false,
         "denomination": "gp"
       }
@@ -112,7 +112,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.9m3weZVFQcscp85O",
+      "origin": "Compendium.black-flag-ru.spells.Item.9m3weZVFQcscp85O",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -123,7 +123,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Fly",
+      "name": "Летать",
       "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
       "_id": "mKgHbYahQqGnugbp",
       "type": "base",
@@ -146,7 +146,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.039",
         "createdTime": 1721443946445,
         "modifiedTime": 1721443986719,
@@ -162,7 +162,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933734625,

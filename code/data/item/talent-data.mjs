@@ -38,7 +38,7 @@ export default class TalentData extends ItemDataModel.mixin(
 				category: "features",
 				legacyMixin: false,
 				localization: "BF.Item.Type.Talent",
-				img: "systems/black-flag/artwork/types/talent.svg"
+				img: "systems/black-flag-ru/artwork/types/talent.svg"
 			},
 			{ inplace: false }
 		)

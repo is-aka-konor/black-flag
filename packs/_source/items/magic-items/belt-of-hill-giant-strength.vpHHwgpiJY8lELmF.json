@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Belt of Hill Giant Strength",
+  "name": "Пояс силы холмового гиганта",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -40,7 +40,7 @@
   "img": "icons/equipment/waist/belt-buckle-engraved-spiral.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.vpHHwgpiJY8lELmF",
+      "origin": "Compendium.black-flag-ru.items.Item.vpHHwgpiJY8lELmF",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -51,7 +51,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Hill Giant Strength",
+      "name": "Сила холмового гиганта",
       "img": "icons/equipment/waist/belt-buckle-engraved-spiral.webp",
       "_id": "3zyO9x9OvYUXtP4S",
       "type": "base",
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>While wearing this belt, your STR score changes to 21. If your STR is already equal to or greater than the belt’s score, the item has no effect on you.</p>",
+      "description": "<p>При ношении этого пояса ваша Сила меняется на 21. Если ваша Сила уже меняется или превращается в показательный пояс, предмет не оказывает на вас никакого воздействия.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -76,7 +76,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725901298143,
         "modifiedTime": 1756335018858,
@@ -95,7 +95,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724983100311,
     "modifiedTime": 1728426556234,

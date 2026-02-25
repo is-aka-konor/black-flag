@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ioun Stone of Fortitude",
+  "name": "Йоунский камень стойкости",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>Your CON score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>Your CON score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Ioun Stone of Fortitude",
-      "origin": "Compendium.black-flag.items.Item.ktKqFpqkAA1omgGh",
+      "name": "Йоунский камень стойкости",
+      "origin": "Compendium.black-flag-ru.items.Item.ktKqFpqkAA1omgGh",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729031206334,
         "modifiedTime": 1756334178246,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.047",
     "createdTime": 1724986177040,
     "modifiedTime": 1729031203920,

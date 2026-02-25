@@ -16,7 +16,7 @@ export default class UtilityActivity extends Activity {
 			{
 				type: "utility",
 				dataModel: UtilityData,
-				icon: "systems/black-flag/artwork/activities/utility.svg",
+				icon: "systems/black-flag-ru/artwork/activities/utility.svg",
 				title: "BF.UTILITY.Title",
 				hint: "BF.UTILITY.Hint",
 				usage: {

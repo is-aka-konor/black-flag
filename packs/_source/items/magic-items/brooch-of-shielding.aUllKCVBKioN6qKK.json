@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Brooch of Shielding",
+  "name": "Брошь защиты",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -41,7 +41,7 @@
   "img": "icons/commodities/treasure/brooch-shield-grey.webp",
   "effects": [
     {
-      "origin": "Compendium.black-flag.items.Item.aUllKCVBKioN6qKK",
+      "origin": "Compendium.black-flag-ru.items.Item.aUllKCVBKioN6qKK",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -52,7 +52,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Brooch of Shielding",
+      "name": "Брошь защиты",
       "img": "icons/commodities/treasure/brooch-shield-grey.webp",
       "_id": "JeLMH0Kh0mvl0JCd",
       "type": "base",
@@ -67,7 +67,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to force damage, and you have immunity to damage from the <em>magic missile</em> spell.</p>",
+      "description": "<p>У есть сопротивление силовому урону и иммунитет к урону от заклинания <em>magic rocket</em>.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -77,7 +77,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1725903037003,
         "modifiedTime": 1756335146992,
@@ -96,7 +96,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724983565847,
     "modifiedTime": 1756334509740,

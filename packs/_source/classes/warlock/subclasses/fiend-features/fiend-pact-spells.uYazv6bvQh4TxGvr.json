@@ -1,6 +1,6 @@
 {
   "folder": "GDoFM686nV2sICKW",
-  "name": "Fiend Pact Spells",
+  "name": "Заклинания Дьявольского договора",
   "type": "feature",
   "_id": "uYazv6bvQh4TxGvr",
   "img": "icons/magic/symbols/chevron-elipse-circle-blue.webp",
@@ -21,10 +21,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.6HSESlJ472aQngrP"
+              "uuid": "Compendium.black-flag-ru.spells.Item.6HSESlJ472aQngrP"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.lkBDXbx2O78UA8gz"
+              "uuid": "Compendium.black-flag-ru.spells.Item.lkBDXbx2O78UA8gz"
             }
           ],
           "spell": {
@@ -50,10 +50,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.zcPLl539wJ5MflKO"
+              "uuid": "Compendium.black-flag-ru.spells.Item.zcPLl539wJ5MflKO"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.iw5BfQdWrDssHFWZ"
+              "uuid": "Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ"
             }
           ],
           "spell": {
@@ -80,10 +80,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.VYvD59yJYefhAwOI"
+              "uuid": "Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.Bf0cetCjUrF24nNy"
+              "uuid": "Compendium.black-flag-ru.spells.Item.Bf0cetCjUrF24nNy"
             }
           ],
           "spell": {
@@ -110,10 +110,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.bf9OcuTnbJoaUueU"
+              "uuid": "Compendium.black-flag-ru.spells.Item.bf9OcuTnbJoaUueU"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.xOthSJ1mF0Qpe9DM"
+              "uuid": "Compendium.black-flag-ru.spells.Item.xOthSJ1mF0Qpe9DM"
             }
           ],
           "spell": {
@@ -140,10 +140,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.5mipsDCRlAEIpZXs"
+              "uuid": "Compendium.black-flag-ru.spells.Item.5mipsDCRlAEIpZXs"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.zN7iox5s7uic3PTH"
+              "uuid": "Compendium.black-flag-ru.spells.Item.zN7iox5s7uic3PTH"
             }
           ],
           "spell": {
@@ -166,7 +166,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain pact spells at the warlock levels listed in the <strong>Fiend Pact Spells</strong> table. See the Warlock Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.L9WtAAZIGujehtrq inline]</p>",
+      "value": "<p>You gain pact spells at the warlock levels listed in the <strong>Fiend Pact Spells</strong> table. See the Warlock Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.L9WtAAZIGujehtrq inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -195,7 +195,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1719377057326,

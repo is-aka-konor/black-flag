@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Staff of Withering",
+  "name": "Посох увядания",
   "type": "weapon",
   "_id": "mKMcdlLTmTrPAJJq",
   "img": "icons/weapons/staves/staff-animal-skull-bull.webp",
@@ -141,7 +141,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Wither",
+        "name": "Увядать",
         "img": "",
         "visibility": {
           "requireMagic": true,
@@ -214,7 +214,7 @@
     "rarity": "rare",
     "attunement": {
       "value": "required",
-      "requirement": "by a Cleric, Druid, or Warlock"
+      "requirement": "от Священника, Друида или Чернокнижника"
     },
     "container": null,
     "magicalBonus": null
@@ -228,7 +228,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725590715035,
     "modifiedTime": 1756332655972,

@@ -1,6 +1,6 @@
 {
   "folder": "8r1CBzL0kiMVidHe",
-  "name": "Returning",
+  "name": "Возвращение",
   "type": "feature",
   "_id": "9JKaKUB9EyFO931k",
   "img": "icons/weapons/thrown/shuriken-double-red.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720128723991,

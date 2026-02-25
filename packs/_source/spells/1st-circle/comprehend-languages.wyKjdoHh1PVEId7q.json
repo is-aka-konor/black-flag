@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Comprehend Languages",
+  "name": "Понимать языки",
   "type": "spell",
   "_id": "wyKjdoHh1PVEId7q",
   "img": "icons/sundries/scrolls/scroll-runed-worn-tan.webp",
@@ -41,7 +41,7 @@
     "description": {
       "value": "<p>For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.</p><p>This spell doesn’t decode secret messages in a text or a glyph, such as an arcane sigil, that isn’t part of a written language.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional willing creature (besides yourself) for each slot above 1st. The creatures must be within 30 feet of you when you target them.</p>",
       "source": {},
-      "short": "Understand literal meanings."
+      "short": "Понять буквальные значения."
     },
     "type": {
       "value": "standard"
@@ -63,7 +63,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a pinch of soot and salt",
+        "description": "щепотка сажи и соли",
         "denomination": "pp",
         "consumed": false
       }
@@ -97,9 +97,9 @@
   },
   "effects": [
     {
-      "name": "Language Comprehension",
+      "name": "Понимание языка",
       "img": "icons/sundries/scrolls/scroll-runed-worn-tan.webp",
-      "origin": "Compendium.black-flag.spells.Item.wyKjdoHh1PVEId7q",
+      "origin": "Compendium.black-flag-ru.spells.Item.wyKjdoHh1PVEId7q",
       "transfer": false,
       "_id": "EhapyrI5PcYhY0WU",
       "type": "base",
@@ -122,7 +122,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.</p>",
+      "description": "<p>Вы понимаете буквальное значение любой разговорной речи, которую слышите. Вы также понимаете любую письменную речь, которую видите, но вам приходится прикасаться к поверхности, на которой написаны слова. Чтение одной страницы текста занимает около 1 минуты.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -131,7 +131,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723605360576,
         "modifiedTime": 1756675688704,
@@ -147,7 +147,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932702351,

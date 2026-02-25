@@ -37,7 +37,7 @@ export default class RestMessageData extends ChatMessageDataModel {
 		foundry.utils.mergeObject(
 			super.metadata,
 			{
-				template: "systems/black-flag/templates/chat/rest-card.hbs"
+				template: "systems/black-flag-ru/templates/chat/rest-card.hbs"
 			},
 			{ inplace: false }
 		)

@@ -1,9 +1,9 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Glabrezu",
+  "name": "Глабрезу",
   "type": "npc",
   "_id": "brp0QMrUtl7IIMuX",
-  "img": "systems/black-flag/artwork/tokens/demon-glaberzu.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/demon-glaberzu.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -166,7 +166,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Glabrezu",
+    "name": "Глабрезу",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -174,7 +174,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/demon-glaberzu.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/demon-glaberzu.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -267,7 +267,7 @@
   },
   "items": [
     {
-      "name": "Demonic Resilience",
+      "name": "Демоническая стойкость",
       "type": "feature",
       "_id": "9bMX0YCTIFLU2bIV",
       "img": "icons/creatures/unholy/demon-fire-horned-winged-roar.webp",
@@ -308,7 +308,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.30zXkRqsI6WEowjf",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.30zXkRqsI6WEowjf",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -319,7 +319,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Demonic Resilience",
+          "name": "Демоническая стойкость",
           "_id": "QEROKmLmQGbXQUxg",
           "changes": [
             {
@@ -362,7 +362,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -388,7 +388,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.yEnzD1P6so8fuqeg",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -402,7 +402,7 @@
       "_key": "!actors.items!brp0QMrUtl7IIMuX.9bMX0YCTIFLU2bIV"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "XT77XVGVOmkaX6ov",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -456,7 +456,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.GoznMPBy0gqwoh8Q",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -508,7 +508,7 @@
           "value": null
         }
       },
-      "name": "Point Blank Grappler",
+      "name": "Борец в упор",
       "type": "feature",
       "_id": "R8fhsUIp49RMoyin",
       "img": "icons/skills/melee/unarmed-punch-fist-white.webp",
@@ -528,7 +528,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -538,7 +538,7 @@
       "_key": "!actors.items!brp0QMrUtl7IIMuX.R8fhsUIp49RMoyin"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "JXWBhLO3DLwjlrfx",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -642,7 +642,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -765,7 +765,7 @@
           "value": null
         }
       },
-      "name": "Manipulating Whispers",
+      "name": "Манипулирование шепотом",
       "type": "feature",
       "_id": "5MxJUtf6Qcf85Knn",
       "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
@@ -785,7 +785,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -795,7 +795,7 @@
       "_key": "!actors.items!brp0QMrUtl7IIMuX.5MxJUtf6Qcf85Knn"
     },
     {
-      "name": "Claw",
+      "name": "коготь",
       "type": "weapon",
       "_id": "D1JLKCf8CxHgAwt3",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -874,7 +874,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -984,7 +984,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933116,
         "modifiedTime": 1756756168199,
@@ -1071,7 +1071,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1090,7 +1090,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it is &amp;Reference[grappled]{grappled} (escape DC 17). The glabrezu has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it is &Reference[grappled]{grappled} (escape DC 17). The glabrezu has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1143,7 +1143,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Pincer",
+      "name": "Клещи",
       "type": "weapon",
       "_id": "nYfwphX1676J3eWa",
       "img": "icons/creatures/claws/pincer-crab-brown.webp",
@@ -1164,7 +1164,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933116,
         "modifiedTime": 1756756176296,
@@ -1262,7 +1262,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1331,7 +1331,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Crackling Flame Bolt",
+      "name": "Потрескивающая огненная стрела",
       "type": "weapon",
       "_id": "REEULJowbDIPAFwb",
       "img": "icons/magic/fire/projectile-embers-orange.webp",
@@ -1352,7 +1352,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933116,
         "modifiedTime": 1756756186264,
@@ -1366,7 +1366,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

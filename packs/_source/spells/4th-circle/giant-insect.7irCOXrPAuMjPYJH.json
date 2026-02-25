@@ -1,5 +1,5 @@
 {
-  "name": "Giant Insect",
+  "name": "Гигантское насекомое",
   "type": "spell",
   "_id": "7irCOXrPAuMjPYJH",
   "img": "icons/creatures/invertebrates/centipede-brown.webp",
@@ -111,7 +111,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.040",
     "coreVersion": "13.347",
     "createdTime": 1717965627607,

@@ -1,9 +1,9 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Magmin",
+  "name": "Магмин",
   "type": "npc",
   "_id": "hOgnjyo11UFsresY",
-  "img": "systems/black-flag/artwork/tokens/magmin.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/magmin.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -157,7 +157,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Magmin",
+    "name": "Магмин",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -165,7 +165,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/magmin.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/magmin.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -336,7 +336,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -376,7 +376,7 @@
           "value": null
         }
       },
-      "name": "Death Burst",
+      "name": "Смертельный взрыв",
       "type": "feature",
       "_id": "tceMG7J1Y9ZzZVnz",
       "img": "icons/magic/earth/explosion-lava-orange.webp",
@@ -396,7 +396,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -444,7 +444,7 @@
           "value": null
         }
       },
-      "name": "Hardened Magma",
+      "name": "Закаленная магма",
       "type": "feature",
       "_id": "tJRvsAiryZaz9M1n",
       "img": "icons/magic/earth/laval-stone-orange.webp",
@@ -464,7 +464,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -552,7 +552,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           }
@@ -592,7 +592,7 @@
           "value": null
         }
       },
-      "name": "Molten Body",
+      "name": "Расплавленное тело",
       "type": "feature",
       "_id": "yBe9bN1XbCYwtTDE",
       "img": "icons/magic/earth/lava-stone-fire-yellow.webp",
@@ -612,7 +612,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -679,7 +679,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -719,7 +719,7 @@
           "value": null
         }
       },
-      "name": "Ignited Illumination",
+      "name": "Зажженное освещение",
       "type": "feature",
       "_id": "Fw9pVKy90ixzg0BE",
       "img": "icons/magic/fire/flame-burning-skull-orange.webp",
@@ -739,7 +739,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -749,7 +749,7 @@
       "_key": "!actors.items!hOgnjyo11UFsresY.Fw9pVKy90ixzg0BE"
     },
     {
-      "name": "Burning Slam",
+      "name": "Пылающий удар",
       "type": "weapon",
       "_id": "5MPt0GUEDLP6MlGu",
       "img": "icons/magic/fire/explosion-flame-lightning-strike.webp",
@@ -814,7 +814,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -924,7 +924,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748933772,
         "modifiedTime": 1756755328398,
@@ -942,7 +942,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

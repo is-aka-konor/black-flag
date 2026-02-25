@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Animated Shield",
+  "name": "Анимированный Щит",
   "type": "armor",
   "img": "icons/equipment/shield/round-wooden-boss-steel-yellow-blue.webp",
   "system": {
@@ -102,7 +102,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Animate",
+        "name": "Оживить",
         "img": ""
       }
     },
@@ -118,7 +118,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.044",
     "createdTime": 1725588881765,
     "modifiedTime": 1728426556234,

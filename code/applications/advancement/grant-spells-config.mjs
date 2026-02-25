@@ -14,14 +14,14 @@ export default class GrantSpellsConfig extends GrantFeaturesConfig {
 	/** @override */
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		spellConfig: {
-			template: "systems/black-flag/templates/advancement/parts/advancement-spell-configuration.hbs"
+			template: "systems/black-flag-ru/templates/advancement/parts/advancement-spell-configuration.hbs"
 		},
 		items: {
-			template: "systems/black-flag/templates/advancement/grant-spells-config-items.hbs",
-			templates: ["systems/black-flag/templates/advancement/parts/spells-list.hbs"]
+			template: "systems/black-flag-ru/templates/advancement/grant-spells-config-items.hbs",
+			templates: ["systems/black-flag-ru/templates/advancement/parts/spells-list.hbs"]
 		}
 	};
 

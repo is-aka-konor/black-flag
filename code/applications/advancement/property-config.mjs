@@ -20,10 +20,10 @@ export default class PropertyConfig extends AdvancementConfig {
 
 	static PARTS = {
 		config: {
-			template: "systems/black-flag/templates/advancement/advancement-controls-section.hbs"
+			template: "systems/black-flag-ru/templates/advancement/advancement-controls-section.hbs"
 		},
 		changes: {
-			template: "systems/black-flag/templates/advancement/property-config.hbs"
+			template: "systems/black-flag-ru/templates/advancement/property-config.hbs"
 		}
 	};
 

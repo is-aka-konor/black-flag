@@ -1,6 +1,6 @@
 {
   "folder": "PNS3OPopAxnlSN4O",
-  "name": "Scimitar of Speed",
+  "name": "Ятаган скорости",
   "type": "weapon",
   "img": "icons/weapons/swords/scimitar-guard-wood.webp",
   "system": {
@@ -129,7 +129,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.050",
     "createdTime": 1725589604424,
     "modifiedTime": 1730070063666,

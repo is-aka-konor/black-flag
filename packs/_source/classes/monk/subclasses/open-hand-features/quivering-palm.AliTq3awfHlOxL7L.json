@@ -1,6 +1,6 @@
 {
   "folder": "NM2cIQ9aafWAC0yl",
-  "name": "Quivering Palm",
+  "name": "Дрожащая пальма",
   "type": "feature",
   "_id": "AliTq3awfHlOxL7L",
   "img": "icons/magic/unholy/hands-circle-light-green.webp",
@@ -72,7 +72,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Unarmed Strike",
+        "name": "Безоружный удар",
         "img": ""
       },
       "M5eoxdiky4Vejn0X": {
@@ -89,7 +89,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.xFWfBjQ8Oq6HftOo",
+              "target": "Compendium.black-flag-ru.classes.Item.xFWfBjQ8Oq6HftOo",
               "value": "4 + (@activity.uses.value * -2)"
             },
             {
@@ -134,13 +134,13 @@
           "min": "10",
           "max": ""
         },
-        "name": "Fill with Vibrations",
+        "name": "Наполните вибрациями",
         "img": ""
       },
       "70dp8NCjLVH2qB3i": {
         "type": "savingThrow",
         "_id": "70dp8NCjLVH2qB3i",
-        "description": "<p>The target must make a CON save. On a failure, the target takes force damage equal to 5 × your monk level and is paralyzed until the end of your next turn. On a success, the target is stunned for 1 minute, and at the end of each of their turns, and each time they take damage, the target can repeat the save, ending the effect on a success. A target that fails the save by 5 or more instantly dies.</p>",
+        "description": "<p>Цель должна сделать спасбросок ВЫН. В случае провала цель получает силовой урон, равный 5 × ваш уровень монаха, и становится парализованной до конца вашего следующего хода. В случае успеха цель оглушается на 1 минуту, а в конце каждого своего хода и каждый раз, когда она получает урон, цель может выглядеть спасбросок, прекращая эффект при успехе. Цель, провалившая спасбросок на 5 или более очков, мгновенно умирает.</p>",
         "system": {
           "ability": "constitution",
           "damage": {
@@ -197,7 +197,7 @@
           "min": "",
           "max": ""
         },
-        "name": "End Vibrations",
+        "name": "Конец вибрации",
         "img": ""
       }
     },
@@ -239,7 +239,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.034",
     "coreVersion": "13.347",
     "createdTime": 1718042377634,

@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Bless",
+  "name": "Благословить",
   "type": "spell",
   "_id": "Gnxh5w9pE08ZGF9S",
   "img": "icons/magic/light/orb-shadow-blue.webp",
@@ -49,7 +49,7 @@
     "description": {
       "value": "<p>You bless up to three creatures of your choice within range. When a target makes an attack roll or a save before the spell ends, the target can roll a [[/r d4]] and add the number rolled to the attack roll or save.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.</p>",
       "source": {},
-      "short": "Allies add d4 to rolls."
+      "short": "Союзники добавляют к броскам d4."
     },
     "type": {
       "value": "standard"
@@ -71,7 +71,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a sprinkling of holy water",
+        "description": "окропление святой водой",
         "denomination": "pp",
         "consumed": false
       }
@@ -108,7 +108,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.Gnxh5w9pE08ZGF9S",
+      "origin": "Compendium.black-flag-ru.spells.Item.Gnxh5w9pE08ZGF9S",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -119,7 +119,7 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Bless",
+      "name": "Благословить",
       "_id": "2a767QpT9Rm2qcqm",
       "changes": [
         {
@@ -129,7 +129,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You makes an attack roll or a save before the spell ends, you can roll a [[/r d4]] and add the number rolled to the attack roll or save.</p>",
+      "description": "<p>Вы делаете бросок атаки или спасбросок до окончания заклинания, вы можете бросить [[/r d4]] и добавить выпавшее число к броску атаки или спасброску.</p>",
       "transfer": false,
       "statuses": [],
       "flags": {},
@@ -158,7 +158,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706932347742,

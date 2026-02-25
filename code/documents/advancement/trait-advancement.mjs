@@ -15,7 +15,7 @@ export default class TraitAdvancement extends Advancement {
 					value: TraitValueData
 				},
 				order: 30,
-				icon: "systems/black-flag/artwork/advancement/trait.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/trait.svg",
 				title: "BF.Advancement.Trait.Title",
 				hint: "BF.Advancement.Trait.Hint",
 				configurableHint: true

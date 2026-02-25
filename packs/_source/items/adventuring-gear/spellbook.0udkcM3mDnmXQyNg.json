@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Spellbook",
+  "name": "Книга заклинаний",
   "type": "gear",
   "_id": "0udkcM3mDnmXQyNg",
   "img": "icons/sundries/books/book-embossed-jewel-gold-purple.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1707363637704,

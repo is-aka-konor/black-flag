@@ -24,7 +24,7 @@ export default class CastActivity extends Activity {
 			{
 				type: "cast",
 				dataModel: CastData,
-				icon: "systems/black-flag/artwork/activities/cast.svg",
+				icon: "systems/black-flag-ru/artwork/activities/cast.svg",
 				title: "BF.CAST.Title",
 				hint: "BF.CAST.Hint"
 			},
@@ -115,7 +115,7 @@ export default class CastActivity extends Activity {
 						_id: this.constructor.ENCHANTMENT_ID,
 						type: "enchantment",
 						name: game.i18n.localize("BF.CAST.Enchantment.Name"),
-						img: "systems/black-flag/artwork/activities/cast.svg",
+						img: "systems/black-flag-ru/artwork/activities/cast.svg",
 						origin: this.uuid,
 						changes: this.getSpellChanges()
 					}

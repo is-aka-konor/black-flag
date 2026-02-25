@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Grick",
+  "name": "Грик",
   "type": "npc",
   "_id": "38E3bpoPnOg2DVJg",
-  "img": "systems/black-flag/artwork/tokens/grick.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/grick.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -155,7 +155,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Grick",
+    "name": "Грик",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -163,7 +163,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/grick.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/grick.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -250,7 +250,7 @@
   },
   "items": [
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "qEvcvKJ0n5FqQsWv",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -291,7 +291,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -302,7 +302,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -327,7 +327,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -353,7 +353,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -367,7 +367,7 @@
       "_key": "!actors.items!38E3bpoPnOg2DVJg.qEvcvKJ0n5FqQsWv"
     },
     {
-      "name": "Spider Climb",
+      "name": "Паучье восхождение",
       "type": "feature",
       "_id": "cULWSXJTqJKGOmTX",
       "img": "icons/creatures/invertebrates/spider-web-red.webp",
@@ -421,7 +421,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.9SnGOXer6OWDVFZR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -473,7 +473,7 @@
           "value": null
         }
       },
-      "name": "Stone Camouflage",
+      "name": "Каменный Камуфляж",
       "type": "feature",
       "_id": "mZJrczs8yvOsxsIU",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -489,7 +489,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ybWrRhTJ5VUe8Kba",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -503,7 +503,7 @@
       "_key": "!actors.items!38E3bpoPnOg2DVJg.mZJrczs8yvOsxsIU"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "MeAEEUS2TVjhtXyd",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -607,7 +607,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -621,7 +621,7 @@
       "_key": "!actors.items!38E3bpoPnOg2DVJg.MeAEEUS2TVjhtXyd"
     },
     {
-      "name": "Beak",
+      "name": "Клюв",
       "type": "weapon",
       "_id": "Z8S1adHuiD40tDNT",
       "img": "icons/commodities/bones/beak-orange-green.webp",
@@ -671,7 +671,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "creature",
@@ -781,7 +781,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927021,
         "modifiedTime": 1756759727835,
@@ -794,7 +794,7 @@
       "_key": "!actors.items!38E3bpoPnOg2DVJg.Z8S1adHuiD40tDNT"
     },
     {
-      "name": "Tentacles",
+      "name": "Щупальца",
       "type": "weapon",
       "_id": "RS9cOdWxX2rWzfI0",
       "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -844,7 +844,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -955,10 +955,10 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.hc2Ip8BiS7gVhomV",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.hc2Ip8BiS7gVhomV",
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748927021,
         "modifiedTime": 1756759733075,
@@ -972,7 +972,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

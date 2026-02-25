@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Message",
+  "name": "Сообщение",
   "type": "spell",
   "_id": "O9ZMiRif8A9hL0G9",
   "img": "icons/magic/control/sleep-bubble-purple.webp",
@@ -35,7 +35,7 @@
     "description": {
       "value": "<p>You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.</p><p>You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.</p>",
       "source": {},
-      "short": "Only target hears your whisper."
+      "short": "Только цель слышит твой шепот."
     },
     "type": {
       "value": "standard"
@@ -57,7 +57,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a short piece of copper wire",
+        "description": "короткий кусок медной проволоки",
         "denomination": "pp",
         "consumed": false
       }
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934638710,

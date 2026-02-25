@@ -1,5 +1,5 @@
 {
-  "name": "Tentacle",
+  "name": "Щупальце",
   "type": "weapon",
   "_id": "hc2Ip8BiS7gVhomV",
   "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
@@ -161,7 +161,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709702,
     "modifiedTime": 1756767784564,

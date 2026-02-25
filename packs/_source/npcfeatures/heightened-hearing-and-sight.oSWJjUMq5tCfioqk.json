@@ -1,5 +1,5 @@
 {
-  "name": "Heightened Hearing and Sight",
+  "name": "Обостренный слух и зрение",
   "type": "feature",
   "_id": "oSWJjUMq5tCfioqk",
   "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
@@ -36,7 +36,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.020",
     "coreVersion": "13.347",
     "createdTime": 1709774678705,

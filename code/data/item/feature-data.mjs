@@ -46,7 +46,7 @@ export default class FeatureData extends ItemDataModel.mixin(
 				category: "features",
 				legacyMixin: false,
 				localization: "BF.Item.Type.Feature",
-				img: "systems/black-flag/artwork/types/feature.svg"
+				img: "systems/black-flag-ru/artwork/types/feature.svg"
 			},
 			{ inplace: false }
 		)

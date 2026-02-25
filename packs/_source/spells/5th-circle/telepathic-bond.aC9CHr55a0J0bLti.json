@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Telepathic Bond",
+  "name": "Телепатическая связь",
   "type": "spell",
   "_id": "aC9CHr55a0J0bLti",
   "img": "icons/magic/control/energy-stream-link-spiral-orange.webp",
@@ -61,7 +61,7 @@
     "description": {
       "value": "<p>You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with an INT of 3 (−4) or lower aren’t affected by this spell. Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can’t extend to other planes of existence.</p>",
       "source": {},
-      "short": "Connect allies’ thoughts."
+      "short": "Объединяйте мысли союзников."
     },
     "casting": {
       "value": null,
@@ -82,7 +82,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "pieces of eggshell from two different kinds of creatures"
+        "description": "кусочки яичной скорлупы двух разных видов существ"
       }
     },
     "duration": {
@@ -117,9 +117,9 @@
   },
   "effects": [
     {
-      "name": "Telepathic Bond",
+      "name": "Телепатическая связь",
       "img": "icons/magic/control/energy-stream-link-spiral-orange.webp",
-      "origin": "Compendium.black-flag.spells.Item.aC9CHr55a0J0bLti",
+      "origin": "Compendium.black-flag-ru.spells.Item.aC9CHr55a0J0bLti",
       "transfer": false,
       "_id": "UK3sgn58rgmrbvMl",
       "type": "base",
@@ -135,7 +135,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "description": "<p>You and the other targets can communicate telepathically through the bond whether or not you have a common language. The communication is possible over any distance, though it can’t extend to other planes of existence.</p>",
+      "description": "<p>Вы и другие цели можете общаться телепатически через связь независимо от того, есть ли у вас общий язык. Общение возможно на любом расстоянии, но не может распространяться на другие планы существования.</p>",
       "tint": "#ffffff",
       "statuses": [],
       "sort": 0,
@@ -144,7 +144,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1723576821868,
         "modifiedTime": 1723576874813,
@@ -162,7 +162,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "createdTime": 1723527652781,
     "modifiedTime": 1723576821899,

@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Dire Wolf",
+  "name": "Ужасный Волк",
   "type": "npc",
   "_id": "jrFETGwaRC12Gcgo",
-  "img": "systems/black-flag/artwork/tokens/wolf-dire.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/wolf-dire.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -150,7 +150,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Dire Wolf",
+    "name": "Ужасный Волк",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -158,7 +158,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/wolf-dire.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/wolf-dire.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   },
   "items": [
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "VEAffDRiWDZMvqxH",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -297,7 +297,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.dLm2LkubtKrxyqMQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -393,7 +393,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wolf stares down and growls at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &amp;Reference[frightened]{frightened} until the end of its next turn. The wolf has advantage on the next attack roll it makes against the frightened creature.</p>",
+          "value": "<p>The wolf stares down and growls at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. The wolf has advantage on the next attack roll it makes against the frightened creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -419,7 +419,7 @@
           "value": null
         }
       },
-      "name": "Hungry Growl",
+      "name": "Голодный рык",
       "type": "feature",
       "_id": "rqWTQVoiWR28vrtC",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -439,7 +439,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -449,7 +449,7 @@
       "_key": "!actors.items!jrFETGwaRC12Gcgo.rqWTQVoiWR28vrtC"
     },
     {
-      "name": "Pack Tactics",
+      "name": "Тактика стаи",
       "type": "feature",
       "_id": "JjIsnVgplW7Z0bbG",
       "img": "icons/creatures/mammals/wolf-shadow-black.webp",
@@ -558,7 +558,7 @@
       },
       "effects": [
         {
-          "name": "Pack Tactics",
+          "name": "Тактика стаи",
           "img": "icons/creatures/mammals/wolf-shadow-black.webp",
           "origin": "Actor.W4vQapOttm43LoJU.Item.lbnxXjJzInLDI2jK",
           "transfer": false,
@@ -585,7 +585,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -604,10 +604,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.ivOwfLQnIrKPW3bv",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.ivOwfLQnIrKPW3bv",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -621,7 +621,7 @@
       "_key": "!actors.items!jrFETGwaRC12Gcgo.JjIsnVgplW7Z0bbG"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "A5B4LHQXLL0FSECi",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -673,7 +673,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -776,7 +776,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR Save",
+            "name": "СТР Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -794,7 +794,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &amp;Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{prone}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -858,7 +858,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748934048,
         "modifiedTime": 1756749938982,
@@ -876,7 +876,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

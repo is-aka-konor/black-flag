@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Spellcasting",
+  "name": "Колдовство",
   "type": "feature",
   "_id": "EiPPrqc6Kc3uaUmU",
   "img": "icons/skills/trades/music-notes-sound-blue.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.032",
     "coreVersion": "13.347",
     "createdTime": 1717558604892,

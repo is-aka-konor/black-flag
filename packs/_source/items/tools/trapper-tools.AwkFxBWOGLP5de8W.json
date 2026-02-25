@@ -1,5 +1,5 @@
 {
-  "name": "Trapper Tools",
+  "name": "Инструменты ловца",
   "type": "tool",
   "_id": "AwkFxBWOGLP5de8W",
   "img": "icons/environment/traps/cage-wooden-yellow.webp",
@@ -43,7 +43,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716239095729,

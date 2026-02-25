@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Nondetection",
+  "name": "Необнаружение",
   "type": "spell",
   "_id": "XCJdbzCAPM6v5dFw",
   "img": "icons/magic/symbols/triangle-glow-purple.webp",
@@ -53,7 +53,7 @@
     "description": {
       "value": "<p>For the duration, you hide a target that you touch from divination magic. The target can be a willing creature, place, or object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.</p>",
       "source": {},
-      "short": "Hide target from divination."
+      "short": "Скрыть цель от гадания."
     },
     "type": {
       "value": "standard"
@@ -75,7 +75,7 @@
       ],
       "material": {
         "cost": 25,
-        "description": "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes",
+        "description": "щепотка алмазной пыли стоимостью 25 зм, посыпанная на цель, которая поглощается заклинанием",
         "consumed": true,
         "denomination": "gp"
       }
@@ -110,7 +110,7 @@
   },
   "effects": [
     {
-      "origin": "Compendium.black-flag.spells.Item.XCJdbzCAPM6v5dFw",
+      "origin": "Compendium.black-flag-ru.spells.Item.XCJdbzCAPM6v5dFw",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -121,13 +121,13 @@
         "startTurn": null
       },
       "disabled": false,
-      "name": "Nondetection",
+      "name": "Необнаружение",
       "img": "icons/magic/symbols/triangle-glow-purple.webp",
       "_id": "ouuz6nIQcmtTpWj4",
       "type": "base",
       "system": {},
       "changes": [],
-      "description": "<p>You can’t be targeted by any divination magic or perceived through magical scrying sensors.</p>",
+      "description": "<p>Вы не можете стать целью магии предсказания или восприниматься сенсорами магического наблюдения.</p>",
       "tint": "#ffffff",
       "transfer": false,
       "statuses": [],
@@ -137,7 +137,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.042",
         "createdTime": 1722987756160,
         "modifiedTime": 1722987782744,
@@ -153,7 +153,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934769842,

@@ -1,9 +1,9 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Deep Gnome",
+  "name": "Глубинный гном",
   "type": "npc",
   "_id": "Yi7b5kSrOjaBWcz7",
-  "img": "systems/black-flag/artwork/tokens/gnome-deep.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/gnome-deep.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -156,7 +156,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Deep Gnome",
+    "name": "Глубинный гном",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -164,7 +164,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/gnome-deep.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/gnome-deep.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -252,7 +252,7 @@
   "items": [
     {
       "folder": "JW7MCVevEcSMmi9e",
-      "name": "Chain Shirt",
+      "name": "Кольчужная рубашка",
       "type": "armor",
       "_id": "OrMhwjgLn6dX9Jdu",
       "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -317,9 +317,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.FO53M9vYJXLrYPDs",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.FO53M9vYJXLrYPDs",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -367,7 +367,7 @@
           "value": null
         }
       },
-      "name": "Gnome Cunning",
+      "name": "Гном Хитрый",
       "type": "feature",
       "_id": "xkKoniNWVyJGPlNz",
       "img": "icons/magic/control/mouth-smile-deception-purple.webp",
@@ -387,7 +387,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -435,7 +435,7 @@
           "value": null
         }
       },
-      "name": "Stone Camouflage",
+      "name": "Каменный Камуфляж",
       "type": "feature",
       "_id": "G3JtpBop6O85PbWv",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -451,7 +451,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.ybWrRhTJ5VUe8Kba",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -465,7 +465,7 @@
       "_key": "!actors.items!Yi7b5kSrOjaBWcz7.G3JtpBop6O85PbWv"
     },
     {
-      "name": "War Pick",
+      "name": "Военный выбор",
       "type": "weapon",
       "_id": "uIUD6wrsKihaiXfY",
       "img": "icons/weapons/axes/pickaxe-iron-green.webp",
@@ -544,7 +544,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -626,9 +626,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.EcuWrcnF6FY79arQ",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.EcuWrcnF6FY79arQ",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757956615,
@@ -639,7 +639,7 @@
     },
     {
       "folder": "QeYWxC06p1u8TuWG",
-      "name": "Crystalline Dart",
+      "name": "Кристаллический дротик",
       "type": "weapon",
       "_id": "5M4MV4G3yVmxQnHt",
       "img": "icons/weapons/thrown/dart-feathered.webp",
@@ -775,9 +775,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.14pCY7bJYfjnSZqB",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.14pCY7bJYfjnSZqB",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756757966849,
@@ -861,7 +861,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/damage.svg",
+            "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "sort": 0,
             "magical": false
           }
@@ -901,7 +901,7 @@
           "value": null
         }
       },
-      "name": "Infused Weapon",
+      "name": "Настоящее оружие",
       "type": "feature",
       "_id": "Nzm6KAvPfphhRoZF",
       "img": "icons/weapons/swords/sword-runed-glowing.webp",
@@ -921,7 +921,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1001,7 +1001,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1015,7 +1015,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The deep gnome throws a magic-infused crystal at a point it can see within 30 feet of it, shattering the crystal, which emits a rapid series of discordant waves of magic. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be &amp;Reference[incapacitated]{incapacitated} until the end of its next turn. A creature sensitive to or proficient in the use of magic, such as a spellcaster, has disadvantage on this save.</p>",
+          "value": "<p>The deep gnome throws a magic-infused crystal at a point it can see within 30 feet of it, shattering the crystal, which emits a rapid series of discordant waves of magic. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn. A creature sensitive to or proficient in the use of magic, such as a spellcaster, has disadvantage on this save.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1041,7 +1041,7 @@
           "value": null
         }
       },
-      "name": "Discordant Shatter",
+      "name": "Дискордантный раскол",
       "type": "feature",
       "_id": "1lrV5Pw66ymR8ubV",
       "img": "icons/commodities/gems/gem-faceted-rough-purple.webp",
@@ -1061,7 +1061,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1140,7 +1140,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1180,7 +1180,7 @@
           "value": null
         }
       },
-      "name": "Crystalline Flash",
+      "name": "Кристаллическая вспышка",
       "type": "feature",
       "_id": "FvpAlQNHJXam4TXN",
       "img": "icons/commodities/gems/gem-faceted-rough-yellow.webp",
@@ -1200,7 +1200,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1215,7 +1215,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

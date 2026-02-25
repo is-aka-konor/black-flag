@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Fire Bolt",
+  "name": "Огненный болт",
   "type": "spell",
   "_id": "EZNy8qD2tHXHr2N5",
   "img": "icons/magic/fire/explosion-flame-lightning-strike.webp",
@@ -72,7 +72,7 @@
     "description": {
       "value": "<p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes [[/damage]] damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.</p><p>This spell’s damage increases by 1d10 when you reach 5th level ([[/damage 2d10 fire]]{2d10}), 11th level ([[/damage 3d10 fire]]{3d10}), and 17th level ([[/damage 4d10 fire]]{4d10}).</p>",
       "source": {},
-      "short": "Fire harms foe, ignites objects."
+      "short": "Огонь вредит противнику, поджигает предметы."
     },
     "type": {
       "value": "standard"
@@ -131,7 +131,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706933477872,

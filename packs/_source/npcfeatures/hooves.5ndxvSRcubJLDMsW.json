@@ -1,5 +1,5 @@
 {
-  "name": "Hooves",
+  "name": "Копыта",
   "type": "weapon",
   "_id": "5ndxvSRcubJLDMsW",
   "img": "icons/commodities/bones/hooves-cloven-brown.webp",
@@ -147,7 +147,7 @@
     "duplicateSource": null,
     "exportSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1756767709586,
     "modifiedTime": 1756767732515,

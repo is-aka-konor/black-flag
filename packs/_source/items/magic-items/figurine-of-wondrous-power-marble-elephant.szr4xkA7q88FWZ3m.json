@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Figurine of Wondrous Power, Marble Elephant",
+  "name": "Статуэтка Чудесной Силы, Мраморный Слон",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This marble statuette is about 4 inches high and long. It can become an <strong>@UUID[Compendium.black-flag.npcs.Actor.Eq0kPFHAIxVCsRHO]{elephant}</strong> for up to 24 hours. Once it has been used, it can’t be used again until 7 days have passed.</p><aside><p>@Embed[Compendium.black-flag.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>This marble statuette is about 4 inches high and long. It can become an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.Eq0kPFHAIxVCsRHO]{elephant}</strong> for up to 24 hours. Once it has been used, it can’t be used again until 7 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }
@@ -34,7 +34,7 @@
               "count": "",
               "name": "",
               "_id": "hovBW3f3eswVlFaY",
-              "uuid": "Compendium.black-flag.npcs.Actor.Eq0kPFHAIxVCsRHO",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.Eq0kPFHAIxVCsRHO",
               "level": {
                 "min": null,
                 "max": null
@@ -102,7 +102,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Summon Creature",
+        "name": "Призвать существо",
         "img": "",
         "_id": "zrpJNh2EFyyJbzcb",
         "visibility": {
@@ -147,7 +147,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1724984728739,
     "modifiedTime": 1756333859368,

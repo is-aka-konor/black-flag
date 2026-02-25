@@ -1,6 +1,6 @@
 {
   "folder": "pvONXF4vU4yxNaR0",
-  "name": "Platinum Ring (for Warding Bond)",
+  "name": "Платиновое кольцо (для защитных уз)",
   "type": "sundry",
   "_id": "F13aXuPDq8iROkAW",
   "img": "icons/equipment/finger/ring-stone-snake-gold.webp",
@@ -30,7 +30,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.7.008",
     "coreVersion": "13.347",
     "createdTime": 1703961955522,

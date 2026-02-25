@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Creative Engine",
+  "name": "Творческий двигатель",
   "type": "feature",
   "_id": "pGHuY0CRUE7Wcd8p",
   "img": "icons/commodities/tech/electrode-copper.webp",
@@ -46,7 +46,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "13.347",
     "createdTime": 1720127839948,

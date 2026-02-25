@@ -1,6 +1,6 @@
 {
   "folder": "SBlfT18ZNbug3Op3",
-  "name": "Disciple of Life",
+  "name": "Ученик жизни",
   "type": "feature",
   "_id": "IUDviIcsgPlwJJxI",
   "img": "icons/magic/life/cross-explosion-burst-green.webp",
@@ -35,7 +35,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.026",
     "coreVersion": "13.347",
     "createdTime": 1700001768653,

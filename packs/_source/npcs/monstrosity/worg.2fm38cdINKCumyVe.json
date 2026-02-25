@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Worg",
+  "name": "Ворг",
   "type": "npc",
   "_id": "2fm38cdINKCumyVe",
-  "img": "systems/black-flag/artwork/tokens/worg.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/worg.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -150,13 +150,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Worg",
+    "name": "Ворг",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/worg.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/worg.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -245,7 +245,7 @@
   },
   "items": [
     {
-      "name": "Loathsome Howl",
+      "name": "Отвратительный вой",
       "type": "feature",
       "_id": "cTEgzaUZkfuIvRek",
       "img": "icons/creatures/mammals/wolf-howl-moon-black.webp",
@@ -369,7 +369,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706473742673,
@@ -382,7 +382,7 @@
       "_key": "!actors.items!2fm38cdINKCumyVe.cTEgzaUZkfuIvRek"
     },
     {
-      "name": "Heightened Hearing and Smell",
+      "name": "Повышенный слух и обоняние",
       "type": "feature",
       "_id": "LkacuNJQtsOsEaIG",
       "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
@@ -431,20 +431,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1709773397125,
         "modifiedTime": 1712946420532,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.vlGTuDphxCZw4xYF",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.vlGTuDphxCZw4xYF",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!2fm38cdINKCumyVe.LkacuNJQtsOsEaIG"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "3a1SaKM9tQ0VVPzC",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -481,7 +481,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -492,7 +492,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -544,20 +544,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.020",
         "coreVersion": "13.347",
         "createdTime": 1706473622104,
         "modifiedTime": 1712946425080,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!2fm38cdINKCumyVe.3a1SaKM9tQ0VVPzC"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "2b7Qqa4U0wJLz3WC",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -711,11 +711,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748926942,
         "modifiedTime": 1756760260675,
@@ -731,7 +731,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1706473281478,

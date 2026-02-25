@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Thief of Five Fates",
+  "name": "Вор пяти судеб",
   "type": "feature",
   "_id": "EmZaJbh4RpQu7B7M",
   "img": "icons/magic/symbols/rune-sigil-hook-white-red.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376875101,

@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Beastkin",
+  "name": "Зверолюдь",
   "type": "lineage",
   "img": "icons/creatures/mammals/humanoid-fox-cat-archer.webp",
   "system": {
@@ -11,13 +11,13 @@
         "configuration": {
           "pool": [
             {
-              "uuid": "Compendium.black-flag.lineages.Item.zCFysqhfSYQLsLbn"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.zCFysqhfSYQLsLbn"
             },
             {
-              "uuid": "Compendium.black-flag.lineages.Item.sZo4dk5NpkJme6et"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.sZo4dk5NpkJme6et"
             },
             {
-              "uuid": "Compendium.black-flag.lineages.Item.1OhikzT29y1Ulr47"
+              "uuid": "Compendium.black-flag-ru.lineages.Item.1OhikzT29y1Ulr47"
             }
           ]
         },
@@ -45,9 +45,9 @@
       }
     },
     "description": {
-      "value": "<p>Your beastkin character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Beastkin mature far more quickly than most Humanoids, reaching adulthood within 5 years. Though they may live nearly a century, some beastkin live only 20 or 30 years.</p><p>@Embed[.Advancement.gBcXRsYlpRJ7Bbvh inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag.lineages.Item.zCFysqhfSYQLsLbn inline]{Animal Instinct}</p><p>@Embed[Compendium.black-flag.lineages.Item.sZo4dk5NpkJme6et inline]{Natural Weapons}</p><p>@Embed[Compendium.black-flag.lineages.Item.1OhikzT29y1Ulr47 inline]{Natural Adaptation}</p>",
+      "value": "<p>Your beastkin character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Beastkin mature far more quickly than most Humanoids, reaching adulthood within 5 years. Though they may live nearly a century, some beastkin live only 20 or 30 years.</p><p>@Embed[.Advancement.gBcXRsYlpRJ7Bbvh inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.zCFysqhfSYQLsLbn inline]{Animal Instinct}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.sZo4dk5NpkJme6et inline]{Natural Weapons}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.1OhikzT29y1Ulr47 inline]{Natural Adaptation}</p>",
       "source": {},
-      "journal": "Compendium.black-flag.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc",
+      "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc",
       "short": ""
     },
     "identifier": {
@@ -60,7 +60,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.030",
     "coreVersion": "13.347",
     "createdTime": 1694990335579,

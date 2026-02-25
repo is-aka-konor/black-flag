@@ -1,6 +1,6 @@
 {
   "folder": "1TP7FLNgMIFG1ows",
-  "name": "Quickened Spell",
+  "name": "Ускоренное заклинание",
   "type": "feature",
   "_id": "5pr3918PjTR3mU6X",
   "img": "icons/magic/unholy/orb-droplet-pink.webp",
@@ -20,7 +20,7 @@
           "targets": [
             {
               "type": "item",
-              "target": "Compendium.black-flag.classes.Item.U7TtFFdzkbVMNQ2D",
+              "target": "Compendium.black-flag-ru.classes.Item.U7TtFFdzkbVMNQ2D",
               "value": "2"
             }
           ],
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718682928061,

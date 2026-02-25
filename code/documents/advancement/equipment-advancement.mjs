@@ -17,7 +17,7 @@ export default class EquipmentAdvancement extends Advancement {
 					value: EquipmentValueData
 				},
 				order: 32,
-				icon: "systems/black-flag/artwork/advancement/equipment.svg",
+				icon: "systems/black-flag-ru/artwork/advancement/equipment.svg",
 				title: "BF.Advancement.Equipment.Title",
 				hint: "BF.Advancement.Equipment.Hint",
 				configurableHint: true,

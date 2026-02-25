@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Shatter",
+  "name": "Разбить",
   "type": "spell",
   "_id": "QBDBcidEpF1xgxYs",
   "img": "icons/magic/earth/explosion-lava-stone-red.webp",
@@ -67,7 +67,7 @@
     "description": {
       "value": "<p>A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this save.</p><p>A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by [[/damage 1d8 thunder]]{1d8} for each slot above 2nd.</p>",
       "source": {},
-      "short": "10-ft. radius thunder."
+      "short": "10 футов. радиус грома."
     },
     "type": {
       "value": "standard"
@@ -89,7 +89,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a chip of mica",
+        "description": "кусочек слюды",
         "consumed": false,
         "denomination": "gp"
       }
@@ -129,7 +129,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935423941,

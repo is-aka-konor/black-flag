@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Shifter Ring Spells",
+  "name": "Заклинания Кольца Переключателя",
   "type": "feature",
   "_id": "6naV0ejTaaTG2yST",
   "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
@@ -20,13 +20,13 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.P3e0uUb8bp9vnRO2"
+              "uuid": "Compendium.black-flag-ru.spells.Item.P3e0uUb8bp9vnRO2"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.F1s8TRosgOUvR4iv"
+              "uuid": "Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.VEYRZOPPA3yH6AeK"
+              "uuid": "Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK"
             }
           ],
           "spell": {
@@ -53,10 +53,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.9nMxGFyHBXufsUnu"
+              "uuid": "Compendium.black-flag-ru.spells.Item.9nMxGFyHBXufsUnu"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.07Pmha1pV2NDH5pH"
+              "uuid": "Compendium.black-flag-ru.spells.Item.07Pmha1pV2NDH5pH"
             }
           ],
           "spell": {
@@ -83,10 +83,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.7irCOXrPAuMjPYJH"
+              "uuid": "Compendium.black-flag-ru.spells.Item.7irCOXrPAuMjPYJH"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.izAYjuiXEYPJat3R"
+              "uuid": "Compendium.black-flag-ru.spells.Item.izAYjuiXEYPJat3R"
             }
           ],
           "spell": {
@@ -113,10 +113,10 @@
           "enabled": true,
           "pool": [
             {
-              "uuid": "Compendium.black-flag.spells.Item.5mipsDCRlAEIpZXs"
+              "uuid": "Compendium.black-flag-ru.spells.Item.5mipsDCRlAEIpZXs"
             },
             {
-              "uuid": "Compendium.black-flag.spells.Item.lGmxkutPlXsgyzRd"
+              "uuid": "Compendium.black-flag-ru.spells.Item.lGmxkutPlXsgyzRd"
             }
           ],
           "spell": {
@@ -139,7 +139,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain ring spells at the druid levels listed in the <strong>Shifter Ring Spells</strong> table. See the Druid Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.B8j0fO43LAR1rc1K inline]</p>",
+      "value": "<p>You gain ring spells at the druid levels listed in the <strong>Shifter Ring Spells</strong> table. See the Druid Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.B8j0fO43LAR1rc1K inline]</p>",
       "source": {}
     },
     "restriction": {
@@ -168,7 +168,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.2.060",
     "coreVersion": "13.347",
     "createdTime": 1717790977674,

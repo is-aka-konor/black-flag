@@ -1,6 +1,6 @@
 {
   "folder": "Y8UQ7n2ei8CgBzr3",
-  "name": "Ink (1-ounce bottle)",
+  "name": "Чернила (бутылка на 1 унцию)",
   "type": "gear",
   "img": "icons/tools/scribal/ink-quill-red.webp",
   "system": {
@@ -37,7 +37,7 @@
   "effects": [],
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363409675,

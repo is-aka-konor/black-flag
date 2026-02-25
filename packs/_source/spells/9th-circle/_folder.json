@@ -1,5 +1,5 @@
 {
-  "name": "9th Circle",
+  "name": "9-й круг",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": "#300d44",
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.038",
     "coreVersion": "12.331",
     "createdTime": 1720201162042,

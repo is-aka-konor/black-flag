@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Mimic",
+  "name": "Подражать",
   "type": "npc",
   "_id": "M7mHEq10RcVxYE9V",
-  "img": "systems/black-flag/artwork/tokens/mimic.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/mimic.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -158,13 +158,13 @@
     }
   },
   "prototypeToken": {
-    "name": "Mimic",
+    "name": "Подражать",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
     "prependAdjective": false,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/mimic.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/mimic.webp",
       "scaleX": 1,
       "scaleY": 1,
       "offsetX": 0,
@@ -259,7 +259,7 @@
   },
   "items": [
     {
-      "name": "Adhesive (Object Form Only)",
+      "name": "Клей (только форма объекта)",
       "type": "feature",
       "system": {
         "type": {
@@ -308,7 +308,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711914555629,
@@ -321,7 +321,7 @@
       "_key": "!actors.items!M7mHEq10RcVxYE9V.lVAp3SasqrUzvlNc"
     },
     {
-      "name": "False Appearance (Object Form Only)",
+      "name": "Ложное появление (только форма объекта)",
       "type": "feature",
       "_id": "qXu1gLvvtMWTHhTS",
       "img": "icons/commodities/treasure/statue-carved-figurehead.webp",
@@ -370,20 +370,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711421375455,
         "modifiedTime": 1711914626446,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.E2PyU7EAiv162L6t",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.E2PyU7EAiv162L6t",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!M7mHEq10RcVxYE9V.qXu1gLvvtMWTHhTS"
     },
     {
-      "name": "Grappler",
+      "name": "грепплер",
       "type": "feature",
       "_id": "5PexmnBv36Xbbrlu",
       "img": "icons/creatures/reptiles/serpent-horned-green.webp",
@@ -432,20 +432,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711914636175,
         "modifiedTime": 1711914707751,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.DvLGN5tSzfXoxF6V",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.DvLGN5tSzfXoxF6V",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!M7mHEq10RcVxYE9V.5PexmnBv36Xbbrlu"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "xYNBfkYjWp6Eqy1x",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -482,7 +482,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -493,7 +493,7 @@
             "startTurn": 0
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -545,20 +545,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1706473622104,
         "modifiedTime": 1711914711554,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!M7mHEq10RcVxYE9V.xYNBfkYjWp6Eqy1x"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "20euzkgHx8MjPu6Y",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -657,20 +657,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711420922343,
         "modifiedTime": 1711914839517,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!M7mHEq10RcVxYE9V.20euzkgHx8MjPu6Y"
     },
     {
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "nXQEzWaAbHYHekt5",
       "img": "icons/creatures/magical/construct-stone-earth-gray.webp",
@@ -775,20 +775,20 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711503490478,
         "modifiedTime": 1711914826039,
         "lastModifiedBy": "blackflag0000000",
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.Yrb50WtUeyxgXygZ",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.Yrb50WtUeyxgXygZ",
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!actors.items!M7mHEq10RcVxYE9V.nXQEzWaAbHYHekt5"
     },
     {
-      "name": "Prey Shield",
+      "name": "Хищный щит",
       "type": "feature",
       "system": {
         "type": {
@@ -893,7 +893,7 @@
         }
       },
       "_stats": {
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.8.019",
         "coreVersion": "13.347",
         "createdTime": 1711914728651,
@@ -906,7 +906,7 @@
       "_key": "!actors.items!M7mHEq10RcVxYE9V.IP4VpYsjlqRCAprF"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "de6hS1ggXOyPGCtR",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1075,11 +1075,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.0Tp5zlCaSyrSMoYN",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930510,
         "modifiedTime": 1756759952339,
@@ -1088,7 +1088,7 @@
       "_key": "!actors.items!M7mHEq10RcVxYE9V.de6hS1ggXOyPGCtR"
     },
     {
-      "name": "Pseudopod",
+      "name": "Псевдопод",
       "type": "weapon",
       "_id": "1evcaqM47BIQWvNM",
       "img": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp",
@@ -1250,11 +1250,11 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.BM0wnwrOQkmV3utI",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.BM0wnwrOQkmV3utI",
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748930510,
         "modifiedTime": 1756759974706,
@@ -1270,7 +1270,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1709615746262,

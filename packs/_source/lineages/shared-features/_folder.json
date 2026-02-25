@@ -1,5 +1,5 @@
 {
-  "name": "Shared Features",
+  "name": "Общие функции",
   "sorting": "a",
   "folder": null,
   "type": "Item",
@@ -8,7 +8,7 @@
   "color": null,
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "11.315",
     "createdTime": 1716093525428,

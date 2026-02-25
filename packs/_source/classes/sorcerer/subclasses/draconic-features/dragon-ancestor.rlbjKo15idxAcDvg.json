@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Dragon Ancestor",
+  "name": "Предок Дракона",
   "type": "feature",
   "_id": "rlbjKo15idxAcDvg",
   "img": "icons/commodities/biological/shell-tan.webp",
@@ -25,19 +25,19 @@
           "type": "feature",
           "pool": [
             {
-              "uuid": "Compendium.black-flag.classes.Item.3Drw8jqrNGKpSUuf"
+              "uuid": "Compendium.black-flag-ru.classes.Item.3Drw8jqrNGKpSUuf"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.63YGa0Ez5ZUre3IE"
+              "uuid": "Compendium.black-flag-ru.classes.Item.63YGa0Ez5ZUre3IE"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.e1pPWFhJyzcIHeYc"
+              "uuid": "Compendium.black-flag-ru.classes.Item.e1pPWFhJyzcIHeYc"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.0IhSVQvsWej5oftx"
+              "uuid": "Compendium.black-flag-ru.classes.Item.0IhSVQvsWej5oftx"
             },
             {
-              "uuid": "Compendium.black-flag.classes.Item.Rjy84TFW7jnX70ad"
+              "uuid": "Compendium.black-flag-ru.classes.Item.Rjy84TFW7jnX70ad"
             }
           ],
           "restriction": {
@@ -104,7 +104,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.036",
     "coreVersion": "13.347",
     "createdTime": 1718729406435,

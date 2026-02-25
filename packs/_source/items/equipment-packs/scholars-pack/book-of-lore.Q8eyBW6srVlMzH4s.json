@@ -1,6 +1,6 @@
 {
   "folder": "Y8UQ7n2ei8CgBzr3",
-  "name": "Book of Lore",
+  "name": "Книга знаний",
   "type": "sundry",
   "img": "icons/sundries/books/book-clasp-spiral-green.webp",
   "system": {
@@ -16,7 +16,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything that can be represented using text or pictures. A book of spells is a @UUID[Compendium.black-flag.items.Item.0udkcM3mDnmXQyNg]{spellbook}.</p>",
+      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything that can be represented using text or pictures. A book of spells is a @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{spellbook}.</p>",
       "source": {}
     },
     "type": {
@@ -27,7 +27,7 @@
   "effects": [],
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362892455,

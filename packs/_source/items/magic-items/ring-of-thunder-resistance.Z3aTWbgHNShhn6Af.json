@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Ring of Thunder Resistance",
+  "name": "Кольцо Грома Сопротивление",
   "system": {
     "type": {
       "category": "clothing",
@@ -44,8 +44,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Thunder Resistance",
-      "origin": "Compendium.black-flag.items.Item.Z3aTWbgHNShhn6Af",
+      "name": "Громовое сопротивление",
+      "origin": "Compendium.black-flag-ru.items.Item.Z3aTWbgHNShhn6Af",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -69,7 +69,7 @@
           "priority": null
         }
       ],
-      "description": "<p>You have resistance to thunder damage while wearing this ring.</p>",
+      "description": "__P0____Пока вы носите это кольцо, вы увеличиваете сопротивление урону от грома.</p>_",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],
@@ -79,7 +79,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729890443964,
         "modifiedTime": 1756333395058,
@@ -98,7 +98,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.045",
     "createdTime": 1724987304005,
     "modifiedTime": 1729890128356,

@@ -49,7 +49,7 @@ export default class RuleJournalPageData extends BaseDataModel {
 		};
 		return {
 			content: await foundry.applications.handlebars.renderTemplate(
-				"systems/black-flag/templates/journal/rule-page-tooltip.hbs",
+				"systems/black-flag-ru/templates/journal/rule-page-tooltip.hbs",
 				context
 			),
 			classes: ["black-flag", "black-flag-tooltip", "rule-tooltip"]

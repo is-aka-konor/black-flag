@@ -1,6 +1,6 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Spell Duelist",
+  "name": "Заклинание Дуэлянт",
   "type": "talent",
   "_id": "bBDxoEQ0rOeTa974",
   "img": "icons/magic/light/projectile-smoke-pink.webp",
@@ -9,7 +9,7 @@
       "08jwb2ER4YBhWvmj": {
         "type": "utility",
         "_id": "08jwb2ER4YBhWvmj",
-        "description": "<p>When a creature you can see damages you with a spell, you can use your reaction to cast a cantrip targeting that creature.</p>",
+        "description": "<p>Когда существо, которое вы видите, наносит вам урон заклинанием, вы можете реакцией сотворить заговор, нацеленный на это существо.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -48,7 +48,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Duelist Response",
+        "name": "Ответ дуэлянта",
         "img": ""
       }
     },
@@ -96,7 +96,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.031",
     "coreVersion": "13.347",
     "createdTime": 1716347605952,

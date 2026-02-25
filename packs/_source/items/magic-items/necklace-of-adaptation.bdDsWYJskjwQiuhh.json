@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Necklace of Adaptation",
+  "name": "Ожерелье адаптации",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -43,8 +43,8 @@
   "effects": [
     {
       "type": "base",
-      "name": "Adaptation",
-      "origin": "Compendium.black-flag.items.Item.bdDsWYJskjwQiuhh",
+      "name": "Адаптация",
+      "origin": "Compendium.black-flag-ru.items.Item.bdDsWYJskjwQiuhh",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -78,7 +78,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1729532463957,
         "modifiedTime": 1756334422980,
@@ -97,7 +97,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1724986776225,
     "modifiedTime": 1729532432350,

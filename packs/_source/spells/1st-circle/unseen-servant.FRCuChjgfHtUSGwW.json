@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Unseen Servant",
+  "name": "Невидимый слуга",
   "type": "spell",
   "_id": "FRCuChjgfHtUSGwW",
   "img": "icons/magic/light/light-candles-lit-white.webp",
@@ -30,13 +30,13 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Create Servant",
+        "name": "Создать Слугу",
         "img": ""
       },
       "a7etV7JTHTS7SmDv": {
         "type": "utility",
         "_id": "a7etV7JTHTS7SmDv",
-        "description": "<p>You mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.</p>",
+        "description": "<p>Вы мысленно приказываете слуге переместиться на расстояние до 15 футов и взаимодействовать с объектом. Слуга может выполнять простые задачи, которые мог бы выполнять слуга-человек, например, приносить вещи, убирать, чинить, складывать одежду, разжигать огонь, подавать еду и наливать вино.Как только вы дадите команду, слуга выполняет задачу в меру своих возможностей, пока не завершит задачу, а затем ждет вашей следующей команды.</p>",
         "system": {},
         "activation": {
           "value": null,
@@ -57,7 +57,7 @@
           "max": "",
           "consumeQuantity": false
         },
-        "name": "Command Servant",
+        "name": "Командирский слуга",
         "img": ""
       }
     },
@@ -71,7 +71,7 @@
     "description": {
       "value": "<p>This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 HP, a STR of 3 (−4), and it can’t attack. If it drops to 0 HP, the spell ends.</p><p>Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.</p><p>If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.</p><p>If you cast this spell again while a servant created by the first casting is still active, the servant created from the first casting is immediately destroyed.</p>",
       "source": {},
-      "short": "Make an invisible helper."
+      "short": "Сделайте невидимого помощника."
     },
     "type": {
       "value": "standard"
@@ -93,7 +93,7 @@
       ],
       "material": {
         "cost": null,
-        "description": "a piece of string and a bit of wood",
+        "description": "кусок веревки и немного дерева",
         "denomination": "pp",
         "consumed": false
       }
@@ -134,7 +134,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706997301813,

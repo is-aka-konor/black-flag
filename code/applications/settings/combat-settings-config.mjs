@@ -16,13 +16,13 @@ export default class CombatSettingsConfig extends BaseSettingsConfig {
 	/** @override */
 	static PARTS = {
 		initiative: {
-			template: "systems/black-flag/templates/setting/base-config.hbs"
+			template: "systems/black-flag-ru/templates/setting/base-config.hbs"
 		},
 		criticals: {
-			template: "systems/black-flag/templates/setting/base-config.hbs"
+			template: "systems/black-flag-ru/templates/setting/base-config.hbs"
 		},
 		// npcs: {
-		// 	template: "systems/black-flag/templates/setting/base-config.hbs"
+		// 	template: "systems/black-flag-ru/templates/setting/base-config.hbs"
 		// },
 		footer: {
 			template: "templates/generic/form-footer.hbs"

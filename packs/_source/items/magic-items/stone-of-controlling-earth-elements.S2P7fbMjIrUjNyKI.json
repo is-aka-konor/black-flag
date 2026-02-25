@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Stone of Controlling Earth Elements",
+  "name": "Камень управления стихией Земли",
   "system": {
     "type": {
       "category": "wondrousItem",
@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This carved stone weighs 5 pounds. If the stone is touching the ground, you can use an action to speak its command word and summon an <strong>@UUID[Compendium.black-flag.npcs.Actor.AbtSnvjVHTDzZciV]{earth elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell. The stone can’t be used this way again until the next dawn.</p>",
+      "value": "<p>This carved stone weighs 5 pounds. If the stone is touching the ground, you can use an action to speak its command word and summon an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.AbtSnvjVHTDzZciV]{earth elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell. The stone can’t be used this way again until the next dawn.</p>",
       "source": {
         "fallback": ""
       }
@@ -44,7 +44,7 @@
               "count": "",
               "name": "",
               "_id": "pEleqMZYBVjqx1Kq",
-              "uuid": "Compendium.black-flag.npcs.Actor.AbtSnvjVHTDzZciV",
+              "uuid": "Compendium.black-flag-ru.npcs.Actor.AbtSnvjVHTDzZciV",
               "level": {
                 "min": null,
                 "max": null
@@ -160,7 +160,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1725071365441,
     "modifiedTime": 1756332668707,

@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Alchemist's Fire (flask)",
+  "name": "Алхимический огонь (настойка)",
   "type": "consumable",
   "_id": "PGWgaXVACJX2a3Et",
   "img": "icons/consumables/potions/potion-flask-corked-orange.webp",
@@ -51,7 +51,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Throw",
+        "name": "Бросок",
         "img": ""
       }
     },
@@ -89,7 +89,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707362409917,

@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Antipathy/Sympathy",
+  "name": "Антипатия/Симпатия",
   "type": "spell",
   "_id": "I8jXJDUGjYh36Ydc",
   "img": "icons/magic/symbols/clover-luck-white-green.webp",
@@ -9,7 +9,7 @@
       "zof9oZStnhWBlyCs": {
         "type": "save",
         "_id": "zof9oZStnhWBlyCs",
-        "description": "<p>The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a [[/save]] save or become &Reference[frightened]. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 60 feet from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.</p>",
+        "description": "<p>Чары среди лиц, указанных вами, имеют сильное желание отказаться от области и подвергнуть опасности цели. Когда такое Существо может видеть цель или изображается к ней на расстоянии 60 футов, оно должно преуспеть в спасброске [[/save]] или стать &Reference[испуганным].Если Сущность перемещается более чем на 60 футов от ее цели и не может видеть, Сущность больше не пугается, но Сущность снова пугается, если снова видит цель или перемещается в пределах 60 футов от нее.</p>",
         "system": {
           "ability": "wisdom",
           "damage": {
@@ -57,13 +57,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Antipathy",
+        "name": "антипатия",
         "img": ""
       },
       "RdxP1wIJW4dd1bwf": {
         "type": "save",
         "_id": "RdxP1wIJW4dd1bwf",
-        "description": "<p>The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a [[/save]] save or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can’t willingly move away from the target.</p>",
+        "description": "<p>Чары за стоящим защитником существом чувствуют сильное желание найти цель, находясь в пределах 60 футов от нее или находясь в состоянии ее видеть.Когда существо может цель увидеть или появиться к ней на расстоянии менее 60 футов, оно должно преуспеть в спасброске [[/save]] или использовать свое движение в каждом движении, чтобы войти в область или оказаться в пределах досягаемости цели.",
         "system": {
           "ability": "wisdom",
           "damage": {
@@ -111,7 +111,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Sympathy",
+        "name": "Сочувствие",
         "img": ""
       }
     },
@@ -125,7 +125,7 @@
     "description": {
       "value": "<p>This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.</p><p>@Embed[.Activity.zof9oZStnhWBlyCs inline activate]{Antipathy}</p><p>@Embed[.Activity.RdxP1wIJW4dd1bwf inline activate]{Sympathy}</p><p><strong>Ending the Effect.</strong> If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a [[/save WIS dc=@spellcasting.dc]] save. On a success, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another WIS save every 24 hours while the spell persists. If the target damages or otherwise harms an affected creature, the affected creature can make a WIS save to end the effect.</p><p>A creature that saves against this effect is immune to it for 1 minute, after which it can be affected again.</p><p>If you attempt to cast this spell again while the effects of the first casting are still active, the effects of the first casting immediately end.</p>",
       "source": {},
-      "short": "Repel or attract creatures."
+      "short": "Отталкивайте или привлекайте существ."
     },
     "source": [
       "arcane",
@@ -152,7 +152,7 @@
         "consumed": false,
         "cost": null,
         "denomination": "gp",
-        "description": "either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect"
+        "description": "либо кусок квасцов, смоченный в уксусе, для эффекта антипатии, либо капля меда для эффекта симпатии."
       }
     },
     "duration": {
@@ -190,7 +190,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "coreVersion": "13.347",
     "createdTime": 1720203568958,

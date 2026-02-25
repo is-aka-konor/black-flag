@@ -1,6 +1,6 @@
 {
   "folder": "rhfOfTxdUyaktll6",
-  "name": "Chalk (1 piece)",
+  "name": "Мел (1 шт.)",
   "type": "gear",
   "_id": "jlf8CAJNIaMCKywo",
   "img": "icons/tools/scribal/pen-stylus-pencil.webp",
@@ -42,7 +42,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.8.021",
     "coreVersion": "13.347",
     "createdTime": 1707363025364,

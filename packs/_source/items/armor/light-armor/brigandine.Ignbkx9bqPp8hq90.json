@@ -1,5 +1,5 @@
 {
-  "name": "Brigandine",
+  "name": "Бригандина",
   "type": "armor",
   "_id": "Ignbkx9bqPp8hq90",
   "img": "icons/equipment/chest/coat-collared-studded-red.webp",
@@ -58,7 +58,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.028",
     "coreVersion": "13.347",
     "createdTime": 1716236461701,

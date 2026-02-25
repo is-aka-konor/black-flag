@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Ray of Frost",
+  "name": "Луч Мороза",
   "type": "spell",
   "_id": "qCQ8MTaMrNXb5E7c",
   "img": "icons/magic/water/projectile-icecicle-glowing.webp",
@@ -73,7 +73,7 @@
     "description": {
       "value": "<p>A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes [[/damage 1d8 cold]] damage, and its speed is reduced by 10 feet until the start of your next turn.</p><p>The spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 cold]]{2d8}), 11th level ([[/damage 3d8 cold]]{3d8}), and 17th level ([[/damage 4d8 cold]]{4d8}).</p>",
       "source": {},
-      "short": "Cold harms and slows foe."
+      "short": "Холод наносит вред и замедляет противника."
     },
     "type": {
       "value": "standard"
@@ -132,7 +132,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706935127552,

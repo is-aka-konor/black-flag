@@ -42,10 +42,10 @@ export default class LairSheet extends BaseActorSheet {
 	/** @override */
 	static PARTS = {
 		header: {
-			template: "systems/black-flag/templates/actor/lair-header.hbs"
+			template: "systems/black-flag-ru/templates/actor/lair-header.hbs"
 		},
 		body: {
-			template: "systems/black-flag/templates/actor/lair-body.hbs"
+			template: "systems/black-flag-ru/templates/actor/lair-body.hbs"
 		}
 	};
 

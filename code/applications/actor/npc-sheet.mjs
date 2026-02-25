@@ -44,11 +44,11 @@ export default class NPCSheet extends BaseStatBlockSheet {
 	static PARTS = {
 		...super.PARTS,
 		header: {
-			template: "systems/black-flag/templates/actor/npc-header.hbs"
+			template: "systems/black-flag-ru/templates/actor/npc-header.hbs"
 		},
 		main: {
 			...super.PARTS.main,
-			template: "systems/black-flag/templates/actor/tabs/npc-main.hbs"
+			template: "systems/black-flag-ru/templates/actor/tabs/npc-main.hbs"
 		}
 	};
 

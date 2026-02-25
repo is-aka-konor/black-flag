@@ -1,5 +1,5 @@
 {
-  "name": "Feint",
+  "name": "Финт",
   "type": "feature",
   "_id": "CZG4ezeiNnxwBNL5",
   "img": "icons/skills/melee/maneuver-daggers-paired-orange.webp",
@@ -98,7 +98,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.033",
     "coreVersion": "13.347",
     "createdTime": 1713155293765,

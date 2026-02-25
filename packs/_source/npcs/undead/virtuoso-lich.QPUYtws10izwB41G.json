@@ -1,9 +1,9 @@
 {
   "folder": "PEzrECzZcGFeippw",
-  "name": "Virtuoso Lich",
+  "name": "Виртуозный Лич",
   "type": "npc",
   "_id": "QPUYtws10izwB41G",
-  "img": "systems/black-flag/artwork/tokens/lich-virtuoso.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/lich-virtuoso.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -163,7 +163,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Virtuoso Lich",
+    "name": "Виртуозный Лич",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -171,7 +171,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/lich-virtuoso.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/lich-virtuoso.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -264,7 +264,7 @@
   },
   "items": [
     {
-      "name": "Legendary Resistance",
+      "name": "Легендарное сопротивление",
       "type": "feature",
       "_id": "IANHUT7MG8moeS94",
       "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
@@ -307,7 +307,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -385,7 +385,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.AFEvilzbYvJvN62b",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -437,7 +437,7 @@
           "value": null
         }
       },
-      "name": "Rejuvenation",
+      "name": "Омоложение",
       "type": "feature",
       "_id": "rli6sQZk03Bja8bi",
       "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
@@ -453,7 +453,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.2uqPJiNnCH98IN43",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -505,7 +505,7 @@
           "value": null
         }
       },
-      "name": "Turn Resistance",
+      "name": "Сопротивление повороту",
       "type": "feature",
       "_id": "zkdd9R6hyetnGjN5",
       "img": "icons/magic/unholy/hand-claw-fire-blue.webp",
@@ -521,7 +521,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.trdZDPFxjOUt7abJ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -535,7 +535,7 @@
       "_key": "!actors.items!QPUYtws10izwB41G.zkdd9R6hyetnGjN5"
     },
     {
-      "name": "Undead Nature",
+      "name": "Нежить Природа",
       "type": "feature",
       "img": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
       "system": {
@@ -586,7 +586,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.nryL8pXwd7SJzonQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -601,7 +601,7 @@
       "_key": "!actors.items!QPUYtws10izwB41G.z6v4wOqUU1pp9Etg"
     },
     {
-      "name": "Undead Resilience",
+      "name": "Устойчивость нежити",
       "type": "feature",
       "img": "icons/magic/death/skeleton-skull-soul-blue.webp",
       "system": {
@@ -643,7 +643,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.2HH89GIIAuYvfRlt",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.2HH89GIIAuYvfRlt",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -654,7 +654,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Undead Resilience",
+          "name": "Устойчивость нежити",
           "_id": "eTrciZFtsPDaLR2j",
           "changes": [
             {
@@ -685,7 +685,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -711,7 +711,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.XRipBRedRIWKA8YQ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -764,7 +764,7 @@
           "value": null
         }
       },
-      "name": "Versatile Artist",
+      "name": "Универсальный художник",
       "type": "feature",
       "_id": "quvui9348MTiUZ9m",
       "img": "icons/skills/trades/music-notes-sound-blue.webp",
@@ -784,7 +784,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -794,7 +794,7 @@
       "_key": "!actors.items!QPUYtws10izwB41G.quvui9348MTiUZ9m"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "I3jykg16KCVyHjQz",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -898,7 +898,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -981,7 +981,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -1021,7 +1021,7 @@
           "value": null
         }
       },
-      "name": "Call Muse",
+      "name": "Позвонить Музе",
       "type": "feature",
       "_id": "n2fYYxiLkXQevp0Q",
       "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
@@ -1041,7 +1041,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1057,7 +1057,7 @@
           "L8VZplUoUFbEunoY": {
             "type": "save",
             "_id": "L8VZplUoUFbEunoY",
-            "description": "<p>The target must make a [[/save format=long]]. On a failure, a creature is &Reference[blinded]{blinded}, &Reference[charmed]{charmed}, or &Reference[deafened]{deafened} (the lich’s choice) until the end of its next turn. On a success, a creature takes half the damage and isn’t incapacitated.</p>",
+            "description": "<p>Цель должна быть изготовлена ​​[[/save format=long]]. В случае провала Существа становится &Reference[ослепленным]{blinded}, &Reference[очарованным]{charmed} или &Reference[оглушенным]{deafened} (выбор лица) до конца следующего хода. В случае успеха Существо получает половину урона и не становится недееспособным.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -1119,15 +1119,15 @@
               "min": "",
               "max": ""
             },
-            "name": "Non-Undead",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "name": "Не-нежить",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           },
           "1E5zshVx0GJf1QWV": {
             "type": "heal",
             "_id": "1E5zshVx0GJf1QWV",
-            "description": "<p>The target regains [[/healing average]]. Healing that exceeds the target’s HP maximum becomes temporary HP.</p>",
+            "description": "<p>Цель поддерживая [[/healing average]]. Исцеление, превышающее максимальное значение HP цели, становится временным HP.</p>",
             "system": {
               "healing": {
                 "type": "healing",
@@ -1191,8 +1191,8 @@
               "min": "",
               "max": ""
             },
-            "name": "Undead",
-            "img": "systems/black-flag/artwork/activities/heal.svg",
+            "name": "Нежить",
+            "img": "systems/black-flag-ru/artwork/activities/heal.svg",
             "sort": 0,
             "magical": false
           }
@@ -1232,7 +1232,7 @@
           "value": null
         }
       },
-      "name": "Corrupted Art",
+      "name": "Испорченное искусство",
       "type": "feature",
       "_id": "wP9Vge3RkqPYJxLN",
       "img": "icons/magic/symbols/rune-sigil-red-orange.webp",
@@ -1252,7 +1252,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1263,7 +1263,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Disguise Self",
+      "name": "Маскировка себя",
       "type": "spell",
       "_id": "rwUbcbLFY4yqwIwX",
       "img": "icons/equipment/head/mask-horned-brown.webp",
@@ -1331,7 +1331,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Change your basic appearance."
+          "short": "Измените свой основной внешний вид."
         },
         "circle": {
           "value": null,
@@ -1394,9 +1394,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.75HF18ljbTk7wZwC",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1407,7 +1407,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Mage Hand",
+      "name": "Магическая рука",
       "type": "spell",
       "_id": "QKkTtTneb1NqwUoc",
       "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
@@ -1475,7 +1475,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Magical hand for simple tasks."
+          "short": "Волшебная рука для простых задач."
         },
         "circle": {
           "value": null,
@@ -1537,9 +1537,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.z0bwd75DutQ7TOcY",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.z0bwd75DutQ7TOcY",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1550,7 +1550,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Message",
+      "name": "Сообщение",
       "type": "spell",
       "_id": "DBfT1rKTJhmMzLsP",
       "img": "icons/magic/control/sleep-bubble-purple.webp",
@@ -1618,7 +1618,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Only target hears your whisper."
+          "short": "Только цель слышит твой шепот."
         },
         "circle": {
           "value": null,
@@ -1637,7 +1637,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a short piece of copper wire",
+            "description": "короткий кусок медной проволоки",
             "denomination": "pp",
             "consumed": false
           }
@@ -1683,9 +1683,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.O9ZMiRif8A9hL0G9",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.O9ZMiRif8A9hL0G9",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1696,7 +1696,7 @@
     },
     {
       "folder": "JZx0iWdyx9l2NCaM",
-      "name": "Prestidigitation",
+      "name": "Престидигитация",
       "type": "spell",
       "_id": "uGai5yp7Cw2uik8w",
       "img": "icons/magic/symbols/runes-triangle-orange-purple.webp",
@@ -1764,7 +1764,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Harmless magical effect."
+          "short": "Безвредный магический эффект."
         },
         "circle": {
           "value": null,
@@ -1826,9 +1826,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.TgJgOsNetxkikvZa",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.TgJgOsNetxkikvZa",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1839,7 +1839,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Charm",
+      "name": "Очарование",
       "type": "spell",
       "_id": "hy0t2qi6xHz1q0Xb",
       "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
@@ -1888,7 +1888,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -1930,7 +1930,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Compel creature to trust you."
+          "short": "Заставьте существо доверять вам."
         },
         "circle": {
           "value": null,
@@ -1984,7 +1984,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+          "origin": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -1995,10 +1995,10 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Charm",
+          "name": "Очарование",
           "_id": "MHWYFHDDXmIygkPs",
           "changes": [],
-          "description": "<p>The target is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p>",
+          "description": "<p>Цель очаровал вас этим способом, пока заклинание не завершится или пока вы или ваш спутник не причините ей вреда. Очарованное Существо расценивает вас как знакомого принца. Когда заклинание закончится, Бытие поймет, что оно было вами очаровано.</p>",
           "transfer": false,
           "statuses": [
             "charmed"
@@ -2009,7 +2009,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2041,9 +2041,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.pw72u0bgcIKLtSBM",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2054,7 +2054,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Hideous Laughter",
+      "name": "отвратительный смех",
       "type": "spell",
       "_id": "ASBFJwnsFG9A9jjL",
       "img": "icons/magic/control/fear-fright-white.webp",
@@ -2103,7 +2103,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -2145,7 +2145,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Foe laughs uncontrollably."
+          "short": "Враг неудержимо смеется."
         },
         "circle": {
           "value": null,
@@ -2164,7 +2164,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "tiny darts and a feather that is waved in the air",
+            "description": "крошечные дротики и перо, которым машут в воздухе",
             "denomination": "pp",
             "consumed": false
           }
@@ -2219,9 +2219,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.2KCL7Tsd8sqEd9g0",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.2KCL7Tsd8sqEd9g0",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2232,7 +2232,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Hold",
+      "name": "Удерживать",
       "type": "spell",
       "_id": "zGqt3D1IMVwKfYun",
       "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
@@ -2281,7 +2281,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -2319,11 +2319,11 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &amp;Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Paralyze a Medium creature."
+          "short": "Парализуйте существо Среднего размера."
         },
         "circle": {
           "value": null,
@@ -2342,7 +2342,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a small, straight piece of iron",
+            "description": "небольшой, прямой кусок железа",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2398,9 +2398,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.kVXub5YGKOSXv8ix",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2411,7 +2411,7 @@
     },
     {
       "folder": "iJIjiGFvx6IqTXvu",
-      "name": "Invisibility (Self Only)",
+      "name": "Невидимость (только для себя)",
       "type": "spell",
       "_id": "gMoXxKh7lsUg6EKr",
       "img": "icons/magic/control/silhouette-hold-change-green.webp",
@@ -2475,7 +2475,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2497,7 +2497,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Ally becomes invisible."
+          "short": "Союзник становится невидимым."
         },
         "circle": {
           "value": null,
@@ -2516,7 +2516,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "an eyelash encased in tree sap",
+            "description": "ресница, залитая соком дерева",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2566,9 +2566,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.PKj2TSp0iwaPZulb",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.PKj2TSp0iwaPZulb",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2579,7 +2579,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Dispel Magic",
+      "name": "Рассеять магию",
       "type": "spell",
       "_id": "YpYMa5YSC2S6jSTZ",
       "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -2644,7 +2644,7 @@
               "prompt": true
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -2666,7 +2666,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Break an ongoing spell."
+          "short": "Прервите действующее заклинание."
         },
         "circle": {
           "value": null,
@@ -2735,9 +2735,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.t61I6zrmEDPdOLfw",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2748,7 +2748,7 @@
     },
     {
       "folder": "V6ryz9MMBJLcGrft",
-      "name": "Fear",
+      "name": "Страх",
       "type": "spell",
       "_id": "N7hhLu6Jp8423UIu",
       "img": "icons/skills/wounds/injury-face-impact-orange.webp",
@@ -2797,7 +2797,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "duration": {
               "units": "instantaneous",
               "override": false,
@@ -2839,7 +2839,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Frighten a group."
+          "short": "Напугайте группу."
         },
         "circle": {
           "value": null,
@@ -2858,7 +2858,7 @@
           ],
           "material": {
             "cost": null,
-            "description": "a white feather or the heart of a hen",
+            "description": "белое перо или сердце курицы",
             "consumed": false,
             "denomination": "gp"
           }
@@ -2897,7 +2897,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.spells.Item.moUAyN0JUuMvoY6U",
+          "origin": "Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U",
           "duration": {
             "rounds": null,
             "startTime": null,
@@ -2908,13 +2908,13 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Fear",
+          "name": "Страх",
           "img": "icons/skills/wounds/injury-face-impact-orange.webp",
           "_id": "OyyECU1lMQ11hG66",
           "type": "base",
           "system": {},
           "changes": [],
-          "description": "<p>While frightened by this spell, you must take the Dash action and move away from the caster by the safest available route on each of your turns, unless there is nowhere to move. If you end your turn in a location where you don’t have line of sight to the caster, you can make a WIS save, ending the effect on yourself on a success.</p>",
+          "description": "<p>Напугавшись этого заклинания, вы должны изменить действие Рывок и уйти от заклинателя самым безопасным доступным маршрутом в каждом своем ходе, если двигаться только некуда. Если вы закончите свой ход в том месте, где у вас нет прямого внешнего заклинателя, вы можете сделать спасбросок WIS, сняв эффект на себя в случае успеха.</p>",
           "tint": "#ffffff",
           "transfer": false,
           "statuses": [
@@ -2926,7 +2926,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -2954,9 +2954,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.moUAyN0JUuMvoY6U",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -2967,7 +2967,7 @@
     },
     {
       "folder": "tCxdqzClsLOnTgfE",
-      "name": "Dimension Door",
+      "name": "Размерная дверь",
       "type": "spell",
       "_id": "4nUR0eDMy0ASn3JZ",
       "img": "icons/magic/movement/trail-streak-pink.webp",
@@ -3031,7 +3031,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3053,7 +3053,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "Teleport 500 ft. for two."
+          "short": "Телепорт на 500 футов на двоих."
         },
         "source": [
           "arcane",
@@ -3119,9 +3119,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.spells.Item.a79cPbF5G33jiDBa",
+        "compendiumSource": "Compendium.black-flag-ru.spells.Item.a79cPbF5G33jiDBa",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3132,7 +3132,7 @@
     },
     {
       "folder": null,
-      "name": "Seeming",
+      "name": "Кажущийся",
       "type": "spell",
       "_id": "MDfe26njzrtfoQDA",
       "img": "icons/magic/control/energy-stream-link-white.webp",
@@ -3201,7 +3201,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -3223,7 +3223,7 @@
           "source": {
             "fallback": "Black Flag Reference Document"
           },
-          "short": "This spell allows you to change the appearance of any number of creatures that you can see within range."
+          "short": "Это заклинание позволяет вам изменить внешний вид любого количества существ, которых вы можете видеть в пределах дистанции."
         },
         "source": [
           "arcane",
@@ -3292,7 +3292,7 @@
         "compendiumSource": "Compendium.world.missing-spells.Item.PxAu1PAJ5ecjgAb2",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3307,7 +3307,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Irresistible Dance",
+      "name": "Неотразимый танец",
       "type": "spell",
       "_id": "fSpNo7Uaq2LrPB4w",
       "img": "icons/equipment/feet/boots-collared-rounded-brown.webp",
@@ -3376,7 +3376,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -3472,7 +3472,7 @@
         "compendiumSource": "Item.WiN7VDwhgVCMoq2L",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3483,7 +3483,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Programmed Illusion",
+      "name": "Запрограммированная иллюзия",
       "type": "spell",
       "_id": "CFB67c1p7x3aXoS0",
       "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
@@ -3552,7 +3552,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/saving-throw.svg",
+            "img": "systems/black-flag-ru/artwork/activities/saving-throw.svg",
             "sort": 0,
             "magical": false
           }
@@ -3598,7 +3598,7 @@
             "consumed": false,
             "cost": null,
             "denomination": "gp",
-            "description": "A bit of fleece and jade worth at least 25 gp"
+            "description": "Немного шерсти и нефрита стоимостью не менее 25 зм."
           }
         },
         "duration": {
@@ -3648,7 +3648,7 @@
         "compendiumSource": "Item.AsVftYXbGk5AhOkK",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3715,7 +3715,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3755,7 +3755,7 @@
           "value": null
         }
       },
-      "name": "Call Muse",
+      "name": "Позвонить Музе",
       "type": "feature",
       "_id": "g2fA0W44g9cISZgH",
       "img": "icons/skills/trades/music-singing-voice-blue.webp",
@@ -3775,7 +3775,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3842,7 +3842,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -3882,7 +3882,7 @@
           "value": null
         }
       },
-      "name": "Move",
+      "name": "Переместить",
       "type": "feature",
       "_id": "yPWBbB2kfuMPkrnC",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -3898,7 +3898,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.bgWDeol1hH58xqH5",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -3969,7 +3969,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -4009,7 +4009,7 @@
           "value": null
         }
       },
-      "name": "Cast a Spell",
+      "name": "Наложить заклинание",
       "type": "feature",
       "_id": "x7PlAPBMgw8942xN",
       "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
@@ -4025,7 +4025,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.1mfH5RDUtqGjmM0N",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -4123,7 +4123,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/save.svg",
+            "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 0,
             "magical": false
           }
@@ -4137,7 +4137,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich unleashes the full force of its artistic talents on those nearby. Each creature with 15 feet of the lich must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage of the type chosen with the Versatile Artist trait and is knocked &amp;Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>The lich unleashes the full force of its artistic talents on those nearby. Each creature with 15 feet of the lich must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage of the type chosen with the Versatile Artist trait and is knocked &Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4163,7 +4163,7 @@
           "value": null
         }
       },
-      "name": "Unrestrained Art",
+      "name": "Безудержное искусство",
       "type": "feature",
       "_id": "3BQLzN2h8AbIE1DI",
       "img": "icons/tools/hand/brush-paint-brown-tan.webp",
@@ -4183,7 +4183,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -4267,7 +4267,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -4336,7 +4336,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Artistic Flourish",
+      "name": "Художественный расцвет",
       "type": "weapon",
       "_id": "O9uiKx5bC34ZsNGz",
       "img": "icons/commodities/cloth/cloth-bolt-embroidered-pink.webp",
@@ -4357,7 +4357,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748931346,
         "modifiedTime": 1756761064664,
@@ -4371,7 +4371,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

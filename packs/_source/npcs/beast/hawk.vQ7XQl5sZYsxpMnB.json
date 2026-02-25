@@ -1,9 +1,9 @@
 {
   "folder": "2CQRDLnNM85EfRll",
-  "name": "Hawk",
+  "name": "Ястреб",
   "type": "npc",
   "_id": "vQ7XQl5sZYsxpMnB",
-  "img": "systems/black-flag/artwork/tokens/hawk.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/hawk.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -144,7 +144,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Hawk",
+    "name": "Ястреб",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -152,7 +152,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/hawk.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/hawk.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
   },
   "items": [
     {
-      "name": "Heightened Sight",
+      "name": "Обостренное зрение",
       "type": "feature",
       "_id": "b8iITBJMsjvo8At4",
       "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
@@ -291,7 +291,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.C8UpUQHLWNlBu1FU",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -378,7 +378,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hawk takes the &amp;Reference[Disengage]{Disengage} or &amp;Reference[Dodge]{Dodge} action. It can use this bonus action only while flying.</p>",
+          "value": "<p>The hawk takes the &Reference[Disengage]{Disengage} or &Reference[Dodge]{Dodge} action. It can use this bonus action only while flying.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -404,7 +404,7 @@
           "value": null
         }
       },
-      "name": "Evasive Flight",
+      "name": "Уклоняющийся полет",
       "type": "feature",
       "_id": "GwpmuREFyOXvep1S",
       "img": "icons/creatures/birds/corvid-flying-wings-purple.webp",
@@ -424,7 +424,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -510,7 +510,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "magical": false,
             "sort": 0,
             "flags": {},
@@ -579,7 +579,7 @@
         },
         "rarity": ""
       },
-      "name": "Talons",
+      "name": "Когти",
       "type": "weapon",
       "_id": "YZEh6LVCo3vNchf5",
       "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
@@ -596,7 +596,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935693,
         "modifiedTime": 1756750387255,
@@ -614,7 +614,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

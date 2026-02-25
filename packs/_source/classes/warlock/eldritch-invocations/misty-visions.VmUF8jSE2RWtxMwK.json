@@ -1,6 +1,6 @@
 {
   "folder": "8vwDfxwF5uvyGB0H",
-  "name": "Misty Visions",
+  "name": "Туманные видения",
   "type": "feature",
   "_id": "VmUF8jSE2RWtxMwK",
   "img": "icons/magic/air/wind-vortex-swirl-blue-purple.webp",
@@ -44,7 +44,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1719376811398,

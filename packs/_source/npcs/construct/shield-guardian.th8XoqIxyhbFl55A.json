@@ -1,9 +1,9 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Shield Guardian",
+  "name": "Щит-защитник",
   "type": "npc",
   "_id": "th8XoqIxyhbFl55A",
-  "img": "systems/black-flag/artwork/tokens/shield-guardian.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/shield-guardian.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -151,7 +151,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Shield Guardian",
+    "name": "Щит-защитник",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -159,7 +159,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/shield-guardian.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/shield-guardian.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -290,7 +290,7 @@
           "value": null
         }
       },
-      "name": "Construct Resilience",
+      "name": "Создать устойчивость",
       "type": "feature",
       "_id": "lSQmVZBr8i0E2u6A",
       "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -307,7 +307,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Construct Resilience",
+          "name": "Создать устойчивость",
           "img": "icons/commodities/tech/tube-chamber-lightning.webp",
           "_id": "qFDGY8I24ZDpT5zi",
           "type": "base",
@@ -372,7 +372,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -393,7 +393,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.8dvgLrBxaIwGFZxv",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -445,7 +445,7 @@
           "value": null
         }
       },
-      "name": "Bound",
+      "name": "Связанный",
       "type": "feature",
       "_id": "uHTfnbnZ5lEvZcal",
       "img": "icons/magic/control/energy-stream-link-teal.webp",
@@ -465,7 +465,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -513,7 +513,7 @@
           "value": null
         }
       },
-      "name": "Construct Nature",
+      "name": "Построить природу",
       "type": "feature",
       "_id": "VbwsG8UACdO7F3Yd",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -529,7 +529,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gCywSogmFrzBXUYK",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -543,7 +543,7 @@
       "_key": "!actors.items!th8XoqIxyhbFl55A.VbwsG8UACdO7F3Yd"
     },
     {
-      "name": "Regeneration",
+      "name": "Регенерация",
       "type": "feature",
       "_id": "xd5r92yZoChpXz49",
       "img": "icons/magic/life/cross-explosion-burst-green.webp",
@@ -666,7 +666,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.7IjJKufAUzxiqE6B",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -718,7 +718,7 @@
           "value": null
         }
       },
-      "name": "Spell Storing",
+      "name": "Хранение заклинаний",
       "type": "feature",
       "_id": "o35n7M012XkrNEQt",
       "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
@@ -738,7 +738,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -748,7 +748,7 @@
       "_key": "!actors.items!th8XoqIxyhbFl55A.o35n7M012XkrNEQt"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "N4AYrc95EjShHH94",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -852,7 +852,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -923,7 +923,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -963,7 +963,7 @@
           "value": null
         }
       },
-      "name": "Shield",
+      "name": "Щит",
       "type": "feature",
       "_id": "50KsG2d6HTvuCYQP",
       "img": "icons/magic/defensive/shield-barrier-blue.webp",
@@ -980,7 +980,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Shield AC Bonus",
+          "name": "Бонус Щита AC",
           "img": "icons/magic/defensive/shield-barrier-blue.webp",
           "_id": "6u0B9alqEs7Lajmi",
           "type": "base",
@@ -1003,7 +1003,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1024,7 +1024,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.cKhDTegQbrDWDgVv",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1140,7 +1140,7 @@
           "value": null
         }
       },
-      "name": "Protective Step",
+      "name": "Защитный шаг",
       "type": "feature",
       "_id": "dOxdyic4tA5huCs4",
       "img": "icons/magic/control/silhouette-hold-beam-blue.webp",
@@ -1160,7 +1160,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1259,7 +1259,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1328,7 +1328,7 @@
         },
         "rarity": ""
       },
-      "name": "Runed Fist",
+      "name": "Рунический кулак",
       "type": "weapon",
       "_id": "UJ27J0Ggm8InGHbq",
       "img": "icons/magic/symbols/runes-carved-stone-yellow.webp",
@@ -1345,7 +1345,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935562,
         "modifiedTime": 1756752073568,
@@ -1432,7 +1432,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1501,7 +1501,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Rune Bolt",
+      "name": "Рунический болт",
       "type": "weapon",
       "_id": "bwGJ1dd2XqUNeVnZ",
       "img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
@@ -1518,7 +1518,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748935562,
         "modifiedTime": 1756752079816,
@@ -1536,7 +1536,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.049",
     "createdTime": 1729607939811,
     "modifiedTime": 1729607939811,

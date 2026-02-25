@@ -1,9 +1,9 @@
 {
   "folder": "SjIIitpQ2SwKbgfg",
-  "name": "Rowboat",
+  "name": "Весельная лодка",
   "type": "vehicle",
   "_id": "ASbQIzWQ1D4lMnqM",
-  "img": "systems/black-flag/artwork/types/vehicle.svg",
+  "img": "systems/black-flag-ru/artwork/types/vehicle.svg",
   "system": {
     "modifiers": [],
     "traits": {
@@ -120,7 +120,7 @@
     "initiative": 8
   },
   "prototypeToken": {
-    "name": "Rowboat",
+    "name": "Весельная лодка",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -128,7 +128,7 @@
     "width": 2,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/types/vehicle.svg",
+      "src": "systems/black-flag-ru/artwork/types/vehicle.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -215,7 +215,7 @@
   },
   "items": [
     {
-      "name": "Vehicle Resilience",
+      "name": "Устойчивость автомобиля",
       "type": "feature",
       "system": {
         "identifier": {
@@ -254,7 +254,7 @@
       "img": "icons/environment/settlement/wagon.webp",
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.dHvL2Fik9NneYaUg",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.dHvL2Fik9NneYaUg",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -265,7 +265,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Vehicle Resilience",
+          "name": "Устойчивость автомобиля",
           "_id": "0B6GT0HRHM04q0fP",
           "changes": [
             {
@@ -362,7 +362,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "1.1.055",
             "createdTime": null,
             "modifiedTime": null,
@@ -389,9 +389,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.4mrsMh1wkqybueGe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.4mrsMh1wkqybueGe",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733435440204,
         "modifiedTime": 1733435440224,
@@ -438,7 +438,7 @@
           "value": null
         }
       },
-      "name": "Lightweight",
+      "name": "Легкий",
       "type": "feature",
       "_id": "VaPrEkoVnKgmCqpS",
       "img": "icons/commodities/wood/bark-brown.webp",
@@ -458,7 +458,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733435492780,
         "modifiedTime": 1733435540073,
@@ -552,7 +552,7 @@
           "value": null
         }
       },
-      "name": "Row Hard",
+      "name": "Грести тяжело",
       "type": "feature",
       "img": "icons/magic/water/wave-water-teal.webp",
       "effects": [],
@@ -568,10 +568,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.aex3DaR0KYtAmxMN",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.aex3DaR0KYtAmxMN",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733435646674,
         "modifiedTime": 1733435653642,
@@ -583,7 +583,7 @@
       "_key": "!actors.items!ASbQIzWQ1D4lMnqM.n5xCftpPgOJU6o0d"
     },
     {
-      "name": "Maneuverable",
+      "name": "Маневренный",
       "type": "feature",
       "system": {
         "identifier": {
@@ -624,8 +624,8 @@
       "effects": [
         {
           "type": "base",
-          "name": "Maneuverable",
-          "origin": "Compendium.black-flag.npcfeatures.Item.VgVWo073DYpavk6d",
+          "name": "Маневренный",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.VgVWo073DYpavk6d",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -657,7 +657,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "1.1.055",
             "createdTime": null,
             "modifiedTime": null,
@@ -680,10 +680,10 @@
         }
       },
       "_stats": {
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.VgVWo073DYpavk6d",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.VgVWo073DYpavk6d",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "1.1.055",
         "createdTime": 1733435850919,
         "modifiedTime": 1733435850935,
@@ -702,7 +702,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "1.1.055",
     "createdTime": 1733435440163,
     "modifiedTime": 1733437751008,

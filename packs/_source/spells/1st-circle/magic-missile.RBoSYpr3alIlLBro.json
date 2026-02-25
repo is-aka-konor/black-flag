@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Magic Missile",
+  "name": "Волшебная ракета",
   "type": "spell",
   "_id": "RBoSYpr3alIlLBro",
   "img": "icons/magic/light/projectiles-trio-pink.webp",
@@ -82,7 +82,7 @@
     "description": {
       "value": "<p>You create three darts that each hit a creature of your choice you can see within range. You can choose whether the darts hit the same creature or different creatures. Each dart deals [[/damage]] damage to its target.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, it creates one additional dart for each slot above 1st.</p>",
       "source": {},
-      "short": "Guaranteed force damage."
+      "short": "Гарантированный силовой урон."
     },
     "type": {
       "value": "standard"
@@ -141,7 +141,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.10.042",
     "coreVersion": "13.347",
     "createdTime": 1706934525756,

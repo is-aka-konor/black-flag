@@ -1,9 +1,9 @@
 {
   "folder": "ACk8ILSUrBQafNpa",
-  "name": "Phase Spider",
+  "name": "Фазовый паук",
   "type": "npc",
   "_id": "AA2C6GyHE5bJ9IQb",
-  "img": "systems/black-flag/artwork/tokens/phase-spider.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/phase-spider.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Phase Spider",
+    "name": "Фазовый паук",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 2,
     "height": 2,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/phase-spider.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/phase-spider.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -295,7 +295,7 @@
           "value": null
         }
       },
-      "name": "Ethereal Sight",
+      "name": "Эфирное зрение",
       "type": "feature",
       "_id": "NUAjuhYjFjI2vvzk",
       "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
@@ -311,7 +311,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.Ftk8RjOKlfrmNZuh",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -325,7 +325,7 @@
       "_key": "!actors.items!AA2C6GyHE5bJ9IQb.NUAjuhYjFjI2vvzk"
     },
     {
-      "name": "Monstrosity Resilience",
+      "name": "Чудовищная устойчивость",
       "type": "feature",
       "_id": "dAYgJ1AJ1JZvkAC4",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -366,7 +366,7 @@
       },
       "effects": [
         {
-          "origin": "Compendium.black-flag.npcfeatures.Item.XalovXeLAaACbyqk",
+          "origin": "Compendium.black-flag-ru.npcfeatures.Item.XalovXeLAaACbyqk",
           "duration": {
             "rounds": null,
             "startTime": 0,
@@ -377,7 +377,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Monstrosity Resilience",
+          "name": "Чудовищная устойчивость",
           "_id": "jxagd3hzp2UTp7Wl",
           "changes": [
             {
@@ -402,7 +402,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -428,7 +428,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.5eDnfMruW8QT67Zf",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -442,7 +442,7 @@
       "_key": "!actors.items!AA2C6GyHE5bJ9IQb.dAYgJ1AJ1JZvkAC4"
     },
     {
-      "name": "Spider Climb",
+      "name": "Паучье восхождение",
       "type": "feature",
       "_id": "IrGxgLv5HHvoQ4Ax",
       "img": "icons/creatures/invertebrates/spider-web-red.webp",
@@ -496,7 +496,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.9SnGOXer6OWDVFZR",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -548,7 +548,7 @@
           "value": null
         }
       },
-      "name": "Web Walker",
+      "name": "Веб-Уокер",
       "type": "feature",
       "_id": "4i8qgK8gEsv3gCpM",
       "img": "icons/creatures/webs/webthin-blue.webp",
@@ -564,7 +564,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.l142jZhDeQwR137m",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -578,7 +578,7 @@
       "_key": "!actors.items!AA2C6GyHE5bJ9IQb.4i8qgK8gEsv3gCpM"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "82oYKdZDKMzvoBek",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -682,7 +682,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.gOY84E2CGZ1cauwF",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -838,7 +838,7 @@
               "min": "",
               "max": ""
             },
-            "name": "STR Check",
+            "name": "Проверка СПО",
             "img": ""
           }
         },
@@ -850,7 +850,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. <em>Hit</em>: The target is &amp;Reference[restrained]{restrained} by webbing. While restrained in this way, the target can see and attack creatures on the Ethereal Plane, and the restrained target can be seen and attacked by creatures on the Ethereal Plane. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 12; HP 10; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
+          "value": "<p>[[/attack extended]]. <em>Hit</em>: The target is &Reference[restrained]{restrained} by webbing. While restrained in this way, the target can see and attack creatures on the Ethereal Plane, and the restrained target can be seen and attacked by creatures on the Ethereal Plane. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 12; HP 10; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -893,7 +893,7 @@
         },
         "rarity": ""
       },
-      "name": "Phasing Web",
+      "name": "Поэтапная сеть",
       "type": "weapon",
       "_id": "kE2y3hqCjwOqe199",
       "img": "icons/creatures/webs/webthin-blue.webp",
@@ -913,7 +913,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756760071139,
@@ -980,7 +980,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1020,7 +1020,7 @@
           "value": null
         }
       },
-      "name": "Ethereal Jaunt",
+      "name": "Эфирная прогулка",
       "type": "feature",
       "_id": "K2bzcqfpUi9Tie6o",
       "img": "icons/magic/unholy/orb-colllecting-energy-green.webp",
@@ -1040,7 +1040,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1124,7 +1124,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "flags": {},
@@ -1196,7 +1196,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Barbed Legs",
+      "name": "Колючие ноги",
       "type": "weapon",
       "_id": "6sfTrEo6mZMxmxIg",
       "img": "icons/creatures/claws/claw-curved-jagged-gray.webp",
@@ -1217,7 +1217,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928164,
         "modifiedTime": 1756760035394,
@@ -1226,7 +1226,7 @@
       "_key": "!actors.items!AA2C6GyHE5bJ9IQb.6sfTrEo6mZMxmxIg"
     },
     {
-      "name": "Bite",
+      "name": "Кусать",
       "type": "weapon",
       "_id": "sEbAJOopaxkMyemC",
       "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
@@ -1276,7 +1276,7 @@
               "consumeQuantity": false
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "target": {
               "affects": {
                 "type": "any",
@@ -1394,7 +1394,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Save",
+            "name": "КОН Сохранить",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1412,7 +1412,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &amp;Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &amp;Reference[paralyzed]{paralyzed} while poisoned in this way.</p>",
+          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{paralyzed} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1476,7 +1476,7 @@
         "duplicateSource": null,
         "exportSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": 1756748928164,
         "modifiedTime": 1756760043811,
@@ -1494,7 +1494,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756767340498,

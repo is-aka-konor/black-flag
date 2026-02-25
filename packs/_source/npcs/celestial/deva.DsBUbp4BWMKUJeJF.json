@@ -1,9 +1,9 @@
 {
   "folder": "znixScbzurqLkz5j",
-  "name": "Deva",
+  "name": "Дева",
   "type": "npc",
   "_id": "DsBUbp4BWMKUJeJF",
-  "img": "systems/black-flag/artwork/tokens/angel-deva.webp",
+  "img": "systems/black-flag-ru/artwork/tokens/angel-deva.webp",
   "system": {
     "attributes": {
       "ac": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Deva",
+    "name": "Дева",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -170,7 +170,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "systems/black-flag/artwork/tokens/angel-deva.webp",
+      "src": "systems/black-flag-ru/artwork/tokens/angel-deva.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -358,7 +358,7 @@
           "value": null
         }
       },
-      "name": "Angelic Senses",
+      "name": "Ангельские чувства",
       "type": "feature",
       "_id": "K7ejCXJqCR3L4ub5",
       "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
@@ -378,7 +378,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -426,7 +426,7 @@
           "value": null
         }
       },
-      "name": "Angelic Weapons",
+      "name": "Ангельское оружие",
       "type": "feature",
       "_id": "c0rN6F1D46ACUPtJ",
       "img": "icons/magic/holy/projectiles-blades-salvo-yellow.webp",
@@ -446,7 +446,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -494,7 +494,7 @@
           "value": null
         }
       },
-      "name": "Immortal Nature",
+      "name": "Бессмертная природа",
       "type": "feature",
       "_id": "8VNM5LUFMei5jvsA",
       "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
@@ -514,7 +514,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -524,7 +524,7 @@
       "_key": "!actors.items!DsBUbp4BWMKUJeJF.8VNM5LUFMei5jvsA"
     },
     {
-      "name": "Magic Resistance",
+      "name": "Магическое сопротивление",
       "type": "feature",
       "_id": "ZmKVAfcc5ePrR0GE",
       "img": "icons/magic/defensive/barrier-shield-dome-pink.webp",
@@ -580,9 +580,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.jS7wIZVCAi6I2VMe",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.jS7wIZVCAi6I2VMe",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -692,7 +692,7 @@
           "value": null
         }
       },
-      "name": "Reviving Prayer",
+      "name": "Оживляющая молитва",
       "type": "feature",
       "_id": "1vWdEPyr6F5WW5G1",
       "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -712,7 +712,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.6JZWKoAliNOU2phV.Item.1vWdEPyr6F5WW5G1",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -722,7 +722,7 @@
       "_key": "!actors.items!DsBUbp4BWMKUJeJF.1vWdEPyr6F5WW5G1"
     },
     {
-      "name": "Multiattack",
+      "name": "Мультиатака",
       "type": "feature",
       "_id": "bHtDRV4qpGo7K056",
       "img": "icons/skills/melee/strike-slashes-orange.webp",
@@ -828,9 +828,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.npcfeatures.Item.stHC4ZVHK2UO1QMu",
+        "compendiumSource": "Compendium.black-flag-ru.npcfeatures.Item.stHC4ZVHK2UO1QMu",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -841,7 +841,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Mace",
+      "name": "Мейс",
       "type": "weapon",
       "_id": "DlEDGtSCENvUZ8Hx",
       "img": "icons/weapons/maces/mace-flanged-steel.webp",
@@ -941,7 +941,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/attack.svg",
+            "img": "systems/black-flag-ru/artwork/activities/attack.svg",
             "sort": 0,
             "magical": false,
             "visibility": {
@@ -1024,9 +1024,9 @@
       },
       "_stats": {
         "duplicateSource": null,
-        "compendiumSource": "Compendium.black-flag.items.Item.XOrCLbriQXUoLCTL",
+        "compendiumSource": "Compendium.black-flag-ru.items.Item.XOrCLbriQXUoLCTL",
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "2.0.068",
         "createdTime": null,
         "modifiedTime": 1756751716084,
@@ -1158,7 +1158,7 @@
           "value": null
         }
       },
-      "name": "Healing Touch",
+      "name": "Исцеляющее прикосновение",
       "type": "feature",
       "_id": "1s6j6dw6DKevFG5j",
       "img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
@@ -1178,7 +1178,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.6JZWKoAliNOU2phV.Item.1s6j6dw6DKevFG5j",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1245,7 +1245,7 @@
               "max": ""
             },
             "name": "",
-            "img": "systems/black-flag/artwork/activities/utility.svg",
+            "img": "systems/black-flag-ru/artwork/activities/utility.svg",
             "sort": 0,
             "magical": false
           }
@@ -1285,7 +1285,7 @@
           "value": null
         }
       },
-      "name": "Change Shape",
+      "name": "Изменить форму",
       "type": "feature",
       "_id": "xXosGoRo6aIaCvBy",
       "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
@@ -1305,7 +1305,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1353,7 +1353,7 @@
           "value": null
         }
       },
-      "name": "Angelic Resilience",
+      "name": "Ангельская стойкость",
       "type": "feature",
       "_id": "QEnvuCtWg5NuyqGD",
       "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
@@ -1370,7 +1370,7 @@
             "startTurn": null
           },
           "disabled": false,
-          "name": "Angelic Resilience",
+          "name": "Ангельская стойкость",
           "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
           "_id": "oBpJdKVGmsO00Hv2",
           "type": "base",
@@ -1435,7 +1435,7 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "coreVersion": "13.347",
-            "systemId": "black-flag",
+            "systemId": "black-flag-ru",
             "systemVersion": "0.10.049",
             "createdTime": null,
             "modifiedTime": null,
@@ -1456,7 +1456,7 @@
         "compendiumSource": "Compendium.kp-tov-monster-vault.kp-tov-mv-npc-features.Item.hZBiaQ0rcxTLuqWZ",
         "duplicateSource": null,
         "coreVersion": "13.347",
-        "systemId": "black-flag",
+        "systemId": "black-flag-ru",
         "systemVersion": "0.10.049",
         "createdTime": null,
         "modifiedTime": null,
@@ -1475,7 +1475,7 @@
   "_stats": {
     "duplicateSource": null,
     "coreVersion": "13.347",
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "2.0.068",
     "createdTime": 1729607939811,
     "modifiedTime": 1756675643297,

@@ -1,6 +1,6 @@
 {
   "folder": "qMTJQup73eOQq8Qf",
-  "name": "Magical Rites",
+  "name": "Магические обряды",
   "type": "feature",
   "_id": "pl8b5zXA4k5NwRBT",
   "img": "icons/magic/symbols/rune-sigil-horned-white-purple.webp",
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "black-flag",
+    "systemId": "black-flag-ru",
     "systemVersion": "0.9.037",
     "coreVersion": "13.347",
     "createdTime": 1717618023156,
