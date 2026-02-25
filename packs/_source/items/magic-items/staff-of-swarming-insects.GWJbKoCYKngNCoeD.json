@@ -303,7 +303,7 @@
     "rarity": "rare",
     "attunement": {
       "value": "required",
-      "requirement": "от Барда, Священника, Друида, Колдуна, Чернокнижника или Волшебника"
+      "requirement": "от Барда, Жреца, Друида, Чародея, Колдуна или Волшебника"
     },
     "container": null,
     "magicalBonus": null

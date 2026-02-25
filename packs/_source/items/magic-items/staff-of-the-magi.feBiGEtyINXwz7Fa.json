@@ -1727,7 +1727,7 @@
     "rarity": "legendary",
     "attunement": {
       "value": "required",
-      "requirement": "от колдуна, чернокнижника или волшебника"
+      "requirement": "от чародея, колдуна или волшебника"
     },
     "container": null,
     "magicalBonus": 2

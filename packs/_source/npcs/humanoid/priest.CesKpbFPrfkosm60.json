@@ -1,6 +1,6 @@
 {
   "folder": "V0kGTSPAwPozSTUq",
-  "name": "Священник",
+  "name": "Жрец",
   "type": "npc",
   "_id": "CesKpbFPrfkosm60",
   "img": "systems/black-flag-ru/artwork/tokens/priest.webp",
@@ -147,7 +147,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Священник",
+    "name": "Жрец",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,

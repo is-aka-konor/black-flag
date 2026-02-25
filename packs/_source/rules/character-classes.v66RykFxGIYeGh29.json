@@ -4,7 +4,7 @@
   "pages": [
     {
       "sort": 400000,
-      "name": "Священник",
+      "name": "Жрец",
       "type": "class",
       "_id": "lNa46qDZLSZBvsty",
       "title": {
@@ -26,7 +26,7 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Выберите подкласс, который отражает ваше отношение к вашему божеству, Жизни, Свету или Войне (подробнее ступень в конце этого класса). Ваш выбор обеспечивает вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания домена</h6><p>Каждый подкласс клирика имеет список заклинания домена, к которому вы можете получить доступ, только вручную прочитав заклинание этого круга (как показано в таблице).<strong>Клирик) Прогресс</strong>).Однако наложение заклинания домена по-прежнему расходует ячейку Божественного заклинания, как обычно.</p><p>Если ни одного из этих заклинаний нет в списке Божественных заклинаний, оно равно все считается для Божественного заклинания.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, который отражает ваше отношение к вашему божеству, Жизни, Свету или Войне (подробнее ступень в конце этого класса). Ваш выбор обеспечивает вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания домена</h6><p>Каждый подкласс жреца имеет список заклинания домена, к которому вы можете получить доступ, только вручную прочитав заклинание этого круга (как показано в таблице).<strong>Жрец) Прогресс</strong>).Однако наложение заклинания домена по-прежнему расходует ячейку Божественного заклинания, как обычно.</p><p>Если ни одного из этих заклинаний нет в списке Божественных заклинаний, оно равно все считается для Божественного заклинания.</p>",
           "subclassSection": ""
         },
         "item": "Compendium.black-flag-ru.classes.Item.sA0d2k4NbcaVFvMK",
@@ -51,7 +51,7 @@
     },
     {
       "sort": 500000,
-      "name": "боец",
+      "name": "Воин",
       "type": "class",
       "_id": "DKfJWt7ZmKWpPUqG",
       "title": {
@@ -98,7 +98,7 @@
     },
     {
       "sort": 600000,
-      "name": "Негодяй",
+      "name": "Плут",
       "type": "class",
       "_id": "8XM1Rdj25DeZpXNt",
       "title": {
@@ -474,7 +474,7 @@
     },
     {
       "sort": 593750,
-      "name": "Рейнджер",
+      "name": "Следопыт",
       "type": "class",
       "_id": "UBAPJtcA6uoYLcfZ",
       "title": {
@@ -496,7 +496,7 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Выберите подкласс, который отобразит вашу связь с природой: Охотник или Повелитель мира (подробное обучение в конце этого урока). Ваш выбор предоставляет вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания вызова</h6><p>Каждый подкласс рейнджера имеет список заклинания вызова, к которому вы можете получить доступ, только вручную произведя заклинание этого круга (как показано натаблица <strong>Прогресс) рейнджера</strong>).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет упоминаться во многих известных вам заклинаниях.Однако предложение призывающего заклинания по-прежнему расходует ячейку первоначального заклинания, как обычно.",
+          "subclassAdvancement": "<p>Выберите подкласс, который отобразит вашу связь с природой: Охотник или Повелитель мира (подробное обучение в конце этого урока). Ваш выбор предоставляет вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания вызова</h6><p>Каждый подкласс следопыта имеет список заклинания вызова, к которому вы можете получить доступ, только вручную произведя заклинание этого круга (как показано натаблица <strong>Прогресс) следопыта</strong>).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет упоминаться во многих известных вам заклинаниях.Однако предложение призывающего заклинания по-прежнему расходует ячейку первоначального заклинания, как обычно.",
           "subclassSection": ""
         },
         "subclasses": [],
@@ -521,7 +521,7 @@
     },
     {
       "sort": 650000,
-      "name": "Колдун",
+      "name": "Чародей",
       "type": "class",
       "_id": "u38MsYCAzX5qHMuv",
       "title": {
@@ -568,7 +568,7 @@
     },
     {
       "sort": 675000,
-      "name": "Чернокнижник",
+      "name": "Колдун",
       "type": "class",
       "_id": "QDJIQ0dSCw13GSj0",
       "title": {
@@ -590,7 +590,7 @@
           "additionalHitPoints": "",
           "additionalTraits": "",
           "additionalEquipment": "",
-          "subclassAdvancement": "<p>Выберите подкласс, в котором указан тип объекта, который станет вашим покровителем: Дьявол или Жнец (подробнее ступень в конце этого класса).Ваш обеспечивает выбор вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания договора</h6><p>Каждый подкласс чернокнижника имеет список заклинания договоров, к которым вы можете получить доступ, как только вы сможете творить заклинания этого круга (как показано в таблице <strong>Прогресс) чернокнижника___Р6____).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет учитываться во многих известных вам заклинаниях.Однако наложение договоров заклинания по-прежнему расходует ячейку заклинания Вирда, как обычно. чернокнижника самого высокого круга, к чему вы можете получить доступ (см.<strong>Прогресс чернокнижника</strong>).</p><p>Вы можете использовать эту функцию независимо от того, читаете ли вы одни и те же заклинания из своих заклинаний Пакта или разных заклинаний. 17-м уровне вы можете использовать ее четырераза между отдыхами.или продолжительный отдых.</p>",
+          "subclassAdvancement": "<p>Выберите подкласс, в котором указан тип объекта, который станет вашим покровителем: Дьявол или Жнец (подробнее ступень в конце этого класса).Ваш обеспечивает выбор вам заклинания и другие возможности на 3-м, 7-м, 11-м и 15-м уровнях.</p><h6>Заклинания договора</h6><p>Каждый подкласс колдуна имеет список заклинания договоров, к которым вы можете получить доступ, как только вы сможете творить заклинания этого круга (как показано в таблице <strong>Прогресс) колдуна___Р6____).Как только вы получите такое заклинание, оно всегда будет в вашем списке известных заклинаний и не будет учитываться во многих известных вам заклинаниях.Однако наложение договоров заклинания по-прежнему расходует ячейку заклинания Вирда, как обычно. колдуна самого высокого круга, к чему вы можете получить доступ (см.<strong>Прогресс колдуна</strong>).</p><p>Вы можете использовать эту функцию независимо от того, читаете ли вы одни и те же заклинания из своих заклинаний Пакта или разных заклинаний. 17-м уровне вы можете использовать ее четырераза между отдыхами.или продолжительный отдых.</p>",
           "subclassSection": ""
         },
         "subclasses": [],
@@ -1250,7 +1250,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>В этом разделе перечислены жуткие заклинания, доступные для изучения колдунам. Если в вызове есть предварительные условия, вам следует адаптировать их, чтобы изучить его. Вы можете одновременно обучаться с выполнением его предварительных требований.</p><p>Если в предварительном жестком соответствии с требованиями, это будет требуемый уровень чернокнижника (вы можете получить его на более низком уровне чернокнижника).</p><h5>Агонизирующий взрыв</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.pG3Ej4ZjCNhkfZ52 inline]</p><h5>Броня Shadows</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.o2Sfs3fbTzyr7S8M inline]</p><h5>AScendant Step</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.nY0LhDNc1bkYmfiW inline]</p><h5>Завораживающий Шепот</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.54UHzW3ULZ9m1sLb inline]</p><h5>Beyond Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.OIDwHpH4UyuzVNGh inline]</p><h5>Бон Savant</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.WyL3Nn0tPvH19aes inline]</p><h5>Цепочки Carceri</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.Csyn1RvNnxKj1k9l inline]</p><h5>Dreadful Word</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.46YrVW4NUSppEWiU inline]</p><h5>Eldritch Burst</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.tQNO1Drcya6D6IuN inline]</p><h5>Eldritch Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EBGZdrrvbkjcfGtP inline]</p><h5>Жуткое копье</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.QF0HmO3A1BYiOQz7 inline]</p><h5>Fiendish Vigor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.abYX4crZeAx5O04N inline]</p><h5>Взгляд отца Minds</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bAt1gp6cPRStbKSd inline]</p><h5>Lifedrinker</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.fF4wPecfYXSzoKMb inline]</p><h5>Маска Faces</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.I24WXooyy1qSzZi1 inline]</p><h5>Mire the Mind</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VTBYbdcqYfCieKIQ inline]</p><h5>Misty Visions</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VmUF8jSE2RWtxMwK inline]</p><h5>Mystic Arcanum</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.LR1yRC2UD8ltVUym inline]</p><h5>Одинсии</h5>___Тен78___@Embed[Compendium.black-flag-ru.classes.Item.3I3zYn1wnMGYTbWF inline]</p><h5>Другой мир Leap</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.J7bHvk715dMnAMQP inline]</p><h5>Патрон Anchor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.DqbuaQ5wftTU1Fpc inline]</p><h5>ОтталкиваниеBlast</h5><p>@Embed[Compendium.bnedostok-flag-ru.classes.Item.UEnJY4Uac10l8rck inline]</p><h5>Скульптор плоти</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bPgyHv5Br3VNZjrl inline]</p><h5>Второй дар</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.cS9R17yuSIlvoAf8 inline]</p><h5>Знак злаOmen</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VyfPBraUrVFEXFJJ inline]</p><h5>Дух Переводчик</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.a5JVMra55IFT4rQq inline]</p><h5>Украден Знания</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.d0hTMRXSSdbut5d2 inline]</p><h5>Вор Пяти Толстых</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EmZaJbh4RpQu7B7M inline]</p><h5>Видения дальёкого Realms</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.NJT95uCh76HdGsuO inline]</p><h5>Шепоты Grave</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.yYuZE1Qs4l9vVqr0 inline]</p><h5>Ведьма Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.quSRkjkGwJQ7FZng inline]</p>"
+        "content": "<p>В этом разделе перечислены жуткие заклинания, доступные для изучения колдунам. Если в вызове есть предварительные условия, вам следует адаптировать их, чтобы изучить его. Вы можете одновременно обучаться с выполнением его предварительных требований.</p><p>Если в предварительном жестком соответствии с требованиями, это будет требуемый уровень колдуна (вы можете получить его на более низком уровне колдуна).</p><h5>Агонизирующий взрыв</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.pG3Ej4ZjCNhkfZ52 inline]</p><h5>Броня Shadows</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.o2Sfs3fbTzyr7S8M inline]</p><h5>AScendant Step</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.nY0LhDNc1bkYmfiW inline]</p><h5>Завораживающий Шепот</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.54UHzW3ULZ9m1sLb inline]</p><h5>Beyond Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.OIDwHpH4UyuzVNGh inline]</p><h5>Бон Savant</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.WyL3Nn0tPvH19aes inline]</p><h5>Цепочки Carceri</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.Csyn1RvNnxKj1k9l inline]</p><h5>Dreadful Word</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.46YrVW4NUSppEWiU inline]</p><h5>Eldritch Burst</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.tQNO1Drcya6D6IuN inline]</p><h5>Eldritch Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EBGZdrrvbkjcfGtP inline]</p><h5>Жуткое копье</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.QF0HmO3A1BYiOQz7 inline]</p><h5>Fiendish Vigor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.abYX4crZeAx5O04N inline]</p><h5>Взгляд отца Minds</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bAt1gp6cPRStbKSd inline]</p><h5>Lifedrinker</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.fF4wPecfYXSzoKMb inline]</p><h5>Маска Faces</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.I24WXooyy1qSzZi1 inline]</p><h5>Mire the Mind</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VTBYbdcqYfCieKIQ inline]</p><h5>Misty Visions</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VmUF8jSE2RWtxMwK inline]</p><h5>Mystic Arcanum</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.LR1yRC2UD8ltVUym inline]</p><h5>Одинсии</h5>___Тен78___@Embed[Compendium.black-flag-ru.classes.Item.3I3zYn1wnMGYTbWF inline]</p><h5>Другой мир Leap</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.J7bHvk715dMnAMQP inline]</p><h5>Патрон Anchor</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.DqbuaQ5wftTU1Fpc inline]</p><h5>ОтталкиваниеBlast</h5><p>@Embed[Compendium.bnedostok-flag-ru.classes.Item.UEnJY4Uac10l8rck inline]</p><h5>Скульптор плоти</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.bPgyHv5Br3VNZjrl inline]</p><h5>Второй дар</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.cS9R17yuSIlvoAf8 inline]</p><h5>Знак злаOmen</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.VyfPBraUrVFEXFJJ inline]</p><h5>Дух Переводчик</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.a5JVMra55IFT4rQq inline]</p><h5>Украден Знания</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.d0hTMRXSSdbut5d2 inline]</p><h5>Вор Пяти Толстых</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.EmZaJbh4RpQu7B7M inline]</p><h5>Видения дальёкого Realms</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.NJT95uCh76HdGsuO inline]</p><h5>Шепоты Grave</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.yYuZE1Qs4l9vVqr0 inline]</p><h5>Ведьма Sight</h5><p>@Embed[Compendium.black-flag-ru.classes.Item.quSRkjkGwJQ7FZng inline]</p>"
       },
       "video": {
         "controls": true,

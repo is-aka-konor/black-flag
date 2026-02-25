@@ -301,7 +301,7 @@
     "rarity": "veryRare",
     "attunement": {
       "value": "required",
-      "requirement": "от друида, колдуна, чернокнижника или волшебника"
+      "requirement": "от друида, чародея, колдуна или волшебника"
     },
     "container": null,
     "magicalBonus": null

@@ -155,7 +155,7 @@
     "rarity": "uncommon",
     "attunement": {
       "value": "required",
-      "requirement": "от Священника, Друида или Волшебника"
+      "requirement": "от Жреца, Друида или Волшебника"
     },
     "container": null,
     "magicalBonus": null
