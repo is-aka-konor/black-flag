@@ -119,6 +119,8 @@ export default class ChooseFeaturesDialog extends BFApplication {
 	 */
 	async getChoiceData(doc) {
 		const optionContext = { document: doc, system: doc.system };
+		const tags = doc.system?.tags;
+		optionContext.ritual = tags?.includes?.("ritual") ?? tags?.has?.("ritual") ?? !!tags?.ritual;
 		optionContext.enriched = {
 			description: await foundry.applications.ux.TextEditor.implementation.enrichHTML(doc.system.description.value, {
 				secrets: false,

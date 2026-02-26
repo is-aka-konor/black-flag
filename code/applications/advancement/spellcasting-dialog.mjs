@@ -2,6 +2,16 @@ import { filter, Search } from "../../utils/_module.mjs";
 import BFApplication from "../api/application.mjs";
 
 /**
+ * Check whether a spell-like object has a tag.
+ * @param {string[]|Set<string>|object} tags
+ * @param {string} tag
+ * @returns {boolean}
+ */
+function hasTag(tags, tag) {
+	return tags?.includes?.(tag) ?? tags?.has?.(tag) ?? !!tags?.[tag];
+}
+
+/**
  * Application for learning new spells.
  */
 export default class SpellcastingDialog extends BFApplication {
@@ -218,12 +228,14 @@ export default class SpellcastingDialog extends BFApplication {
 		const otherSelected = new Set();
 		context.slots = this.slots.map((slot, index) => {
 			if (slot.selected) otherSelected.add(slot.selected);
+			const spell = slot.selected ? fromUuidSync(slot.selected) : null;
 			return {
 				...slot,
 				name: slot.name ?? this.constructor.TYPE_LABELS[slot.type],
 				number: slot.type === "replacement" ? "?" : index + 1,
 				selected: index === this.selectedSlot,
-				spell: slot.selected ? fromUuidSync(slot.selected) : null
+				spell,
+				ritual: hasTag(spell?.system?.tags, "ritual")
 			};
 		});
 
@@ -240,7 +252,8 @@ export default class SpellcastingDialog extends BFApplication {
 		context.spells = context.spells.map(spell => ({
 			...spell,
 			disabled: this.currentSlot?.selected !== spell.uuid && otherSelected.has(spell.uuid),
-			selected: this.currentSlot?.selected === spell.uuid
+			selected: this.currentSlot?.selected === spell.uuid,
+			ritual: hasTag(spell.system?.tags, "ritual")
 		}));
 
 		// All spells selected for this class at lower levels that haven't already been replaced

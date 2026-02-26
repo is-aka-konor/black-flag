@@ -56,6 +56,22 @@
 	--inventory-image-size: 30px;
 	flex-grow: 1;
 
+	.spell-tag {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding-inline: 4px;
+		border-radius: 999px;
+		background: color-mix(in oklab, var(--bf-border-color-blue), black 25%);
+		color: var(--bf-text-color-white);
+		font-family: var(--bf-font-primary);
+		font-size: var(--font-size-10);
+		font-weight: 700;
+		line-height: 1.5;
+		letter-spacing: 0.04em;
+		text-transform: uppercase;
+	}
+
 	.slots {
 		font-family: var(--bf-font-primary);
 		padding-inline-end: 0.5rem;
@@ -88,6 +104,9 @@
 	}
 	tr[data-properties~="ritual"] {
 		--background-gradient-color: #0eff00;
+	}
+	tr[data-properties~="ritual"] th.name .layout {
+		gap: 6px;
 	}
 
 	[data-action="prepare"] {

@@ -88,6 +88,9 @@
 										<span>{{ name }}</span>
 										<i class="fa-solid fa-caret-down" inert></i>
 									</button>
+									{{#if ctx.ritual}}
+										<span class="spell-tag ritual">{{ localize "BF.Spell.Tag.Ritual.Abbreviation" }}</span>
+									{{/if}}
 									{{ blackFlag-notificationBadge actor document=this }}
 								</div>
 							</th>

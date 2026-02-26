@@ -30,9 +30,28 @@
 			box-shadow: var(--bf-header-shadow);
 
 			.name {
+				display: flex;
+				align-items: center;
+				gap: 6px;
 				font-size: var(--font-size-20);
 				border: none;
 				margin: 0;
+
+				.spell-tag {
+					display: inline-flex;
+					align-items: center;
+					justify-content: center;
+					padding-inline: 5px;
+					border-radius: 999px;
+					background: color-mix(in oklab, var(--bf-border-color-blue), black 25%);
+					color: var(--bf-text-color-white);
+					font-family: var(--bf-font-primary);
+					font-size: var(--font-size-10);
+					font-weight: 700;
+					line-height: 1.5;
+					letter-spacing: 0.04em;
+					text-transform: uppercase;
+				}
 			}
 			.source {
 				font-variant: small-caps;

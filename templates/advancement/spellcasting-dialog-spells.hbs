@@ -4,7 +4,10 @@
 			<li {{~#if selected}} class="selected"{{/if}} data-spell-uuid="{{ uuid }}">
 				<label>
 					<figure class="icon"><img src="{{ img }}"></figure>
-					<div class="name">{{ name }}</div>
+						<div class="name">
+							<span class="spell-name">{{ name }}</span>
+							{{#if ritual}} <span class="spell-tag ritual">{{ localize "BF.Spell.Tag.Ritual.Abbreviation" }}</span>{{/if}}
+						</div>
 					<div class="control">
 						{{#if (ne @root.mode "all")}}
 							<input type="radio" name="selected-spell" value="{{ uuid }}"

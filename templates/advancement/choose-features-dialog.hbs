@@ -19,7 +19,12 @@
 		<section class="option" data-uuid="{{ document.uuid }}">
 			<div class="info">
 				<header>
-					<div class="name">{{ document.name }}</div>
+					<div class="name">
+						<span>{{ document.name }}</span>
+						{{#if ritual}}
+							<span class="spell-tag ritual">{{ localize "BF.Spell.Tag.Ritual.Abbreviation" }}</span>
+						{{/if}}
+					</div>
 					<div class="source">{{ system.description.source.label }}</div>
 				</header>
 				<div class="description">

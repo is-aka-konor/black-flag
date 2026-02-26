@@ -370,6 +370,7 @@ export default class PCSheet extends BaseActorSheet {
 			const ritual = item.system.tags.has("ritual");
 			const always = (alwaysPrepared && item.system.alwaysPreparable) || ritual;
 			const pressed = always || item.system.prepared;
+			context.ritual = ritual;
 			if (always || item.system.preparable)
 				context.buttons.push({
 					action: "prepare",

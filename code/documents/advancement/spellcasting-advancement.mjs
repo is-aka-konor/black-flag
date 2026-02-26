@@ -4,6 +4,51 @@ import { linkForUUID, Search } from "../../utils/_module.mjs";
 import Advancement from "./advancement.mjs";
 
 export default class SpellcastingAdvancement extends Advancement {
+	/* <><><><> <><><><> <><><><> <><><><> */
+	/*              Properties             */
+	/* <><><><> <><><><> <><><><> <><><><> */
+
+	/**
+	 * Should ritual progression for this advancement be derived from actor spellcasting circles?
+	 * Used for non-class items (e.g. talents) that grant rituals without their own spellcasting progression.
+	 * @type {boolean}
+	 */
+	get actorDrivenRitualProgression() {
+		return !["class", "subclass"].includes(this.item.type) && !this.configuration.progression;
+	}
+
+	/* <><><><> <><><><> <><><><> <><><><> */
+
+	/**
+	 * Does this actor currently have the Ritualist talent?
+	 * @type {boolean}
+	 */
+	get hasRitualistTalent() {
+		if (!this.actor) return false;
+		return this.actor.items.some(item => {
+			if (item.type !== "talent") return false;
+			if (item.system.identifier?.value === "ritualist") return true;
+
+			const sourceId =
+				item.getFlag(game.system.id, "sourceId") ??
+				item.getFlag("black-flag", "sourceId") ??
+				foundry.utils.getProperty(item, "_stats.compendiumSource");
+			return sourceId?.includes("XgPmZKWdA0WJ9BVl");
+		});
+	}
+
+	/* <><><><> <><><><> <><><><> <><><><> */
+
+	/**
+	 * Should ritual progression be derived from spell-circle unlocks?
+	 * This supports non-class ritual sources and class spellcasting with the Ritualist talent.
+	 * @type {boolean}
+	 */
+	get implicitRitualProgression() {
+		if (this.configuration.rituals.scaleValue) return false;
+		return this.actorDrivenRitualProgression || this.hasRitualistTalent;
+	}
+
 	/** @inheritDoc */
 	static metadata = Object.freeze(
 		foundry.utils.mergeObject(
@@ -62,6 +107,7 @@ export default class SpellcastingAdvancement extends Advancement {
 		if (level < this.level.value) return false;
 		if (level in (this.configuration.cantrips.scaleValue?.configuration.scale ?? {})) return true;
 		if (level in (this.configuration.rituals.scaleValue?.configuration.scale ?? {})) return true;
+		if (this.implicitRitualProgression && this.computeMaxCircle(level) > this.computeMaxCircle(level - 1)) return true;
 		switch (this.configuration.spells.mode) {
 			case "limited":
 				return level in (this.configuration.spells.scaleValue?.configuration.scale ?? {});
@@ -177,7 +223,11 @@ export default class SpellcastingAdvancement extends Advancement {
 
 		for (const type of ["cantrips", "rituals", "spells"]) {
 			const scale = this.configuration[type].scaleValue;
-			stats.get(type).total = (scale?.valueForLevel(level)?.value ?? 0) - (scale?.valueForLevel(level - 1)?.value ?? 0);
+			if (type === "rituals" && this.implicitRitualProgression && !scale) {
+				stats.get(type).total = Math.max(this.computeMaxCircle(level) - this.computeMaxCircle(level - 1), 0);
+			} else {
+				stats.get(type).total = (scale?.valueForLevel(level)?.value ?? 0) - (scale?.valueForLevel(level - 1)?.value ?? 0);
+			}
 			stats.get(type).learned = 0;
 			if (type === "spells" && isFirstLevel && this.configuration.spells.special) {
 				stats.get(type).total -= 1;
@@ -407,6 +457,8 @@ export default class SpellcastingAdvancement extends Advancement {
 	 * @returns {number|null}
 	 */
 	computeMaxCircle(level) {
+		if (this.actorDrivenRitualProgression) return this.#computeActorMaxCircle(level);
+
 		const data = { circle: null };
 		const { type, progression } = this.configuration;
 
@@ -438,6 +490,59 @@ export default class SpellcastingAdvancement extends Advancement {
 		}
 
 		return data.circle;
+	}
+
+	/* <><><><> <><><><> <><><><> <><><><> */
+
+	/**
+	 * Compute actor max spell circle at a specific character level.
+	 * @param {number} level
+	 * @returns {number}
+	 */
+	#computeActorMaxCircle(level) {
+		if (!this.actor) return 0;
+		level = Math.max(Number(level) || 0, 0);
+		if (!level) return 0;
+
+		const classLevels = {};
+		for (const [characterLevel, data] of Object.entries(this.actor.system.progression?.levels ?? {})) {
+			if (Number(characterLevel) > level) continue;
+			const cls = data.class;
+			if (!cls) continue;
+			const identifier = cls.identifier;
+			const classData = (classLevels[identifier] ??= { document: cls, levels: 0 });
+			classData.levels += 1;
+		}
+
+		const progression = { cantrips: false, leveled: 0, pact: { circle: null, slots: 0 } };
+		const types = {};
+		const spellcastingClasses = Object.values(classLevels).filter(classData => {
+			const spellcasting = classData.document.system.spellcasting;
+			if (!spellcasting?.type) return false;
+			types[spellcasting.type] ??= 0;
+			types[spellcasting.type] += 1;
+			return true;
+		});
+
+		for (const classData of spellcastingClasses) {
+			const spellcasting = classData.document.system.spellcasting;
+			SpellcastingTemplate.computeClassProgression(progression, classData.document, {
+				actor: this.actor,
+				levels: classData.levels,
+				count: types[spellcasting.type],
+				spellcasting
+			});
+		}
+
+		const slots = {};
+		for (const type of Object.keys(CONFIG.BlackFlag.spellcastingTypes)) {
+			SpellcastingTemplate.prepareSpellcastingSlots(slots, type, progression, { actor: this.actor });
+		}
+
+		return Object.values(slots).reduce((max, slot) => {
+			if ((slot?.max ?? 0) <= 0) return max;
+			return Number.isFinite(slot.circle) && slot.circle > max ? slot.circle : max;
+		}, 0);
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */

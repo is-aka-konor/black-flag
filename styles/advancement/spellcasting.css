@@ -117,11 +117,37 @@
 			object-fit: cover;
 			object-position: center;
 		}
-		.name {
-			flex: 1;
-			font-size: var(--font-size-16);
-		}
-		.control {
+			.name {
+				flex: 1;
+				display: flex;
+				align-items: center;
+				gap: 8px;
+				flex-wrap: wrap;
+				font-size: var(--font-size-16);
+			}
+			.name .spell-name {
+				flex: 0 1 auto;
+				min-inline-size: 0;
+			}
+			.name .spell-tag {
+				display: inline-flex;
+				flex: 0 0 auto;
+				align-items: center;
+				justify-content: center;
+				padding-inline: 6px;
+				border: 1px solid rgb(255 255 255 / 25%);
+				border-radius: 999px;
+				background-color: var(--bf-border-color-blue);
+				background: color-mix(in oklab, var(--bf-border-color-blue), black 25%);
+				color: var(--bf-text-color-white);
+				font-family: var(--bf-font-primary);
+				font-size: var(--font-size-10);
+				font-weight: 700;
+				line-height: 1.5;
+				letter-spacing: 0.04em;
+				text-transform: uppercase;
+			}
+			.control {
 			flex: 0 0 24px;
 
 			input {
@@ -176,3 +202,29 @@
 	}
 }
 
+/* Fallback selectors to keep ritual badge styling stable across environments. */
+.black-flag.spell-manager .spell-list .name {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	flex-wrap: wrap;
+}
+
+.black-flag.spell-manager .spell-list .name .spell-tag.ritual {
+	display: inline-flex;
+	flex: 0 0 auto;
+	align-items: center;
+	justify-content: center;
+	padding-inline: 6px;
+	border: 1px solid rgb(255 255 255 / 25%);
+	border-radius: 999px;
+	background-color: var(--bf-border-color-blue);
+	background: color-mix(in oklab, var(--bf-border-color-blue), black 25%);
+	color: var(--bf-text-color-white);
+	font-family: var(--bf-font-primary);
+	font-size: var(--font-size-10);
+	font-weight: 700;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+}
