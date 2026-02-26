@@ -1,11 +1,11 @@
 {
   "folder": "qn9aEdgelNiRQN8Y",
-  "name": "Натуральное оружие",
+  "name": "Естественное Оружие",
   "type": "feature",
   "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You have claws, horns, hooves, fangs, spines, or a similar adaptation that serves as a natural weapon. Work with your GM to determine what type of natural weapon you possess and decide whether it does bludgeoning, piercing, or slashing damage. You can use your natural weapon to make unarmed strikes. When you hit with it, the strike deals 1d6 + your STR or DEX modifier damage (choose which during character creation) of your chosen type, instead of the bludgeoning damage normal for an unarmed strike.</p>",
+      "value": "<p>У вас есть когти, рога, копыта, клыки, шипы или подобная адаптация, служащая естественным оружием. Согласуйте с вашим Мастером, какой тип естественного оружия у вас есть, и решите, наносит ли оно дробящий, колющий или рубящий урон. Вы можете использовать свое естественное оружие для совершения безоружных ударов. При попадании удар наносит 1к6 + ваш модификатор СИЛ или ЛОВ (выберите при создании персонажа) урона выбранного типа, вместо дробящего урона, обычного для безоружного удара.</p>",
       "source": "Player's Guide"
     },
     "identifier": {

@@ -1,5 +1,5 @@
 {
-  "name": "Диаспора",
+  "name": "Наследие Диаспоры",
   "type": "heritage",
   "_id": "1aPZdPOhSLxtdYhr",
   "img": "icons/environment/people/group.webp",
@@ -7,7 +7,7 @@
     "advancement": {
       "NTXxZgJtZKXgkT2f": {
         "type": "trait",
-        "title": "Languages",
+        "title": "Языки",
         "configuration": {
           "grants": [
             "languages:standard:common"
@@ -29,7 +29,7 @@
         },
         "flags": {},
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Many diaspora communities learn the languages most common to soldiers, mercenaries, and traders near the area in which they reside, most often Orcish or Dwarven.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Многие общины диаспоры изучают языки, наиболее распространенные среди солдат, наемников и торговцев вблизи места их проживания, чаще всего Орочий или Дворфийский.",
         "selectedIndex": "-1",
         "selectedTrait": "languages"
       },
@@ -53,7 +53,7 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.tF7uvryjhYzDm0SQ inline]{Preserved Traditions}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.Xc7odqrgCmVFSdaq inline]{Timeless Resolve}</p><p>@Embed[.Advancement.NTXxZgJtZKXgkT2f inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.tF7uvryjhYzDm0SQ inline]{Сохраняемые Традиции}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.Xc7odqrgCmVFSdaq inline]{Вечная Решимость}</p><p>@Embed[.Advancement.NTXxZgJtZKXgkT2f inline]{Языки}</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"

@@ -1,6 +1,6 @@
 {
   "folder": "YYaq9ncFiszqsnUk",
-  "name": "Гномья стойкость",
+  "name": "Дворфийская Выносливость",
   "type": "feature",
   "_id": "yjDyRfJH4hplyKfO",
   "img": "icons/magic/control/buff-strength-muscle-damage.webp",
@@ -23,13 +23,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Toughness",
+        "title": "Дворфийская Выносливость",
         "icon": "",
-        "hint": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+        "hint": "Ваш максимум хитов увеличивается на 1, и он увеличивается на 1 каждый раз, когда вы получаете уровень."
       }
     },
     "description": {
-      "value": "<p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>",
+      "value": "<p>Ваш максимум хитов увеличивается на 1, и он увеличивается на 1 каждый раз, когда вы получаете уровень.</p>",
       "source": {}
     },
     "identifier": {

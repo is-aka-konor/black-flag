@@ -14,7 +14,7 @@
         "activation": {
           "value": null,
           "type": "reaction",
-          "condition": "When a creature within reach makes a melee attack against a target other than you"
+          "condition": "Когда существо в пределах досягаемости совершает рукопашную атаку по цели, отличной от вас"
         },
         "consumption": {
           "targets": [],
@@ -61,7 +61,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You trained in capitalizing on every opening and stopping enemies in their tracks. You gain these benefits:</p><ul><li><p>When a creature within reach makes a melee attack against a target other than you, as a reaction you can make a melee weapon attack against the attacking creature.</p></li><li><p>You can make an opportunity attack against a creature that leaves your reach even if their movement doesn't provoke opportunity attacks.</p></li><li><p>When you take the Ready action to attack with a melee weapon, you gain a bonus to your attack and damage rolls equal to your PB when the trigger occurs. On a hit, the creature’s speed is reduced to 0 feet until the end of its next turn.</p></li></ul>",
+      "value": "<p>Вы тренировались использовать любую возможность и останавливать врагов на их пути. Вы получаете следующие преимущества:</p><ul><li><p>Когда существо в пределах досягаемости совершает рукопашную атаку по цели, отличной от вас, реакцией вы можете совершить атаку рукопашным оружием по атакующему существу.</p></li><li><p>Вы можете совершить атаку по возможности по существу, которое покидает вашу досягаемость, даже если его движение не провоцирует атаки по возможности.</p></li><li><p>Когда вы совершаете действие Подготовка для атаки рукопашным оружием, вы получаете бонус к броскам атаки и урона, равный вашему БМ, когда срабатывает условие. При попадании скорость существа уменьшается до 0 футов до конца его следующего хода.</p></li></ul>",
       "source": {}
     },
     "restriction": {

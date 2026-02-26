@@ -1,5 +1,5 @@
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
-import { readdir } from "node:fs/promises";
+import { readdir, rm } from "node:fs/promises";
 import Path from "path";
 import { PACK_DEST, PACK_SRC } from "../constants.mjs";
 import { cleanPackEntry } from "./clean.mjs";
@@ -28,6 +28,8 @@ export default async function packDB(packName, options={}, config={}) {
 	for ( const folder of folders ) {
 		const src = Path.join(PACK_SRC, folder.name);
 		const dest = Path.join(PACK_DEST, folder.name);
+		// Rebuild each pack from a clean directory to avoid stale LevelDB iterator failures.
+		await rm(dest, { recursive: true, force: true });
 		await compilePack(src, dest, {
 			recursive: true,
 			log: true,

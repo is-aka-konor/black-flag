@@ -1,5 +1,5 @@
 {
-  "name": "проситель",
+  "name": "Наследие Просителя",
   "type": "heritage",
   "_id": "Q6ophoE2toOZDs5L",
   "img": "icons/environment/people/cleric-orange.webp",
@@ -7,7 +7,7 @@
     "advancement": {
       "rtZQc51Etua0MjQs": {
         "type": "trait",
-        "title": "Languages",
+        "title": "Языки",
         "configuration": {
           "grants": [
             "languages:standard:common"
@@ -29,7 +29,7 @@
         },
         "flags": {},
         "icon": "",
-        "hint": "You know Common and one additional language of your choice, typically the language favored by your current or previous overlord (such as Draconic, Giant, or Undercommon).",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору, обычно язык, предпочитаемый вашим текущим или предыдущим повелителем (например, Драконий, Великаний или Подземный).",
         "selectedIndex": "-1",
         "selectedTrait": "languages"
       },
@@ -53,7 +53,7 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.btBU5OGY6mEbmuhd inline]{Scurry}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.UPZQmVwVvHabtISI inline]{Supplicant}</p><p>@Embed[.Advancement.rtZQc51Etua0MjQs inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.btBU5OGY6mEbmuhd inline]{Пронырливость}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.UPZQmVwVvHabtISI inline]{Проситель}</p><p>@Embed[.Advancement.rtZQc51Etua0MjQs inline]{Языки}</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"

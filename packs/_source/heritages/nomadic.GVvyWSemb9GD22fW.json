@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Кочевой",
+  "name": "Кочевое Наследие",
   "type": "heritage",
   "img": "icons/environment/wilderness/camp-improvised.webp",
   "system": {
@@ -8,9 +8,9 @@
       "Otvbikum0s7Bz1e8": {
         "type": "trait",
         "_id": "Otvbikum0s7Bz1e8",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Depending on the regions your people frequent or the kinds of communities your people trade with, typical nomadic heritage characters choose Dwarvish or Elvish.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. В зависимости от регионов, которые посещает ваш народ, или типов сообществ, с которыми торгует ваш народ, типичные персонажи кочевого наследия выбирают Дворфийский или Эльфийский.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.GEB1SbyIvTiu9gCU inline]{Resilient}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.YcFIqAdJ28v7FKHe inline]{Traveler}</p><p>@Embed[.Advancement.Otvbikum0s7Bz1e8 inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.GEB1SbyIvTiu9gCU inline]{Стойкость}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.YcFIqAdJ28v7FKHe inline]{Путешественник}</p><p>@Embed[.Advancement.Otvbikum0s7Bz1e8 inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

@@ -1,6 +1,6 @@
 {
   "folder": "4YOTCKl2AYTMhWlk",
-  "name": "Заземленный",
+  "name": "Приземленность",
   "type": "feature",
   "_id": "VKCrrfVz1eRp0q9a",
   "img": "icons/skills/movement/arrows-up-trio-red.webp",
@@ -14,7 +14,7 @@
         "activation": {
           "value": null,
           "type": "action",
-          "condition": "When you fail a save"
+          "condition": "Когда вы проваливаете спасбросок"
         },
         "consumption": {
           "targets": [
@@ -72,7 +72,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>Once per day, when you fail a save, you can reroll the die and use the new roll. Regardless of whether the new roll is a success or failure, you generate 1 Luck.</p>",
+      "value": "<p>Один раз в день, когда вы проваливаете спасбросок, вы можете перебросить кость и использовать новый результат. Независимо от того, является ли новый бросок успехом или провалом, вы генерируете 1 Удачу.</p>",
       "source": {}
     },
     "restriction": {

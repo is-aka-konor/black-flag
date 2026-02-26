@@ -1,11 +1,11 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Прикосновение удачи",
+  "name": "Касание Удачи",
   "type": "talent",
   "img": "icons/sundries/gaming/dice-runed-brown.webp",
   "system": {
     "description": {
-      "value": "<p>Fortune’s favor always makes its way back to you. You gain these benefits:</p><ul><li><p>When you would gain 1 Luck as a result of failing an attack roll or save, you instead gain 2 Luck.</p></li><li><p>If you have 5 Luck and would gain a 6th, your Luck total resets to 1d4 + 1.</p></li></ul>",
+      "value": "<p>Благосклонность фортуны всегда возвращается к вам. Вы получаете следующие преимущества:</p><ul><li><p>Когда вы должны были бы получить 1 Удачу в результате провала броска атаки или спасброска, вы вместо этого получаете 2 Удачи.</p></li><li><p>Если у вас 5 Удачи и вы должны были бы получить 6-ю, ваше общее количество Удачи сбрасывается до 1к4 + 1.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -35,9 +35,9 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Touch of Luck",
+        "title": "Касание Удачи",
         "icon": "",
-        "hint": "When you would gain 1 Luck as a result of failing an attack roll or save, you instead gain 2 Luck. If you have 5 Luck and would gain a 6th, your Luck total resets to 1d4 + 1."
+        "hint": "Когда вы должны были бы получить 1 Удачу в результате провала броска атаки или спасброска, вы вместо этого получаете 2 Удачи. Если у вас 5 Удачи и вы должны были бы получить 6-ю, ваше общее количество Удачи сбрасывается до 1к4 + 1."
       }
     },
     "restriction": {

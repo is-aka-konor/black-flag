@@ -1,6 +1,6 @@
 {
   "folder": "GOXCBfvkDFYjW842",
-  "name": "Халфлинг",
+  "name": "Полуросличьи",
   "type": "feature",
   "_id": "H9bNnDRa4A77bIwh",
   "img": "icons/creatures/magical/humanoid-silhouette-aliens-green.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>Your ancestors made their homes on the surface, displaying outsized pluck to drive back hostile wildlife and monsters. You have advantage on saves against being charmed or frightened.</p>",
+      "value": "<p>Ваши предки жили на поверхности, проявляя недюжинную отвагу, чтобы отгонять враждебную дикую природу и чудовищ. Вы совершаете с преимуществом спасброски от очарования или испуга.</p>",
       "source": {}
     },
     "restriction": {

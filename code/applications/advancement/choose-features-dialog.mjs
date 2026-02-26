@@ -180,6 +180,10 @@ export default class ChooseFeaturesDialog extends BFApplication {
 	 * @returns {Promise}
 	 */
 	static async #onDrop(event, dragDrop) {
+		event.preventDefault();
+		event.stopPropagation();
+		event.stopImmediatePropagation?.();
+
 		const data = foundry.applications.ux.TextEditor.implementation.getDragEventData(event);
 		if (data?.type !== "Item") return false;
 		const item = await Item.implementation.fromDropData(data);

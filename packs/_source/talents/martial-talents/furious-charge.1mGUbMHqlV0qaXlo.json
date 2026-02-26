@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Яростный натиск",
+  "name": "Яростный Натиск",
   "type": "talent",
   "_id": "1mGUbMHqlV0qaXlo",
   "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You’ve learned to press every advantage and hammer into enemies. Each time you move 20 feet in a straight line toward a creature and hit it with a melee weapon attack or an unarmed strike before the start of your next turn, the attack gains your choice of two of the following benefits:</p><ul><li><p>The attack deals additional damage of your weapon’s damage type equal to your PB.</p></li><li><p>If the target is one size larger than you or smaller, it is pushed 10 feet directly away from you.</p></li><li><p>The target must succeed on a STR save or be knocked prone. The save DC equals 8 + your PB + your STR modifier.</p></li><li><p>If the target is Huge or smaller, you swap places with it.</p></li></ul><p>To gain any of these benefits, you must be wielding a melee weapon with which you are proficient that doesn't have the Light property.</p>",
+      "value": "<p>Вы научились использовать любое преимущество и врываться во врагов. Каждый раз, когда вы перемещаетесь на 20 футов по прямой линии к существу и попадаете по нему атакой рукопашным оружием или безоружным ударом, атака получает два из следующих преимуществ по вашему выбору:</p><ul><li><p>Атака наносит дополнительный урон типа урона вашего оружия, равный вашему БМ.</p></li><li><p>Если цель на один размер больше вас или меньше, она отталкивается на 10 футов прямо от вас.</p></li><li><p>Цель должна преуспеть в спасброске СИЛ или быть сбита с ног. СЛ спасброска равна 8 + ваш БМ + ваш модификатор СИЛ.</p></li><li><p>Если цель Огромного или меньшего размера, вы меняетесь с ней местами.</p></li></ul><p>Чтобы получить любое из этих преимуществ, вы должны владеть рукопашным оружием, которым вы владеете, и которое не имеет свойства &quot;Легкое&quot;.</p>",
       "source": {}
     },
     "restriction": {

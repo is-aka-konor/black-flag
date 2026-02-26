@@ -1,6 +1,6 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Тайный",
+  "name": "Скрытный",
   "type": "talent",
   "_id": "j9tVyE1I44NJxqUR",
   "img": "icons/equipment/head/hood-red.webp",
@@ -22,7 +22,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{\"type\": \"note\", \"filter\": [{\"o\": \"OR\", \"v\": [{\"o\": \"AND\", \"v\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"v\": \"perception\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}]}, {\"k\": \"type\", \"v\": \"attack\"}]}], \"note\": {\"rollMode\": 0, \"text\": \"You don’t have disadvantage on attack rolls and WIS (Perception) checks against targets in dim light.\"}}"
+              "value": "{\"type\": \"note\", \"filter\": [{\"o\": \"OR\", \"v\": [{\"o\": \"AND\", \"v\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"v\": \"perception\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}]}, {\"k\": \"type\", \"v\": \"attack\"}]}], \"note\": {\"rollMode\": 0, \"text\": \"Вы не совершаете с помехой броски атаки и проверки МДР (Восприятие) по целям в тусклом свете.\"}}"
             }
           ]
         },
@@ -31,13 +31,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Covert",
+        "title": "Скрытный",
         "icon": "",
-        "hint": "You don’t have disadvantage on attack rolls and WIS (Perception) checks against targets in dim light."
+        "hint": "Вы не совершаете с помехой броски атаки и проверки МДР (Восприятие) по целям в тусклом свете."
       }
     },
     "description": {
-      "value": "<p>You trained in the art of espionage. You gain these benefits:</p><ul><li><p>You can attempt to hide while in three-quarters cover or while lightly obscured.</p></li><li><p>Creatures that rely on darkvision can’t see you while you remain motionless in dim light or darkness. This effect ends if you move, take an action or bonus action, or use a reaction while in the creature’s line of sight.</p></li><li><p>You don’t have disadvantage on WIS (Perception) checks that rely on sight when perceiving in dim light.</p></li><li><p>If you make a ranged attack against a creature or if a creature spots you while you are hidden, you can use your reaction to make a DEX (Stealth) check at disadvantage opposed by the creature’s Perception. On a success, you remain hidden and the creature is unaware of your position. Once used on a creature, the target can’t be affected by this feature again for 24 hours.</p></li></ul>",
+      "value": "<p><strong>Требование:</strong> Владение навыком Скрытность, ЛОВ 13 или выше</p><p>Вы обучались искусству шпионажа. Вы получаете следующие преимущества:</p><ul><li><p>Вы можете пытаться спрятаться, находясь за укрытием три четверти или будучи слегка заслоненным.</p></li><li><p>Существа, полагающиеся на темное зрение, не могут видеть вас, пока вы остаетесь неподвижным в тусклом свете или темноте. Этот эффект заканчивается, если вы двигаетесь, совершаете действие или бонусное действие, или используете реакцию, находясь в поле зрения существа.</p></li><li><p>Вы не совершаете с помехой броски атаки и проверки МДР (Восприятие) по целям в тусклом свете.</p></li><li><p>Если вы совершаете дальнобойную атаку по существу или если существо замечает вас, пока вы скрыты, вы можете использовать свою реакцию, чтобы совершить проверку ЛОВ (Скрытность) с помехой, оспоренную Восприятием существа. При успехе вы остаетесь скрытым, и существо не знает о вашем положении. После использования на существе, цель не может быть подвержена этому умению снова в течение 24 часов.</p></li></ul>",
       "source": {}
     },
     "restriction": {

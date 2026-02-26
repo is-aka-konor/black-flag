@@ -1,6 +1,6 @@
 {
   "folder": "YYaq9ncFiszqsnUk",
-  "name": "Устойчивость гномов",
+  "name": "Дворфийская Стойкость",
   "type": "feature",
   "_id": "Ki3mxDpMO2TGLL24",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -28,13 +28,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Poison Resistance",
+        "title": "Дворфийская Стойкость",
         "icon": "",
-        "hint": "You have advantage on saves against becoming poisoned, and you are resistant to poison damage."
+        "hint": "Вы совершаете с преимуществом спасброски от отравления, и у вас есть сопротивление урону ядом."
       }
     },
     "description": {
-      "value": "<p>You have advantage on saves against becoming poisoned, and you are resistant to poison damage.</p>",
+      "value": "<p>Вы совершаете с преимуществом спасброски от отравления, и у вас есть сопротивление урону ядом.</p>",
       "source": {}
     },
     "identifier": {

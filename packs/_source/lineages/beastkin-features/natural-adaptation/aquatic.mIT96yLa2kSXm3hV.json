@@ -1,11 +1,11 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "Водный",
+  "name": "Водные",
   "type": "feature",
   "img": "icons/creatures/fish/fish-marlin-swordfight-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Oily fur, scales, fins, webbed hands and feet, or long, gangly limbs are common for your people. You have a swimming speed equal to your walking speed. You can hold your breath for up to 20 minutes.</p>",
+      "value": "<p>Маслянистый мех, чешуя, плавники, перепончатые лапы или длинные, нескладные конечности обычны для вашего народа. У вас есть скорость плавания, равная вашей скорости ходьбы. Вы можете задерживать дыхание до 20 минут.</p>",
       "source": "Player's Guide"
     },
     "identifier": {
@@ -22,7 +22,7 @@
       "KVYjHbFL3Ju1U5YA": {
         "type": "property",
         "_id": "KVYjHbFL3Ju1U5YA",
-        "title": "Swim Speed",
+        "title": "Скорость Плавания",
         "icon": "systems/black-flag-ru/artwork/advancement/speed.svg",
         "level": {
           "value": 0,
@@ -38,7 +38,7 @@
           ]
         },
         "flags": {},
-        "hint": "You have a swimming speed equal to your walking speed."
+        "hint": "У вас есть скорость плавания, равная вашей скорости ходьбы."
       }
     },
     "restriction": {

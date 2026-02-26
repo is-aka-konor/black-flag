@@ -77,7 +77,10 @@ export default class PhysicalTemplate extends foundry.abstract.DataModel {
 	 */
 	get attuned() {
 		if ( !this.attunable || (this.parent.actor?.type !== "pc") ) return false;
-		return this.parent.getFlag("black-flag", "relationship.attuned") === true;
+		return (
+			this.parent.getFlag(game.system.id, "relationship.attuned") ??
+			foundry.utils.getProperty(this.parent, "flags.black-flag.relationship.attuned")
+		) === true;
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */

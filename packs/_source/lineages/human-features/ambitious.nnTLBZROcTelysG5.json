@@ -1,6 +1,6 @@
 {
   "folder": "xfQOLwigaKRBgfTk",
-  "name": "Амбициозный",
+  "name": "Амбициозность",
   "type": "feature",
   "_id": "nnTLBZROcTelysG5",
   "img": "icons/environment/people/cavalry.webp",
@@ -28,7 +28,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Ambitious (skill)",
+        "title": "Амбициозность (навык)",
         "icon": "",
         "selectedIndex": "0",
         "selectedTrait": "skills"
@@ -52,12 +52,12 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Ambitious (talent)",
+        "title": "Амбициозность (талант)",
         "icon": ""
       }
     },
     "description": {
-      "value": "<p>You gain proficiency in one skill of your choice, and you gain one talent of your choice. This talent can be from any of the talent lists, but you must meet the talent’s prerequisites if any are required.</p>",
+      "value": "<p>Вы получаете владение одним навыком по вашему выбору и один талант по вашему выбору. Этот талант может быть из любого списка талантов, но вы должны соответствовать требованиям таланта, если таковые имеются.</p>",
       "source": {}
     },
     "identifier": {

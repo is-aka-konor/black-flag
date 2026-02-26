@@ -3,6 +3,12 @@ import AdvancementTemplate from "./templates/advancement-template.mjs";
 import ConceptTemplate from "./templates/concept-template.mjs";
 import DescriptionTemplate from "./templates/description-template.mjs";
 
+const BACKGROUND_ADVANCEMENT_TITLE_KEYS = {
+	"Skill Proficiencies": "BF.Advancement.DefaultTitle.Background.SkillProficiencies",
+	"Additional Proficiencies": "BF.Advancement.DefaultTitle.Background.AdditionalProficiencies",
+	Talent: "BF.Advancement.DefaultTitle.Background.Talent"
+};
+
 /**
  * Data definition for Background items.
  * @mixes {AdvancementTemplate}
@@ -50,6 +56,12 @@ export default class BackgroundData extends ItemDataModel.mixin(
 	static migrateData(source) {
 		super.migrateData(source);
 		this._migrateSource(source);
+		const advancement = source.system?.advancement;
+		if (!advancement || typeof advancement !== "object") return;
+		for (const entry of Object.values(advancement)) {
+			if (!entry || typeof entry !== "object" || typeof entry.title !== "string") continue;
+			entry.title = BACKGROUND_ADVANCEMENT_TITLE_KEYS[entry.title] ?? entry.title;
+		}
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */
@@ -69,16 +81,20 @@ export default class BackgroundData extends ItemDataModel.mixin(
 	/** @inheritDoc */
 	async _preCreate(data, options, user) {
 		if ((await super._preCreate(data, options, user)) === false) return false;
-		if (data._id || foundry.utils.hasProperty(data, "system.advancement")) return;
-		this._createInitialAdvancement([
-			{ type: "trait", title: "Skill Proficiencies", configuration: { choices: [{ count: 2, pool: "skills:*" }] } },
-			{ type: "trait", title: "Additional Proficiencies" },
-			{
-				type: "chooseFeatures",
-				title: "Talent",
-				configuration: {
-					choices: { 0: 1 },
-					allowDrops: false,
+			if (data._id || foundry.utils.hasProperty(data, "system.advancement")) return;
+			this._createInitialAdvancement([
+				{
+					type: "trait",
+					title: "BF.Advancement.DefaultTitle.Background.SkillProficiencies",
+					configuration: { choices: [{ count: 2, pool: "skills:*" }] }
+				},
+				{ type: "trait", title: "BF.Advancement.DefaultTitle.Background.AdditionalProficiencies" },
+				{
+					type: "chooseFeatures",
+					title: "BF.Advancement.DefaultTitle.Background.Talent",
+					configuration: {
+						choices: { 0: 1 },
+						allowDrops: false,
 					type: "talent"
 				}
 			}

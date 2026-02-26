@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Космополитен",
+  "name": "Космополитическое Наследие",
   "type": "heritage",
   "img": "icons/environment/settlement/castle.webp",
   "system": {
@@ -8,9 +8,9 @@
       "sqKfqiFDAuLNgnQ3": {
         "type": "trait",
         "_id": "sqKfqiFDAuLNgnQ3",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and three additional languages of your choice. Typical cosmopolitan heritage characters choose Dwarvish and Elvish.",
+        "hint": "Вы знаете Общий и три дополнительных языка по вашему выбору. Типичные персонажи космополитического наследия выбирают Дворфийский и Эльфийский.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.BlvWLpQaiW5RrUhi inline]{Street Smarts}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.ytqmqGeJ0twlpqIY inline]{Worldly Wisdom}</p><p>@Embed[.Advancement.sqKfqiFDAuLNgnQ3 inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.BlvWLpQaiW5RrUhi inline]{Уличная Смекалка}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.ytqmqGeJ0twlpqIY inline]{Мирская Мудрость}</p><p>@Embed[.Advancement.sqKfqiFDAuLNgnQ3 inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

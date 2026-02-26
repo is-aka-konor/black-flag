@@ -1,5 +1,5 @@
 {
-  "name": "Домашний комфорт",
+  "name": "Домашний Уют",
   "type": "feature",
   "_id": "VvebtMb01hurrL2J",
   "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>As part of a long rest, you can cook a meal, tell stories, or perform some other activity that comforts your allies. Choose a number of creatures who participated in the long rest equal to your PB (this can include you). Those creatures gain temporary HP equal to twice your PB. These temporary HP last until expended or until you complete your next long rest.</p>",
+      "value": "<p>В рамках продолжительного отдыха вы можете приготовить еду, рассказать истории или выполнить какое-либо другое действие, которое утешает ваших союзников. Выберите количество существ, участвовавших в продолжительном отдыхе, равное вашему БМ (это можете быть и вы). Эти существа получают временные ХП, равные удвоенному вашему БМ. Эти временные ХП действуют до тех пор, пока не будут израсходованы или пока вы не завершите свой следующий продолжительный отдых.</p>",
       "source": {}
     },
     "restriction": {

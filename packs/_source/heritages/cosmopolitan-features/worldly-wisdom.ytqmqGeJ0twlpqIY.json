@@ -1,6 +1,6 @@
 {
   "folder": "e91hi69xS6kSy9IQ",
-  "name": "Мирская мудрость",
+  "name": "Мирская Мудрость",
   "type": "feature",
   "_id": "ytqmqGeJ0twlpqIY",
   "img": "icons/environment/settlement/palast.webp",
@@ -22,7 +22,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Worldly Wisdom",
+        "title": "Мирская Мудрость",
         "icon": "",
         "hint": "",
         "selectedIndex": "-1",
@@ -30,7 +30,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency with the History skill. When you make a check related to understanding the purpose or significance of a building, rite, or object from a culture you aren’t familiar with, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.</p>",
+      "value": "<p>Вы владеете навыком История. Когда вы совершаете проверку, связанную с пониманием назначения или значения здания, обряда или объекта из незнакомой вам культуры, вы можете добавить свой БМ к броску. Если вы владеете соответствующим навыком или инструментом, удвойте свой БМ для броска.</p>",
       "source": {}
     },
     "identifier": {

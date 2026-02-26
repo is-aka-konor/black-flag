@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>Your focus on magical studies yielded incredible results, granting these benefits:</p><ul><li><p>Double your PB for any ability check you make that uses the Arcana skill.</p></li><li><p>You can replace one cantrip or spell that you know (not a spell in a spellbook) with a different cantrip or spell of the same circle from your Spellcasting feature’s source list. The spell must be of a circle you can cast.</p></li><li><p>You learn one additional cantrip from your Spellcasting feature’s source list.</p></li></ul>",
+      "value": "<p><strong>Требование:</strong> Классовое Умение &quot;Использование Заклинаний&quot;</p><p>Ваша сосредоточенность на магических исследованиях принесла невероятные результаты, даруя следующие преимущества:</p><ul><li><p>Удвойте ваш БМ для любой проверки характеристики, которую вы совершаете, используя навык Магия.</p></li><li><p>Вы можете заменить один известный вам заговор или заклинание (не заклинание в книге заклинаний) другим заговором или заклинанием того же круга из списка источника вашего Умения &quot;Использование Заклинаний&quot;. Заклинание должно быть круга, который вы можете сотворять.</p></li><li><p>Вы изучаете один дополнительный заговор из списка источника вашего Умения &quot;Использование Заклинаний&quot;.</p></li></ul>",
       "source": {}
     },
     "restriction": {

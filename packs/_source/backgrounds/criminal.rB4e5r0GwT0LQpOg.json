@@ -1,5 +1,5 @@
 {
-  "name": "Уголовный",
+  "name": "Преступник",
   "type": "background",
   "_id": "rB4e5r0GwT0LQpOg",
   "img": "icons/commodities/currency/coin-inset-skull-copper.webp",
@@ -7,7 +7,7 @@
     "advancement": {
       "S0mJoNomg3fwsPh9": {
         "type": "trait",
-        "title": "Skill Proficiencies",
+        "title": "Владение Навыками",
         "configuration": {
           "choices": [
             {
@@ -30,13 +30,13 @@
         },
         "flags": {},
         "icon": "",
-        "hint": "Choose two from Stealth, Investigation, Insight, or Deception.",
+        "hint": "Выберите два из: Скрытность, Расследование, Проницательность или Обман.",
         "selectedIndex": "0",
         "selectedTrait": "skills"
       },
       "uhDnJGd03n5tf8QI": {
         "type": "trait",
-        "title": "Additional Proficiencies",
+        "title": "Дополнительные Владения",
         "_id": "uhDnJGd03n5tf8QI",
         "configuration": {
           "mode": "default",
@@ -70,13 +70,13 @@
         },
         "flags": {},
         "icon": "",
-        "hint": "You know Thieves’ Cant. If you already know this language, you learn a different language of your choice. Gain proficiency with a tool and a vehicle.",
+        "hint": "Вы знаете Воровской Жаргон. Если вы уже знаете этот язык, вы изучаете другой язык по вашему выбору. Получите владение одним инструментом и одним транспортным средством.",
         "selectedIndex": "1",
         "selectedTrait": "tools"
       },
       "f5eehJFY4H9AkMBJ": {
         "type": "chooseFeatures",
-        "title": "Talent",
+        "title": "Талант",
         "configuration": {
           "choices": {
             "0": 1
@@ -102,7 +102,7 @@
         "level": {},
         "flags": {},
         "icon": "",
-        "hint": "You have eked out a living on the fringes of lawful society. Choose a talent from this list to represent your experience: Covert, Scrutinous, or Touch of Luck."
+        "hint": "Вы сводили концы с концами на задворках законопослушного общества. Выберите талант из этого списка, чтобы отразить ваш опыт: Скрытный, Дотошный или Касание Удачи."
       },
       "DeHsdenX3W8whQNx": {
         "type": "equipment",
@@ -179,11 +179,11 @@
         "icon": null,
         "flags": {},
         "title": "",
-        "hint": "Five pieces of chalk, a grappling hook, a set of dark traveler’s clothes or a costume, and a pouch containing 10 gp."
+        "hint": "Пять кусков мела, крюк-кошка, комплект темной одежды путешественника или костюм, и мешочек с 10 зм."
       }
     },
     "description": {
-      "value": "<p>@Embed[.Advancement.S0mJoNomg3fwsPh9 inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.uhDnJGd03n5tf8QI inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.DeHsdenX3W8whQNx inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.f5eehJFY4H9AkMBJ inline list=false]</p>",
+      "value": "<p>@Embed[.Advancement.S0mJoNomg3fwsPh9 inline]{Владение Навыками}</p><p>@Embed[.Advancement.uhDnJGd03n5tf8QI inline]{Дополнительные Владения}</p><p>@Embed[.Advancement.DeHsdenX3W8whQNx inline]{Снаряжение}</p><h5>Талант</h5><p>@Embed[.Advancement.f5eehJFY4H9AkMBJ inline list=false]</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"

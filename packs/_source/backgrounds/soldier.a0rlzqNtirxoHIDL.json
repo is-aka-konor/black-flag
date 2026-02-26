@@ -25,7 +25,7 @@
           "choiceMode": "inclusive",
           "hint": ""
         },
-        "title": "Skill Proficiencies",
+        "title": "Владение Навыками",
         "icon": "",
         "level": {
           "value": 0
@@ -33,7 +33,7 @@
         "flags": {},
         "selectedIndex": "0",
         "selectedTrait": "skills",
-        "hint": "Choose two from Animal Handling, Athletics, Medicine, or Survival."
+        "hint": "Выберите два из: Уход за животными, Атлетика, Медицина или Выживание."
       },
       "q8kgh3KDjxCpXcH5": {
         "type": "trait",
@@ -58,7 +58,7 @@
           "choiceMode": "inclusive",
           "hint": ""
         },
-        "title": "Additional Proficiencies",
+        "title": "Дополнительные Владения",
         "icon": "",
         "level": {
           "value": 0
@@ -66,14 +66,14 @@
         "flags": {},
         "selectedIndex": "0",
         "selectedTrait": "tools",
-        "hint": "Gain proficiency with a tool and a vehicle of your choice."
+        "hint": "Получите владение одним инструментом и одним транспортным средством по вашему выбору."
       },
       "zyeIe2LttZsNCm3U": {
         "type": "chooseFeatures",
         "_id": "zyeIe2LttZsNCm3U",
-        "title": "Talent",
+        "title": "Талант",
         "icon": null,
-        "hint": "As a soldier, you have received special training or honed natural capabilities that kept you safe during your service. Choose a talent from the following list to represent this experience.",
+        "hint": "Вы прошли специальную подготовку или отточили природные способности, которые обеспечивали вам безопасность во время службы. Выберите талант из этого списка, чтобы отразить ваш опыт: Боевое Колдовство, Боевая Подготовка или Полевой Медик.",
         "configuration": {
           "restriction": {
             "category": ""
@@ -182,13 +182,13 @@
         "icon": null,
         "flags": {},
         "title": "",
-        "hint": "A symbol of rank (like a letter, badge, or identification tags), a mess kit, a pack of playing cards or a set of dice, a set of common clothes, and a pouch containing 10 gp."
+        "hint": "Знак отличия (например, письмо, значок или жетоны идентификации), походный котелок, колода игральных карт или набор костей, комплект обычной одежды и мешочек с 10 зм."
       }
     },
     "description": {
       "short": "",
       "source": "Player's Guide",
-      "value": "<p>@Embed[.Advancement.LU90CIyYZNPt2LMv inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.q8kgh3KDjxCpXcH5 inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.zDKJ2aoVzMQ2mlu1 inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.zyeIe2LttZsNCm3U inline list=false]</p>",
+      "value": "<p>@Embed[.Advancement.LU90CIyYZNPt2LMv inline]{Владение Навыками}</p><p>@Embed[.Advancement.q8kgh3KDjxCpXcH5 inline]{Дополнительные Владения}</p><p>@Embed[.Advancement.zDKJ2aoVzMQ2mlu1 inline]{Снаряжение}</p><h5>Талант</h5><p>@Embed[.Advancement.zyeIe2LttZsNCm3U inline list=false]</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
     },
     "identifier": {

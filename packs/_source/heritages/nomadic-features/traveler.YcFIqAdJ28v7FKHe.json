@@ -15,7 +15,7 @@
     "advancement": {
       "aCqZKs6Joj10QYBp": {
         "type": "trait",
-        "title": "Traveler",
+        "title": "Путешественник",
         "icon": "",
         "level": {
           "value": 0,
@@ -37,7 +37,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency in the Survival skill.</p>",
+      "value": "<p>Вы владеете навыком Выживание.</p>",
       "source": {}
     },
     "restriction": {

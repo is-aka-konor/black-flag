@@ -1,5 +1,5 @@
 {
-  "name": "Спешить",
+  "name": "Пронырливость",
   "type": "feature",
   "_id": "btBU5OGY6mEbmuhd",
   "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
@@ -47,7 +47,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Спешить",
+        "name": "Пронырливость",
         "img": ""
       }
     },
@@ -60,7 +60,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>As a bonus action, you can move up to 10 feet without provoking opportunity attacks. This movement doesn't trigger traps or hazards that you are aware of, even if they are armed.</p>",
+      "value": "<p>Бонусным действием вы можете переместиться на расстояние до 10 футов, не провоцируя атаки по возможности. Это движение не активирует ловушки или опасности, о которых вы знаете, даже если они взведены.</p>",
       "source": {}
     },
     "restriction": {

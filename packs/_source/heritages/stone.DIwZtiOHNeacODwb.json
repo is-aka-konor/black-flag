@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Камень",
+  "name": "Каменное Наследие",
   "type": "heritage",
   "img": "icons/commodities/stone/masonry-block-cube-pink-white.webp",
   "system": {
@@ -8,9 +8,9 @@
       "xXPTXP1d51PbAzyc": {
         "type": "trait",
         "_id": "xXPTXP1d51PbAzyc",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Typical stone heritage characters choose Dwarvish.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Типичные персонажи каменного наследия выбирают Дворфийский.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.ae45yXHxqribkGWz inline]{Ancestral Arts}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.XOetZrMvNqZpHNqk inline]{Eye for Quality}</p><p>@Embed[.Advancement.xXPTXP1d51PbAzyc inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.ae45yXHxqribkGWz inline]{Искусства Предков}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.XOetZrMvNqZpHNqk inline]{Глаз на Качество}</p><p>@Embed[.Advancement.xXPTXP1d51PbAzyc inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

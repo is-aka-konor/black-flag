@@ -7,7 +7,7 @@
   "system": {
     "advancement": {},
     "description": {
-      "value": "<p>Elves don’t need to sleep. Instead, they enter a meditative trance state, remaining semiconscious for 4 hours a day. You choose whether or not you can dream while meditating. After resting in this way, you gain the same benefit that other creatures do from 8 hours of sleep.</p>",
+      "value": "<p>Эльфам не нужно спать. Вместо этого они входят в медитативное состояние транса, оставаясь в полусознании 4 часа в день. Вы выбираете, можете ли вы видеть сны во время медитации. Отдохнув таким образом, вы получаете то же преимущество, что и другие существа от 8 часов сна.</p>",
       "source": {}
     },
     "identifier": {

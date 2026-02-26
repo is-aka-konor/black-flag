@@ -1,6 +1,6 @@
 {
   "folder": "3eZ0VyWgSY0EL5YF",
-  "name": "Магическое происхождение",
+  "name": "Магическое Происхождение",
   "type": "feature",
   "_id": "vbtLke61QI5NPFLO",
   "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
@@ -23,13 +23,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Charm Resistance",
+        "title": "Сопротивление Очарованию",
         "icon": "",
         "hint": ""
       }
     },
     "description": {
-      "value": "<p>You have advantage on saves against being charmed.</p>",
+      "value": "<p>Вы совершаете с преимуществом спасброски от очарования, и магия не может усыпить вас.</p>",
       "source": {}
     },
     "identifier": {

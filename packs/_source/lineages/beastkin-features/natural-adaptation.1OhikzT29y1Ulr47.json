@@ -1,11 +1,11 @@
 {
   "folder": "qn9aEdgelNiRQN8Y",
-  "name": "Естественная адаптация",
+  "name": "Естественная Адаптация",
   "type": "feature",
   "img": "icons/creatures/eyes/human-single-brown.webp",
   "system": {
     "description": {
-      "value": "<p>You inherit one of the following traits determined by what kind of animal characteristics you want your character to have:</p><p>@Embed[.Advancement.OvwPv4fjHZaHlH7A inline style=list]</p>",
+      "value": "<p>Вы наследуете одну из следующих черт, определяемую тем, какие животные характеристики вы хотите придать своему персонажу:</p><p>@Embed[.Advancement.OvwPv4fjHZaHlH7A inline style=list]</p>",
       "source": "Player's Guide"
     },
     "identifier": {
@@ -22,9 +22,9 @@
       "OvwPv4fjHZaHlH7A": {
         "type": "chooseFeatures",
         "_id": "OvwPv4fjHZaHlH7A",
-        "title": "Natural Adaptation",
+        "title": "Естественная Адаптация",
         "icon": "",
-        "hint": "You inherit one of the following traits determined by what kind of animal characteristics you want your character to have:",
+        "hint": "Вы наследуете одну из следующих черт, определяемую тем, какие животные характеристики вы хотите придать своему персонажу:",
         "configuration": {
           "choices": {
             "0": 1

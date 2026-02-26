@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Оружейная дисциплина",
+  "name": "Дисциплина Оружия",
   "type": "talent",
   "_id": "aA9AuRbGP12XWQyf",
   "img": "icons/weapons/swords/sword-gold-holy.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You seek perfection with a single weapon. Choose a simple or martial weapon (such as spear, heavy crossbow, or greataxe) you are proficient with. While wielding that weapon, you gain these benefits:</p><ul><li><p>You gain a +1 bonus to attack and damage rolls made with your chosen weapon.</p></li><li><p>When you score a critical hit with your chosen weapon, you can roll one additional weapon damage die for damage.</p></li><li><p>When you reduce a creature to 0 HP with your chosen weapon, you gain temporary hit points equal to your PB. These temporary hit points last for 1 minute or until expended.</p></li></ul><p>You can select this talent multiple times, selecting a different weapon each time.</p>",
+      "value": "<p><strong>Требование:</strong> Владение хотя бы одним Воинским Оружием</p><p>Вы стремитесь к совершенству с одним оружием. Выберите простое или воинское оружие (например, копье, тяжелый арбалет или секиру), которым вы владеете. При владении этим оружием вы получаете следующие преимущества:</p><ul><li><p>Вы получаете бонус +1 к броскам атаки и урона, совершенным вашим выбранным оружием.</p></li><li><p>Когда вы совершаете критическое попадание вашим выбранным оружием, вы можете бросить одну дополнительную кость урона оружия для урона.</p></li><li><p>Когда вы доводите существо до 0 ХП вашим выбранным оружием, вы получаете временные хиты, равные вашему БМ. Эти временные хиты длятся 1 минуту или пока не будут израсходованы.</p></li></ul><p>Вы можете выбирать этот талант несколько раз, выбирая каждый раз другое оружие.</p>",
       "source": {}
     },
     "restriction": {

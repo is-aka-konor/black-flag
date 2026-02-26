@@ -311,6 +311,16 @@
 				"CantBeAdded": "This advancement cannot be added to this item."
 			}
 		},
+		"DefaultTitle": {
+			"Background": {
+				"SkillProficiencies": "Skill Proficiencies",
+				"AdditionalProficiencies": "Additional Proficiencies",
+				"Talent": "Talent"
+			},
+			"Heritage": {
+				"Languages": "Languages"
+			}
+		},
 		"ChooseFeatures": {
 			"Action": {
 				"Choose": "Make Choice",
@@ -2410,7 +2420,13 @@
 	},
 	"BF.Language": {
 		"Label[one]": "Language",
+		"Label[few]": "Languages",
+		"Label[many]": "Languages",
 		"Label[other]": "Languages",
+		"label[one]": "Language",
+		"label[few]": "Languages",
+		"label[many]": "Languages",
+		"label[other]": "Languages",
 		"Action": {
 			"Configure": "Configure Languages"
 		},
@@ -3374,7 +3390,13 @@
 	},
 	"BF.Skill": {
 		"Label[one]": "Skill",
+		"Label[few]": "Skills",
+		"Label[many]": "Skills",
 		"Label[other]": "Skills",
+		"label[one]": "Skill",
+		"label[few]": "Skills",
+		"label[many]": "Skills",
+		"label[other]": "Skills",
 		"Action": {
 			"CheckGeneric": "Skill Check",
 			"CheckSpecific": "{skill} Check"
@@ -4152,7 +4174,13 @@
 	},
 	"BF.Tool": {
 		"Label[one]": "Tool",
+		"Label[few]": "Tools",
+		"Label[many]": "Tools",
 		"Label[other]": "Tools",
+		"label[one]": "Tool",
+		"label[few]": "Tools",
+		"label[many]": "Tools",
+		"label[other]": "Tools",
 		"Action": {
 			"CheckGeneric": "Tool Check",
 			"CheckSpecific": "{tool} Check"
@@ -4189,7 +4217,13 @@
 	},
 	"BF.Trait": {
 		"Label[one]": "Trait",
+		"Label[few]": "Traits",
+		"Label[many]": "Traits",
 		"Label[other]": "Traits",
+		"label[one]": "Trait",
+		"label[few]": "Traits",
+		"label[many]": "Traits",
+		"label[other]": "Traits",
 		"All": "All {category}",
 		"Type": "Type"
 	},

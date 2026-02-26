@@ -1,11 +1,11 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "Гибкий",
+  "name": "Ловкие",
   "type": "feature",
   "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Sharp claws, cloven hooves, robust limbs, reversed joints, or suction pads on your hands and feet allow you to scrabble up trees, rock faces, and uneven surfaces with ease. You have a climb speed equal to your walking speed. In addition, you have advantage on saves made to avoid being knocked prone.</p>",
+      "value": "<p>Острые когти, раздвоенные копыта, крепкие конечности, обратные суставы или присоски на руках и ногах позволяют вам с легкостью карабкаться по деревьям, скалам и неровным поверхностям. У вас есть скорость лазания, равная вашей скорости ходьбы. Кроме того, вы совершаете с преимуществом спасброски, чтобы избежать сбивания с ног.</p>",
       "source": "Player's Guide"
     },
     "identifier": {
@@ -22,7 +22,7 @@
       "Bkdq9c0xXd8EvFAG": {
         "type": "property",
         "_id": "Bkdq9c0xXd8EvFAG",
-        "title": "Climb Speed",
+        "title": "Скорость Лазания",
         "icon": "systems/black-flag-ru/artwork/advancement/speed.svg",
         "level": {
           "value": 0,
@@ -38,7 +38,7 @@
           ]
         },
         "flags": {},
-        "hint": "You have a climbing speed equal to your walking speed."
+        "hint": "У вас есть скорость лазания, равная вашей скорости ходьбы."
       }
     },
     "restriction": {

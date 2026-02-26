@@ -1,11 +1,11 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Специализация школы",
+  "name": "Специализация Школы",
   "type": "talent",
   "img": "icons/sundries/books/book-open-turquoise.webp",
   "system": {
     "description": {
-      "value": "<p>Choose one of the eight schools of magic: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, or transmutation. You gain these benefits:</p><ul><li><p>When you cast spells of your chosen school, your spell attack bonus and spell save DC are both increased by 1.</p></li><li><p>If you use a spellbook to cast your spells, the gold and time you must spend copying a spell of that school into your spellbook is halved.</p></li><li><p>When you spend two or more sorcery points while casting a spell of that school, you regain 1 sorcery point at the end of your turn.</p></li></ul><p>You can select this talent multiple times, selecting a different school of magic each time.</p>",
+      "value": "<p>Выберите одну из восьми школ магии: ограждение, вызов, прорицание, очарование, воплощение, иллюзия, некромантия или преобразование. Вы получаете следующие преимущества:</p><ul><li><p>Когда вы сотворяете заклинания выбранной вами школы, ваш бонус атаки заклинанием и СЛ спасброска от заклинания увеличиваются на 1.</p></li><li><p>Если вы используете книгу заклинаний для сотворения заклинаний, золото и время, которые вы должны потратить на копирование заклинания этой школы в вашу книгу заклинаний, уменьшаются вдвое.</p></li><li><p>Когда вы тратите два или более очков колдовства при сотворении заклинания этой школы, вы восстанавливаете 1 очко колдовства в конце вашего хода.</p></li></ul><p>Вы можете выбирать этот талант несколько раз, выбирая каждый раз другую школу магии.</p>",
       "source": {}
     },
     "identifier": {},

@@ -254,7 +254,8 @@ export function mixedChoices(keys) {
 export function traitLabel(trait, count) {
 	const traitConfig = CONFIG.BlackFlag.traits[trait];
 	const pluralRule = ( count !== undefined ) ? new Intl.PluralRules(game.i18n.lang).select(count) : "other";
-	if ( !traitConfig ) return game.i18n.localize(`BF.Trait.Label[${pluralRule}]`);
+	// Fallback for mixed/unknown trait pools in proficiency advancements.
+	if ( !traitConfig ) return game.i18n.localize(`BF.Proficiency.Label[${pluralRule}]`);
 	return game.i18n.localize(`${traitConfig.labels.localization}[${pluralRule}]`);
 }
 

@@ -1,6 +1,6 @@
 {
   "folder": "qUy7xht1Nq9PukdU",
-  "name": "Кэнопи Уокер",
+  "name": "Ходок по Кронам",
   "type": "feature",
   "_id": "dY7HGWQ3eTZwCoJW",
   "img": "icons/commodities/flowers/lily-white.webp",
@@ -23,13 +23,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Canopy Walker",
+        "title": "Ходок по Кронам",
         "icon": "",
-        "hint": "You have a climbing speed equal to your walking speed."
+        "hint": "У вас есть скорость лазания, равная вашей скорости ходьбы."
       }
     },
     "description": {
-      "value": "<p>You have a climbing speed equal to your walking speed.</p>",
+      "value": "<p>У вас есть скорость лазания, равная вашей скорости ходьбы.</p>",
       "source": {}
     },
     "identifier": {

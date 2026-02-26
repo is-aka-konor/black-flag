@@ -1,6 +1,6 @@
 {
   "folder": "jQByUdmuA0zX6Sve",
-  "name": "Психолог: Телекинез",
+  "name": "Псиканист: Телекинез",
   "type": "feature",
   "_id": "DXDjN5b5OTE432Fo",
   "img": "icons/magic/earth/projectile-boulder-dust.webp",
@@ -73,7 +73,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>As a bonus action, you can attempt to lift, push, pull, or shove one Medium or smaller creature or object (up to 200 pounds) that you can see within 30 feet of you. A creature that succeeds on a STR save against your spell save DC is unaffected. On a failed save, the creature or object is pulled, pushed, or lifted 5 feet in the direction of your choice.</p>",
+      "value": "<p>Бонусным действием вы можете попытаться поднять, толкнуть, потянуть или оттолкнуть одно существо или предмет Среднего или меньшего размера (до 200 фунтов), которое вы можете видеть в пределах 30 футов от вас. Существо, преуспевшее в спасброске СИЛ против СЛ спасброска от ваших заклинаний, не подвергается воздействию. При провале спасброска существо или предмет тянется, толкается или поднимается на 5 футов в выбранном вами направлении.</p>",
       "source": {}
     },
     "restriction": {

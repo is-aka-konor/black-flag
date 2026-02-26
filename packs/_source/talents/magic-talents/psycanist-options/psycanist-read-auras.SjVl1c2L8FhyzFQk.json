@@ -1,6 +1,6 @@
 {
   "folder": "jQByUdmuA0zX6Sve",
-  "name": "Психолог: прочитать ауры",
+  "name": "Псиканист: Чтение аур",
   "type": "feature",
   "_id": "SjVl1c2L8FhyzFQk",
   "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
@@ -64,7 +64,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>As a bonus action, you can read the aura of a single creature that you can see within 30 feet of you until the end of your next turn. For the duration, the target isn’t invisible or heavily obscured to you. You know its current hit points, its resistances, immunities, and vulnerabilities, and learn the creature’s emotional state, including whether it is hostile or docile.</p>",
+      "value": "<p>Бонусным действием вы можете читать ауру одного существа, которое вы можете видеть в пределах 30 футов от вас, до конца вашего следующего хода. На время действия цель не является невидимой или сильно заслоненной для вас. Вы знаете ее текущие хиты, ее сопротивления, иммунитеты и уязвимости, а также узнаете эмоциональное состояние существа, включая то, враждебно оно или покорно.</p>",
       "source": {}
     },
     "restriction": {

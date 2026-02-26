@@ -1,11 +1,11 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Осведомленный",
+  "name": "Бдительный",
   "type": "talent",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
   "system": {
     "description": {
-      "value": "<p>You have exceptional situational awareness. When you select this talent, you gain these benefits:</p><ul><li><p>When you roll for initiative, treat any d20 roll of 9 or lower as though you rolled a 10.</p></li><li><p>As long as you are conscious, you can’t be affected by the surprised condition.</p></li><li><p>Hidden targets don’t have advantage on attack rolls made against you.</p></li></ul>",
+      "value": "<p>Вы обладаете исключительной ситуационной осведомленностью. Выбирая этот талант, вы получаете следующие преимущества:</p><ul><li><p>Когда вы бросаете инициативу, считайте любой результат броска к20, равный 9 или ниже, как если бы вы выбросили 10.</p></li><li><p>Пока вы в сознании, вы не можете быть подвержены состоянию &quot;застигнут врасплох&quot;.</p></li><li><p>Скрытые цели не имеют преимущества на броски атаки, совершенные против вас.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -30,7 +30,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Aware",
+        "title": "Бдительный",
         "icon": "",
         "hint": ""
       }

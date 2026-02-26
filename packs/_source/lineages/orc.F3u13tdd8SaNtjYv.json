@@ -1,5 +1,5 @@
 {
-  "name": "орк",
+  "name": "Орк",
   "type": "lineage",
   "_id": "F3u13tdd8SaNtjYv",
   "img": "icons/creatures/eyes/lizard-single-slit-green.webp",
@@ -19,7 +19,7 @@
         "flags": {},
         "title": "",
         "icon": "",
-        "hint": "Your size is Medium. Orcs stand between 6 and 8 feet tall and commonly range from 110 to 350 pounds in weight."
+        "hint": "Ваш размер — Средний. Рост орков составляет от 6 до 8 футов, а вес обычно колеблется от 110 до 350 фунтов."
       },
       "mWGVqMzna6zuN8cH": {
         "type": "grantFeatures",
@@ -44,7 +44,7 @@
       }
     },
     "description": {
-      "value": "<p>Your orc character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Orcs reach adulthood within two decades and seldom live longer than 60 years. However, orcs remain in their prime for most of their lives, undergoing few physical changes or signs of aging between adulthood and the end of their natural lifespan.</p><p>@Embed[.Advancement.sngAt3jgHJiYEN21 inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.gq4X2TWJolsO9Ls1 inline]{Orcish Perseverance}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.cVnYCq9cu59IFkuJ inline]{Heightened Senses}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.nZkQuYiKKnLIdy7o inline]{Stalwart}</p>",
+      "value": "<p>Ваш персонаж-орк обладает следующими наследственными чертами.</p><p><em><strong>Возраст.</strong></em> Орки достигают совершеннолетия в течение двух десятилетий и редко живут дольше 60 лет. Однако орки остаются в расцвете сил большую часть своей жизни, претерпевая мало физических изменений или признаков старения между совершеннолетием и концом их естественного срока жизни.</p><p>@Embed[.Advancement.sngAt3jgHJiYEN21 inline]{Размер}</p><p><em><strong>Скорость.</strong></em> Ваша базовая скорость ходьбы составляет 30 футов.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.gq4X2TWJolsO9Ls1 inline]{Орочья Стойкость}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.cVnYCq9cu59IFkuJ inline]{Обостренные Чувства}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.nZkQuYiKKnLIdy7o inline]{Непоколебимость}</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"

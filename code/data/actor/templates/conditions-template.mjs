@@ -42,7 +42,9 @@ export default class ConditionsTemplate extends foundry.abstract.DataModel {
 	 */
 	prepareConditions() {
 		const exhaustion = this.parent.effects.get(BlackFlagActiveEffect.ID.EXHAUSTION);
-		const level = exhaustion?.getFlag("black-flag", "level");
+		const level =
+			exhaustion?.getFlag(game.system.id, "level") ??
+			foundry.utils.getProperty(exhaustion, "flags.black-flag.level");
 		this.attributes.exhaustion = Number.isFinite(level) ? level : 0;
 
 		for ( const status of this.parent.statuses ) {

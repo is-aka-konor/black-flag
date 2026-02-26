@@ -1,13 +1,13 @@
 {
   "folder": "IurQpTavhDQbBepv",
-  "name": "Внимание к качеству",
+  "name": "Глаз на Качество",
   "type": "feature",
   "_id": "XOetZrMvNqZpHNqk",
   "img": "icons/commodities/stone/rock-pile-grey.webp",
   "system": {
     "advancement": {},
     "description": {
-      "value": "<p>When you make an ability check related to the origin or purpose of an object or structure made of metal or stone, you can add your PB to the roll. If you have proficiency in a relevant skill or tool, double your PB for the roll.</p>",
+      "value": "<p>Когда вы совершаете проверку характеристики, связанную с происхождением или назначением объекта или строения из металла или камня, вы можете добавить свой БМ к броску. Если вы владеете соответствующим навыком или инструментом, удвойте свой БМ для броска.</p>",
       "source": {}
     },
     "identifier": {

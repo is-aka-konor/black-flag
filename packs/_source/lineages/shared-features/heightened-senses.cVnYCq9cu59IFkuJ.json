@@ -1,6 +1,6 @@
 {
   "folder": "XYZ88rSWotkOwvzc",
-  "name": "Обостренные чувства",
+  "name": "Обостренные Чувства",
   "type": "feature",
   "_id": "cVnYCq9cu59IFkuJ",
   "img": "icons/magic/perception/eye-slit-orange.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You have advantage on Perception checks that rely on sight or hearing. You can see through lightly obscured areas normally and areas of dim light as if it were bright light.</p>",
+      "value": "<p>Вы совершаете с преимуществом проверки Восприятия, основанные на зрении или слухе. Вы можете нормально видеть сквозь слабо заслоненные области и области тусклого света, как если бы это был яркий свет.</p>",
       "source": {}
     },
     "restriction": {

@@ -1,11 +1,11 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Полевой медик",
+  "name": "Полевой Медик",
   "type": "talent",
   "img": "icons/magic/life/cross-beam-green.webp",
   "system": {
     "description": {
-      "value": "<p>You trained to provide emergency medical assistance. When you select this talent, you gain these benefits:</p><ul><li><p>When you make a WIS (Medicine) check, treat any d20 roll of 9 or lower as though you rolled a 10.</p></li><li><p>As an action, you can tend to the wounds of a creature you can see and touch. When you do, the creature regains a number of hit points equal to your PB + their CON modifier. A creature healed in this way can’t receive the benefits of this feature again until it finishes a short or long rest.</p></li><li><p>When you spend hit dice to regain hit points during a short rest, you can reroll a number of dice equal to your PB and must take the new result.</p></li></ul>",
+      "value": "<p>Вы обучились оказанию неотложной медицинской помощи. Выбирая этот талант, вы получаете следующие преимущества:</p><ul><li><p>Когда вы совершаете проверку МДР (Медицина), считайте любой результат броска к20, равный 9 или ниже, как если бы вы выбросили 10.</p></li><li><p>Действием вы можете обработать раны существа, которое вы можете видеть и коснуться. При этом существо восстанавливает количество хитов, равное вашему БМ + его модификатор ТЕЛ. Существо, исцеленное таким образом, не может снова получить преимущества этого умения, пока не завершит короткий или продолжительный отдых.</p></li><li><p>Когда вы тратите кости хитов для восстановления хитов во время короткого отдыха, вы можете перебросить количество костей, равное вашему БМ, и должны принять новый результат.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -30,9 +30,9 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "",
+        "title": "Полевой Медик",
         "icon": "",
-        "hint": "When you make a WIS (Medicine) check, treat any d20 roll of 9 or lower as though you rolled a 10."
+        "hint": "Когда вы совершаете проверку МДР (Медицина), считайте любой результат броска к20, равный 9 или ниже, как если бы вы выбросили 10."
       }
     },
     "restriction": {

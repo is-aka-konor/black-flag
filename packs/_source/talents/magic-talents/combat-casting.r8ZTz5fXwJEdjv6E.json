@@ -1,11 +1,11 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Боевой кастинг",
+  "name": "Боевое Колдовство",
   "type": "talent",
   "img": "icons/equipment/shield/heater-steel-segmented-purple.webp",
   "system": {
     "description": {
-      "value": "<p>Experience on the battlefield has given you superior focus to cast your spells. You gain these benefits:</p><ul><li><p>When you make a CON save to maintain concentration on a spell, treat any d20 roll of 7 or less as though you rolled an 8.</p></li><li><p>When a creature provokes an opportunity attack from you, you can use your reaction to cast a cantrip instead of making a melee attack.</p></li><li><p>You can use a shield or weapon you wield as a spellcasting focus. As normal, you can use the same hand or hands holding this focus to perform somatic spell components.</p></li></ul>",
+      "value": "<p>Опыт на поле боя дал вам превосходную концентрацию для сотворения заклинаний. Вы получаете следующие преимущества:</p><ul><li><p>Когда вы совершаете спасбросок ТЕЛ для поддержания концентрации на заклинании, считайте любой результат броска к20, равный 7 или ниже, как если бы вы выбросили 8.</p></li><li><p>Когда существо провоцирует атаку по возможности от вас, вы можете использовать свою реакцию, чтобы сотворить заговор вместо совершения рукопашной атаки.</p></li><li><p>Вы можете использовать щит или оружие, которым владеете, в качестве заклинательной фокусировки. Как обычно, вы можете использовать ту же руку или руки, держащие эту фокусировку, для выполнения соматических компонентов заклинания.</p></li></ul>",
       "source": {}
     },
     "identifier": {},

@@ -1,5 +1,5 @@
 {
-  "name": "Вечная решимость",
+  "name": "Вечная Решимость",
   "type": "feature",
   "_id": "Xc7odqrgCmVFSdaq",
   "img": "icons/skills/social/wave-halt-stop.webp",
@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>When you or an allied creature within 5 feet of you makes a save against becoming frightened, you and the ally have advantage on the save.</p>",
+      "value": "<p>Когда вы или союзное существо в пределах 5 футов от вас совершает спасбросок от испуга, вы и союзник совершаете спасбросок с преимуществом.</p>",
       "source": {}
     },
     "restriction": {

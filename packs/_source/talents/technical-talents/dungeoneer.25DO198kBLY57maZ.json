@@ -1,11 +1,11 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Подземелье",
+  "name": "Исследователь Подземелий",
   "type": "talent",
   "img": "icons/environment/traps/steel.webp",
   "system": {
     "description": {
-      "value": "<p>You’ve studied—or at least survived—your share of hazards and learned a thing or two about sniffing out secrets. You gain these benefits:</p><ul><li><p>You can add your PB to checks made to disarm traps and open doors, even if you aren't proficient with the tools to do so. The first time you fail an ability check while disarming a trap, opening a door, or passing a hazard, the failure doesn't trigger the trap, block the door, or force you into the hazard’s area—no consequence befalls you from the failure.</p></li><li><p>You have advantage on Perception and Investigation checks made to search for secret doors, find traps, and see through illusions.</p></li><li><p>You have advantage on saves made to avoid or resist traps or hazards. You are resistant to damage from traps and hazards.</p></li><li><p>When combat begins, you and allies within 5 feet of you can attempt a DEX (Stealth) check for the purpose of determining who is surprised.</p></li></ul>",
+      "value": "<p>Вы изучили — или, по крайней мере, пережили — свою долю опасностей и узнали кое-что о вынюхивании секретов. Вы получаете следующие преимущества:</p><ul><li><p>Вы можете добавлять свой БМ к проверкам, сделанным для обезвреживания ловушек и открытия дверей, даже если вы не владеете соответствующими инструментами. Первый раз, когда вы проваливаете проверку характеристики при обезвреживании ловушки, открытии двери или прохождении опасности, провал не активирует ловушку, не блокирует дверь и не заставляет вас попасть в область опасности — никаких последствий от провала для вас не наступает.</p></li><li><p>Вы совершаете с преимуществом проверки Восприятия и Расследования, сделанные для поиска секретных дверей, обнаружения ловушек и видения сквозь иллюзии.</p></li><li><p>Вы совершаете с преимуществом спасброски, сделанные для избежания или сопротивления ловушкам или опасностям. Вы имеете сопротивление урону от ловушек и опасностей.</p></li><li><p>Когда начинается бой, вы и союзники в пределах 5 футов от вас можете попытаться совершить проверку ЛОВ (Скрытность) с целью определения того, кто застигнут врасплох.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -21,7 +21,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"o\": \"in\", \"v\": [\"perception\", \"investigation\"]}], \"note\": {\"rollMode\": 1, \"text\": \"You have advantage on Perception and Investigation checks made to search for secret doors, find traps, and see through illusions.\"}}"
+              "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"o\": \"in\", \"v\": [\"perception\", \"investigation\"]}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки Восприятия и Расследования, сделанные для поиска секретных дверей, обнаружения ловушек и видения сквозь иллюзии.\"}}"
             }
           ]
         },
@@ -30,9 +30,9 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Dungeoneer",
+        "title": "Исследователь Подземелий",
         "icon": "",
-        "hint": "You have advantage on Perception and Investigation checks made to search for secret doors, find traps, and see through illusions. "
+        "hint": "Вы совершаете с преимуществом проверки Восприятия и Расследования, сделанные для поиска секретных дверей, обнаружения ловушек и видения сквозь иллюзии."
       }
     },
     "restriction": {

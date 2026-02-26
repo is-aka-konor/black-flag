@@ -32,8 +32,11 @@ export default class TraitAdvancement extends Advancement {
 	 * Prepare data for the Advancement.
 	 */
 	prepareData() {
+		const localizeIfKey = value =>
+			typeof value === "string" && game.i18n.has(value) ? game.i18n.localize(value) : value;
 		const traitConfig = CONFIG.BlackFlag.traits[this.bestGuessTrait()];
-		this.title = this.title || game.i18n.localize(traitConfig?.labels.title || this.metadata.title);
+		this.title = localizeIfKey(this.title) || game.i18n.localize(traitConfig?.labels.title || this.metadata.title);
+		this.hint = localizeIfKey(this.hint);
 		this.icon = this.icon || traitConfig?.icon || this.metadata.icon;
 		this.identifier = this.identifier || formatIdentifier(this.title);
 		if (!this.metadata.multiLevel) this.level ??= this.minimumLevel;

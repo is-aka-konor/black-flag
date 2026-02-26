@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Тренировка брони",
+  "name": "Тренировка с Доспехами",
   "type": "talent",
   "_id": "ieEOvLswOxJWoE1Z",
   "img": "icons/equipment/chest/breastplate-banded-blue.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You’ve trained to improve your use of armor. You gain these benefits:</p><ul><li><p>If you are proficient with light armor, you gain proficiency with medium armor. If you are proficient with medium armor, you gain proficiency with heavy armor and shields.</p></li><li><p>If you are wearing armor that would normally impose disadvantage on DEX (Stealth) checks, you don’t have disadvantage on the check from wearing the armor, though you may still have disadvantage from other sources.</p></li><li><p>You can add up to +3 (instead of +2) to your AC based on your DEX while wearing medium armor.</p></li></ul>",
+      "value": "<p><strong>Требование:</strong> Владение Легкими или Средними Доспехами</p><p>Вы тренировались, чтобы улучшить свое использование доспехов. Вы получаете следующие преимущества:</p><ul><li><p>Если вы владеете легкими доспехами, вы получаете владение средними доспехами. Если вы владеете средними доспехами, вы получаете владение тяжелыми доспехами и щитами.</p></li><li><p>Если вы носите доспех, который обычно накладывает помеху на проверки ЛОВ (Скрытность), вы вместо этого бросаете как обычно и не можете иметь ни преимущества, ни помехи на проверку.</p></li><li><p>Вы можете добавлять до +3 (вместо +2) к вашему КД за счет вашей ЛОВ, нося средний доспех.</p></li></ul>",
       "source": {}
     },
     "restriction": {

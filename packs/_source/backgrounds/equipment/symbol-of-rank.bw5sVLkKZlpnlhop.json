@@ -6,7 +6,7 @@
   "img": "icons/commodities/treasure/medal-ribbon-gold-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Such as a letter, badge, or identification tags.</p>",
+      "value": "<p>Например, письмо, значок или жетоны идентификации.</p>",
       "source": {}
     },
     "attunement": {},

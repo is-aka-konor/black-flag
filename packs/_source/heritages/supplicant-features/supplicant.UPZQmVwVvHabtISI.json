@@ -1,5 +1,5 @@
 {
-  "name": "проситель",
+  "name": "Проситель",
   "type": "feature",
   "_id": "UPZQmVwVvHabtISI",
   "img": "icons/commodities/treasure/statue-runed-blue-grey.webp",
@@ -35,7 +35,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Supplicant",
+        "title": "Проситель",
         "icon": "",
         "hint": "",
         "selectedIndex": "0",
@@ -43,7 +43,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency in either the Insight or Persuasion skill. When a creature within 30 feet of you spends Doom, you have advantage on ability checks and saves until the beginning of your next turn.</p>",
+      "value": "<p>Вы владеете навыком Проницательность или Убеждение. Когда существо в пределах 30 футов от вас тратит Рок, вы совершаете с преимуществом проверки характеристик и спасброски до начала вашего следующего хода.</p>",
       "source": {}
     },
     "restriction": {

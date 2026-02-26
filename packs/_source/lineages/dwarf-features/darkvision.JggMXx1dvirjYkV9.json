@@ -1,6 +1,6 @@
 {
   "folder": "YYaq9ncFiszqsnUk",
-  "name": "темновидение",
+  "name": "Темное Зрение",
   "type": "feature",
   "_id": "JggMXx1dvirjYkV9",
   "img": "icons/creatures/eyes/humanoid-single-blind.webp",
@@ -23,13 +23,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Darkvision",
+        "title": "Темное Зрение",
         "icon": "",
-        "hint": "You have darkvision to a range of 60 feet."
+        "hint": "У вас темное зрение в радиусе 60 футов."
       }
     },
     "description": {
-      "value": "<p>You have darkvision to a range of 60 feet.</p>",
+      "value": "<p>У вас темное зрение в радиусе 60 футов.</p>",
       "source": {}
     },
     "identifier": {

@@ -211,7 +211,7 @@ export default class PCSheet extends BaseActorSheet {
 		if (!this.progressionView) return context;
 
 		context.canResetAbilityAssignment =
-			context.editable && (game.settings.get("black-flag", "abilitySelectionManual") || game.user.isGM);
+			context.editable && (game.settings.get(game.system.id, "abilitySelectionManual") || game.user.isGM);
 		context.displayXPBar = game.settings.get(game.system.id, "levelingMode") === "xp";
 
 		context.progressionLevels = [];
@@ -362,7 +362,11 @@ export default class PCSheet extends BaseActorSheet {
 		await super._prepareItem(item, context, section);
 
 		if (item.type === "spell") {
-			const { alwaysPrepared, mode } = item.getFlag("black-flag", "relationship") ?? {};
+			const relationship =
+				item.getFlag(game.system.id, "relationship") ??
+				foundry.utils.getProperty(item, "flags.black-flag.relationship") ??
+				{};
+			const { alwaysPrepared, mode } = relationship;
 			const ritual = item.system.tags.has("ritual");
 			const always = (alwaysPrepared && item.system.alwaysPreparable) || ritual;
 			const pressed = always || item.system.prepared;

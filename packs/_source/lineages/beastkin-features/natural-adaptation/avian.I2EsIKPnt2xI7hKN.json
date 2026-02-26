@@ -1,11 +1,11 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "птичий",
+  "name": "Птичьи",
   "type": "feature",
   "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
   "system": {
     "description": {
-      "value": "<p>Leathery, feathery, or gossamer wings sprout from your back or connect to your outstretched arms. You have a flying speed equal to your walking speed. You can’t fly while wearing medium or heavy armor. Carrying a heavy load or a creature of your size or larger while flying reduces your speed by half.</p>",
+      "value": "<p>Кожистые, пернатые или паутинные крылья растут у вас из спины или соединяются с вытянутыми руками. У вас есть скорость полета, равная вашей скорости ходьбы. Вы не можете летать, нося средние или тяжелые доспехи. Переноска тяжелого груза или существа вашего размера или больше во время полета уменьшает вашу скорость вдвое.</p>",
       "source": "Player's Guide"
     },
     "identifier": {
@@ -22,7 +22,7 @@
       "UqOpmuIXlASz5xN6": {
         "type": "property",
         "_id": "UqOpmuIXlASz5xN6",
-        "title": "Fly Speed",
+        "title": "Скорость Полета",
         "icon": "systems/black-flag-ru/artwork/advancement/speed.svg",
         "level": {
           "value": 0,
@@ -38,7 +38,7 @@
           ]
         },
         "flags": {},
-        "hint": "You have a flying speed equal to your walking speed."
+        "hint": "У вас есть скорость полета, равная вашей скорости ходьбы."
       }
     },
     "restriction": {

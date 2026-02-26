@@ -1,5 +1,5 @@
 {
-  "name": "Сохраненные традиции",
+  "name": "Сохраняемые Традиции",
   "type": "feature",
   "_id": "tF7uvryjhYzDm0SQ",
   "img": "icons/sundries/scrolls/scroll-symbol-eye-blue.webp",
@@ -36,7 +36,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Preserved Traditions",
+        "title": "Сохраняемые Традиции",
         "icon": "",
         "hint": "",
         "selectedIndex": "0",
@@ -44,7 +44,7 @@
       }
     },
     "description": {
-      "value": "<p>You gain proficiency with the History skill. You also gain proficiency with one type of martial weapon of your choice.</p>",
+      "value": "<p>Вы получаете владение навыком История. Вы также получаете владение одним типом воинского оружия по вашему выбору.</p>",
       "source": {}
     },
     "restriction": {

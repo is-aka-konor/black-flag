@@ -10,6 +10,8 @@ import ActivitiesTemplate from "./templates/activities-template.mjs";
 import DescriptionTemplate from "./templates/description-template.mjs";
 
 const { BooleanField, NumberField, SchemaField, SetField, StringField } = foundry.data.fields;
+const getFlagWithLegacyFallback = (document, key) =>
+	document?.getFlag(game.system.id, key) ?? foundry.utils.getProperty(document, `flags.black-flag.${key}`);
 
 /**
  * Data definition for Spell items.
@@ -115,7 +117,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	 * @type {string}
 	 */
 	get ability() {
-		return this.parent.getFlag(game.system.id, "relationship.origin.ability") || this.defaultAbility;
+		return getFlagWithLegacyFallback(this.parent, "relationship.origin.ability") || this.defaultAbility;
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */
@@ -127,7 +129,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	get associatedClass() {
 		const doc =
 			this.parent.actor?.system.spellcasting?.origins?.[
-				this.parent.getFlag("black-flag", "relationship.origin.identifier")
+				getFlagWithLegacyFallback(this.parent, "relationship.origin.identifier")
 			]?.document;
 		if (!doc) return null;
 		return (doc.type === "class" ? doc : doc.system.class) ?? null;
@@ -158,7 +160,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	get defaultAbility() {
 		return (
 			this.parent.actor?.system.spellcasting?.origins?.[
-				this.parent.getFlag(game.system.id, "relationship.origin.identifier")
+				getFlagWithLegacyFallback(this.parent, "relationship.origin.identifier")
 			]?.ability ??
 			this.parent.actor?.system.spellcasting?.ability ??
 			"intelligence"
@@ -183,7 +185,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	get linkedActivity() {
 		const relative = this.parent.actor;
 		if (!relative) return null;
-		return fromUuidSync(this.parent.getFlag(game.system.id, "cachedFor"), { relative, strict: false }) ?? null;
+		return fromUuidSync(getFlagWithLegacyFallback(this.parent, "cachedFor"), { relative, strict: false }) ?? null;
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */
@@ -193,7 +195,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	 * @type {boolean}
 	 */
 	get alwaysPreparable() {
-		const config = CONFIG.BlackFlag.spellPreparationModes[this.parent.getFlag("black-flag", "relationship.mode")];
+		const config = CONFIG.BlackFlag.spellPreparationModes[getFlagWithLegacyFallback(this.parent, "relationship.mode")];
 		return config?.preparable && this.circle.base !== 0 && !this.tags.has("ritual");
 	}
 
@@ -202,7 +204,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	 * @type {boolean}
 	 */
 	get preparable() {
-		const alwaysPrepared = this.parent.getFlag("black-flag", "relationship.alwaysPrepared");
+		const alwaysPrepared = getFlagWithLegacyFallback(this.parent, "relationship.alwaysPrepared");
 		return this.alwaysPreparable && !alwaysPrepared;
 	}
 
@@ -212,7 +214,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	 */
 	get prepared() {
 		if (!this.preparable || this.parent.actor?.type !== "pc") return true;
-		return this.parent.getFlag("black-flag", "relationship.prepared") === true;
+		return getFlagWithLegacyFallback(this.parent, "relationship.prepared") === true;
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */
@@ -222,9 +224,9 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 	 * @type {string|null}
 	 */
 	get preparationLabel() {
-		const preparationMode = this.parent.getFlag("black-flag", "relationship.mode");
+		const preparationMode = getFlagWithLegacyFallback(this.parent, "relationship.mode");
 		if (!preparationMode || preparationMode === "standard") {
-			if (this.parent.getFlag("black-flag", "relationship.alwaysPrepared")) {
+			if (getFlagWithLegacyFallback(this.parent, "relationship.alwaysPrepared")) {
 				return game.i18n.localize("BF.Spell.Preparation.AlwaysPrepared");
 			} else if (this.alwaysPreparable) {
 				return game.i18n.localize(`BF.Spell.Preparation.${this.prepared ? "" : "Not"}Prepared`);
@@ -255,7 +257,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 		if (this.circle.base === 0 || this.tags.has("ritual")) return false;
 
 		// At Will & Innate preparation modes never consume slots
-		const prep = CONFIG.BlackFlag.spellPreparationModes[this.parent.getFlag("black-flag", "relationship.mode")];
+		const prep = CONFIG.BlackFlag.spellPreparationModes[getFlagWithLegacyFallback(this.parent, "relationship.mode")];
 		if (!prep?.scalable) return false;
 
 		return true;
@@ -433,7 +435,7 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 		}
 
 		const origins = (this.parent.actor.system.spellcasting.origins ??= {});
-		const relationship = this.parent.getFlag("black-flag", "relationship.origin") ?? {};
+		const relationship = getFlagWithLegacyFallback(this.parent, "relationship.origin") ?? {};
 		if (!relationship.identifier) return;
 		const origin = (origins[relationship.identifier] ??= {});
 		if (this.circle.base === 0) {
@@ -606,8 +608,8 @@ export default class SpellData extends ItemDataModel.mixin(ActivitiesTemplate, D
 			}))
 		];
 
-		if (this.parent.isEmbedded && !this.parent.getFlag(game.system.id, "cachedFor")) {
-			const flag = this.parent.getFlag(game.system.id, "relationship") ?? {};
+		if (this.parent.isEmbedded && !getFlagWithLegacyFallback(this.parent, "cachedFor")) {
+			const flag = getFlagWithLegacyFallback(this.parent, "relationship") ?? {};
 			context.configurationFields = [
 				{
 					field: new StringField({ required: true, blank: false }),

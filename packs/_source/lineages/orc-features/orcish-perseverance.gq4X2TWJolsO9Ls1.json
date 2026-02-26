@@ -1,6 +1,6 @@
 {
   "folder": "1yYTiSJbVGkECgTB",
-  "name": "Орочье упорство",
+  "name": "Орочья Стойкость",
   "type": "feature",
   "_id": "gq4X2TWJolsO9Ls1",
   "img": "icons/commodities/biological/shell-ridged-green.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>When you would die due to suffocating or gaining levels of exhaustion, you instead enter a death-like stasis. While in stasis you are incapacitated, can’t move, can’t speak, and are unaware of your surroundings. You also cease to age, and your body is protected from decay. You can remain in this state until you are restored by mundane or magical healing, or your body is completely destroyed.</p>",
+      "value": "<p>Когда вы должны были бы умереть от удушья или получения уровней истощения, вы вместо этого впадаете в подобный смерти стазис. Находясь в стазисе, вы недееспособны, не можете двигаться, не можете говорить и не осознаете свое окружение. Вы также перестаете стареть, и ваше тело защищено от разложения. Вы можете оставаться в этом состоянии до тех пор, пока не будете восстановлены обычным или магическим исцелением, или пока ваше тело не будет полностью уничтожено.</p>",
       "source": {}
     },
     "restriction": {

@@ -1,13 +1,13 @@
 {
   "folder": "EqtckeMqGwwlhEYP",
-  "name": "Близость к зверю",
+  "name": "Сродство со Зверями",
   "type": "feature",
   "_id": "60G46JAl2vtIp8PU",
   "img": "icons/creatures/abilities/wolf-howl-moon-purple.webp",
   "system": {
     "advancement": {},
     "description": {
-      "value": "<p>Using gestures and sounds, you can communicate simple ideas with Beasts and creatures with the Animal tag, and you have advantage on checks made to interact with such creatures.</p>",
+      "value": "<p>Используя жесты и звуки, вы можете передавать простые идеи Зверям и существам с меткой Животное, и вы совершаете с преимуществом проверки для взаимодействия с такими существами.</p>",
       "source": {}
     },
     "identifier": {

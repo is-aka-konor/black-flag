@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Зверолюдь",
+  "name": "Зверолюд",
   "type": "lineage",
   "img": "icons/creatures/mammals/humanoid-fox-cat-archer.webp",
   "system": {
@@ -41,11 +41,11 @@
           ]
         },
         "flags": {},
-        "hint": "Your size is Medium or Small. Beastkin vary in weight and height, depending on their Beast characteristics. Most are between 4 and 8 feet tall, but if you choose to play a beastkin shorter than 4 feet, you can choose your size to be Small. Your weight varies depending on your Beast characteristics. For example, a Medium beastkin descended from bears likely weighs upward of 350 pounds, while an avian beastkin of the same size is likely to weigh around 100 pounds."
+        "hint": "Ваш размер — Средний или Маленький. Зверолюди различаются по весу и росту в зависимости от их Звериных характеристик. Большинство из них ростом от 4 до 8 футов, но если вы решите играть зверочеловеком ниже 4 футов, вы можете выбрать Маленький размер. Ваш вес зависит от ваших Звериных характеристик. Например, Средний зверочеловек, произошедший от медведей, вероятно, весит более 350 фунтов, в то время как птицеподобный зверочеловек того же размера, скорее всего, будет весить около 100 фунтов."
       }
     },
     "description": {
-      "value": "<p>Your beastkin character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Beastkin mature far more quickly than most Humanoids, reaching adulthood within 5 years. Though they may live nearly a century, some beastkin live only 20 or 30 years.</p><p>@Embed[.Advancement.gBcXRsYlpRJ7Bbvh inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.zCFysqhfSYQLsLbn inline]{Animal Instinct}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.sZo4dk5NpkJme6et inline]{Natural Weapons}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.1OhikzT29y1Ulr47 inline]{Natural Adaptation}</p>",
+      "value": "<p>Ваш персонаж-зверочеловек обладает следующими наследственными чертами.</p><p><em><strong>Возраст.</strong></em> Зверолюди взрослеют гораздо быстрее большинства Гуманоидов, достигая совершеннолетия в течение 5 лет. Хотя они могут прожить почти столетие, некоторые зверолюди живут всего 20 или 30 лет.</p><p>@Embed[.Advancement.gBcXRsYlpRJ7Bbvh inline]{Размер}</p><p><em><strong>Скорость.</strong></em> Ваша базовая скорость ходьбы составляет 30 футов.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.zCFysqhfSYQLsLbn inline]{Животный Инстинкт}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.sZo4dk5NpkJme6et inline]{Естественное Оружие}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.1OhikzT29y1Ulr47 inline]{Естественная Адаптация}</p>",
       "source": {},
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc",
       "short": ""

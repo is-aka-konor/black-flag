@@ -1,6 +1,6 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Дальний путешественник",
+  "name": "Дальний Путник",
   "type": "talent",
   "_id": "OCWDqG56Qwk3W8MB",
   "img": "icons/environment/wilderness/cave-entrance-mountain-blue.webp",
@@ -22,7 +22,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"v\": \"survival\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}], \"note\": {\"rollMode\": 1, \"text\": \"You have advantage when you make a WIS (Survival) check to determine if you become lost.\"}}"
+              "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"skill\", \"v\": \"survival\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверку МДР (Выживание), чтобы определить, не заблудились ли вы.\"}}"
             }
           ]
         },
@@ -31,13 +31,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Far Traveler",
+        "title": "Дальний Путник",
         "icon": "",
-        "hint": "You have advantage when you make a WIS (Survival) check to determine if you become lost."
+        "hint": "Вы совершаете с преимуществом проверку МДР (Выживание), чтобы определить, не заблудились ли вы."
       }
     },
     "description": {
-      "value": "<p>You have traveled the world and been to many fantastical places. You gain these benefits:</p><ul><li><p>You and your allies can travel up to 10 hours each day, instead of the standard 8, before you must make a CON save for a forced march.</p></li><li><p>Traveling at a fast pace doesn’t impose the standard −5 penalty to your passive Perception.</p></li><li><p>You have advantage when you make a WIS (Survival) check to determine if you become lost.</p></li><li><p>You ignore the effects of having one level of exhaustion. When you have two or more levels of exhaustion, you suffer the effects of exhaustion normally.</p></li></ul>",
+      "value": "<p>Вы путешествовали по миру и побывали во многих фантастических местах. Вы получаете следующие преимущества:</p><ul><li><p>Вы и ваши союзники можете путешествовать до 10 часов каждый день, вместо стандартных 8, прежде чем вам придется совершать спасбросок ТЕЛ из-за форсированного марша.</p></li><li><p>Путешествие в быстром темпе не накладывает стандартный штраф -5 к вашему пассивному Восприятию.</p></li><li><p>Вы совершаете с преимуществом проверку МДР (Выживание), чтобы определить, не заблудились ли вы.</p></li><li><p>Вы игнорируете эффекты одного уровня истощения. Когда у вас два или более уровней истощения, вы страдаете от эффектов истощения как обычно.</p></li></ul>",
       "source": {}
     },
     "restriction": {

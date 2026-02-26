@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Карлик",
+  "name": "Дворф",
   "type": "lineage",
   "img": "icons/environment/wilderness/mine-interior-dungeon-door.webp",
   "system": {
@@ -19,7 +19,7 @@
           ]
         },
         "flags": {},
-        "hint": "Your size is Medium. Dwarves vary little in height or size, with most standing between 4 and 5 feet tall. Even the smallest dwarves possess broad frames and rarely weigh less than 150 pounds."
+        "hint": "Ваш размер — Средний. Дворфы мало различаются по росту или размеру, большинство из них ростом от 4 до 5 футов. Даже самые маленькие дворфы обладают широким телосложением и редко весят менее 150 фунтов."
       },
       "vNDuQDYQe6NMx1hZ": {
         "type": "grantFeatures",
@@ -44,7 +44,7 @@
       }
     },
     "description": {
-      "value": "<p>Your dwarf character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Dwarves are physically mature around age 20, but most consider themselves young until they reach age 50. On average, they live about 350 years.</p><p>@Embed[.Advancement.l1kfpwuGklkXVKel inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.JggMXx1dvirjYkV9 inline]{Darkvision}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.Ki3mxDpMO2TGLL24 inline]{Dwarven Resilience}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.yjDyRfJH4hplyKfO inline]{Dwarven Toughness}</p>",
+      "value": "<p>Ваш персонаж-дворф обладает следующими наследственными чертами.</p><p><em><strong>Возраст.</strong></em> Дворфы физически созревают примерно к 20 годам, но большинство считают себя молодыми до достижения 50 лет. В среднем они живут около 350 лет.</p><p>@Embed[.Advancement.l1kfpwuGklkXVKel inline]{Размер}</p><p><em><strong>Скорость.</strong></em> Ваша базовая скорость ходьбы составляет 30 футов.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.JggMXx1dvirjYkV9 inline]{Темное Зрение}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.Ki3mxDpMO2TGLL24 inline]{Дворфийская Стойкость}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.yjDyRfJH4hplyKfO inline]{Дворфийская Выносливость}</p>",
       "source": {},
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc",
       "short": ""

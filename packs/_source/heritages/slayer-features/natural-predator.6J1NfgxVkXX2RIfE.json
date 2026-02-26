@@ -1,6 +1,6 @@
 {
   "folder": "qagK80VAhkvB2YaN",
-  "name": "Природный хищник",
+  "name": "Прирожденный Хищник",
   "type": "feature",
   "_id": "6J1NfgxVkXX2RIfE",
   "img": "icons/creatures/abilities/lion-roar-yellow.webp",
@@ -23,7 +23,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Natural Predator",
+        "title": "Прирожденный Хищник",
         "icon": "",
         "selectedIndex": "-1",
         "selectedTrait": "skills",
@@ -31,7 +31,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency in the Intimidation skill. You have advantage on Intimidation checks to influence Beasts and creatures with the Animal tag.</p>",
+      "value": "<p>Вы владеете навыком Запугивание. Вы совершаете с преимуществом проверки Запугивания для влияния на Зверей и существ с меткой Животное.</p>",
       "source": {}
     },
     "identifier": {

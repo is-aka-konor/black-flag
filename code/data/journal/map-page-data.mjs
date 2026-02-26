@@ -51,9 +51,12 @@ export default class MapLocationJournalPageData extends BaseDataModel {
 	 */
 	getControlIcon(options) {
 		if (!this.code) return;
+		const markerStyle =
+			this.parent.getFlag(game.system.id, "mapMarkerStyle") ??
+			foundry.utils.getProperty(this.parent, "flags.black-flag.mapMarkerStyle");
 		const { icon: IconClass, ...style } = foundry.utils.mergeObject(
 			CONFIG.BlackFlag.mapLocationMarkerStyle.default,
-			CONFIG.BlackFlag.mapLocationMarkerStyle[this.parent.getFlag("black-flag", "mapMarkerStyle")] ?? {},
+			CONFIG.BlackFlag.mapLocationMarkerStyle[markerStyle] ?? {},
 			{ inplace: false }
 		);
 		return new IconClass({ code: this.code, ...options, ...style });

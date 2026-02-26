@@ -66,9 +66,12 @@ export default class ChooseSpellsAdvancement extends ChooseFeaturesAdvancement {
 		const addUuids = new Set();
 		const updateIds = new Set();
 		const mode = this.configuration.spell.mode;
+		const getRelationshipMode = item =>
+			item?.getFlag(game.system.id, "relationship.mode") ??
+			foundry.utils.getProperty(item, "flags.black-flag.relationship.mode");
 		for (const uuid of data.choices ?? []) {
 			const existing = this.actor.sourcedItems.get(uuid);
-			const match = existing?.find(e => e.getFlag("black-flag", "relationship.mode") === mode);
+			const match = existing?.find(e => getRelationshipMode(e) === mode);
 			if (match) updateIds.add(match.id);
 			else addUuids.add(uuid);
 		}

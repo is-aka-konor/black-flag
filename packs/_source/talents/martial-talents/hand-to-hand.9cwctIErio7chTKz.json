@@ -1,11 +1,11 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Из рук в руки",
+  "name": "Рукопашный Бой",
   "type": "talent",
   "img": "icons/skills/melee/unarmed-punch-fist.webp",
   "system": {
     "description": {
-      "value": "<p>You mastered techniques that allow you to efficiently fight barehanded. You gain these benefits:</p><ul><li>The damage of your unarmed strikes increases from 1 + STR modifier to 1d6 + STR modifier.</li><li>You gain proficiency with improvised weapons. While wielding an improvised weapon with one hand, the weapon deals a minimum of 1d8 + STR modifier damage. While wielding an improvised weapon with two hands, the weapon deals a minimum of 1d10 + STR modifier damage.</li><li>You have advantage on ability checks made to initiate or escape a grapple. When you start your turn grappling or being grappled by a creature or start your turn restrained by a creature within 5 feet of you, that creature takes bludgeoning damage equal to your STR modifier.</li></ul>",
+      "value": "<p>Вы овладели техниками, позволяющими эффективно сражаться голыми руками. Вы получаете следующие преимущества:</p><ul><li><p>Урон ваших безоружных ударов увеличивается с 1 + модификатор СИЛ до 1к6 + модификатор СИЛ.</p></li><li><p>Вы получаете владение импровизированным оружием. При владении импровизированным оружием одной рукой, оружие наносит минимум 1к8 + модификатор СИЛ урона. При владении импровизированным оружием двумя руками, оружие наносит минимум 1к10 + модификатор СИЛ урона.</p></li><li><p>Вы совершаете с преимуществом проверки характеристик для начала или выхода из захвата. Когда вы начинаете свой ход схваченным или опутанным существом, это существо получает дробящий урон, равный вашему модификатору СИЛ.</p></li></ul>",
       "source": {}
     },
     "identifier": {},

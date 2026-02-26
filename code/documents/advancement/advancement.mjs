@@ -150,7 +150,10 @@ export default class Advancement extends PseudoDocumentMixin(BaseAdvancement) {
 
 	/** @override */
 	prepareData() {
-		this.title = this.title || game.i18n.localize(this.metadata.title);
+		const localizeIfKey = value =>
+			typeof value === "string" && game.i18n.has(value) ? game.i18n.localize(value) : value;
+		this.title = localizeIfKey(this.title) || game.i18n.localize(this.metadata.title);
+		this.hint = localizeIfKey(this.hint);
 		this.icon = this.icon || this.metadata.icon;
 		this.identifier = this.identifier || formatIdentifier(this.title);
 		if (!this.metadata.multiLevel) this.level.value ??= this.minimumLevel;
@@ -362,7 +365,9 @@ export default class Advancement extends PseudoDocumentMixin(BaseAdvancement) {
 		if (!source) return null;
 		id ??= foundry.utils.randomID();
 		const advancementOrigin = `${this.item.id}.${this.id}`;
-		const ultimateOrigin = this.item.getFlag("black-flag", "ultimateOrigin");
+		const ultimateOrigin =
+			this.item.getFlag(game.system.id, "ultimateOrigin") ??
+			foundry.utils.getProperty(this.item, "flags.black-flag.ultimateOrigin");
 		const updates = foundry.utils.performIntegerSort(source, {
 			target: ultimateOrigin && ultimateOrigin !== advancementOrigin ? this.item : undefined,
 			siblings: this.item.actor.items
@@ -378,9 +383,12 @@ export default class Advancement extends PseudoDocumentMixin(BaseAdvancement) {
 						_stats,
 						folder: null,
 						sort,
+						[`flags.${game.system.id}.sourceId`]: uuid,
+						[`flags.${game.system.id}.advancementOrigin`]: advancementOrigin,
+						[`flags.${game.system.id}.ultimateOrigin`]: ultimateOrigin ?? advancementOrigin,
 						"flags.black-flag.sourceId": uuid,
 						"flags.black-flag.advancementOrigin": advancementOrigin,
-						"flags.black-flag.ultimateOrigin": this.item.getFlag("black-flag", "ultimateOrigin") ?? advancementOrigin
+						"flags.black-flag.ultimateOrigin": ultimateOrigin ?? advancementOrigin
 					},
 					changes
 				),

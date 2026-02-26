@@ -1,5 +1,5 @@
 {
-  "name": "поселенец",
+  "name": "Домосед",
   "type": "feature",
   "_id": "gf9BOd0EZXxzSbLc",
   "img": "icons/environment/creatures/horses.webp",
@@ -35,7 +35,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Homesteader",
+        "title": "Домосед",
         "icon": "",
         "hint": "",
         "selectedIndex": "0",
@@ -43,7 +43,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency in either the Animal Handling or Nature skill.</p>",
+      "value": "<p>Вы владеете навыком Уход за животными или Природа.</p>",
       "source": {}
     },
     "restriction": {

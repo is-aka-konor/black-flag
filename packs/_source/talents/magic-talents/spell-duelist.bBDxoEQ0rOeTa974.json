@@ -1,6 +1,6 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Заклинание Дуэлянт",
+  "name": "Дуэлянт Заклинаний",
   "type": "talent",
   "_id": "bBDxoEQ0rOeTa974",
   "img": "icons/magic/light/projectile-smoke-pink.webp",
@@ -14,7 +14,7 @@
         "activation": {
           "value": null,
           "type": "reaction",
-          "condition": "When a creature you can see damages you with a spell"
+          "condition": "Когда существо, которое вы можете видеть, наносит вам урон заклинанием"
         },
         "consumption": {
           "targets": [],
@@ -61,7 +61,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>When a creature you can see damages you with a spell, you can use your reaction to cast a cantrip targeting that creature. In addition, when you cast a spell that requires an attack roll, you gain these benefits:</p><ul><li><p>Double the range of the spell. If the spell’s range is touch, its range increases to 15 feet.</p></li><li><p>The spell ignores any AC bonus granted by cover.</p></li></ul>",
+      "value": "<p><strong>Требование:</strong> Способность сотворять один или несколько заговоров</p><p>Когда существо, которое вы можете видеть, наносит вам урон заклинанием, вы можете использовать свою реакцию, чтобы сотворить заговор, нацеленный на это существо. Кроме того, когда вы сотворяете заклинание, требующее броска атаки, вы получаете следующие преимущества:</p><ul><li><p>Удвойте дальность заклинания. Если дальность заклинания &quot;Касание&quot;, его дальность увеличивается до 15 футов.</p></li><li><p>Заклинание игнорирует любой бонус к КД, предоставляемый укрытием.</p></li></ul>",
       "source": {}
     },
     "restriction": {

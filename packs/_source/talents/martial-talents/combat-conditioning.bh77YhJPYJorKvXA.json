@@ -1,11 +1,11 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Боевая подготовка",
+  "name": "Боевая Подготовка",
   "type": "talent",
   "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You’ve endured extensive training to withstand the rigors of combat. You gain these benefits:</p><ul><li><p>Your hit point maximum increases by 2 for each character level you have. Each time you gain a level after taking this talent, your hit point maximum increases by 2.</p></li><li><p>When you roll hit dice to recover hit points, treat any roll lower than your current PB as though it were equal to your PB.</p></li></ul>",
+      "value": "<p>Вы прошли обширную подготовку, чтобы выдерживать суровые условия боя. Вы получаете следующие преимущества:</p><ul><li><p>Ваш максимум хитов увеличивается на 2 за каждый имеющийся у вас уровень персонажа. Каждый раз, когда вы получаете уровень после взятия этого таланта, ваш максимум хитов увеличивается на 2.</p></li><li><p>Когда вы бросаете кости хитов для восстановления хитов, считайте любой результат броска ниже вашего текущего БМ равным вашему БМ.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -35,7 +35,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Combat Conditioning",
+        "title": "Боевая Подготовка",
         "icon": "",
         "hint": ""
       }

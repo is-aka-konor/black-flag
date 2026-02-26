@@ -1,11 +1,11 @@
 {
   "folder": "GJ1cQ2GIkSHlWqqL",
-  "name": "Крепкий",
+  "name": "Крепкие",
   "type": "feature",
   "img": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Powerful limbs, fat reserves, or a thick hide allow you to endure harm and accomplish feats of remarkable athleticism. When you aren’t wearing armor, you have a natural AC of 13 + your DEX modifier. In addition, you count as one size larger when determining your carrying capacity and the weight you can push or drag.</p>",
+      "value": "<p>Мощные конечности, жировые запасы или толстая шкура позволяют вам переносить урон и совершать подвиги выдающейся атлетики. Когда вы не носите доспехи, ваш естественный КД равен 13 + ваш модификатор ЛОВ. Кроме того, вы считаетесь на один размер больше при определении вашей грузоподъемности и веса, который вы можете толкать или тащить.</p>",
       "source": "Player's Guide"
     },
     "identifier": {
@@ -27,7 +27,7 @@
             {
               "key": "system.attributes.ac.formulas",
               "mode": 2,
-              "value": "{\"label\":\"Natural Armor\", \"formula\": \"13 + @abilities.dexterity.mod\", \"armored\": false}"
+              "value": "{\"label\":\"Естественный КД\", \"formula\": \"13 + @abilities.dexterity.mod\", \"armored\": false}"
             }
           ]
         },
@@ -36,9 +36,9 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Natural Armor",
+        "title": "Естественный КД",
         "icon": "",
-        "hint": "When you aren’t wearing armor, you have a natural AC of 13 + your DEX modifier."
+        "hint": "Когда вы не носите доспехи, ваш естественный КД равен 13 + ваш модификатор ЛОВ."
       }
     },
     "restriction": {

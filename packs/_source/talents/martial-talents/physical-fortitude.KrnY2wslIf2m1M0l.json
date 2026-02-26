@@ -1,11 +1,11 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Физическая стойкость",
+  "name": "Физическая Стойкость",
   "type": "talent",
   "img": "icons/skills/wounds/injury-pain-body-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You’ve fortified yourself against physically debilitating effects. You gain these benefits:</p><ul><li><p>Once per turn, when you fail a STR or CON save, you can expend one of your hit dice to reroll the save. You must take the new result.</p></li><li><p>When you start your turn blinded, deafened, restrained, or poisoned, you gain 1 Luck.</p></li><li><p>You have advantage on checks and saves to avoid being knocked prone, pulled, or pushed.</p></li></ul>",
+      "value": "<p>Вы укрепили себя против физически изнурительных эффектов. Вы получаете следующие преимущества:</p><ul><li><p>Один раз в ход, когда вы проваливаете спасбросок СИЛ или ТЕЛ, вы можете потратить одну из своих костей хитов, чтобы перебросить спасбросок. Вы должны принять новый результат.</p></li><li><p>Когда вы начинаете свой ход ослепленным, оглушенным, опутанным или отравленным, вы получаете 1 Удачу.</p></li><li><p>Вы совершаете с преимуществом проверки и спасброски, чтобы избежать сбивания с ног, притягивания или отталкивания.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -25,11 +25,11 @@
       "s4AhOVxoboNqgdlY": {
         "type": "utility",
         "_id": "s4AhOVxoboNqgdlY",
-        "description": "<p>Если вы не смогли сохранить STR или CON, вы можете перебросить сохранение и получить новый результат.</p>",
+        "description": "<p>Когда вы проваливаете спасбросок СИЛ или ТЕЛ, вы можете перебросить его и принять новый результат.</p>",
         "system": {},
         "activation": {
           "type": "free",
-          "condition": "When you fail a STR or CON save"
+          "condition": "Когда вы проваливаете спасбросок СИЛ или ТЕЛ"
         },
         "consumption": {
           "targets": [

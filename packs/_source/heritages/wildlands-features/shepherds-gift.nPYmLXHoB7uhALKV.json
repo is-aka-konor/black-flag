@@ -1,6 +1,6 @@
 {
   "folder": "EqtckeMqGwwlhEYP",
-  "name": "Подарок пастыря",
+  "name": "Дар Пастуха",
   "type": "feature",
   "_id": "nPYmLXHoB7uhALKV",
   "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
@@ -23,14 +23,14 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Shepherd's Gift",
+        "title": "Дар Пастуха",
         "icon": "",
         "selectedIndex": "-1",
         "selectedTrait": "skills"
       }
     },
     "description": {
-      "value": "<p>You have proficiency in the Animal Handling skill. Any Beast or creature with the Animal tag whose CR is equal to or less than your PB that targets you with an attack must first make a [[/check wisdom]] check contested by your [[/skill wisdom animalHandling]]. If you succeed, the creature must choose a new target or lose the attack.</p>",
+      "value": "<p>Вы владеете навыком Уход за животными. Любой Зверь или существо с меткой Животное, чей ПО равен или меньше вашего БМ, который нацеливается на вас атакой, должен сначала совершить проверку МДР, оспоренную вашей проверкой МДР (Уход за животными). Если вы преуспели, существо должно выбрать новую цель или потерять атаку.</p>",
       "source": {}
     },
     "identifier": {

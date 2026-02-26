@@ -20,7 +20,7 @@
         "flags": {},
         "title": "",
         "icon": "",
-        "hint": "Your size is Medium or Small. Humans vary in height and weight, but most adults range between 5 feet and 6 feet tall and average around 150 pounds. If you choose to play a human shorter than 4 feet however, you can choose your size to be Small."
+        "hint": "Ваш размер — Средний или Маленький. Люди различаются по росту и весу, но большинство взрослых имеют рост от 5 до 6 футов и весят в среднем около 150 фунтов. Однако, если вы решите играть человеком ниже 4 футов, вы можете выбрать Маленький размер."
       },
       "55ZBPctz4oFtYXFs": {
         "type": "grantFeatures",
@@ -39,7 +39,7 @@
       }
     },
     "description": {
-      "value": "<p>Your human character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Humans reach adulthood in their late teenage years and rarely live to be more than 100 years old.</p><p>@Embed[.Advancement.U2E2ShFqidehrX3I inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.nnTLBZROcTelysG5 inline]{Ambitious}</p>",
+      "value": "<p>Ваш персонаж-человек обладает следующими наследственными чертами.</p><p><em><strong>Возраст.</strong></em> Люди достигают совершеннолетия в позднем подростковом возрасте и редко живут дольше 100 лет.</p><p>@Embed[.Advancement.U2E2ShFqidehrX3I inline]{Размер}</p><p><em><strong>Скорость.</strong></em> Ваша базовая скорость ходьбы составляет 30 футов.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.nnTLBZROcTelysG5 inline]{Амбициозность}</p>",
       "source": {},
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc",
       "short": ""

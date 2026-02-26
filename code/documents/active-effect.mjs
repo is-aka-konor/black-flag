@@ -121,7 +121,7 @@ export default class BlackFlagActiveEffect extends ActiveEffect {
 		if (this.id !== this.constructor.ID.EXHAUSTION) return;
 
 		// Change name and icon to match exhaustion level
-		let level = this.getFlag("black-flag", "level");
+		let level = this.getFlag(game.system.id, "level") ?? foundry.utils.getProperty(this, "flags.black-flag.level");
 		if (!Number.isFinite(level)) level = 1;
 		this.img = `systems/black-flag-ru/artwork/statuses/exhaustion-${level}.svg`;
 		this.name = game.i18n.format("BF.Condition.Exhaustion.Numbered", { level: formatNumber(level) });

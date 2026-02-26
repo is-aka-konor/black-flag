@@ -5,7 +5,7 @@
   "img": "icons/sundries/scrolls/scroll-symbol-circle-white.webp",
   "system": {
     "description": {
-      "value": "<p>You have studied language extensively. You can communicate in multiple languages and puzzle out critical information from languages you don’t know. When you select this talent, you gain these benefits:</p><ul><li><p>Learn three languages of your choice.</p></li><li><p>When you converse with a creature in a language you both know (other than Common) you have advantage on a single CHA ability check made to influence or interact with that creature. Once you use this feature, you can’t do so again until you finish a long rest.</p></li><li><p>When you make an ability check related to understanding the meaning of a verbal or written language you don’t know, you can add your PB to the result. If you have proficiency in a relevant skill or tool, double your PB for the roll.</p></li></ul>",
+      "value": "<p>Вы досконально изучали языки. Вы можете общаться на нескольких языках и выуживать важную информацию из языков, которых не знаете. Выбирая этот талант, вы получаете следующие преимущества:</p><ul><li><p>Изучите три языка по вашему выбору.</p></li><li><p>Когда вы разговариваете с существом на языке, который вы оба знаете (кроме Общего), вы совершаете с преимуществом одну проверку характеристики ХАР, сделанную для влияния или взаимодействия с этим существом. После использования этого умения вы не можете сделать это снова, пока не закончите продолжительный отдых.</p></li><li><p>Когда вы совершаете проверку характеристики, связанную с пониманием значения устного или письменного языка, которого вы не знаете, вы можете добавить свой БМ к результату. Если вы владеете соответствующим навыком или инструментом, удвойте свой БМ для броска.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -53,7 +53,7 @@
       "FLhQ3t6AztGZP6QX": {
         "type": "utility",
         "_id": "FLhQ3t6AztGZP6QX",
-        "description": "<p> Когда вы разговариваете с существом на языке, который вы оба знаете (кроме общего), вы дополнительно включаете одну проверку способностей CHA, созданную для всего человечества на этом Существовании или взаимодействие с ними.</p>",
+        "description": "<p>Когда вы разговариваете с существом на языке, который вы оба знаете (кроме Общего), вы совершаете с преимуществом одну проверку характеристики ХАР, сделанную для влияния или взаимодействия с этим существом.</p>",
         "system": {},
         "activation": {
           "type": "free",

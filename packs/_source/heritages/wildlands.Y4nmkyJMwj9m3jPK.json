@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Дикие земли",
+  "name": "Наследие Диких Земель",
   "type": "heritage",
   "img": "icons/environment/wilderness/tree-ash.webp",
   "system": {
@@ -8,9 +8,9 @@
       "6XFMqppJfCZOIRbe": {
         "type": "trait",
         "_id": "6XFMqppJfCZOIRbe",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Typical wildlands heritage characters choose Sylvan.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Типичные персонажи наследия диких земель выбирают Сильван.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.60G46JAl2vtIp8PU inline]{Beast Affinity}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.nPYmLXHoB7uhALKV inline]{Shepherd's Gift}</p><p>@Embed[.Advancement.6XFMqppJfCZOIRbe inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.60G46JAl2vtIp8PU inline]{Сродство со Зверями}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.nPYmLXHoB7uhALKV inline]{Дар Пастуха}</p><p>@Embed[.Advancement.6XFMqppJfCZOIRbe inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

@@ -1,5 +1,5 @@
 {
-  "name": "Смоллфолк",
+  "name": "Малый Народец",
   "type": "lineage",
   "_id": "cBURD485nDtmJDeE",
   "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
@@ -19,7 +19,7 @@
         "flags": {},
         "title": "",
         "icon": "",
-        "hint": "Your size is Small. Smallfolk are rarely more than 3 feet tall and average about 40 pounds."
+        "hint": "Ваш размер — Маленький. Рост малого народа редко превышает 3 фута, а вес в среднем составляет около 40 фунтов."
       },
       "JtnPBTVALk0U388y": {
         "type": "grantFeatures",
@@ -44,7 +44,7 @@
       }
     },
     "description": {
-      "value": "<p>Your smallfolk character has the following hereditary traits.</p><p><em><strong>Age.</strong></em> Smallfolk reach adulthood around 20 and typically live to be around 150 years old, though gnomes sometimes live twice as long.</p><p>@Embed[.Advancement.3xaQdDSxh1fZDCYW inline]{Size}</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.VKCrrfVz1eRp0q9a inline]{Grounded}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.09csUUrIKoum4S7I inline]{Small Stature}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.16psMWogIaoLGhSb inline]{Natural Adaptation}</p>",
+      "value": "<p>Ваш персонаж из малого народа обладает следующими наследственными чертами.</p><p><em><strong>Возраст.</strong></em> Малый народ достигает совершеннолетия примерно к 20 годам и обычно живет около 150 лет, хотя гномы иногда живут вдвое дольше.</p><p>@Embed[.Advancement.3xaQdDSxh1fZDCYW inline]{Размер}</p><p><em><strong>Скорость.</strong></em> Ваша базовая скорость ходьбы составляет 30 футов.</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.VKCrrfVz1eRp0q9a inline]{Приземленность}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.09csUUrIKoum4S7I inline]{Малый Рост}</p><p>@Embed[Compendium.black-flag-ru.lineages.Item.16psMWogIaoLGhSb inline]{Естественная Адаптация}</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"

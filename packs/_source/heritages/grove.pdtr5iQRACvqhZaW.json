@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "Роща",
+  "name": "Наследие Рощи",
   "type": "heritage",
   "img": "icons/environment/wilderness/tree-oak.webp",
   "system": {
@@ -8,9 +8,9 @@
       "5T1mnPI3SisIsc7h": {
         "type": "trait",
         "_id": "5T1mnPI3SisIsc7h",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Typical grove heritage characters choose Elvish.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Типичные персонажи наследия рощи выбирают Эльфийский.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.dY7HGWQ3eTZwCoJW inline]{Canopy Walker}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.PgizKCeRI9qz8mGW inline]{Nature's Camouflage}</p><p>@Embed[.Advancement.5T1mnPI3SisIsc7h inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.dY7HGWQ3eTZwCoJW inline]{Ходок по Кронам}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.PgizKCeRI9qz8mGW inline]{Природный Камуфляж}</p><p>@Embed[.Advancement.5T1mnPI3SisIsc7h inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

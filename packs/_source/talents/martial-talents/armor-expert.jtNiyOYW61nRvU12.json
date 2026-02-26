@@ -1,6 +1,6 @@
 {
   "folder": "V2c8l088EDq2uWyR",
-  "name": "Эксперт по броне",
+  "name": "Эксперт по Доспехам",
   "type": "talent",
   "_id": "jtNiyOYW61nRvU12",
   "img": "icons/equipment/chest/breastplate-banded-steel-grey.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>Your experience with armor allows you to weather mighty onslaughts. While you are wearing medium or heavy armor with which you are proficient, you gain these benefits:</p><ul><li><p>Your AC increases by 1.</p></li><li><p>You have advantage on saves to avoid being pulled, shoved, or knocked prone.</p></li></ul>",
+      "value": "<p><strong>Требование:</strong> СИЛ 13 или выше</p><p>Ваш опыт обращения с доспехами позволяет вам выдерживать мощные атаки. Пока вы носите средний или тяжелый доспех, которым владеете, вы получаете следующие преимущества:</p><ul><li><p>Ваш КД увеличивается на 1.</p></li><li><p>Вы совершаете с преимуществом спасброски, чтобы избежать притягивания, отталкивания или сбивания с ног.</p></li></ul>",
       "source": {}
     },
     "restriction": {

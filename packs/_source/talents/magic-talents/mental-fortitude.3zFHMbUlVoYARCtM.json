@@ -1,11 +1,11 @@
 {
   "folder": "Y7Db5YMWkaspCbJA",
-  "name": "Психическая стойкость",
+  "name": "Ментальная Стойкость",
   "type": "talent",
   "img": "icons/magic/control/silhouette-aura-energy.webp",
   "system": {
     "description": {
-      "value": "<p>Through rigid mental exercise, you have fortified yourself against mind-altering effects. You gain these benefits:</p><ul><li><p>Once per short rest, when you fail an INT, WIS, or CHA save, you can choose to reroll the save and take the new result.</p></li><li><p>When you start your turn charmed, frightened, paralyzed, or stunned, you gain 1 Luck.</p></li></ul>",
+      "value": "<p>Благодаря строгим умственным упражнениям вы укрепили себя против эффектов, изменяющих сознание. Вы получаете следующие преимущества:</p><ul><li><p>Один раз за короткий отдых, когда вы проваливаете спасбросок ИНТ, МДР или ХАР, вы можете выбрать перебросить спасбросок и использовать новый результат.</p></li><li><p>Когда вы начинаете свой ход очарованным, испуганным, парализованным или оглушенным, вы получаете 1 Удачу.</p></li></ul>",
       "source": {}
     },
     "identifier": {},
@@ -25,11 +25,11 @@
       "8CuV3C7iBDTJEuCM": {
         "type": "utility",
         "_id": "8CuV3C7iBDTJEuCM",
-        "description": "<p>Если вы не смогли сохранить INT, WIS или CHA, вы можете перебросить сохранение и получить новый результат.</p>",
+        "description": "<p>Когда вы проваливаете спасбросок ИНТ, МДР или ХАР, вы можете перебросить его и принять новый результат.</p>",
         "system": {},
         "activation": {
           "type": "free",
-          "condition": "When you fail an INT, WIS, or CHA save"
+          "condition": "Когда вы проваливаете спасбросок ИНТ, МДР или ХАР"
         },
         "consumption": {
           "targets": [

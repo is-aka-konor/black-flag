@@ -3,6 +3,10 @@ import AdvancementTemplate from "./templates/advancement-template.mjs";
 import ConceptTemplate from "./templates/concept-template.mjs";
 import DescriptionTemplate from "./templates/description-template.mjs";
 
+const HERITAGE_ADVANCEMENT_TITLE_KEYS = {
+	Languages: "BF.Advancement.DefaultTitle.Heritage.Languages"
+};
+
 /**
  * Data definition for Background items.
  * @mixes {AdvancementTemplate}
@@ -50,6 +54,12 @@ export default class HeritageData extends ItemDataModel.mixin(
 	static migrateData(source) {
 		super.migrateData(source);
 		this._migrateSource(source);
+		const advancement = source.system?.advancement;
+		if (!advancement || typeof advancement !== "object") return;
+		for (const entry of Object.values(advancement)) {
+			if (!entry || typeof entry !== "object" || typeof entry.title !== "string") continue;
+			entry.title = HERITAGE_ADVANCEMENT_TITLE_KEYS[entry.title] ?? entry.title;
+		}
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */
@@ -70,13 +80,13 @@ export default class HeritageData extends ItemDataModel.mixin(
 	async _preCreate(data, options, user) {
 		if ((await super._preCreate(data, options, user)) === false) return false;
 		if (data._id || foundry.utils.hasProperty(data, "system.advancement")) return;
-		this._createInitialAdvancement([
-			{
-				type: "trait",
-				title: "Languages",
-				configuration: { grants: ["languages:standard:common"], choices: [{ count: 1, pool: "languages:*" }] }
-			}
-		]);
+			this._createInitialAdvancement([
+				{
+					type: "trait",
+					title: "BF.Advancement.DefaultTitle.Heritage.Languages",
+					configuration: { grants: ["languages:standard:common"], choices: [{ count: 1, pool: "languages:*" }] }
+				}
+			]);
 	}
 
 	/* <><><><> <><><><> <><><><> <><><><> */

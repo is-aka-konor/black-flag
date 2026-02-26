@@ -1,6 +1,6 @@
 {
   "folder": "R1awenmjaG5qtAQT",
-  "name": "Внимательный",
+  "name": "Дотошный",
   "type": "talent",
   "_id": "R7ePJd2INo50LAx8",
   "img": "icons/sundries/lights/lantern-bullseye-signal-copper.webp",
@@ -32,13 +32,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Scrutinous",
+        "title": "Дотошный",
         "icon": "",
-        "hint": "You gain a +5 bonus to your passive Perception and passive Investigation."
+        "hint": "Вы получаете бонус +5 к вашему пассивному Восприятию и пассивному Расследованию."
       }
     },
     "description": {
-      "value": "<p>You have a keen eye for detail. You gain these benefits:</p><ul><li><p>When a creature you can see speaks in a language that you know, you can discern what they are saying even if you can’t hear them.</p></li><li><p>You gain a +5 bonus to your passive Perception and passive Investigation.</p></li><li><p>When you spend 1 minute or longer examining an object for fine or hidden details, you can ask your GM one question about it, and they must answer truthfully.</p></li><li><p>If you hear a creature speak for 1 minute or longer, you can mimic its voice. A creature familiar with your target can succeed on a WIS (Insight) check opposed by your CHA (Deception) to understand the ruse.</p></li></ul>",
+      "value": "<p>У вас острый глаз на детали. Вы получаете следующие преимущества:</p><ul><li><p>Когда существо, которое вы можете видеть, говорит на языке, который вы знаете, вы можете различить, что оно говорит, даже если не слышите его.</p></li><li><p>Вы получаете бонус +5 к вашему пассивному Восприятию и пассивному Расследованию.</p></li><li><p>Когда вы тратите 1 минуту или дольше на изучение объекта на предмет мелких или скрытых деталей, вы можете задать вашему Мастеру один вопрос о нем, и он должен ответить правдиво.</p></li><li><p>Если вы слышите, как существо говорит в течение 1 минуты или дольше, вы можете имитировать его голос. Существо, знакомое с вашей целью, может преуспеть в проверке МДР (Проницательность), оспоренной вашей проверкой ХАР (Обман), чтобы понять обман.</p></li></ul>",
       "source": {}
     },
     "restriction": {

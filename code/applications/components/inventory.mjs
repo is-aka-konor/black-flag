@@ -275,6 +275,11 @@ export default class InventoryElement extends DocumentSheetAssociatedElement {
 		if (action !== "add" && !item) return this.app._onAction?.(event, dataset);
 		const activityId = (target.closest("[data-activity-id]") || target)?.dataset?.activityId;
 		const activity = item?.system.activities?.get(activityId);
+		const setRelationshipFlag = (key, value) =>
+			item.update({
+				[`flags.${game.system.id}.relationship.${key}`]: value,
+				[`flags.black-flag.relationship.${key}`]: value
+			});
 
 		switch (action) {
 			case "add":
@@ -282,7 +287,7 @@ export default class InventoryElement extends DocumentSheetAssociatedElement {
 			case "adjustment":
 				return this._onAdjustment(item, target);
 			case "attune":
-				return item.setFlag("black-flag", "relationship.attuned", !item.system.attuned);
+				return setRelationshipFlag("attuned", !item.system.attuned);
 			case "deleteActivity":
 				if (activity) return activity.deleteDialog();
 			case "delete":
@@ -296,9 +301,9 @@ export default class InventoryElement extends DocumentSheetAssociatedElement {
 			case "view":
 				return item.sheet.render(true);
 			case "enable":
-				return item.setFlag("black-flag", "relationship.enabled", !item.enabled);
+				return setRelationshipFlag("enabled", !item.enabled);
 			case "equip":
-				return item.setFlag("black-flag", "relationship.equipped", !item.system.equipped);
+				return setRelationshipFlag("equipped", !item.system.equipped);
 			case "expand":
 				return this._onExpand(item, target);
 			case "activate":
@@ -308,7 +313,7 @@ export default class InventoryElement extends DocumentSheetAssociatedElement {
 			case "post":
 				return item.postToChat();
 			case "prepare":
-				return item.setFlag("black-flag", "relationship.prepared", !item.system.prepared);
+				return setRelationshipFlag("prepared", !item.system.prepared);
 		}
 
 		return this.app._onAction?.(event, dataset);

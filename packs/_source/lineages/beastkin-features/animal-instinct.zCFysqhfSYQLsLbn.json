@@ -1,6 +1,6 @@
 {
   "folder": "qn9aEdgelNiRQN8Y",
-  "name": "Животный инстинкт",
+  "name": "Животный Инстинкт",
   "type": "feature",
   "_id": "zCFysqhfSYQLsLbn",
   "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
@@ -35,7 +35,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Animal Instinct",
+        "title": "Животный Инстинкт",
         "icon": "",
         "hint": "",
         "_id": "TGjs5LRpUSQkIgim",
@@ -44,7 +44,7 @@
       }
     },
     "description": {
-      "value": "<p>You have proficiency in either the Perception or Survival skill (your choice).</p>",
+      "value": "<p>Вы владеете навыком Восприятие или Выживание (на ваш выбор).</p>",
       "source": {}
     },
     "restriction": {

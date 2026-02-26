@@ -1,6 +1,6 @@
 {
   "folder": "4YOTCKl2AYTMhWlk",
-  "name": "Естественная адаптация",
+  "name": "Естественная Адаптация",
   "type": "feature",
   "_id": "16psMWogIaoLGhSb",
   "img": "icons/creatures/eyes/human-single-brown.webp",
@@ -40,13 +40,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Natural Adaptation",
+        "title": "Естественная Адаптация",
         "icon": "",
-        "hint": "You inherited one of the following unique traits, determined by whether your characteristics are gnomish or halfling:"
+        "hint": "Вы унаследовали одну из следующих уникальных черт, определяемую тем, являются ли ваши характеристики гномьими или полуросличьими:"
       }
     },
     "description": {
-      "value": "<p>You inherited one of the following unique traits, determined by whether your characteristics are gnomish or halfling:</p><p>@Embed[.Advancement.oZdI6DZZwulWVNCm inline style=list]</p>",
+      "value": "<p>Вы унаследовали одну из следующих уникальных черт, определяемую тем, являются ли ваши характеристики гномьими или полуросличьими:</p><p>@Embed[.Advancement.oZdI6DZZwulWVNCm inline style=list]</p>",
       "source": {}
     },
     "restriction": {

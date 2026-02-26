@@ -1,5 +1,5 @@
 {
-  "name": "Коттедж",
+  "name": "Деревенское Наследие",
   "type": "heritage",
   "_id": "zVguHSReS4QGiydI",
   "img": "icons/environment/settlement/house-farmland-small.webp",
@@ -7,7 +7,7 @@
     "advancement": {
       "77WInvnTSQWABUBd": {
         "type": "trait",
-        "title": "Languages",
+        "title": "Языки",
         "configuration": {
           "grants": [
             "languages:standard:common"
@@ -29,7 +29,7 @@
         },
         "flags": {},
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Typical cottage heritage characters choose Halfling or Gnomish.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Типичные персонажи деревенского наследия выбирают Полуросличий или Гномий.",
         "selectedIndex": "-1",
         "selectedTrait": "languages"
       },
@@ -53,7 +53,7 @@
       }
     },
     "description": {
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.VvebtMb01hurrL2J inline]{Comforts of Home}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.gf9BOd0EZXxzSbLc inline]{Homesteader}</p><p>@Embed[.Advancement.77WInvnTSQWABUBd inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.VvebtMb01hurrL2J inline]{Домашний Уют}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.gf9BOd0EZXxzSbLc inline]{Домосед}</p><p>@Embed[.Advancement.77WInvnTSQWABUBd inline]{Языки}</p>",
       "source": {},
       "short": "",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"

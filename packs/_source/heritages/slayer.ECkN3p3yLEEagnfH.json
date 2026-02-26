@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "убийца",
+  "name": "Наследие Убийцы",
   "type": "heritage",
   "img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
   "system": {
@@ -8,9 +8,9 @@
       "keARfPlTLtOG9ree": {
         "type": "trait",
         "_id": "keARfPlTLtOG9ree",
-        "title": "",
+        "title": "Языки",
         "icon": "",
-        "hint": "You know Common and one additional language of your choice. Typical slayer heritage characters choose Primordial or Sylvan.",
+        "hint": "Вы знаете Общий и один дополнительный язык по вашему выбору. Типичные персонажи наследия убийцы выбирают Первородный или Сильван.",
         "level": {
           "value": 0
         },
@@ -55,7 +55,7 @@
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.6J1NfgxVkXX2RIfE inline]{Ferocity}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.SqSal1OIRyeCBN4e inline]{Natural Predator}</p><p>@Embed[.Advancement.keARfPlTLtOG9ree inline]{Languages}</p>",
+      "value": "<p>@Embed[Compendium.black-flag-ru.heritages.Item.6J1NfgxVkXX2RIfE inline]{Прирожденный Хищник}</p><p>@Embed[Compendium.black-flag-ru.heritages.Item.SqSal1OIRyeCBN4e inline]{Следопыт}</p><p>@Embed[.Advancement.keARfPlTLtOG9ree inline]{Языки}</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.C3VAVOH5gWMREZLD.JournalEntryPage.EVluLAqzZtqaTozc"
     },
     "identifier": {

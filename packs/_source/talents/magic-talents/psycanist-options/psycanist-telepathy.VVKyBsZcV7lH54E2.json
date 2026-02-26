@@ -1,6 +1,6 @@
 {
   "folder": "jQByUdmuA0zX6Sve",
-  "name": "Психолог: Телепатия",
+  "name": "Псиканист: Телепатия",
   "type": "feature",
   "_id": "VVKyBsZcV7lH54E2",
   "img": "icons/magic/nature/beam-hand-leaves-green.webp",
@@ -15,7 +15,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can telepathically speak with any creature within 30 feet of you. A creature doesn't need to share a language with you to communicate this way, but it must understand at least one language. Creatures you speak to can reply to you telepathically, but can’t initiate a telepathic conversation.</p>",
+      "value": "<p>Вы можете телепатически общаться с любым существом в пределах 30 футов от вас. Существу не нужно знать общий с вами язык для такого общения, но оно должно понимать хотя бы один язык. Существа, с которыми вы говорите, могут отвечать вам телепатически, но не могут инициировать телепатический разговор.</p>",
       "source": {}
     },
     "restriction": {

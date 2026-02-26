@@ -1,6 +1,6 @@
 {
   "folder": "GOXCBfvkDFYjW842",
-  "name": "гномский",
+  "name": "Гномьи",
   "type": "feature",
   "_id": "w4ToYMQLZI9Bdc4B",
   "img": "icons/creatures/magical/humanoid-silhouette-green.webp",
@@ -40,7 +40,7 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Gnomish Magic",
+        "title": "Гномья Магия",
         "icon": "",
         "hint": ""
       },
@@ -61,14 +61,14 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Darkvision",
+        "title": "Темное Зрение",
         "icon": null,
-        "hint": "You have darkvision to a range of 60 feet.",
+        "hint": "У вас темное зрение в радиусе 60 футов.",
         "_id": "Rpohfj0DknWxZThG"
       }
     },
     "description": {
-      "value": "<p>Your ancestors made their homes underground or in dark woodlands, providing you with darkvision to a range of 60 feet. In addition, you learn the @UUID[Compendium.black-flag-ru.spells.Item.AR6lGdaHEnUy6Em6]{minor illusion} cantrip. Choose whether INT, WIS, or CHA is your spellcasting ability for this spell during character creation.</p>",
+      "value": "<p>Ваши предки жили под землей или в темных лесах, что обеспечило вас темным зрением в радиусе 60 футов. Кроме того, вы изучаете заговор @UUID[Compendium.black-flag-ru.spells.Item.AR6lGdaHEnUy6Em6]{Малая иллюзия}. Выберите, ИНТ, МДР или ХАР будет вашей базовой характеристикой для этого заклинания при создании персонажа.</p>",
       "source": {}
     },
     "restriction": {

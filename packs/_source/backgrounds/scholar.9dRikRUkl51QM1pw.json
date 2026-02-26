@@ -1,6 +1,6 @@
 {
   "folder": null,
-  "name": "ученый",
+  "name": "Ученый",
   "type": "background",
   "img": "icons/sundries/books/book-stack.webp",
   "system": {
@@ -25,7 +25,7 @@
           "choiceMode": "inclusive",
           "hint": ""
         },
-        "title": "Skill Proficiencies",
+        "title": "Владение Навыками",
         "icon": "",
         "level": {
           "value": 0
@@ -33,12 +33,12 @@
         "flags": {},
         "selectedIndex": "0",
         "selectedTrait": "skills",
-        "hint": "Choose two from Arcana, History, Nature, or Religion."
+        "hint": "Выберите два из: Магия, История, Природа или Религия."
       },
       "3Qnb0oAVdHBgsK8t": {
         "type": "trait",
         "_id": "3Qnb0oAVdHBgsK8t",
-        "title": "Additional Proficiencies",
+        "title": "Дополнительные Владения",
         "icon": "",
         "level": {
           "value": 0
@@ -67,14 +67,14 @@
         "flags": {},
         "selectedIndex": "1",
         "selectedTrait": "tools",
-        "hint": "Learn two additional languages of your choice or gain proficiency with a tool or vehicle relevant to your field of study."
+        "hint": "Изучите два дополнительных языка по вашему выбору или получите владение инструментом или транспортным средством, относящимся к вашей области изучения."
       },
       "8jc0KWnsuX1WvfdT": {
         "type": "chooseFeatures",
         "_id": "8jc0KWnsuX1WvfdT",
-        "title": "Talent",
+        "title": "Талант",
         "icon": "",
-        "hint": "You have spent time researching particular academic subjects at an institute of learning or under a knowledgeable teacher. Choose a talent from this list to represent your experience: Polyglot, Ritualist, or School Specialization.",
+        "hint": "Вы посвятили время исследованию определенных академических предметов в учебном заведении или под руководством знающего учителя. Выберите талант из этого списка, чтобы отразить ваш опыт: Полиглот, Ритуалист или Специализация Школы.",
         "configuration": {
           "restriction": {
             "category": ""
@@ -176,13 +176,13 @@
         "icon": null,
         "flags": {},
         "title": "",
-        "hint": "A bottle of ink, a quill, a small knife, a\nreference book on a highly specific subject, a set of common clothes, and a pouch containing 10 gp."
+        "hint": "Флакон чернил, перо, маленький нож, справочник по очень специфической теме, комплект обычной одежды и мешочек с 10 зм."
       }
     },
     "description": {
       "short": "",
       "source": {},
-      "value": "<p>@Embed[.Advancement.pEYskJJdpwVHJhJi inline]{Skill Proficiencies}</p><p>@Embed[.Advancement.3Qnb0oAVdHBgsK8t inline]{Additional Proficiencies}</p><p>@Embed[.Advancement.siKPfdbIxGakSmTN inline]{Equipment}</p><h5>Talent</h5><p>@Embed[.Advancement.8jc0KWnsuX1WvfdT inline list=false]</p>",
+      "value": "<p>@Embed[.Advancement.pEYskJJdpwVHJhJi inline]{Владение Навыками}</p><p>@Embed[.Advancement.3Qnb0oAVdHBgsK8t inline]{Дополнительные Владения}</p><p>@Embed[.Advancement.siKPfdbIxGakSmTN inline]{Снаряжение}</p><h5>Талант</h5><p>@Embed[.Advancement.8jc0KWnsuX1WvfdT inline list=false]</p>",
       "journal": "Compendium.black-flag-ru.rules.JournalEntry.ShYcUWLaDqWKdRJb.JournalEntryPage.4xUMOEEWiF7XtEJT"
     },
     "identifier": {
