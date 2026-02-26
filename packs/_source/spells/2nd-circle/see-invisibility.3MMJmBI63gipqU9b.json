@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "См. Невидимость",
+  "name": "Видеть невидимое",
   "type": "spell",
   "_id": "3MMJmBI63gipqU9b",
   "img": "icons/magic/perception/eye-slit-pink.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.</p>",
+      "value": "<p>На время действия заклинания вы видите невидимых существ и предметы так, как если бы они были видимы, и вы можете видеть в Эфирный План. Эфирные существа и предметы кажутся призрачными и полупрозрачными.</p>",
       "source": {},
       "short": "Увидеть невидимое и неземное."
     },

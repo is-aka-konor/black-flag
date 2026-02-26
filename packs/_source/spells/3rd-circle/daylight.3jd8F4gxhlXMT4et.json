@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A 60-foot-radius sphere of daylight spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.</p><p>If you choose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.</p><p>If any of this spell’s area overlaps with an area of darkness created by a spell of 3rd circle or lower such as that created by the darkness spell, the spell that created the <em>darkness</em> is dispelled.</p>",
+      "value": "<p>Сфера дневного света радиусом 60 футов распространяется из выбранной вами точки в пределах дистанции. Сфера является ярким светом и излучает тусклый свет на дополнительные 60 футов. Если вы выбираете точку на предмете, который держите, или на предмете, который никто не носит и не несет, свет исходит от предмета и движется вместе с ним. Полное накрытие затронутого предмета непрозрачным предметом, таким как чаша или шлем, блокирует свет. Если какая-либо часть области этого заклинания перекрывается с областью тьмы, созданной заклинанием 3-го круга или ниже, таким как созданное заклинанием <em>тьма</em>, заклинание, создавшее тьму, развеивается.</p>",
       "source": {},
       "short": "Создайте сферу дневного света."
     },

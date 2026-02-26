@@ -87,7 +87,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "At the end of each of the target’s turns",
+          "condition": "В конце каждого хода цели",
           "primary": false
         },
         "consumption": {
@@ -131,7 +131,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice selected from the options below.</p><p>At the end of each of the target’s turns, it must make a [[/save]] save. After failing three of these saves, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saves, the creature recovers from the disease and the spell ends.</p><p>Since this spell induces a natural disease in its target, any effect that removes or suppresses a disease’s effects apply to it.</p><p><strong>Blinding Sickness.</strong> Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.</p><p><strong>Filth Fever.</strong> A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.</p><p><strong>Flesh Rot.</strong> The creature’s flesh decays. The creature has disadvantage on CHA checks and becomes vulnerable to all damage.</p><p><strong>Mindfire.</strong> The creature’s mind becomes feverish. The creature has disadvantage on INT checks and INT saves, and the creature behaves as if under the effects of the confusion spell during combat.</p><p><strong>Seizure.</strong> The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.</p><p><strong>Slimy Doom.</strong> The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.</p>",
+      "value": "<p>Совершите рукопашную атаку заклинанием по существу в пределах вашей досягаемости. При попадании вы поражаете существо болезнью по вашему выбору из вариантов ниже. В конце каждого хода цели она должна совершить [[/save]] спасбросок Телосложения. После трех проваленных спасбросков эффекты болезни длятся в течение всего времени действия, и существо прекращает совершать эти спасброски. После трех успешных спасбросков существо излечивается от болезни, и заклинание заканчивается. Поскольку это заклинание вызывает у цели естественную болезнь, любой эффект, который снимает или подавляет эффекты болезни, применяется к ней.</p><h4>Варианты болезней | Disease Options</h4><ul><li><strong>Слепящая болезнь:</strong> Боль охватывает разум существа, а его глаза становятся молочно-белыми. Существо имеет помеху на проверки Мудрости и спасброски Мудрости и ослеплено.</li><li><strong>Грязная лихорадка:</strong> Бушующая лихорадка охватывает тело существа. Существо имеет помеху на проверки Силы, спасброски Силы и броски атаки, использующие Силу.</li><li><strong>Гниение плоти:</strong> Плоть существа разлагается. Существо имеет помеху на проверки Харизмы и становится уязвимым ко всему урону.</li><li><strong>Разумный огонь:</strong> Разум существа становится лихорадочным. Существо имеет помеху на проверки Интеллекта и спасброски Интеллекта, и существо ведет себя так, как будто находится под действием заклинания <em>смятение</em> во время боя.</li><li><strong>Судороги:</strong> Существо охватывает дрожь. Существо имеет помеху на проверки Ловкости, спасброски Ловкости и броски атаки, использующие Ловкость.</li><li><strong>Слизистая погибель:</strong> Существо начинает неконтролируемо кровоточить. Существо имеет помеху на проверки Телосложения и спасброски Телосложения. Кроме того, когда существо получает урон, оно ошеломлено до конца своего следующего хода.</li></ul>",
       "source": {},
       "short": "Больной враг с болезнью."
     },
@@ -203,7 +203,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"wisdom\" }], \"note\": { \"rollMode\": -1, \"text\": \"Pain grips your’s mind, and your eyes turn milky white. You have disadvantage on WIS checks and WIS saves and area blinded.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"wisdom\"}], \"note\": {\"rollMode\": -1, \"text\": \"Боль сковывает ваш разум, а глаза становятся молочно-белыми. Вы совершаете с помехой проверки МДР и спасброски МДР и считаетесь ослеплённым.\"}}",
           "priority": null
         }
       ],
@@ -249,7 +249,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"] }, { \"k\": \"ability\", \"v\": \"strength\" }], \"note\": { \"rollMode\": -1, \"text\": \"A raging fever sweeps through the your body. You have disadvantage on STR checks, STR saves, and attack rolls that use STR.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"]}, {\"k\": \"ability\", \"v\": \"strength\"}], \"note\": {\"rollMode\": -1, \"text\": \"Сильный жар охватывает ваше тело. Вы совершаете с помехой проверки СИЛ, спасброски СИЛ и броски атаки, использующие СИЛ.\"}}",
           "priority": null
         }
       ],
@@ -293,7 +293,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"charisma\" }], \"note\": { \"rollMode\": -1, \"text\": \"Your flesh decays. You have disadvantage on CHA checks and become vulnerable to all damage.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"charisma\"}], \"note\": {\"rollMode\": -1, \"text\": \"Ваша плоть разлагается. Вы совершаете с помехой проверки ХАР и становитесь уязвимы ко всему урону.\"}}",
           "priority": null
         },
         {
@@ -343,7 +343,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"intelligence\" }], \"note\": { \"rollMode\": -1, \"text\": \"Your mind becomes feverish. You have disadvantage on INT checks and INT saves, and you behave as if under the effects of the confusion spell during combat.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"intelligence\"}], \"note\": {\"rollMode\": -1, \"text\": \"Ваш разум охватывает лихорадка. Вы совершаете с помехой проверки ИНТ и спасброски ИНТ и в бою действуете так, как будто на вас действует заклинание Смятение.\"}}",
           "priority": null
         }
       ],
@@ -387,7 +387,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"] }, { \"k\": \"ability\", \"v\": \"dexterity\" }], \"note\": { \"rollMode\": -1, \"text\": \"You are overcome with shaking. You have disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"]}, {\"k\": \"ability\", \"v\": \"dexterity\"}], \"note\": {\"rollMode\": -1, \"text\": \"Вас бьёт дрожь. Вы совершаете с помехой проверки ЛОВ, спасброски ЛОВ и броски атаки, использующие ЛОВ.\"}}",
           "priority": null
         }
       ],
@@ -431,7 +431,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"constitution\" }], \"note\": { \"rollMode\": -1, \"text\": \"You begin to bleed uncontrollably. You have disadvantage on CON checks and CON saves. In addition, when you take damage, you are stunned until the end of your next turn.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"constitution\"}], \"note\": {\"rollMode\": -1, \"text\": \"Вы начинаете неконтролируемо кровоточить. Вы совершаете с помехой проверки ТЕЛ и спасброски ТЕЛ. Кроме того, когда вы получаете урон, вы оглушены до конца вашего следующего хода.\"}}",
           "priority": null
         }
       ],

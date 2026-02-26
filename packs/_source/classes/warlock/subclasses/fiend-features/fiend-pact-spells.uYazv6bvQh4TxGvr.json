@@ -1,6 +1,6 @@
 {
   "folder": "GDoFM686nV2sICKW",
-  "name": "Заклинания Дьявольского договора",
+  "name": "Заклинания Дьявольского Договора",
   "type": "feature",
   "_id": "uYazv6bvQh4TxGvr",
   "img": "icons/magic/symbols/chevron-elipse-circle-blue.webp",
@@ -40,7 +40,7 @@
           "classIdentifier": "warlock"
         },
         "flags": {},
-        "title": "Fiend Pact Spells",
+        "title": "Заклинания Дьявольского Договора",
         "icon": null,
         "hint": ""
       },
@@ -69,7 +69,7 @@
           "classIdentifier": "warlock"
         },
         "flags": {},
-        "title": "Fiend Pact Spells",
+        "title": "Заклинания Дьявольского Договора",
         "icon": null,
         "hint": "",
         "_id": "khYHyheuryOmC3r1"
@@ -99,7 +99,7 @@
           "classIdentifier": "warlock"
         },
         "flags": {},
-        "title": "Fiend Pact Spells",
+        "title": "Заклинания Дьявольского Договора",
         "icon": null,
         "hint": "",
         "_id": "8ud1gZSIj9eFgExg"
@@ -129,7 +129,7 @@
           "classIdentifier": "warlock"
         },
         "flags": {},
-        "title": "Fiend Pact Spells",
+        "title": "Заклинания Дьявольского Договора",
         "icon": null,
         "hint": "",
         "_id": "NXjbkCgo87EWz6mQ"
@@ -159,14 +159,14 @@
           "classIdentifier": "warlock"
         },
         "flags": {},
-        "title": "Fiend Pact Spells",
+        "title": "Заклинания Дьявольского Договора",
         "icon": null,
         "hint": "",
         "_id": "aeneCJ528FDFzKuT"
       }
     },
     "description": {
-      "value": "<p>You gain pact spells at the warlock levels listed in the <strong>Fiend Pact Spells</strong> table. See the Warlock Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.L9WtAAZIGujehtrq inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Дьявольского Договора</strong> на соответствующих уровнях колдуна. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.L9WtAAZIGujehtrq inline]</p>",
       "source": {}
     },
     "restriction": {

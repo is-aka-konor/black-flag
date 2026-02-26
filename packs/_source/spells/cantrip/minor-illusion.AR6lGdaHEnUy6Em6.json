@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Незначительная иллюзия",
+  "name": "Малая иллюзия",
   "type": "spell",
   "_id": "AR6lGdaHEnUy6Em6",
   "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.</p><p>If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p><p>If you create an image of an object, such as a chair, muddy footprints, or a small chest, it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it.</p><p>If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful [[/check INT (Investigation)]] check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>",
+      "value": "<p>Вы создаете звук или образ предмета в пределах дистанции, который длится на время действия заклинания. Иллюзия также заканчивается, если вы прекращаете ее действием или снова накладываете это заклинание. Если вы создаете звук, его громкость может варьироваться от шепота до крика. Это может быть ваш голос, чей-то другой голос, рык льва, бой барабанов или любой другой звук по вашему выбору. Звук продолжается непрерывно в течение всей длительности, или вы можете издавать дискретные звуки в разное время до окончания действия заклинания. Если вы создаете образ предмета, такого как стул, грязные следы или маленький сундук, он должен быть не больше 5-футового куба. Образ не может создавать звук, свет, запах или любой другой сенсорный эффект. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Если существо использует свое действие для изучения звука или образа, существо может определить, что это иллюзия, успешно совершив [[/check INT (Investigation)]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, иллюзия становится слабой для существа.</p>",
       "source": {},
       "short": "Маленький иллюзорный звук или изображение."
     },

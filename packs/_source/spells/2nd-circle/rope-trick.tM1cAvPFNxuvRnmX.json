@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Веревочный трюк",
+  "name": "Веревочная ловушка",
   "type": "spell",
   "_id": "tM1cAvPFNxuvRnmX",
   "img": "icons/sundries/survival/rope-coiled-tan.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.</p><p>The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.</p><p>Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5‑foot window centered on the rope.</p><p>Anything inside the extradimensional space falls to the ground when the spell ends.</p>",
+      "value": "<p>Вы касаетесь отрезка веревки длиной до 60 футов. Один конец веревки затем поднимается в воздух, пока вся веревка не повиснет перпендикулярно земле. На верхнем конце веревки открывается невидимый вход в экстрамерное пространство, которое существует до окончания действия заклинания. В экстрамерное пространство можно попасть, взобравшись наверх по веревке. Пространство может вместить до восьми существ Среднего размера или меньше. Веревку можно втянуть в пространство, заставив ее исчезнуть из виду снаружи пространства. Атаки и заклинания не могут пересекать вход ни внутрь, ни наружу из экстрамерного пространства, но те, кто внутри, могут видеть из него, как сквозь окно размером 3x3 фута с центром на веревке. Все внутри экстрамерного пространства падает на землю, когда заклинание заканчивается.</p>",
       "source": {},
       "short": "Экстрапространственное убежище."
     },

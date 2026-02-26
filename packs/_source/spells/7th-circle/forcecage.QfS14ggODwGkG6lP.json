@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Силовая клетка",
+  "name": "Клетка силы",
   "type": "spell",
   "_id": "QfS14ggODwGkG6lP",
   "img": "icons/magic/light/light-lantern-lit-white.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box (your choice).</p><p>A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch-diameter bars spaced 1/2 inch apart.</p><p>A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.</p><p>When you cast the spell, any creature that is completely inside the cage’s area is trapped. Creatures only partially within the area and those too large to fit inside the area are pushed away from the center of the area until they are completely outside it.</p><p>A creature inside the cage can’t leave it by nonmagical means. If the creature tries to use a spell or any other magical means of teleportation or interplanar travel to leave the cage, it must first make a [[/save CHA]] save. On a success, the creature can use that magic to exit the cage. On a failure, the creature can’t exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.</p><p>This spell can’t be dispelled by <em>dispel magic</em>.</p>",
+      "value": "<p>Неподвижная, невидимая, кубическая тюрьма, состоящая из магической силы, возникает вокруг области, выбранной вами в пределах дистанции. Тюрьма может быть клеткой или сплошной коробкой (на ваш выбор). Тюрьма в форме клетки может иметь сторону до 20 футов и сделана из прутьев диаметром 1/2 дюйма, расположенных на расстоянии 1/2 дюйма друг от друга. Тюрьма в форме коробки может иметь сторону до 10 футов, создавая сплошной барьер, который предотвращает прохождение любой материи сквозь него и блокирует любые заклинания, накладываемые в область или из нее. Когда вы накладываете заклинание, любое существо, полностью находящееся внутри области клетки, оказывается в ловушке. Существа, находящиеся лишь частично внутри области, и те, что слишком велики, чтобы поместиться внутри области, выталкиваются от центра области до тех пор, пока не окажутся полностью снаружи. Существо внутри клетки не может покинуть ее немагическими средствами. Если существо пытается использовать заклинание или любое другое магическое средство телепортации или межпланарного путешествия, чтобы покинуть клетку, оно должно сначала совершить [[/save CHA]] спасбросок Харизмы. В случае успеха существо может использовать эту магию, чтобы выйти из клетки. При провале существо не может покинуть клетку и тратит использование заклинания или эффекта. Клетка также простирается в Эфирный План, блокируя эфирное путешествие. Это заклинание не может быть развеяно <em>развеиванием магии</em>.</p>",
       "source": {},
       "short": "Заключить врагов в тюрьму на 1 час."
     },

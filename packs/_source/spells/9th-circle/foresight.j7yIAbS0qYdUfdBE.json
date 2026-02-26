@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Форсайт",
+  "name": "Предвидение",
   "type": "spell",
   "_id": "j7yIAbS0qYdUfdBE",
   "img": "icons/magic/perception/third-eye-blue-red.webp",
@@ -68,7 +68,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target can’t be surprised and has advantage on attack rolls, ability checks, and saves. In addition, other creatures have disadvantage on attack rolls against the target for the duration.</p><p>This spell immediately ends if you cast it again before its duration ends.</p><p>Once you target a creature with this spell, the same creature can’t gain the benefits of this spell until 7 days have passed.</p>",
+      "value": "<p>Даровать способность видеть ближайшее будущее. Цель не может быть застигнута врасплох и имеет преимущество на броски атаки, проверки характеристик и спасброски. Другие существа имеют помеху на броски атаки против цели.</p>",
       "source": {},
       "short": "Элли видит ближайшее будущее."
     },
@@ -147,7 +147,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"] }], \"note\": { \"rollMode\": 1, \"text\": \"You can’t be surprised and have advantage on attack rolls, ability checks, and saves. In addition, other creatures have disadvantage on attack rolls against you.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"]}], \"note\": {\"rollMode\": 1, \"text\": \"Вас нельзя застать врасплох, и вы совершаете с преимуществом броски атаки, проверки характеристик и спасброски. Кроме того, другие существа совершают по вам броски атаки с помехой.\"}}",
           "priority": null
         }
       ],

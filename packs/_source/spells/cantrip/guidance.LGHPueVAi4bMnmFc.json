@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Руководство",
+  "name": "Указание",
   "type": "spell",
   "_id": "LGHPueVAi4bMnmFc",
   "img": "icons/magic/symbols/circled-gem-pink.webp",
@@ -47,7 +47,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>",
+      "value": "<p>Вы касаетесь одного согласного существа. Один раз до окончания действия [[/r d4]] заклинания цель может бросить к4 и добавить выпавшее число к одной проверке характеристики по своему выбору. Она может бросить кубик до или после совершения проверки характеристики. Затем заклинание заканчивается.</p>",
       "source": {},
       "short": "Союзник добавляет d4 к проверке способностей."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "укус",
+  "name": "Сглаз",
   "type": "spell",
   "_id": "yOoinQLdJ9jWvSIh",
   "img": "icons/magic/unholy/orb-swirling-teal.webp",
@@ -121,7 +121,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the spell’s duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a WIS save or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can’t target a creature again if it has succeeded on a save against this casting of <em>eyebite</em>.</p><p><strong>Asleep.</strong> The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.</p><p><strong>Panicked.</strong> The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.</p><p><strong>Sickened.</strong> The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another WIS save. If it succeeds, the effect ends.</p>",
+      "value": "<p>На время действия заклинания ваши глаза становятся чернильной пустотой, наполненной ужасающей силой. Одно существо по вашему выбору в пределах 60 футов от вас, которое вы можете видеть, должно преуспеть в спасброске Мудрости, иначе будет подвержено одному из следующих эффектов по вашему выбору на время действия заклинания. В каждый ваш ход до окончания действия заклинания вы можете использовать свое действие, чтобы выбрать целью другое существо, но не можете снова выбрать целью существо, если оно преуспело в спасброске против этого накладывания <em>сглаза</em>.</p><blockquote><p>- _Сон:_ Цель падает без сознания. Она просыпается, если получает какой-либо урон или если другое существо использует свое действие, чтобы разбудить спящего.</p><p>- _Паника:_ Цель напугана вами. В каждый свой ход напуганное существо должно совершить действие Рывок и двигаться от вас по самому безопасному и кратчайшему доступному маршруту, если только двигаться некуда. Если цель перемещается в место на расстоянии не менее 60 футов от вас, где она больше не может вас видеть, этот эффект заканчивается.</p><p>- _Тошнота:_ Цель имеет помеху на броски атаки и проверки характеристик. В конце каждого своего хода она может совершить еще один спасбросок Мудрости. Если она преуспевает, эффект заканчивается.</p></blockquote>",
       "source": {},
       "short": "Враги паникуют, заболевают или усыпляются."
     },
@@ -275,7 +275,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"attack\"] }], \"note\": { \"rollMode\": -1, \"text\": \"You have disadvantage on attack rolls and ability checks.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"attack\"]}], \"note\": {\"rollMode\": -1, \"text\": \"Вы совершаете с помехой броски атаки и проверки характеристик.\"}}",
           "priority": null
         }
       ],

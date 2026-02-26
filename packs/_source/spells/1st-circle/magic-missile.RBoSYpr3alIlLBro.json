@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Волшебная ракета",
+  "name": "Волшебная стрела",
   "type": "spell",
   "_id": "RBoSYpr3alIlLBro",
   "img": "icons/magic/light/projectiles-trio-pink.webp",
@@ -80,7 +80,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create three darts that each hit a creature of your choice you can see within range. You can choose whether the darts hit the same creature or different creatures. Each dart deals [[/damage]] damage to its target.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, it creates one additional dart for each slot above 1st.</p>",
+      "value": "<p>Вы создаете три дротика, каждый из которых попадает в существо по вашему выбору, которое вы можете видеть в пределах дистанции. Вы можете выбрать, попадут ли дротики в одно и то же существо или в разных существ. Каждый дротик наносит своей цели [[/damage]] 1к4 + 1 урона силовым полем.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, оно создает один дополнительный дротик за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Гарантированный силовой урон."
     },

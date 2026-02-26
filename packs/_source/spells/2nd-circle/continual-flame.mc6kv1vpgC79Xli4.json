@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Постоянное пламя",
+  "name": "Вечный огонь",
   "type": "spell",
   "_id": "mc6kv1vpgC79Xli4",
   "img": "icons/magic/fire/flame-burning-fence.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A flame equivalent in brightness to a torch springs from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. The flame can be covered or hidden but not smothered or quenched.</p>",
+      "value": "<p>Пламя, эквивалентное по яркости факелу, возникает из предмета, которого вы касаетесь. Эффект выглядит как обычное пламя, но не создает тепла и не потребляет кислород. Пламя можно накрыть или спрятать, но не задушить или потушить.</p>",
       "source": {},
       "short": "Нежаркое, продолжительное пламя."
     },

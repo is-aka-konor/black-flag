@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Интернет",
+  "name": "Паутина",
   "type": "spell",
   "_id": "HNAOZepYj1Cmtfje",
   "img": "icons/creatures/invertebrates/spider-web-black.webp",
@@ -49,7 +49,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.</p><p>Each creature that starts its turn in the webs or that enters them during its turn must make a [[/save]] save. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a [[/check STR dc=@spellcasting.dc]] check against your spell save DC. If it succeeds, it is no longer restrained.</p><p>The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing [[/damage 2d4 fire]] damage to any creature that starts its turn in the fire.</p>",
+      "value": "<p>Вы вызываете массу густой, липкой паутины в точке по вашему выбору в пределах дистанции. Паутина заполняет 20-футовый куб от этой точки на время действия заклинания. Паутина является труднопроходимой местностью и слегка заслоняет свою область. Если паутина не закреплена между двумя твердыми массами (такими как стены или деревья) или не наслоена на пол, стену или потолок, вызванная паутина рушится сама на себя, и заклинание заканчивается в начале вашего следующего хода. Паутина, наслоенная на плоскую поверхность, имеет глубину 3 фута. Каждое существо, которое начинает свой ход в паутине или входит в нее во время своего хода, должно совершить [[/save]] спасбросок Ловкости. При проваленном спасброске существо опутано, пока остается в паутине или пока не освободится. Существо, опутанное паутиной, может использовать свое действие, чтобы совершить [[/check STR dc=@spellcasting.dc]] проверку Силы против Сл спасброска от вашего заклинания. Если оно преуспевает, оно больше не опутано. Паутина легковоспламеняема. Любой 5-футовый куб паутины, подвергшийся воздействию огня, сгорает за 1 раунд, нанося [[/damage 2d4 fire]] 2к4 урона огнем любому существу, которое начинает свой ход в огне.</p>",
       "source": {},
       "short": "20 футов. куб липкой паутины."
     },

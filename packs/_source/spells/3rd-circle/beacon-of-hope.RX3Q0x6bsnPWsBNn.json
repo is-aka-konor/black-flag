@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on WIS saves and death saves, and regains the maximum number of hit points possible from any healing.</p>",
+      "value": "<p>Это заклинание дарует надежду и жизненную силу. Выберите любое количество существ в пределах дистанции. На время действия заклинания каждая цель имеет преимущество на спасброски Мудрости и спасброски от смерти, а также восстанавливает максимальное возможное количество хитов от любого лечения.</p>",
       "source": {},
       "short": "Дайте преимущество, максимизируйте лечение."
     },
@@ -127,7 +127,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"o\": \"OR\", \"v\": [{ \"o\": \"AND\", \"v\": [{ \"k\": \"type\", \"v\": \"ability-save\" }, { \"k\": \"ability\", \"v\": \"wisdom\" }] }, { \"k\": \"type\", \"v\": \"death-save\" }] }], \"note\": { \"rollMode\": 1, \"text\": \"Beacon of Hope grants you advantage on WIS and death saves.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"o\": \"OR\", \"v\": [{\"o\": \"AND\", \"v\": [{\"k\": \"type\", \"v\": \"ability-save\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}]}, {\"k\": \"type\", \"v\": \"death-save\"}]}], \"note\": {\"rollMode\": 1, \"text\": \"Маяк надежды даёт вам преимущество на спасброски МДР и спасброски от смерти.\"}}",
           "priority": null
         }
       ],

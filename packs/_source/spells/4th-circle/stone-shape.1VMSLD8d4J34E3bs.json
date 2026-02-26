@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Каменная форма",
+  "name": "Лепка камня",
   "type": "spell",
   "_id": "1VMSLD8d4J34E3bs",
   "img": "icons/commodities/stone/ore-pile-iron-black.webp",
@@ -50,7 +50,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. For example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.</p>",
+      "value": "<p>Вы касаетесь каменного объекта Среднего размера или меньше или участка камня размером не более 5 футов в любом измерении и придаете ему любую форму, соответствующую вашей цели. Например, вы можете придать большому камню форму оружия, идола или ларца, или сделать небольшой проход сквозь стену, если стена тоньше 5 футов. Вы также можете придать форму каменной двери или ее раме, чтобы запечатать дверь. Создаваемый вами объект может иметь до двух петель и защелку, но более тонкие механические детали невозможны.</p>",
       "source": {},
       "short": "Придайте камню любую форму."
     },

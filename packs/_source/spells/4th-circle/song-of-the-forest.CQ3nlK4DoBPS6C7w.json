@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Песня леса",
+  "name": "Песнь леса",
   "type": "spell",
   "_id": "CQ3nlK4DoBPS6C7w",
   "img": "icons/environment/wilderness/tree-spruce.webp",
@@ -59,7 +59,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You attune your senses to the natural world so that you can detect every sound that occurs within 60 feet of you. You can clearly picture the source of each sound in your mind. While the spell is active, you have tremorsense to a range of 10 feet, darkvision to a range of 30 feet, and you have advantage on [[/check WIS (Perception)]] checks.</p><p>Once you cast this spell, you can’t do so again until you complete a long rest.</p>",
+      "value": "<p>Настроить свои чувства на мир природы. Обнаруживать каждый звук в пределах 60 футов и получить чувство вибрации, темное зрение и преимущество на [[/check WIS (Perception)]] проверки МДР (Внимательность).</p>",
       "source": {},
       "short": "Чувствуйте все остро."
     },
@@ -138,7 +138,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"wisdom\" }, { \"k\": \"skill\", \"v\": \"perception\" }], \"note\": { \"rollMode\": 1, \"text\": \"You attune your senses to the natural world so that you can detect every sound that occurs within 60 feet of you. You have advantage on WIS (Perception) checks.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}, {\"k\": \"skill\", \"v\": \"perception\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы настраиваете чувства на природный мир и улавливаете каждый звук в пределах 60 футов. Вы совершаете с преимуществом проверки МДР (Восприятие).\"}}",
           "priority": null
         }
       ],

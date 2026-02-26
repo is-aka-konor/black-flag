@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you know if there is an Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "value": "<p>На время действия заклинания вы знаете, есть ли Аберрация, Небожитель, Элементаль, Фея, Исчадие или Нежить в пределах 30 футов от вас, а также где находится существо. Аналогично, вы знаете, есть ли место или объект в пределах 30 футов от вас, который был магически освящен или осквернен. Заклинание может проникать сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
       "source": {},
       "short": "Найдите типы существ поблизости."
     },

@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible while inside the sphere.</p>",
+      "value": "<p>На время действия заклинания ни один звук не может быть создан внутри или пройти сквозь 20-футовую сферу с центром в точке, выбранной вами в пределах дистанции. Любое существо или предмет, полностью находящийся внутри сферы, иммунен к урону звуком, и существа оглушены, пока полностью находятся внутри нее. Накладывание заклинания, включающего вербальный компонент, невозможно внутри сферы.</p>",
       "source": {},
       "short": "20 футов. радиус оглушительная тишина."
     },

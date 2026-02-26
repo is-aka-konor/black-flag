@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell’s duration. Each creature that starts its turn in the line must succeed on a [[/save]] save or be pushed 15 feet away from you in a direction following the line.</p><p>Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.</p><p>The gust disperses gas or vapor, and extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.</p><p>As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.</p>",
+      "value": "<p>Линия сильного ветра длиной 60 футов и шириной 10 футов вырывается из вас в выбранном вами направлении на время действия заклинания. Каждое существо, начинающее свой ход в линии, должно преуспеть в [[/save]] спасброске Силы, иначе будет отброшено на 15 футов от вас в направлении, следующем по линии. Любое существо в линии должно тратить 2 фута движения за каждый 1 фут, который оно перемещается, приближаясь к вам. Порыв рассеивает газ или пар и гасит свечи, факелы и подобные незащищенные огни в области. Он заставляет защищенные огни, такие как у фонарей, дико плясать и имеет 50-процентный шанс погасить их. Бонусным действием в каждый ваш ход до окончания действия заклинания вы можете изменить направление, в котором линия вырывается из вас.</p>",
       "source": {},
       "short": "Ветер толкает и рассеивает."
     },

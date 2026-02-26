@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Божественная милость",
+  "name": "Божественное благоволение",
   "type": "spell",
   "_id": "218rEsgus2IEnkzF",
   "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
@@ -66,7 +66,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra [[/damage 1d4 radiant]] damage on a hit.</p>",
+      "value": "<p>Ваша молитва наделяет вас божественным сиянием. До окончания действия заклинания ваши атаки оружием наносят дополнительно [[/damage 1d4 radiant]] 1к4 урона излучением при попадании.</p>",
       "source": {},
       "short": "Ваше оружие излучает больше света."
     },

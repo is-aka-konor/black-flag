@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.</p>",
+      "value": "<p>Это заклинание дает существу, которого вы касаетесь, способность понимать любой разговорный язык, который оно слышит. Более того, когда цель говорит, любое существо, знающее хотя бы один язык и способное слышать цель, понимает, что она говорит.</p>",
       "source": {},
       "short": "Цель понимает весь язык."
     },

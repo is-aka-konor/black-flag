@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Хранитель веры",
+  "name": "Страж веры",
   "type": "spell",
   "_id": "OQ0njCY39L7GmygK",
   "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
@@ -57,7 +57,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your faith.</p><p>Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a [[/save]] save. The creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.</p>",
+      "value": "<p>Большой призрачный страж появляется и парит на время действия заклинания в незанятом пространстве по вашему выбору, которое вы можете видеть в пределах дистанции. Страж занимает это пространство и неразличим, за исключением сверкающего меча и щита, украшенных символом вашей веры. Любое враждебное вам существо, которое перемещается в пространство в пределах 10 футов от стража впервые в ход, должно преуспеть в [[/save]] спасброске Ловкости. Существо получает 20 [[/damage]] урона излучением при проваленном спасброске, или половину этого урона при успешном. Страж исчезает, когда нанесет в общей сложности 60 урона.</p>",
       "source": {},
       "short": ""
     },

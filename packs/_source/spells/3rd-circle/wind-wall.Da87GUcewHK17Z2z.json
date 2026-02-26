@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Ветровая стена",
+  "name": "Стена ветра",
   "type": "spell",
   "_id": "Da87GUcewHK17Z2z",
   "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -85,7 +85,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.</p><p>When the wall appears, each creature within its area must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a success.</p><p>The strong wind keeps fog, smoke, and other gasses at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.</p>",
+      "value": "<p>Стена сильного ветра поднимается от земли в точке, выбранной вами в пределах дистанции. Вы можете сделать стену длиной до 50 футов, высотой 15 футов и толщиной 1 фут. Вы можете придать стене любую форму по своему выбору, если она образует один непрерывный путь по земле. Стена существует на время действия заклинания. Когда стена появляется, каждое существо в ее области должно совершить [[/save]] спасбросок Силы. Существо получает [[/damage]] 3к8 дробящего урона при проваленном спасброске, или половину этого урона при успешном. Сильный ветер удерживает туман, дым и другие газы на расстоянии. Маленькие или меньшие летающие существа или объекты не могут пройти сквозь стену. Рыхлые, легкие материалы, занесенные в стену, взлетают вверх. Стрелы, болты и другие обычные снаряды, выпущенные по целям за стеной, отклоняются вверх и автоматически промахиваются. (Валуны, брошенные гигантами или осадными машинами, и подобные снаряды не подвержены воздействию.) Существа в газообразной форме не могут пройти сквозь нее.</p>",
       "source": {},
       "short": "Сформируйте стену сильного ветра."
     },

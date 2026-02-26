@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Паучье восхождение",
+  "name": "Паучьи лапы",
   "type": "spell",
   "_id": "a4urqqEPPfUGj1WY",
   "img": "icons/creatures/invertebrates/spider-striped-web-red.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings while leaving its hands free. The target also gains a climbing speed equal to its walking speed.</p>",
+      "value": "<p>До окончания действия заклинания одно согласное существо, которого вы касаетесь, получает способность передвигаться вверх, вниз и по вертикальным поверхностям, а также вверх ногами по потолкам, оставляя руки свободными. Цель также получает скорость лазания, равную ее скорости ходьбы.</p>",
       "source": {},
       "short": "Ходите по стенам и потолку."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Феерический огонь",
+  "name": "Огонь фей",
   "type": "spell",
   "_id": "6dvUhdyeuOtRySf9",
   "img": "icons/magic/light/explosion-star-small-pink.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a [[/save]] save. For the duration, objects and affected creatures shed dim light in a 10-foot radius.</p><p>Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.</p>",
+      "value": "<p>Каждый предмет в 20-футовом кубе в пределах дистанции очерчивается синим, зеленым или фиолетовым светом (на ваш выбор). Любое существо в области, когда заклинание накладывается, также очерчивается светом, если проваливает [[/save]] спасбросок Ловкости. На время действия заклинания предметы и затронутые существа излучают тусклый свет в радиусе 10 футов. Любой бросок атаки по затронутому существу или предмету имеет преимущество, если атакующий может его видеть, и затронутое существо или предмет не может получить выгоду от невидимости.</p>",
       "source": {},
       "short": "Поджигайте врагов для получения преимущества."
     },

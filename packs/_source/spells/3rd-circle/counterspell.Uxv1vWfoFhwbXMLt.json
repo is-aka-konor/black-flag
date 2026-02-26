@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd circle or lower, its spell automatically fails and has no effect. If it is casting a spell of 4th circle or above, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a success, the creature’s spell fails and has no effect.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the interrupted spell automatically has no effect if its circle is less than or equal to the circle of the spell slot you used.</p>",
+      "value": "<p>Вы пытаетесь прервать существо в процессе накладывания заклинания. Если существо накладывает заклинание 3-го круга или ниже, его заклинание автоматически проваливается и не имеет эффекта. Если оно накладывает заклинание 4-го круга или выше, совершите проверку характеристики, используя вашу заклинательную характеристику. Сл равна 10 + круг заклинания. В случае успеха заклинание существа проваливается и не имеет эффекта.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, прерванное заклинание автоматически не имеет эффекта, если его круг меньше или равен кругу использованной вами ячейки заклинания.</p>",
       "source": {},
       "short": "Прервите заклинание цели."
     },
@@ -47,7 +47,7 @@
     "casting": {
       "value": null,
       "type": "reaction",
-      "condition": "when you see a creature within 60 feet of you casting a spell"
+      "condition": "когда вы видите, как существо в пределах 60 футов от вас накладывает заклинание"
     },
     "components": {
       "required": [

@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Истинное Видение",
+  "name": "Истинное зрение",
   "type": "spell",
   "_id": "ucOdaPECcXApN7hF",
   "img": "icons/magic/perception/eye-ringed-green.webp",
@@ -59,7 +59,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a willing creature to grant it the ability to see things as they actually are. For the duration, that creature has truesight to a range of 120 feet.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, you can target one additional creature for each slot above 6th.</p>",
+      "value": "<p>Вы касаетесь согласного существа, чтобы дать ему способность видеть вещи такими, какие они есть на самом деле. На время действия заклинания это существо обладает истинным зрением на дистанцию 120 футов.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 7-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 6-го.</p>",
       "source": {},
       "short": "Элли видит вещи по-настоящему."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Верная собака",
+  "name": "Верный пес",
   "type": "spell",
   "_id": "vvb1n0ZFgu4uBaW1",
   "img": "icons/creatures/mammals/wolf-howl-moon-black.webp",
@@ -86,7 +86,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "At the start of each of your turns",
+          "condition": "В начале каждого вашего хода",
           "primary": false
         },
         "consumption": {
@@ -138,7 +138,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.</p><p>The hound is invisible to all creatures except you and can’t be harmed. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions.</p><p>At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound’s attack bonus is equal to your spellcasting ability modifier + your PB. On a hit, it deals [[/damage]] damage.</p>",
+      "value": "<p>Вы вызываете призрачного сторожевого пса в незанятое пространство, которое вы можете видеть в пределах дистанции, где он остается на время действия заклинания, пока вы не отпустите его действием, или пока вы не отойдете от него более чем на 100 футов. Пес невидим для всех существ, кроме вас, и ему нельзя причинить вред. Когда Маленькое или большее существо подходит к нему на расстояние 30 футов, не произнеся предварительно пароль, который вы указываете при накладывании этого заклинания, пес начинает громко лаять. Пес видит невидимых существ и может видеть в Эфирный План. Он игнорирует иллюзии. В начале каждого вашего хода пес пытается укусить одно существо в пределах 5 футов от него, враждебное вам. Бонус атаки пса равен вашему модификатору заклинательной характеристики + ваш БМ. При попадании он наносит [[/damage]] 4к8 колющего урона.</p>",
       "source": {},
       "short": "Невидимый часовой лает и кусается."
     },

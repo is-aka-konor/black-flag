@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Летать",
+  "name": "Полет",
   "type": "spell",
   "_id": "9m3weZVFQcscp85O",
   "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.</p><p><em>At Higher Circles.</em> When you cast this spell using a 4th-circle spell slot or higher, you can target one additional creature for each slot above 3rd.</p>",
+      "value": "<p>Вы касаетесь согласного существа. Цель получает скорость полета 60 футов на время действия заклинания. Когда заклинание заканчивается, цель падает, если все еще находится в воздухе, если только не может остановить падение.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 3-го.</p>",
       "source": {},
       "short": "Союзник получает скорость полета 60 футов."
     },

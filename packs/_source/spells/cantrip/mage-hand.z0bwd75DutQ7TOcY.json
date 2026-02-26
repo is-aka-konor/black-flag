@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Магическая рука",
+  "name": "Волшебная рука",
   "type": "spell",
   "_id": "z0bwd75DutQ7TOcY",
   "img": "icons/magic/light/hand-sparks-smoke-teal.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p><p>The hand can’t attack, activate magic items, or carry more than 10 pounds.</p>",
+      "value": "<p>Призрачная, парящая рука появляется в точке, выбранной вами в пределах дистанции. Рука существует на время действия заклинания или пока вы не прекратите ее действием. Рука исчезает, если она когда-либо оказывается дальше 30 футов от вас или если вы снова накладываете это заклинание. Вы можете использовать свое действие, чтобы управлять рукой. Вы можете использовать руку для манипулирования предметом, открытия незапертой двери или контейнера, убирания или извлечения предмета из открытого контейнера или выливания содержимого из флакона. Вы можете перемещать руку на расстояние до 30 футов каждый раз, когда используете ее. Рука не может атаковать, активировать магические предметы или нести более 10 фунтов.</p>",
       "source": {},
       "short": "Волшебная рука для простых задач."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Поговорите с растениями",
+  "name": "Разговор с растениями",
   "type": "spell",
   "_id": "HY9kiXpgSNSWwG4w",
   "img": "icons/commodities/flowers/lily-grey-orange.webp",
@@ -59,7 +59,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.</p><p>You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.</p><p>Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.</p><p>If a Plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.</p><p>This spell can cause the plants created by the entangle spell to release a restrained creature.</p>",
+      "value": "<p>Вы наделяете растения в пределах 30 футов от вас ограниченным разумом и анимацией, давая им способность общаться с вами и следовать вашим простым командам. Вы можете спрашивать растения о событиях в области заклинания в течение последнего дня, получая информацию о прошедших существах, погоде и других обстоятельствах. Вы также можете превратить труднопроходимую местность, вызванную ростом растений (например, заросли и подлесок), в обычную местность, которая существует на время действия заклинания. Или вы можете превратить обычную местность, где присутствуют растения, в труднопроходимую местность, которая существует на время действия заклинания, заставляя лозы и ветви мешать преследователям, например. Растения могут выполнять другие задачи от вашего имени, по усмотрению Мастера. Заклинание не позволяет растениям выкорчевывать себя и передвигаться, но они могут свободно двигать ветвями, усиками и стеблями. Если в области находится Растительное существо, вы можете общаться с ним, как если бы у вас был общий язык, но вы не получаете магической способности влиять на него. Это заклинание может заставить растения, созданные заклинанием <em>опутывание</em>, освободить опутанное существо.</p>",
       "source": {},
       "short": "Разговор с растениями."
     },

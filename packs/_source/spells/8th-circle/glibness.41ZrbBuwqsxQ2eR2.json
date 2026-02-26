@@ -68,7 +68,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Until the spell ends, when you make a CHA ability check or save, you can replace the number you roll with a 15. In addition, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.</p>",
+      "value": "<p>До окончания действия заклинания, когда вы совершаете проверку характеристики Харизмы или спасбросок Харизмы, вы можете заменить выпавшее число на 15. Кроме того, независимо от того, что вы говорите, магия, которая определила бы, говорите ли вы правду, указывает, что вы говорите правду.</p>",
       "source": {},
       "short": "Ваша проверка CHA, спасбросок равен 15."
     },

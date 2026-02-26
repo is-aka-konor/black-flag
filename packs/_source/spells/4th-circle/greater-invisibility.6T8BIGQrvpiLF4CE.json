@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Большая невидимость",
+  "name": "Великая невидимость",
   "type": "spell",
   "_id": "6T8BIGQrvpiLF4CE",
   "img": "icons/magic/control/silhouette-hold-change-blue.webp",
@@ -67,7 +67,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You or a creature you touch becomes &Reference[invisible] until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.</p>",
+      "value": "<p>Вы или существо, которого вы касаетесь, становитесь невидимыми до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. &amp;Reference[invisible]</p>",
       "source": {},
       "short": "Лучше невидимость."
     },

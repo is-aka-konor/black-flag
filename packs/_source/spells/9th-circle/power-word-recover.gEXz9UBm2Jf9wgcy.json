@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Восстановление слова силы",
+  "name": "Слово силы: Исцеление",
   "type": "spell",
   "_id": "gEXz9UBm2Jf9wgcy",
   "img": "icons/magic/life/heart-area-circle-red-green.webp",
@@ -64,7 +64,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You utter a word of power that completely heals one creature you can see within range. The creature is restored to maximum hit points. In addition, any charmed, frightened, paralyzed, or stunned conditions affecting the target immediately end. This spell has no effect on Constructs or Undead.</p>",
+      "value": "<p>Вы произносите слово силы, которое полностью исцеляет одно существо, которое вы можете видеть в пределах дистанции. Существо восстанавливается до максимальных хитов. Кроме того, любые состояния очарованный, испуганный, парализованный или ошеломленный, влияющие на цель, немедленно прекращаются. Это заклинание не действует на Конструктов или Нежить.</p>",
       "source": {},
       "short": "Полностью исцелить союзника."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Ложная жизнь",
+  "name": "Псевдожизнь",
   "type": "spell",
   "_id": "FITcXCcDkoWdG3PH",
   "img": "icons/magic/life/cross-embers-glow-yellow-purple.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You bolster yourself with a touch of the same necromantic powers used to preserve the dead. You gain [[/healing]]{1d4 + 4 temporary hit points} for the duration.</p><p><em>At Higher Circles.</em> When you cast this spell using a 2nd-circle spell slot or higher, you gain [[/healing 5 temp]]{5} additional temporary hit points for each slot above 1st.</p>",
+      "value": "<p>Вы укрепляете себя прикосновением тех же некротических сил, которые используются для сохранения мертвых. Вы получаете [[/healing]]{1d4 + 4 temporary hit points} [[/healing 5 temp]]{5} 1к4 + 4 временных хита на время действия заклинания.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы получаете 5 дополнительных временных хитов за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Получите временные очки жизни."
     },

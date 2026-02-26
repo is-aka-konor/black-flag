@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Управлять погодой",
+  "name": "Управление погодой",
   "type": "spell",
   "_id": "3OZsv5x1bOVcNFLy",
   "img": "icons/magic/air/wind-weather-snow-gusts.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.</p><p>When you cast the spell, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes [[/r 1d4 * 10]]{1d4 × 10} minutes for the new conditions to take effect.</p><p>Once they do, you can change the conditions again. When the spell ends, the weather gradually returns to normal.</p><p>When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.BEwnWaORKPEMlbJZ inline]</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.ipqe4c76scixt2QC inline]</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.NCXAFgGW8N97p5TT inline]</p>",
+      "value": "<p>Контролировать погоду в пределах 5 миль. Можно изменять осадки, температуру и ветер. Изменения вступают в силу через 1к4 × 10 минут. [[/r 1d4 * 10]]{1d4 × 10}</p>",
       "source": {},
       "short": "Изменение погоды в радиусе 5 миль."
     },

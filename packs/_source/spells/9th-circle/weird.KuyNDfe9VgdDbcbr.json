@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Странный",
+  "name": "Причуда",
   "type": "spell",
   "_id": "KuyNDfe9VgdDbcbr",
   "img": "icons/magic/control/fear-fright-mask-orange.webp",
@@ -85,7 +85,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a [[/save]] save. On a failed save, a creature becomes frightened of you for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a [[/save]] save or take [[/damage]] damage. On a successful save, the spell ends for that creature.</p>",
+      "value": "<p>Опираясь на глубочайшие страхи группы существ, вы создаете иллюзорных существ в их разумах, видимых только им. Каждое существо в 30-футовой сфере с центром в точке по вашему выбору в пределах дистанции должно совершить [[/save]] спасбросок Мудрости. При проваленном спасброске существо становится напуганным вами на время действия заклинания. Иллюзия взывает к глубочайшим страхам существа, проявляя его худшие кошмары как неумолимую угрозу. В конце каждого хода напуганного существа оно должно преуспеть в спасброске Мудрости, иначе получит [[/damage]] 4к10 психического урона. При успешном спасброске заклинание заканчивается для этого существа.</p>",
       "source": {},
       "short": "Лучше призрачный убийца."
     },

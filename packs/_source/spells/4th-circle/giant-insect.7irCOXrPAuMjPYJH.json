@@ -49,7 +49,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a <strong>giant centipede</strong>, a spider becomes a <strong>giant spider</strong>, a wasp becomes a <strong>giant wasp</strong>, and a scorpion becomes a <strong>giant scorpion</strong>.</p><p>Each creature obeys your verbal commands, and in combat, they act on your turn each round. The GM has the statistics for these creatures and resolves their actions and movement.</p><p>A creature remains in its giant size for the duration, until it drops to 0 HP, or until you use an action to dismiss the effect on it.</p><p>The GM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.</p>",
+      "value": "<p>Вы превращаете до десяти сороконожек, трех пауков, пяти ос или одного скорпиона в пределах дистанции в гигантские версии их естественных форм на время действия заклинания. Сороконожка становится гигантской сороконожкой, паук становится гигантским пауком, оса становится гигантской осой, а скорпион становится гигантским скорпионом. Каждое существо подчиняется вашим словесным командам, и в бою они действуют в ваш ход каждый раунд. У Мастера есть характеристики этих существ, и он определяет их действия и передвижение. Существо остается в своем гигантском размере на время действия заклинания, пока его хиты не упадут до 0, или пока вы не используете действие, чтобы прекратить эффект на нем. Мастер может позволить вам выбрать другие цели. Например, если вы превращаете пчелу, ее гигантская версия может иметь те же характеристики, что и гигантская оса.</p>",
       "source": {},
       "short": ""
     },
@@ -98,7 +98,7 @@
         "choice": false,
         "type": "special",
         "count": "",
-        "special": "Up to 10 centipedes, 3 spiders, 5 wasps, or 1 scorpion"
+        "special": "До 10 многоножек, 3 пауков, 5 ос или 1 скорпиона"
       }
     },
     "school": "transmutation"

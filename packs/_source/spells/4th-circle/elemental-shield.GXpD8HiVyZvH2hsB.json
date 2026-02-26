@@ -79,7 +79,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Elemental energy wreathes your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it. When the shield first appears, you decide whether it is made of acid, cold, fire, lightning, or thunder energy.</p><p>The shield grants you resistance to the damage of your chosen elemental type.</p><p>In addition, when a creature within 5 feet of you hits you with a melee attack, the shield erupts with energy. The attacker takes [[/damage 2d8]] damage of the chosen type.</p>",
+      "value": "<p>Элементальная энергия окутывает ваше тело на время действия заклинания, излучая яркий свет в радиусе 10 футов и тусклый свет на дополнительные 10 футов. Вы можете закончить заклинание раньше, использовав действие, чтобы прекратить его. Когда щит впервые появляется, вы решаете, сделан ли он из энергии кислоты, холода, огня, молнии или звука. Щит дает вам сопротивление урону выбранного вами элементального типа. Кроме того, когда существо в пределах 5 футов от вас попадает по вам рукопашной атакой, щит взрывается энергией. Атакующий получает [[/damage 2d8]] 2к8 урона выбранного типа.</p>",
       "source": {},
       "short": "Сопротивляйтесь стихии, наносите удар при попадании."
     },

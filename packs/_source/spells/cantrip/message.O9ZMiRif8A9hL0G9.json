@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.</p><p>You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.</p>",
+      "value": "<p>Вы указываете пальцем на существо в пределах дистанции и шепчете сообщение. Цель (и только цель) слышит сообщение и может ответить шепотом, который слышите только вы. Вы можете наложить это заклинание сквозь твердые объекты, если вы знакомы с целью и знаете, что она находится за барьером. Магическая тишина, 1 фут камня, 1 дюйм обычного металла, тонкий лист свинца или 3 фута дерева блокируют заклинание. Заклинание не обязательно следует по прямой линии и может свободно перемещаться вокруг углов или сквозь отверстия.</p>",
       "source": {},
       "short": "Только цель слышит твой шепот."
     },

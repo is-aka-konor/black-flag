@@ -109,7 +109,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>There are two possible uses for this spell, depending on its casting time, granting either immediate or long-term benefits.</p><p>If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell’s area from being affected.</p><p>If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.</p>",
+      "value": "<p>Есть два возможных применения этого заклинания, в зависимости от времени его накладывания, дающих либо немедленные, либо долгосрочные преимущества.</p><blockquote><p>_Если вы накладываете это заклинание, используя 1 действие:_ Выберите точку в пределах дистанции. Все обычные растения в радиусе 100 футов с центром в этой точке становятся густыми и разросшимися. Существо, движущееся через область, должно тратить 4 фута движения за каждый 1 фут, который оно перемещается. Вы можете исключить одну или несколько областей любого размера в пределах области заклинания от воздействия.</p><p>_Если вы накладываете это заклинание в течение 8 часов:_ Вы обогащаете землю. Все растения в радиусе полумили с центром в точке в пределах дистанции становятся обогащенными на 1 год. Растения дают вдвое больше обычного количества пищи при сборе урожая.</p></blockquote>",
       "source": {},
       "short": "Растения замедляют движение или обильно растут."
     },

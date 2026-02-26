@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Слово массового исцеления",
+  "name": "Массовое исцеляющее слово",
   "type": "spell",
   "_id": "ULCkawQgAQ9amDN1",
   "img": "icons/magic/life/heart-cross-strong-blue.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to [[/healing]]{1d4 + your spellcasting ability modifier}. This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the healing increases by [[/healing 1d4]]{1d4} for each slot above 3rd.</p>",
+      "value": "<p>Когда вы произносите слова восстановления, до шести существ по вашему выбору, которых вы можете видеть в пределах дистанции, восстанавливают хиты, равные [[/healing]]{1d4 + your spellcasting ability modifier} [[/healing 1d4]]{1d4} 1к4 + ваш модификатор заклинательной характеристики. Это заклинание не действует на Конструктов или Нежить.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, исцеление увеличивается на 1к4 за каждый круг ячейки выше 3-го.</p>",
       "source": {},
       "short": "Небольшое исцеление для многих на расстоянии 60 футов."
     },

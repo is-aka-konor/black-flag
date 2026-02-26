@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Водное дыхание",
+  "name": "Дыхание под водой",
   "type": "spell",
   "_id": "07Pmha1pV2NDH5pH",
   "img": "icons/magic/water/barrier-ice-water-cube.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.</p>",
+      "value": "<p>Это заклинание дает до десяти согласным существам, которых вы можете видеть в пределах дистанции, способность дышать под водой до окончания действия заклинания. Затронутые существа также сохраняют свой обычный способ дыхания.</p>",
       "source": {},
       "short": "Союзники дышат под водой."
     },

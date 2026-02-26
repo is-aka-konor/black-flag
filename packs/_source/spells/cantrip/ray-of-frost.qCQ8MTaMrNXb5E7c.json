@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Луч Мороза",
+  "name": "Луч холода",
   "type": "spell",
   "_id": "qCQ8MTaMrNXb5E7c",
   "img": "icons/magic/water/projectile-icecicle-glowing.webp",
@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes [[/damage 1d8 cold]] damage, and its speed is reduced by 10 feet until the start of your next turn.</p><p>The spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 cold]]{2d8}), 11th level ([[/damage 3d8 cold]]{3d8}), and 17th level ([[/damage 4d8 cold]]{4d8}).</p>",
+      "value": "<p>Ледяной луч сине-белого света устремляется к существу в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании она получает [[/damage 1d8 cold]] [[/damage 2d8 cold]]{2d8} [[/damage 3d8 cold]]{3d8} [[/damage 4d8 cold]]{4d8} 1к8 урона холодом, и ее скорость уменьшается на 10 футов до начала вашего следующего хода. Урон заклинания увеличивается на 1к8, когда вы достигаете 5-го уровня (2к8), 11-го уровня (3к8) и 17-го уровня (4к8).</p>",
       "source": {},
       "short": "Холод наносит вред и замедляет противника."
     },

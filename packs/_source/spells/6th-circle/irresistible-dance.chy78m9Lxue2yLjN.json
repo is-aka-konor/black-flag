@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be charmed are immune to this spell.</p><p>A dancing creature must use all its movement to dance without leaving its space and has disadvantage on DEX saves and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature can make a [[/save]] save to regain control of itself. On a successful save, the spell ends.</p>",
+      "value": "<p>Выберите одно существо, которое вы можете видеть в пределах дистанции. Цель начинает комичный танец на месте: шаркает, отбивает ногами чечетку и скачет на время действия заклинания. Существа, которые не могут быть очарованы, иммунны к этому заклинанию. Танцующее существо должно использовать все свое движение для танца, не покидая своего пространства, и имеет помеху на [[/save]] спасброски Ловкости и броски атаки. Пока цель подвержена действию этого заклинания, другие существа имеют преимущество на броски атаки против нее. Действием танцующее существо может совершить спасбросок Мудрости, чтобы восстановить контроль над собой. При успешном спасброске заклинание заканчивается.</p>",
       "source": {},
       "short": "Враг бесконтрольно танцует."
     },
@@ -148,7 +148,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-save\", \"attack\"] }], \"note\": { \"rollMode\": -1, \"text\": \"While dancing you have disadvantage on DEX saves and attack rolls.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-save\", \"attack\"]}], \"note\": {\"rollMode\": -1, \"text\": \"Пока вы танцуете, вы совершаете с помехой спасброски ЛОВ и броски атаки.\"}}",
           "priority": null
         }
       ],

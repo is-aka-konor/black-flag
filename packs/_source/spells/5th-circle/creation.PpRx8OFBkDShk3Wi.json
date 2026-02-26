@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Создание",
+  "name": "Сотворение",
   "type": "spell",
   "_id": "PpRx8OFBkDShk3Wi",
   "img": "icons/commodities/metal/fragments-steel-ring.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You pull wisps of shadow from the Shadow Realm to create a nonliving object or vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.</p><p>The duration depends on the object’s material. If it is composed of multiple materials, use the shortest duration.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.2oHUnIn4Rw7wb5lV inline]</p><p>Using any material created by this spell as another spell’s material component causes that spell to fail. If you attempt to cast this spell a second time while material created by the first casting still exists, the material created by the first casting is destroyed.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 6th-circle spell slots, the cube increases by 5 feet for each slot you have access to above 5th.</p>",
+      "value": "<p>Создать неживой предмет или растительную материю в пределах 5-футового куба. Длительность зависит от материала.</p>",
       "source": {},
       "short": "Создайте объект из тени."
     },
@@ -82,7 +82,7 @@
     },
     "duration": {
       "units": "special",
-      "special": "The duration depends on the object’s material"
+      "special": "Длительность зависит от материала объекта"
     },
     "tags": [
       "ritual"

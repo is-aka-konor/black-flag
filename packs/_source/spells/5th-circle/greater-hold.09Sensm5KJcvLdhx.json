@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Большой Холд",
+  "name": "Великое удержание",
   "type": "spell",
   "_id": "09Sensm5KJcvLdhx",
   "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
@@ -70,7 +70,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose any creature that you can see within range. The target must succeed on a [[/save]] save or be &Reference[paralyzed] for the duration. At the end of each of its turns, an affected target can repeat the [[/save]] save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, you can target one additional creature for each slot above 5th. The creatures must be within 30 feet of each other when you target them.</p>",
+      "value": "<p>Выберите любое существо, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в [[/save]] спасброске Мудрости, иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &amp;Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 5-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
       "source": {},
       "short": "Парализуйте любое существо."
     },

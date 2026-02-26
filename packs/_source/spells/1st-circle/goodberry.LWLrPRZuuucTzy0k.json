@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Гудберри",
+  "name": "Добрая ягода",
   "type": "spell",
   "_id": "LWLrPRZuuucTzy0k",
   "img": "icons/consumables/fruit/berry-leaf-pink.webp",
@@ -53,7 +53,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You transform up to ten berries in your hand, infusing them with magic for up to 24 hours. A creature can use its action to eat one berry. Eating a berry restores [[/healing]] and provides enough nourishment to sustain a creature for one day, though a creature can’t be sustained by eating berries two or more days in a row.</p><p>The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.</p>",
+      "value": "<p>Вы превращаете до десяти ягод в своей руке, наполняя их магией на срок до 24 часов. Существо может использовать свое действие, чтобы съесть одну ягоду. Поедание ягоды восстанавливает 1 [[/healing]] хит и обеспечивает достаточное питание, чтобы продержаться существу один день, хотя существо не может поддерживать себя, питаясь ягодами два или более дней подряд. Ягоды теряют свою силу, если их не употребили в течение 24 часов после накладывания этого заклинания.</p>",
       "source": {},
       "short": "Десять ягод исцеляют по 1 HP каждая."
     },

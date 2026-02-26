@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Стена Силы",
+  "name": "Стена силы",
   "type": "spell",
   "_id": "tXnBDlCTKcRlzn8w",
   "img": "icons/magic/light/beam-strike-orange-gold.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice).</p><p>Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by the <em>dispel magic</em> spell. However, a <em>disintegrate</em> spell destroys the wall instantly. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.</p>",
+      "value": "<p>Невидимая стена силы возникает в точке, выбранной вами в пределах дистанции. Стена появляется в любой выбранной вами ориентации как горизонтальный или вертикальный барьер или под углом. Она может быть свободно плавающей или опираться на твердую поверхность. Вы можете придать ей форму полусферического купола или сферы радиусом до 10 футов, или вы можете сформировать плоскую поверхность, состоящую из десяти панелей размером 10x10 футов. Каждая панель должна быть смежной с другой панелью. В любой форме стена имеет толщину 1/4 дюйма. Она существует на время действия заклинания. Если стена пересекает пространство существа при появлении, существо выталкивается на одну сторону стены (на ваш выбор). Ничто не может физически пройти сквозь стену. Она иммунна ко всему урону и не может быть развеяна заклинанием <em>развеивание магии</em>. Однако заклинание <em>распад</em> мгновенно уничтожает стену. Стена также простирается в Эфирный План, блокируя эфирное путешествие сквозь стену.</p>",
       "source": {},
       "short": "Формируйте силовую стену, чтобы заблокировать проход."
     },

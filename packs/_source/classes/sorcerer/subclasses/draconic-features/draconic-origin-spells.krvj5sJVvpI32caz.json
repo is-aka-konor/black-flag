@@ -1,6 +1,6 @@
 {
   "folder": "uuCYTbZqqprCza3f",
-  "name": "Заклинания Драконьего происхождения",
+  "name": "Заклинания Драконьего Происхождения",
   "type": "feature",
   "_id": "krvj5sJVvpI32caz",
   "img": "icons/magic/unholy/projectile-smoke-trail-pink.webp",
@@ -40,7 +40,7 @@
           "classIdentifier": "sorcerer"
         },
         "flags": {},
-        "title": "Draconic Origin Spells",
+        "title": "Заклинания Драконьего Происхождения",
         "icon": null,
         "hint": ""
       },
@@ -69,7 +69,7 @@
           "classIdentifier": "sorcerer"
         },
         "flags": {},
-        "title": "Draconic Origin Spells",
+        "title": "Заклинания Драконьего Происхождения",
         "icon": null,
         "hint": "",
         "_id": "JylZgXhiif4ZBQAf"
@@ -99,7 +99,7 @@
           "classIdentifier": "sorcerer"
         },
         "flags": {},
-        "title": "Draconic Origin Spells",
+        "title": "Заклинания Драконьего Происхождения",
         "icon": null,
         "hint": "",
         "_id": "DQ8OYjHjLJP1Tmi8"
@@ -129,7 +129,7 @@
           "classIdentifier": "sorcerer"
         },
         "flags": {},
-        "title": "Draconic Origin Spells",
+        "title": "Заклинания Драконьего Происхождения",
         "icon": null,
         "hint": "",
         "_id": "JBiso9dRyLoY08Hp"
@@ -159,14 +159,14 @@
           "classIdentifier": "sorcerer"
         },
         "flags": {},
-        "title": "Draconic Origin Spells",
+        "title": "Заклинания Драконьего Происхождения",
         "icon": null,
         "hint": "",
         "_id": "Uth0kg5G828ytOHS"
       }
     },
     "description": {
-      "value": "<p>You gain origin spells at the sorcerer levels listed in the Dragon Ancestor Damage Type and Spells table. See the Sorcerer Subclass class feature for how these spells work.</p><p>Note that one of the spells you gain at each listed sorcerer level is determined by the type of dragon you select as your ancestor (see Dragon Ancestor).</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.JQHQVJBv08shYVpS inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Драконьего Происхождения</strong> на соответствующих уровнях чародея. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.JQHQVJBv08shYVpS inline]</p>",
       "source": {}
     },
     "restriction": {

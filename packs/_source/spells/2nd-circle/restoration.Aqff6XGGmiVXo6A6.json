@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Реставрация",
+  "name": "Восстановление",
   "type": "spell",
   "_id": "Aqff6XGGmiVXo6A6",
   "img": "icons/magic/life/ankh-shadow-green.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a creature and can end one disease or one condition afflicting it. The condition can be &Reference[blinded], &Reference[deafened], &Reference[paralyzed], or &Reference[poisoned].</p>",
+      "value": "<p>Вы касаетесь существа и можете прекратить одну болезнь или одно &amp;Reference[blinded] &amp;Reference[deafened] &amp;Reference[paralyzed] &amp;Reference[poisoned] состояние, поражающее его. Состояние может быть слепота, глухота, паралич или отравление.</p>",
       "source": {},
       "short": "Вылечить болезнь или состояние союзника."
     },

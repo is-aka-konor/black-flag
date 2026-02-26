@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "отвратительный смех",
+  "name": "Мерзкий смех",
   "type": "spell",
   "_id": "2KCL7Tsd8sqEd9g0",
   "img": "icons/magic/control/fear-fright-white.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a [[/save]] save or fall prone, becoming &Reference[incapacitated] and unable to stand up for the duration. A creature with an INT of 3 (−4) or lower isn’t affected by this spell.</p><p>At the end of each of its turns and each time it takes damage, the target can make another [[/save]] save, ending the spell on a success. The target has advantage on the save if it’s triggered by damage.</p>",
+      "value": "<p>Существо по вашему выбору, которое вы можете видеть в пределах дистанции, воспринимает все как уморительно смешное и впадает в приступы смеха, если это заклинание на него действует. Цель должна преуспеть в [[/save]] спасброске Мудрости, иначе упадет ничком, станет недееспособной и не сможет встать на время действия заклинания. Существо с Интеллектом 3 (-4) или ниже не подвержено действию этого заклинания. &amp;Reference[incapacitated] В конце каждого своего хода и каждый раз, когда оно получает урон, цель может совершить еще один спасбросок Мудрости, прекращая заклинание при успехе. Цель имеет преимущество на спасбросок, если он вызван уроном.</p>",
       "source": {},
       "short": "Враг неудержимо смеется."
     },

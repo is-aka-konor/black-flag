@@ -80,7 +80,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</p><p>A target must make a [[/save]] save. The target takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, one additional bolt leaps from the first target to another target for each slot above 6th.</p>",
+      "value": "<p>Вы создаете разряд молнии, который дугой устремляется к цели по вашему выбору, которую вы можете видеть в пределах дистанции. Затем три разряда перескакивают с этой цели на три другие цели, каждая из которых должна находиться в пределах 30 футов от первой цели. Целью может быть существо или предмет, и она может быть поражена только одним из разрядов. Цель должна совершить [[/save]] спасбросок Ловкости. Цель получает [[/damage]] 10к8 урона молнией при проваленном спасброске, или половину этого урона при успешном.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 7-го круга или выше, один дополнительный разряд перескакивает с первой цели на другую цель за каждый круг ячейки выше 6-го.</p>",
       "source": {},
       "short": "Молнии по целям последовательно."
     },
@@ -129,7 +129,7 @@
         "choice": false,
         "type": "creatureObject",
         "count": "@scale + 3",
-        "special": "Each target must be within 30 feet of the first target"
+        "special": "Каждая цель должна находиться в пределах 30 футов от первой цели"
       }
     },
     "school": "evocation"

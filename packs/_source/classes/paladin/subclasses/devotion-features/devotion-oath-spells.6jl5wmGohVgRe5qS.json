@@ -1,6 +1,6 @@
 {
   "folder": "9wrQihX3sKyH5w7E",
-  "name": "Заклинания клятвы преданности",
+  "name": "Заклинания Клятвы Преданности",
   "type": "feature",
   "_id": "6jl5wmGohVgRe5qS",
   "img": "icons/commodities/treasure/broach-eye-silver-teal.webp",
@@ -36,7 +36,7 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Devotion Oath Spells",
+        "title": "Заклинания Клятвы Преданности",
         "icon": null,
         "hint": "",
         "_id": "tXEpyzULHke3S3Uk"
@@ -63,7 +63,7 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Devotion Oath Spells",
+        "title": "Заклинания Клятвы Преданности",
         "icon": null,
         "hint": "",
         "_id": "UaGj0y9jfjSrFtcq"
@@ -90,7 +90,7 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Devotion Oath Spells",
+        "title": "Заклинания Клятвы Преданности",
         "icon": null,
         "hint": "",
         "_id": "K6rLsaoAa7trTyuv"
@@ -117,7 +117,7 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Devotion Oath Spells",
+        "title": "Заклинания Клятвы Преданности",
         "icon": null,
         "hint": "",
         "_id": "7wY7bPMI5pRqP82g"
@@ -144,14 +144,14 @@
           "classIdentifier": "paladin"
         },
         "flags": {},
-        "title": "Devotion Oath Spells",
+        "title": "Заклинания Клятвы Преданности",
         "icon": null,
         "hint": "",
         "_id": "TP3UuOEmJyayq7zA"
       }
     },
     "description": {
-      "value": "<p>You gain oath spells at the paladin levels listed in the <strong>Devotion Oath Spells</strong> table. See the Paladin Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.kZoW2aoF4aRFhNJA inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Клятвы Преданности</strong> на соответствующих уровнях паладина. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.kZoW2aoF4aRFhNJA inline]</p>",
       "source": {}
     },
     "restriction": {

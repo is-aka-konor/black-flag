@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Разговаривайте с животными",
+  "name": "Разговор с животными",
   "type": "spell",
   "_id": "VEYRZOPPA3yH6AeK",
   "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You gain the ability to understand and verbally communicate with Beasts and creatures with the Animal tag for the duration. The knowledge and awareness of such creatures are limited by their INT, but at minimum, targets can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a target to perform a small favor for you, at the GM’s discretion.</p>",
+      "value": "<p>Вы получаете способность понимать и словесно общаться со Зверями и существами с меткой &quot;Животное&quot; на время действия заклинания. Знания и осведомленность таких существ ограничены их Интеллектом, но как минимум, цели могут дать вам информацию о ближайших локациях и монстрах, включая все, что они могут воспринимать или воспринимали в течение последнего дня. Вы можете убедить цель оказать вам небольшую услугу, по усмотрению Мастера.</p>",
       "source": {},
       "short": "Разговор со Зверями."
     },

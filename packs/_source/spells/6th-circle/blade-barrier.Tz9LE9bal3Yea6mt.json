@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Клинок Барьер",
+  "name": "Стена клинков",
   "type": "spell",
   "_id": "Tz9LE9bal3Yea6mt",
   "img": "icons/weapons/swords/sword-broad-crystal-paired.webp",
@@ -80,7 +80,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a vertical wall of whirling, razor-sharp blades made of magical energy within the spell’s range. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three‑quarters cover to creatures behind it, and its space is difficult terrain.</p><p>When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a [[/save]] save. On a failure, the creature takes [[/damage]] damage or half as much damage on a success.</p>",
+      "value": "<p>Вы создаете вертикальную стену из вращающихся, острых как бритва клинков, сделанных из магической энергии, в пределах дистанции заклинания. Вы можете создать прямую стену длиной до 100 футов, высотой 20 футов и толщиной 5 футов, или кольцевую стену диаметром до 60 футов, высотой 20 футов и толщиной 5 футов. Стена предоставляет укрытие за три четверти существам за ней, и ее пространство является труднопроходимой местностью. Когда существо входит в область стены впервые в ход или начинает там свой ход, существо должно совершить [[/save]] спасбросок Ловкости. При провале существо получает [[/damage]] 6к10 рубящего урона, или половину этого урона при успехе.</p>",
       "source": {},
       "short": "Создайте стену из смертоносных клинков."
     },

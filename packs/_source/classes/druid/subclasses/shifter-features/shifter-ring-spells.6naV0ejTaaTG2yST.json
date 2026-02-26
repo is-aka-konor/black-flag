@@ -1,6 +1,6 @@
 {
   "folder": "osKeSJsGYcRGVwM0",
-  "name": "Заклинания Кольца Переключателя",
+  "name": "Заклинания Круга Перевоплощения",
   "type": "feature",
   "_id": "6naV0ejTaaTG2yST",
   "img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
@@ -42,7 +42,7 @@
           "classIdentifier": "druid"
         },
         "flags": {},
-        "title": "Shifter Ring Spells",
+        "title": "Заклинания Круга Перевоплощения",
         "icon": null,
         "hint": "",
         "_id": "NuV0R4UDsJhYAxXi"
@@ -72,7 +72,7 @@
           "classIdentifier": "druid"
         },
         "flags": {},
-        "title": "Shifter Ring Spells",
+        "title": "Заклинания Круга Перевоплощения",
         "icon": null,
         "hint": "",
         "_id": "YNUGh2TZ8W9JtFjT"
@@ -102,7 +102,7 @@
           "classIdentifier": "druid"
         },
         "flags": {},
-        "title": "Shifter Ring Spells",
+        "title": "Заклинания Круга Перевоплощения",
         "icon": null,
         "hint": "",
         "_id": "tYXSPpNrN9XgU4KF"
@@ -132,14 +132,14 @@
           "classIdentifier": "druid"
         },
         "flags": {},
-        "title": "Shifter Ring Spells",
+        "title": "Заклинания Круга Перевоплощения",
         "icon": null,
         "hint": "",
         "_id": "pCD3M2wosFqZ57Bl"
       }
     },
     "description": {
-      "value": "<p>You gain ring spells at the druid levels listed in the <strong>Shifter Ring Spells</strong> table. See the Druid Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.B8j0fO43LAR1rc1K inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Круга Перевоплощения</strong> на соответствующих уровнях друида. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.B8j0fO43LAR1rc1K inline]</p>",
       "source": {}
     },
     "restriction": {

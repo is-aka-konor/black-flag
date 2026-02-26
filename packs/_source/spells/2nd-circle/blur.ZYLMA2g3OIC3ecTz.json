@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Размытие",
+  "name": "Размытый образ",
   "type": "spell",
   "_id": "ZYLMA2g3OIC3ecTz",
   "img": "icons/magic/movement/abstract-ribbons-red-orange.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with keensense, or can see through illusions, as with truesight.</p>",
+      "value": "<p>Ваше тело становится размытым, смещающимся и колеблющимся для всех, кто может вас видеть. На время действия заклинания существа имеют помеху на броски атаки против вас. Атакующий иммунен к этому эффекту, если он не полагается на зрение, как при обостренном чувстве (keensense), или может видеть сквозь иллюзии, как при истинном зрении (truesight).</p>",
       "source": {},
       "short": "Размытие себя, чтобы создать неудобство."
     },

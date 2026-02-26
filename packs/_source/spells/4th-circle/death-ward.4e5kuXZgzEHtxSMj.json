@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Оберег смерти",
+  "name": "Защита от смерти",
   "type": "spell",
   "_id": "4e5kuXZgzEHtxSMj",
   "img": "icons/magic/death/undead-skeleton-worn-blue.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>The first time the target of this spell would drop to 0 HP as a result of taking damage, the target instead drops to 1 HP, and the spell ends.</p><p>If the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.</p>",
+      "value": "<p>В первый раз, когда хиты цели этого заклинания должны упасть до 0 в результате получения урона, цель вместо этого опускается до 1 хита, и заклинание заканчивается. Если цель подвергается эффекту, который мгновенно убил бы ее, не нанося урона, этот эффект вместо этого отменяется против цели, и заклинание заканчивается.</p>",
       "source": {},
       "short": "У союзника 1 HP, хотя у него было бы 0 HP."
     },

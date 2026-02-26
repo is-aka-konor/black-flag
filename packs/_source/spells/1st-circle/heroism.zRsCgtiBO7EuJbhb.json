@@ -79,7 +79,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.</p>",
+      "value": "<p>Согласное существо, которого вы касаетесь, наполняется храбростью. До окончания действия заклинания существо иммунно к состоянию &quot;испуганный&quot; и получает временные хиты, равные вашему модификатору заклинательной характеристики, в начале каждого своего хода. Когда заклинание заканчивается, цель теряет все оставшиеся временные хиты от этого заклинания.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Союзник невосприимчив к страху, получает временное здоровье."
     },

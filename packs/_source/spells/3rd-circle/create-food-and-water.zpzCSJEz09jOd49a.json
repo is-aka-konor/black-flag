@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Создать еду и воду",
+  "name": "Создание пищи и воды",
   "type": "spell",
   "_id": "zpzCSJEz09jOd49a",
   "img": "icons/skills/trades/farming-planet-bulb-orange.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to twenty Large or smaller creatures for 24 hours. The food is bland but nourishing but spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.</p>",
+      "value": "<p>Вы создаете 45 фунтов пищи и 30 галлонов воды на земле или в контейнерах в пределах дистанции, достаточно, чтобы прокормить до двадцати Больших или меньших существ в течение 24 часов. Еда безвкусная, но питательная, но портится, если ее не съесть в течение 24 часов. Вода чистая и не портится.</p>",
       "source": {},
       "short": "45 фунтов еды, 30 галлонов воды."
     },

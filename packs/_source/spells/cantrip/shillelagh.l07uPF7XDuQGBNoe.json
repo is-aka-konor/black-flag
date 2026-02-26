@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Шиллелах",
+  "name": "Дубинка",
   "type": "spell",
   "_id": "l07uPF7XDuQGBNoe",
   "img": "icons/magic/nature/root-vine-coiled-crook.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of STR for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical if it isn’t already. As part of the same action used to cast this spell, you can make a single melee attack with the shillelagh, provided a creature is within the weapon’s range.</p><p>The spell ends if you cast it again or if you let go of the weapon.</p>",
+      "value": "<p>Древесина дубинки или боевого посоха, который вы держите, наполняется силой природы. На время действия заклинания вы можете использовать свою заклинательную характеристику вместо Силы для бросков атаки и урона рукопашных атак, использующих это оружие, и кость урона оружия становится к8. Оружие также становится магическим, если еще не является таковым. Как часть того же действия, которое используется для накладывания этого заклинания, вы можете совершить одну рукопашную атаку дубинкой, при условии, что существо находится в пределах досягаемости оружия. Заклинание заканчивается, если вы накладываете его снова или если вы отпускаете оружие.</p>",
       "source": {},
       "short": "Усильте свое деревянное оружие."
     },
@@ -77,7 +77,7 @@
         "choice": false,
         "type": "object",
         "count": "",
-        "special": "club or quarterstaff made of wood"
+        "special": "Дубина или боевой посох из дерева"
       }
     },
     "range": {

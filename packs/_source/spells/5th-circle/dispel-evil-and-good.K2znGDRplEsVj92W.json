@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Рассеять зло и добро",
+  "name": "Рассеивание зла и добра",
   "type": "spell",
   "_id": "K2znGDRplEsVj92W",
   "img": "icons/magic/unholy/strike-beam-blood-large-red-blue.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Shimmering energy surrounds and protects you from certain types of creatures: Celestials, Elementals, Fey, Fiends, Undead, and creatures with the Outsider tag. Creatures of those types have disadvantage on attack rolls against you.</p><p>You can end the spell early by using either of the following special functions.</p><p><strong>Break Enchantment.</strong> As your action, you touch a creature you can reach that is charmed, frightened, or possessed by one of the listed creature types. The creature you touch is no longer charmed, frightened, or possessed by such creatures.</p><p><strong>Dismissal.</strong> As your action, make a melee spell attack against a creature of one of the listed types you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a [[/save CHA dc=@spellcasting.dc]] save or be sent back to its home plane (if it isn’t there already) or a different plane deemed appropriate by the GM.</p>",
+      "value": "<p>Мерцающая энергия окружает и защищает вас от определенных типов существ: Небожителей, Элементалей, Фей, Исчадий, Нежити и существ с меткой &quot;Пришелец&quot;. Существа этих типов имеют помеху на броски атаки против вас. Вы можете закончить заклинание раньше, используя одну из следующих специальных функций.</p><blockquote><p>- <strong>Снятие чар:</strong> Своим действием вы касаетесь существа в пределах досягаемости, которое очаровано, напугано или одержимо одним из перечисленных типов существ. Существо, которого вы касаетесь, больше не очаровано, не напугано и не одержимо такими существами.</p><p>- <strong>Изгнание:</strong> Своим действием совершите рукопашную атаку заклинанием по существу одного из перечисленных типов в пределах досягаемости. При попадании вы пытаетесь изгнать существо обратно на его родной план. Существо должно преуспеть в [[/save CHA dc=@spellcasting.dc]] спасброске Харизмы, иначе будет отправлено обратно на свой родной план (если оно еще не там) или на другой план, сочтенный подходящим Мастером.</p></blockquote>",
       "source": {},
       "short": "Отправьте типы существ домой."
     },

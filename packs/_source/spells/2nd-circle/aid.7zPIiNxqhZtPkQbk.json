@@ -1,5 +1,5 @@
 {
-  "name": "Помогать",
+  "name": "Помощь",
   "type": "spell",
   "img": "icons/magic/life/crosses-trio-red.webp",
   "system": {
@@ -55,7 +55,7 @@
       "consumeQuantity": false
     },
     "description": {
-      "value": "<p>Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, a target’s hit points increase by an additional 5 for each slot above 2nd.</p>",
+      "value": "<p>Ваше заклинание укрепляет ваших союзников стойкостью и решимостью. Выберите до трех существ в пределах дистанции. Максимум хитов и текущие хиты каждой цели увеличиваются на 5 на время действия заклинания.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, хиты цели увеличиваются на дополнительные 5 за каждый круг ячейки выше 2-го.</p>",
       "source": {},
       "short": "Повышает текущее и максимальное количество HP."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "Qp6iGMULneOQXi2M",
-  "name": "Заклинания военного домена",
+  "name": "Заклинания Военного Домена",
   "type": "feature",
   "_id": "aDnu8nJ6X7zQ9lI4",
   "img": "icons/magic/light/projectile-halo-teal.webp",
@@ -45,7 +45,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "War Domain Spells",
+        "title": "Заклинания Военного Домена",
         "icon": null,
         "hint": "",
         "_id": "TsleMfEeFRKbm7gj"
@@ -75,7 +75,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "War Domain Spells",
+        "title": "Заклинания Военного Домена",
         "icon": null,
         "hint": "",
         "_id": "lg58eLXzJUvAM6Jj"
@@ -105,7 +105,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "War Domain Spells",
+        "title": "Заклинания Военного Домена",
         "icon": null,
         "hint": "",
         "_id": "9lA1zexwYPsBAe0i"
@@ -135,14 +135,14 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "War Domain Spells",
+        "title": "Заклинания Военного Домена",
         "icon": null,
         "hint": "",
         "_id": "QZQTdthsfvvNisPJ"
       }
     },
     "description": {
-      "value": "<p>You gain domain spells at the cleric levels listed in the <strong>War Domain Spells</strong> table. See the Cleric Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.WjXj1rpzbhcIUYMg inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Военного Домена</strong> на соответствующих уровнях жреца. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.WjXj1rpzbhcIUYMg inline]</p>",
       "source": {}
     },
     "restriction": {

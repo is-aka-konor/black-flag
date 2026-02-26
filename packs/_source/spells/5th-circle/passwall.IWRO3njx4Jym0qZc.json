@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "проход",
+  "name": "Проход сквозь стену",
   "type": "spell",
   "_id": "IWRO3njx4Jym0qZc",
   "img": "icons/commodities/materials/glass-orb.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening’s dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.</p><p>When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.</p>",
+      "value": "<p>Проход появляется в точке по вашему выбору, которую вы можете видеть на деревянной, штукатурной или каменной поверхности (такой как стена, потолок или пол) в пределах дистанции, и существует на время действия заклинания. Вы выбираете размеры прохода: до 5 футов в ширину, 8 футов в высоту и 20 футов в глубину. Проход не создает нестабильности в окружающей его структуре. Когда проход исчезает, любые существа или предметы, все еще находящиеся в проходе, созданном заклинанием, безопасно выбрасываются в ближайшее незанятое пространство к поверхности, на которой вы наложили заклинание.</p>",
       "source": {},
       "short": "Сделайте отверстие на поверхности."
     },
@@ -100,7 +100,7 @@
       "affects": {
         "choice": false,
         "type": "special",
-        "special": "a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor)"
+        "special": "Деревянная, штукатурная или каменная поверхность (например, стена, потолок или пол)"
       }
     },
     "school": "transmutation"

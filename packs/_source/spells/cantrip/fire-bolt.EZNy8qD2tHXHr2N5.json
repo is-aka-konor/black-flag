@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Огненный болт",
+  "name": "Огненный снаряд",
   "type": "spell",
   "_id": "EZNy8qD2tHXHr2N5",
   "img": "icons/magic/fire/explosion-flame-lightning-strike.webp",
@@ -70,7 +70,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes [[/damage]] damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.</p><p>This spell’s damage increases by 1d10 when you reach 5th level ([[/damage 2d10 fire]]{2d10}), 11th level ([[/damage 3d10 fire]]{3d10}), and 17th level ([[/damage 4d10 fire]]{4d10}).</p>",
+      "value": "<p>Вы метаете частицу огня в существо или предмет в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании цель получает [[/damage]] [[/damage 2d10 fire]]{2d10} [[/damage 3d10 fire]]{3d10} [[/damage 4d10 fire]]{4d10} 1к10 урона огнем. Легковоспламеняющийся предмет, пораженный этим заклинанием, загорается, если его никто не носит и не несет. Урон этого заклинания увеличивается на 1к10, когда вы достигаете 3-го уровня (2к10), 11-го уровня (3к10) и 17-го уровня (4к10).</p>",
       "source": {},
       "short": "Огонь вредит противнику, поджигает предметы."
     },

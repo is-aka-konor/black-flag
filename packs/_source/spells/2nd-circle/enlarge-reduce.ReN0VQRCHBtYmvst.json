@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Увеличить/Уменьшить",
+  "name": "Увеличение/Уменьшение",
   "type": "spell",
   "_id": "ReN0VQRCHBtYmvst",
   "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
@@ -57,7 +57,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a [[/save]] save. On a success, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.</p><p><em><strong>Enlarge.</strong></em> The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on STR checks and STR saves. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attacks with them deal 1d4 extra damage.</p><p><em><strong>Reduce.</strong></em> The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on STR checks and STR saves. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).</p>",
+      "value": "<p>Вы заставляете существо или предмет, который вы можете видеть в пределах дистанции, увеличиться или уменьшиться на время действия заклинания. Выберите существо или предмет, который никто не носит и не несет. Если цель несогласна, она может совершить [[/save]] спасбросок Телосложения. В случае успеха заклинание не действует. Если цель — существо, все, что оно носит и несет, изменяет размер вместе с ней. Любой предмет, брошенный затронутым существом, немедленно возвращается к нормальному размеру.</p><blockquote><p>- _Увеличение:_ Размер цели удваивается во всех измерениях, а ее вес умножается на восемь. Этот рост увеличивает ее размер на одну категорию — например, со Среднего до Большого. Если недостаточно места для удвоения размера цели, существо или предмет достигает максимально возможного размера в доступном пространстве. До окончания действия заклинания цель также имеет преимущество на проверки Силы и спасброски Силы. Оружие цели также растет, чтобы соответствовать ее новому размеру. Пока это оружие увеличено, атаки цели им наносят 1к4 дополнительного урона.</p><p>- _Уменьшение:_ Размер цели уменьшается вдвое во всех измерениях, а ее вес уменьшается до одной восьмой от нормального. Это уменьшение снижает ее размер на одну категорию — например, со Среднего до Маленького. До окончания действия заклинания цель также имеет помеху на проверки Силы и спасброски Силы. Оружие цели также сжимается, чтобы соответствовать ее новому размеру. Пока это оружие уменьшено, атаки цели им наносят на 1к4 урона меньше (это не может уменьшить урон ниже 1).</p></blockquote>",
       "source": {},
       "short": "Изменение размера цели."
     },
@@ -138,7 +138,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"strength\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on STR checks and STR saves while enlarged.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"strength\"}], \"note\": {\"rollMode\": 1, \"text\": \"Пока вы увеличены, вы совершаете с преимуществом проверки СИЛ и спасброски СИЛ.\"}}",
           "priority": null
         },
         {
@@ -188,7 +188,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"strength\" }], \"note\": { \"rollMode\": -1, \"text\": \"You have disadvantage on STR checks and STR saves while reduced.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"strength\"}], \"note\": {\"rollMode\": -1, \"text\": \"Пока вы уменьшены, вы совершаете с помехой проверки СИЛ и спасброски СИЛ.\"}}",
           "priority": null
         },
         {

@@ -63,7 +63,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, one willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.</p>",
+      "value": "<p>На время действия заклинания одно согласное существо, которого вы касаетесь, получает сопротивление одному типу урона по вашему выбору: кислота, холод, огонь, молния или звук.</p>",
       "source": {},
       "short": "У союзника есть сопротивление типу урона."
     },

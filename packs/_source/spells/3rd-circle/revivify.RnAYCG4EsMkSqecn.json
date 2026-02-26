@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Оживить",
+  "name": "Возрождение",
   "type": "spell",
   "_id": "RnAYCG4EsMkSqecn",
   "img": "icons/magic/control/sihouette-hold-beam-green.webp",
@@ -53,7 +53,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a creature that has died within the last minute. That creature returns to life with [[/healing 1]]. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.</p>",
+      "value": "<p>Вы касаетесь существа, умершего в течение последней минуты. Это существо возвращается к жизни с 1 [[/healing 1]] хитом. Это заклинание не может вернуть к жизни существо, умершее от старости, и не может восстановить недостающие части тела.</p>",
       "source": {},
       "short": "Воскресите мертвым на 1 минуту."
     },

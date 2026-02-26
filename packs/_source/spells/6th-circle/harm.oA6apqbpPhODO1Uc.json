@@ -82,7 +82,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You unleash a virulent disease on a creature that you can see within range. The target must make a [[/save]] save. On a failure, it takes [[/damage]] damage, or half as much damage on a success. The damage can’t reduce the target’s hit points below 1. If the target fails the save, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature’s hit point maximum to return to normal before that time passes.</p>",
+      "value": "<p>Вы обрушиваете заразную болезнь на существо, которое вы можете видеть в пределах дистанции. Цель должна совершить [[/save]] спасбросок Телосложения. При провале она получает [[/damage]] 14к6 урона некротической энергией, или половину этого урона при успехе. Урон не может снизить хиты цели ниже 1. Если цель проваливает спасбросок, ее максимум хитов уменьшается на 1 час на величину, равную полученному ей урону некротической энергией. Любой эффект, снимающий болезнь, позволяет максимуму хитов существа вернуться к норме до истечения этого времени.</p>",
       "source": {},
       "short": "Некротик, который не совсем убивает."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Чародейский меч",
+  "name": "Тайный Меч",
   "type": "spell",
   "_id": "fXl9we2375vQAUwq",
   "img": "icons/weapons/swords/sword-flanged-lightning.webp",
@@ -137,7 +137,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>When the sword appears, you make two melee spell attacks with the blade, each one against a target of your choice within 5 feet of the sword. On a hit, the target takes [[/damage]]{3d10 + your spellcasting modifier} force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 30 feet to an unoccupied spot you can see and repeat these attacks against targets within 5 feet of the blade.</p>",
+      "value": "<p>Когда меч появляется, вы совершаете две рукопашные атаки заклинанием с помощью клинка, каждую по цели по вашему выбору в пределах 5 футов от меча. При попадании цель получает [[/damage]]{3d10 + your spellcasting modifier} 3к10 + ваш модификатор заклинательной характеристики урона силовым полем. До окончания действия заклинания вы можете использовать бонусное действие в каждый свой ход, чтобы переместить меч на расстояние до 30 футов в незанятое место, которое вы можете видеть, и повторить эти атаки по целям в пределах 5 футов от клинка.</p>",
       "source": {},
       "short": "Меч сражается за вас."
     },

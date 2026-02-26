@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "порабощать",
+  "name": "Пленение",
   "type": "spell",
   "_id": "qprbPrrLJee6tXx0",
   "img": "icons/magic/control/fear-fright-jackolantern-yellow.webp",
@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a [[/save wisdom]] save. Any creature that can’t be charmed succeeds on this save automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on WIS (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.</p>",
+      "value": "<p>Вы сплетаете отвлекающую нить слов, заставляя существ по вашему выбору, которых вы можете видеть в пределах дистанции и которые могут вас слышать, совершить [[/save wisdom]] спасбросок Мудрости. Любое существо, которое не может быть очаровано, автоматически преуспевает в этом спасброске, и если вы или ваши спутники сражаетесь с существом, оно имеет преимущество на спасбросок. При проваленном спасброске цель имеет помеху на проверки МДР (Внимательность), совершаемые для восприятия любого существа, кроме вас, до окончания действия заклинания или до тех пор, пока цель больше не сможет вас слышать. Заклинание заканчивается, если вы недееспособны или больше не можете говорить.</p>",
       "source": {},
       "short": "Группа видит, слышит только вас."
     },

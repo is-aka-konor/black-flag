@@ -75,7 +75,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A flood of healing energy flows from you into injured creatures around you. You restore up to [[/healing]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on Constructs or Undead.</p>",
+      "value": "<p>Поток [[/healing]] исцеляющей энергии течет от вас к раненым существам вокруг вас. Вы восстанавливаете до 700 хитов, разделенных по вашему выбору между любым количеством существ, которых вы можете видеть в пределах дистанции. Существа, исцеленные этим заклинанием, также излечиваются от всех болезней и любого эффекта, делающего их слепыми или глухими. Это заклинание не действует на Конструктов или Нежить.</p>",
       "source": {},
       "short": "Восстановите 700 HP всем целям."
     },

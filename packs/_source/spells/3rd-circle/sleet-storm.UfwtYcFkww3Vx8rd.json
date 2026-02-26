@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "мокрый снег",
+  "name": "Ледяной дождь",
   "type": "spell",
   "_id": "UfwtYcFkww3Vx8rd",
   "img": "icons/magic/water/projectile-icecicles-salvo.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames are doused.</p><p>The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell’s area for the first time on a turn or starts its turn there, it must make a [[/save DEX dc=@spellcasting.dc]] save. On a failed save, it falls prone.</p><p>If a creature is concentrating in the spell’s area, the creature must make a successful [[/save CON dc=@spellcasting.dc]] save against your spell save DC or lose concentration.</p>",
+      "value": "<p>До окончания действия заклинания ледяной дождь и мокрый снег падают в цилиндре высотой 20 футов с радиусом 40 футов с центром в точке, выбранной вами в пределах дистанции. Область сильно заслонена, и открытое пламя гасится. Земля в области покрыта скользким льдом, что делает ее труднопроходимой местностью. Когда существо входит в область заклинания впервые в ход или начинает там свой ход, оно должно совершить [[/save DEX dc=@spellcasting.dc]] [[/save CON dc=@spellcasting.dc]] спасбросок Ловкости. При проваленном спасброске оно падает ничком. Если существо концентрируется в области заклинания, существо должно совершить успешный спасбросок Телосложения против Сл спасброска от вашего заклинания, иначе потеряет концентрацию.</p>",
       "source": {},
       "short": "Лед нарушает движение, концентрацию."
     },

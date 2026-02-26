@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Друидкрафт",
+  "name": "Искусство друидов",
   "type": "spell",
   "_id": "rwGcFyilX3avbA5E",
   "img": "icons/consumables/plants/kelp-fern-glowing-green.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Whispering to the spirits of nature, you create one of the following effects within range:</p><ul><li><p>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</p></li><li><p>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</p></li><li><p>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</p></li><li><p>You instantly light or snuff out a candle, torch, or small campfire.</p></li></ul>",
+      "value": "<p>Шепча духам природы, вы создаете один из следующих эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете крошечный, безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотой шар для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.</p><p>- Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или листовую почку распуститься.</p><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как падающие листья, порыв ветра, звук маленького животного или слабый запах скунса. Эффект должен помещаться в 5-футовый куб.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p></blockquote>",
       "source": {},
       "short": "Безвредное природное воздействие."
     },

@@ -1,10 +1,10 @@
 {
-  "name": "Кислотная стрела",
+  "name": "Кислотная Стрела",
   "type": "spell",
   "img": "icons/magic/acid/projectile-needles-salvo-green.webp",
   "system": {
     "description": {
-      "value": "<p>A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes [[/damage]] damage immediately and [[/damage 2d4 acid]] damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage (both initial and later) increases by [[/damage 1d4 acid]]{1d4} for each slot above 2nd.</p>",
+      "value": "<p>Мерцающая зеленая стрела устремляется к цели в пределах дистанции и взрывается брызгами кислоты. Совершите по цели дальнобойную атаку заклинанием. При попадании цель получает [[/damage]] [[/damage 2d4 acid]] [[/damage 1d4 acid]]{1d4} 4к4 урона кислотой немедленно и 2к4 урона кислотой в конце своего следующего хода. При промахе стрела обрызгивает цель кислотой, нанося половину от начального урона и не нанося урона в конце ее следующего хода.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, урон (как начальный, так и последующий) увеличивается на 1к4 за каждый круг ячейки выше 2-го.</p>",
       "source": {},
       "short": "Дальнобойная кислотная атака."
     },

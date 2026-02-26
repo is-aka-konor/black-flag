@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Луч ослабления",
+  "name": "Луч слабости",
   "type": "spell",
   "_id": "V8TvqGWojL1ucfUZ",
   "img": "icons/magic/unholy/projectile-bullet-orb-pink.webp",
@@ -58,7 +58,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with attacks that use STR until the spell ends.</p><p>At the end of each of the target’s turns, it can make a [[/save CON]] save against the spell. On a success, the spell ends.</p>",
+      "value": "<p>Луч ослабляющей энергии вырывается из вашего пальца к существу в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании цель наносит только половину урона атаками, использующими Силу, до окончания действия заклинания. В конце каждого хода цели она может совершить [[/save CON]] спасбросок Телосложения против заклинания. В случае успеха заклинание заканчивается.</p>",
       "source": {},
       "short": "Лишите силы врага."
     },

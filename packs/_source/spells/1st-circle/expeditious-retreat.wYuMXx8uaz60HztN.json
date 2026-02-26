@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Быстрое отступление",
+  "name": "Прыткое отступление",
   "type": "spell",
   "_id": "wYuMXx8uaz60HztN",
   "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell allows you to move at an incredible pace. When you first cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.</p>",
+      "value": "<p>Это заклинание позволяет вам двигаться с невероятной скоростью. Когда вы впервые накладываете это заклинание, а затем бонусным действием в каждый свой ход до окончания действия заклинания, вы можете совершить действие Рывок.</p>",
       "source": {},
       "short": "Рывок в качестве бонусного действия."
     },

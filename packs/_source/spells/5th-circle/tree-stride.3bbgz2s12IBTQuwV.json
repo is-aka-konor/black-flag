@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Древесный шаг",
+  "name": "Хождение по деревьям",
   "type": "spell",
   "_id": "3bbgz2s12IBTQuwV",
   "img": "icons/environment/wilderness/tree-ash.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you’re in. You appear in a space of your choice within 5 feet of the destination tree using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.</p><p>You can use this transportation ability once per round for the duration. You must end each turn outside a tree.</p>",
+      "value": "<p>Вы получаете способность входить в дерево и перемещаться изнутри него внутрь другого дерева того же вида в пределах 500 футов. Оба дерева должны быть живыми и по крайней мере того же размера, что и вы. Вы должны использовать 5 футов движения, чтобы войти в дерево. Вы мгновенно узнаете местоположение всех других деревьев того же вида в пределах 500 футов и, как часть движения, использованного для входа в дерево, можете либо перейти в одно из этих деревьев, либо выйти из дерева, в котором находитесь. Вы появляетесь в пространстве по вашему выбору в пределах 5 футов от целевого дерева, используя еще 5 футов движения. Если у вас не осталось движения, вы появляетесь в пределах 5 футов от дерева, в которое вошли. Вы можете использовать эту способность перемещения один раз за раунд на время действия заклинания. Вы должны заканчивать каждый ход вне дерева.</p>",
       "source": {},
       "short": "Телепортируйтесь на 500 футов, используя деревья."
     },

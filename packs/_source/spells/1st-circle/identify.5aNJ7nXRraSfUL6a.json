@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Идентифицировать",
+  "name": "Опознание",
   "type": "spell",
   "_id": "5aNJ7nXRraSfUL6a",
   "img": "icons/commodities/treasure/puzzle-box-glowing-blue.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</p><p>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</p>",
+      "value": "<p>Узнать свойства и способ использования магического предмета или эффекты заклинаний, воздействующих на предмет или существо.</p>",
       "source": {},
       "short": "Откройте для себя магию прямо на цели."
     },

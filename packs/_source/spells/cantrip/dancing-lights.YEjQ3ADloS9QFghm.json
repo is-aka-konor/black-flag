@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Танцующие огни",
+  "name": "Пляшущие огоньки",
   "type": "spell",
   "_id": "YEjQ3ADloS9QFghm",
   "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
@@ -65,7 +65,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely Humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p><p>As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.</p>",
+      "value": "<p>Вы создаете до четырех огоньков размером с факел в пределах дистанции, придавая им вид факелов, фонарей или светящихся сфер, которые парят в воздухе на время действия заклинания. Вы также можете объединить четыре огонька в одну светящуюся, смутно гуманоидную форму Среднего размера. Какую бы форму вы ни выбрали, каждый огонек излучает тусклый свет в радиусе 10 футов. Бонусным действием в свой ход вы можете переместить огоньки на расстояние до 60 футов в новое место в пределах дистанции. Огонек должен находиться в пределах 20 футов от другого огонька, созданного этим заклинанием, и огонек гаснет, если превышает дистанцию заклинания.</p>",
       "source": {},
       "short": "Создайте и управляйте четырьмя огнями."
     },

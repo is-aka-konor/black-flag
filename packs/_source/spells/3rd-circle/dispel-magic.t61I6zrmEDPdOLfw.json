@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Рассеять магию",
+  "name": "Развеивание магии",
   "type": "spell",
   "_id": "t61I6zrmEDPdOLfw",
   "img": "icons/magic/symbols/runes-star-orange.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd circle or lower on the target ends. For each spell of 4th circle or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a successful check, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, you automatically end the effects of a spell on the target if the spell’s circle is equal to or less than the circle of the spell slot you used.</p>",
+      "value": "<p>Выберите одно существо, предмет или магический эффект в пределах дистанции. Любое заклинание 3-го круга или ниже на цели заканчивается. Для каждого заклинания 4-го круга или выше на цели совершите проверку характеристики, используя вашу заклинательную характеристику. Сл равна 10 + круг заклинания. При успешной проверке заклинание заканчивается.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы автоматически прекращаете эффекты заклинания на цели, если круг заклинания равен или меньше круга использованной вами ячейки заклинания.</p>",
       "source": {},
       "short": "Прервите действующее заклинание."
     },
@@ -73,7 +73,7 @@
       "affects": {
         "choice": false,
         "type": "special",
-        "special": "creature, object, or magical effect"
+        "special": "Существо, объект или магический эффект"
       }
     },
     "range": {

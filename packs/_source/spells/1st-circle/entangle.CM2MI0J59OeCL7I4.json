@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Запутывать",
+  "name": "Опутывание",
   "type": "spell",
   "_id": "CM2MI0J59OeCL7I4",
   "img": "icons/magic/nature/root-vine-entwined-thorns.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a [[/save strength]] save or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a [[/check strength]] check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.</p>",
+      "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20x20 футов, начиная с точки в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Существо в области, когда вы накладываете заклинание, должно преуспеть в [[/save strength]] спасброске Силы, иначе будет опутано опутывающими растениями до окончания действия заклинания. Существо, опутанное растениями, может использовать свое действие, чтобы совершить [[/check strength]] проверку Силы против Сл спасброска от вашего заклинания. В случае успеха оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
       "source": {},
       "short": "Сдерживает цели в радиусе 20 футов. квадрат."
     },

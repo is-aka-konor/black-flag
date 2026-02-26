@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one save of its choice. It can roll the die before or after making the save. The spell then ends.</p>",
+      "value": "<p>Вы касаетесь одного согласного существа. Один раз до окончания действия [[/r d4]] заклинания цель может бросить к4 и добавить выпавшее число к одному спасброску по своему выбору. Она может бросить кубик до или после совершения спасброска. Затем заклинание заканчивается.</p>",
       "source": {},
       "short": "Элли добавляет d4 для спасения."
     },

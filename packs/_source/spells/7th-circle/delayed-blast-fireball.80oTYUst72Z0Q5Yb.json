@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Огненный шар с задержкой",
+  "name": "Задержанный огненный шар",
   "type": "spell",
   "_id": "80oTYUst72Z0Q5Yb",
   "img": "icons/magic/fire/orb-lightning-sun.webp",
@@ -81,7 +81,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must make a [[/save]] save. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.</p><p>The spell’s base damage is [[/damage]]. If at the end of your turn the bead has not yet detonated, the damage increases by [[/damage 1d6 fire]]{1d6}.</p><p>If the glowing bead is touched before the interval has expired, the creature touching it must make a [[/save]] save. On a failed save, the spell ends immediately, causing the bead to erupt in flame.</p><p>On a successful save, the creature can throw the bead up to 40 feet. When it strikes a creature or a solid object, the spell ends, and the bead explodes.</p><p>The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 8th circle or higher, the base damage increases by [[/damage 1d6 fire]]{1d6} for each slot above 7th.</p>",
+      "value": "<p>Луч желтого света вспыхивает из вашего указывающего пальца, затем конденсируется, чтобы задержаться в выбранной точке в пределах дистанции в виде светящейся бусины на время действия заклинания. Когда заклинание заканчивается, либо потому что ваша концентрация нарушена, либо потому что вы решаете его закончить, бусина расцветает с низким ревом во взрыв пламени, который огибает углы. Каждое существо в 20-футовой сфере с центром в этой точке должно совершить [[/save]] спасбросок Ловкости. Существо получает урон огнем, равный общему накопленному урону, при проваленном спасброске, или половину этого урона при успешном. Базовый урон заклинания составляет [[/damage]] [[/damage 1d6 fire]]{1d6} 12к6. Если в конце вашего хода бусина еще не взорвалась, урон увеличивается на 1к6. Если светящуюся бусину коснуться до истечения интервала, существо, коснувшееся ее, должно совершить спасбросок Ловкости. При проваленном спасброске заклинание немедленно заканчивается, заставляя бусину взорваться пламенем. При успешном спасброске существо может бросить бусину на расстояние до 40 футов. Когда она ударяется о существо или твердый объект, заклинание заканчивается, и бусина взрывается. Огонь повреждает объекты в области и поджигает легковоспламеняющиеся объекты, которые никто не носит и не несет.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 8-го круга или выше, базовый урон увеличивается на 1к6 за каждый круг ячейки выше 7-го.</p>",
       "source": {},
       "short": "Огненный шар, после задержки."
     },

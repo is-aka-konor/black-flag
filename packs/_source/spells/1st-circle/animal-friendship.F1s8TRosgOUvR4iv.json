@@ -1,5 +1,5 @@
 {
-  "name": "Дружба животных",
+  "name": "Дружба С Животными",
   "type": "spell",
   "_id": "F1s8TRosgOUvR4iv",
   "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
@@ -64,7 +64,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell lets you convince an animal that you mean it no harm. Choose a Beast or creature with the Animal tag that you can see within range. It must see and hear you. If the creature’s INT is 4 (−3) or higher, the spell fails. Otherwise, the creature must succeed on a [[/save]] save or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st.</p>",
+      "value": "<p>Это заклинание позволяет вам убедить животное, что вы не желаете ему вреда. Выберите Зверя или существо с меткой &quot;Животное&quot;, которое вы можете видеть в пределах дистанции. Оно должно видеть и слышать вас. Если Интеллект существа равен 4 (-3) или выше, заклинание проваливается. В противном случае существо должно преуспеть в [[/save]] спасброске Мудрости, иначе будет очаровано вами на время действия заклинания. Если вы или один из ваших спутников причините вред цели, заклинание закончится.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Очаруйте чудовище на один день."
     },

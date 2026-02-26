@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Снять проклятие",
+  "name": "Снятие проклятия",
   "type": "spell",
   "_id": "1CSuwbYVhlmZMNGM",
   "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner’s attunement to the object so it can be removed or discarded.</p>",
+      "value": "<p>При вашем прикосновении все проклятия, действующие на одно существо или предмет, заканчиваются. Если предмет является проклятым магическим предметом, его проклятие остается, но заклинание разрывает настройку его владельца на предмет, так что его можно снять или выбросить.</p>",
       "source": {},
       "short": "Прекратить проклятия, влияющие на союзника."
     },

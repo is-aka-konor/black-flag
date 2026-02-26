@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Тихий образ",
+  "name": "Безмолвный образ",
   "type": "spell",
   "_id": "BVnq6NQ0bfaGchBC",
   "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
@@ -67,7 +67,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15‑foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.</p><p>You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.</p>",
+      "value": "<p>Вы создаете образ предмета, существа или другого видимого явления размером не более 15-футового куба. Образ появляется в месте в пределах дистанции и существует на время действия заклинания. Образ чисто визуальный; он не сопровождается звуком, запахом или другими сенсорными эффектами. Вы можете использовать свое действие, чтобы переместить образ в любое место в пределах дистанции. По мере изменения местоположения образа вы можете изменять его внешний вид так, чтобы его движения казались естественными для образа. Например, если вы создаете образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идет. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ.</p>",
       "source": {},
       "short": "Создайте небольшую визуальную иллюзию."
     },

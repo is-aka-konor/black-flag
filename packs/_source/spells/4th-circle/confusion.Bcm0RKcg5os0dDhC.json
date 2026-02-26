@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Путаница",
+  "name": "Смятение",
   "type": "spell",
   "_id": "Bcm0RKcg5os0dDhC",
   "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a [[/save]] save when you cast this spell or be affected by it.</p><p>An affected target can’t take reactions and must roll a [[/r d10]] at the start of each of its turns to determine its behavior for that turn.</p><p>At the end of each of its turns, an affected target can make a [[/save]] save, ending the effect on itself on a success.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the radius of the sphere increases by 5 feet for each slot above 4th.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.mYfdqSQjkPQRPEzw inline]</p>",
+      "value": "<p>Это [[/r d10]] заклинание атакует и искажает разум существ, порождая иллюзии и провоцируя неконтролируемые действия. Каждое существо в 10-футовой сфере с центром в точке, выбранной вами в пределах дистанции, должно преуспеть в [[/save]] спасброске Мудрости, когда вы накладываете это заклинание, иначе подвергнется его воздействию. Затронутая цель не может совершать реакции и должна бросить к10 в начале каждого своего хода, чтобы определить свое поведение на этот ход.</p><h4>Эффекты смятения | Confusion Effects</h4><table><thead><tr><th>Бросок к10</th><th>Поведение</th></tr></thead><tbody><tr><td>1</td><td>Существо использует все свое движение, чтобы переместиться в случайном направлении. Чтобы определить направление, бросьте к8 и назначьте направление каждой грани кубика. Существо не предпринимает действий в этот ход.</td></tr><tr><td>2-6</td><td>Существо не движется и не предпринимает действий в этот ход.</td></tr><tr><td>7-8</td><td>Существо использует свое действие, чтобы совершить рукопашную атаку против случайно определенного существа в пределах досягаемости. Если в пределах досягаемости нет существ, существо ничего не делает в этот ход.</td></tr><tr><td>9-10</td><td>Существо может действовать и двигаться нормально.</td></tr></tbody></table><p>В конце каждого своего хода затронутая цель может совершить спасбросок Мудрости, прекращая эффект на себе в случае успеха.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 5-го круга или выше, радиус сферы увеличивается на 5 футов за каждый круг ячейки выше 4-го.</p>",
       "source": {},
       "short": "Цели действуют случайным образом."
     },

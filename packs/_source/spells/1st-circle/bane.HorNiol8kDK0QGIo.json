@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Бэйн",
+  "name": "Порча",
   "type": "spell",
   "_id": "HorNiol8kDK0QGIo",
   "img": "icons/magic/unholy/projectiles-binary-pink.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Up to three creatures of your choice that you can see within range must succeed on a [[/save]] save or become cursed.</p><p>When a cursed target makes an attack roll or a save before the spell ends, the target must roll a [[/r d4]] and subtract the number rolled from the attack roll or save.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each slot above 1st.</p>",
+      "value": "<p>До трех существ по вашему выбору, которых вы можете видеть в пределах дистанции, должны преуспеть в [[/save]] спасброске Харизмы, иначе станут проклятыми. Когда проклятая цель совершает бросок атаки или спасбросок до окончания действия [[/r d4]] заклинания, цель должна бросить к4 и вычесть выпавшее число из броска атаки или спасброска.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Враги вычитают d4 из бросков."
     },

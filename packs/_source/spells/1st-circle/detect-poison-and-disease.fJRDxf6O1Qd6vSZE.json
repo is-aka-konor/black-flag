@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Обнаружение ядов и болезней",
+  "name": "Обнаружение яда и болезни",
   "type": "spell",
   "_id": "fJRDxf6O1Qd6vSZE",
   "img": "icons/magic/acid/orb-bubble-smoke-drip.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you can sense the presence and location of poisons and diseases within 30 feet of you. This spell also detects the presence of creatures affected by an ongoing poison or disease, creatures that deal poison damage, and creatures that can infect other creatures with a disease, such as ghouls and mummies. You also identify the kind of poison, creature, or disease in each case.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "value": "<p>Ощутить присутствие и местоположение ядов и болезней в пределах 30 футов. Определить вид яда, существа или болезни.</p>",
       "source": {},
       "short": "Ощутить поблизости яд, болезнь."
     },

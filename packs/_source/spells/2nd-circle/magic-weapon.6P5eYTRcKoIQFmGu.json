@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Магическое оружие",
+  "name": "Волшебное оружие",
   "type": "spell",
   "_id": "6P5eYTRcKoIQFmGu",
   "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-teal.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the bonus increases to +2. When you use a spell slot of 6th circle or higher, the bonus increases to +3.</p>",
+      "value": "<p>Вы касаетесь немагического оружия. До окончания действия заклинания это оружие становится магическим оружием с бонусом +1 к броскам атаки и урона.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, бонус увеличивается до +2. Когда вы используете ячейку заклинания 6-го круга или выше, бонус увеличивается до +3.</p>",
       "source": {},
       "short": "Зачаровать оружие на 1 час."
     },

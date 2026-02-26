@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Создать или уничтожить воду",
+  "name": "Создание или уничтожение воды",
   "type": "spell",
   "_id": "JKOLGDy9N2dMsnDp",
   "img": "icons/magic/water/wave-water-explosion.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>When you cast this spell, choose which of the following effects to create.</p><p><strong>Create Water.</strong> You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.</p><p><strong>Destroy Water.</strong> You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot above 1st.</p>",
+      "value": "<p>Когда вы накладываете это заклинание, выберите, какой из следующих эффектов создать. <strong>Создание воды:</strong> Вы создаете до 10 галлонов чистой воды в пределах дистанции в открытом контейнере. В качестве альтернативы, вода падает дождем в 30-футовом кубе в пределах дистанции, гася открытое пламя в области. <strong>Уничтожение воды:</strong> Вы уничтожаете до 10 галлонов воды в открытом контейнере в пределах дистанции. В качестве альтернативы, вы уничтожаете туман в 30-футовом кубе в пределах дистанции.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы создаете или уничтожаете 10 дополнительных галлонов воды, или размер куба увеличивается на 5 футов, за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Влияет на галлоны воды."
     },

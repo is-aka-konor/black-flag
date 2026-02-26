@@ -1,6 +1,6 @@
 {
   "folder": "rRg9we6fU3e9Hvu7",
-  "name": "Вводить в заблуждение",
+  "name": "Обман зрения",
   "type": "spell",
   "_id": "jYwNDf7tUFg5S9cc",
   "img": "icons/environment/wilderness/statue-hound-horned.webp",
@@ -68,7 +68,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.</p><p>You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.</p><p>You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.</p>",
+      "value": "<p>Вы становитесь невидимым в то же время, когда иллюзорный двойник вас появляется там, где вы стоите. Двойник существует на время действия заклинания, но невидимость заканчивается, если вы атакуете или накладываете заклинание. Вы можете использовать свое действие, чтобы переместить вашего иллюзорного двойника на расстояние до удвоенной вашей скорости и заставить его жестикулировать, говорить и вести себя так, как вы выберете. Вы можете видеть его глазами и слышать его ушами, как если бы вы находились там, где он находится. В каждый ваш ход бонусным действием вы можете переключиться с использования его чувств на использование своих собственных, или обратно. Пока вы используете его чувства, вы слепы и глухи по отношению к вашему собственному окружению.</p>",
       "source": {},
       "short": "Сделайте приманку, станьте невидимкой."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Ворота",
+  "name": "Врата",
   "type": "spell",
   "_id": "j7MxoOVIYt1qEq1W",
   "img": "icons/magic/symbols/arrowhead-green.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.</p><p>The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.</p><p>Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.</p><p>When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens in the named creature’s immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.</p>",
+      "value": "<p>Вы вызываете портал, связывающий незанятое пространство, которое вы можете видеть в пределах дистанции, с точным местоположением на другом плане существования. Портал представляет собой круглое отверстие, которое вы можете сделать диаметром от 5 до 20 футов. Вы можете ориентировать портал в любом выбранном вами направлении. Портал существует на время действия заклинания. Портал имеет переднюю и заднюю стороны на каждом плане, где он появляется. Путешествие через портал возможно только путем прохождения через его переднюю сторону. Все, что делает это, мгновенно переносится на другой план, появляясь в ближайшем к порталу незанятом пространстве. Божества и другие правители планов могут предотвратить открытие порталов, созданных этим заклинанием, в их присутствии или где-либо в их владениях. Когда вы накладываете это заклинание, вы можете произнести имя конкретного существа (псевдоним, титул или прозвище не работают). Если это существо находится на плане, отличном от того, на котором находитесь вы, портал открывается в непосредственной близости от названного существа и притягивает существо сквозь него в ближайшее незанятое пространство на вашей стороне портала. Вы не получаете особой власти над существом, и оно свободно действовать так, как сочтет нужным Мастер. Оно может уйти, атаковать вас или помочь вам.</p>",
       "source": {},
       "short": "Ссылка на другой самолет."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Щит Веры",
+  "name": "Щит веры",
   "type": "spell",
   "_id": "zqls78yW5JLJWzSN",
   "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>",
+      "value": "<p>Мерцающее поле появляется и окружает существо по вашему выбору в пределах дистанции, давая ему бонус +2 к КД на время действия заклинания.</p>",
       "source": {},
       "short": "Существо получает +2 AC."
     },

@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Слиться с камнем",
+  "name": "Слияние с камнем",
   "type": "spell",
   "_id": "SDXJbySSsm9mhMfl",
   "img": "icons/commodities/stone/paver-brick-brown.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with it for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.</p><p>While merged with the stone, you can’t see what occurs outside it, and any [[/check WIS Perception]] checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. Otherwise, you can’t move.</p><p>Minor physical damage to the stone doesn’t harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals [[/damage 6d6 bludgeoning]] damage to you. The stone’s complete destruction (or transmutation into a different substance) expels you and deals [[/damage 50 bludgeoning]] damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.</p>",
+      "value": "<p>Вы шагаете в каменный объект или поверхность, достаточно большую, чтобы полностью вместить ваше тело, сливаясь с ней вместе со всем снаряжением, которое вы несете, на время действия заклинания. Используя свое движение, вы шагаете в камень в точке, которой можете коснуться. Ничего от вашего присутствия не остается видимым или иным образом обнаруживаемым немагическими чувствами. Находясь в слиянии с камнем, вы не можете видеть, что происходит снаружи, и любые [[/check WIS Perception]] проверки МДР (Внимательность), которые вы совершаете, чтобы услышать звуки снаружи, совершаются с помехой. Вы остаетесь в курсе течения времени и можете накладывать заклинания на себя, находясь в слиянии с камнем. Вы можете использовать свое движение, чтобы покинуть камень там, где вы вошли в него, что прекращает заклинание. В противном случае вы не можете двигаться. Незначительные физические повреждения камня не вредят вам, но его частичное разрушение или изменение формы (до такой степени, что вы больше не помещаетесь в нем) изгоняет вас и наносит вам [[/damage 6d6 bludgeoning]] [[/damage 50 bludgeoning]] 6к6 дробящего урона. Полное разрушение камня (или преобразование в другое вещество) изгоняет вас и наносит вам 50 дробящего урона. Если вас изгоняют, вы падаете ничком в ближайшее незанятое пространство к тому месту, где вы впервые вошли.</p>",
       "source": {},
       "short": "Спрячьтесь внутри каменной поверхности."
     },

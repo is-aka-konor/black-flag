@@ -68,7 +68,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell reverses gravity in a 50-foot-radius, 100-foot‑high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a [[/save]] save to grab onto a fixed object it can reach, thus avoiding the fall.</p><p>If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.</p><p>At the end of the duration, affected objects and creatures fall back down.</p>",
+      "value": "<p>Это заклинание обращает гравитацию в цилиндре радиусом 50 футов и высотой 100 футов с центром в точке в пределах дистанции. Все существа и объекты, которые каким-либо образом не прикреплены к земле в области, падают вверх и достигают вершины области, когда вы накладываете это заклинание. Существо может совершить [[/save]] спасбросок Ловкости, чтобы схватиться за неподвижный объект, до которого может дотянуться, избежав таким образом падения. Если при этом падении встречается какой-либо твердый объект (например, потолок), падающие объекты и существа ударяются о него так же, как при обычном падении вниз. Если объект или существо достигает вершины области, не ударившись ни обо что, оно остается там, слегка колеблясь, на время действия заклинания. В конце длительности затронутые объекты и существа падают обратно вниз.</p>",
       "source": {},
       "short": "Вниз находится вверх через 50 футов. радиус."
     },

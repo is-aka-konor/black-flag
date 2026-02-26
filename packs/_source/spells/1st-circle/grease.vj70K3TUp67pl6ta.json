@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Смазка",
+  "name": "Скольжение",
   "type": "spell",
   "_id": "vj70K3TUp67pl6ta",
   "img": "icons/commodities/materials/slime-white.webp",
@@ -48,7 +48,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.</p><p>When the grease appears, each creature standing in its area must succeed on a [[/save]] save or fall prone. A creature that enters the area or ends its turn there must also succeed on a [[/save]] save or fall &Reference[prone].</p>",
+      "value": "<p>Скользкая смазка покрывает землю в квадрате 10x10 футов с центром в точке в пределах дистанции и превращает ее в труднопроходимую местность на время действия заклинания. &amp;Reference[prone] Когда появляется смазка, каждое существо, стоящее в ее области, должно преуспеть в [[/save]] спасброске Ловкости, иначе упадет ничком. Существо, которое входит в область или заканчивает там свой ход, также должно преуспеть в спасброске Ловкости, иначе упадет ничком.</p>",
       "source": {},
       "short": "Создайте скользкую местность."
     },

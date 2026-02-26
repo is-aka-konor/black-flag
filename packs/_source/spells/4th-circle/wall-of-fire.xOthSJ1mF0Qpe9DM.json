@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Стена Огня",
+  "name": "Огненная стена",
   "type": "spell",
   "_id": "xOthSJ1mF0Qpe9DM",
   "img": "icons/magic/fire/beam-jet-stream-spiral-yellow.webp",
@@ -81,7 +81,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a wall of fire on a solid surface within range. You can make the wall in a line up to 60 feet long, 20 feet high, and 1 foot thick or in a circle up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.</p><p>When the wall appears, each creature within its area must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p>One side of the wall, selected by you when you cast this spell, deals [[/damage]] damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 5th circle or higher, the damage increases by [[/damage 1d8 fire]]{1d8} for each slot above 4th.</p>",
+      "value": "<p>Вы создаете стену огня на твердой поверхности в пределах дистанции. Вы можете сделать стену в виде линии длиной до 60 футов, высотой 20 футов и толщиной 1 фут или в виде круга диаметром до 20 футов, высотой 20 футов и толщиной 1 фут. Стена непрозрачна и существует на время действия заклинания. Когда стена появляется, каждое существо в ее области должно совершить [[/save]] спасбросок Ловкости. Существо получает [[/damage]] [[/damage 1d8 fire]]{1d8} 3к8 урона огнем при проваленном спасброске, или половину этого урона при успешном. Одна сторона стены, выбранная вами при накладывании заклинания, наносит 5к8 урона огнем каждому существу, которое заканчивает свой ход в пределах 10 футов от этой стороны или внутри стены. Существо получает такой же урон, когда входит в стену впервые в ход или заканчивает там свой ход. Другая сторона стены не наносит урона.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 5-го круга или выше, урон увеличивается на 1к8 за каждый круг ячейки выше 4-го.</p>",
       "source": {},
       "short": "Сформируйте огненную стену, которая разжигает огонь."
     },

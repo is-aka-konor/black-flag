@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+      "value": "<p>На время действия заклинания вы ощущаете присутствие магии в пределах 30 футов от вас. Если вы ощущаете магию таким образом, вы можете использовать свое действие, чтобы увидеть слабую ауру вокруг любого видимого существа или объекта в области, который несет магию, и вы узнаете его школу магии, если таковая имеется. Заклинание может проникать сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
       "source": {},
       "short": "Почувствуйте близкую магию."
     },

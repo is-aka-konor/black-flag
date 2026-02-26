@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Наложить проклятие",
+  "name": "Проклятие",
   "type": "spell",
   "_id": "f1ovNdb57AhbmDUn",
   "img": "icons/magic/unholy/strike-beam-blood-large-red-teal.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a creature, and that creature must succeed on a [[/save]] save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
+      "value": "<p>Вы касаетесь существа, и это существо должно преуспеть в [[/save]] спасброске Мудрости, иначе станет проклятым на время действия заклинания. Когда вы накладываете это заклинание, выберите природу проклятия из следующих вариантов:</p><blockquote><p>- Выберите одну характеристику. Будучи проклятой, цель имеет помеху на проверки характеристик и спасброски, совершаемые с использованием этой характеристики.</p><p>- Будучи проклятой, цель имеет помеху на броски атаки против вас.</p><p>- Будучи проклятой, цель должна совершать спасбросок Мудрости в начале каждого своего хода. Если она проваливает его, она тратит свое действие в этот ход, ничего не делая.</p><p>- Пока цель проклята, ваши атаки и заклинания наносят цели дополнительно 1к8 урона некротической энергией.</p><p>Заклинание <em>снятие проклятия</em> прекращает этот эффект. По усмотрению Мастера вы можете выбрать альтернативный эффект проклятия, но он не должен быть мощнее описанных выше.</p></blockquote><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, длительность становится концентрация, до 10 минут. Если вы используете ячейку заклинания 5-го круга или выше, длительность составляет 8 часов (без концентрации). Если вы используете ячейку заклинания 7-го круга или выше, длительность составляет 24 часа (без концентрации). Если вы используете ячейку заклинания 9-го круга, заклинание длится до развеивания (без концентрации).</p>",
       "source": {},
       "short": "Выберите плохой эффект для противника."
     },

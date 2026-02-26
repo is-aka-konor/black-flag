@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Пощадите умирающих",
+  "name": "Уход за умирающим",
   "type": "spell",
   "_id": "agXA8jkodlH79XGg",
   "img": "icons/magic/life/heart-cross-purple-orange.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a living creature that has 0 HP. The creature becomes stable. This spell has no effect on Constructs or Undead.</p>",
+      "value": "<p>Вы касаетесь живого существа, у которого 0 хитов. Существо становится стабильным. Это заклинание не действует на Конструктов или Нежить.</p>",
       "source": {},
       "short": "Стабилизировать умирающее существо."
     },

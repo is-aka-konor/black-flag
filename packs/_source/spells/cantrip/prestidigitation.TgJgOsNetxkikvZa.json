@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Престидигитация",
+  "name": "Фокусы",
   "type": "spell",
   "_id": "TgJgOsNetxkikvZa",
   "img": "icons/magic/symbols/runes-triangle-orange-purple.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p><ul><li><p>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p></li><li><p>You instantaneously light or snuff out a candle, a torch, or a small campfire.</p></li><li><p>You instantaneously clean or soil an object no larger than 1 cubic foot.</p></li><li><p>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p></li><li><p>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p></li><li><p>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+      "value": "<p>Это заклинание — незначительный трюк, который начинающие заклинатели используют для практики. Вы создаете один из следующих магических эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как ливень искр, порыв ветра, слабые музыкальные ноты или странный запах.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p><p>- Вы мгновенно чистите или пачкаете предмет размером не более 1 кубического фута.</p><p>- Вы охлаждаете, нагреваете или придаете вкус до 1 кубического фута неживого материала на 1 час.</p><p>- Вы заставляете цвет, небольшую метку или символ появиться на предмете или поверхности на 1 час.</p><p>- Вы создаете немагическую безделушку или иллюзорный образ, который может поместиться в вашей руке и который длится до конца вашего следующего хода.</p></blockquote><p>Если вы накладываете это заклинание несколько раз, вы можете иметь до трех его не мгновенных эффектов активными одновременно, и вы можете прекратить такой эффект действием.</p>",
       "source": {},
       "short": "Безвредный магический эффект."
     },

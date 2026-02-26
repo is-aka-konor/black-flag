@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Размерная дверь",
+  "name": "Дверь в иное измерение",
   "type": "spell",
   "_id": "a79cPbF5G33jiDBa",
   "img": "icons/magic/movement/trail-streak-pink.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as <q>200 feet straight downward</q> or <q>upward to the northwest at a 45-degree angle, 300 feet.</q></p><p>You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.</p><p>If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take [[/damage 4d6 force]] damage, and the spell fails to teleport you.</p>",
+      "value": "<p>Вы телепортируете себя из вашего текущего местоположения в любое другое место в пределах дистанции. Вы прибываете точно в желаемое место. Это может быть место, которое вы видите, которое вы можете визуализировать, или которое вы можете описать, указав расстояние и направление, например, «200 футов прямо вниз» или «вверх на северо-запад под углом 45 градусов, 300 футов». Вы можете взять с собой предметы, если их вес не превышает того, что вы можете нести. Вы также можете взять с собой одно согласное существо вашего размера или меньше, которое несет снаряжение до своей грузоподъемности. Существо должно находиться в пределах 5 футов от вас, когда вы накладываете это заклинание. Если вы прибыли бы в место, уже занятое объектом или существом, вы и любое существо, путешествующее с вами, получаете по [[/damage 4d6 force]] 4к6 урона силовым полем, и заклинание не телепортирует вас.</p>",
       "source": {},
       "short": "Телепорт на 500 футов на двоих."
     },

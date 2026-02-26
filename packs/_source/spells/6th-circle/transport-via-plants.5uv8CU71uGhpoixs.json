@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Транспорт через растения",
+  "name": "Перемещение через растения",
   "type": "spell",
   "_id": "5uv8CU71uGhpoixs",
   "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell creates a magical link between a Large or larger nonmagical plant within range and another plant, at any distance, on the same plane of existence. Creatures of the Plant type can’t be targeted by this spell. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.</p>",
+      "value": "<p>Это заклинание создает магическую связь между Большим или большим немагическим растением в пределах дистанции и другим растением на любом расстоянии на том же плане существования. Существа типа Растение не могут быть выбраны целью этого заклинания. Вы должны были видеть или касаться целевого растения хотя бы раз раньше. На время действия заклинания любое существо может шагнуть в целевое растение и выйти из целевого растения, используя 3 фута движения.</p>",
       "source": {},
       "short": "Лучше шагать по дереву."
     },
@@ -102,7 +102,7 @@
       "affects": {
         "choice": false,
         "type": "special",
-        "special": "Large or larger nonmagical plant"
+        "special": "Немагическое растение Большого размера или больше"
       }
     },
     "school": "conjuration"

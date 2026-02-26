@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Защита от зла ​​и добра",
+  "name": "Защита от зла и добра",
   "type": "spell",
   "_id": "gBis1QK0mfhwc26a",
   "img": "icons/magic/symbols/cog-shield-white-blue.webp",
@@ -47,7 +47,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Until the spell ends, one willing creature you touch is protected against certain types of creatures: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead.</p><p>The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new save against the relevant effect.</p>",
+      "value": "<p>До окончания действия заклинания одно согласное существо, которого вы касаетесь, защищено от определенных типов существ: Аберраций, Небожителей, Элементалей, Фей, Исчадий и Нежити. Защита дает несколько преимуществ. Существа этих типов имеют помеху на броски атаки против цели. Цель также не может быть очарована, напугана или одержима ими. Если цель уже очарована, напугана или одержима таким существом, цель имеет преимущество на любой новый спасбросок против соответствующего эффекта.</p>",
       "source": {},
       "short": "Защита от типов существ."
     },

@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.</p><p>If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</p><p>If any of this spell’s area overlaps with an area of light created by a 2nd circle spell or lower, the spell that created the light is dispelled.</p>",
+      "value": "<p>Магическая тьма распространяется из выбранной вами точки в пределах дистанции, заполняя сферу радиусом 15 футов на время действия заклинания. Тьма огибает углы. Существо с темным зрением не может видеть сквозь эту тьму, и немагический свет не может ее осветить. Если выбранная вами точка находится на предмете, который вы держите, или на предмете, который никто не носит и не несет, тьма исходит от предмета и движется вместе с ним. Полное накрытие источника тьмы непрозрачным предметом, таким как чаша или шлем, блокирует тьму. Если какая-либо часть области этого заклинания перекрывается с областью света, созданной заклинанием 2-го круга или ниже, заклинание, создавшее свет, развеивается.</p>",
       "source": {},
       "short": "15 футов. радиус магической тьмы."
     },

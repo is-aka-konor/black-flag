@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Лечить",
+  "name": "Исцеление",
   "type": "spell",
   "_id": "46Yd7ExOTYuRanOs",
   "img": "icons/magic/life/heart-cross-strong-flame-purple-orange.webp",
@@ -76,7 +76,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain [[/healing]]{70 HP}. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 7th circle or higher, the amount of healing increases by [[/healing 10]]{10 HP} for each slot above 6th.</p>",
+      "value": "<p>Выберите существо, которое вы можете видеть в пределах дистанции. Волна положительной энергии проходит сквозь существо, заставляя его восстановить 70 хитов. Это заклинание также прекращает слепоту, глухоту и любые болезни, поражающие цель. Это заклинание не действует на Конструктов или Нежить.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 7-го круга или выше, количество [[/healing]]{70 HP} [[/healing 10]]{10 HP} исцеления увеличивается на 10 хитов за каждый круг ячейки выше 6-го.</p>",
       "source": {},
       "short": "Основное исцеление существа."
     },

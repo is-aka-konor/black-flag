@@ -1,6 +1,6 @@
 {
   "folder": "SBlfT18ZNbug3Op3",
-  "name": "Заклинания Сферы Жизни",
+  "name": "Заклинания Домена Жизни",
   "type": "feature",
   "_id": "G7DsRKYJRUxpH8xV",
   "img": "icons/magic/light/projectile-halo-teal.webp",
@@ -45,7 +45,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "Life Domain Spells",
+        "title": "Заклинания Домена Жизни",
         "icon": null,
         "hint": "",
         "_id": "Ixz9MrQnJTxoWtXx"
@@ -75,7 +75,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "Life Domain Spells",
+        "title": "Заклинания Домена Жизни",
         "icon": null,
         "hint": "",
         "_id": "gBzEPpWjtQFFFS5j"
@@ -105,7 +105,7 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "Life Domain Spells",
+        "title": "Заклинания Домена Жизни",
         "icon": null,
         "hint": "",
         "_id": "j1ZRgKBS4vnoErEC"
@@ -135,14 +135,14 @@
           "classIdentifier": "cleric"
         },
         "flags": {},
-        "title": "Life Domain Spells",
+        "title": "Заклинания Домена Жизни",
         "icon": null,
         "hint": "",
         "_id": "IAUlUfJ15116ZQeh"
       }
     },
     "description": {
-      "value": "<p>You gain domain spells at the cleric levels listed in the <strong>Life Domain Spells</strong> table. See the Cleric Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.pC20xuZnKRLY0qvq inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Домена Жизни</strong> на соответствующих уровнях жреца. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.pC20xuZnKRLY0qvq inline]</p>",
       "source": {}
     },
     "restriction": {

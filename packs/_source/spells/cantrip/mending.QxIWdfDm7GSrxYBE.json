@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. If this spell is used to repair an object with hit points, it can restore up to 1 HP per casting but can’t raise an object’s hit points to more than half its hit point maximum.</p><p>This spell can cosmetically repair a magic item or Construct, but the spell can’t restore magic or hit points to such targets.</p>",
+      "value": "<p>Это заклинание чинит один разрыв или трещину в предмете, которого вы касаетесь, например, сломанное звено цепи, две половинки сломанного ключа, порванный плащ или протекающий бурдюк. Пока разрыв или трещина не превышают 1 фут в любом измерении, вы чините его, не оставляя следов прежнего повреждения. Если это заклинание используется для починки предмета с хитами, оно может восстановить до 1 хита за накладывание, но не может поднять хиты предмета выше половины его максимума хитов. Это заклинание может косметически починить магический предмет или Конструкта, но заклинание не может восстановить магию или хиты таким целям.</p>",
       "source": {},
       "short": "Мелкий ремонт объекта."
     },

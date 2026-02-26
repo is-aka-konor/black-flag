@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Изображение проекта",
+  "name": "Проекция образа",
   "type": "spell",
   "_id": "yzSu4Feaa7RjGXb5",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
@@ -106,7 +106,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.</p><p>You can use your action to move this illusion up to twice your speed and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.</p><p>You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful [[/check INT (Investigation) dc=@spellcasting.dc]] check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.</p>",
+      "value": "<p>Вы создаете иллюзорную копию себя, которая существует на время действия заклинания. Копия может появиться в любом месте в пределах дистанции, которое вы видели раньше, независимо от препятствий. Иллюзия выглядит и звучит как вы, но нематериальна. Если иллюзия получает какой-либо урон, она исчезает, и заклинание заканчивается. Вы можете использовать свое действие, чтобы переместить эту иллюзию на расстояние до удвоенной вашей скорости и заставить ее жестикулировать, говорить и вести себя так, как вы выберете. Она идеально имитирует ваши манеры. Вы можете видеть ее глазами и слышать ее ушами, как если бы вы находились в ее пространстве. В свой ход бонусным действием вы можете переключиться с использования ее чувств на использование своих собственных, или обратно. Пока вы используете ее чувства, вы слепы и глухи по отношению к вашему собственному окружению. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив [[/check INT (Investigation) dc=@spellcasting.dc]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ, и любой шум, который он издает, звучит для существа глухо.</p>",
       "source": {},
       "short": "Воспринимайте себя через иллюзию."
     },

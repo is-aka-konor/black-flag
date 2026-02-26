@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Необнаружение",
+  "name": "Необнаружимость",
   "type": "spell",
   "_id": "XCJdbzCAPM6v5dFw",
   "img": "icons/magic/symbols/triangle-glow-purple.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you hide a target that you touch from divination magic. The target can be a willing creature, place, or object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.</p>",
+      "value": "<p>На время действия заклинания вы скрываете цель, которой касаетесь, от магии прорицания. Целью может быть согласное существо, место или предмет размером не более 10 футов в любом измерении. Цель не может быть выбрана целью какой-либо магии прорицания или воспринята через магические сенсоры наблюдения.</p>",
       "source": {},
       "short": "Скрыть цель от гадания."
     },
@@ -95,7 +95,7 @@
         "choice": false,
         "type": "special",
         "count": "",
-        "special": "willing creature or a place or an object no larger than 10 feet in any dimension"
+        "special": "Согласное существо, место или объект размером не более 10 футов в любом измерении"
       }
     },
     "range": {

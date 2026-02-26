@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Мигать",
+  "name": "Мерцание",
   "type": "spell",
   "_id": "8kl9U1hQXLd7UQkj",
   "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
@@ -46,7 +46,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (if you were on the Ethereal Plane when you cast the spell, the spell fails and the casting is wasted). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.</p><p>While on the Ethereal Plane, you can see and hear the plane you began in, which is cast in shades of gray, and you can’t see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane.</p><p>Creatures that aren’t there can’t perceive you or interact with you unless they can see into the Ethereal Plane via the <em>see invisibility</em> spell or similar magic.</p>",
+      "value": "<p>Бросайте к20 в конце каждого вашего хода на время действия заклинания. При результате 11 или выше вы исчезаете с вашего текущего плана существования и появляетесь на Эфирном Плане (если вы были на Эфирном Плане, когда накладывали заклинание, заклинание проваливается, и его накладывание потрачено впустую). В начале вашего следующего хода, и когда заклинание заканчивается, если вы находитесь на Эфирном Плане, вы возвращаетесь в незанятое пространство по вашему выбору, которое вы можете видеть в пределах 10 футов от пространства, из которого вы исчезли. Если в этом радиусе нет доступного незанятого пространства, вы появляетесь в ближайшем незанятом пространстве (выбирается случайным образом, если несколько пространств одинаково близки). Вы можете прекратить это заклинание действием. Находясь на Эфирном Плане, вы можете видеть и слышать план, с которого вы начали, который окрашен в оттенки серого, и вы не можете видеть там ничего дальше 60 футов. Вы можете воздействовать только на других существ на Эфирном Плане и подвергаться воздействию только от них. Существа, которых там нет, не могут воспринимать вас или взаимодействовать с вами, если только они не могут видеть в Эфирный План с помощью заклинания <em>видеть невидимое</em> или подобной магии.</p>",
       "source": {},
       "short": "Быстрый переход в эфир и обратно."
     },

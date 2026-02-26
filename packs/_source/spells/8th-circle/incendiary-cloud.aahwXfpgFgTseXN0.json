@@ -82,7 +82,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.</p><p>When the cloud appears, each creature in it must make a [[/save]] save. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature must also make this save when it enters the spell’s area for the first time on a turn or ends its turn there.</p><p>The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.</p>",
+      "value": "<p>Клубящееся облако дыма, пронизанное раскаленными добела углями, появляется в сфере радиусом 20 футов с центром в точке в пределах дистанции. Облако огибает углы и сильно заслонено. Оно длится на время действия заклинания или пока ветер умеренной или большей скорости (не менее 10 миль в час) не рассеет его. Когда облако появляется, каждое существо в нем должно совершить [[/save]] спасбросок Ловкости. Существо получает [[/damage]] 10к8 урона огнем при проваленном спасброске, или половину этого урона при успешном. Существо также должно совершить этот спасбросок, когда входит в область заклинания впервые в ход или заканчивает там свой ход. Облако перемещается на 10 футов прямо от вас в выбранном вами направлении в начале каждого вашего хода.</p>",
       "source": {},
       "short": "20 футов. радиус огненного облака на 1 мин."
     },

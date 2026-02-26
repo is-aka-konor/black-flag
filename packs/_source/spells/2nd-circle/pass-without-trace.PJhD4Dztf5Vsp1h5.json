@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Пройти без следа",
+  "name": "Бесследный шаг",
   "type": "spell",
   "_id": "PJhD4Dztf5Vsp1h5",
   "img": "icons/magic/nature/wolf-paw-glow-orange.webp",
@@ -68,7 +68,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to DEX (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.</p>",
+      "value": "<p>Завеса теней и тишины исходит от вас, маскируя вас и ваших спутников от обнаружения. На время действия заклинания каждое существо по вашему выбору в пределах 30 футов от вас (включая вас) получает бонус +10 к проверкам ЛОВ (Скрытность) и не может быть отслежено, кроме как магическими средствами. Существо, получившее этот бонус, не оставляет за собой следов или других признаков своего прохождения.</p>",
       "source": {},
       "short": "Группа имеет +10 к Скрытности, гусениц нет."
     },

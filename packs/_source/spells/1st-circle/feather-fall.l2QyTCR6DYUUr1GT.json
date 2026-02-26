@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Перо Падение",
+  "name": "Плавное падение",
   "type": "spell",
   "_id": "l2QyTCR6DYUUr1GT",
   "img": "icons/magic/movement/chevrons-down-yellow.webp",
@@ -47,7 +47,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.</p>",
+      "value": "<p>Выберите до пяти падающих существ в пределах дистанции. Скорость падения падающего существа замедляется до 60 футов в раунд до окончания действия заклинания. Если существо приземляется до окончания действия заклинания, оно не получает урона от падения и может приземлиться на ноги, и заклинание заканчивается для этого существа.</p>",
       "source": {},
       "short": "Цели падают медленно."
     },
@@ -61,7 +61,7 @@
     "casting": {
       "value": null,
       "type": "reaction",
-      "condition": "when you or a creature within 60 feet of you falls"
+      "condition": "когда вы или существо в пределах 60 футов от вас падает"
     },
     "components": {
       "required": [

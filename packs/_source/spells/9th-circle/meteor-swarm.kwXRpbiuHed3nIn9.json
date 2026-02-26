@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Метеоритный рой",
+  "name": "Метеоритный дождь",
   "type": "spell",
   "_id": "kwXRpbiuHed3nIn9",
   "img": "icons/magic/fire/projectile-fireball-orange-yellow.webp",
@@ -97,7 +97,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a [[/save]] save. The sphere spreads around corners. A creature takes [[/damage]] damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.</p><p>The spell damages objects in the area and ignites flammable objects that aren’t being worn or carried.</p>",
+      "value": "<p>Пылающие шары огня падают на землю в четырех разных точках, которые вы можете видеть в пределах дистанции. Каждое существо в 40-футовой сфере с центром в каждой выбранной вами точке должно совершить [[/save]] спасбросок Ловкости. Сфера огибает углы. Существо получает [[/damage]] 20к6 урона огнем и 20к6 дробящего урона при проваленном спасброске, или половину этого урона при успешном. Существо, находящееся в области более чем одного огненного взрыва, подвергается воздействию только один раз. Заклинание повреждает объекты в области и поджигает легковоспламеняющиеся объекты, которые никто не носит и не несет.</p>",
       "source": {},
       "short": "Дождь причинил огромный ущерб огромной территории."
     },

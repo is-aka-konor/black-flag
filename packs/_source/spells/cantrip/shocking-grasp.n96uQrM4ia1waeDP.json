@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Шокирующая хватка",
+  "name": "Электрическое касание",
   "type": "spell",
   "_id": "n96uQrM4ia1waeDP",
   "img": "icons/magic/lightning/claws-unarmed-strike-teal.webp",
@@ -72,7 +72,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Lightning springs from your hand to deliver a shock to a creature you touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing metal armor or armor that lacks the Natural Materials property. On a hit, the target takes [[/damage]] damage, and it can’t take reactions until the start of its next turn.</p><p>The spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 lightning]]{2d8}), 11th level ([[/damage 3d8 lightning]]{3d8}), and 17th level ([[/damage 4d8 lightning]]{4d8}).</p>",
+      "value": "<p>Молния вырывается из вашей руки, чтобы ударить током существо, которого вы касаетесь. Совершите рукопашную атаку заклинанием по цели. Вы имеете преимущество на бросок атаки, если цель носит металлические доспехи или доспехи, не обладающие свойством &quot;Природные материалы&quot;. При попадании цель получает [[/damage]] [[/damage 2d8 lightning]]{2d8} [[/damage 3d8 lightning]]{3d8} [[/damage 4d8 lightning]]{4d8} 1к8 урона молнией, и она не может совершать реакции до начала своего следующего хода. Урон заклинания увеличивается на 1к8, когда вы достигаете 3-го уровня (2к8), 11-го уровня (3к8) и 17-го уровня (4к8).</p>",
       "source": {},
       "short": "Молния вредит и замедляет."
     },

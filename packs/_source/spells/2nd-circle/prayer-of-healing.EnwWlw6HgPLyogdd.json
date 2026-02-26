@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Молитва об исцелении",
+  "name": "Молитва исцеления",
   "type": "spell",
   "_id": "EnwWlw6HgPLyogdd",
   "img": "icons/magic/life/heart-hand-gold-green-light.webp",
@@ -66,7 +66,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Up to six creatures of your choice that you can see within range each regain hit points equal to [[/healing]]{2d8 + your spellcasting ability modifier}. This spell has no effect on Constructs or Undead.</p><p>Once you cast this spell, you can’t do so again until you complete a long rest.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 3rd-circle spell slots or higher, the healing increases by 1d8 for each slot above 2nd.</p>",
+      "value": "<p>До шести существ по вашему выбору в пределах дистанции восстанавливают хиты, равные [[/healing]]{2d8 + your spellcasting ability modifier} 2к8 + ваш модификатор заклинательной характеристики.</p>",
       "source": {},
       "short": "Умеренное лечение союзников."
     },

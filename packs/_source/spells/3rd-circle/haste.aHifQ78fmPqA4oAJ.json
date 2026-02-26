@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Спешка",
+  "name": "Ускорение",
   "type": "spell",
   "_id": "aHifQ78fmPqA4oAJ",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on DEX saves, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</p><p>When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.</p>",
+      "value": "<p>Выберите согласное существо, которое вы можете видеть в пределах дистанции. До окончания действия заклинания скорость цели удваивается, она получает бонус +2 к КД, имеет преимущество на спасброски Ловкости и получает дополнительное действие в каждый свой ход. Это действие может быть использовано только для совершения действия Атака (только одна атака оружием), Рывок, Отход, Скрытность или Использовать предмет. Когда заклинание заканчивается, цель не может двигаться или совершать действия до окончания своего следующего хода, так как ее охватывает волна летаргии.</p>",
       "source": {},
       "short": "Скорость союзника × 2, +2 AC, более быстрые усиления."
     },
@@ -144,7 +144,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }, { \"k\": \"ability\",  \"v\": \"dexterity\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on DEX saves.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-save\"}, {\"k\": \"ability\", \"v\": \"dexterity\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом спасброски ЛОВ.\"}}",
           "priority": null
         }
       ],

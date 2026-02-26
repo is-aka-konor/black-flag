@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Могильное прикосновение",
+  "name": "Касание могилы",
   "type": "spell",
   "_id": "7fzSBJVQNGnnLe7s",
   "img": "icons/magic/death/hand-withered-gray.webp",
@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes [[/damage]] damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target.</p><p>If you hit an Undead target with this attack, it also has disadvantage on attack rolls against you until the end of your next turn.</p><p>This spell’s damage increases by 1d8 when you reach 5th level ([[/damage 2d8 necrotic]]{2d8}), 11th level ([[/damage 3d8 necrotic]]{3d8}), and 17th level ([[/damage 4d8 necrotic]]{4d8}).</p>",
+      "value": "<p>Вы создаете призрачную, скелетную руку в пространстве существа в пределах дистанции. Совершите по существу дальнобойную атаку заклинанием, чтобы поразить его холодом могилы. При попадании цель получает [[/damage]] [[/damage 2d8 necrotic]]{2d8} [[/damage 3d8 necrotic]]{3d8} [[/damage 4d8 necrotic]]{4d8} 1к8 урона некротической энергией, и она не может восстанавливать хиты до начала вашего следующего хода. До тех пор рука цепляется за цель. Если вы попадаете этой атакой по Нежити, она также имеет помеху на броски атаки против вас до конца вашего следующего хода. Урон этого заклинания увеличивается на 1к8, когда вы достигаете 3-го уровня (2к8), 11-го уровня (3к8) и 17-го уровня (4к8).</p>",
       "source": {},
       "short": "Некротический вред, препятствующий заживлению."
     },

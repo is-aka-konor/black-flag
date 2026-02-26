@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Очистите еду и напитки",
+  "name": "Очищение пищи и питья",
   "type": "spell",
   "_id": "4q0CXrxEdSaDWkPU",
   "img": "icons/consumables/food/cheese-round-glowing-yellow.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.</p>",
+      "value": "<p>Очистить всю немагическую пищу и питье в 5-футовой сфере, избавляя их от яда и болезней.</p>",
       "source": {},
       "short": "Сделайте еду и напитки безопасными для употребления."
     },
@@ -77,7 +77,7 @@
         "choice": false,
         "type": "special",
         "count": "",
-        "special": "all nonmagical food and drink"
+        "special": "Вся немагическая еда и питьё"
       }
     },
     "range": {

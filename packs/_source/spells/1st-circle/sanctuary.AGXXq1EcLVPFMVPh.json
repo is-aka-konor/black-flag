@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Святилище",
+  "name": "Убежище",
   "type": "spell",
   "_id": "AGXXq1EcLVPFMVPh",
   "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a [[/save]] save. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a <em>fireball</em>.</p><p>If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.</p>",
+      "value": "<p>Вы ограждаете существо в пределах дистанции от атаки. До окончания действия заклинания любое существо, которое выбирает целью огражденное существо атакой или вредоносным заклинанием, должно сначала совершить [[/save]] спасбросок Мудрости. При проваленном спасброске существо должно выбрать новую цель или потерять атаку или заклинание. Это заклинание не защищает огражденное существо от эффектов области, таких как взрыв <em>огненного шара</em>. Если огражденное существо совершает атаку или накладывает заклинание, которое воздействует на вражеское существо, это заклинание заканчивается.</p>",
       "source": {},
       "short": "Защитите существо от атак."
     },

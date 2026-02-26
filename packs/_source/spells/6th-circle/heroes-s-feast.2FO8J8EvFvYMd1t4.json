@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Праздник героев",
+  "name": "Пир героев",
   "type": "spell",
   "_id": "2FO8J8EvFvYMd1t4",
   "img": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp",
@@ -91,7 +91,7 @@
       "max": "1"
     },
     "description": {
-      "value": "<p>You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve other creatures can partake of the feast.</p><p>A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all WIS saves with advantage. Its hit point maximum also increases by [[/healing]]{2d10}, and it gains the same number of hit points. These benefits last for 24 hours.</p><p>You must complete a long rest before you can cast this spell again.</p>",
+      "value": "<p>Вызвать великий пир, который излечивает болезни, дает иммунитет к яду и страху и увеличивает максимум хитов на [[/healing]]{2d10} 2к10 на 24 часа.</p>",
       "source": {},
       "short": "Пир дает едокам преимущества."
     },
@@ -185,7 +185,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }, { \"k\": \"ability\",  \"v\": \"wisdom\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on WIS saves.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-save\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом спасброски МДР.\"}}",
           "priority": null
         }
       ],

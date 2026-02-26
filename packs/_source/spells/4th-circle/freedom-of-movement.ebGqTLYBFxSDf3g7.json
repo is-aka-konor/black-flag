@@ -1,6 +1,6 @@
 {
   "folder": "tCxdqzClsLOnTgfE",
-  "name": "Свобода передвижения",
+  "name": "Свобода движения",
   "type": "spell",
   "_id": "ebGqTLYBFxSDf3g7",
   "img": "icons/magic/movement/pinwheel-turning-blue.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.</p><p>The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.</p>",
+      "value": "<p>Вы касаетесь согласного существа. На время действия заклинания движение цели не зависит от труднопроходимой местности, а заклинания и другие магические эффекты не могут ни снизить скорость цели, ни вызвать у цели состояние &quot;парализованный&quot; или &quot;опутанный&quot;. Цель также может потратить 5 футов движения, чтобы автоматически вырваться из немагических пут, таких как наручники или существо, которое ее схватило. Наконец, нахождение под водой не накладывает штрафов на движение или атаки цели.</p>",
       "source": {},
       "short": "Союзника нельзя замедлить или затруднить."
     },

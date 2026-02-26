@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Цветной спрей",
+  "name": "Цветные брызги",
   "type": "spell",
   "_id": "SgbFroBbEHc9wkLk",
   "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A dazzling array of flashing, colored light springs from your hand. Roll [[/r 8d10]] and total the result. This total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).</p><p>Starting with the creature that has the lowest current hit points, each creature affected by this spell is &Reference[blinded] until the spell ends. Subtract each creature’s current hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, roll an additional [[/r 2d10]] for each slot above 1st.</p>",
+      "value": "<p>Ослепительный массив вспыхивающего цветного света вырывается из вашей руки. Бросьте [[/r 8d10]] и сложите результат. Эта сумма — количество хитов существ, на которое может воздействовать это заклинание. Существа в 15-футовом конусе, исходящем от вас, подвергаются воздействию в порядке возрастания их текущих хитов (игнорируя существ без сознания и существ, которые не могут видеть). Начиная с существа с наименьшим количеством текущих хитов, каждое существо, затронутое этим заклинанием, &amp;Reference[blinded] до окончания действия заклинания. Вычитайте текущие хиты каждого существа из общей суммы, прежде чем переходить к существу со следующим наименьшим количеством хитов. Хиты существа должны быть равны или меньше оставшейся суммы, чтобы это существо подверглось воздействию.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, бросайте дополнительно  [[/r 2d10]] за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "15 футов. конус света ослепляет врагов."
     },
@@ -96,7 +96,7 @@
         "choice": false,
         "type": "special",
         "count": "",
-        "special": "Up to rolled HP worth of creatures that can see"
+        "special": "Существа, которые видят вас, суммарно до выпавшего значения хитов"
       }
     },
     "range": {

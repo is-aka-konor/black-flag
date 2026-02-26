@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "Сдвиг самолета",
+  "name": "Сдвиг плана",
   "type": "spell",
   "_id": "9C1ZtrdSaiyWefRx",
   "img": "icons/commodities/metal/barstock-teal.webp",
@@ -116,7 +116,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the city of Fandeval in the Shadow Realm, and you appear in or near that destination. If you are trying to reach Fandeval, for example, you might arrive in the Old Market Square district at the heart of the city, on the road that leads to the Sleeper’s Gate entrance, or looking at the city from across the River Styx, at the GM’s discretion.</p><p>Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.</p><p>You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a [[/save]] save. On a failure, the creature is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.</p>",
+      "value": "<p>Вы и до восьми согласных существ, взявшихся за руки в круг, переносятся на другой план существования. Вы можете указать целевое место назначения в общих чертах, например, город Фандевал в Царстве Теней, и вы появитесь в этом месте назначения или рядом с ним. Если вы пытаетесь добраться до Фандевала, например, вы можете прибыть на Старую Рыночную площадь в центре города, на дорогу, ведущую к входу Врат Спящего, или увидеть город с другого берега реки Стикс, по усмотрению Мастера. В качестве альтернативы, если вы знаете последовательность символов телепортационного круга на другом плане существования, это заклинание может доставить вас к этому кругу. Если телепортационный круг слишком мал, чтобы вместить всех перевезенных вами существ, они появляются в ближайших незанятых пространствах рядом с кругом. Вы можете использовать это заклинание, чтобы изгнать несогласное существо на другой план. Выберите существо в пределах вашей досягаемости и совершите по нему рукопашную атаку заклинанием. При попадании существо должно совершить [[/save]] спасбросок Харизмы. При провале существо переносится в случайное место на указанном вами плане существования. Существо, перенесенное таким образом, должно самостоятельно найти путь обратно на ваш текущий план существования.</p>",
       "source": {},
       "short": "Возьмите союзников или изгоните врага в самолет."
     },

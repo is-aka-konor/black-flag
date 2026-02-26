@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Улучшить способность",
+  "name": "Улучшение характеристики",
   "type": "spell",
   "_id": "eQSukAkHZgLbOZA7",
   "img": "icons/magic/earth/strike-fist-stone-light.webp",
@@ -83,7 +83,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You touch a creature and bestow one of the following effects upon it. It gains that effect until the spell ends.</p><p><strong>Bear’s Endurance.</strong> The target has advantage on CON checks and gains 2d6 temporary HP, which are lost when the spell ends.</p><p><strong>Bull’s Strength.</strong> The target has advantage on STR checks, and its carrying capacity doubles.</p><p><strong>Cat’s Grace.</strong> The target has advantage on DEX checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated.</p><p><strong>Eagle’s Splendor.</strong> The target has advantage on CHA checks and saves against the charmed condition.</p><p><strong>Fox’s Cunning.</strong> The target has advantage on INT checks and checks made to Hide or otherwise avoid notice.</p><p><strong>Owl’s Wisdom.</strong> The target has advantage on WIS checks and can’t be surprised.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd.</p>",
+      "value": "<p>Вы касаетесь существа и даруете ему один из следующих эффектов. Он получает этот эффект до окончания действия заклинания.</p><blockquote><p>- _Медвежья выносливость:_ Цель имеет преимущество на проверки Телосложения и получает 2к6 временных хитов, которые теряются при окончании заклинания.</p><p>- _Бычья сила:_ Цель имеет преимущество на проверки Силы, и ее грузоподъемность удваивается.</p><p>- _Кошачья грация:_ Цель имеет преимущество на проверки Ловкости. Она также не получает урона от падения с высоты 20 футов или менее, если не недееспособна.</p><p>- _Орлиное великолепие:_ Цель имеет преимущество на проверки Харизмы и спасброски против состояния &quot;очарованный&quot;.</p><p>- _Лисья хитрость:_ Цель имеет преимущество на проверки Интеллекта и проверки, совершаемые для Скрытности или иного избегания внимания.</p><p>- _Совиная мудрость:_ Цель имеет преимущество на проверки Мудрости и не может быть застигнута врасплох.</p></blockquote><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
       "source": {},
       "short": ""
     },
@@ -161,7 +161,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"constitution\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on CON checks\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"constitution\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки ТЕЛ.\"}}",
           "priority": null
         }
       ],
@@ -205,7 +205,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"strength\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on STR checks, and your carrying capacity doubles.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"strength\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки СИЛ, а ваша грузоподъёмность удваивается.\"}}",
           "priority": null
         }
       ],
@@ -249,7 +249,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"dexterity\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on DEX checks. You also don’t take damage from falling 20 feet or less if you aren’t incapacitated.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"dexterity\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки ЛОВ. Кроме того, вы не получаете урон от падения с высоты 20 футов или меньше, если не недееспособны.\"}}",
           "priority": null
         }
       ],
@@ -293,7 +293,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"o\": \"OR\", \"v\": [{ \"o\": \"AND\", \"v\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"charisma\" }] }, { \"k\": \"type\", \"v\": \"ability-save\" }] }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on CHA checks and saves against the charmed condition.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"o\": \"OR\", \"v\": [{\"o\": \"AND\", \"v\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"charisma\"}]}, {\"k\": \"type\", \"v\": \"ability-save\"}]}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки ХАР и спасброски против состояния Очарован.\"}}",
           "priority": null
         }
       ],
@@ -337,7 +337,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on INT checks and checks made to Hide or otherwise avoid notice.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки ИНТ и проверки, чтобы Спрятаться или иным образом остаться незамеченным.\"}}",
           "priority": null
         }
       ],
@@ -381,7 +381,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"wisdom\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on WIS checks and can’t be surprised.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-check\"}, {\"k\": \"ability\", \"v\": \"wisdom\"}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом проверки МДР, и вас нельзя застать врасплох.\"}}",
           "priority": null
         }
       ],

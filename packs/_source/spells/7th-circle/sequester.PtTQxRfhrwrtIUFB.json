@@ -1,6 +1,6 @@
 {
   "folder": "QKeIWHAJ8KWrCHiJ",
-  "name": "секвестр",
+  "name": "Уединение",
   "type": "spell",
   "_id": "PtTQxRfhrwrtIUFB",
   "img": "icons/tools/cooking/can.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can’t be targeted by divination spells or perceived through scrying sensors created by divination spells.</p><p>If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn’t grow older.</p><p>You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include <q>after 1,000 years</q> or <q>when the tarrasque awakens.</q> This spell also ends if the target takes any damage.</p>",
+      "value": "<p>С помощью этого заклинания согласное существо или предмет могут быть спрятаны, в безопасности от обнаружения на время действия заклинания. Когда вы накладываете заклинание и касаетесь цели, она становится невидимой и не может быть выбрана целью заклинаниями прорицания или воспринята через сенсоры наблюдения, созданные заклинаниями прорицания. Если цель — существо, оно впадает в состояние анабиоза. Время для него перестает течь, и оно не стареет. Вы можете установить условие для досрочного окончания заклинания. Условие может быть любым по вашему выбору, но оно должно произойти или быть видимым в пределах 1 мили от цели. Примеры включают «через 1000 лет» или «когда проснется тарраск». Это заклинание также заканчивается, если цель получает какой-либо урон.</p>",
       "source": {},
       "short": "Скрыть цель в стазисе."
     },

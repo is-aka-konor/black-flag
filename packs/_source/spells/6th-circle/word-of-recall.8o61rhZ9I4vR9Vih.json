@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Слово воспоминания",
+  "name": "Слово возврата",
   "type": "spell",
   "_id": "8o61rhZ9I4vR9Vih",
   "img": "icons/sundries/scrolls/scroll-symbol-triangle-tan.webp",
@@ -55,7 +55,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and creatures that teleport with you appear in an unoccupied space nearest to the spot you designated when you prepared your sanctuary. If you cast this spell without first preparing a sanctuary, the spell has no effect.</p><p>You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn’t dedicated to your deity, the spell has no effect.</p>",
+      "value": "<p>Вы и до пяти согласных существ в пределах 5 футов от вас мгновенно телепортируетесь в ранее обозначенное убежище. Вы и существа, которые телепортируются с вами, появляетесь в незанятом пространстве, ближайшем к месту, которое вы обозначили при подготовке вашего убежища. Если вы накладываете это заклинание, не подготовив предварительно убежище, заклинание не действует. Вы должны обозначить убежище, наложив это заклинание внутри места, такого как храм, посвященного вашему божеству или сильно связанного с ним. Если вы попытаетесь наложить заклинание таким образом в области, которая не посвящена вашему божеству, заклинание не действует.</p>",
       "source": {},
       "short": "Телепортируйте группу в выбранное место."
     },

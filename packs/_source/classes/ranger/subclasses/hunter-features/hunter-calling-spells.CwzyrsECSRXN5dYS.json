@@ -1,6 +1,6 @@
 {
   "folder": "LMtPAhFY28bApEKC",
-  "name": "Заклинания вызова охотника",
+  "name": "Заклинания Призыва Охотника",
   "type": "feature",
   "_id": "CwzyrsECSRXN5dYS",
   "img": "icons/magic/nature/tree-spirit-green.webp",
@@ -36,7 +36,7 @@
           "classIdentifier": "ranger"
         },
         "flags": {},
-        "title": "Hunter Calling Spells",
+        "title": "Заклинания Призыва Охотника",
         "icon": null,
         "hint": "",
         "_id": "FleZWVoO4xFpeWNH"
@@ -63,7 +63,7 @@
           "classIdentifier": "ranger"
         },
         "flags": {},
-        "title": "Hunter Calling Spells",
+        "title": "Заклинания Призыва Охотника",
         "icon": null,
         "hint": "",
         "_id": "GrLR4SnVfLc8kk3i"
@@ -89,7 +89,7 @@
           "value": 9
         },
         "flags": {},
-        "title": "Hunter Calling Spells",
+        "title": "Заклинания Призыва Охотника",
         "icon": null,
         "hint": "",
         "_id": "cKRq7TFKHthk2Z1z"
@@ -116,7 +116,7 @@
           "classIdentifier": "ranger"
         },
         "flags": {},
-        "title": "Hunter Calling Spells",
+        "title": "Заклинания Призыва Охотника",
         "icon": null,
         "hint": "",
         "_id": "Wyd4o1AozN6xdxjN"
@@ -143,14 +143,14 @@
           "classIdentifier": "ranger"
         },
         "flags": {},
-        "title": "Hunter Calling Spells",
+        "title": "Заклинания Призыва Охотника",
         "icon": null,
         "hint": "",
         "_id": "gg9QZEUyEeSvtvee"
       }
     },
     "description": {
-      "value": "<p>You gain calling spells at the ranger levels listed in the <strong>Hunter Calling Spells</strong> table. See the Ranger Subclass class feature for how these spells work.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.RgnrgurcoacKa6dq inline]</p>",
+      "value": "<p>Вы получаете заклинания из таблицы <strong>Заклинания Призыва Охотника</strong> на соответствующих уровнях следопыта. Подробности см. в особенности подкласса.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.RgnrgurcoacKa6dq inline]</p>",
       "source": {}
     },
     "restriction": {

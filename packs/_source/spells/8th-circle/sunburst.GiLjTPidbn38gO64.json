@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Санберст",
+  "name": "Вспышка солнца",
   "type": "spell",
   "_id": "GiLjTPidbn38gO64",
   "img": "icons/magic/light/explosion-star-large-orange.webp",
@@ -89,7 +89,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Brilliant sunlight flashes in a 60-foot-radius sphere centered on a point you choose within range. Each creature in that light must make a [[/save]] save. On a failed save, a creature takes [[/damage]] damage and is &Reference[blinded] for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead have disadvantage on this save.</p><p>A creature blinded by this spell makes another [[/save]] save at the end of each of its turns. On a successful save, it is no longer blinded.</p><p>This spell dispels any darkness in its area that was created by a spell.</p>",
+      "value": "<p>Яркий солнечный свет вспыхивает в 60-футовой сфере с центром в точке, выбранной вами в пределах дистанции. Каждое существо в этом свете должно совершить [[/save]] спасбросок Телосложения. При проваленном спасброске существо получает [[/damage]] 12к6 урона излучением и ослеплено на 1 минуту. При успешном спасброске оно получает половину этого урона и не ослеплено этим заклинанием. Нежить имеет помеху на этот спасбросок. &amp;Reference[blinded] Существо, ослепленное этим заклинанием, совершает еще один спасбросок Телосложения в конце каждого своего хода. При успешном спасброске оно больше не ослеплено. Это заклинание развеивает любую тьму в своей области, которая была создана заклинанием.</p>",
       "source": {},
       "short": "60 футов. радиус ослепляющего излучения."
     },

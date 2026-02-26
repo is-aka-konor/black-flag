@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Понимать языки",
+  "name": "Понимание языков",
   "type": "spell",
   "_id": "wyKjdoHh1PVEId7q",
   "img": "icons/sundries/scrolls/scroll-runed-worn-tan.webp",
@@ -39,7 +39,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.</p><p>This spell doesn’t decode secret messages in a text or a glyph, such as an arcane sigil, that isn’t part of a written language.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional willing creature (besides yourself) for each slot above 1st. The creatures must be within 30 feet of you when you target them.</p>",
+      "value": "<p>На время действия заклинания вы понимаете буквальное значение любого разговорного языка, который слышите. Вы также понимаете любой письменный язык, который видите, но вы должны касаться поверхности, на которой написаны слова. Чтение одной страницы текста занимает около 1 минуты. Это заклинание не расшифровывает секретные сообщения в тексте или глифе, таком как тайный знак, который не является частью письменного языка.</p><h3>На более высоких кругах.</h3><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное согласное существо (помимо себя) за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов от вас, когда вы выбираете их целями.</p>",
       "source": {},
       "short": "Понять буквальные значения."
     },

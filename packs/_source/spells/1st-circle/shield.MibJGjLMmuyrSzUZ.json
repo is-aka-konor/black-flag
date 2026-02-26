@@ -4,7 +4,7 @@
   "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
   "system": {
     "description": {
-      "value": "<p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from darts created by the <em>magic missile</em> spell.</p>",
+      "value": "<p>Невидимый барьер магической силы появляется и защищает вас. До начала вашего следующего хода вы получаете бонус +5 к КД, включая против срабатывающей атаки, и вы не получаете урона от дротиков, созданных заклинанием <em>волшебная стрела</em>.</p>",
       "source": {},
       "short": "Отразите приближающуюся атаку."
     },
@@ -18,7 +18,7 @@
     "casting": {
       "value": null,
       "type": "reaction",
-      "condition": "when you are hit by an attack or targeted by the magic missile spell"
+      "condition": "когда вы попадаете под атаку или становитесь целью заклинания Волшебная стрела"
     },
     "duration": {
       "units": "round",

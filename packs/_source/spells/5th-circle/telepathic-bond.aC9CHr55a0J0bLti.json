@@ -59,7 +59,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with an INT of 3 (−4) or lower aren’t affected by this spell. Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can’t extend to other planes of existence.</p>",
+      "value": "<p>Вы создаете телепатическую связь между до восьми согласными существами по вашему выбору в пределах дистанции, психически связывая каждое существо со всеми остальными на время действия заклинания. Существа с Интеллектом 3 (-4) или ниже не подвергаются воздействию этого заклинания. До окончания действия заклинания цели могут общаться телепатически через связь, независимо от того, есть ли у них общий язык. Общение возможно на любом расстоянии, хотя оно не может распространяться на другие планы существования.</p>",
       "source": {},
       "short": "Объединяйте мысли союзников."
     },

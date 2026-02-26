@@ -1,6 +1,6 @@
 {
   "folder": "QT2clUBmIk8w1YDH",
-  "name": "Слово силы «Убийство»",
+  "name": "Слово силы: Смерть",
   "type": "spell",
   "_id": "pF9MBepyk3OBodBY",
   "img": "icons/magic/unholy/hand-light-pink.webp",
@@ -56,7 +56,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 HP or fewer, it dies. Otherwise, the spell has no effect.</p>",
+      "value": "<p>Вы произносите слово силы, которое может заставить одно существо, которое вы можете видеть в пределах дистанции, мгновенно умереть. Если выбранное вами существо имеет 100 хитов или меньше, оно умирает. В противном случае заклинание не действует.</p>",
       "source": {},
       "short": "Убейте противника до 100 HP."
     },

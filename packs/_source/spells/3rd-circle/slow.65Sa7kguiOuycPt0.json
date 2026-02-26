@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Медленный",
+  "name": "Замедление",
   "type": "spell",
   "_id": "65Sa7kguiOuycPt0",
   "img": "icons/magic/time/clock-spinning-gold-pink.webp",
@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a [[/save]] save or be affected by this spell for the duration.</p><p>An affected target’s speed is halved, it takes a −2 penalty to AC and DEX saves, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.</p><p>If the creature attempts to cast a spell with a casting time of 1 action, roll a [[/r d20]]. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.</p><p>A creature affected by this spell makes another [[/save]] save at the end of its turn, ending the effect on itself on a success.</p>",
+      "value": "<p>Вы изменяете время вокруг до шести существ по вашему выбору в 40-футовом кубе в пределах дистанции. Каждая цель должна преуспеть в [[/save]] спасброске Мудрости, иначе будет подвержена действию этого [[/r d20]] заклинания на время действия. Скорость затронутой цели уменьшается вдвое, она получает штраф -2 к КД и спасброскам Ловкости, и она не может использовать реакции. В свой ход она может использовать либо действие, либо бонусное действие, но не оба. Независимо от способностей или магических предметов существа, оно не может совершить более одной рукопашной или дальнобойной атаки в течение своего хода. Если существо пытается наложить заклинание со временем накладывания 1 действие, бросьте к20. При результате 11 или выше заклинание не вступает в силу до следующего хода существа, и существо должно использовать свое действие в этот ход, чтобы завершить заклинание. Если оно не может, заклинание потрачено впустую. Существо, затронутое этим заклинанием, совершает еще один спасбросок Мудрости в конце своего хода, прекращая эффект на себе в случае успеха.</p>",
       "source": {},
       "short": "Враги двигаются и действуют медленно."
     },

@@ -1,5 +1,5 @@
 {
-  "name": "Кислотный всплеск",
+  "name": "Брызги Кислоты",
   "type": "spell",
   "_id": "DKzR55hjIkf4r8tJ",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
@@ -65,7 +65,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a [[/save]] save or take [[/damage]] damage.</p><p>This spell’s damage increases by 1d6 when you reach 5th level ([[/damage 2d6 acid]]{2d6}), 11th level ([[/damage 3d6 acid]]{3d6}), and 17th level ([[/damage 4d6 acid]]{4d6}).</p>",
+      "value": "<p>Выберите одно существо в пределах дистанции или двух существ в пределах дистанции, находящихся в 5 футах друг от друга. Цель должна преуспеть в [[/save]] спасброске Ловкости, иначе получит [[/damage]] [[/damage 2d6 acid]]{2d6} [[/damage 3d6 acid]]{3d6} [[/damage 4d6 acid]]{4d6} 1к6 урона кислотой. Урон этого заклинания увеличивается на 1к6, когда вы достигаете 3-го уровня (2к6), 11-го уровня (3к6) и 17-го уровня (4к6).</p>",
       "source": {},
       "short": "Кислота обрушивается на противников."
     },

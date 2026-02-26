@@ -1,6 +1,6 @@
 {
   "folder": "iJIjiGFvx6IqTXvu",
-  "name": "Спокойные эмоции",
+  "name": "Умиротворение",
   "type": "spell",
   "_id": "Ez1IJ81JoObreBGf",
   "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
@@ -57,7 +57,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You attempt to suppress strong emotions in a group of people. Each Humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a [[/save]] save; a creature can choose to fail this save if it wishes. If a creature fails its save, choose one of the following effects.</p><ul><li><p><strong>Suppression.</strong> You can suppress any effect causing a target to be &Reference[charmed] or &Reference[frightened]. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.</p></li><li><p><strong>Indifference.</strong> Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.</p></li></ul>",
+      "value": "<p>Вы пытаетесь подавить сильные эмоции в группе людей. Каждый Гуманоид в 20-футовой сфере с центром в точке, выбранной вами в пределах дистанции, должен совершить [[/save]] спасбросок Харизмы; существо может по желанию провалить этот спасбросок. Если существо проваливает свой спасбросок, выберите один из следующих &amp;Reference[charmed] &amp;Reference[frightened] эффектов:</p><blockquote><p>- <strong>Подавление:</strong> Вы можете подавить любой эффект, заставляющий цель быть очарованной или напуганной. Когда это заклинание заканчивается, любой подавленный эффект возобновляется, при условии, что его длительность еще не истекла.</p><p>- <strong>Безразличие:</strong> В качестве альтернативы вы можете сделать цель безразличной к существам по вашему выбору, к которым она враждебна. Это безразличие заканчивается, если цель атакована или повреждена заклинанием, или если она становится свидетелем того, как вредят ее друзьям. Когда заклинание заканчивается, существо снова становится враждебным, если только Мастер не постановит иначе.</p></blockquote>",
       "source": {},
       "short": "Успокойте разгневанных гуманоидов."
     },

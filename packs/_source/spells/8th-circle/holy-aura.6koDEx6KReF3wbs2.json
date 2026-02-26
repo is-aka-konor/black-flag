@@ -1,6 +1,6 @@
 {
   "folder": "hOcnChv2pRYFcFhc",
-  "name": "Святая Аура",
+  "name": "Священная аура",
   "type": "spell",
   "_id": "6koDEx6KReF3wbs2",
   "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -66,7 +66,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saves, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a Fiend or an Undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a [[/save]] save or be blinded until the spell ends.</p>",
+      "value": "<p>Божественный свет исходит от вас и сливается в мягкое сияние в радиусе 30 футов вокруг вас. Существа по вашему выбору в этом радиусе, когда вы накладываете это заклинание, излучают тусклый свет в радиусе 5 футов и имеют преимущество на все [[/save]] спасброски, а другие существа имеют помеху на броски атаки против них до окончания действия заклинания. Кроме того, когда Исчадие или Нежить попадает по затронутому существу рукопашной атакой, аура вспыхивает ярким светом. Атакующий должен преуспеть в спасброске Телосложения, иначе будет ослеплен до окончания действия заклинания.</p>",
       "source": {},
       "short": "Союзники загораются, повышают защиту."
     },

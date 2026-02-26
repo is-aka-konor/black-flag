@@ -1,6 +1,6 @@
 {
   "folder": "nRrXxMSYGyY4qKs3",
-  "name": "Адский упрек",
+  "name": "Адское возмездие",
   "type": "spell",
   "_id": "F4Tv4rOAWNOBl6hU",
   "img": "icons/magic/fire/flame-burning-earth-orange.webp",
@@ -83,7 +83,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a [[/save]] save. It takes [[/damage]] damage on a failed save, or half as much damage on a successful one.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the damage increases by [[/damage 1d10 fire]]{1d10} for each slot above 1st.</p>",
+      "value": "<p>Вы указываете пальцем, и существо, причинившее вам урон, на мгновение окружается адским пламенем. Существо должно совершить [[/save]] спасбросок Ловкости. Оно получает [[/damage]] 2к10 урона огнем при проваленном спасброске, или половину этого урона при успешном.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, урон увеличивается на [[/damage 1d10 fire]]{1d10} за каждый круг ячейки выше 1-го.</p>",
       "source": {},
       "short": "Ответить огнем."
     },
@@ -97,7 +97,7 @@
     "casting": {
       "value": null,
       "type": "reaction",
-      "condition": "when damaged by a creature within 60 feet of you that you can see"
+      "condition": "когда вы получаете урон от существа в пределах 60 футов, которое видите"
     },
     "components": {
       "required": [

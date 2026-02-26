@@ -1,6 +1,6 @@
 {
   "folder": "JZx0iWdyx9l2NCaM",
-  "name": "Злобное издевательство",
+  "name": "Злая насмешка",
   "type": "spell",
   "_id": "Pk6kPY9iPq5WT14T",
   "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
@@ -90,7 +90,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a [[/save]] save or take [[/damage]] damage and have disadvantage on the next attack roll it makes before the end of its next turn.</p><p>This spell’s damage increases by 1d4 when you reach 5th level ([[/damage 2d4 psychic]]{2d4}), 11th level ([[/damage 4d4 psychic]]{3d4}), and 17th level ([[/damage 4d4 psychic]]{4d4}).</p>",
+      "value": "<p>Вы обрушиваете поток оскорблений, приправленных тонкими чарами, на существо, которое вы можете видеть в пределах дистанции. Если цель может вас слышать (хотя ей не обязательно вас понимать), она должна преуспеть в [[/save]] спасброске Мудрости, иначе получит [[/damage]] [[/damage 2d4 psychic]]{2d4} [[/damage 4d4 psychic]]{3d4} [[/damage 4d4 psychic]]{4d4} 1к4 психического урона и будет иметь помеху на следующий бросок атаки, который она совершит до конца своего следующего хода. Урон этого заклинания увеличивается на 1к4, когда вы достигаете 5-го уровня (2к4), 11-го уровня (3к4) и 17-го уровня (4к4).</p>",
       "source": {},
       "short": "Психический вред и ущерб."
     },
@@ -155,7 +155,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"attack\" }], \"note\": { \"rollMode\": -1, \"text\": \"You have disadvantage on the next attack roll you make before the end of your next turn.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"attack\"}], \"note\": {\"rollMode\": -1, \"text\": \"Вы совершаете с помехой следующий бросок атаки до конца вашего следующего хода.\"}}",
           "priority": null
         }
       ],

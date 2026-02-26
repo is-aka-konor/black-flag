@@ -1,6 +1,6 @@
 {
   "folder": "V6ryz9MMBJLcGrft",
-  "name": "Отправка",
+  "name": "Послание",
   "type": "spell",
   "_id": "7BrcSoBlBhlIh0MN",
   "img": "icons/magic/symbols/triangle-glowing-green.webp",
@@ -33,7 +33,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You send a message of twenty-five words or fewer to a creature with whom you are familiar. Regardless of INT and language, the creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately.</p><p>You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive.</p>",
+      "value": "<p>Вы отправляете сообщение из двадцати пяти слов или меньше существу, с которым вы знакомы. Независимо от Интеллекта и языка, существо слышит сообщение в своем разуме, узнает вас как отправителя, если знает вас, и может ответить таким же образом немедленно. Вы можете отправить сообщение на любое расстояние и даже на другие планы существования, но если цель находится на другом плане, чем вы, существует 5-процентный шанс, что сообщение не дойдет.</p>",
       "source": {},
       "short": "Отправьте сообщение из 25 слов куда угодно."
     },

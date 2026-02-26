@@ -54,7 +54,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a [[/save wisdom]] save or drop whatever it is holding and become &Reference[frightened] of you for the duration.</p><p>While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a WIS save, ending the effect on itself on a success.</p>",
+      "value": "<p>Вы проецируете призрачный образ худших страхов существа. Каждое существо в 30-футовом конусе должно преуспеть в [[/save wisdom]] спасброске Мудрости, иначе уронит все, что держит, и станет напуганным вами на время действия заклинания. Будучи напуганным этим заклинанием, существо должно совершать действие Рывок и двигаться от вас по самому безопасному доступному маршруту в каждый свой ход, если только двигаться некуда. Если существо заканчивает свой ход в месте, где у него нет линии видимости до вас, существо может совершить спасбросок Мудрости, прекращая &amp;Reference[frightened] эффект на себе в случае успеха.</p>",
       "source": {},
       "short": "Напугайте группу."
     },

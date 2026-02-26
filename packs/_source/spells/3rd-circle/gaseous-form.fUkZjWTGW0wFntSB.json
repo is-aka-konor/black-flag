@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 HP. An incorporeal creature isn’t affected.</p><p>While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to damage from nonmagical attacks, and it has advantage on STR, DEX, and CON saves. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.</p><p>While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.</p>",
+      "value": "<p>Вы превращаете согласное существо, которого касаетесь, вместе со всем, что оно носит и несет, в туманное облако на время действия заклинания. Заклинание заканчивается, если хиты существа падают до 0. Бестелесное существо не подвергается воздействию. Находясь в этой форме, единственным способом передвижения цели является скорость полета 10 футов. Цель может входить и занимать пространство другого существа. Цель имеет сопротивление урону от немагических атак и преимущество на спасброски Силы, Ловкости и Телосложения. Цель может проходить сквозь маленькие отверстия, узкие проемы и даже простые трещины, хотя относится к жидкостям так, как если бы они были твердыми поверхностями. Цель не может упасть и остается парящей в воздухе, даже будучи ошеломленной или иным образом недееспособной. Находясь в форме туманного облака, цель не может говорить или манипулировать объектами, и любые объекты, которые она несла или держала, не могут быть брошены, использованы или иным образом взаимодействованы. Цель не может атаковать или накладывать заклинания.</p>",
       "source": {},
       "short": "Союзник становится медленным облаком."
     },
@@ -162,7 +162,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }, { \"k\": \"ability\", \"o\": \"in\", \"v\": [\"strength\", \"dexterity\", \"constitution\"] }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on STR, DEX, and CON saves.\" } }",
+          "value": "{\"type\": \"note\", \"filter\": [{\"k\": \"type\", \"v\": \"ability-save\"}, {\"k\": \"ability\", \"o\": \"in\", \"v\": [\"strength\", \"dexterity\", \"constitution\"]}], \"note\": {\"rollMode\": 1, \"text\": \"Вы совершаете с преимуществом спасброски СИЛ, ЛОВ и ТЕЛ.\"}}",
           "priority": null
         },
         {

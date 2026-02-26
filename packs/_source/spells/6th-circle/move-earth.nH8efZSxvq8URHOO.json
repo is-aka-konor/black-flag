@@ -1,6 +1,6 @@
 {
   "folder": "nLmfKTvGyMkY7D7k",
-  "name": "Переместить Землю",
+  "name": "Движение земли",
   "type": "spell",
   "_id": "nH8efZSxvq8URHOO",
   "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
@@ -51,7 +51,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. So, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square’s elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete.</p><p>At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect. Because the terrain’s transformation occurs slowly, creatures in the area can’t usually be trapped or injured by the ground’s movement. This spell can’t manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse. Similarly, this spell doesn’t directly affect plant growth. The moved earth carries any plants along with it.</p>",
+      "value": "<p>Выберите область местности размером не более 40 футов по стороне в пределах дистанции. Вы можете изменять форму грязи, песка или глины в области любым выбранным вами способом на время действия заклинания. Вы можете поднять или опустить высоту области, создать или засыпать траншею, возвести или сровнять стену или сформировать столб. Величина любых таких изменений не может превышать половину наибольшего измерения области. Так, если вы воздействуете на квадрат 40x40 футов, вы можете создать столб высотой до 20 футов, поднять или опустить высоту квадрата на расстояние до 20 футов, вырыть траншею глубиной до 20 футов и так далее. На завершение этих изменений уходит 10 минут. В конце каждых 10 минут, которые вы тратите на концентрацию на заклинании, вы можете выбрать новую область местности для воздействия. Поскольку преобразование местности происходит медленно, существа в области обычно не могут быть пойманы в ловушку или ранены движением земли. Это заклинание не может манипулировать природным камнем или каменной кладкой. Камни и строения смещаются, чтобы приспособиться к новой местности. Если способ, которым вы формируете местность, сделает строение неустойчивым, оно может обрушиться. Аналогично, это заклинание не влияет напрямую на рост растений. Перемещенная земля уносит с собой любые растения.</p>",
       "source": {},
       "short": "Формируйте местность по своему усмотрению."
     },
