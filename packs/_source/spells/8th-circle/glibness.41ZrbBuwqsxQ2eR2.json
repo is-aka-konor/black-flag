@@ -142,7 +142,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"min\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"charisma\" }], \"formula\": \"15\" }",
+          "value": "{\"type\": \"min\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"]}, {\"k\": \"ability\", \"v\": \"charisma\"}], \"formula\": \"15\"}",
           "priority": null
         }
       ],

@@ -111,7 +111,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"bonus\", \"filter\": [{ \"k\": \"type\", \"v\": \"armor-class\" }], \"formula\": \"2\" }",
+          "value": "{\"type\": \"bonus\", \"filter\": [{\"k\": \"type\", \"v\": \"armor-class\"}], \"formula\": \"2\"}",
           "priority": null
         }
       ],

@@ -16,6 +16,27 @@ https://github.com/koboldpress/black-flag/releases/latest/download/system.json
 
 Также можно скачать ZIP-архив или использовать манифесты старых версий на странице [Releases](https://github.com/koboldpress/black-flag/releases) и установить их вручную.
 
+## Translation Workflow (Spells)
+
+Для пайплайна локализации заклинаний используйте корневые команды репозитория:
+
+```bash
+python3 spell_translation_pipeline.py fix
+```
+
+`fix` автоматически запускает нормализацию ролл-макросов для `black-flag-ru/packs/_source/spells/**/*.json` через:
+
+```bash
+node scripts/normalize_spell_roll_macros.mjs --write
+```
+
+Проверка (команда должна завершиться ошибкой, если остались сырые `к\d` вне макросов):
+
+```bash
+node scripts/normalize_spell_roll_macros.mjs --dry-run --report black-flag-ru/reports/translation/spell-roll-normalization.check.json
+jq -e '.totals.remainingRuDiceOutsideMacros == 0 and .totals.parseErrors == 0 and .idempotentSecondRun == true' black-flag-ru/reports/translation/spell-roll-normalization.check.json
+```
+
 ## Лицензия
 
 Этот продукт распространяется по лицензии ORC License, зарегистрированной в Библиотеке Конгресса под номером TX 9-307-067, и доступной онлайн, в том числе на www.azoralaw.com/orclicense и других ресурсах. Все гарантии исключаются согласно условиям лицензии.

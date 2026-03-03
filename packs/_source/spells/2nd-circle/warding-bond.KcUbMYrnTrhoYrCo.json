@@ -108,7 +108,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"bonus\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"armor-class\", \"ability-save\"] }], \"formula\": \"1\" }",
+          "value": "{\"type\": \"bonus\", \"filter\": [{\"k\": \"type\", \"o\": \"in\", \"v\": [\"armor-class\", \"ability-save\"]}], \"formula\": \"1\"}",
           "priority": null
         }
       ],

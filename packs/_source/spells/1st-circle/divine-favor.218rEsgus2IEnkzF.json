@@ -66,7 +66,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>Ваша молитва наделяет вас божественным сиянием. До окончания действия заклинания ваши атаки оружием наносят дополнительно [[/damage 1d4 radiant]] 1к4 урона излучением при попадании.</p>",
+      "value": "<p>Ваша молитва наделяет вас божественным сиянием. До окончания действия заклинания ваши атаки оружием наносят дополнительно [[/damage 1d4 radiant]] урона излучением при попадании.</p>",
       "source": {},
       "short": "Ваше оружие излучает больше света."
     },
@@ -140,7 +140,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"bonus\", \"filter\": [{ \"k\": \"type\", \"v\": \"damage\" }, { \"k\": \"activity.type.classification\", \"v\": \"weapon\" }], \"formula\": \"1d4[radiant]\" }",
+          "value": "{\"type\": \"bonus\", \"filter\": [{\"k\": \"type\", \"v\": \"damage\"}, {\"k\": \"activity.type.classification\", \"v\": \"weapon\"}], \"formula\": \"1d4[radiant]\"}",
           "priority": null
         }
       ],

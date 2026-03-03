@@ -128,7 +128,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"min\", \"filter\": [{ \"k\": \"type\", \"v\": \"armor-class\" }], \"formula\": \"16\" }",
+          "value": "{\"type\": \"min\", \"filter\": [{\"k\": \"type\", \"v\": \"armor-class\"}], \"formula\": \"16\"}",
           "priority": null
         }
       ],

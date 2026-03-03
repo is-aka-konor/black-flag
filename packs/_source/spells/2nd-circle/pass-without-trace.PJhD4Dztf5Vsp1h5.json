@@ -147,7 +147,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"bonus\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"dexterity\" }, { \"k\": \"skill\", \"v\": \"stealth\" }], \"formula\": \"10\" }",
+          "value": "{\"type\": \"bonus\", \"filter\": [{\"k\": \"type\", \"v\": \"skill-check\"}, {\"k\": \"ability\", \"v\": \"dexterity\"}, {\"k\": \"skill\", \"v\": \"stealth\"}], \"formula\": \"10\"}",
           "priority": null
         }
       ],

@@ -125,7 +125,7 @@
         {
           "key": "system.attributes.ac.formulas",
           "mode": 2,
-          "value": "{ \"label\": \"Mage Armor\", \"formula\": \"13 + @abilities.dexterity.mod\" }",
+          "value": "{\"label\": \"Mage Armor\", \"formula\": \"13 + @abilities.dexterity.mod\"}",
           "priority": null
         }
       ],
