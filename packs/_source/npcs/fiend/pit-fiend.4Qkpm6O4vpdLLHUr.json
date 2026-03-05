@@ -349,7 +349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each hostile creature that starts its turn within 20 feet of the pit fiend must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the start of its next turn. Each friendly devil within 20 feet of the pit fiend is immune to the charmed and frightened conditions and has advantage on the first attack roll it makes on each of its turns.</p>",
+          "value": "<p>Each hostile creature that starts its turn within 20 feet of the pit fiend must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the start of its next turn. Each friendly devil within 20 feet of the pit fiend is immune to the charmed and frightened conditions and has advantage on the first attack roll it makes on each of its turns.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -488,7 +488,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -798,7 +798,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach [[lookup @labels.reach]], one target. <em>Hit:</em> [[/damage average]] damage.</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость [[lookup @labels.reach]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1119,7 +1119,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1401,7 +1401,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target must succeed on a [[/save con 21 format=long]] be &Reference[poisoned]{poisoned}. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 21 format=long]] be &Reference[poisoned]{отравлен}. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1588,7 +1588,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1859,7 +1859,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 21 format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 21 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -653,7 +653,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -801,7 +801,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -949,7 +949,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If a creature misses the [[lookup @name lowercase]] with an attack and the [[lookup @name lowercase]] is wielding a shield, the [[lookup @name lowercase]] can shove its shield into the creature. The attacker must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the [[lookup @name lowercase]] and knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>If a creature misses the [[lookup @name lowercase]] with an attack and the [[lookup @name lowercase]] is wielding a shield, the [[lookup @name lowercase]] can shove its shield into the creature. The attacker must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the [[lookup @name lowercase]] and knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1099,7 +1099,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -352,7 +352,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1125,7 +1125,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1316,7 +1316,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1504,7 +1504,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

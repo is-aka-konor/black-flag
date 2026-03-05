@@ -349,7 +349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -818,7 +818,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save dex 15 format=long]] or be pestered until the end of its next turn. A pestered creature has disadvantage on the next attack roll it makes before the pester ends.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save dex 15 format=long]] or be pestered until the end of its next turn. A pestered creature has disadvantage on the next attack roll it makes before the pester ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1310,7 +1310,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1483,7 +1483,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

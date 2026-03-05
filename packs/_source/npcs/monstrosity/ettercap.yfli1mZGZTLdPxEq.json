@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -383,7 +383,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -787,7 +787,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -938,7 +938,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Сохранить DEX",
+            "name": "Спасбросок ЛОВ",
             "img": ""
           },
           "QxHn7ONinZjw6aSh": {
@@ -993,7 +993,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "The restrained creature"
+                "special": "Опутанное существо"
               },
               "prompt": true,
               "override": false
@@ -1029,7 +1029,7 @@
             "page": "",
             "fallback": ""
           },
-          "value": "<p>The ettercap launches a gob of webbing at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained}. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>"
+          "value": "<p>The ettercap launches a gob of webbing at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан}. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -1269,7 +1269,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1442,7 +1442,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

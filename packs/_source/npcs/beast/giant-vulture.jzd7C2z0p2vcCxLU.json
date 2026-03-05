@@ -290,7 +290,7 @@
                 "choice": false,
                 "type": "object",
                 "count": "",
-                "special": "Carrion, dead creatures, and Undead only"
+                "special": "Только падаль, мёртвые существа и Нежить"
               },
               "override": false,
               "prompt": true
@@ -387,7 +387,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by sight or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на зрение или обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -626,7 +626,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -652,7 +652,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a [[/save format=long]]  or take [[/damage average]] and be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a [[/save format=long]]  or take [[/damage average]] and be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -789,7 +789,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -978,7 +978,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1150,7 +1150,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

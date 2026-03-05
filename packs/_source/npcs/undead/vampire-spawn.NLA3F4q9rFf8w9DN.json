@@ -542,7 +542,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -773,7 +773,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire spawn makes two Claw attacks. It can replace one attack with a Draining Bite attack. If both Claw attacks hit one Large or smaller creature, the target is &Reference[grappled]{grappled} (escape DC 14).</p>",
+          "value": "<p>The vampire spawn makes two Claw attacks. It can replace one attack with a Draining Bite attack. If both Claw attacks hit one Large or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 14).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -898,7 +898,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Target must be injured"
+                "special": "Цель должна быть ранена"
               },
               "override": false,
               "prompt": true
@@ -1121,7 +1121,7 @@
           "0XtDu2kazEXaLeSX": {
             "type": "utility",
             "_id": "0XtDu2kazEXaLeSX",
-            "description": "<p>Если колющее оружие, сделанное из дерева, вонзится в сердце [[lookup @name lowercase]], в то время, пока [[lookup @name lowercase]] находится &Reference[выведено из строя]{incapacitated} на его месте, [[lookup @name lowercase]] &Reference[парализовано]{paralyzed} до тех пор, пока кол не будет удален.</p>",
+            "description": "<p>Если колющее оружие, сделанное из дерева, вонзится в сердце [[lookup @name lowercase]], в то время, пока [[lookup @name lowercase]] находится &Reference[incapacitated]{недееспособен} на его месте, [[lookup @name lowercase]] &Reference[paralyzed]{парализован} до тех пор, пока кол не будет удален.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1430,7 +1430,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1618,7 +1618,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. [[/damage extended]]. The target’s HP maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains HP equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0. A Humanoid slain in this way and then fed at least one drop of the vampire’s blood rises the following night as a @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{vampire spawn} under the vampire’s control.</p>",
+          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. [[/damage average]]. The target’s HP maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains HP equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0. A Humanoid slain in this way and then fed at least one drop of the vampire’s blood rises the following night as a @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{vampire spawn} under the vampire’s control.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

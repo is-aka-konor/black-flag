@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к истощению и состояниям очарования, испуга, паралича, окаменения и отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -567,7 +567,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal item.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен, его невозможно отличить от обычного предмета.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -692,7 +692,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "The creature the rug is grappling"
+                "special": "Существо, схваченное ковром"
               },
               "override": false,
               "prompt": true
@@ -975,7 +975,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is &Reference[incapacitated]{incapacitated} while in the area of an @UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}. If targeted by @UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}, the armor must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute</p>",
+          "value": "<p>The [[lookup @name lowercase]] is &Reference[incapacitated]{недееспособен} while in the area of an @UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}. If targeted by @UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}, the armor must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1124,7 +1124,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach [[lookup @labels.reach]], one Medium or smaller creature [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 13). Until this grapple ends, the target is &Reference[restrained]{restrained}, &Reference[blinded]{blinded}, and unable to breathe, and the rug can’t fly and can’t Smother another target.</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach [[lookup @labels.reach]], one Medium or smaller creature [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 13). Until this grapple ends, the target is &Reference[restrained]{опутан}, &Reference[blinded]{ослеплён}, and unable to breathe, and the rug can’t fly and can’t Smother another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -710,7 +710,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The death dog’s two heads bark at creatures in two 15-foot cones. Each creature in the area of a cone must succeed on a [[/save format=long]] or be &Reference[deafened]{deafened} until the end of its next turn. If the cones overlap each other, each creature in overlapping cones must make only one save with disadvantage rather than one save for each cone.</p>",
+          "value": "<p>The death dog’s two heads bark at creatures in two 15-foot cones. Each creature in the area of a cone must succeed on a [[/save format=long]] or be &Reference[deafened]{оглохший} until the end of its next turn. If the cones overlap each other, each creature in overlapping cones must make only one save with disadvantage rather than one save for each cone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -939,7 +939,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save con 12 format=long]] or contract a disease. Until the disease is cured, the target is &Reference[poisoned]{poisoned}. Every 24 hours that elapse, the infected creature must repeat the save, reducing its HP maximum by 5 ([[/r 2d4]]) on a failure. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if the disease reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save con 12 format=long]] or contract a disease. Until the disease is cured, the target is &Reference[poisoned]{отравлен}. Every 24 hours that elapse, the infected creature must repeat the save, reducing its HP maximum by 5 ([[/r 2d4]]) on a failure. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if the disease reduces its HP maximum to 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

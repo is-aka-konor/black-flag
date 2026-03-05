@@ -254,7 +254,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -373,7 +373,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -502,7 +502,7 @@
           "CxeeCxMsP3WSwemv": {
             "type": "save",
             "_id": "CxeeCxMsP3WSwemv",
-            "description": "<p>Песня сатира пронизана магическими чарами, и цель - танцевать под музыку. До начала следующего хода сатира Целью является &Reference[charmed]{charmed}, а его скорость падает на 10 футов, поскольку он бесконтрольно танцует.</p>",
+            "description": "<p>Песня сатира пронизана магическими чарами, и цель - танцевать под музыку. До начала следующего хода сатира Целью является &Reference[charmed]{очарован}, а его скорость падает на 10 футов, поскольку он бесконтрольно танцует.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -798,7 +798,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1047,7 +1047,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

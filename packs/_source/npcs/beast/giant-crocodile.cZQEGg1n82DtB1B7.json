@@ -488,7 +488,7 @@
               "override": false,
               "value": "0",
               "units": "foot",
-              "special": "The target must be grappled by the crocodile"
+              "special": "Цель должна быть схвачена крокодилом"
             },
             "magical": false,
             "target": {
@@ -682,7 +682,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the crocodile can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the crocodile can’t Bite another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -932,7 +932,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 16 format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 16 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

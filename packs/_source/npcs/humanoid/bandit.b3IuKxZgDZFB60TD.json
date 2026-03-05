@@ -253,7 +253,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает атаки по возможности с преимуществом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -388,7 +388,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -545,7 +545,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {

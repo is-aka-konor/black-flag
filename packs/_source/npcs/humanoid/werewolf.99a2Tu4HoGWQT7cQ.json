@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] while perceiving by hearing or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на слух или обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -507,7 +507,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -789,7 +789,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The werewolf stares down and growls at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. The werewolf has advantage on the next attack roll it makes against the frightened creature.</p>",
+          "value": "<p>The werewolf stares down and growls at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. The werewolf has advantage on the next attack roll it makes against the frightened creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -926,7 +926,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1188,7 +1188,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the werewolf lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the werewolf lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1361,7 +1361,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1451,7 +1451,7 @@
         "startTurn": null
       },
       "disabled": true,
-      "name": "AC и движение в волчьей или гибридной форме",
+      "name": "КД и скорость в волчьей или гибридной форме",
       "img": "icons/svg/aura.svg",
       "_id": "KC03nhqNAv5bYD71",
       "type": "base",

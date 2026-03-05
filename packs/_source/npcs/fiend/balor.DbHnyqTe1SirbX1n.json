@@ -284,7 +284,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -557,7 +557,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 30 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Longsword attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 30 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Longsword attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -844,7 +844,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1121,7 +1121,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1314,7 +1314,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1562,7 +1562,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 20]] saving throw or be pulled up to 25 feet toward the balor.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 20]] saving throw or be pulled up to 25 feet toward the balor.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

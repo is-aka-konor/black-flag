@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и бессознательности.</p>",
           "source": {}
         },
         "identifier": {},
@@ -446,7 +446,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can communicate with Beasts and Plants as if they shared a language.</p>",
+          "value": "<p>[[lookup @name lowercase]] может общаться со Зверями и Растениями так, словно у них общий язык.</p>",
           "source": {}
         },
         "identifier": {},
@@ -581,7 +581,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -738,7 +738,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save constitution 13]] save or become poisoned for 1 minute. If the save fails by 5 or more, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save constitution 13]] save or become poisoned for 1 minute. If the save fails by 5 or more, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.</p>",
           "source": {}
         },
         "type": {
@@ -875,7 +875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the [[lookup @name lowercase]] wears or carries is invisible with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически становится невидимым, пока не атакует или пока не закончится его концентрация (как при концентрации на заклинании). Всё снаряжение, которое [[lookup @name lowercase]] носит или несёт, также становится невидимым.</p>",
           "source": {}
         },
         "identifier": {},

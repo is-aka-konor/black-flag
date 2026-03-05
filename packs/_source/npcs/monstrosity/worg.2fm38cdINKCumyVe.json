@@ -397,7 +397,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] while perceiving by hearing or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на слух или обоняние.</p>",
           "source": {}
         },
         "identifier": {},
@@ -459,7 +459,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {}
         },
         "identifier": {},
@@ -649,7 +649,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save strength 13]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 13]] save or be knocked prone.</p>",
           "source": {}
         },
         "identifier": {

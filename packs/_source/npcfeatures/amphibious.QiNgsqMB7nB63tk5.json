@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+      "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
       "source": {}
     },
     "identifier": {},

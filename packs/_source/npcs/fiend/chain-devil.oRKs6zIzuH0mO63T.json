@@ -338,7 +338,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -579,7 +579,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Сохранить DEX",
+            "name": "Спасбросок ЛОВ",
             "img": "",
             "sort": 0
           },
@@ -656,7 +656,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chain devil commands chains it can see within 60 feet of it that aren’t being worn or carried to grab up to two creatures it can see within 10 feet of at least one commanded chain. Each creature must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained}. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 15 format=long]].</p><p>The devil can have up to two creatures restrained in this way at a time. If it uses this bonus action to restrain a third, the effect ends on one of the previous targets (the devil’s choice).</p>",
+          "value": "<p>The chain devil commands chains it can see within 60 feet of it that aren’t being worn or carried to grab up to two creatures it can see within 10 feet of at least one commanded chain. Each creature must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан}. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 15 format=long]].</p><p>The devil can have up to two creatures restrained in this way at a time. If it uses this bonus action to restrain a third, the effect ends on one of the previous targets (the devil’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -796,7 +796,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature’s departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its turn.</p>",
+          "value": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature’s departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1195,7 +1195,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 15). Until the grapple ends, the target is &Reference[restrained]{restrained} and takes [[/damage 4d6 piercing average]] damage at the start of each of its turns, and the [[lookup @name lowercase]] can’t use the same Chain on another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15). Until the grapple ends, the target is &Reference[restrained]{опутан} and takes [[/damage 4d6 piercing average]] damage at the start of each of its turns, and the [[lookup @name lowercase]] can’t use the same Chain on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can pinpoint, by scent, the location of creatures that aren’t Constructs or Undead and that don’t have all of their HP within 60 feet of it and can sense the general direction of such creatures within 1 mile of it.</p>",
+      "value": "<p>По запаху [[lookup @name lowercase]] точно определяет местоположение существ (кроме Конструктов и Нежити), у которых не полный запас HP, в пределах 60 футов, а также ощущает общее направление на таких существ в пределах 1 мили.</p>",
       "source": {}
     },
     "identifier": {},

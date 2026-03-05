@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -368,7 +368,7 @@
               "override": false,
               "units": "foot",
               "value": "0",
-              "special": "Target must be grappled by the crab"
+              "special": "Цель должна быть схвачена крабом"
             },
             "magical": false,
             "target": {
@@ -558,7 +558,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 12). The crab has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). The crab has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

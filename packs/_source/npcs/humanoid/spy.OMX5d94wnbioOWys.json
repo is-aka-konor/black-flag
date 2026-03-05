@@ -429,7 +429,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -576,7 +576,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -720,7 +720,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The spy takes the Dash, Disengage, or Hide action.</p>",
+          "value": "<p>Шпион совершает действие Рывок, Отход или Засада.</p>",
           "source": {}
         },
         "identifier": {},
@@ -858,7 +858,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes a feint at one creature within 5 feet of it, pretending to go in for an attack in one direction only to change it up at the last moment. The target must succeed on a [[/save]] save or the [[lookup @name lowercase]] has advantage on the next attack roll it makes against the target.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает финт против одного существа в пределах 5 футов, имитируя атаку в одном направлении и в последний момент меняя её. Цель должна преуспеть в спасброске [[/save]], иначе [[lookup @name lowercase]] получает преимущество на следующий бросок атаки по этой цели.</p>",
           "source": {}
         },
         "identifier": {},

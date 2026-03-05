@@ -14,7 +14,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>While in initiative, the [[lookup @name lowercase]]’s speed is reduced to 15 ft. when sailing against the wind. While sailing with the wind, its speed becomes [[calc @traits.movement.types.walk+15]] feet.</p>"
+      "value": "<p>В бою скорость [[lookup @name lowercase]] уменьшается до 15 футов при движении против ветра. При движении по ветру его скорость становится [[calc @traits.movement.types.walk+15]] футов.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

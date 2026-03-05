@@ -505,7 +505,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 12 format=long]] or be smelly for 1 hour or until a creature spends 1 minute cleaning off the spit. A smelly creature has disadvantage on CHA checks.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or be smelly for 1 hour or until a creature spends 1 minute cleaning off the spit. A smelly creature has disadvantage on CHA checks.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -674,7 +674,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

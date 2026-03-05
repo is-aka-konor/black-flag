@@ -257,7 +257,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {}
         },
         "identifier": {},
@@ -370,7 +370,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {}
         },
         "identifier": {},
@@ -498,7 +498,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] regains [[/healing]] at the start of its turn. If the [[lookup @name lowercase]] takes acid or fire damage, this trait doesn’t function at the start of the [[lookup @name lowercase]]’s next turn. The [[lookup @name lowercase]] dies only if it starts its turn with 0 HP and doesn’t regenerate.</p>",
+          "value": "<p>В начале своего хода [[lookup @name lowercase]] восстанавливает [[/healing]]. Если [[lookup @name lowercase]] получил урон кислотой или огнём, эта особенность не работает в начале его следующего хода. [[lookup @name lowercase]] погибает, только если начинает ход с 0 HP и не восстанавливается.</p>",
           "source": {}
         },
         "identifier": {},
@@ -657,7 +657,7 @@
       "_key": "!actors.items!7VmFAXDknLqyUSQH.qCPX15Y4YHedlCrx"
     },
     {
-      "name": "Безумие (52 HP или меньше)",
+      "name": "Неистовство (52 ОЗ или меньше)",
       "type": "feature",
       "system": {
         "type": {
@@ -867,7 +867,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {
@@ -1034,7 +1034,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

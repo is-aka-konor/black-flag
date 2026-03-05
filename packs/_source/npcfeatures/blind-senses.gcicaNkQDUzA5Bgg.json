@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can’t use its keensense while deafened and unable to smell.</p>",
+      "value": "<p>[[lookup @name lowercase]] не может использовать обострённые чувства, пока он оглохший и лишён возможности чувствовать запахи.</p>",
       "source": {}
     },
     "identifier": {},

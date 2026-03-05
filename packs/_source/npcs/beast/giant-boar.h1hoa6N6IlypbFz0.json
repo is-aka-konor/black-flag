@@ -337,7 +337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the boar moves at least 20 feet straight toward a target and then hits it with a Tusk attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>If the boar moves at least 20 feet straight toward a target and then hits it with a Tusk attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes 10 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает 10 урона или меньше, и этот урон должен снизить его до 0 HP, вместо этого у него остаётся 1 HP.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -623,7 +623,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant boar makes two Tusk attacks. If both attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The giant boar makes two Tusk attacks. If both attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -758,7 +758,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The boar snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the boar.</p>",
+          "value": "<p>The boar snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the boar.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -907,7 +907,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

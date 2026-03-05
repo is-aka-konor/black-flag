@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 5 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
+          "value": "<p>A creature that starts its turn within 5 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Dolcument"
           }
@@ -607,7 +607,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -947,7 +947,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A disease spread by ghouls, ghoul hunger instills a hunger for Humanoid flesh in the creature suffering it, fully manifesting after [[/r 1d4]] hours. Once the disease is fully manifested, the infected creature is &Reference[poisoned]{poisoned} until the disease is cured. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. A creature that succeeds on two of these saves recovers from the disease.</p><p>If an infected Humanoid fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. If the humanoid is a spellcaster with a PB +4 or higher, it has a 25 percent chance of transforming into a necrophage ghast instead. Only a wish spell or similarly powerful magic can reverse the transformation.</p>",
+          "value": "<p>A disease spread by ghouls, ghoul hunger instills a hunger for Humanoid flesh in the creature suffering it, fully manifesting after [[/r 1d4]] hours. Once the disease is fully manifested, the infected creature is &Reference[poisoned]{отравлен} until the disease is cured. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. A creature that succeeds on two of these saves recovers from the disease.</p><p>If an infected Humanoid fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. If the humanoid is a spellcaster with a PB +4 or higher, it has a 25 percent chance of transforming into a necrophage ghast instead. Only a wish spell or similarly powerful magic can reverse the transformation.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -1099,7 +1099,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1348,7 +1348,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature that isn’t a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or be &Reference[paralyzed]{paralyzed} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature that isn’t a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

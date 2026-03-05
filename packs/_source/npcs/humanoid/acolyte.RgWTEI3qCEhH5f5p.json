@@ -402,7 +402,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -540,7 +540,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You cause bright light to spring forth from whatever you touch.</em></p><p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p><p>If you target an object held or worn by a hostile creature, that creature must succeed on a DEX save to avoid the spell.</p>",
+          "value": "<p>Вы касаетесь одного предмета размером не более 10 футов в любом измерении. До окончания действия заклинания предмет излучает яркий свет в радиусе 20 футов и тусклый свет на дополнительные 20 футов. Свет может быть любого цвета по вашему желанию. Полное накрытие предмета чем-то непрозрачным блокирует свет. Заклинание заканчивается, если вы накладываете его снова или прекращаете его действием. Если вы выбираете целью предмет, который держит или носит враждебное существо, это существо должно преуспеть в спасброске Ловкости [[/save DEX dc=@spellcasting.dc]], чтобы избежать заклинания.</p>",
           "source": {}
         },
         "casting": {
@@ -683,7 +683,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You display divine power through a bevy of parlor tricks and small miracles.</em></p><p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p><ul><li><p>Your voice booms up to three times as loud as normal for 1 minute.</p></li><li><p>You cause flames to flicker, brighten, dim, or change color for 1 minute.</p></li><li><p>You cause harmless tremors in the ground for 1 minute.</p></li><li><p>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p></li><li><p>You instantaneously cause an unlocked door or window to fly open or slam shut.</p></li><li><p>You alter the appearance of your eyes for 1 minute.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Вы проявляете малое чудо, знак сверхъестественной силы, в пределах дистанции. Вы создаете один из следующих магических эффектов в пределах дистанции:</p><blockquote><p>- Ваш голос гремит в три раза громче обычного в течение 1 минуты.</p><p>- Вы заставляете пламя мерцать, разгораться, тускнеть или менять цвет в течение 1 минуты.</p><p>- Вы вызываете безвредные толчки в земле в течение 1 минуты.</p><p>- Вы создаете мгновенный звук, исходящий из точки по вашему выбору в пределах дистанции, такой как раскат грома, крик ворона или зловещий шепот.</p><p>- Вы мгновенно заставляете незапертую дверь или окно распахнуться или захлопнуться.</p><p>- Вы изменяете внешний вид своих глаз на 1 минуту.</p></blockquote><p>Если вы накладываете это заклинание несколько раз, вы можете иметь до трех его 1-минутных эффектов активными одновременно, и вы можете прекратить такой эффект действием.</p>",
           "source": {}
         },
         "casting": {
@@ -840,7 +840,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You bless a group of creatures with affirmation and good fortune.</em></p><p>You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a save before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or save.</p>",
+          "value": "<p>Вы благословляете до трех существ по вашему выбору в пределах дистанции. Когда цель совершает бросок атаки или спасбросок до окончания действия заклинания, цель может бросить [[/r 1d4]] и добавить выпавшее число к броску атаки или спасброску.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1013,7 +1013,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You touch a wounded creature and heal them.</em></p><p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.</p><p>This spell has no effect on Undead or Constructs.</p>",
+          "value": "<p>Существо, которого вы касаетесь, восстанавливает количество хитов, равное [[/healing]] + ваш модификатор заклинательной характеристики. Это заклинание не действует на Конструктов или Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, лечение увеличивается на [[/r 1d8]] за каждый круг ячейки выше 1-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1175,7 +1175,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>Your prayers offer a refuge for yourself or another.</em></p><p>You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a WIS save. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.</p><p>If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.</p>",
+          "value": "<p>Наполнить область святой или нечестивой силой. Предотвращает вход определенных существ и связывает дополнительный эффект (например, смелость, тьма, дневной свет). [[/save CHA]]</p>",
           "source": {}
         },
         "casting": {
@@ -1347,7 +1347,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

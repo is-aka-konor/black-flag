@@ -662,7 +662,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "A creature the Octopus is grappling"
+                "special": "Существо, схваченное осьминогом"
               },
               "override": false,
               "prompt": true
@@ -841,7 +841,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 13), if it is a Huge or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}. The octopus can grapple up to two creatures at one time.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 13), if it is a Huge or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}. The octopus can grapple up to two creatures at one time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

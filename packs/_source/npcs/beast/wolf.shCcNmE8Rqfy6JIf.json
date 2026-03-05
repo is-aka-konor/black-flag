@@ -250,7 +250,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] while perceiving by hearing or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на слух или обоняние.</p>",
           "source": {}
         },
         "identifier": {},
@@ -312,7 +312,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {}
         },
         "identifier": {},
@@ -451,7 +451,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save strength 12]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 12]] save or be knocked prone.</p>",
           "source": {}
         },
         "identifier": {

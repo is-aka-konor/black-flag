@@ -344,7 +344,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашной атакой оружием, она наносит дополнительную кость урона этого оружия (уже включена в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -795,7 +795,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1047,7 +1047,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] in melee or [[/damage 1d6 + 3 piercing average]] damage at range.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] in melee or [[/damage 1d6 + 3 piercing average]] damage at range.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1503,7 +1503,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

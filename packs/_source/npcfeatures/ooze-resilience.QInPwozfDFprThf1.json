@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is resistant to the grappled and restrained conditions, and it is immune to exhaustion and to the blinded, charmed, deafened, frightened, and prone conditions.</p>",
+      "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям «схвачен» и «опутан», а также невосприимчив к истощению и состояниям: ослеплён, очарован, оглохший, испуган и сбит с ног.</p>",
       "source": {}
     },
     "identifier": {},

@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can’t regain HP or gain temporary HP.</p>",
+          "value": "<p>Рой может занимать пространство другого существа, и наоборот, а также проходить через любое отверстие, достаточное для Крошечного существа. Рой не может восстанавливать HP и получать временные HP.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -672,7 +672,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The insatiable brood turns all its individual heads in one direction, and its hundreds of Void-filled eyes stare at one creature the brood can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. If the target fails the save by 5 or more, it suffers a random, short-term dread effect for 1 minute.</p>",
+          "value": "<p>The insatiable brood turns all its individual heads in one direction, and its hundreds of Void-filled eyes stare at one creature the brood can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target fails the save by 5 or more, it suffers a random, short-term dread effect for 1 minute.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -743,7 +743,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The swarm is resistant to bludgeoning, piercing, and slashing damage, and it is immune to the charmed, frightened, grappled, paralyzed, petrified, prone, restrained, and stunned conditions.</p>",
+          "value": "<p>Рой имеет сопротивление к дробящему, колющему и рубящему урону и невосприимчив к состояниям: очарован, испуган, схвачен, парализован, окаменел, сбит с ног, опутан и ошеломлён.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1133,7 +1133,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage 2d6 piercing average]] damage plus [[/damage 2d8 force average]] damage if the insatiable brood has half its HP or fewer.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d6 piercing average]] damage plus [[/damage 2d8 force average]] damage if the insatiable brood has half its HP or fewer.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

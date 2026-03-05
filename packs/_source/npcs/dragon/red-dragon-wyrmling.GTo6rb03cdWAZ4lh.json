@@ -532,7 +532,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales fire in a 15-foot cone. Each creature in that area must make a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает огонь в 15-футовом конусе. Каждое существо в этой области должно совершить спасбросок [[/save]]: при провале получает [[/damage average]] урона, при успехе — половину.</p>",
           "source": {}
         },
         "identifier": {},
@@ -686,7 +686,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {
@@ -853,7 +853,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

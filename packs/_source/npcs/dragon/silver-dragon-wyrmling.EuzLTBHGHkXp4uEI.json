@@ -342,7 +342,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked prone. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] переместился по прямой как минимум на 15 футов к существу и в том же ходу попал по нему атакой когтями, цель должна преуспеть в спасброске [[/save]], иначе будет сбита с ног. Если цель сбита с ног, [[lookup @name lowercase]] может совершить по ней одну атаку когтями бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -777,7 +777,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or be &Reference[paralyzed]{paralyzed} for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -929,7 +929,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1102,7 +1102,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

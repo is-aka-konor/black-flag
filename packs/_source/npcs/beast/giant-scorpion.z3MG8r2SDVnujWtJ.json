@@ -625,7 +625,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 12). The scorpion has two claws, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). The scorpion has two claws, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -885,7 +885,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{poisoned}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

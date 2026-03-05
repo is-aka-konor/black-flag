@@ -269,7 +269,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -728,7 +728,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -917,7 +917,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1178,7 +1178,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frost giant sends out a wave of snow in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is buried. On a success, a creature takes half the damage and isn’t buried. A buried creature is &Reference[restrained]{restrained} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 16 format=long]].</p>",
+          "value": "<p>The frost giant sends out a wave of snow in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is buried. On a success, a creature takes half the damage and isn’t buried. A buried creature is &Reference[restrained]{опутан} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 16 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1319,7 +1319,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is &Reference[petrified]{petrified} in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.</p>",
+          "value": "<p>A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is &Reference[petrified]{окаменел} in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

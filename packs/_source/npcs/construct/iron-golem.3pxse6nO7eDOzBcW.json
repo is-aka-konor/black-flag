@@ -339,7 +339,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -546,7 +546,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -614,7 +614,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical.</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -673,7 +673,7 @@
           "iqqX9O1vbQuI3YgN": {
             "type": "save",
             "_id": "iqqX9O1vbQuI3YgN",
-            "description": "<p>В следующий раз, когда голем использует рукопашную атаку со стороны существа в пределах 5 футов от него до начала следующего движения, голем может в ответ ударить плечом атакующего. Атакующий должен добиться успеха на [[/save format=long]], иначе его оттолкнет на расстояние до 10 футов от голема и ударит ногами &Reference[лежа]{prone}.</p>",
+            "description": "<p>В следующий раз, когда голем использует рукопашную атаку со стороны существа в пределах 5 футов от него до начала следующего движения, голем может в ответ ударить плечом атакующего. Атакующий должен добиться успеха на [[/save format=long]], иначе его оттолкнет на расстояние до 10 футов от голема и ударит ногами &Reference[prone]{сбит с ног}.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -913,7 +913,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Бонус защитного AC",
+          "name": "Бонус защиты КД",
           "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
           "_id": "LALgRrZdGq0de6SE",
           "type": "base",
@@ -1649,7 +1649,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 18 format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 18 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1824,7 +1824,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

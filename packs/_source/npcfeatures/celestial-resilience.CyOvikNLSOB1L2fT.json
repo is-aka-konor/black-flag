@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage.</p>",
+      "value": "<p>[[lookup @name lowercase]] имеет сопротивление к излучающему урону.</p>",
       "source": {}
     },
     "identifier": {},

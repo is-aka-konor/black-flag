@@ -39,7 +39,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can move up to its speed toward a hostile creature that it can see.</p>",
+      "value": "<p>[[lookup @name lowercase]] может переместиться на расстояние до своей скорости в сторону враждебного существа, которое видит.</p>",
       "source": {}
     },
     "identifier": {},

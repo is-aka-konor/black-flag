@@ -86,7 +86,7 @@
     },
     "description": {
       "source": {},
-      "value": "<p><em>Ranged Weapon Attack:</em> [[/attack]], range [[lookup @labels.range]], one target. <em>Hit:</em> [[/damage average]] damage.</p>"
+      "value": "<p><em>Дальнобойная атака оружием:</em> [[/attack]], дистанция [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>"
     },
     "attunement": {
       "value": ""

@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and frightened conditions.</p>",
+      "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и испуга.</p>",
       "source": {}
     },
     "identifier": {},

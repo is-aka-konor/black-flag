@@ -452,7 +452,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in sunlight, the [[lookup @name lowercase]] has disadvantage on attack rolls, and its Perception is [[calc @attributes.perception - 5]] when perceiving by sight.</p>",
+          "value": "<p>На солнечном свету [[lookup @name lowercase]] совершает броски атаки с помехой, а его Внимательность равна [[calc @attributes.perception - 5]], когда он полагается на зрение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -608,7 +608,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -782,7 +782,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -941,7 +941,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} for 1 minute and suffer the chosen poison’s effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow’s next turn.</p><ul><li><p><strong>Beetle’s Bite</strong>. The target’s speed is halved while poisoned.</p></li><li><p><strong>Dark Caress</strong>. The target is &Reference[blinded]{blinded} while poisoned.</p></li><li><p><strong>Nightmare’s Kiss</strong>. The target is &Reference[frightened]{frightened} of the drow while poisoned.</p></li><li><p><strong>Slumber’s Call</strong>. The target falls &Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p></li></ul>",
+          "value": "<p>The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} for 1 minute and suffer the chosen poison’s effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow’s next turn.</p><ul><li><p><strong>Beetle’s Bite</strong>. The target’s speed is halved while poisoned.</p></li><li><p><strong>Dark Caress</strong>. The target is &Reference[blinded]{ослеплён} while poisoned.</p></li><li><p><strong>Nightmare’s Kiss</strong>. The target is &Reference[frightened]{испуган} of the drow while poisoned.</p></li><li><p><strong>Slumber’s Call</strong>. The target falls &Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -278,7 +278,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к излучающему урону.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -459,7 +459,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -527,7 +527,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical.</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1220,7 +1220,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but &Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1390,7 +1390,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}, and the [[lookup @name lowercase]] can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}, and the [[lookup @name lowercase]] can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

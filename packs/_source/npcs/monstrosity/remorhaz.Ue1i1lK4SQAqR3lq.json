@@ -420,7 +420,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -897,7 +897,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Сохраните DEX, чтобы вы не проглотили",
+            "name": "Спасбросок ЛОВ против проглатывания",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1086,7 +1086,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it must succeed on a [[/save dex 17 format=long]] or be swallowed by the remorhaz. A swallowed creature is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the remorhaz, and it takes [[/damage 3d6 acid average]] damage and [[/damage 3d6 fire average]] damage at the start of each of the remorhaz’s turns.</p><p>If the remorhaz takes 30 damage or more on a single turn from a swallowed creature, the remorhaz must succeed on a [[/save con 19 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{prone} in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it must succeed on a [[/save dex 17 format=long]] or be swallowed by the remorhaz. A swallowed creature is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the remorhaz, and it takes [[/damage 3d6 acid average]] damage and [[/damage 3d6 fire average]] damage at the start of each of the remorhaz’s turns.</p><p>If the remorhaz takes 30 damage or more on a single turn from a swallowed creature, the remorhaz must succeed on a [[/save con 19 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{сбит с ног} in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

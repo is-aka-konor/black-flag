@@ -406,7 +406,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашной атакой оружием, она наносит дополнительную кость урона этого оружия (уже включена в атаку).</p>",
           "source": {}
         },
         "identifier": {},
@@ -667,7 +667,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -834,7 +834,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. <em>Hit:</em> [[/damage 2d6 + 4 piercing average]] damage in melee or [[/damage 1d6 + 4 piercing average]] damage at range.</p>",
+          "value": "<p>[[/attack]]. <em>Hit:</em> [[/damage 2d6 + 4 piercing average]] damage in melee or [[/damage 1d6 + 4 piercing average]] damage at range.</p>",
           "source": {}
         },
         "type": {
@@ -921,7 +921,7 @@
             },
             "activation": {
               "type": "reaction",
-              "condition": "When the champion misses with an attack",
+              "condition": "Когда чемпион промахивается атакой",
               "value": null,
               "override": false
             },
@@ -1124,7 +1124,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save strength 14]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 14]] save or be knocked prone.</p>",
           "source": {}
         },
         "identifier": {

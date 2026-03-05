@@ -16,7 +16,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>Creatures inside the [[lookup @name lowercase]] have three-quarters cover from attacks outside the vehicle.</p>"
+      "value": "<p>Существа внутри [[lookup @name lowercase]] имеют укрытие на три четверти от атак снаружи транспорта.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

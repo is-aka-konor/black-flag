@@ -282,7 +282,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -920,7 +920,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1090,7 +1090,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it is &Reference[grappled]{grappled} (escape DC 17). The glabrezu has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it is &Reference[grappled]{схвачен} (escape DC 17). The glabrezu has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1281,7 +1281,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

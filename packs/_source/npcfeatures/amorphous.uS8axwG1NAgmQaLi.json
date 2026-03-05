@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can move through a space as narrow as 1 inch wide without squeezing.</p>",
+      "value": "<p>[[lookup @name lowercase]] может проходить через пространство шириной всего 1 дюйм, не протискиваясь.</p>",
       "source": {}
     },
     "identifier": {},

@@ -680,7 +680,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the archdruid’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the archdruid’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -824,7 +824,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>This spell lets you convince an animal that you mean it no harm. Choose a Beast or creature with the Animal tag that you can see within range. It must see and hear you. If the creature’s INT is 4 (−3) or higher, the spell fails. Otherwise, the creature must succeed on a [[/save]] save or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st.</p>",
+          "value": "<p>Это заклинание позволяет вам убедить животное, что вы не желаете ему вреда. Выберите Зверя или существо с меткой &quot;Животное&quot;, которое вы можете видеть в пределах дистанции. Оно должно видеть и слышать вас. Если Интеллект существа равен 4 (-3) или выше, заклинание проваливается. В противном случае существо должно преуспеть в спасброске Мудрости [[/save]], иначе будет очаровано вами на время действия заклинания. Если вы или один из ваших спутников причините вред цели, заклинание закончится.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -973,7 +973,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Whispering to the spirits of nature, you create one of the following effects within range:</p><ul><li><p>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</p></li><li><p>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</p></li><li><p>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</p></li><li><p>You instantly light or snuff out a candle, torch, or small campfire.</p></li></ul>",
+          "value": "<p>Шепча духам природы, вы создаете один из следующих эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете крошечный, безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотой шар для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.</p><p>- Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или листовую почку распуститься.</p><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как падающие листья, порыв ветра, звук маленького животного или слабый запах скунса. Эффект должен помещаться в 5-футовый куб.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p></blockquote>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1122,7 +1122,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a [[/save strength]] save or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a [[/check strength]] check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.</p>",
+          "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20x20 футов, начиная с точки в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Существо в области, когда вы накладываете заклинание, должно преуспеть в спасброске Силы [[/save strength]], иначе будет опутано опутывающими растениями до окончания действия заклинания. Существо, опутанное растениями, может использовать свое действие, чтобы совершить [[/check strength]] проверку Силы против Сл спасброска от вашего заклинания. В случае успеха оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1315,7 +1315,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You gain the ability to understand and verbally communicate with Beasts and creatures with the Animal tag for the duration. The knowledge and awareness of such creatures are limited by their INT, but at minimum, targets can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a target to perform a small favor for you, at the GM’s discretion.</p>",
+          "value": "<p>Вы получаете способность понимать и словесно общаться со Зверями и существами с меткой &quot;Животное&quot; на время действия заклинания. Знания и осведомленность таких существ ограничены их Интеллектом, но как минимум, цели могут дать вам информацию о ближайших локациях и монстрах, включая все, что они могут воспринимать или воспринимали в течение последнего дня. Вы можете убедить цель оказать вам небольшую услугу, по усмотрению Мастера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1614,7 +1614,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Choose a manufactured metal object (not a creature), such as a metal weapon or a suit of armor that lacks the Natural Materials property, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes [[/damage]] damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.</p><p>If a creature is holding or wearing the object and takes damage from it, the creature must succeed on a [[/save]] save or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 3rd circle or higher, the damage increases by [[/damage 1d8 fire]]{1d8} for each slot above 2nd.</p>",
+          "value": "<p>Выберите изготовленный металлический предмет (не существо), такой как металлическое оружие или комплект доспехов, не обладающий свойством &quot;Природные материалы&quot;, который вы можете видеть в пределах дистанции. Вы заставляете предмет раскалиться докрасна. Любое существо, находящееся в физическом контакте с предметом, получает [[/damage]] урона огнем при накладывании заклинания. До окончания действия заклинания вы можете использовать бонусное действие в каждый свой последующий ход, чтобы снова нанести этот урон. Если существо держит или носит предмет и получает от него урон, существо должно преуспеть в спасброске Телосложения [[/save]], иначе уронит предмет, если может. Если оно не роняет предмет, оно имеет помеху на броски атаки и проверки характеристик до начала вашего следующего хода.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, урон увеличивается на [[/r 1d8]] за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1806,7 +1806,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes [[/damage]] damage for every 5 feet it travels.</p><p>The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a [[/check WIS (Perception) dc=@spellcasting.dc]] check against your spell save DC to recognize the terrain as hazardous before entering it.</p>",
+          "value": "<p>Есть два возможных применения этого заклинания, в зависимости от времени его накладывания, дающих либо немедленные, либо долгосрочные преимущества.</p><blockquote><p>_Если вы накладываете это заклинание, используя 1 действие:_ Выберите точку в пределах дистанции. Все обычные растения в радиусе 100 футов с центром в этой точке становятся густыми и разросшимися. Существо, движущееся через область, должно тратить 4 фута движения за каждый 1 фут, который оно перемещается. Вы можете исключить одну или несколько областей любого размера в пределах области заклинания от воздействия.</p><p>_Если вы накладываете это заклинание в течение 8 часов:_ Вы обогащаете землю. Все растения в радиусе полумили с центром в точке в пределах дистанции становятся обогащенными на 1 год. Растения дают вдвое больше обычного количества пищи при сборе урожая.</p></blockquote>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2045,7 +2045,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>There are two possible uses for this spell, depending on its casting time, granting either immediate or long-term benefits.</p><p>If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell’s area from being affected.</p><p>If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.</p>",
+          "value": "<p>Есть два возможных применения этого заклинания, в зависимости от времени его накладывания, дающих либо немедленные, либо долгосрочные преимущества.</p><blockquote><p>_Если вы накладываете это заклинание, используя 1 действие:_ Выберите точку в пределах дистанции. Все обычные растения в радиусе 100 футов с центром в этой точке становятся густыми и разросшимися. Существо, движущееся через область, должно тратить 4 фута движения за каждый 1 фут, который оно перемещается. Вы можете исключить одну или несколько областей любого размера в пределах области заклинания от воздействия.</p><p>_Если вы накладываете это заклинание в течение 8 часов:_ Вы обогащаете землю. Все растения в радиусе полумили с центром в точке в пределах дистанции становятся обогащенными на 1 год. Растения дают вдвое больше обычного количества пищи при сборе урожая.</p></blockquote>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2218,7 +2218,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.</p><p>You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.</p><p>Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.</p><p>If a Plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.</p><p>This spell can cause the plants created by the entangle spell to release a restrained creature.</p>",
+          "value": "<p>Вы наделяете растения в пределах 30 футов от вас ограниченным разумом и анимацией, давая им способность общаться с вами и следовать вашим простым командам. Вы можете спрашивать растения о событиях в области заклинания в течение последнего дня, получая информацию о прошедших существах, погоде и других обстоятельствах. Вы также можете превратить труднопроходимую местность, вызванную ростом растений (например, заросли и подлесок), в обычную местность, которая существует на время действия заклинания. Или вы можете превратить обычную местность, где присутствуют растения, в труднопроходимую местность, которая существует на время действия заклинания, заставляя лозы и ветви мешать преследователям, например. Растения могут выполнять другие задачи от вашего имени, по усмотрению Мастера. Заклинание не позволяет растениям выкорчевывать себя и передвигаться, но они могут свободно двигать ветвями, усиками и стеблями. Если в области находится Растительное существо, вы можете общаться с ним, как если бы у вас был общий язык, но вы не получаете магической способности влиять на него. Это заклинание может заставить растения, созданные заклинанием <em>опутывание</em>, освободить опутанное существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2431,7 +2431,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>This spell transforms a creature that you can see within range into a new form. The new form can be any Beast whose challenge rating is equal to or less than the target’s challenge rating (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including INT, WIS, and CHA, are replaced by those of the chosen Beast. It retains its personality.</p><p>An unwilling creature must make a WIS save to avoid the effect. The spell has no effect on a creature with the Shapechanger tag or a creature with 0 HP. The transformation lasts for the duration, until the target drops to 0 HP, or until it dies.</p><p>The target has the maximum hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 HP, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 HP, it isn’t knocked unconscious.</p><p>The creature is limited by the nature of its new form. It can’t speak, cast spells, or take any action that requires hands or speech. The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.</p>",
+          "value": "<p>Это заклинание превращает существо, которое вы можете видеть в пределах дистанции, в новую форму. Новой формой может быть любой Зверь, чей показатель опасности (ПО) равен или меньше ПО цели (или уровня цели, если у нее нет ПО). Игровые характеристики цели, включая ИНТ, МДР и ХАР, заменяются характеристиками выбранного Зверя. Она сохраняет свою личность. Несогласное существо должно совершить спасбросок Мудрости, чтобы избежать эффекта. Заклинание не действует на существо с меткой Перевертыш (Shapechanger) или существо с 0 хитами. Превращение длится на время действия заклинания, пока хиты цели не упадут до 0, или пока она не умрет. Цель имеет максимальные хиты своей новой формы. Когда она возвращается к своей нормальной форме, существо возвращается к тому количеству хитов, которое у нее было до превращения. Если она возвращается в результате падения до 0 хитов, любой избыточный урон переносится на ее нормальную форму. Пока избыточный урон не снижает хиты нормальной формы существа до 0, оно не теряет сознание. Существо ограничено природой своей новой формы. Оно не может говорить, накладывать заклинания или предпринимать какие-либо действия, требующие рук или речи. Снаряжение цели сливается с новой формой. Существо не может активировать, использовать, владеть или иным образом получать выгоду от своего снаряжения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2733,7 +2733,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.</p><p>When the area appears, each creature in it must make a CON save. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this save when it enters the spell’s area for the first time on a turn or ends its turn there.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the damage increases by 1d10 for each slot above 5th.</p>",
+          "value": "<p>Роящиеся, кусающие саранчи заполняют сферу радиусом 20 футов с центром в точке, выбранной вами в пределах дистанции. Сфера огибает углы. Сфера остается на время действия заклинания, и ее область слегка заслонена. Область сферы является труднопроходимой местностью. Когда область появляется, каждое существо в ней должно совершить спасбросок Телосложения [[/save]]. Существо получает [[/damage]] колющего урона при проваленном спасброске, или половину этого урона при успешном. Существо также должно совершить этот спасбросок, когда входит в область заклинания впервые в ход или заканчивает там свой ход.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, урон увеличивается на [[/r 1d10]] за каждый круг ячейки выше 5-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3066,7 +3066,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the archdruid’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the archdruid’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -40,7 +40,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] automatically detects every creature and trap within 30 feet of it, pinpointing the current location of each.</p>",
+      "value": "<p>[[lookup @name lowercase]] автоматически обнаруживает каждое существо и ловушку в пределах 30 футов, точно определяя их текущее местоположение.</p>",
       "source": {}
     },
     "identifier": {},

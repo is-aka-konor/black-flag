@@ -15,7 +15,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>If the [[lookup @name lowercase]] is going downstream, add the speed of the current (typically 3 miles per hour) to its speed. The [[lookup @name lowercase]]’s speed is 0 ft. while traveling against any significant current.</p>"
+      "value": "<p>Если [[lookup @name lowercase]] движется по течению, добавьте к его скорости скорость течения (обычно 3 мили в час). При движении против заметного течения скорость [[lookup @name lowercase]] равна 0 футов.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

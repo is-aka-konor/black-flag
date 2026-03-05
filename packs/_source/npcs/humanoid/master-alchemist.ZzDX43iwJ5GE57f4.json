@@ -739,7 +739,7 @@
           "BtRWUBhCSY1SC2KN": {
             "type": "save",
             "_id": "BtRWUBhCSY1SC2KN",
-            "description": "<p>Там, где смесь попала в цель, прилагается густая фиолетовая пена. Пол в пределах 10 футов от цели покрыт липкой массой до начала следующего хода мастера-алхимика, когда пена высохнет. В течение времени, пока Существо перемещается по области, оно должно преуспеть на [[/save dex 15 format=long]] или упасть &Reference[склониться]{prone}.</p>",
+            "description": "<p>Там, где смесь попала в цель, прилагается густая фиолетовая пена. Пол в пределах 10 футов от цели покрыт липкой массой до начала следующего хода мастера-алхимика, когда пена высохнет. В течение времени, пока Существо перемещается по области, оно должно преуспеть на [[/save dex 15 format=long]] или упасть &Reference[prone]{сбит с ног}.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -815,7 +815,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the alchemist’s choice). The concoction then causes one of the following effects of the master alchemist’s choice.</p><ul><li><p>@Embed[.Activity.wHjooMTPd68Y0HnZ activate inline]{Disorienting Vapors}</p></li><li><p class=\"p1\">@Embed[.Activity.GMKBrRauaMRxkSy6 activate inline]{Poisonous Cloud}</p></li><li><p class=\"p1\">@Embed[.Activity.BtRWUBhCSY1SC2KN activate inline]{Slick Floor}</p></li></ul><p>When the master alchemist makes a Hasty Concoction attack, it can choose to target a point on the ground it can see within 60 feet instead. If it does so, the concoction causes only one of the above effects centered on that point instead of dealing damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the alchemist’s choice). The concoction then causes one of the following effects of the master alchemist’s choice.</p><ul><li><p>@Embed[.Activity.wHjooMTPd68Y0HnZ activate inline]{Disorienting Vapors}</p></li><li><p class=\"p1\">@Embed[.Activity.GMKBrRauaMRxkSy6 activate inline]{Poisonous Cloud}</p></li><li><p class=\"p1\">@Embed[.Activity.BtRWUBhCSY1SC2KN activate inline]{Slick Floor}</p></li></ul><p>When the master alchemist makes a Hasty Concoction attack, it can choose to target a point on the ground it can see within 60 feet instead. If it does so, the concoction causes only one of the above effects centered on that point instead of dealing damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

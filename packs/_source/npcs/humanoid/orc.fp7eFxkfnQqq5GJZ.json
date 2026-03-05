@@ -403,7 +403,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes 10 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает 10 урона или меньше, и этот урон должен снизить его до 0 HP, вместо этого у него остаётся 1 HP.</p>",
           "source": {}
         },
         "identifier": {},
@@ -538,7 +538,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -696,7 +696,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -835,7 +835,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move up to its speed toward a hostile creature that it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] может переместиться на расстояние до своей скорости в сторону враждебного существа, которое видит.</p>",
           "source": {}
         },
         "identifier": {},

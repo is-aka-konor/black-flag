@@ -350,7 +350,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -418,7 +418,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -486,7 +486,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -912,7 +912,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1073,7 +1073,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1448,7 +1448,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes a Tail attack.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает атаку хвостом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1599,7 +1599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] whips its spiked tail in a wide arc, flailing it in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>The [[lookup @name lowercase]] whips its spiked tail in a wide arc, flailing it in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1808,7 +1808,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Сохранение DEX, чтобы не быть проглоченным",
+            "name": "Спасбросок ЛОВ против проглатывания",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1965,7 +1965,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Внутренние повреждения CON сохранить",
+            "name": "Спасбросок ТЕЛ от внутренних повреждений",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1983,7 +1983,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save dex 27 format=long]] or be swallowed by the tarrasque. A swallowed creature is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effect outside of the tarrasque, and it takes [[/damage 12d6 acid average]] damage at the start of each of the tarrasque’s turns.</p><p>If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a [[/save con 20 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{prone} in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 20 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save dex 27 format=long]] or be swallowed by the tarrasque. A swallowed creature is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effect outside of the tarrasque, and it takes [[/damage 12d6 acid average]] damage at the start of each of the tarrasque’s turns.</p><p>If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a [[/save con 20 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{сбит с ног} in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 20 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2161,7 +2161,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2429,7 +2429,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 27 format=long]] save or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 27 format=long]] save or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

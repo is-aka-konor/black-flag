@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ape makes two Fist or Rock attacks. If both Fist attacks hit one Large or smaller creature, the target is &Reference[grappled]{grappled} (escape DC 16). The ape has two fists, each of which can grapple only one target.</p>",
+          "value": "<p>The ape makes two Fist or Rock attacks. If both Fist attacks hit one Large or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 16). The ape has two fists, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -454,7 +454,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -609,7 +609,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Large or smaller creature grappled by the ape is thrown up to 50 feet in a random direction and knocked &Reference[prone]{prone}. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked prone.</p>",
+          "value": "<p>One Large or smaller creature grappled by the ape is thrown up to 50 feet in a random direction and knocked &Reference[prone]{сбит с ног}. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -761,7 +761,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

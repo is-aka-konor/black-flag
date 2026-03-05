@@ -464,7 +464,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 10 format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 10 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

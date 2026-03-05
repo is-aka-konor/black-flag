@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -617,7 +617,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -683,7 +683,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -996,7 +996,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich fixes its gaze on one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} or &Reference[frightened]{frightened} (the lich’s choice) until the end of its next turn.</p>",
+          "value": "<p>The lich fixes its gaze on one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} or &Reference[frightened]{испуган} (the lich’s choice) until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1124,7 +1124,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+          "value": "<p>На время действия заклинания вы ощущаете присутствие магии в пределах 30 футов от вас. Если вы ощущаете магию таким образом, вы можете использовать свое действие, чтобы увидеть слабую ауру вокруг любого видимого существа или объекта в области, который несет магию, и вы узнаете его школу магии, если таковая имеется. Заклинание может проникать сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1275,7 +1275,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p><p>To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an INT (Investigation) check against your spell save DC.</p>",
+          "value": "<p>Вы делаете себя — включая вашу одежду, доспехи, оружие и другие вещи на вас — выглядящим по-другому до окончания действия заклинания или пока вы не используете свое действие, чтобы прекратить его. Вы можете казаться на 1 фут короче или выше и можете выглядеть худым, толстым или чем-то средним. Вы не можете изменить свой тип тела, поэтому вы должны принять форму, имеющую то же базовое расположение конечностей. В остальном степень иллюзии зависит от вас. Изменения, вызванные этим заклинанием, не выдерживают физической [[/check INT (Investigation) dc=@spellcasting.dc]] проверки. Например, если вы используете это заклинание, чтобы добавить шляпу к своему наряду, предметы будут проходить сквозь шляпу, и любой, кто коснется ее, ничего не почувствует или почувствует вашу голову и волосы. Если вы используете это заклинание, чтобы казаться худее, чем вы есть, рука того, кто протянет руку, чтобы коснуться вас, наткнется на вас, пока она, казалось бы, все еще находится в воздухе. Чтобы распознать, что вы замаскированы, существо может использовать свое действие, чтобы осмотреть вашу внешность, и должно преуспеть в проверке ИНТ (Расследование) против Сл спасброска от вашего заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1419,7 +1419,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You conjure a ghostly hand which you control as an extension of your reach.</em></p><p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p><p>The hand can’t attack, activate magic items, or carry more than 10 pounds.</p>",
+          "value": "<p>Призрачная, парящая рука появляется в точке, выбранной вами в пределах дистанции. Рука существует на время действия заклинания или пока вы не прекратите ее действием. Рука исчезает, если она когда-либо оказывается дальше 30 футов от вас или если вы снова накладываете это заклинание. Вы можете использовать свое действие, чтобы управлять рукой. Вы можете использовать руку для манипулирования предметом, открытия незапертой двери или контейнера, убирания или извлечения предмета из открытого контейнера или выливания содержимого из флакона. Вы можете перемещать руку на расстояние до 30 футов каждый раз, когда используете ее. Рука не может атаковать, активировать магические предметы или нести более 10 фунтов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1562,7 +1562,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You open a clandestine, two-way communication with your target, known only to you two.</em></p><p>You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.</p><p>You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.</p>",
+          "value": "<p>Вы указываете пальцем на существо в пределах дистанции и шепчете сообщение. Цель (и только цель) слышит сообщение и может ответить шепотом, который слышите только вы. Вы можете наложить это заклинание сквозь твердые объекты, если вы знакомы с целью и знаете, что она находится за барьером. Магическая тишина, 1 фут камня, 1 дюйм обычного металла, тонкий лист свинца или 3 фута дерева блокируют заклинание. Заклинание не обязательно следует по прямой линии и может свободно перемещаться вокруг углов или сквозь отверстия.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1708,7 +1708,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You tap rudimentary magic to create a variety of helpful or irksome effects around you.</em></p><p>This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p><ul><li><p>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p></li><li><p>You instantaneously light or snuff out a candle, a torch, or a small campfire.</p></li><li><p>You instantaneously clean or soil an object no larger than 1 cubic foot.</p></li><li><p>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p></li><li><p>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p></li><li><p>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Опираясь на глубочайшие страхи группы существ, вы создаете иллюзорных существ в их разумах, видимых только им. Каждое существо в 30-футовой сфере с центром в точке по вашему выбору в пределах дистанции должно совершить спасбросок Мудрости [[/save]]. При проваленном спасброске существо становится напуганным вами на время действия заклинания. Иллюзия взывает к глубочайшим страхам существа, проявляя его худшие кошмары как неумолимую угрозу. В конце каждого хода напуганного существа оно должно преуспеть в спасброске Мудрости, иначе получит [[/damage]] психического урона. При успешном спасброске заклинание заканчивается для этого существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1874,7 +1874,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You attempt to charm a creature that you can see within range. To be affected by this spell, the target must be able to understand at least one language, though it need not be a language you speak. The target must make a WIS save and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each circle slot above 1st. The creatures must be within 30 feet of each other when you target them. In addition, if you cast this spell using a spell slot of 4th circle or higher, targeted creatures don’t need to understand any languages to be affected.</p>",
+          "value": "<p>Вы пытаетесь очаровать существо, которое вы можете видеть в пределах дистанции. Чтобы подвергнуться воздействию этого заклинания, цель должна быть способна понимать хотя бы один язык, хотя это не обязательно должен быть язык, на котором вы говорите. Цель должна совершить спасбросок Мудрости [[/save]], и делает это с преимуществом, если вы или ваши спутники сражаетесь с ней. При проваленном спасброске она очарована вами до окончания действия заклинания или до тех пор, пока вы или ваши спутники не сделаете ей что-либо вредное. Очарованное существо относится к вам как к дружелюбному знакомому. Когда заклинание заканчивается, существо знает, что было очаровано вами.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями. Кроме того, если вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, целям не нужно понимать ни одного языка, чтобы подвергнуться воздействию.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2145,7 +2145,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an INT of 3 (−4) or lower or doesn’t speak any languages, the creature is unaffected.</p><p>You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a WIS save. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an INT check contested by your INT check; if the target succeeds, the spell ends.</p><p>Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.</p><p>You can also use this spell to detect the presence of thinking creatures you can’t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can’t detect a creature with an INT of 3 (−4) or lower or one that doesn’t speak any languages.</p><p>Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can’t see it, but it must still be within range.</p>",
+          "value": "<p>На время действия заклинания вы можете читать мысли определенных существ. Когда вы накладываете заклинание и действием в каждый свой ход до окончания действия заклинания, вы можете сфокусировать свой разум на любом одном существе, которое вы можете видеть в пределах 30 футов от вас. Если выбранное вами существо имеет Интеллект 3 (-4) или ниже или не говорит ни на одном языке, существо не подвергается воздействию. Сначала вы узнаете поверхностные мысли существа — то, что больше всего занимает его разум в данный момент. Действием вы можете либо переключить свое внимание на мысли другого существа, либо попытаться проникнуть глубже в разум того же существа. Если вы проникаете глубже, цель должна совершить спасбросок Мудрости [[/save]]. Если она проваливает его, вы получаете представление о ее рассуждениях (если таковые имеются), ее эмоциональном состоянии и чем-то, что занимает важное место в ее разуме (например, то, о чем она беспокоится, любит или ненавидит). Если она преуспевает, заклинание заканчивается. В любом случае, цель знает, что вы проникаете в ее разум, и если вы не переключите свое внимание на мысли другого существа, существо может использовать свое действие в свой ход, чтобы совершить [[/check INT]] проверку Интеллекта, оспариваемую вашей проверкой Интеллекта; если цель преуспевает, заклинание заканчивается. Вопросы, устно заданные целевому существу, естественным образом формируют ход его мыслей, поэтому это заклинание особенно эффективно как часть допроса. Вы также можете использовать это заклинание для обнаружения присутствия мыслящих существ, которых вы не видите. Когда вы накладываете заклинание или действием во время действия заклинания, вы можете искать мысли в пределах 30 футов от вас. Заклинание может проникать сквозь барьеры, но 2 фута камня, 2 дюйма любого металла, кроме свинца, или тонкий лист свинца блокируют вас. Вы не можете обнаружить существо с Интеллектом 3 (-4) или ниже или то, которое не говорит ни на одном языке. Как только вы обнаружите присутствие существа таким образом, вы можете читать его мысли до конца действия заклинания, как описано выше, даже если вы его не видите, но оно все равно должно находиться в пределах дистанции.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2320,7 +2320,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd circle or lower on the target ends. For each spell of 4th circle or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a successful check, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, you automatically end the effects of a spell on the target if the spell’s circle is equal to or less than the circle of the spell slot you used.</p>",
+          "value": "<p>Выберите одно существо, предмет или магический эффект в пределах дистанции. Любое заклинание 3-го круга или ниже на цели заканчивается. Для каждого заклинания 4-го круга или выше на цели совершите проверку характеристики, используя вашу заклинательную характеристику. Сл равна 10 + круг заклинания. При успешной проверке заклинание заканчивается.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы автоматически прекращаете эффекты заклинания на цели, если круг заклинания равен или меньше круга использованной вами ячейки заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2488,7 +2488,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>With a touch, your target disappears from sight.</em></p><p>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2656,7 +2656,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You conjure three images of yourself that constantly shift to obscure your true position.</em></p><p>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it’s impossible to track which image is real. You can use your action to dismiss the illusory duplicates.</p><p>Each time a creature targets you with an attack during the spell’s duration, roll a d20 to determine whether the attack instead targets one of your duplicates.</p><p>If you have three duplicates, you must roll a 6 or higher to change the attack’s target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.</p><p>A duplicate’s AC equals 10 + your DEX modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that targets it. A duplicate ignores all other damage and effects. The spell ends when all three duplicates are destroyed.</p><p>A creature is unaffected by this spell if it can’t see, if it relies on senses other than sight, such as keensense, or if it can perceive illusions as false, as with truesight.</p>",
+          "value": "<p>Три иллюзорных двойника вас появляются в вашем пространстве. До окончания действия заклинания двойники двигаются вместе с вами и имитируют ваши действия, меняя положение так, что невозможно отследить, какой образ реален. Вы можете использовать свое действие, чтобы прекратить иллюзорных двойников. Каждый раз, когда существо выбирает вас целью атаки во время действия заклинания, бросьте [[/r 1d20]], чтобы определить, не нацелена ли атака вместо этого на одного из ваших двойников. Если у вас три двойника, вы должны выбросить 6 или выше, чтобы изменить цель атаки на двойника. С двумя двойниками вы должны выбросить 8 или выше. С одним двойником вы должны выбросить 11 или выше. КД двойника равен 10 + ваш модификатор Ловкости. Если атака попадает по двойнику, двойник уничтожается. Двойник может быть уничтожен только атакой, которая специально нацелена на вас (и, следовательно, на двойника), а не заклинаниями с областью действия, такими как <em>огненный шар</em>. Он игнорирует весь другой урон и эффекты. Заклинание заканчивается, когда все три двойника уничтожены. Атаки существа не подвержены действию этого заклинания, если существо не может видеть, если оно полагается на чувства, отличные от зрения, такие как обостренное чувство (keensense), или если оно может видеть сквозь иллюзии, как при <em>истинном зрении</em>.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2827,7 +2827,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You touch a creature, and that creature must succeed on a WIS save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
+          "value": "<p>Вы касаетесь существа, и это существо должно преуспеть в спасброске Мудрости [[/save]], иначе станет проклятым на время действия заклинания. Когда вы накладываете это заклинание, выберите природу проклятия из следующих вариантов:</p><blockquote><p>- Выберите одну характеристику. Будучи проклятой, цель имеет помеху на проверки характеристик и спасброски, совершаемые с использованием этой характеристики.</p><p>- Будучи проклятой, цель имеет помеху на броски атаки против вас.</p><p>- Будучи проклятой, цель должна совершать спасбросок Мудрости в начале каждого своего хода. Если она проваливает его, она тратит свое действие в этот ход, ничего не делая.</p><p>- Пока цель проклята, ваши атаки и заклинания наносят цели дополнительно [[/r 1d8]] урона некротической энергией.</p><p>Заклинание <em>снятие проклятия</em> прекращает этот эффект. По усмотрению Мастера вы можете выбрать альтернативный эффект проклятия, но он не должен быть мощнее описанных выше.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, длительность становится концентрация, до 10 минут. Если вы используете ячейку заклинания 5-го круга или выше, длительность составляет 8 часов (без концентрации). Если вы используете ячейку заклинания 7-го круга или выше, длительность составляет 24 часа (без концентрации). Если вы используете ячейку заклинания 9-го круга, заклинание длится до развеивания (без концентрации).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3020,7 +3020,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.</p><p>When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a CON save. On a failure, the creature takes 5d8 poison damage or half as much damage on a success.</p><p>Creatures are affected even if they hold their breath or don’t need to breathe.</p><p>The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the damage increases by 1d8 for each slot above 5th.</p>",
+          "value": "<p>Вы создаете 20-футовую сферу ядовитого, желто-зеленого тумана с центром в точке, выбранной вами в пределах дистанции. Туман распространяется за углы. Он длится в течение всего времени действия или до тех пор, пока сильный ветер не рассеет туман, прекращая заклинание. Его область сильно заслонена. Когда существо входит в область заклинания впервые в ход или начинает там свой ход, это существо должно совершить спасбросок Телосложения [[/save]]. При провале существо получает [[/damage]] урона ядом, или половину этого урона при успехе. Существа подвергаются воздействию, даже если они задерживают дыхание или им не нужно дышать. Туман перемещается на 10 футов от вас в начале каждого вашего хода, катясь по поверхности земли. Пары, будучи тяжелее воздуха, опускаются на самый низкий уровень земли, даже стекая в отверстия.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, урон увеличивается на [[/r 1d8]] за каждый круг ячейки выше 5-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3193,7 +3193,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as <q>200 feet straight downward</q> or <q>upward to the northwest at a 45-degree angle, 300 feet.</q></p><p>You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.</p><p>If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take [[/damage 4d6 force]] damage, and the spell fails to teleport you.</p>",
+          "value": "<p>Вы телепортируете себя из вашего текущего местоположения в любое другое место в пределах дистанции. Вы прибываете точно в желаемое место. Это может быть место, которое вы видите, которое вы можете визуализировать, или которое вы можете описать, указав расстояние и направление, например, «200 футов прямо вниз» или «вверх на северо-запад под углом 45 градусов, 300 футов». Вы можете взять с собой предметы, если их вес не превышает того, что вы можете нести. Вы также можете взять с собой одно согласное существо вашего размера или меньше, которое несет снаряжение до своей грузоподъемности. Существо должно находиться в пределах 5 футов от вас, когда вы накладываете это заклинание. Если вы прибыли бы в место, уже занятое объектом или существом, вы и любое существо, путешествующее с вами, получаете по [[/damage 4d6 force]] урона силовым полем, и заклинание не телепортирует вас.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3364,7 +3364,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Choose any creature that you can see within range. The target must succeed on a WIS save or be paralyzed for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, you can target one additional creature for each slot above 5th. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Выберите любое существо, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 5-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3497,7 +3497,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Plane Shift (только для себя)",
+      "name": "Сдвиг плана (только на себя)",
       "type": "spell",
       "_id": "fXUQ6YbasV1fI1RB",
       "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
@@ -3584,7 +3584,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the city of Fandeval in the Shadow Realm, and you appear in or near that destination. If you are trying to reach Fandeval, for example, you might arrive in the Old Market Square district at the heart of the city, on the road that leads to the Sleeper’s Gate entrance, or looking at the city from across the River Styx, at the GM’s discretion.</p><p>Alternatively, if you know the sigil sequence of a teleportation circle on another plane of xistence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.</p><p>You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a CHA save. On a failure, the creature is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.</p>",
+          "value": "<p>Вы и до восьми согласных существ, взявшихся за руки в круг, переносятся на другой план существования. Вы можете указать целевое место назначения в общих чертах, например, город Фандевал в Царстве Теней, и вы появитесь в этом месте назначения или рядом с ним. Если вы пытаетесь добраться до Фандевала, например, вы можете прибыть на Старую Рыночную площадь в центре города, на дорогу, ведущую к входу Врат Спящего, или увидеть город с другого берега реки Стикс, по усмотрению Мастера. В качестве альтернативы, если вы знаете последовательность символов телепортационного круга на другом плане существования, это заклинание может доставить вас к этому кругу. Если телепортационный круг слишком мал, чтобы вместить всех перевезенных вами существ, они появляются в ближайших незанятых пространствах рядом с кругом. Вы можете использовать это заклинание, чтобы изгнать несогласное существо на другой план. Выберите существо в пределах вашей досягаемости и совершите по нему рукопашную атаку заклинанием. При попадании существо должно совершить спасбросок Харизмы [[/save]]. При провале существо переносится в случайное место на указанном вами плане существования. Существо, перенесенное таким образом, должно самостоятельно найти путь обратно на ваш текущий план существования.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3759,7 +3759,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dazed. If the target has 150 HP or fewer, it is &Reference[stunned]{stunned}. Otherwise, the spell has no effect. The stunned target must make a CON save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Вы произносите слово силы, которое может подавить разум одного существа, которое вы можете видеть в пределах дистанции, оставив его ошеломленным. Если цель имеет 150 хитов или меньше, она ошеломлена. В противном случае заклинание не действует. Ошеломленная цель должна совершать спасбросок Телосложения в конце каждого своего хода [[/save]], прекращая &Reference[stunned] эффект на себе в случае успеха.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3928,7 +3928,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. </p><p>You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice).</p><p>Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by the dispel magic spell. However, a disintegrate spell destroys the wall instantly. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.</p>",
+          "value": "<p>Невидимая стена силы возникает в точке, выбранной вами в пределах дистанции. Стена появляется в любой выбранной вами ориентации как горизонтальный или вертикальный барьер или под углом. Она может быть свободно плавающей или опираться на твердую поверхность. Вы можете придать ей форму полусферического купола или сферы радиусом до 10 футов, или вы можете сформировать плоскую поверхность, состоящую из десяти панелей размером 10x10 футов. Каждая панель должна быть смежной с другой панелью. В любой форме стена имеет толщину 1/4 дюйма. Она существует на время действия заклинания. Если стена пересекает пространство существа при появлении, существо выталкивается на одну сторону стены (на ваш выбор). Ничто не может физически пройти сквозь стену. Она иммунна ко всему урону и не может быть развеяна заклинанием <em>развеивание магии</em>. Однако заклинание <em>распад</em> мгновенно уничтожает стену. Стена также простирается в Эфирный План, блокируя эфирное путешествие сквозь стену.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3982,7 +3982,7 @@
           "affects": {
             "choice": false,
             "type": "special",
-            "special": "Area"
+            "special": "Область"
           }
         },
         "school": "evocation"
@@ -4792,7 +4792,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -5056,7 +5056,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 20 format=long]] or be &Reference[paralyzed]{paralyzed} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 20 format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

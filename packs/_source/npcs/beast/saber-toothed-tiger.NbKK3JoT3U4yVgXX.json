@@ -254,7 +254,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -391,7 +391,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -717,7 +717,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Сохранить DEX",
+            "name": "Спасбросок ЛОВ",
             "img": "",
             "flags": {},
             "visibility": {
@@ -889,7 +889,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save dex 14 format=long]] or suffer a puncture wound. A creature suffering a puncture wound loses [[/damage 1d10 average]] HP at the start of each of its turns as the wound bleeds excessively. Any creature can take an action to stanch the wound with a successful [[/check medicine 12 format=long]]. The wound also closes if the target receives magical healing.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save dex 14 format=long]] or suffer a puncture wound. A creature suffering a puncture wound loses [[/damage 1d10 average]] HP at the start of each of its turns as the wound bleeds excessively. Any creature can take an action to stanch the wound with a successful [[/check medicine 12 format=long]]. The wound also closes if the target receives magical healing.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1064,7 +1064,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

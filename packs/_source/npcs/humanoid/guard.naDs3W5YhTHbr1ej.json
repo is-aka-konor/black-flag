@@ -400,7 +400,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
           "source": {}
         },
         "type": {
@@ -490,7 +490,7 @@
             },
             "activation": {
               "type": "reaction",
-              "condition": "When a friendly creature the guard can see within 5 feet of it is the target of an attack",
+              "condition": "Когда дружественное существо в пределах 5 футов от стражника, которое он видит, становится целью атаки",
               "value": null,
               "override": false
             },

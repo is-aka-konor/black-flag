@@ -264,7 +264,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к излучающему урону.</p>",
           "source": {}
         },
         "identifier": {},
@@ -496,7 +496,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -558,7 +558,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical.</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими.</p>",
           "source": {}
         },
         "identifier": {},
@@ -737,7 +737,7 @@
             },
             "activation": {
               "type": "reaction",
-              "condition": "If the pegasus’s rider fails a check or save to remain in the saddle or is subjected to an effect that would dismount it",
+              "condition": "Если всадник пегаса проваливает проверку или спасбросок, чтобы удержаться в седле, либо попадает под эффект, который сбрасывает его с седла",
               "value": null,
               "override": false
             },
@@ -927,7 +927,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

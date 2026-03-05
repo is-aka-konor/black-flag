@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and unconscious conditions.</p>",
+      "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и бессознательности.</p>",
       "source": {}
     },
     "identifier": {},

@@ -70,7 +70,7 @@
     },
     "description": {
       "source": {},
-      "value": "<p>Galleys are massive vessels ideal for transporting cargo and used by merchants to carry trade goods. These weighty vessels are equipped with sails, but frequently rely on dozens of crew members rowing below decks for propulsion. Since galleys carry stores of cargo, they’re almost always equipped with weaponry and defended by squadrons of hired swords.</p>",
+      "value": "<p>Галеры — крупные суда, идеально подходящие для перевозки грузов и часто используемые торговцами. Эти тяжёлые корабли оснащены парусами, но нередко движутся за счёт десятков гребцов под палубой. Поскольку галеры перевозят ценные товары, они почти всегда вооружены и охраняются отрядами наёмников.</p>",
       "actions": "On its turn, the galley can take two actions, choosing from the options below (it can take the same action multiple times). It can take only one action if it has fewer than 40 crew. It can’t move or take actions if it has fewer than 3 crew."
     },
     "abilities": {
@@ -228,7 +228,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>While in initiative, the [[lookup @name lowercase]]’s speed is reduced to 15 ft. when sailing against the wind. While sailing with the wind, its speed becomes [[calc @traits.movement.types.walk+15]] feet.</p>"
+          "value": "<p>В бою скорость [[lookup @name lowercase]] уменьшается до 15 футов при движении против ветра. При движении по ветру его скорость становится [[calc @traits.movement.types.walk+15]] футов.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -368,7 +368,7 @@
             "page": "",
             "fallback": ""
           },
-          "value": "<p><em>Ranged Weapon Attack:</em> [[/attack]], range [[lookup @labels.range]], one target. <em>Hit:</em> [[/damage average]] damage.</p>"
+          "value": "<p><em>Дальнобойная атака оружием:</em> [[/attack]], дистанция [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>"
         },
         "attunement": {
           "value": ""
@@ -535,7 +535,7 @@
         },
         "description": {
           "source": {},
-          "value": "<p><em>Ranged Weapon Attack:</em> [[/attack]], range [[lookup @labels.range]] (can’t hit targets within 60 feet), one target. <em>Hit:</em> [[/damage average]] damage.</p>"
+          "value": "<p><em>Дальнобойная атака оружием:</em> [[/attack]], дистанция [[lookup @labels.range]] (не может попадать по целям в пределах 60 футов), одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>"
         },
         "attunement": {
           "value": ""
@@ -681,7 +681,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The galley takes the Dash action.</p>"
+          "value": "<p>Галера совершает действие Рывок.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -748,7 +748,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name]] is immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious.</p>"
+          "value": "<p>[[lookup @name]] невосприимчив к урону ядом и психическому урону, а также к следующим состояниям: &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, истощение, &Reference[frightened]{испуган}, &Reference[incapacitated]{недееспособен}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменел}, &Reference[poisoned]{отравлен}, &Reference[prone]{сбит с ног}, &Reference[stunned]{ошеломлён} и без сознания.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,

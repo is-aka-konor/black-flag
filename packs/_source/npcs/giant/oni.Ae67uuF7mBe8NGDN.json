@@ -983,7 +983,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage 1d10 + 4 average]] damage in a Medium or smaller form plus [[/damage 3d6 force average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 1d10 + 4 average]] damage in a Medium or smaller form plus [[/damage 3d6 force average]] damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1294,7 +1294,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.</p><p>If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</p><p>If any of this spell’s area overlaps with an area of light created by a 2nd circle spell or lower, the spell that created the light is dispelled.</p>",
+          "value": "<p>Магическая тьма распространяется из выбранной вами точки в пределах дистанции, заполняя сферу радиусом 15 футов на время действия заклинания. Тьма огибает углы. Существо с темным зрением не может видеть сквозь эту тьму, и немагический свет не может ее осветить. Если выбранная вами точка находится на предмете, который вы держите, или на предмете, который никто не носит и не несет, тьма исходит от предмета и движется вместе с ним. Полное накрытие источника тьмы непрозрачным предметом, таким как чаша или шлем, блокирует тьму. Если какая-либо часть области этого заклинания перекрывается с областью света, созданной заклинанием 2-го круга или ниже, заклинание, создавшее свет, развеивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1452,7 +1452,7 @@
           "max": "0"
         },
         "description": {
-          "value": "<p><em>With a touch, your target disappears from sight.</em></p><p>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1625,7 +1625,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You attempt to charm a creature that you can see within range. To be affected by this spell, the target must be able to understand at least one language, though it need not be a language you speak. The target must make a WIS save and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each circle slot above 1st. The creatures must be within 30 feet of each other when you target them. In addition, if you cast this spell using a spell slot of 4th circle or higher, targeted creatures don’t need to understand any languages to be affected.</p>",
+          "value": "<p>Вы пытаетесь очаровать существо, которое вы можете видеть в пределах дистанции. Чтобы подвергнуться воздействию этого заклинания, цель должна быть способна понимать хотя бы один язык, хотя это не обязательно должен быть язык, на котором вы говорите. Цель должна совершить спасбросок Мудрости [[/save]], и делает это с преимуществом, если вы или ваши спутники сражаетесь с ней. При проваленном спасброске она очарована вами до окончания действия заклинания или до тех пор, пока вы или ваши спутники не сделаете ей что-либо вредное. Очарованное существо относится к вам как к дружелюбному знакомому. Когда заклинание заканчивается, существо знает, что было очаровано вами.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями. Кроме того, если вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, целям не нужно понимать ни одного языка, чтобы подвергнуться воздействию.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1835,7 +1835,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 HP. An incorporeal creature isn’t affected.</p><p>While in this form, the target’s only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to damage from nonmagical attacks, and it has advantage on STR, DEX, and CON saves. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can’t fall and remains hovering in the air even when stunned or otherwise incapacitated.</p><p>While in the form of a misty cloud, the target can’t talk or manipulate objects, and any objects it was carrying or holding can’t be dropped, used, or otherwise interacted with. The target can’t attack or cast spells.</p>",
+          "value": "<p>Вы превращаете согласное существо, которого касаетесь, вместе со всем, что оно носит и несет, в туманное облако на время действия заклинания. Заклинание заканчивается, если хиты существа падают до 0. Бестелесное существо не подвергается воздействию. Находясь в этой форме, единственным способом передвижения цели является скорость полета 10 футов. Цель может входить и занимать пространство другого существа. Цель имеет сопротивление урону от немагических атак и преимущество на спасброски Силы, Ловкости и Телосложения. Цель может проходить сквозь маленькие отверстия, узкие проемы и даже простые трещины, хотя относится к жидкостям так, как если бы они были твердыми поверхностями. Цель не может упасть и остается парящей в воздухе, даже будучи ошеломленной или иным образом недееспособной. Находясь в форме туманного облака, цель не может говорить или манипулировать объектами, и любые объекты, которые она несла или держала, не могут быть брошены, использованы или иным образом взаимодействованы. Цель не может атаковать или накладывать заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2083,7 +2083,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p><em>You charm the most susceptible targets nearby into a sudden state of sleeping unconsciousness.</em></p><p>This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).</p><p>Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.</p><p>Undead and creatures immune to being charmed aren’t affected by this spell.</p>",
+          "value": "<p>Формировать сны существа. Доставить сообщение или создать кошмар. Цель идеально вспоминает сон при пробуждении. [[/save]] [[/damage]]</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2412,7 +2412,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2584,7 +2584,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

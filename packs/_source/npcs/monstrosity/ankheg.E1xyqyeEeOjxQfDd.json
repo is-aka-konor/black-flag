@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -599,7 +599,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Grappled by the Ankheg"
+                "special": "Схвачено анхегом"
               },
               "override": false,
               "prompt": true
@@ -624,7 +624,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ankheg quickly digs a small hole and stuffs one creature grappled by it into the hole, burying the creature and ending the grapple. A buried creature is &Reference[restrained]{restrained} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 13 format=long]].</p>",
+          "value": "<p>The ankheg quickly digs a small hole and stuffs one creature grappled by it into the hole, burying the creature and ending the grapple. A buried creature is &Reference[restrained]{опутан} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 13 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -791,7 +791,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Large or smaller creature, it is &Reference[grappled]{grappled} (escape DC 13). Until this grapple ends, the ankheg can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Large or smaller creature, it is &Reference[grappled]{схвачен} (escape DC 13). Until this grapple ends, the ankheg can’t Bite another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

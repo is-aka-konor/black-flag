@@ -282,7 +282,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -485,7 +485,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -840,7 +840,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1019,7 +1019,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1199,7 +1199,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1809,7 +1809,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is Medium or smaller, it is &Reference[grappled]{grappled} (escape DC 17). Until this grapple ends, the target is &Reference[restrained]{restrained}, the marilith can automatically hit the target with its Tail, and the marilith can’t make Tail attacks against other targets.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is Medium or smaller, it is &Reference[grappled]{схвачен} (escape DC 17). Until this grapple ends, the target is &Reference[restrained]{опутан}, the marilith can automatically hit the target with its Tail, and the marilith can’t make Tail attacks against other targets.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

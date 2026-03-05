@@ -32,7 +32,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the [[lookup @name lowercase]] wears or carries is invisible with it.</p>",
+      "value": "<p>[[lookup @name lowercase]] магически становится невидимым, пока не атакует или пока не закончится его концентрация (как при концентрации на заклинании). Всё снаряжение, которое [[lookup @name lowercase]] носит или несёт, также становится невидимым.</p>",
       "source": {}
     },
     "identifier": {},

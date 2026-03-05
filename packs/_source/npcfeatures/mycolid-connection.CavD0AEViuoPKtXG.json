@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The mycolid can pinpoint the location of each friendly mycolid within 120 feet of it. In addition, its telepathy range increases to 120 feet when communicating with other mycolids.</p>",
+      "value": "<p>Миколид может точно определять местоположение каждого дружественного миколида в пределах 120 футов. Кроме того, его дальность телепатии увеличивается до 120 футов при общении с другими миколидами.</p>",
       "source": {}
     },
     "identifier": {},

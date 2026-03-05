@@ -351,7 +351,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that hits the [[lookup @name lowercase]] with a melee attack while within 5 feet of it must succeed on a [[/save]] save or become poisoned for 1 hour. If the poison isn’t neutralized before 1 hour has passed, the creature must succeed on a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Существо, попавшее по [[lookup @name lowercase]] рукопашной атакой, находясь в пределах 5 футов от него, должно преуспеть в спасброске [[/save]], иначе становится отравленным на 1 час. Если яд не будет нейтрализован до истечения этого часа, существо должно совершить ещё один спасбросок [[/save]]: при провале оно получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {}
         },
         "identifier": {},
@@ -413,7 +413,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mycolid can pinpoint the location of each friendly mycolid within 120 feet of it. In addition, its telepathy range increases to 120 feet when communicating with other mycolids.</p>",
+          "value": "<p>Миколид может точно определять местоположение каждого дружественного миколида в пределах 120 футов. Кроме того, его дальность телепатии увеличивается до 120 футов при общении с другими миколидами.</p>",
           "source": {}
         },
         "identifier": {},
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состояниям паралича, окаменения и бессознательности.</p>",
           "source": {}
         },
         "identifier": {},
@@ -681,7 +681,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "attunement": {

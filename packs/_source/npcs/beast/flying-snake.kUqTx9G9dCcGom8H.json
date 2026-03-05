@@ -617,7 +617,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Спасение и урон ядом",
+            "name": "Спасбросок ТЕЛ и урон ядом",
             "img": "",
             "flags": {},
             "visibility": {
@@ -635,7 +635,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or take [[/damage 2d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or take [[/damage 2d4 poison average]] damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

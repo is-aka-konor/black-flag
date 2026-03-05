@@ -315,7 +315,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If three or more hyenas are all within 30 feet of each other, their cackling, grunts, whoops, and yips create a deafening chorus. A creature that starts its turn within 10 feet of such a hyena must succeed on a CON save or be &Reference[deafened]{deafened} until the start of its next turn. The DC is equal to 8 plus the number of participating hyenas.</p>",
+          "value": "<p>If three or more hyenas are all within 30 feet of each other, their cackling, grunts, whoops, and yips create a deafening chorus. A creature that starts its turn within 10 feet of such a hyena must succeed on a CON save or be &Reference[deafened]{оглохший} until the start of its next turn. The DC is equal to 8 plus the number of participating hyenas.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -452,7 +452,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -639,7 +639,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

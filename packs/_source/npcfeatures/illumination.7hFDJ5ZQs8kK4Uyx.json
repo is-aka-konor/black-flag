@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 30-foot radius and dim light for an additional 30 feet.</p>",
+      "value": "<p>[[lookup @name lowercase]] излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов.</p>",
       "source": {}
     },
     "identifier": {},

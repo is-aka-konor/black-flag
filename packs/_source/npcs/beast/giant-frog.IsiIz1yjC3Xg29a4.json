@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -451,7 +451,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Спасение от внутренних повреждений",
+            "name": "Спасбросок ТЕЛ от внутренних повреждений",
             "img": "",
             "sort": 200000
           },
@@ -540,7 +540,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frog makes one Bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the frog, and it takes [[/damage 2d4 acid average]] damage at the start of each of the frog’s turns. The frog can have only one target swallowed at a time.</p><p>If the frog takes any damage from the swallowed creature, the frog must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{prone} in a space within 5 feet of the frog. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</p>",
+          "value": "<p>The frog makes one Bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the frog, and it takes [[/damage 2d4 acid average]] damage at the start of each of the frog’s turns. The frog can have only one target swallowed at a time.</p><p>If the frog takes any damage from the swallowed creature, the frog must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{сбит с ног} in a space within 5 feet of the frog. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -828,7 +828,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the frog can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the frog can’t Bite another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

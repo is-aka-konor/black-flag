@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed, frightened, paralyzed, and stunned conditions, and it has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям: очарован, испуган, парализован и ошеломлён, а также совершает спасброски с преимуществом против заклинаний и эффектов, изменяющих его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -596,7 +596,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish’s next turn. Each creature in that line, and any creature that enters a slime‑coated space for the first time on a turn must succeed on a [[/save format=long]] or fall &Reference[prone]{prone}.</p>",
+          "value": "<p>While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish’s next turn. Each creature in that line, and any creature that enters a slime‑coated space for the first time on a turn must succeed on a [[/save format=long]] or fall &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -814,7 +814,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Продолжающаяся потеря HP",
+            "name": "Продолжающаяся потеря ОЗ",
             "img": "",
             "flags": {},
             "visibility": {
@@ -904,7 +904,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a prone creature that isn’t a Construct or Undead, the hagfish can burrow into the creature’s flesh. While burrowed into a creature, the hagfish can’t attack, and at the start of each of the hagfish’s turns, the target loses [[/damage 1d4 + 1 average]] HP as the hagfish consumes it from the inside. The burrowed hagfish moves with the target whenever the target moves, requiring none of the hagfish’s movement. It can detach itself by spending 5 feet of its movement on its turn. It does so after it consumes 6 HP worth of flesh from the target or the target dies. A creature, including the target, can take its action to extract the burrowed hagfish by succeeding on a [[/check medicine 11 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a prone creature that isn’t a Construct or Undead, the hagfish can burrow into the creature’s flesh. While burrowed into a creature, the hagfish can’t attack, and at the start of each of the hagfish’s turns, the target loses [[/damage 1d4 + 1 average]] HP as the hagfish consumes it from the inside. The burrowed hagfish moves with the target whenever the target moves, requiring none of the hagfish’s movement. It can detach itself by spending 5 feet of its movement on its turn. It does so after it consumes 6 HP worth of flesh from the target or the target dies. A creature, including the target, can take its action to extract the burrowed hagfish by succeeding on a [[/check medicine 11 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

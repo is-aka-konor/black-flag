@@ -271,7 +271,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -667,7 +667,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target is &Reference[grappled]{grappled} (escape DC 17) if it is a Large or smaller creature and the stone giant isn’t already grappling a creature.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target is &Reference[grappled]{схвачен} (escape DC 17) if it is a Large or smaller creature and the stone giant isn’t already grappling a creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -913,7 +913,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must succeed on a [[/save str 17 format=long]] save or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 17 format=long]] save or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -992,7 +992,7 @@
           "O0up88mlwb5d5dyD": {
             "type": "save",
             "_id": "O0up88mlwb5d5dyD",
-            "description": "<p>Цель отбрасывается на расстояние до 30 футов в случайном направлении и сбивается с ног &Reference[лежа]{prone}, прекращая захват. Если брошенная цель ударяется о твердую поверхность, цель получает [[/damage 1d6 bludgeoning average]] урона для женщины на расстоянии 10 футов, на котором она была брошена. Если цель брошена в другое Существо, то это Существо должно преуспеть в [[/save dex 17 format=long]], иначе оно получит тот же урон и будет сбито с ног.</p>",
+            "description": "<p>Цель отбрасывается на расстояние до 30 футов в случайном направлении и сбивается с ног &Reference[prone]{сбит с ног}, прекращая захват. Если брошенная цель ударяется о твердую поверхность, цель получает [[/damage 1d6 bludgeoning average]] урона для женщины на расстоянии 10 футов, на котором она была брошена. Если цель брошена в другое Существо, то это Существо должно преуспеть в [[/save dex 17 format=long]], иначе оно получит тот же урон и будет сбито с ног.</p>",
             "sort": 500000,
             "system": {
               "damage": {
@@ -1137,7 +1137,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Первичное сохранение STR",
+            "name": "Начальный спасбросок СИЛ",
             "img": ""
           },
           "vARZti6P5h1lvZv8": {
@@ -1271,7 +1271,7 @@
           "Ekk8qPY6r2PrJyKw": {
             "type": "utility",
             "_id": "Ekk8qPY6r2PrJyKw",
-            "description": "<p>Цель сбита &Reference[лежа]{prone} и &Reference[сдержана]{restrained}.</p>",
+            "description": "<p>Цель сбита &Reference[prone]{сбит с ног} и &Reference[restrained]{опутан}.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -1512,7 +1512,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Бонус AC к отклонению ракеты",
+          "name": "Бонус КД к отклонению снаряда",
           "img": "icons/skills/melee/hand-grip-staff-teal.webp",
           "_id": "gUGImQ73GczZqNk5",
           "type": "base",

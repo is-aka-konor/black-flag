@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -908,7 +908,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 15 format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn, as the blow knocks the wind out of the target. This weapon is wielded by the right head.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 15 format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as the blow knocks the wind out of the target. This weapon is wielded by the right head.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1132,7 +1132,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]., and the target must succeed on a [[/save con 15 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute, as bits of rotten meat clinging to the club’s spikes coat the target’s wound. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. This weapon is wielded by the left head.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]., and the target must succeed on a [[/save con 15 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute, as bits of rotten meat clinging to the club’s spikes coat the target’s wound. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. This weapon is wielded by the left head.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -72,7 +72,7 @@
     },
     "description": {
       "source": {},
-      "value": "<p>Rowboats are powered by rowing and current. They can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shore. A rowboat weighs 100 pounds for portage purposes.</p>",
+      "value": "<p>Гребные лодки движутся за счёт вёсел и течения. Против заметного течения их нельзя вести на вёслах, но их можно тянуть вверх по течению тягловыми животными с берега. Для переноски масса гребной лодки считается равной 100 фунтам.</p>",
       "actions": ""
     },
     "abilities": {
@@ -232,7 +232,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name]] is immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious.</p>"
+          "value": "<p>[[lookup @name]] невосприимчив к урону ядом и психическому урону, а также к следующим состояниям: &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, истощение, &Reference[frightened]{испуган}, &Reference[incapacitated]{недееспособен}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменел}, &Reference[poisoned]{отравлен}, &Reference[prone]{сбит с ног}, &Reference[stunned]{ошеломлён} и без сознания.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -419,7 +419,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>If the [[lookup @name lowercase]] is going downstream, add the speed of the current (typically 3 miles per hour) to its speed. The [[lookup @name lowercase]]’s speed is 0 ft. while traveling against any significant current.</p>"
+          "value": "<p>Если [[lookup @name lowercase]] движется по течению, добавьте к его скорости скорость течения (обычно 3 мили в час). При движении против заметного течения скорость [[lookup @name lowercase]] равна 0 футов.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -533,7 +533,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name lowercase]] takes the Dash action.</p>"
+          "value": "<p>[[lookup @name lowercase]] совершает действие Рывок.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -600,7 +600,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name lowercase]] can move up to its speed and make one 90-degree turn.</p>"
+          "value": "<p>[[lookup @name lowercase]] может переместиться на расстояние вплоть до своей скорости и сделать один поворот на 90 градусов.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,

@@ -344,7 +344,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -412,7 +412,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -615,7 +615,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -681,7 +681,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1030,7 +1030,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the mummy lord’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the mummy lord’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1295,7 +1295,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command at the start of its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1440,7 +1440,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>",
+          "value": "<p>Вы касаетесь одного согласного существа. Один раз до окончания действия заклинания цель может бросить [[/r 1d4]] и добавить выпавшее число к одной проверке характеристики по своему выбору. Она может бросить кубик до или после совершения проверки характеристики. Затем заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1626,7 +1626,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You display divine power through a bevy of parlor tricks and small miracles.</em></p><p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p><ul><li><p>Your voice booms up to three times as loud as normal for 1 minute.</p></li><li><p>You cause flames to flicker, brighten, dim, or change color for 1 minute.</p></li><li><p>You cause harmless tremors in the ground for 1 minute.</p></li><li><p>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p></li><li><p>You instantaneously cause an unlocked door or window to fly open or slam shut.</p></li><li><p>You alter the appearance of your eyes for 1 minute.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Вы проявляете малое чудо, знак сверхъестественной силы, в пределах дистанции. Вы создаете один из следующих магических эффектов в пределах дистанции:</p><blockquote><p>- Ваш голос гремит в три раза громче обычного в течение 1 минуты.</p><p>- Вы заставляете пламя мерцать, разгораться, тускнеть или менять цвет в течение 1 минуты.</p><p>- Вы вызываете безвредные толчки в земле в течение 1 минуты.</p><p>- Вы создаете мгновенный звук, исходящий из точки по вашему выбору в пределах дистанции, такой как раскат грома, крик ворона или зловещий шепот.</p><p>- Вы мгновенно заставляете незапертую дверь или окно распахнуться или захлопнуться.</p><p>- Вы изменяете внешний вид своих глаз на 1 минуту.</p></blockquote><p>Если вы накладываете это заклинание несколько раз, вы можете иметь до трех его 1-минутных эффектов активными одновременно, и вы можете прекратить такой эффект действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1786,7 +1786,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd circle or lower on the target ends. For each spell of 4th circle or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a successful check, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, you automatically end the effects of a spell on the target if the spell’s circle is equal to or less than the circle of the spell slot you used.</p>",
+          "value": "<p>Выберите одно существо, предмет или магический эффект в пределах дистанции. Любое заклинание 3-го круга или ниже на цели заканчивается. Для каждого заклинания 4-го круга или выше на цели совершите проверку характеристики, используя вашу заклинательную характеристику. Сл равна 10 + круг заклинания. При успешной проверке заклинание заканчивается.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы автоматически прекращаете эффекты заклинания на цели, если круг заклинания равен или меньше круга использованной вами ячейки заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1959,7 +1959,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2133,7 +2133,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You manifest a globe of silence in an area you choose.</em></p><p>For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.</p>",
+          "value": "<p>На время действия заклинания ни один звук не может быть создан внутри или пройти сквозь 20-футовую сферу с центром в точке, выбранной вами в пределах дистанции. Любое существо или предмет, полностью находящийся внутри сферы, иммунен к урону звуком, и существа оглушены, пока полностью находятся внутри нее. Накладывание заклинания, включающего вербальный компонент, невозможно внутри сферы.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2323,7 +2323,7 @@
             "activation": {
               "value": null,
               "type": "free",
-              "condition": "At the end of each of the target’s turns",
+              "condition": "В конце каждого хода цели",
               "primary": false,
               "override": true
             },
@@ -2379,7 +2379,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice selected from the options below.</p><p>At the end of each of the target’s turns, it must make a CON save. After failing three of these saves, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saves, the creature recovers from the disease and the spell ends.</p><p>Since this spell induces a natural disease in its target, any effect that removes or suppresses a disease’s effects apply to it.</p><p><strong>Blinding Sickness.</strong> Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on WIS checks and WIS saves and is blinded.</p><p><strong>Filth Fever.</strong> A raging fever sweeps through the creature’s body. The creature has disadvantage on STR checks, STR saves, and attack rolls that use STR.</p><p><strong>Flesh Rot.</strong> The creature’s flesh decays. The creature has disadvantage on CHA checks and becomes vulnerable to all damage.</p><p><strong>Mindfire.</strong> The creature’s mind becomes feverish. The creature has disadvantage on INT checks and INT saves, and the creature behaves as if under the effects of the confusion spell during combat.</p><p><strong>Seizure.</strong> The creature is overcome with shaking. The creature has disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.</p><p><strong>Slimy Doom.</strong> The creature begins to bleed uncontrollably. The creature has disadvantage on CON checks and CON saves. In addition, when the creature takes damage, it is stunned until the end of its next turn.</p>",
+          "value": "<p>Совершите рукопашную атаку заклинанием по существу в пределах вашей досягаемости. При попадании вы поражаете существо болезнью по вашему выбору из вариантов ниже. В конце каждого хода цели она должна совершить спасбросок Телосложения [[/save]]. После трех проваленных спасбросков эффекты болезни длятся в течение всего времени действия, и существо прекращает совершать эти спасброски. После трех успешных спасбросков существо излечивается от болезни, и заклинание заканчивается. Поскольку это заклинание вызывает у цели естественную болезнь, любой эффект, который снимает или подавляет эффекты болезни, применяется к ней.</p><h4>Варианты болезней | Disease Options</h4><ul><li><strong>Слепящая болезнь:</strong> Боль охватывает разум существа, а его глаза становятся молочно-белыми. Существо имеет помеху на проверки Мудрости и спасброски Мудрости и ослеплено.</li><li><strong>Грязная лихорадка:</strong> Бушующая лихорадка охватывает тело существа. Существо имеет помеху на проверки Силы, спасброски Силы и броски атаки, использующие Силу.</li><li><strong>Гниение плоти:</strong> Плоть существа разлагается. Существо имеет помеху на проверки Харизмы и становится уязвимым ко всему урону.</li><li><strong>Разумный огонь:</strong> Разум существа становится лихорадочным. Существо имеет помеху на проверки Интеллекта и спасброски Интеллекта, и существо ведет себя так, как будто находится под действием заклинания <em>смятение</em> во время боя.</li><li><strong>Судороги:</strong> Существо охватывает дрожь. Существо имеет помеху на проверки Ловкости, спасброски Ловкости и броски атаки, использующие Ловкость.</li><li><strong>Слизистая погибель:</strong> Существо начинает неконтролируемо кровоточить. Существо имеет помеху на проверки Телосложения и спасброски Телосложения. Кроме того, когда существо получает урон, оно ошеломлено до конца своего следующего хода.</li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2821,7 +2821,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Your magic and an offering put you in contact with your deity or divine proxy. When you cast this spell, you can use it in one of the following ways:</p><ul><li><p><strong>Read the Future.</strong> You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen. The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.</p></li><li><p><strong>Read the Present.</strong> You ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the deity’s knowledge or pertains to future events that have not yet transpired. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the GM might offer a short phrase as an answer instead to provide needed clarification.</p></li></ul><p>If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting that you get no answer. The GM makes this roll in secret. If you receive no answer, you can’t attempt to cast this spell again until 24 hours have passed.</p>",
+          "value": "<p>Связаться с вашим божеством или божественным посредником. Задать один вопрос о конкретной цели или событии в течение 7 дней, или задать до трех вопросов да/нет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3013,7 +3013,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.</p><p>When the area appears, each creature in it must make a CON save. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this save when it enters the spell’s area for the first time on a turn or ends its turn there.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 6th circle or higher, the damage increases by 1d10 for each slot above 5th.</p>",
+          "value": "<p>Роящиеся, кусающие саранчи заполняют сферу радиусом 20 футов с центром в точке, выбранной вами в пределах дистанции. Сфера огибает углы. Сфера остается на время действия заклинания, и ее область слегка заслонена. Область сферы является труднопроходимой местностью. Когда область появляется, каждое существо в ней должно совершить спасбросок Телосложения [[/save]]. Существо получает [[/damage]] колющего урона при проваленном спасброске, или половину этого урона при успешном. Существо также должно совершить этот спасбросок, когда входит в область заклинания впервые в ход или заканчивает там свой ход.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, урон увеличивается на [[/r 1d10]] за каждый круг ячейки выше 5-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3329,7 +3329,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. If the target fails the save by 5 or more, it is also &Reference[paralyzed]{paralyzed} for the same duration.</p>",
+          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target fails the save by 5 or more, it is also &Reference[paralyzed]{парализован} for the same duration.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3564,7 +3564,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -3875,7 +3875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] necrotic damage or radiant damage (the mummy lord’s choice) and is &Reference[stunned]{stunned} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] necrotic damage or radiant damage (the mummy lord’s choice) and is &Reference[stunned]{ошеломлён} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4264,7 +4264,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 17 format=long]] or be cursed with mummy rot (see the Mummy Rot sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 17 format=long]] or be cursed with mummy rot (see the Mummy Rot sidebar in the Biography tab).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4437,7 +4437,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the mummy lord’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the mummy lord’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

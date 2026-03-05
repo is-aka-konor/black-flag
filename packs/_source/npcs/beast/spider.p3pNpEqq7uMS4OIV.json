@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -832,7 +832,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 9 format=long]] or take [[/damage 1d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 9 format=long]] or take [[/damage 1d4 poison average]] damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

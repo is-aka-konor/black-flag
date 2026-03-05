@@ -298,7 +298,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -501,7 +501,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -569,7 +569,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1054,7 +1054,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &Reference[poisoned]{poisoned} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
+          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &Reference[poisoned]{отравлен} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1181,7 +1181,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Must be grappled by the kracken"
+                "special": "Должно быть схвачено кракеном"
               },
               "override": false,
               "prompt": true
@@ -1208,7 +1208,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked &Reference[prone]{prone}. If a thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked &Reference[prone]{сбит с ног}. If a thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1312,7 +1312,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "2",
-                "special": "Creatures grappled by the kracken"
+                "special": "Существа, схваченные кракеном"
               },
               "override": false,
               "prompt": true
@@ -2056,7 +2056,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Large or smaller creature &Reference[grappled]{grappled} by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the kraken, and it takes [[/damage 12d6 acid average]] damage at the start of each of the kraken’s turns.</p><p>If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a [[/save con 24 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{prone} in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Large or smaller creature &Reference[grappled]{схвачен} by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the kraken, and it takes [[/damage 12d6 acid average]] damage at the start of each of the kraken’s turns.</p><p>If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a [[/save con 24 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{сбит с ног} in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2229,7 +2229,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 22). Until this grapple ends, the target is &Reference[restrained]{restrained}. The kraken has ten tentacles, each of which can grapple one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 22). Until this grapple ends, the target is &Reference[restrained]{опутан}. The kraken has ten tentacles, each of which can grapple one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

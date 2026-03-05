@@ -335,7 +335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -614,7 +614,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "A creature grappled by the Behir"
+                "special": "Существо, схваченное бехиром"
               },
               "override": false,
               "prompt": true
@@ -694,7 +694,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "A creature grappled by the Behir"
+                "special": "Существо, схваченное бехиром"
               },
               "override": false,
               "prompt": true
@@ -719,7 +719,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The behir makes one Bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is &Reference[blinded]{blinded} and &Reference[restrained]{restrained}, it has total cover against attacks and other effects outside the behir, and it takes [[/damage average]] damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.</p><p>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{prone} in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>The behir makes one Bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the behir, and it takes [[/damage average]] damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.</p><p>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{сбит с ног} in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1056,7 +1056,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1229,7 +1229,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5ft., one Large or smaller creature [[/damage extended]]. If the target is Large or smaller and the behir isn’t already grappling a creature, the target is &Reference[grappled]{grappled} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the behir can’t Constrict another target.</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5ft., one Large or smaller creature [[/damage average]]. If the target is Large or smaller and the behir isn’t already grappling a creature, the target is &Reference[grappled]{схвачен} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the behir can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

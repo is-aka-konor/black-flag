@@ -259,7 +259,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -396,7 +396,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the panther can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the panther can make one Bite attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -670,7 +670,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -841,7 +841,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -562,7 +562,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the djinni’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the djinni’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -687,7 +687,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Area"
+                "special": "Область"
               },
               "override": false,
               "prompt": true
@@ -993,7 +993,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/check str 17 format=long]] or be &Reference[restrained]{restrained} by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a [[/check str 17 format=long]].</p><p>While at least one creature is restrained by one of these whirlwinds, the [[lookup @name lowercase]] can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.</p>",
+          "value": "<p>The [[lookup @name lowercase]] creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/check str 17 format=long]] or be &Reference[restrained]{опутан} by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a [[/check str 17 format=long]].</p><p>While at least one creature is restrained by one of these whirlwinds, the [[lookup @name lowercase]] can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1284,7 +1284,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

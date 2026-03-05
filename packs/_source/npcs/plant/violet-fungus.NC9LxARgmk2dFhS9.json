@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal item.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен, его невозможно отличить от обычного предмета.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состояниям паралича, окаменения и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -581,7 +581,7 @@
           "value": null
         }
       },
-      "name": "Некротические споры (8 HP или меньше)",
+      "name": "Некротические споры (8 ОЗ или меньше)",
       "type": "feature",
       "_id": "sopKY9XHDJxQ1u0u",
       "img": "icons/magic/air/fog-gas-smoke-purple.webp",
@@ -704,7 +704,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

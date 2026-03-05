@@ -40,7 +40,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] makes a Tail attack.</p>",
+      "value": "<p>[[lookup @name lowercase]] совершает атаку хвостом.</p>",
       "source": {}
     },
     "identifier": {

@@ -335,7 +335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -454,7 +454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -739,7 +739,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -858,7 +858,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Area"
+                "special": "Область"
               },
               "override": false,
               "prompt": true
@@ -998,7 +998,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Area"
+                "special": "Область"
               },
               "override": false,
               "prompt": true
@@ -1025,7 +1025,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cloud giant causes a 20-foot-radius sphere of cloud, fog, smoke, or steam centered on a point it can see within 60 feet of it to become as thick as mud, making the area difficult terrain for creatures moving through it. A creature that starts its turn in the hardened cloud must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained} until the start of its next turn. The cloud remains condensed for 1 minute, until the cloud giant dies, or until the cloud giant uses this bonus action again.</p>",
+          "value": "<p>The cloud giant causes a 20-foot-radius sphere of cloud, fog, smoke, or steam centered on a point it can see within 60 feet of it to become as thick as mud, making the area difficult terrain for creatures moving through it. A creature that starts its turn in the hardened cloud must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} until the start of its next turn. The cloud remains condensed for 1 minute, until the cloud giant dies, or until the cloud giant uses this bonus action again.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1195,7 +1195,7 @@
             "startTurn": null
           },
           "disabled": true,
-          "name": "Бонус AC к отклонению перистых облаков",
+          "name": "Бонус КД к отклонению облачных перьев",
           "img": "icons/magic/air/wind-swirl-gray-blue.webp",
           "_id": "eyK9HurG0TeCTUHS",
           "type": "base",
@@ -1421,7 +1421,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 16 format=long]] or be pushed up to 10 feet away from the cloud giant and knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 16 format=long]] or be pushed up to 10 feet away from the cloud giant and knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

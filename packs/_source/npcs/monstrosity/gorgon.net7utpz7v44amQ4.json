@@ -268,7 +268,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -454,7 +454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the gorgon moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the gorgon can make one Hooves attack against it as a bonus action.</p>",
+          "value": "<p>If the gorgon moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the gorgon can make one Hooves attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -739,7 +739,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales poisonous, petrifying gas in a 30-foot cone. Each creature in the area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{restrained} as it begins to turn to stone. On a success, a creature takes half the damage and isn’t restrained. A restrained creature must repeat the save at the end of its next turn. On a success, the effect ends on the creature. On a failure, the creature is petrified until freed by the <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration}</em> spell or other magic.</p>",
+          "value": "<p>The [[lookup @name lowercase]] exhales poisonous, petrifying gas in a 30-foot cone. Each creature in the area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{опутан} as it begins to turn to stone. On a success, a creature takes half the damage and isn’t restrained. A restrained creature must repeat the save at the end of its next turn. On a success, the effect ends on the creature. On a failure, the creature is petrified until freed by the <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration}</em> spell or other magic.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -850,7 +850,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -877,7 +877,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] is hit by an attack from a creature it can see within 10 feet of it, the [[lookup @name lowercase]] can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn.</p>",
+          "value": "<p>When the [[lookup @name lowercase]] is hit by an attack from a creature it can see within 10 feet of it, the [[lookup @name lowercase]] can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1026,7 +1026,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1199,7 +1199,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

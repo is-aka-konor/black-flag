@@ -564,7 +564,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -716,7 +716,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1015,7 +1015,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The deep gnome throws a magic-infused crystal at a point it can see within 30 feet of it, shattering the crystal, which emits a rapid series of discordant waves of magic. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn. A creature sensitive to or proficient in the use of magic, such as a spellcaster, has disadvantage on this save.</p>",
+          "value": "<p>The deep gnome throws a magic-infused crystal at a point it can see within 30 feet of it, shattering the crystal, which emits a rapid series of discordant waves of magic. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn. A creature sensitive to or proficient in the use of magic, such as a spellcaster, has disadvantage on this save.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

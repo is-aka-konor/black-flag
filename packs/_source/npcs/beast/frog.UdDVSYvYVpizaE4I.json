@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -480,7 +480,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -399,7 +399,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed, frightened, paralyzed, and stunned conditions, and it has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям: очарован, испуган, парализован и ошеломлён, а также совершает спасброски с преимуществом против заклинаний и эффектов, изменяющих его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -736,7 +736,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gibbering mouther makes two Bite attacks. If both attacks hit one Medium or smaller creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The gibbering mouther makes two Bite attacks. If both attacks hit one Medium or smaller creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1026,7 +1026,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mouther spits an otherworldly goo at up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The mouther spits an otherworldly goo at up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1178,7 +1178,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

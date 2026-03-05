@@ -259,7 +259,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {}
         },
         "identifier": {},
@@ -390,7 +390,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -620,7 +620,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium or smaller Beast that has a CR no higher than its own or back into its true form, which is a [[lookup @traits.type.config.label]]. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в Зверя Среднего размера или меньше с ПО не выше собственного либо обратно в истинную форму — [[lookup @traits.type.config.label]]. Во всех формах его параметры одинаковы, кроме размера и скорости. Всё снаряжение, которое он носит или несёт, преобразуется вместе с ним. При смерти существо возвращается в истинную форму.</p>",
           "source": {}
         },
         "identifier": {},
@@ -895,7 +895,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save constitution 13]] save or take [[/damage 2d4 poison average]] damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save constitution 13]] save or take [[/damage 2d4 poison average]] damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {}
         },
         "identifier": {
@@ -1086,7 +1086,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
           "source": {}
         },
         "identifier": {

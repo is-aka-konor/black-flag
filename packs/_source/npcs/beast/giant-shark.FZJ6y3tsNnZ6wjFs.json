@@ -533,7 +533,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the shark takes lightning damage, it must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn.</p>",
+          "value": "<p>Whenever the shark takes lightning damage, it must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1002,7 +1002,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p><p></p>",
+          "value": "<p>[[/attack]]. [[/damage average]].</p><p></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

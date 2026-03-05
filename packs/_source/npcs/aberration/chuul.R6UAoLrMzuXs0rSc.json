@@ -269,7 +269,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed, frightened, paralyzed, and stunned conditions, and it has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям: очарован, испуган, парализован и ошеломлён, а также совершает спасброски с преимуществом против заклинаний и эффектов, изменяющих его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -400,7 +400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -925,7 +925,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Grappled by the Chuul"
+                "special": "Схвачено чулем"
               },
               "override": false,
               "prompt": true
@@ -951,7 +951,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the chuul must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. Until this poison ends, the creature is &Reference[paralyzed]{paralyzed}. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>One creature grappled by the chuul must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. Until this poison ends, the creature is &Reference[paralyzed]{парализован}. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1100,7 +1100,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is Large or smaller, it is &Reference[grappled]{grappled} (escape DC 14). The chuul has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is Large or smaller, it is &Reference[grappled]{схвачен} (escape DC 14). The chuul has two pincers, each of which can grapple only one target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

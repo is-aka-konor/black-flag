@@ -16,7 +16,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>The [[lookup @name]] is immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious.</p>"
+      "value": "<p>[[lookup @name]] невосприимчив к урону ядом и психическому урону, а также к следующим состояниям: &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, истощение, &Reference[frightened]{испуган}, &Reference[incapacitated]{недееспособен}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменел}, &Reference[poisoned]{отравлен}, &Reference[prone]{сбит с ног}, &Reference[stunned]{ошеломлён} и без сознания.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

@@ -785,7 +785,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Сохранить DEX",
+            "name": "Спасбросок ЛОВ",
             "img": ""
           }
         },
@@ -797,7 +797,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a [[/save dex 11 format=long]] or drop the weapon or shield (the sahuagin’s choice if the target is wielding both).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a [[/save dex 11 format=long]] or drop the weapon or shield (the sahuagin’s choice if the target is wielding both).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -957,7 +957,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the [[lookup @name lowercase]] can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the [[lookup @name lowercase]] can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1109,7 +1109,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

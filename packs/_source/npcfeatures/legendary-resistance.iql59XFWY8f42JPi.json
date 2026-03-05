@@ -49,7 +49,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+      "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
       "source": {}
     },
     "identifier": {},

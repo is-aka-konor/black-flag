@@ -89,7 +89,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save constitution 9]] save, taking [[/damage 1d8 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+      "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона, а также цель должна совершить спасбросок Телосложения [[/save constitution 9]]: при провале получает [[/damage 1d8 poison average]] урона ядом, при успехе — половину.</p>",
       "source": {}
     },
     "identifier": {

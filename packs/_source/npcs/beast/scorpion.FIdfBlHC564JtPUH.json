@@ -350,7 +350,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save constitution 10]] save or take [[/damage 1d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save constitution 10]] save or take [[/damage 1d4 poison average]] damage.</p>",
           "source": {}
         },
         "identifier": {

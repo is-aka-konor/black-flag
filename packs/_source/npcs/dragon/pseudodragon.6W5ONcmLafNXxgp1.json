@@ -346,7 +346,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -705,7 +705,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -968,7 +968,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[poisoned]{poisoned} for 1 hour. If the creature fails the save by 5 or more, it falls unconscious while poisoned in this way, or until it takes damage or another creature uses an action to shake it awake.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[poisoned]{отравлен} for 1 hour. If the creature fails the save by 5 or more, it falls unconscious while poisoned in this way, or until it takes damage or another creature uses an action to shake it awake.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

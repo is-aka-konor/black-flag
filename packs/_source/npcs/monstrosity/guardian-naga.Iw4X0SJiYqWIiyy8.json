@@ -344,7 +344,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -744,7 +744,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the naga’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -885,7 +885,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:</p><ul><li><p><em>Weal</em>, for good results</p></li><li><p><em>Woe</em>, for bad results</p></li><li><p><em>Weal and woe</em>, for both good and bad results</p></li><li><p><em>Nothing</em>, for results that aren’t especially good or bad</p></li></ul><p>The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.</p><p>If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.</p>",
+          "value": "<p>Связаться с вашим божеством или божественным посредником. Задать один вопрос о конкретной цели или событии в течение 7 дней, или задать до трех вопросов да/нет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1046,7 +1046,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command at the start of its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1191,7 +1191,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>In a moment of deep intent, something broken becomes whole again.</em></p><p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.</p><p>This spell can physically repair a magic item or Construct, but the spell can’t restore magic to such an object.</p>",
+          "value": "<p>Это заклинание чинит один разрыв или трещину в предмете, которого вы касаетесь, например, сломанное звено цепи, две половинки сломанного ключа, порванный плащ или протекающий бурдюк. Пока разрыв или трещина не превышают 1 фут в любом измерении, вы чините его, не оставляя следов прежнего повреждения. Если это заклинание используется для починки предмета с хитами, оно может восстановить до 1 хита за накладывание, но не может поднять хиты предмета выше половины его максимума хитов. Это заклинание может косметически починить магический предмет или Конструкта, но заклинание не может восстановить магию или хиты таким целям.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1336,7 +1336,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You display divine power through a bevy of parlor tricks and small miracles.</em></p><p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p><ul><li><p>Your voice booms up to three times as loud as normal for 1 minute.</p></li><li><p>You cause flames to flicker, brighten, dim, or change color for 1 minute.</p></li><li><p>You cause harmless tremors in the ground for 1 minute.</p></li><li><p>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p></li><li><p>You instantaneously cause an unlocked door or window to fly open or slam shut.</p></li><li><p>You alter the appearance of your eyes for 1 minute.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Вы проявляете малое чудо, знак сверхъестественной силы, в пределах дистанции. Вы создаете один из следующих магических эффектов в пределах дистанции:</p><blockquote><p>- Ваш голос гремит в три раза громче обычного в течение 1 минуты.</p><p>- Вы заставляете пламя мерцать, разгораться, тускнеть или менять цвет в течение 1 минуты.</p><p>- Вы вызываете безвредные толчки в земле в течение 1 минуты.</p><p>- Вы создаете мгновенный звук, исходящий из точки по вашему выбору в пределах дистанции, такой как раскат грома, крик ворона или зловещий шепот.</p><p>- Вы мгновенно заставляете незапертую дверь или окно распахнуться или захлопнуться.</p><p>- Вы изменяете внешний вид своих глаз на 1 минуту.</p></blockquote><p>Если вы накладываете это заклинание несколько раз, вы можете иметь до трех его 1-минутных эффектов активными одновременно, и вы можете прекратить такой эффект действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1501,7 +1501,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You touch a creature, and that creature must succeed on a WIS save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
+          "value": "<p>Вы касаетесь существа, и это существо должно преуспеть в спасброске Мудрости [[/save]], иначе станет проклятым на время действия заклинания. Когда вы накладываете это заклинание, выберите природу проклятия из следующих вариантов:</p><blockquote><p>- Выберите одну характеристику. Будучи проклятой, цель имеет помеху на проверки характеристик и спасброски, совершаемые с использованием этой характеристики.</p><p>- Будучи проклятой, цель имеет помеху на броски атаки против вас.</p><p>- Будучи проклятой, цель должна совершать спасбросок Мудрости в начале каждого своего хода. Если она проваливает его, она тратит свое действие в этот ход, ничего не делая.</p><p>- Пока цель проклята, ваши атаки и заклинания наносят цели дополнительно [[/r 1d8]] урона некротической энергией.</p><p>Заклинание <em>снятие проклятия</em> прекращает этот эффект. По усмотрению Мастера вы можете выбрать альтернативный эффект проклятия, но он не должен быть мощнее описанных выше.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, длительность становится концентрация, до 10 минут. Если вы используете ячейку заклинания 5-го круга или выше, длительность составляет 8 часов (без концентрации). Если вы используете ячейку заклинания 7-го круга или выше, длительность составляет 24 часа (без концентрации). Если вы используете ячейку заклинания 9-го круга, заклинание длится до развеивания (без концентрации).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1684,7 +1684,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.</p><p>This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the healing increases by 1d8 for each slot above 1st.</p>",
+          "value": "<p>Существо, которого вы касаетесь, восстанавливает количество хитов, равное [[/healing]] + ваш модификатор заклинательной характеристики. Это заклинание не действует на Конструктов или Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, лечение увеличивается на [[/r 1d8]] за каждый круг ячейки выше 1-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1852,7 +1852,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.</p><p>The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.</p>",
+          "value": "<p>Вы касаетесь согласного существа. На время действия заклинания движение цели не зависит от труднопроходимой местности, а заклинания и другие магические эффекты не могут ни снизить скорость цели, ни вызвать у цели состояние &quot;парализованный&quot; или &quot;опутанный&quot;. Цель также может потратить 5 футов движения, чтобы автоматически вырваться из немагических пут, таких как наручники или существо, которое ее схватило. Наконец, нахождение под водой не накладывает штрафов на движение или атаки цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2066,7 +2066,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2262,7 +2262,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a [[/save]] save or become charmed by you for the duration. While the creature is charmed by you, it takes [[/damage]] damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by the spell.</p><p>You can issue any command you choose. However, should you issue a command that would result in certain death, the spell ends.</p><p>You can end the spell early by using an action to dismiss it. A <em>remove curse</em>, <em>greater restoration</em>, or <em>wish</em> spell also ends it.</p><p><em>At Higher Circles.</em> As you unlock higher circles, this ritual grows in potency. Once you have access to 7th-circle spell slots, the duration of this spell is 1 year. Once you have access to 9th-circle spell slots, the spell lasts until it is ended by one of the spells mentioned above.</p>",
+          "value": "<p>Наложить магическую команду на существо, заставляя его выполнять у[[/save]] слугу или воздерживаться от действия. Существо получает [[/damage]] психического урона, если действует против ваших инструкций.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2439,7 +2439,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -2635,7 +2635,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the naga’s choice), and the target is &Reference[grappled]{grappled} (escape DC 16) if it is a Large or smaller creature. Until this grapple ends, the target is &Reference[restrained]{restrained}, and the naga can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice), and the target is &Reference[grappled]{схвачен} (escape DC 16) if it is a Large or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}, and the naga can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2834,7 +2834,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the naga’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

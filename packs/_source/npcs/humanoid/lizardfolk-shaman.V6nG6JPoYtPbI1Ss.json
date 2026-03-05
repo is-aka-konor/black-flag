@@ -606,7 +606,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -739,7 +739,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Whispering to the spirits of nature, you create one of the following effects within range:</p><ul><li><p>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</p></li><li><p>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</p></li><li><p>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</p></li><li><p>You instantly light or snuff out a candle, torch, or small campfire.</p></li></ul>",
+          "value": "<p>Шепча духам природы, вы создаете один из следующих эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете крошечный, безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотой шар для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.</p><p>- Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или листовую почку распуститься.</p><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как падающие листья, порыв ветра, звук маленького животного или слабый запах скунса. Эффект должен помещаться в 5-футовый куб.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p></blockquote>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -883,7 +883,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>",
+          "value": "<p>Вы касаетесь одного согласного существа. Один раз до окончания действия заклинания цель может бросить [[/r 1d4]] и добавить выпавшее число к одной проверке характеристики по своему выбору. Она может бросить кубик до или после совершения проверки характеристики. Затем заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1069,7 +1069,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>In a moment of deep intent, something broken becomes whole again.</em></p><p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.</p><p>This spell can physically repair a magic item or Construct, but the spell can’t restore magic to such an object.</p>",
+          "value": "<p>Это заклинание чинит один разрыв или трещину в предмете, которого вы касаетесь, например, сломанное звено цепи, две половинки сломанного ключа, порванный плащ или протекающий бурдюк. Пока разрыв или трещина не превышают 1 фут в любом измерении, вы чините его, не оставляя следов прежнего повреждения. Если это заклинание используется для починки предмета с хитами, оно может восстановить до 1 хита за накладывание, но не может поднять хиты предмета выше половины его максимума хитов. Это заклинание может косметически починить магический предмет или Конструкта, но заклинание не может восстановить магию или хиты таким целям.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1244,7 +1244,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.</p><p>This spell has no effect on Constructs or Undead.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, the healing increases by 1d8 for each slot above 1st.</p>",
+          "value": "<p>Существо, которого вы касаетесь, восстанавливает количество хитов, равное [[/healing]] + ваш модификатор заклинательной характеристики. Это заклинание не действует на Конструктов или Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, лечение увеличивается на [[/r 1d8]] за каждый круг ячейки выше 1-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1417,7 +1417,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a [[/save strength]] save or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a [[/check strength]] check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.</p>",
+          "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20x20 футов, начиная с точки в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Существо в области, когда вы накладываете заклинание, должно преуспеть в спасброске Силы [[/save strength]], иначе будет опутано опутывающими растениями до окончания действия заклинания. Существо, опутанное растениями, может использовать свое действие, чтобы совершить [[/check strength]] проверку Силы против Сл спасброска от вашего заклинания. В случае успеха оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1634,7 +1634,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.</p><p>When the grease appears, each creature standing in its area must succeed on a [[/save]] save or fall prone. A creature that enters the area or ends its turn there must also succeed on a [[/save]] save or fall &Reference[prone].</p>",
+          "value": "<p>Скользкая смазка покрывает землю в квадрате 10x10 футов с центром в точке в пределах дистанции и превращает ее в труднопроходимую местность на время действия заклинания. &Reference[prone] Когда появляется смазка, каждое существо, стоящее в ее области, должно преуспеть в спасброске Ловкости [[/save]], иначе упадет ничком. Существо, которое входит в область или заканчивает там свой ход, также должно преуспеть в спасброске Ловкости, иначе упадет ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1819,7 +1819,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p><em>A beam of black power lances from your finger, sapping the vigor of your target.</em></p><p>A beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use STR until the spell ends.</p><p>At the end of each of the target’s turns, it can make a CON save against the spell. On a success, the spell ends.</p>",
+          "value": "<p>Луч ослабляющей энергии вырывается из вашего пальца к существу в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании цель наносит только половину урона атаками, использующими Силу, до окончания действия заклинания. В конце каждого хода цели она может совершить спасбросок Телосложения против заклинания [[/save CON]]. В случае успеха заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2026,7 +2026,7 @@
           "value": null
         }
       },
-      "name": "Отравленное тело (32 HP или меньше)",
+      "name": "Отравленное тело (32 ОЗ или меньше)",
       "type": "feature",
       "_id": "o5vFFKzprxfjTx3n",
       "img": "icons/magic/acid/dissolve-bone-skull.webp",
@@ -2150,7 +2150,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2320,7 +2320,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

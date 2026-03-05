@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -639,7 +639,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -776,7 +776,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>A gesture manifests an illusion of a sound or image of your design.</em></p><p>You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.</p><p>If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p><p>If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it.</p><p>If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>",
+          "value": "<p>Вы создаете звук или образ предмета в пределах дистанции, который длится на время действия заклинания. Иллюзия также заканчивается, если вы прекращаете ее действием или снова накладываете это заклинание. Если вы создаете звук, его громкость может варьироваться от шепота до крика. Это может быть ваш голос, чей-то другой голос, рык льва, бой барабанов или любой другой звук по вашему выбору. Звук продолжается непрерывно в течение всей длительности, или вы можете издавать дискретные звуки в разное время до окончания действия заклинания. Если вы создаете образ предмета, такого как стул, грязные следы или маленький сундук, он должен быть не больше 5-футового куба. Образ не может создавать звук, свет, запах или любой другой сенсорный эффект. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Если существо использует свое действие для изучения звука или образа, существо может определить, что это иллюзия, успешно совершив [[/check INT (Investigation)]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, иллюзия становится слабой для существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -982,7 +982,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You create and control a convincing visual illusion.</em></p><p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.</p><p>You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.</p>",
+          "value": "<p>Вы создаете образ предмета, существа или другого видимого явления размером не более 15-футового куба. Образ появляется в месте в пределах дистанции и существует на время действия заклинания. Образ чисто визуальный; он не сопровождается звуком, запахом или другими сенсорными эффектами. Вы можете использовать свое действие, чтобы переместить образ в любое место в пределах дистанции. По мере изменения местоположения образа вы можете изменять его внешний вид так, чтобы его движения казались естественными для образа. Например, если вы создаете образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идет. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1138,7 +1138,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You lace your honeyed words with an undercurrent of compulsion.</em></p><p>You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.</p><p>The target must make a WIS save. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.</p><p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t performed.</p><p>If you or any of your companions damage the target, the spell ends.</p>",
+          "value": "<p>Вы предлагаете курс действий (ограниченный одним или двумя предложениями) и магически влияете на существо, которое вы можете видеть в пределах дистанции, которое может слышать и понимать вас. Существа, которые не могут быть очарованы, иммунны к этому эффекту. Предложение должно быть сформулировано таким образом, чтобы курс действий звучал разумно. Просьба к существу ударить себя ножом, сжечь себя или совершить какое-либо другое очевидно вредное действие прекращает заклинание. Цель должна совершить спасбросок Мудрости [[/save]]. При проваленном спасброске она следует предложенному вами курсу действий наилучшим образом. Предложенный курс действий может продолжаться в течение всей длительности. Если предложенная деятельность может быть завершена за более короткое время, заклинание заканчивается, когда субъект заканчивает то, что его просили сделать. Вы также можете указать условия, которые вызовут специальную деятельность в течение длительности. Например, вы можете предложить рыцарю отдать своего боевого коня первому встречному нищему. Если условие не выполнено до истечения срока действия заклинания, деятельность не выполняется. Если вы или любой из ваших спутников наносите урон цели, заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1309,7 +1309,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You attempt to charm a creature that you can see within range. To be affected by this spell, the target must be able to understand at least one language, though it need not be a language you speak. The target must make a WIS save and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each circle slot above 1st. The creatures must be within 30 feet of each other when you target them. In addition, if you cast this spell using a spell slot of 4th circle or higher, targeted creatures don’t need to understand any languages to be affected.</p>",
+          "value": "<p>Вы пытаетесь очаровать существо, которое вы можете видеть в пределах дистанции. Чтобы подвергнуться воздействию этого заклинания, цель должна быть способна понимать хотя бы один язык, хотя это не обязательно должен быть язык, на котором вы говорите. Цель должна совершить спасбросок Мудрости [[/save]], и делает это с преимуществом, если вы или ваши спутники сражаетесь с ней. При проваленном спасброске она очарована вами до окончания действия заклинания или до тех пор, пока вы или ваши спутники не сделаете ей что-либо вредное. Очарованное существо относится к вам как к дружелюбному знакомому. Когда заклинание заканчивается, существо знает, что было очаровано вами.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями. Кроме того, если вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, целям не нужно понимать ни одного языка, чтобы подвергнуться воздействию.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1524,7 +1524,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command at the start of its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1692,7 +1692,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You conjure a convincing, intricate illusion that functions at your mental command.</em></p><p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).</p><p>As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.</p>",
+          "value": "<p>Вы создаете образ предмета, существа или другого видимого явления размером не более 20-футового куба. Образ появляется в месте, которое вы можете видеть в пределах дистанции, и существует на время действия заклинания. Он кажется совершенно реальным, включая звуки, запахи и температуру, соответствующие изображаемой вещи. Вы не можете создать достаточного тепла или холода, чтобы причинить урон, звук достаточно громкий, чтобы нанести урон звуком или оглушить существо, или запах, который мог бы вызвать тошноту у существа (например, зловоние троглодита). Пока вы находитесь в пределах дистанции иллюзии, вы можете использовать свое действие, чтобы переместить образ в любое другое место в пределах дистанции. По мере изменения местоположения образа вы можете изменять его внешний вид так, чтобы его движения казались естественными для образа. Например, если вы создаете образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идет. Аналогично, вы можете заставить иллюзию издавать разные звуки в разное время, даже заставить ее вести беседу, например. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив [[/check INT (Investigation) dc=@spellcasting.dc]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ, и его другие сенсорные качества становятся слабыми для существа.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, заклинание длится до развеивания, не требуя вашей концентрации.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1868,7 +1868,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Creatures of your choice that you can see within range and that can hear you must make a WIS save. A target automatically succeeds on this save if it can’t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another WIS save to try to end the effect. A target isn’t compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.</p>",
+          "value": "<p>Существа по вашему выбору, которых вы можете видеть в пределах дистанции и которые могут вас слышать, должны совершить спасбросок Мудрости [[/save]]. Цель автоматически преуспевает в этом спасброске, если не может быть очарована. При проваленном спасброске цель подвергается воздействию этого заклинания. До окончания действия заклинания вы можете использовать бонусное действие в каждый свой ход, чтобы указать направление, горизонтальное вам. Каждая затронутая цель должна использовать как можно больше своего движения, чтобы переместиться в этом направлении в свой следующий ход. Она может предпринять свое действие перед перемещением. После перемещения таким образом она может совершить еще один спасбросок Мудрости, чтобы попытаться прекратить эффект. Цель не принуждается двигаться в очевидно смертельную опасность, такую как огонь или яма, но она будет провоцировать провоцированные атаки, чтобы двигаться в указанном направлении.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2042,7 +2042,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] gazes at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} until the end of its next turn and cursed for 1 hour. While cursed, the target has disadvantage on WIS saves and on all ability checks.</p>",
+          "value": "<p>The [[lookup @name lowercase]] gazes at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} until the end of its next turn and cursed for 1 hour. While cursed, the target has disadvantage on WIS saves and on all ability checks.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2191,7 +2191,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2364,7 +2364,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

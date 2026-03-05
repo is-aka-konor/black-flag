@@ -428,7 +428,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in sunlight, the [[lookup @name lowercase]] has disadvantage on attack rolls, and its Perception is [[calc @attributes.perception - 5]] when perceiving by sight.</p>",
+          "value": "<p>На солнечном свету [[lookup @name lowercase]] совершает броски атаки с помехой, а его Внимательность равна [[calc @attributes.perception - 5]], когда он полагается на зрение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -493,7 +493,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -559,7 +559,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -837,7 +837,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Humanoid creature"
+                "special": "Гуманоид"
               },
               "override": false,
               "prompt": true
@@ -1390,7 +1390,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target must succeed on a [[/save con 15 format=long]] or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 15 format=long]] or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

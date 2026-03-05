@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -583,7 +583,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] automatically detects every creature and trap within 30 feet of it, pinpointing the current location of each.</p>",
+          "value": "<p>[[lookup @name lowercase]] автоматически обнаруживает каждое существо и ловушку в пределах 30 футов, точно определяя их текущее местоположение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -707,7 +707,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes a Tail attack.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает атаку хвостом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -843,7 +843,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] hasn’t exhaled its Lightning Breath, the electric charge builds up across its body. While the [[lookup @name lowercase]]'s Lightning Breath is available, it emits wild sparks of electricity, and each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the start of its next turn.</p>",
+          "value": "<p>When the [[lookup @name lowercase]] hasn’t exhaled its Lightning Breath, the electric charge builds up across its body. While the [[lookup @name lowercase]]'s Lightning Breath is available, it emits wild sparks of electricity, and each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the start of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -986,7 +986,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{frightened}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1454,7 +1454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{prone}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{сбит с ног}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1618,7 +1618,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1794,7 +1794,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1970,7 +1970,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

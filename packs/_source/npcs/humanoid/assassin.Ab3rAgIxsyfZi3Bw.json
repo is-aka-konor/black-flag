@@ -476,7 +476,7 @@
           "JtOvHEAO1IAnE4NU": {
             "type": "utility",
             "_id": "JtOvHEAO1IAnE4NU",
-            "description": "<p>Существо &Ссылка[отравленное]{poisoned} оружие, покрытое этим ядом, падает &Ссылка[без сознания]{unconscious} во время отравления или до тех пор, пока оно не получит урон или пока другое Существо не выполнит действие, чтобы разбудить его.</p>",
+            "description": "<p>Существо &Reference[отравленное]{poisoned} оружие, покрытое этим ядом, падает &Reference[без сознания]{unconscious} во время отравления или до тех пор, пока оно не получит урон или пока другое Существо не выполнит действие, чтобы разбудить его.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -948,7 +948,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1190,7 +1190,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1312,7 +1312,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true

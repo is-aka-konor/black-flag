@@ -40,7 +40,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] adds 2 to its AC against one melee attack that would hit it. To do so, the [[lookup @name lowercase]] must see the attacker and be wielding a melee weapon.</p>",
+      "value": "<p>[[lookup @name lowercase]] получает +2 к КД против одной рукопашной атаки, которая должна была попасть. Для этого [[lookup @name lowercase]] должен видеть атакующего и держать рукопашное оружие.</p>",
       "source": {}
     },
     "identifier": {

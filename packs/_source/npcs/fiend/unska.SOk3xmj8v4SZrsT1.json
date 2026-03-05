@@ -271,7 +271,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -406,7 +406,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -661,7 +661,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Tattoos leap off the unska’s body and latch onto a creature the unska can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed}, disoriented, or &Reference[frightened]{frightened} (the unska’s choice) until the end of its next turn. When a disoriented creature moves, it moves in a random direction.</p>",
+          "value": "<p>Tattoos leap off the unska’s body and latch onto a creature the unska can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован}, disoriented, or &Reference[frightened]{испуган} (the unska’s choice) until the end of its next turn. When a disoriented creature moves, it moves in a random direction.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -885,7 +885,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target must succeed on a [[/save con 14 format=long]], or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its HP maximum is reduced to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 14 format=long]], or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its HP maximum is reduced to 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1136,7 +1136,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 14 format=long]] or have disadvantage on the next save it makes against the unska’s Whirl of Ink before the start of the unska’s next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or have disadvantage on the next save it makes against the unska’s Whirl of Ink before the start of the unska’s next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Doicument"
           }

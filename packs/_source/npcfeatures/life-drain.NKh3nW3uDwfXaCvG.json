@@ -177,7 +177,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]], and the [[lookup @name lowercase]] regain HP equal to half the necrotic damage dealt. The target must succeed on a [[/save]] save or its HP maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creatures finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+      "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона, а [[lookup @name lowercase]] восстанавливает HP в размере половины нанесённого некротического урона. Цель должна преуспеть в спасброске [[/save]], иначе её максимум HP уменьшается на величину полученного некротического урона. Это уменьшение длится до окончания долгого отдыха цели. Цель погибает, если из-за этого эффекта её максимум HP снижается до 0.</p>",
       "source": {}
     },
     "identifier": {

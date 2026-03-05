@@ -258,7 +258,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {}
         },
         "identifier": {},
@@ -320,7 +320,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to poison damage, to exhaustion, and to the grappled, paralyzed, petrified, poisoned, prone, restrained, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к урону ядом, истощению и состояниям: схвачен, парализован, окаменел, отравлен, сбит с ног, опутан и без сознания.</p>",
           "source": {}
         },
         "identifier": {},
@@ -561,7 +561,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 30-foot radius and dim light for an additional 30 feet.</p>",
+          "value": "<p>[[lookup @name lowercase]] излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -860,7 +860,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -1041,7 +1041,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes [[/damage 1d10 fire average]] damage at the start of each of its turns.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes [[/damage 1d10 fire average]] damage at the start of each of its turns.</p>",
           "source": {}
         },
         "identifier": {
@@ -1208,7 +1208,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p><p></p>",
+          "value": "<p>[[/attack]]. [[/damage average]].</p><p></p>",
           "source": {}
         },
         "identifier": {

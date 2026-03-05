@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against any creature grappled by it.</p>",
+      "value": "<p>[[lookup @name lowercase]] совершает атаки с преимуществом против любого существа, схваченного им.</p>",
       "source": {}
     },
     "identifier": {},

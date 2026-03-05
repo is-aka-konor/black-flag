@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+      "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к истощению и состояниям очарования, испуга, паралича, окаменения и отравления.</p>",
       "source": {}
     },
     "identifier": {},

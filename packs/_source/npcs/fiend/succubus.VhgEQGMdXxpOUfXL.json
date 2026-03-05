@@ -543,7 +543,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Humanoid the succubus can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &Reference[charmed]{charmed} for 1 day, until the succubus dies, or until the succubus takes a bonus action to end the effect. The charmed target obeys the succubus’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this succubus’s Charm for the next 24 hours.</p><p>The succubus can have only one target charmed at a time. If it charms another, the effect on the previous target ends.</p>",
+          "value": "<p>One Humanoid the succubus can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &Reference[charmed]{очарован} for 1 day, until the succubus dies, or until the succubus takes a bonus action to end the effect. The charmed target obeys the succubus’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this succubus’s Charm for the next 24 hours.</p><p>The succubus can have only one target charmed at a time. If it charms another, the effect on the previous target ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1091,7 +1091,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1261,7 +1261,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one willing creature, or a creature that is charmed, incapacitated, or restrained. [[/damage extended]], and the target’s HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one willing creature, or a creature that is charmed, incapacitated, or restrained. [[/damage average]], and the target’s HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

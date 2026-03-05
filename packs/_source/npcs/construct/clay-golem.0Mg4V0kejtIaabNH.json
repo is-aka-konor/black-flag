@@ -330,7 +330,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -537,7 +537,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -605,7 +605,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical.</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1415,7 +1415,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], as determined by Mold Hand. The target must succeed on a [[/save str 16 format=long]] or suffer an effect based on the type of damage: knocked &Reference[prone]{prone} (bludgeoning), pushed up to 10 feet away from the golem (piercing), or its speed is reduced by 10 feet until the end of its next turn (slashing).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], as determined by Mold Hand. The target must succeed on a [[/save str 16 format=long]] or suffer an effect based on the type of damage: knocked &Reference[prone]{сбит с ног} (bludgeoning), pushed up to 10 feet away from the golem (piercing), or its speed is reduced by 10 feet until the end of its next turn (slashing).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

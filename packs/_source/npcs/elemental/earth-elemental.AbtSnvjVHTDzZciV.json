@@ -409,7 +409,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to poison damage, to exhaustion, and to the grappled, paralyzed, petrified, poisoned, prone, restrained, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к урону ядом, истощению и состояниям: схвачен, парализован, окаменел, отравлен, сбит с ног, опутан и без сознания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -794,7 +794,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental makes three Slam attacks, or it makes two Lob Stone attacks. If two Slam or Lob Stone attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The elemental makes three Slam attacks, or it makes two Lob Stone attacks. If two Slam or Lob Stone attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -953,7 +953,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1124,7 +1124,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1276,7 +1276,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

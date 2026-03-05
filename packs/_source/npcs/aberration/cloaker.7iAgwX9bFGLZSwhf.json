@@ -267,7 +267,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed, frightened, paralyzed, and stunned conditions, and it has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям: очарован, испуган, парализован и ошеломлён, а также совершает спасброски с преимуществом против заклинаний и эффектов, изменяющих его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -817,7 +817,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cloaker releases a deep, thrumming moan that rattles the nerves of all who hear it. Each creature within 30 feet of the cloaker that can hear the moan and that isn’t an Aberration must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{frightened} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened.</p>",
+          "value": "<p>The cloaker releases a deep, thrumming moan that rattles the nerves of all who hear it. Each creature within 30 feet of the cloaker that can hear the moan and that isn’t an Aberration must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{испуган} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened.</p>",
           "source": {
             "fallback": "Black Flag Resource Document"
           }
@@ -1167,7 +1167,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Creature the Cloaker is attached to"
+                "special": "Существо, к которому прикреплён плащевик"
               },
               "override": false,
               "prompt": true
@@ -1241,7 +1241,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Creature the Cloaker is attached to"
+                "special": "Существо, к которому прикреплён плащевик"
               },
               "override": false,
               "prompt": true
@@ -1252,7 +1252,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Проверка STR для удаления Cloaker",
+            "name": "Проверка СИЛ для удаления плащевика",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1270,7 +1270,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage on the attack roll, the cloaker attaches to the target’s head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can’t make Bite attacks, and at the start of each of the cloaker’s turns, the target takes [[/damage 4d6 + 4 piercing average]] damage.</p><p>The attached cloaker moves with the target whenever the target moves, requiring none of the cloaker’s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the cloaker by succeeding on a [[/check str 15 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage on the attack roll, the cloaker attaches to the target’s head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can’t make Bite attacks, and at the start of each of the cloaker’s turns, the target takes [[/damage 4d6 + 4 piercing average]] damage.</p><p>The attached cloaker moves with the target whenever the target moves, requiring none of the cloaker’s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the cloaker by succeeding on a [[/check str 15 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1443,7 +1443,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

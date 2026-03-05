@@ -270,7 +270,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить через пространство шириной всего 1 дюйм, не протискиваясь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -404,7 +404,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal item.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен, его невозможно отличить от обычного предмета.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -472,7 +472,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается во сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -538,7 +538,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the grappled and restrained conditions, and it is immune to exhaustion and to the blinded, charmed, deafened, frightened, and prone conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям «схвачен» и «опутан», а также невосприимчив к истощению и состояниям: ослеплён, очарован, оглохший, испуган и сбит с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -693,7 +693,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -986,7 +986,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and if the target is wearing nonmagical metal armor, the armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and if the target is wearing nonmagical metal armor, the armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

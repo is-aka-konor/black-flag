@@ -85,7 +85,7 @@
     },
     "description": {
       "source": {},
-      "value": "<p><em>Ranged Weapon Attack:</em> [[/attack]], range [[lookup @labels.range]] (can’t hit targets within 60 feet), one target. <em>Hit:</em> [[/damage average]] damage.</p>"
+      "value": "<p><em>Дальнобойная атака оружием:</em> [[/attack]], дистанция [[lookup @labels.range]] (не может попадать по целям в пределах 60 футов), одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>"
     },
     "attunement": {
       "value": ""

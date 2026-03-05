@@ -687,7 +687,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 11), if it is a Medium or smaller creature. Until this grapple ends, the octopus can’t use its Tentacles on another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 11), if it is a Medium or smaller creature. Until this grapple ends, the octopus can’t use its Tentacles on another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

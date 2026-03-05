@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal item.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен, его невозможно отличить от обычного предмета.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -707,7 +707,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Creature grappled by the Darkmantle"
+                "special": "Существо, схваченное тёмной мантией"
               },
               "override": false,
               "prompt": true
@@ -733,7 +733,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While attached to a creature, the [[lookup @name lowercase]] swings its body to throw off the balance of the creature to which it is attached. The attached target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target fails the save and is already prone, it is &Reference[restrained]{restrained} while the [[lookup @name lowercase]] is attached to it, as the [[lookup @name lowercase]] pins it to the ground.</p>",
+          "value": "<p>While attached to a creature, the [[lookup @name lowercase]] swings its body to throw off the balance of the creature to which it is attached. The attached target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target fails the save and is already prone, it is &Reference[restrained]{опутан} while the [[lookup @name lowercase]] is attached to it, as the [[lookup @name lowercase]] pins it to the ground.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1081,7 +1081,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Creature the Darkmantle is attached to"
+                "special": "Существо, к которому прикреплена тёмная мантия"
               },
               "override": false,
               "prompt": true
@@ -1155,7 +1155,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Creature the Darkmantle is attached to"
+                "special": "Существо, к которому прикреплена тёмная мантия"
               },
               "override": false,
               "prompt": true
@@ -1166,7 +1166,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Проверка STR для снятия Темной мантии",
+            "name": "Проверка СИЛ для снятия тёмной мантии",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1184,7 +1184,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the [[lookup @name lowercase]] attaches to it. If the target is Medium or smaller and the [[lookup @name lowercase]] has advantage on the attack roll, the [[lookup @name lowercase]] attaches to the target’s head, and the target is &Reference[blinded]{blinded} and unable to breathe while the [[lookup @name lowercase]] is attached. While attached, the [[lookup @name lowercase]] can’t make Crush attacks, and at the start of each of the [[lookup @name lowercase]]'s turns, the target takes [[/damage average]].</p><p>The attached [[lookup @name lowercase]] moves with the target whenever the target moves, requiring none of the [[lookup @name lowercase]]'s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the [[lookup @name lowercase]] by succeeding on a [[/check str 13 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the [[lookup @name lowercase]] attaches to it. If the target is Medium or smaller and the [[lookup @name lowercase]] has advantage on the attack roll, the [[lookup @name lowercase]] attaches to the target’s head, and the target is &Reference[blinded]{ослеплён} and unable to breathe while the [[lookup @name lowercase]] is attached. While attached, the [[lookup @name lowercase]] can’t make Crush attacks, and at the start of each of the [[lookup @name lowercase]]'s turns, the target takes [[/damage average]].</p><p>The attached [[lookup @name lowercase]] moves with the target whenever the target moves, requiring none of the [[lookup @name lowercase]]'s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the [[lookup @name lowercase]] by succeeding on a [[/check str 13 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

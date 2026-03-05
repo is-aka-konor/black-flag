@@ -335,7 +335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A 10-foot radius cloud of disgusting green gas extends out from the [[lookup @name lowercase]], moves with it, and spreads around corners. The cloud’s area is lightly obscured and lasts 1 minute or until a strong wind disperses it. A creature that starts its turn in the cloud must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn. While poisoned in this way, a creature can take either an action or a bonus action on its turn, not both, and can’t take reactions.</p>",
+          "value": "<p>A 10-foot radius cloud of disgusting green gas extends out from the [[lookup @name lowercase]], moves with it, and spreads around corners. The cloud’s area is lightly obscured and lasts 1 minute or until a strong wind disperses it. A creature that starts its turn in the cloud must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn. While poisoned in this way, a creature can take either an action or a bonus action on its turn, not both, and can’t take reactions.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -716,7 +716,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

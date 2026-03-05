@@ -550,7 +550,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -685,7 +685,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes two Greatsword attacks, or it makes three Radiant Bolt attacks. It can replace one attack with a use of Spellcasting. If two Greatsword or Radiant Bolt attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The [[lookup @name lowercase]] makes two Greatsword attacks, or it makes three Radiant Bolt attacks. It can replace one attack with a use of Spellcasting. If two Greatsword or Radiant Bolt attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -841,7 +841,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -990,7 +990,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command at the start of its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1154,7 +1154,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "",
-                "special": "Hostile Creature"
+                "special": "Враждебное существо"
               },
               "override": false,
               "prompt": true
@@ -1465,7 +1465,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>With a touch, your target disappears from sight.</em></p><p>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1633,7 +1633,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>A 60-foot-radius sphere of daylight spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.</p><p>If you choose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.</p><p>If any of this spell’s area overlaps with an area of darkness created by a spell of 3rd circle or lower such as that created by the darkness spell, the spell that created the <em>darkness</em> is dispelled.</p>",
+          "value": "<p>Сфера дневного света радиусом 60 футов распространяется из выбранной вами точки в пределах дистанции. Сфера является ярким светом и излучает тусклый свет на дополнительные 60 футов. Если вы выбираете точку на предмете, который держите, или на предмете, который никто не носит и не несет, свет исходит от предмета и движется вместе с ним. Полное накрытие затронутого предмета непрозрачным предметом, таким как чаша или шлем, блокирует свет. Если какая-либо часть области этого заклинания перекрывается с областью тьмы, созданной заклинанием 3-го круга или ниже, таким как созданное заклинанием <em>тьма</em>, заклинание, создавшее тьму, развеивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1804,7 +1804,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature’s soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 HP.</p><p>This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn’t, however, remove magical diseases, curses, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the creature returns to life. The spell can’t return an Undead creature to life. This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.</p><p>Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saves, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.</p>",
+          "value": "<p>Создает слугу-нежить (скелета или зомби), которым вы можете командовать. Длится 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2270,7 +2270,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": ""
           }

@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -583,7 +583,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] rears up and kicks its forelegs at one creature it can see within 5 feet of it. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone} or pushed up to 10 feet away from the [[lookup @name lowercase]] (the [[lookup @name lowercase]]'s choice).</p>",
+          "value": "<p>The [[lookup @name lowercase]] rears up and kicks its forelegs at one creature it can see within 5 feet of it. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног} or pushed up to 10 feet away from the [[lookup @name lowercase]] (the [[lookup @name lowercase]]'s choice).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -733,7 +733,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -904,7 +904,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

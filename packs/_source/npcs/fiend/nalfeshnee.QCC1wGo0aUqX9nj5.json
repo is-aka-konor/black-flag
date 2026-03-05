@@ -282,7 +282,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -528,7 +528,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "",
-                "special": "A creature that isn’t an Aberration, Celestial, or Fiend"
+                "special": "Существо, не являющееся Аберрацией, Небожителем или Исчадием"
               },
               "override": false,
               "prompt": true
@@ -554,7 +554,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The nalfeshnee magically emits scintillating, multicolored light that disorients and frightens mortals. Each creature that isn’t an Aberration, Celestial, or Fiend and that starts its turn within 15 feet of the nalfeshnee must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the start of its next turn. A creature that fails the save by 5 or more must take the &Reference[Dash] action on its turn and move away from the nalfeshnee by the safest available route, unless there is nowhere to move.</p>",
+          "value": "<p>The nalfeshnee magically emits scintillating, multicolored light that disorients and frightens mortals. Each creature that isn’t an Aberration, Celestial, or Fiend and that starts its turn within 15 feet of the nalfeshnee must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the start of its next turn. A creature that fails the save by 5 or more must take the &Reference[Dash] action on its turn and move away from the nalfeshnee by the safest available route, unless there is nowhere to move.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1082,7 +1082,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If this attack hits a frightened creature, the nalfeshnee regains HP equal to half the damage dealt.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If this attack hits a frightened creature, the nalfeshnee regains HP equal to half the damage dealt.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1255,7 +1255,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1500,7 +1500,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save str 16 format=long]]or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 16 format=long]]or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

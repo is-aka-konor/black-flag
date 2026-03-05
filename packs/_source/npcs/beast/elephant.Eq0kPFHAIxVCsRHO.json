@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the elephant can make one Stomp attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the elephant can make one Stomp attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -558,7 +558,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "Target must be a large or smaller creature"
+                "special": "Цель должна быть Большого размера или меньше"
               },
               "override": false,
               "prompt": true
@@ -584,7 +584,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elephant grabs one Large or smaller creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[grappled]{grappled} (escape DC 15). The elephant can grapple only one creature at a time.</p>",
+          "value": "<p>The elephant grabs one Large or smaller creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[grappled]{схвачен} (escape DC 15). The elephant can grapple only one creature at a time.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -735,7 +735,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -847,7 +847,7 @@
             "activation": {
               "value": null,
               "type": "action",
-              "condition": "Target must be prone.",
+              "condition": "Цель должна быть сбита с ног.",
               "override": false,
               "primary": true
             },
@@ -879,7 +879,7 @@
                 "choice": false,
                 "count": "1",
                 "type": "creature",
-                "special": "Target must be prone"
+                "special": "Цель должна быть сбита с ног"
               },
               "override": false,
               "prompt": true
@@ -910,7 +910,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage extended]].</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -578,7 +578,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Larger or smaller creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the [[lookup @name lowercase]] can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Larger or smaller creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the [[lookup @name lowercase]] can’t Bite another target.</p>",
           "source": {}
         },
         "identifier": {
@@ -756,7 +756,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

@@ -290,7 +290,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -388,7 +388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -454,7 +454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in sunlight, the [[lookup @name lowercase]] has disadvantage on attack rolls, and its Perception is [[calc @attributes.perception - 5]] when perceiving by sight.</p>",
+          "value": "<p>На солнечном свету [[lookup @name lowercase]] совершает броски атаки с помехой, а его Внимательность равна [[calc @attributes.perception - 5]], когда он полагается на зрение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -688,7 +688,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p><p>To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an INT (Investigation) check against your spell save DC.</p>",
+          "value": "<p>Вы делаете себя — включая вашу одежду, доспехи, оружие и другие вещи на вас — выглядящим по-другому до окончания действия заклинания или пока вы не используете свое действие, чтобы прекратить его. Вы можете казаться на 1 фут короче или выше и можете выглядеть худым, толстым или чем-то средним. Вы не можете изменить свой тип тела, поэтому вы должны принять форму, имеющую то же базовое расположение конечностей. В остальном степень иллюзии зависит от вас. Изменения, вызванные этим заклинанием, не выдерживают физической [[/check INT (Investigation) dc=@spellcasting.dc]] проверки. Например, если вы используете это заклинание, чтобы добавить шляпу к своему наряду, предметы будут проходить сквозь шляпу, и любой, кто коснется ее, ничего не почувствует или почувствует вашу голову и волосы. Если вы используете это заклинание, чтобы казаться худее, чем вы есть, рука того, кто протянет руку, чтобы коснуться вас, наткнется на вас, пока она, казалось бы, все еще находится в воздухе. Чтобы распознать, что вы замаскированы, существо может использовать свое действие, чтобы осмотреть вашу внешность, и должно преуспеть в проверке ИНТ (Расследование) против Сл спасброска от вашего заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -832,7 +832,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Whispering to the spirits of nature, you create one of the following effects within range:</p><ul><li><p>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</p></li><li><p>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</p></li><li><p>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</p></li><li><p>You instantly light or snuff out a candle, torch, or small campfire.</p></li></ul>",
+          "value": "<p>Шепча духам природы, вы создаете один из следующих эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете крошечный, безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотой шар для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.</p><p>- Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или листовую почку распуститься.</p><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как падающие листья, порыв ветра, звук маленького животного или слабый запах скунса. Эффект должен помещаться в 5-футовый куб.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p></blockquote>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -976,7 +976,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You touch one willing creature. Once before the spell ends, the target can roll a [[/r d4]] and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>",
+          "value": "<p>Вы касаетесь одного согласного существа. Один раз до окончания действия заклинания цель может бросить [[/r 1d4]] и добавить выпавшее число к одной проверке характеристики по своему выбору. Она может бросить кубик до или после совершения проверки характеристики. Затем заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1185,7 +1185,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command at the start of its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can affect one additional creature for each slot above 1st. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1366,7 +1366,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>A beam of black power lances from your finger, sapping the vigor of your target.</em></p><p>A beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use STR until the spell ends.</p><p>At the end of each of the target’s turns, it can make a CON save against the spell. On a success, the spell ends.</p>",
+          "value": "<p>Луч ослабляющей энергии вырывается из вашего пальца к существу в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании цель наносит только половину урона атаками, использующими Силу, до окончания действия заклинания. В конце каждого хода цели она может совершить спасбросок Телосложения против заклинания [[/save CON]]. В случае успеха заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1542,7 +1542,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You touch a creature, and that creature must succeed on a WIS save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
+          "value": "<p>Вы касаетесь существа, и это существо должно преуспеть в спасброске Мудрости [[/save]], иначе станет проклятым на время действия заклинания. Когда вы накладываете это заклинание, выберите природу проклятия из следующих вариантов:</p><blockquote><p>- Выберите одну характеристику. Будучи проклятой, цель имеет помеху на проверки характеристик и спасброски, совершаемые с использованием этой характеристики.</p><p>- Будучи проклятой, цель имеет помеху на броски атаки против вас.</p><p>- Будучи проклятой, цель должна совершать спасбросок Мудрости в начале каждого своего хода. Если она проваливает его, она тратит свое действие в этот ход, ничего не делая.</p><p>- Пока цель проклята, ваши атаки и заклинания наносят цели дополнительно [[/r 1d8]] урона некротической энергией.</p><p>Заклинание <em>снятие проклятия</em> прекращает этот эффект. По усмотрению Мастера вы можете выбрать альтернативный эффект проклятия, но он не должен быть мощнее описанных выше.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, длительность становится концентрация, до 10 минут. Если вы используете ячейку заклинания 5-го круга или выше, длительность составляет 8 часов (без концентрации). Если вы используете ячейку заклинания 7-го круга или выше, длительность составляет 24 часа (без концентрации). Если вы используете ячейку заклинания 9-го круга, заклинание длится до развеивания (без концентрации).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1987,7 +1987,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

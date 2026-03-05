@@ -263,7 +263,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -398,7 +398,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cat emits a soft, high-pitched meow at a creature it can see within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} until the end of its next turn. If a creature’s save is successful or the effect ends for it, the creature is immune to the cat’s Charming Mewl for the next 24 hours.</p>",
+          "value": "<p>The cat emits a soft, high-pitched meow at a creature it can see within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} until the end of its next turn. If a creature’s save is successful or the effect ends for it, the creature is immune to the cat’s Charming Mewl for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -548,7 +548,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -253,7 +253,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашной атакой оружием, она наносит дополнительную кость урона этого оружия (уже включена в атаку).</p>",
           "source": {}
         },
         "identifier": {},
@@ -315,7 +315,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {}
         },
         "identifier": {},
@@ -450,7 +450,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -606,7 +606,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {

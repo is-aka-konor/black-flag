@@ -370,7 +370,7 @@
           "value": null
         }
       },
-      "name": "От соединения хвоста (5 HP или меньше)",
+      "name": "Отсоединение хвоста (5 ОЗ или меньше)",
       "type": "feature",
       "_id": "sElzdfIMIdhlutjU",
       "img": "icons/commodities/biological/tail-scaled-green.webp",
@@ -496,7 +496,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

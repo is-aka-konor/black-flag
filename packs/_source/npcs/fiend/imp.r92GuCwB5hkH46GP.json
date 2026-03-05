@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -900,7 +900,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1164,7 +1164,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save con 12 format=long]], taking [[/damage 3d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 12 format=long]], taking [[/damage 3d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

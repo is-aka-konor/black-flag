@@ -276,7 +276,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed, frightened, paralyzed, and stunned conditions, and it has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям: очарован, испуган, парализован и ошеломлён, а также совершает спасброски с преимуществом против заклинаний и эффектов, изменяющих его форму.</p>",
           "source": {}
         },
         "identifier": {},
@@ -402,7 +402,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 30-foot radius and dim light for an additional 30 feet.</p>",
+          "value": "<p>[[lookup @name lowercase]] излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -874,7 +874,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "STR впоследствии от присоединения",
+            "name": "Последующая проверка СИЛ для отрыва",
             "img": "",
             "flags": {},
             "visibility": {
@@ -892,7 +892,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the star crow attaches to the target. While attached, the star crow can use only the Thought Share action and Blinding Burst bonus action, and it moves with the target whenever the target moves, requiring none of the star crow’s movement. The star crow can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the star crow by succeeding on a [[/check strength 13]] check.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the star crow attaches to the target. While attached, the star crow can use only the Thought Share action and Blinding Burst bonus action, and it moves with the target whenever the target moves, requiring none of the star crow’s movement. The star crow can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the star crow by succeeding on a [[/check strength 13]] check.</p>",
           "source": {}
         },
         "identifier": {

@@ -400,7 +400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the triceratops moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a  [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the triceratops can make one Stomp attack against it as a bonus action.</p>",
+          "value": "<p>If the triceratops moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a  [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the triceratops can make one Stomp attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -658,7 +658,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The triceratops emits a piercing call in a 30-foot cone, signaling its impending attack. Each creature in the area must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. If the triceratops uses this bonus action before moving the requisite 20 feet for Trampling Charge, the target of its charge has disadvantage on this save, and the triceratops can make a Stomp attack against the prone target without needing to use a bonus action, provided the target fails the STR save from the charge.</p>",
+          "value": "<p>The triceratops emits a piercing call in a 30-foot cone, signaling its impending attack. Each creature in the area must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the triceratops uses this bonus action before moving the requisite 20 feet for Trampling Charge, the target of its charge has disadvantage on this save, and the triceratops can make a Stomp attack against the prone target without needing to use a bonus action, provided the target fails the STR save from the charge.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -807,7 +807,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p><p></p>",
+          "value": "<p>[[/attack]]. [[/damage average]].</p><p></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -917,7 +917,7 @@
             "activation": {
               "value": null,
               "type": "action",
-              "condition": "Target must be prone.",
+              "condition": "Цель должна быть сбита с ног.",
               "override": false,
               "primary": true
             },
@@ -980,7 +980,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage extended]].</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

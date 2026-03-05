@@ -345,7 +345,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the rhinoceros and knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the rhinoceros and knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -599,7 +599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -748,7 +748,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

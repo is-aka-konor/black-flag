@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The swarm is resistant to bludgeoning, piercing, and slashing damage, and it is immune to the charmed, frightened, grappled, paralyzed, petrified, prone, restrained, and stunned conditions.</p>",
+      "value": "<p>Рой имеет сопротивление к дробящему, колющему и рубящему урону и невосприимчив к состояниям: очарован, испуган, схвачен, парализован, окаменел, сбит с ног, опутан и ошеломлён.</p>",
       "source": {}
     },
     "identifier": {},

@@ -439,7 +439,7 @@
                 "choice": false,
                 "count": "1",
                 "type": "creature",
-                "special": "A creature grappled by the Snake."
+                "special": "Существо, схваченное змеёй."
               },
               "override": false,
               "prompt": true
@@ -619,7 +619,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -794,7 +794,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 14). Until this grapple ends, the creature is &Reference[restrained]{restrained}, and the snake can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 14). Until this grapple ends, the creature is &Reference[restrained]{опутан}, and the snake can’t Constrict another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

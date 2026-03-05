@@ -316,7 +316,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -574,7 +574,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -709,7 +709,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You sense the presence of nearby magic.</em></p><p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+          "value": "<p>На время действия заклинания вы ощущаете присутствие магии в пределах 30 футов от вас. Если вы ощущаете магию таким образом, вы можете использовать свое действие, чтобы увидеть слабую ауру вокруг любого видимого существа или объекта в области, который несет магию, и вы узнаете его школу магии, если таковая имеется. Заклинание может проникать сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
           "source": {}
         },
         "casting": {
@@ -850,7 +850,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You cause bright light to spring forth from whatever you touch.</em></p><p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p><p>If you target an object held or worn by a hostile creature, that creature must succeed on a DEX save to avoid the spell.</p>",
+          "value": "<p>Вы касаетесь одного предмета размером не более 10 футов в любом измерении. До окончания действия заклинания предмет излучает яркий свет в радиусе 20 футов и тусклый свет на дополнительные 20 футов. Свет может быть любого цвета по вашему желанию. Полное накрытие предмета чем-то непрозрачным блокирует свет. Заклинание заканчивается, если вы накладываете его снова или прекращаете его действием. Если вы выбираете целью предмет, который держит или носит враждебное существо, это существо должно преуспеть в спасброске Ловкости [[/save DEX dc=@spellcasting.dc]], чтобы избежать заклинания.</p>",
           "source": {}
         },
         "casting": {
@@ -993,7 +993,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You conjure a ghostly hand which you control as an extension of your reach.</em></p><p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p><p>The hand can’t attack, activate magic items, or carry more than 10 pounds.</p>",
+          "value": "<p>Призрачная, парящая рука появляется в точке, выбранной вами в пределах дистанции. Рука существует на время действия заклинания или пока вы не прекратите ее действием. Рука исчезает, если она когда-либо оказывается дальше 30 футов от вас или если вы снова накладываете это заклинание. Вы можете использовать свое действие, чтобы управлять рукой. Вы можете использовать руку для манипулирования предметом, открытия незапертой двери или контейнера, убирания или извлечения предмета из открытого контейнера или выливания содержимого из флакона. Вы можете перемещать руку на расстояние до 30 футов каждый раз, когда используете ее. Рука не может атаковать, активировать магические предметы или нести более 10 фунтов.</p>",
           "source": {}
         },
         "casting": {
@@ -1133,7 +1133,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You tap rudimentary magic to create a variety of helpful or irksome effects around you.</em></p><p>This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p><ul><li><p>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p></li><li><p>You instantaneously light or snuff out a candle, a torch, or a small campfire.</p></li><li><p>You instantaneously clean or soil an object no larger than 1 cubic foot.</p></li><li><p>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p></li><li><p>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p></li><li><p>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Опираясь на глубочайшие страхи группы существ, вы создаете иллюзорных существ в их разумах, видимых только им. Каждое существо в 30-футовой сфере с центром в точке по вашему выбору в пределах дистанции должно совершить спасбросок Мудрости [[/save]]. При проваленном спасброске существо становится напуганным вами на время действия заклинания. Иллюзия взывает к глубочайшим страхам существа, проявляя его худшие кошмары как неумолимую угрозу. В конце каждого хода напуганного существа оно должно преуспеть в спасброске Мудрости, иначе получит [[/damage]] психического урона. При успешном спасброске заклинание заканчивается для этого существа.</p>",
           "source": {}
         },
         "casting": {
@@ -1291,7 +1291,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>With an arcane phrase and a touch, you grant the power of flight.</em></p><p>You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.</p>",
+          "value": "<p>Вы касаетесь согласного существа. Цель получает скорость полета 60 футов на время действия заклинания. Когда заклинание заканчивается, цель падает, если все еще находится в воздухе, если только не может остановить падение.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 3-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1453,7 +1453,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>At a touch, you weave invisible defenses around your target.</em></p><p>You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its DEX modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</p>",
+          "value": "<p>Вы касаетесь согласного существа, не носящего доспехов, и защитная магическая сила окружает его до окончания действия заклинания. Базовый КД цели становится 13 + ее модификатор Ловкости. Заклинание заканчивается, если цель надевает доспехи или если вы прекращаете заклинание действием.</p>",
           "source": {}
         },
         "casting": {
@@ -1613,7 +1613,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You conjure three images of yourself that constantly shift to obscure your true position.</em></p><p>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it’s impossible to track which image is real. You can use your action to dismiss the illusory duplicates.</p><p>Each time a creature targets you with an attack during the spell’s duration, roll a d20 to determine whether the attack instead targets one of your duplicates.</p><p>If you have three duplicates, you must roll a 6 or higher to change the attack’s target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.</p><p>A duplicate’s AC equals 10 + your DEX modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that targets it. A duplicate ignores all other damage and effects. The spell ends when all three duplicates are destroyed.</p><p>A creature is unaffected by this spell if it can’t see, if it relies on senses other than sight, such as keensense, or if it can perceive illusions as false, as with truesight.</p>",
+          "value": "<p>Три иллюзорных двойника вас появляются в вашем пространстве. До окончания действия заклинания двойники двигаются вместе с вами и имитируют ваши действия, меняя положение так, что невозможно отследить, какой образ реален. Вы можете использовать свое действие, чтобы прекратить иллюзорных двойников. Каждый раз, когда существо выбирает вас целью атаки во время действия заклинания, бросьте [[/r 1d20]], чтобы определить, не нацелена ли атака вместо этого на одного из ваших двойников. Если у вас три двойника, вы должны выбросить 6 или выше, чтобы изменить цель атаки на двойника. С двумя двойниками вы должны выбросить 8 или выше. С одним двойником вы должны выбросить 11 или выше. КД двойника равен 10 + ваш модификатор Ловкости. Если атака попадает по двойнику, двойник уничтожается. Двойник может быть уничтожен только атакой, которая специально нацелена на вас (и, следовательно, на двойника), а не заклинаниями с областью действия, такими как <em>огненный шар</em>. Он игнорирует весь другой урон и эффекты. Заклинание заканчивается, когда все три двойника уничтожены. Атаки существа не подвержены действию этого заклинания, если существо не может видеть, если оно полагается на чувства, отличные от зрения, такие как обостренное чувство (keensense), или если оно может видеть сквозь иллюзии, как при <em>истинном зрении</em>.</p>",
           "source": {}
         },
         "casting": {
@@ -1692,7 +1692,7 @@
       "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
       "system": {
         "description": {
-          "value": "<p><em>You hurl a small ball of flame that explodes in a huge conflagration.</em></p><p>A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot- radius sphere centered on that point must make a DEX save. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.</p><p>The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.</p>",
+          "value": "<p>Яркая полоса вспыхивает из вашего указывающего пальца в точку, выбранную вами в пределах дистанции, а затем расцветает с низким ревом во взрыв пламени. Каждое существо в 20-футовой сфере с центром в этой точке должно совершить спасбросок Ловкости [[/save]]. Цель получает [[/damage]] урона огнем при проваленном спасброске, или половину этого урона при успешном. Огонь распространяется за углы. Он поджигает легковоспламеняющиеся объекты в области, которые никто не носит и не несет.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, урон увеличивается на [[/r 1d6]] за каждый круг ячейки выше 3-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1953,7 +1953,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You imbue your target with swiftness, making them hard to hit and faster to hit back.</em></p><p>Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on DEX saves, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</p><p>When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.</p>",
+          "value": "<p>Выберите согласное существо, которое вы можете видеть в пределах дистанции. До окончания действия заклинания скорость цели удваивается, она получает бонус +2 к КД, имеет преимущество на спасброски Ловкости и получает дополнительное действие в каждый свой ход. Это действие может быть использовано только для совершения действия Атака (только одна атака оружием), Рывок, Отход, Скрытность или Использовать предмет. Когда заклинание заканчивается, цель не может двигаться или совершать действия до окончания своего следующего хода, так как ее охватывает волна летаргии.</p>",
           "source": {}
         },
         "casting": {
@@ -2121,7 +2121,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You magically lengthen time around your targets, reducing their reaction time.</em></p><p>You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a WIS save or be affected by this spell for the duration.</p><p>An affected target’s speed is halved, it takes a −2 penalty to AC and DEX saves, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.</p><p>If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.</p><p>A creature affected by this spell makes another WIS save at the end of its turn. On a successful save, the effect ends for it.</p>",
+          "value": "<p>Вы изменяете время вокруг до шести существ по вашему выбору в 40-футовом кубе в пределах дистанции. Каждая цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет подвержена действию этого заклинания на время действия. Скорость затронутой цели уменьшается вдвое, она получает штраф -2 к КД и спасброскам Ловкости, и она не может использовать реакции. В свой ход она может использовать либо действие, либо бонусное действие, но не оба. Независимо от способностей или магических предметов существа, оно не может совершить более одной рукопашной или дальнобойной атаки в течение своего хода. Если существо пытается наложить заклинание со временем накладывания 1 действие, бросьте [[/r 1d20]]. При результате 11 или выше заклинание не вступает в силу до следующего хода существа, и существо должно использовать свое действие в этот ход, чтобы завершить заклинание. Если оно не может, заклинание потрачено впустую. Существо, затронутое этим заклинанием, совершает еще один спасбросок Мудрости в конце своего хода, прекращая эффект на себе в случае успеха.</p>",
           "source": {}
         },
         "casting": {
@@ -2305,7 +2305,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p><em>A cone of biting cold air deals significant cold damage to everyone in it.</em></p><p>A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a CON save. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.</p><p>A creature killed by this spell becomes a frozen statue until it thaws.</p><p><em><strong>At Higher Rings.</strong></em> When you cast this spell using a spell slot of 6th ring or higher, the damage increases by 1d8 for each slot beyond 5th ring.</p>",
+          "value": "<p>Поток холодного воздуха вырывается из ваших рук. Каждое существо в 60-футовом конусе должно совершить спасбросок Телосложения. Существо получает [[/damage]] урона холодом при проваленном спасброске, или половину этого урона при успешном. Существо, убитое этим заклинанием, становится ледяной статуей, пока не оттает.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, урон увеличивается на [[/r 1d8]] за каждый круг выше 5-го.</p>",
           "source": {}
         },
         "casting": {
@@ -2478,7 +2478,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

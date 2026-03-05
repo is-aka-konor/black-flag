@@ -455,7 +455,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -704,7 +704,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You command the forces of nature to create a variety of harmless, evocative effects.</em></p><p>Whispering to the spirits of nature, you create one of the following effects within range:</p><ul><li><p>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</p></li><li><p>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</p></li><li><p>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</p></li><li><p>You instantly light or snuff out a candle, torch, or small campfire.</p></li></ul>",
+          "value": "<p>Шепча духам природы, вы создаете один из следующих эффектов в пределах дистанции:</p><blockquote><p>- Вы создаете крошечный, безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотой шар для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.</p><p>- Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или листовую почку распуститься.</p><p>- Вы создаете мгновенный, безвредный сенсорный эффект, такой как падающие листья, порыв ветра, звук маленького животного или слабый запах скунса. Эффект должен помещаться в 5-футовый куб.</p><p>- Вы мгновенно зажигаете или гасите свечу, факел или небольшой костер.</p></blockquote>",
           "source": {}
         },
         "casting": {
@@ -844,7 +844,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You talk to and understand speech of animals.</em></p><p>You gain the ability to verbally communicate with Beasts and creatures with the Animal tag for the duration. The knowledge and awareness of many Beasts is limited by their INT, but at minimum, Beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a Beast to perform a small favor for you, at the GM’s discretion.</p>",
+          "value": "<p>Вы получаете способность понимать и словесно общаться со Зверями и существами с меткой &quot;Животное&quot; на время действия заклинания. Знания и осведомленность таких существ ограничены их Интеллектом, но как минимум, цели могут дать вам информацию о ближайших локациях и монстрах, включая все, что они могут воспринимать или воспринимали в течение последнего дня. Вы можете убедить цель оказать вам небольшую услугу, по усмотрению Мастера.</p>",
           "source": {}
         },
         "casting": {
@@ -1008,7 +1008,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You conjure a wide knot of weeds and vines that trip up and bind creatures caught within them.</em></p><p>Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a STR save or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a STR check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.</p>",
+          "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20x20 футов, начиная с точки в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Существо в области, когда вы накладываете заклинание, должно преуспеть в спасброске Силы [[/save strength]], иначе будет опутано опутывающими растениями до окончания действия заклинания. Существо, опутанное растениями, может использовать свое действие, чтобы совершить [[/check strength]] проверку Силы против Сл спасброска от вашего заклинания. В случае успеха оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
           "source": {}
         },
         "casting": {
@@ -1180,7 +1180,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You touch a wounded creature and heal them.</em></p><p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.</p><p>This spell has no effect on Undead or Constructs.</p>",
+          "value": "<p>Существо, которого вы касаетесь, восстанавливает количество хитов, равное [[/healing]] + ваш модификатор заклинательной характеристики. Это заклинание не действует на Конструктов или Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, лечение увеличивается на [[/r 1d8]] за каждый круг ячейки выше 1-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1357,7 +1357,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You create a forceful burst of sound that knocks back anything that fails to withstand it.</em></p><p>A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a CON save. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed.</p><p>In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.</p>",
+          "value": "<p>Волна громовой силы исходит от вас. Каждое существо в 15-футовом кубе, исходящем от вас, должно совершить спасбросок Телосложения [[/save]]. При проваленном спасброске существо получает [[/damage]] урона звуком и отбрасывается на 10 футов от вас. При успешном спасброске существо получает половину этого урона и не отбрасывается. Кроме того, незакрепленные объекты, полностью находящиеся в области действия, автоматически отбрасываются на 10 футов от вас эффектом заклинания, и заклинание издает громовой гул, слышимый на расстоянии до 300 футов.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, урон увеличивается на [[/r 1d8]] за каждый круг ячейки выше 1-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1515,7 +1515,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You cause a target’s skin to grow craggy and resilient, like tree bark.</em></p><p>You touch a willing creature. Until the spell ends, the creature’s skin has a rough, bark-like appearance, and its AC can’t be less than 16, regardless of the armor it wears.</p>",
+          "value": "<p>Вы касаетесь согласного существа. До окончания действия заклинания кожа существа приобретает грубый, похожий на кору вид, и его КД не может быть меньше 16, независимо от того, какую броню оно носит.</p>",
           "source": {}
         },
         "casting": {
@@ -1677,7 +1677,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>A patch of ground sprouts piercing thorns and difficult terrain that looks natural.</em></p><p>The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.</p><p>The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a WIS (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.</p>",
+          "value": "<p>Есть два возможных применения этого заклинания, в зависимости от времени его накладывания, дающих либо немедленные, либо долгосрочные преимущества.</p><blockquote><p>_Если вы накладываете это заклинание, используя 1 действие:_ Выберите точку в пределах дистанции. Все обычные растения в радиусе 100 футов с центром в этой точке становятся густыми и разросшимися. Существо, движущееся через область, должно тратить 4 фута движения за каждый 1 фут, который оно перемещается. Вы можете исключить одну или несколько областей любого размера в пределах области заклинания от воздействия.</p><p>_Если вы накладываете это заклинание в течение 8 часов:_ Вы обогащаете землю. Все растения в радиусе полумили с центром в точке в пределах дистанции становятся обогащенными на 1 год. Растения дают вдвое больше обычного количества пищи при сборе урожая.</p></blockquote>",
           "source": {}
         },
         "casting": {
@@ -1852,7 +1852,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {

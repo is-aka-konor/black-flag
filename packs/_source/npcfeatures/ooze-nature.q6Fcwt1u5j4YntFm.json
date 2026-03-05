@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] doesn’t require sleep.</p>",
+      "value": "<p>[[lookup @name lowercase]] не нуждается во сне.</p>",
       "source": {}
     },
     "identifier": {},

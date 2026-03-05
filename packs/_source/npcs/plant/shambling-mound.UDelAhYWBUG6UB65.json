@@ -347,7 +347,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состояниям паралича, окаменения и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -547,7 +547,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] emits the smell of rotting vegetation. A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] save or be &Reference[poisoned]{poisoned} until the start of its next turn.</p>",
+          "value": "<p>The [[lookup @name lowercase]] emits the smell of rotting vegetation. A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] save or be &Reference[poisoned]{отравлен} until the start of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shambling mound makes two Slam attacks. If both attacks hit a Medium or smaller target, the target is &Reference[grappled]{grappled} (escape DC 14).</p>",
+          "value": "<p>The shambling mound makes two Slam attacks. If both attacks hit a Medium or smaller target, the target is &Reference[grappled]{схвачен} (escape DC 14).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -807,7 +807,7 @@
                 "choice": false,
                 "type": "creature",
                 "count": "1",
-                "special": "A creature must be grappled by the shambling mound"
+                "special": "Существо должно быть схвачено шевелящейся насыпью"
               },
               "override": false,
               "prompt": true
@@ -833,7 +833,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] engulfs a Medium or smaller creature grappled by it. In addition to being grappled, the engulfed target is &Reference[blinded]{blinded}, &Reference[restrained]{restrained}, and unable to breathe, and it must succeed on a [[/save format=long]] save at the start of each of the [[lookup @name lowercase]]'s turns or take [[/damage average]] damage. If the [[lookup @name lowercase]] moves, the engulfed target moves with it. The [[lookup @name lowercase]] can have only one creature engulfed at a time.</p>",
+          "value": "<p>The [[lookup @name lowercase]] engulfs a Medium or smaller creature grappled by it. In addition to being grappled, the engulfed target is &Reference[blinded]{ослеплён}, &Reference[restrained]{опутан}, and unable to breathe, and it must succeed on a [[/save format=long]] save at the start of each of the [[lookup @name lowercase]]'s turns or take [[/damage average]] damage. If the [[lookup @name lowercase]] moves, the engulfed target moves with it. The [[lookup @name lowercase]] can have only one creature engulfed at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1000,7 +1000,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -52,7 +52,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>If the [[lookup @name lowercase]] takes 10 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+      "value": "<p>Если [[lookup @name lowercase]] получает 10 урона или меньше, и этот урон должен снизить его до 0 HP, вместо этого у него остаётся 1 HP.</p>",
       "source": {}
     },
     "identifier": {},

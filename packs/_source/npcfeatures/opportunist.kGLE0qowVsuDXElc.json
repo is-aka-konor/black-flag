@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] has advantage on opportunity attacks.</p>",
+      "value": "<p>[[lookup @name lowercase]] совершает атаки по возможности с преимуществом.</p>",
       "source": {}
     },
     "identifier": {},

@@ -375,7 +375,7 @@
               "override": false,
               "units": "foot",
               "value": "0",
-              "special": "The target must be grappled by the crocodile"
+              "special": "Цель должна быть схвачена крокодилом"
             },
             "magical": false,
             "target": {
@@ -569,7 +569,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{restrained}, and the crocodile can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the crocodile can’t Bite another target.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

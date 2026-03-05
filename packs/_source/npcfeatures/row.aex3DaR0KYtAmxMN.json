@@ -64,7 +64,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>The [[lookup @name lowercase]] takes the Dash action.</p>"
+      "value": "<p>[[lookup @name lowercase]] совершает действие Рывок.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

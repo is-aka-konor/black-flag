@@ -89,7 +89,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p><p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one creature. <em>Hit:</em> [[/damage average]] damage.</p>",
+      "value": "<p><em>Атака оружием:</em> [[/attack]], досягаемость [[lookup @labels.reach]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
       "source": {}
     },
     "identifier": {

@@ -456,7 +456,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in sunlight, the [[lookup @name lowercase]] has disadvantage on attack rolls, and its Perception is [[calc @attributes.perception - 5]] when perceiving by sight.</p>",
+          "value": "<p>На солнечном свету [[lookup @name lowercase]] совершает броски атаки с помехой, а его Внимательность равна [[calc @attributes.perception - 5]], когда он полагается на зрение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -681,7 +681,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage 2d8 + 2 piercing average]] damage while enlarged.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d8 + 2 piercing average]] damage while enlarged.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -935,7 +935,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage 2d6 + 2 piercing average]] damage while enlarged.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d6 + 2 piercing average]] damage while enlarged.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1070,7 +1070,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the [[lookup @name lowercase]] wears or carries is invisible with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически становится невидимым, пока не атакует или пока не закончится его концентрация (как при концентрации на заклинании). Всё снаряжение, которое [[lookup @name lowercase]] носит или несёт, также становится невидимым.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1352,7 +1352,7 @@
       "effects": [
         {
           "type": "base",
-          "name": "Бонус AC Стены Щита",
+          "name": "Бонус КД стены щитов",
           "origin": "Actor.K1ZUbUg44jIgyLfv.Item.aFJQAH5UBchHYhhq",
           "duration": {
             "rounds": null,

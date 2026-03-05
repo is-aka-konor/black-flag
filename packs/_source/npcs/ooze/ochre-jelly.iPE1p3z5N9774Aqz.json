@@ -275,7 +275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить через пространство шириной всего 1 дюйм, не протискиваясь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается во сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -407,7 +407,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the grappled and restrained conditions, and it is immune to exhaustion and to the blinded, charmed, deafened, frightened, and prone conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям «схвачен» и «опутан», а также невосприимчив к истощению и состояниям: ослеплён, очарован, оглохший, испуган и сбит с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -630,7 +630,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn. If a creature fails the save by 5 or more, it must spend its turn retching uncontrollably and be unable to move or act.</p>",
+          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn. If a creature fails the save by 5 or more, it must spend its turn retching uncontrollably and be unable to move or act.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -701,7 +701,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1082,7 +1082,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is poisoned, it must succeed on a [[/save con 13 format=long]] save or also take [[/damage 2d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is poisoned, it must succeed on a [[/save con 13 format=long]] save or also take [[/damage 2d4 poison average]] damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

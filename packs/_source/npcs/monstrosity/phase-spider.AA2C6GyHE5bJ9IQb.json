@@ -340,7 +340,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -457,7 +457,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+          "value": "<p>[[lookup @name lowercase]] может лазать по труднопроходимым поверхностям, включая потолки вверх ногами, без проверок характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -850,7 +850,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. <em>Hit</em>: The target is &Reference[restrained]{restrained} by webbing. While restrained in this way, the target can see and attack creatures on the Ethereal Plane, and the restrained target can be seen and attacked by creatures on the Ethereal Plane. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 12; HP 10; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
+          "value": "<p>[[/attack]]. <em>Hit</em>: The target is &Reference[restrained]{опутан} by webbing. While restrained in this way, the target can see and attack creatures on the Ethereal Plane, and the restrained target can be seen and attacked by creatures on the Ethereal Plane. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 12; HP 10; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1143,7 +1143,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1412,7 +1412,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{poisoned} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{paralyzed} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

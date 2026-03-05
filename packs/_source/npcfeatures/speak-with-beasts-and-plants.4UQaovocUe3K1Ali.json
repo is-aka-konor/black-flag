@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] can communicate with Beasts and Plants as if they shared a language.</p>",
+      "value": "<p>[[lookup @name lowercase]] может общаться со Зверями и Растениями так, словно у них общий язык.</p>",
       "source": {}
     },
     "identifier": {},

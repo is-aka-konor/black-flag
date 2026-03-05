@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the horse can make another Hooves attack against it as a bonus action.</p>",
+          "value": "<p>If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the horse can make another Hooves attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -606,7 +606,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

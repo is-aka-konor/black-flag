@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состояниям паралича, окаменения и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -695,7 +695,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shrieker emits a high-pitched shriek audible within 300 feet of it. Each creature within 30 feet of it that isn’t a Plant and that can hear the shriek must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the shriek ends. The shrieker must use a bonus action on its subsequent turns to continue shrieking. It can stop shrieking at any time. The shriek ends if the shrieker is incapacitated.</p><p>A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. A creature that successfully saves is immune to the frightened effect of this shrieker’s Shriek for the next 24 hours.</p>",
+          "value": "<p>The shrieker emits a high-pitched shriek audible within 300 feet of it. Each creature within 30 feet of it that isn’t a Plant and that can hear the shriek must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the shriek ends. The shrieker must use a bonus action on its subsequent turns to continue shrieking. It can stop shrieking at any time. The shriek ends if the shrieker is incapacitated.</p><p>A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. A creature that successfully saves is immune to the frightened effect of this shrieker’s Shriek for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -798,7 +798,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true

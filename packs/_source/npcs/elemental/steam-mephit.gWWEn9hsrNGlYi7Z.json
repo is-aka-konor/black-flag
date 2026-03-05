@@ -587,7 +587,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1050,7 +1050,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, creatures have disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with keensense, or can see through illusions, as with truesight.</p>",
+          "value": "<p>Ваше тело становится размытым, смещающимся и колеблющимся для всех, кто может вас видеть. На время действия заклинания существа имеют помеху на броски атаки против вас. Атакующий иммунен к этому эффекту, если он не полагается на зрение, как при обостренном чувстве (keensense), или может видеть сквозь иллюзии, как при истинном зрении (truesight).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1245,7 +1245,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

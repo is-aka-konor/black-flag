@@ -254,7 +254,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {}
         },
         "identifier": {},
@@ -316,7 +316,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the target and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один его союзник находится в пределах 5 футов от цели и не является недееспособным.</p>",
           "source": {}
         },
         "identifier": {},
@@ -517,7 +517,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature, it must make a [[/save constitution 10]] save. On a failure, the target contracts the <em>rat plague</em> disease or is poisoned until the end of its next turn (the GM’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must make a [[/save constitution 10]] save. On a failure, the target contracts the <em>rat plague</em> disease or is poisoned until the end of its next turn (the GM’s choice).</p>",
           "source": {}
         },
         "identifier": {

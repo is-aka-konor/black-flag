@@ -39,7 +39,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] takes the Disengage or Hide action.</p>",
+      "value": "<p>[[lookup @name lowercase]] совершает действие Отход или Засада.</p>",
       "source": {}
     },
     "identifier": {},

@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] is incapacitated while in the area of an <em>antimagic field</em>. If targeted by <em>dispel magic</em>, the [[lookup @name lowercase]] must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute.</p>",
+      "value": "<p>[[lookup @name lowercase]] недееспособен, находясь в области действия <em>антимагического поля</em>. Если на него действует <em>развеивание магии</em>, [[lookup @name lowercase]] должен преуспеть в спасброске Телосложения [[/save constitution]] против СЛ заклинаний заклинателя, иначе теряет сознание на 1 минуту.</p>",
       "source": {}
     },
     "identifier": {},

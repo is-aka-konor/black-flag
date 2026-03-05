@@ -68,7 +68,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] slams creatures grappled by it into each other or into a solid surface. Each creature must make a [[/save]] save. On a failure, a creature takes [[/damage average]] damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+      "value": "<p>[[lookup @name lowercase]] с силой сталкивает схваченных им существ друг с другом или о твёрдую поверхность. Каждое существо должно совершить спасбросок [[/save]]. При провале существо получает [[/damage average]] урона и становится ошеломлённым до конца своего следующего хода. При успехе оно получает половину урона и не ошеломляется.</p>",
       "source": {}
     },
     "identifier": {

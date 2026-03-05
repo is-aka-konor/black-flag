@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашной атакой оружием, она наносит дополнительную кость урона этого оружия (уже включена в атаку).</p>",
           "source": {}
         },
         "identifier": {},
@@ -468,7 +468,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. A surprised target takes an extra [[/damage 1d8 piercing average]] damage and must succeed on a [[/save constitution 13]] save or be stunned until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. A surprised target takes an extra [[/damage 1d8 piercing average]] damage and must succeed on a [[/save constitution 13]] save or be stunned until the end of its next turn.</p>",
           "source": {}
         },
         "type": {
@@ -624,7 +624,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] in melee or [[/damage 1d6 + 2 piercing average]] damage at range.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] in melee or [[/damage 1d6 + 2 piercing average]] damage at range.</p>",
           "source": {}
         },
         "type": {

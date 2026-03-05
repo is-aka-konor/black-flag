@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -330,7 +330,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -822,7 +822,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -1031,7 +1031,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely Humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.</p><p>As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.</p>",
+          "value": "<p>Вы создаете до четырех огоньков размером с факел в пределах дистанции, придавая им вид факелов, фонарей или светящихся сфер, которые парят в воздухе на время действия заклинания. Вы также можете объединить четыре огонька в одну светящуюся, смутно гуманоидную форму Среднего размера. Какую бы форму вы ни выбрали, каждый огонек излучает тусклый свет в радиусе 10 футов. Бонусным действием в свой ход вы можете переместить огоньки на расстояние до 60 футов в новое место в пределах дистанции. Огонек должен находиться в пределах 20 футов от другого огонька, созданного этим заклинанием, и огонек гаснет, если превышает дистанцию заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1181,7 +1181,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>A gesture manifests an illusion of a sound or image of your design.</em></p><p>You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.</p><p>If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p><p>If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it.</p><p>If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>",
+          "value": "<p>Вы создаете звук или образ предмета в пределах дистанции, который длится на время действия заклинания. Иллюзия также заканчивается, если вы прекращаете ее действием или снова накладываете это заклинание. Если вы создаете звук, его громкость может варьироваться от шепота до крика. Это может быть ваш голос, чей-то другой голос, рык льва, бой барабанов или любой другой звук по вашему выбору. Звук продолжается непрерывно в течение всей длительности, или вы можете издавать дискретные звуки в разное время до окончания действия заклинания. Если вы создаете образ предмета, такого как стул, грязные следы или маленький сундук, он должен быть не больше 5-футового куба. Образ не может создавать звук, свет, запах или любой другой сенсорный эффект. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Если существо использует свое действие для изучения звука или образа, существо может определить, что это иллюзия, успешно совершив [[/check INT (Investigation)]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, иллюзия становится слабой для существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1348,7 +1348,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You touch a creature, and that creature must succeed on a WIS save or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:</p><ul><li><p>Choose one ability. While cursed, the target has disadvantage on ability checks and saves made with that ability.</p></li><li><p>While cursed, the target has disadvantage on attack rolls against you.</p></li><li><p>While cursed, the target must make a WIS save at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.</p></li><li><p>While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.</p></li></ul><p>A <em>remove curse</em> spell ends this effect. At the GM’s discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, the duration becomes concentration, up to 10 minutes. If you use a spell slot of 5th circle or higher, the duration is 8 hours (no concentration). If you use a spell slot of 7th circle or higher, the duration is 24 hours (no concentration). If you use a 9th circle spell slot, the spell lasts until dispelled (no concentration).</p>",
+          "value": "<p>Вы касаетесь существа, и это существо должно преуспеть в спасброске Мудрости [[/save]], иначе станет проклятым на время действия заклинания. Когда вы накладываете это заклинание, выберите природу проклятия из следующих вариантов:</p><blockquote><p>- Выберите одну характеристику. Будучи проклятой, цель имеет помеху на проверки характеристик и спасброски, совершаемые с использованием этой характеристики.</p><p>- Будучи проклятой, цель имеет помеху на броски атаки против вас.</p><p>- Будучи проклятой, цель должна совершать спасбросок Мудрости в начале каждого своего хода. Если она проваливает его, она тратит свое действие в этот ход, ничего не делая.</p><p>- Пока цель проклята, ваши атаки и заклинания наносят цели дополнительно [[/r 1d8]] урона некротической энергией.</p><p>Заклинание <em>снятие проклятия</em> прекращает этот эффект. По усмотрению Мастера вы можете выбрать альтернативный эффект проклятия, но он не должен быть мощнее описанных выше.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, длительность становится концентрация, до 10 минут. Если вы используете ячейку заклинания 5-го круга или выше, длительность составляет 8 часов (без концентрации). Если вы используете ячейку заклинания 7-го круга или выше, длительность составляет 24 часа (без концентрации). Если вы используете ячейку заклинания 9-го круга, заклинание длится до развеивания (без концентрации).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1800,7 +1800,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1970,7 +1970,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -395,7 +395,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If damage reduces the [[lookup @name lowercase]] to 0 HP, it must make a [[/save constitution]] save with a DC equal to 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the [[lookup @name lowercase]] drops to 1 HP instead.</p>",
+          "value": "<p>Если урон снижает HP [[lookup @name lowercase]] до 0, он должен совершить спасбросок Телосложения [[/save constitution]] со СЛ 5 + полученный урон, если только урон не является излучающим и не нанесён критическим попаданием. При успехе у [[lookup @name lowercase]] остаётся 1 HP.</p>",
           "source": {}
         },
         "identifier": {},
@@ -457,7 +457,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {}
         },
         "identifier": {},
@@ -519,7 +519,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {}
         },
         "identifier": {},
@@ -716,7 +716,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. The target is grappled (escape DC 12) if it is a Medium or smaller creature, and the zombie doesn’t already have a creature grappled.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target is grappled (escape DC 12) if it is a Medium or smaller creature, and the zombie doesn’t already have a creature grappled.</p>",
           "source": {}
         },
         "identifier": {

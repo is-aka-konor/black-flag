@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the mephit dies, it explodes in a burst of viscous ice. Each creature within 5 feet of it must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained} by ice for 1 minute. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 11 format=long]]. The ice melts immediately if the restrained creature takes fire damage, freeing the creature.</p>",
+          "value": "<p>When the mephit dies, it explodes in a burst of viscous ice. Each creature within 5 feet of it must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} by ice for 1 minute. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 11 format=long]]. The ice melts immediately if the restrained creature takes fire damage, freeing the creature.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -647,7 +647,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -831,7 +831,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit exhales freezing fog in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{restrained} by ice until the end of its next turn. On a success, a creature takes half the damage and isn’t restrained.</p>",
+          "value": "<p>The mephit exhales freezing fog in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{опутан} by ice until the end of its next turn. On a success, a creature takes half the damage and isn’t restrained.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1109,7 +1109,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.</p><p><em>At Higher Circles.</em> When you cast this spell using a 2nd-circle spell slot or higher, the radius of the fog increases by 20 feet for each slot above 1st.</p>",
+          "value": "<p>Вы создаете 20-футовую сферу тумана с центром в точке в пределах дистанции. Сфера огибает углы, и ее область сильно заслонена. Она длится на время действия заклинания или пока ветер умеренной или большей скорости (не менее 10 миль в час) не рассеет ее.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, радиус тумана увеличивается на 20 футов за каждый круг ячейки выше 1-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1310,7 +1310,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

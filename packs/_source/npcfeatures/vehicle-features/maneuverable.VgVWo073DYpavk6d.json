@@ -16,7 +16,7 @@
     "advancement": {},
     "description": {
       "source": {},
-      "value": "<p>The [[lookup @name lowercase]] can move up to its speed and make one 90-degree turn.</p>"
+      "value": "<p>[[lookup @name lowercase]] может переместиться на расстояние вплоть до своей скорости и сделать один поворот на 90 градусов.</p>"
     },
     "restriction": {
       "allowMultipleTimes": false,

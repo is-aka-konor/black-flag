@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hissing, spitting, and constant nipping of snakes in the swarm leaves the swarm’s space dripping with poison. A creature that starts its turn in the swarm’s space must succeed on a [[/save format=long]] or be &Reference[poisoned]{poisoned} until the start of its next turn.</p>",
+          "value": "<p>The hissing, spitting, and constant nipping of snakes in the swarm leaves the swarm’s space dripping with poison. A creature that starts its turn in the swarm’s space must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -403,7 +403,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can’t regain HP or gain temporary HP.</p>",
+          "value": "<p>Рой может занимать пространство другого существа, и наоборот, а также проходить через любое отверстие, достаточное для Крошечного существа. Рой не может восстанавливать HP и получать временные HP.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The swarm is resistant to bludgeoning, piercing, and slashing damage, and it is immune to the charmed, frightened, grappled, paralyzed, petrified, prone, restrained, and stunned conditions.</p>",
+          "value": "<p>Рой имеет сопротивление к дробящему, колющему и рубящему урону и невосприимчив к состояниям: очарован, испуган, схвачен, парализован, окаменел, сбит с ног, опутан и ошеломлён.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -902,7 +902,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Спасение и урон ядом",
+            "name": "Спасбросок ТЕЛ и урон ядом",
             "img": "",
             "flags": {},
             "visibility": {
@@ -920,7 +920,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 0 ft., one target in the swarm’s space. [[/damage extended]], or [[/damage 2d4 piercing average]] damage if the swarm has half of its HP or fewer. If the target is a creature, it must make a [[/save con 14 format=long]], taking [[/damage 4d8 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 0 ft., one target in the swarm’s space. [[/damage average]], or [[/damage 2d4 piercing average]] damage if the swarm has half of its HP or fewer. If the target is a creature, it must make a [[/save con 14 format=long]], taking [[/damage 4d8 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

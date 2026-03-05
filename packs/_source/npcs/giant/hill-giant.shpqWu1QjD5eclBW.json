@@ -343,7 +343,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition, and it is vulnerable to the prone condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состоянию ошеломления и уязвимость к сбиванию с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -751,7 +751,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1000,7 +1000,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{poisoned} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1156,7 +1156,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hill giant bumps its stomach, hip, shoulder, knee, or other part of its body into a creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the giant and knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>The hill giant bumps its stomach, hip, shoulder, knee, or other part of its body into a creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the giant and knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

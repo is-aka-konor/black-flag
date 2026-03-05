@@ -69,7 +69,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked prone. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+      "value": "<p>[[lookup @name lowercase]] взмахивает крыльями. Каждое существо в пределах 10 футов от него должно преуспеть в спасброске [[/save]], иначе получает [[/damage average]] урона и сбивается с ног. После этого [[lookup @name lowercase]] может пролететь расстояние до половины своей скорости полёта, не провоцируя атаки по возможности.</p>",
       "source": {}
     },
     "identifier": {

@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -394,7 +394,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к истощению и состояниям очарования, испуга, паралича, окаменения и отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -723,7 +723,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. If the save fails by 5 or more, the target is instead poisoned for 5 ([[/r 1d10]]) minutes and &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. If the save fails by 5 or more, the target is instead poisoned for 5 ([[/r 1d10]]) minutes and &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -72,7 +72,7 @@
     },
     "description": {
       "source": {},
-      "value": "<p>Keelboats are small sailing vessels that operate with minimal crew. Keelboats are good for day trips or transporting small amounts of cargo or passengers. The keelboat stat block included here is outfitted with a ballista, but less expensive keelboats without weaponry are commonly available for purchase.</p>",
+      "value": "<p>Килевые лодки — небольшие парусные суда, которым требуется минимальный экипаж. Они подходят для коротких переходов и перевозки небольшого груза или пассажиров. В этом статблоке килевая лодка оснащена баллистой, но обычно в продаже доступны более дешёвые варианты без вооружения.</p>",
       "actions": "On its turn, the keelboat can take one action, choosing from the options below. It can’t take any actions if it has fewer than 2 crew."
     },
     "abilities": {
@@ -232,7 +232,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name]] is immune to poison and psychic damage, and the following conditions: blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, and unconscious.</p>"
+          "value": "<p>[[lookup @name]] невосприимчив к урону ядом и психическому урону, а также к следующим состояниям: &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, истощение, &Reference[frightened]{испуган}, &Reference[incapacitated]{недееспособен}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменел}, &Reference[poisoned]{отравлен}, &Reference[prone]{сбит с ног}, &Reference[stunned]{ошеломлён} и без сознания.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -418,7 +418,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>While in initiative, the [[lookup @name lowercase]]’s speed is reduced to 15 ft. when sailing against the wind. While sailing with the wind, its speed becomes 50 feet.</p>"
+          "value": "<p>В бою скорость [[lookup @name lowercase]] уменьшается до 15 футов при движении против ветра. При движении по ветру его скорость становится 50 футов.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -573,7 +573,7 @@
             "fallback": "",
             "page": ""
           },
-          "value": "<p><em>Ranged Weapon Attack:</em> [[/attack]], range [[lookup @labels.range]], one target. <em>Hit:</em> [[/damage average]] damage.</p>"
+          "value": "<p><em>Дальнобойная атака оружием:</em> [[/attack]], дистанция [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>"
         },
         "attunement": {
           "value": ""
@@ -711,7 +711,7 @@
         "advancement": {},
         "description": {
           "source": {},
-          "value": "<p>The [[lookup @name lowercase]] takes the Dash action.</p>"
+          "value": "<p>[[lookup @name lowercase]] совершает действие Рывок.</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,

@@ -13,7 +13,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>If damage reduces the [[lookup @name lowercase]] to 0 HP, it must make a [[/save constitution]] save with a DC equal to 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the [[lookup @name lowercase]] drops to 1 HP instead.</p>",
+      "value": "<p>Если урон снижает HP [[lookup @name lowercase]] до 0, он должен совершить спасбросок Телосложения [[/save constitution]] со СЛ 5 + полученный урон, если только урон не является излучающим и не нанесён критическим попаданием. При успехе у [[lookup @name lowercase]] остаётся 1 HP.</p>",
       "source": {}
     },
     "identifier": {},

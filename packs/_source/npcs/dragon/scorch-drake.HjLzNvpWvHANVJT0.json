@@ -921,7 +921,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] flaps its wings in the direction of one ignited creature it can see within 15 feet of it. The flames coating the target flare up and generate excess smoke. The target must succeed on a [[/save format=long]] or be &Reference[blinded]{blinded} until the end of its next turn.</p>",
+          "value": "<p>The [[lookup @name lowercase]] flaps its wings in the direction of one ignited creature it can see within 15 feet of it. The flames coating the target flare up and generate excess smoke. The target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1088,7 +1088,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1276,7 +1276,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

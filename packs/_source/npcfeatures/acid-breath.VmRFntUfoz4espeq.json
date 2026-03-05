@@ -81,7 +81,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The [[lookup @name lowercase]] exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+      "value": "<p>[[lookup @name lowercase]] выдыхает кислоту линией длиной 15 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save]]: при провале получает [[/damage average]] урона, при успехе — половину.</p>",
       "source": {}
     },
     "identifier": {

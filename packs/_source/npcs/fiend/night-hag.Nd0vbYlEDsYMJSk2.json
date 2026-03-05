@@ -279,7 +279,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the hag can see within 10 feet of it must succeed on a [[/save format=long]] or be filled with sorrow for 1 minute. While filled with sorrow, a creature is &Reference[incapacitated]{incapacitated} and experiences visions or memories of sorrowful events. The target can repeat the save at the end of each of its turns (if conscious) or end of each hour (if unconscious), ending the effect on itself on a success.</p><p>For each hour an &Reference[unconscious]{unconscious} creature is affected, its HP maximum is reduced by [[/damage average]]. This reduction lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} spell or similar magic. The creature dies if this effect reduces its HP maximum to 0. If an unconscious creature suffers from Cause Sorrow for at least 1 hour, it doesn’t gain any benefits from the rest.</p><p>The hag can have only one creature filled with sorrow at a time. If it uses Cause Sorrow on another, the effect on the previous creature ends.</p>",
+          "value": "<p>One creature the hag can see within 10 feet of it must succeed on a [[/save format=long]] or be filled with sorrow for 1 minute. While filled with sorrow, a creature is &Reference[incapacitated]{недееспособен} and experiences visions or memories of sorrowful events. The target can repeat the save at the end of each of its turns (if conscious) or end of each hour (if unconscious), ending the effect on itself on a success.</p><p>For each hour an &Reference[unconscious]{unconscious} creature is affected, its HP maximum is reduced by [[/damage average]]. This reduction lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} spell or similar magic. The creature dies if this effect reduces its HP maximum to 0. If an unconscious creature suffers from Cause Sorrow for at least 1 hour, it doesn’t gain any benefits from the rest.</p><p>The hag can have only one creature filled with sorrow at a time. If it uses Cause Sorrow on another, the effect on the previous creature ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -688,7 +688,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>A beam of black power lances from your finger, sapping the vigor of your target.</em></p><p>A beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use STR until the spell ends.</p><p>At the end of each of the target’s turns, it can make a CON save against the spell. On a success, the spell ends.</p>",
+          "value": "<p>Луч ослабляющей энергии вырывается из вашего пальца к существу в пределах дистанции. Совершите по цели дальнобойную атаку заклинанием. При попадании цель наносит только половину урона атаками, использующими Силу, до окончания действия заклинания. В конце каждого хода цели она может совершить спасбросок Телосложения против заклинания [[/save CON]]. В случае успеха заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -896,7 +896,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You create and control a convincing visual illusion.</em></p><p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.</p><p>You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.</p>",
+          "value": "<p>Вы создаете образ предмета, существа или другого видимого явления размером не более 15-футового куба. Образ появляется в месте в пределах дистанции и существует на время действия заклинания. Образ чисто визуальный; он не сопровождается звуком, запахом или другими сенсорными эффектами. Вы можете использовать свое действие, чтобы переместить образ в любое место в пределах дистанции. По мере изменения местоположения образа вы можете изменять его внешний вид так, чтобы его движения казались естественными для образа. Например, если вы создаете образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идет. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1120,7 +1120,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an INT of 3 (−4) or lower or doesn’t speak any languages, the creature is unaffected.</p><p>You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a WIS save. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an INT check contested by your INT check; if the target succeeds, the spell ends.</p><p>Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.</p><p>You can also use this spell to detect the presence of thinking creatures you can’t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can’t detect a creature with an INT of 3 (−4) or lower or one that doesn’t speak any languages.</p><p>Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can’t see it, but it must still be within range.</p>",
+          "value": "<p>На время действия заклинания вы можете читать мысли определенных существ. Когда вы накладываете заклинание и действием в каждый свой ход до окончания действия заклинания, вы можете сфокусировать свой разум на любом одном существе, которое вы можете видеть в пределах 30 футов от вас. Если выбранное вами существо имеет Интеллект 3 (-4) или ниже или не говорит ни на одном языке, существо не подвергается воздействию. Сначала вы узнаете поверхностные мысли существа — то, что больше всего занимает его разум в данный момент. Действием вы можете либо переключить свое внимание на мысли другого существа, либо попытаться проникнуть глубже в разум того же существа. Если вы проникаете глубже, цель должна совершить спасбросок Мудрости [[/save]]. Если она проваливает его, вы получаете представление о ее рассуждениях (если таковые имеются), ее эмоциональном состоянии и чем-то, что занимает важное место в ее разуме (например, то, о чем она беспокоится, любит или ненавидит). Если она преуспевает, заклинание заканчивается. В любом случае, цель знает, что вы проникаете в ее разум, и если вы не переключите свое внимание на мысли другого существа, существо может использовать свое действие в свой ход, чтобы совершить [[/check INT]] проверку Интеллекта, оспариваемую вашей проверкой Интеллекта; если цель преуспевает, заклинание заканчивается. Вопросы, устно заданные целевому существу, естественным образом формируют ход его мыслей, поэтому это заклинание особенно эффективно как часть допроса. Вы также можете использовать это заклинание для обнаружения присутствия мыслящих существ, которых вы не видите. Когда вы накладываете заклинание или действием во время действия заклинания, вы можете искать мысли в пределах 30 футов от вас. Заклинание может проникать сквозь барьеры, но 2 фута камня, 2 дюйма любого металла, кроме свинца, или тонкий лист свинца блокируют вас. Вы не можете обнаружить существо с Интеллектом 3 (-4) или ниже или то, которое не говорит ни на одном языке. Как только вы обнаружите присутствие существа таким образом, вы можете читать его мысли до конца действия заклинания, как описано выше, даже если вы его не видите, но оно все равно должно находиться в пределах дистанции.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1295,7 +1295,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You charm the most susceptible targets nearby into a sudden state of sleeping unconsciousness.</em></p><p>This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).</p><p>Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.</p><p>Undead and creatures immune to being charmed aren’t affected by this spell.</p>",
+          "value": "<p>Формировать сны существа. Доставить сообщение или создать кошмар. Цель идеально вспоминает сон при пробуждении. [[/save]] [[/damage]]</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1472,7 +1472,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the city of Fandeval in the Shadow Realm, and you appear in or near that destination. If you are trying to reach Fandeval, for example, you might arrive in the Old Market Square district at the heart of the city, on the road that leads to the Sleeper’s Gate entrance, or looking at the city from across the River Styx, at the GM’s discretion.</p><p>Alternatively, if you know the sigil sequence of a teleportation circle on another plane of xistence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.</p><p>You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a CHA save. On a failure, the creature is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.</p>",
+          "value": "<p>Вы и до восьми согласных существ, взявшихся за руки в круг, переносятся на другой план существования. Вы можете указать целевое место назначения в общих чертах, например, город Фандевал в Царстве Теней, и вы появитесь в этом месте назначения или рядом с ним. Если вы пытаетесь добраться до Фандевала, например, вы можете прибыть на Старую Рыночную площадь в центре города, на дорогу, ведущую к входу Врат Спящего, или увидеть город с другого берега реки Стикс, по усмотрению Мастера. В качестве альтернативы, если вы знаете последовательность символов телепортационного круга на другом плане существования, это заклинание может доставить вас к этому кругу. Если телепортационный круг слишком мал, чтобы вместить всех перевезенных вами существ, они появляются в ближайших незанятых пространствах рядом с кругом. Вы можете использовать это заклинание, чтобы изгнать несогласное существо на другой план. Выберите существо в пределах вашей досягаемости и совершите по нему рукопашную атаку заклинанием. При попадании существо должно совершить спасбросок Харизмы [[/save]]. При провале существо переносится в случайное место на указанном вами плане существования. Существо, перенесенное таким образом, должно самостоятельно найти путь обратно на ваш текущий план существования.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1909,7 +1909,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2079,7 +2079,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -398,7 +398,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against any creature grappled by it.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает атаки с преимуществом против любого существа, схваченного им.</p>",
           "source": {}
         },
         "identifier": {},
@@ -460,7 +460,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1013,7 +1013,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one grappled creature. [[/damage extended]].</p>",
+          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one grappled creature. [[/damage average]].</p>",
           "source": {}
         },
         "identifier": {
@@ -1188,7 +1188,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the mimic is in object form, the target is subjected to its Adhesive trait.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the mimic is in object form, the target is subjected to its Adhesive trait.</p>",
           "source": {}
         },
         "identifier": {

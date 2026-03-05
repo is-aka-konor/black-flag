@@ -258,7 +258,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] when perceiving by smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -374,7 +374,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The brown bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &Reference[grappled]{grappled} (escape DC 14). The bear can grapple only one creature at a time.</p>",
+          "value": "<p>The brown bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &Reference[grappled]{схвачен} (escape DC 14). The bear can grapple only one creature at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -523,7 +523,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -696,7 +696,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

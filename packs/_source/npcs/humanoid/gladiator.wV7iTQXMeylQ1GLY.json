@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашной атакой оружием, она наносит дополнительную кость урона этого оружия (уже включена в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -768,7 +768,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -922,7 +922,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gladiator slams its spear against its shield, twirls its spear, or roars while flexing, entertaining or intimidating up to two creatures it can see within 15 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} or &Reference[frightened]{frightened} (the gladiator’s choice) until the end of its next turn.</p>",
+          "value": "<p>The gladiator slams its spear against its shield, twirls its spear, or roars while flexing, entertaining or intimidating up to two creatures it can see within 15 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} or &Reference[frightened]{испуган} (the gladiator’s choice) until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1317,7 +1317,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Medium or smaller creature, it must succeed on a [[/save str 15 format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it must succeed on a [[/save str 15 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

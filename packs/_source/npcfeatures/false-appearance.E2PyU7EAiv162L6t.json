@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal item.</p>",
+      "value": "<p>Пока [[lookup @name lowercase]] неподвижен, его невозможно отличить от обычного предмета.</p>",
       "source": {}
     },
     "identifier": {},

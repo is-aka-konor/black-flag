@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -675,7 +675,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[restrained]{restrained} as it begins to turn to stone. The creature must repeat the save at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[restrained]{опутан} as it begins to turn to stone. The creature must repeat the save at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

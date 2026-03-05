@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -334,7 +334,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -855,7 +855,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The merrow takes the &Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
+          "value": "<p>The merrow takes the &Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -967,7 +967,7 @@
                 "choice": false,
                 "type": "object",
                 "count": "1",
-                "special": "The merrow's harpoon."
+                "special": "Гарпун мерроу."
               },
               "override": false,
               "prompt": true
@@ -1146,7 +1146,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1319,7 +1319,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

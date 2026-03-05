@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и бессознательности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -518,7 +518,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can communicate with Beasts and Plants as if they shared a language.</p>",
+          "value": "<p>[[lookup @name lowercase]] может общаться со Зверями и Растениями так, словно у них общий язык.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -724,7 +724,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dryad makes two Vine Whip or Blast of Pollen attacks. If both Vine Whip attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[restrained]{restrained} by vines until the end of its next turn.</p>",
+          "value": "<p>The dryad makes two Vine Whip or Blast of Pollen attacks. If both Vine Whip attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} by vines until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -863,7 +863,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1025,7 +1025,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] emits an alluring, floral scent toward one Beast or Humanoid it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{charmed} for 1 minute. While charmed, the target views the [[lookup @name lowercase]] as an ally and views the [[lookup @name lowercase]]'s requests favorably, though it isn’t under the [[lookup @name lowercase]]'s control. The charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time.</p>",
+          "value": "<p>The [[lookup @name lowercase]] emits an alluring, floral scent toward one Beast or Humanoid it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} for 1 minute. While charmed, the target views the [[lookup @name lowercase]] as an ally and views the [[lookup @name lowercase]]'s requests favorably, though it isn’t under the [[lookup @name lowercase]]'s control. The charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1184,7 +1184,7 @@
           "value": null
         }
       },
-      "name": "Помощь лесу (21 HP или меньше)",
+      "name": "Помощь леса (21 ОЗ или меньше)",
       "type": "feature",
       "_id": "kIpA4KPLAYHx3T09",
       "img": "icons/magic/nature/beam-hand-leaves-green.webp",
@@ -1307,7 +1307,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -267,7 +267,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] while perceiving by hearing or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на слух или обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -405,7 +405,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -667,7 +667,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -828,7 +828,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1355,7 +1355,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the weretiger lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the weretiger lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1528,7 +1528,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

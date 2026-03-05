@@ -749,7 +749,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Сохранить DEX",
+            "name": "Спасбросок ЛОВ",
             "img": ""
           }
         },
@@ -761,7 +761,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a [[/save dex 14 format=long]] or drop the weapon or shield (the salamander’s choice if the target is wielding both).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a [[/save dex 14 format=long]] or drop the weapon or shield (the salamander’s choice if the target is wielding both).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1081,7 +1081,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target is &Reference[grappled]{grappled} (escape DC 14). Until this grapple ends, the target is &Reference[restrained]{restrained}, the salamander can automatically hit the target with its tail, and the salamander can’t make tail attacks against other targets.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 14). Until this grapple ends, the target is &Reference[restrained]{опутан}, the salamander can automatically hit the target with its tail, and the salamander can’t make tail attacks against other targets.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1254,7 +1254,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

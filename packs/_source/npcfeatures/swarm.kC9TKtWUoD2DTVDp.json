@@ -14,7 +14,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can’t regain HP or gain temporary HP.</p>",
+      "value": "<p>Рой может занимать пространство другого существа, и наоборот, а также проходить через любое отверстие, достаточное для Крошечного существа. Рой не может восстанавливать HP и получать временные HP.</p>",
       "source": {}
     },
     "identifier": {},

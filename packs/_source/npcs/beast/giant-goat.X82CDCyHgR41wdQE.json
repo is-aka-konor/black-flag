@@ -338,7 +338,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -477,7 +477,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the goat takes damage, it can release a high-pitched scream, frightening creatures within 10 feet of it. Each creature in that area that can hear the scream must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} until the end of its next turn. A creature frightened in this way can’t be frightened by this goat’s Terrifying Scream again for the next 24 hours.</p>",
+          "value": "<p>When the goat takes damage, it can release a high-pitched scream, frightening creatures within 10 feet of it. Each creature in that area that can hear the scream must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. A creature frightened in this way can’t be frightened by this goat’s Terrifying Scream again for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -626,7 +626,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

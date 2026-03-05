@@ -263,7 +263,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Perception is [[calc @attributes.perception + 5]] while perceiving by hearing.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна [[calc @attributes.perception + 5]], когда он полагается на слух.</p>",
           "source": {}
         },
         "identifier": {},
@@ -325,7 +325,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состояниям паралича, окаменения и бессознательности.</p>",
           "source": {}
         },
         "identifier": {},
@@ -834,7 +834,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Humanoid, it must succeed on a [[/save constitution 13]] save or become infected with apocalyptic fungus.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save constitution 13]] save or become infected with apocalyptic fungus.</p>",
           "source": {}
         },
         "identifier": {
@@ -1016,7 +1016,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is Medium or smaller, it is grappled (escape DC 13).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is Medium or smaller, it is grappled (escape DC 13).</p>",
           "source": {}
         },
         "identifier": {
@@ -1185,7 +1185,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save constitution 13]] save or be poisoned until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save constitution 13]] save or be poisoned until the end of its next turn.</p>",
           "source": {}
         },
         "identifier": {

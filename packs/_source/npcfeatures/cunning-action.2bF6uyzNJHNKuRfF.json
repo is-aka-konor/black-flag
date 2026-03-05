@@ -40,7 +40,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>The spy takes the Dash, Disengage, or Hide action.</p>",
+      "value": "<p>Шпион совершает действие Рывок, Отход или Засада.</p>",
       "source": {}
     },
     "identifier": {},

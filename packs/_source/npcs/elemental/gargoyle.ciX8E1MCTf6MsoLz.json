@@ -347,7 +347,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 20 feet straight toward a creature and then hits it with a Claws attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{prone}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 20 feet straight toward a creature and then hits it with a Claws attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -665,7 +665,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see hits it with an attack, the [[lookup @name lowercase]] can shift its face to appear more monstrous. The attacker must succeed on a [[/save format=long]] or be &Reference[frightened]{frightened} of the [[lookup @name lowercase]] until the end of its next turn.</p>",
+          "value": "<p>When a creature the [[lookup @name lowercase]] can see hits it with an attack, the [[lookup @name lowercase]] can shift its face to appear more monstrous. The attacker must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} of the [[lookup @name lowercase]] until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -817,7 +817,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -990,7 +990,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

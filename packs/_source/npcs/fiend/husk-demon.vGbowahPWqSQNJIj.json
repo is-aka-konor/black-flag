@@ -272,7 +272,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить через пространство шириной всего 1 дюйм, не протискиваясь.</p>",
           "source": {}
         },
         "identifier": {},
@@ -334,7 +334,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, огнём и электричеством. Кроме того, он невосприимчив к урону ядом и состоянию отравления.</p>",
           "source": {}
         },
         "identifier": {},
@@ -465,7 +465,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -521,7 +521,7 @@
           "fttXbxb6LMihJiZG": {
             "type": "utility",
             "_id": "fttXbxb6LMihJiZG",
-            "description": "__P0___Демон-Шелуха делает два удара «Похищение жизни».</p>",
+            "description": "Демон-Шелуха делает два удара «Похищение жизни».</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -875,7 +875,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the [[lookup @name lowercase]] regain HP equal to half the necrotic damage dealt. The target must succeed on a [[/save constitution 15]] save or its HP maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creatures finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the [[lookup @name lowercase]] regain HP equal to half the necrotic damage dealt. The target must succeed on a [[/save constitution 15]] save or its HP maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creatures finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
           "source": {}
         },
         "identifier": {

@@ -336,7 +336,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saving throws against spells and other magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает спасброски с преимуществом против заклинаний и других магических эффектов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -742,7 +742,7 @@
               "min": "",
               "max": ""
             },
-            "name": "CON Спасение и урон от ран",
+            "name": "Спасбросок ТЕЛ и урон от раны",
             "img": ""
           },
           "Is0LSmuJ4ASUQdjX": {
@@ -818,7 +818,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a creature other than a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or lose [[/damage 1d6 average]] HP at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 3 (1d6). Any creature can take an action to stanch the wound with a successful [[/check medicine 10 format=long]]. The wound also closes if the target receives magical healing, provided the target is capable of regaining HP.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature other than a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or lose [[/damage 1d6 average]] HP at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 3 (1d6). Any creature can take an action to stanch the wound with a successful [[/check medicine 10 format=long]]. The wound also closes if the target receives magical healing, provided the target is capable of regaining HP.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -980,7 +980,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil’s Beard Spines attack or suffering an infernal wound from the devil’s Glaive attack. The target must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn, as it doubles over in pain.</p>",
+          "value": "<p>The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil’s Beard Spines attack or suffering an infernal wound from the devil’s Glaive attack. The target must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as it doubles over in pain.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1360,7 +1360,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{poisoned} for 1 minute. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

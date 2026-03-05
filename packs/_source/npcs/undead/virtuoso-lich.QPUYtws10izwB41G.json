@@ -346,7 +346,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] fails a save, it can choose to succeed instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проваливает спасбросок, он может вместо этого считать его успешным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -615,7 +615,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -968,7 +968,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Beast or Humanoid"
+                "special": "Зверь или Гуманоид"
               },
               "override": false,
               "prompt": true
@@ -1057,7 +1057,7 @@
           "L8VZplUoUFbEunoY": {
             "type": "save",
             "_id": "L8VZplUoUFbEunoY",
-            "description": "<p>Цель должна быть изготовлена ​​[[/save format=long]]. В случае провала Существа становится &Reference[ослепленным]{blinded}, &Reference[очарованным]{charmed} или &Reference[оглушенным]{deafened} (выбор лица) до конца следующего хода. В случае успеха Существо получает половину урона и не становится недееспособным.</p>",
+            "description": "<p>Цель должна быть изготовлена ​​[[/save format=long]]. В случае провала Существа становится &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован} или &Reference[deafened]{оглохший} (выбор лица) до конца следующего хода. В случае успеха Существо получает половину урона и не становится недееспособным.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -1327,7 +1327,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p><p>To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an INT (Investigation) check against your spell save DC.</p>",
+          "value": "<p>Вы делаете себя — включая вашу одежду, доспехи, оружие и другие вещи на вас — выглядящим по-другому до окончания действия заклинания или пока вы не используете свое действие, чтобы прекратить его. Вы можете казаться на 1 фут короче или выше и можете выглядеть худым, толстым или чем-то средним. Вы не можете изменить свой тип тела, поэтому вы должны принять форму, имеющую то же базовое расположение конечностей. В остальном степень иллюзии зависит от вас. Изменения, вызванные этим заклинанием, не выдерживают физической [[/check INT (Investigation) dc=@spellcasting.dc]] проверки. Например, если вы используете это заклинание, чтобы добавить шляпу к своему наряду, предметы будут проходить сквозь шляпу, и любой, кто коснется ее, ничего не почувствует или почувствует вашу голову и волосы. Если вы используете это заклинание, чтобы казаться худее, чем вы есть, рука того, кто протянет руку, чтобы коснуться вас, наткнется на вас, пока она, казалось бы, все еще находится в воздухе. Чтобы распознать, что вы замаскированы, существо может использовать свое действие, чтобы осмотреть вашу внешность, и должно преуспеть в проверке ИНТ (Расследование) против Сл спасброска от вашего заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1471,7 +1471,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You conjure a ghostly hand which you control as an extension of your reach.</em></p><p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p><p>The hand can’t attack, activate magic items, or carry more than 10 pounds.</p>",
+          "value": "<p>Призрачная, парящая рука появляется в точке, выбранной вами в пределах дистанции. Рука существует на время действия заклинания или пока вы не прекратите ее действием. Рука исчезает, если она когда-либо оказывается дальше 30 футов от вас или если вы снова накладываете это заклинание. Вы можете использовать свое действие, чтобы управлять рукой. Вы можете использовать руку для манипулирования предметом, открытия незапертой двери или контейнера, убирания или извлечения предмета из открытого контейнера или выливания содержимого из флакона. Вы можете перемещать руку на расстояние до 30 футов каждый раз, когда используете ее. Рука не может атаковать, активировать магические предметы или нести более 10 фунтов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1614,7 +1614,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You open a clandestine, two-way communication with your target, known only to you two.</em></p><p>You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.</p><p>You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.</p>",
+          "value": "<p>Вы указываете пальцем на существо в пределах дистанции и шепчете сообщение. Цель (и только цель) слышит сообщение и может ответить шепотом, который слышите только вы. Вы можете наложить это заклинание сквозь твердые объекты, если вы знакомы с целью и знаете, что она находится за барьером. Магическая тишина, 1 фут камня, 1 дюйм обычного металла, тонкий лист свинца или 3 фута дерева блокируют заклинание. Заклинание не обязательно следует по прямой линии и может свободно перемещаться вокруг углов или сквозь отверстия.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1760,7 +1760,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You tap rudimentary magic to create a variety of helpful or irksome effects around you.</em></p><p>This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p><ul><li><p>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p></li><li><p>You instantaneously light or snuff out a candle, a torch, or a small campfire.</p></li><li><p>You instantaneously clean or soil an object no larger than 1 cubic foot.</p></li><li><p>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p></li><li><p>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p></li><li><p>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Опираясь на глубочайшие страхи группы существ, вы создаете иллюзорных существ в их разумах, видимых только им. Каждое существо в 30-футовой сфере с центром в точке по вашему выбору в пределах дистанции должно совершить спасбросок Мудрости [[/save]]. При проваленном спасброске существо становится напуганным вами на время действия заклинания. Иллюзия взывает к глубочайшим страхам существа, проявляя его худшие кошмары как неумолимую угрозу. В конце каждого хода напуганного существа оно должно преуспеть в спасброске Мудрости, иначе получит [[/damage]] психического урона. При успешном спасброске заклинание заканчивается для этого существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1926,7 +1926,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>You attempt to charm a creature that you can see within range. To be affected by this spell, the target must be able to understand at least one language, though it need not be a language you speak. The target must make a WIS save and does so with advantage if you or your companions are fighting it. On a failed save, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 2nd circle or higher, you can target one additional creature for each circle slot above 1st. The creatures must be within 30 feet of each other when you target them. In addition, if you cast this spell using a spell slot of 4th circle or higher, targeted creatures don’t need to understand any languages to be affected.</p>",
+          "value": "<p>Вы пытаетесь очаровать существо, которое вы можете видеть в пределах дистанции. Чтобы подвергнуться воздействию этого заклинания, цель должна быть способна понимать хотя бы один язык, хотя это не обязательно должен быть язык, на котором вы говорите. Цель должна совершить спасбросок Мудрости [[/save]], и делает это с преимуществом, если вы или ваши спутники сражаетесь с ней. При проваленном спасброске она очарована вами до окончания действия заклинания или до тех пор, пока вы или ваши спутники не сделаете ей что-либо вредное. Очарованное существо относится к вам как к дружелюбному знакомому. Когда заклинание заканчивается, существо знает, что было очаровано вами.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями. Кроме того, если вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, целям не нужно понимать ни одного языка, чтобы подвергнуться воздействию.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2141,7 +2141,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You ensorcel your target with uncontrollable laughter.</em></p><p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a WIS save or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an INT modifier of −4 or less isn’t affected.</p><p>At the end of each of its turns, and each time it takes damage, the target can make another WIS save. The target has advantage on the save if it’s triggered by damage. On a success, the spell ends.</p>",
+          "value": "<p>Существо по вашему выбору, которое вы можете видеть в пределах дистанции, воспринимает все как уморительно смешное и впадает в приступы смеха, если это заклинание на него действует. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе упадет ничком, станет недееспособной и не сможет встать на время действия заклинания. Существо с Интеллектом 3 (-4) или ниже не подвержено действию этого заклинания. &Reference[incapacitated] В конце каждого своего хода и каждый раз, когда оно получает урон, цель может совершить еще один спасбросок Мудрости, прекращая заклинание при успехе. Цель имеет преимущество на спасбросок, если он вызван уроном.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2319,7 +2319,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Medium or smaller creature that you can see within range. The target must succeed on a WIS save or be &Reference[paralyzed]{paralyzed} for the duration. At the end of each of its turns, an affected target can repeat the WIS save, ending the effect on itself on a success. This spell has no effect on Undead.</p><p><em>At Higher Circles</em>. When you cast this spell using a spell slot of 3rd circle or higher, you can target one additional creature for each slot above 2nd. The creatures must be within 30 feet of each other when you target them.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2493,7 +2493,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>With a touch, your target disappears from sight.</em></p><p>A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2662,7 +2662,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd circle or lower on the target ends. For each spell of 4th circle or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s circle. On a successful check, the spell ends.</p><p><em>At Higher Circles.</em> When you cast this spell using a spell slot of 4th circle or higher, you automatically end the effects of a spell on the target if the spell’s circle is equal to or less than the circle of the spell slot you used.</p>",
+          "value": "<p>Выберите одно существо, предмет или магический эффект в пределах дистанции. Любое заклинание 3-го круга или ниже на цели заканчивается. Для каждого заклинания 4-го круга или выше на цели совершите проверку характеристики, используя вашу заклинательную характеристику. Сл равна 10 + круг заклинания. При успешной проверке заклинание заканчивается.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 4-го круга или выше, вы автоматически прекращаете эффекты заклинания на цели, если круг заклинания равен или меньше круга использованной вами ячейки заклинания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2835,7 +2835,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a [[/save wisdom]] save or drop whatever it is holding and become frightened of you for the duration.</p><p>While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a WIS save, ending the effect on itself on a success.</p>",
+          "value": "<p>Вы проецируете призрачный образ худших страхов существа. Каждое существо в 30-футовом конусе должно преуспеть в спасброске Мудрости [[/save wisdom]], иначе уронит все, что держит, и станет напуганным вами на время действия заклинания. Будучи напуганным этим заклинанием, существо должно совершать действие Рывок и двигаться от вас по самому безопасному доступному маршруту в каждый свой ход, если только двигаться некуда. Если существо заканчивает свой ход в месте, где у него нет линии видимости до вас, существо может совершить спасбросок Мудрости, прекращая &Reference[frightened] эффект на себе в случае успеха.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3049,7 +3049,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as <q>200 feet straight downward</q> or <q>upward to the northwest at a 45-degree angle, 300 feet.</q></p><p>You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.</p><p>If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take [[/damage 4d6 force]] damage, and the spell fails to teleport you.</p>",
+          "value": "<p>Вы телепортируете себя из вашего текущего местоположения в любое другое место в пределах дистанции. Вы прибываете точно в желаемое место. Это может быть место, которое вы видите, которое вы можете визуализировать, или которое вы можете описать, указав расстояние и направление, например, «200 футов прямо вниз» или «вверх на северо-запад под углом 45 градусов, 300 футов». Вы можете взять с собой предметы, если их вес не превышает того, что вы можете нести. Вы также можете взять с собой одно согласное существо вашего размера или меньше, которое несет снаряжение до своей грузоподъемности. Существо должно находиться в пределах 5 футов от вас, когда вы накладываете это заклинание. Если вы прибыли бы в место, уже занятое объектом или существом, вы и любое существо, путешествующее с вами, получаете по [[/damage 4d6 force]] урона силовым полем, и заклинание не телепортирует вас.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3219,7 +3219,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a CHA save, and if it succeeds, it is unaffected by this spell.</p><p>The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can’t change a target’s body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature’s outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature’s head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p><p>A creature can use its action to inspect a target and make an INT (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.</p>",
+          "value": "<p>Это заклинание позволяет вам изменить внешний вид любого количества существ, которых вы можете видеть в пределах дистанции. Вы даете каждой выбранной вами цели новый, иллюзорный облик. Несогласная цель может совершить спасбросок Харизмы [[/save]], и если она преуспевает, она не подвергается воздействию этого заклинания. Заклинание маскирует физический облик, а также одежду, доспехи, оружие и снаряжение. Вы можете сделать каждое существо на 1 фут короче или выше и выглядеть худым, толстым или чем-то средним. Вы не можете изменить тип тела цели, поэтому вы должны выбрать форму, имеющую то же базовое расположение конечностей. В остальном степень иллюзии зависит от вас. Заклинание длится на время действия, если только вы не используете свое действие, чтобы прекратить его раньше. Изменения, вызванные этим заклинанием, не выдерживают физической [[/check INT (Investigation) dc=@spellcasting.dc]] проверки. Например, если вы используете это заклинание, чтобы добавить шляпу к наряду существа, предметы будут проходить сквозь шляпу, и любой, кто коснется ее, ничего не почувствует или почувствует голову и волосы существа. Если вы используете это заклинание, чтобы казаться худее, чем вы есть, рука того, кто протянет руку, чтобы коснуться вас, наткнется на вас, пока она, казалось бы, все еще находится в воздухе. Существо может использовать свое действие, чтобы осмотреть цель и совершить проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если оно преуспевает, оно осознает, что цель замаскирована.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3394,7 +3394,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be charmed are immune to this spell.</p><p>A dancing creature must use all its movement to dance without leaving its space and has disadvantage on DEX saves and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature can make a WIS save to regain control of itself. On a successful save, the spell ends.</p>",
+          "value": "<p>Выберите одно существо, которое вы можете видеть в пределах дистанции. Цель начинает комичный танец на месте: шаркает, отбивает ногами чечетку и скачет на время действия заклинания. Существа, которые не могут быть очарованы, иммунны к этому заклинанию. Танцующее существо должно использовать все свое движение для танца, не покидая своего пространства, и имеет помеху на спасброски Ловкости и броски атаки [[/save]]. Пока цель подвержена действию этого заклинания, другие существа имеют преимущество на броски атаки против нее. Действием танцующее существо может совершить спасбросок Мудрости, чтобы восстановить контроль над собой. При успешном спасброске заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3570,7 +3570,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.</p><p>When the condition you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the illusion can be activated again.</p><p>The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.</p>",
+          "value": "<p>Вы создаете иллюзию предмета, существа или другого видимого явления в пределах дистанции, которая активируется при наступлении определенного условия. Иллюзия незаметна до тех пор. Она должна быть не больше 30-футового куба, и вы решаете при накладывании заклинания, как иллюзия ведет себя и какие звуки издает. Это запрограммированное представление может длиться до 5 минут. Когда указанное вами условие наступает, иллюзия возникает и выполняет описанное вами действие. Как только иллюзия заканчивает свое представление, она исчезает и остается бездействующей в течение 10 минут. По истечении этого времени иллюзия может быть снова активирована. Условие срабатывания может быть общим или подробным, как вам угодно, хотя оно должно основываться на визуальных или звуковых условиях, происходящих в пределах 30 футов от области. Например, вы можете создать иллюзию себя, чтобы она появилась и отпугнула других, кто попытается открыть запертую дверь, или вы можете настроить иллюзию так, чтобы она срабатывала только тогда, когда существо произносит правильное слово или фразу. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив [[/check INT (Investigation)]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ, и любой шум, который он издает, звучит для существа глухо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -4137,7 +4137,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich unleashes the full force of its artistic talents on those nearby. Each creature with 15 feet of the lich must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage of the type chosen with the Versatile Artist trait and is knocked &Reference[prone]{prone}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>The lich unleashes the full force of its artistic talents on those nearby. Each creature with 15 feet of the lich must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage of the type chosen with the Versatile Artist trait and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4286,7 +4286,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] of the type chosen with the Versatile Artist trait plus [[/damage 2d8 force average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] of the type chosen with the Versatile Artist trait plus [[/damage 2d8 force average]] damage.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

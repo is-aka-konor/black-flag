@@ -271,7 +271,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {}
         },
         "identifier": {},
@@ -982,7 +982,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "Сохранение DEX от проглатывания",
+            "name": "Спасбросок ЛОВ против проглатывания",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1139,7 +1139,7 @@
               "recovery": [],
               "max": ""
             },
-            "name": "CON Охрана внутренних повреждений",
+            "name": "Спасбросок ТЕЛ от внутренних повреждений",
             "img": "",
             "flags": {},
             "visibility": {
@@ -1157,7 +1157,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is a Large or smaller creature, it must make a [[/save dexterity 19]] or be swallowed by the purple worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside of the worm, and it takes [[/damage 6d6 acid average]] damage at the start of each of the worm’s turns.</p><p>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a [[/save constitution 21]] save at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Large or smaller creature, it must make a [[/save dexterity 19]] or be swallowed by the purple worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside of the worm, and it takes [[/damage 6d6 acid average]] damage at the start of each of the worm’s turns.</p><p>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a [[/save constitution 21]] save at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</p>",
           "source": {}
         },
         "identifier": {
@@ -1427,7 +1427,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save constitution 19]] save, taking [[/damage 12d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save constitution 19]] save, taking [[/damage 12d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
           "source": {}
         },
         "identifier": {

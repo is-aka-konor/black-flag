@@ -494,7 +494,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -560,7 +560,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage, to exhaustion, and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, истощению и состоянию отравления.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -726,7 +726,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -753,7 +753,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Unless its unfinished business is fulfilled, a destroyed [[lookup @name lowercase]] returns in [[/r 1d4]] days, regaining all its HP and becoming active again within 10 feet of where it died. If presented with an object or piece of information related to its unfinished business, the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn. After it has been incapacitated by a particular source, the [[lookup @name lowercase]] can’t be incapacitated by that same source again for 24 hours. If presented with everything it needs to complete its unfinished business, the ghost permanently dies after completing it.</p>",
+          "value": "<p>Unless its unfinished business is fulfilled, a destroyed [[lookup @name lowercase]] returns in [[/r 1d4]] days, regaining all its HP and becoming active again within 10 feet of where it died. If presented with an object or piece of information related to its unfinished business, the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn. After it has been incapacitated by a particular source, the [[lookup @name lowercase]] can’t be incapacitated by that same source again for 24 hours. If presented with everything it needs to complete its unfinished business, the ghost permanently dies after completing it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1038,7 +1038,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]], depending on the type of object thrown. The [[lookup @name lowercase]] can throw only Small or smaller objects within range that aren’t being worn or carried.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], depending on the type of object thrown. The [[lookup @name lowercase]] can throw only Small or smaller objects within range that aren’t being worn or carried.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1222,7 +1222,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] speaks a haunting phrase, reveals the wounds from its death, or performs some other expression to scare creatures in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{frightened} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened. A creature that fails the save by 5 or more increases its age in years by 10 percent, rounded up. This aging can be reversed with a <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration}</em> spell or similar magic, but only within 24 hours of the aging occurring.</p>",
+          "value": "<p>The [[lookup @name lowercase]] speaks a haunting phrase, reveals the wounds from its death, or performs some other expression to scare creatures in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{испуган} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened. A creature that fails the save by 5 or more increases its age in years by 10 percent, rounded up. This aging can be reversed with a <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration}</em> spell or similar magic, but only within 24 hours of the aging occurring.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1498,7 +1498,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

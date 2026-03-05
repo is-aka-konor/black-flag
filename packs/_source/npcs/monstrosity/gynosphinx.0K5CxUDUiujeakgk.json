@@ -423,7 +423,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to exhaustion and to the frightened condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к истощению и состоянию испуга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -690,7 +690,7 @@
               "affects": {
                 "choice": false,
                 "type": "special",
-                "special": "Self"
+                "special": "На себя"
               },
               "override": false,
               "prompt": true
@@ -983,7 +983,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a [[/save format=long]] or be &Reference[incapacitated]{incapacitated} until the end of its next turn, as it reels from the psychic onslaught.</p>",
+          "value": "<p>The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as it reels from the psychic onslaught.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1387,7 +1387,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+          "value": "<p>На время действия заклинания вы ощущаете присутствие магии в пределах 30 футов от вас. Если вы ощущаете магию таким образом, вы можете использовать свое действие, чтобы увидеть слабую ауру вокруг любого видимого существа или объекта в области, который несет магию, и вы узнаете его школу магии, если таковая имеется. Заклинание может проникать сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла, тонким листом свинца или 3 футами дерева или земли.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1572,7 +1572,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.</p><p>If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p><p>If you create an image of an object, such as a chair, muddy footprints, or a small chest, it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect.</p><p>Physical interaction with the image reveals it to be an illusion because things can pass through it.</p><p>If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful [[/check INT (Investigation)]] check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>",
+          "value": "<p>Вы создаете звук или образ предмета в пределах дистанции, который длится на время действия заклинания. Иллюзия также заканчивается, если вы прекращаете ее действием или снова накладываете это заклинание. Если вы создаете звук, его громкость может варьироваться от шепота до крика. Это может быть ваш голос, чей-то другой голос, рык льва, бой барабанов или любой другой звук по вашему выбору. Звук продолжается непрерывно в течение всей длительности, или вы можете издавать дискретные звуки в разное время до окончания действия заклинания. Если вы создаете образ предмета, такого как стул, грязные следы или маленький сундук, он должен быть не больше 5-футового куба. Образ не может создавать звук, свет, запах или любой другой сенсорный эффект. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Если существо использует свое действие для изучения звука или образа, существо может определить, что это иллюзия, успешно совершив [[/check INT (Investigation)]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, иллюзия становится слабой для существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1717,7 +1717,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>This spell is a minor trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p><ul><li><p>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p></li><li><p>You instantaneously light or snuff out a candle, a torch, or a small campfire.</p></li><li><p>You instantaneously clean or soil an object no larger than 1 cubic foot.</p></li><li><p>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p></li><li><p>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p></li><li><p>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Опираясь на глубочайшие страхи группы существ, вы создаете иллюзорных существ в их разумах, видимых только им. Каждое существо в 30-футовой сфере с центром в точке по вашему выбору в пределах дистанции должно совершить спасбросок Мудрости [[/save]]. При проваленном спасброске существо становится напуганным вами на время действия заклинания. Иллюзия взывает к глубочайшим страхам существа, проявляя его худшие кошмары как неумолимую угрозу. В конце каждого хода напуганного существа оно должно преуспеть в спасброске Мудрости, иначе получит [[/damage]] психического урона. При успешном спасброске заклинание заканчивается для этого существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1879,7 +1879,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:</p><ul><li><p><em>Weal</em>, for good results</p></li><li><p><em>Woe</em>, for bad results</p></li><li><p><em>Weal and woe</em>, for both good and bad results</p></li><li><p><em>Nothing</em>, for results that aren’t especially good or bad</p></li></ul><p>The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.</p><p>If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret.</p>",
+          "value": "<p>Связаться с вашим божеством или божественным посредником. Задать один вопрос о конкретной цели или событии в течение 7 дней, или задать до трех вопросов да/нет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2042,7 +2042,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You conjure a convincing, intricate illusion that functions at your mental command.</em></p><p>You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).</p><p>As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.</p>",
+          "value": "<p>Вы создаете образ предмета, существа или другого видимого явления размером не более 20-футового куба. Образ появляется в месте, которое вы можете видеть в пределах дистанции, и существует на время действия заклинания. Он кажется совершенно реальным, включая звуки, запахи и температуру, соответствующие изображаемой вещи. Вы не можете создать достаточного тепла или холода, чтобы причинить урон, звук достаточно громкий, чтобы нанести урон звуком или оглушить существо, или запах, который мог бы вызвать тошноту у существа (например, зловоние троглодита). Пока вы находитесь в пределах дистанции иллюзии, вы можете использовать свое действие, чтобы переместить образ в любое другое место в пределах дистанции. По мере изменения местоположения образа вы можете изменять его внешний вид так, чтобы его движения казались естественными для образа. Например, если вы создаете образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идет. Аналогично, вы можете заставить иллюзию издавать разные звуки в разное время, даже заставить ее вести беседу, например. Физическое взаимодействие с образом раскрывает его как иллюзию, потому что предметы могут проходить сквозь него. Существо, которое использует свое действие для изучения образа, может определить, что это иллюзия, успешно совершив [[/check INT (Investigation) dc=@spellcasting.dc]] проверку ИНТ (Расследование) против Сл спасброска от вашего заклинания. Если существо распознает иллюзию как таковую, существо может видеть сквозь образ, и его другие сенсорные качества становятся слабыми для существа.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга или выше, заклинание длится до развеивания, не требуя вашей концентрации.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2277,7 +2277,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You lace your honeyed words with an undercurrent of compulsion.</em></p><p>You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.</p><p>The target must make a WIS save. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.</p><p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t performed.</p><p>If you or any of your companions damage the target, the spell ends.</p>",
+          "value": "<p>Вы предлагаете курс действий (ограниченный одним или двумя предложениями) и магически влияете на существо, которое вы можете видеть в пределах дистанции, которое может слышать и понимать вас. Существа, которые не могут быть очарованы, иммунны к этому эффекту. Предложение должно быть сформулировано таким образом, чтобы курс действий звучал разумно. Просьба к существу ударить себя ножом, сжечь себя или совершить какое-либо другое очевидно вредное действие прекращает заклинание. Цель должна совершить спасбросок Мудрости [[/save]]. При проваленном спасброске она следует предложенному вами курсу действий наилучшим образом. Предложенный курс действий может продолжаться в течение всей длительности. Если предложенная деятельность может быть завершена за более короткое время, заклинание заканчивается, когда субъект заканчивает то, что его просили сделать. Вы также можете указать условия, которые вызовут специальную деятельность в течение длительности. Например, вы можете предложить рыцарю отдать своего боевого коня первому встречному нищему. Если условие не выполнено до истечения срока действия заклинания, деятельность не выполняется. Если вы или любой из ваших спутников наносите урон цели, заклинание заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2449,7 +2449,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>Your target gains the ability to speak and listen with universal understanding.</em></p><p>This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.</p>",
+          "value": "<p>Это заклинание дает существу, которого вы касаетесь, способность понимать любой разговорный язык, который оно слышит. Более того, когда цель говорит, любое существо, знающее хотя бы один язык и способное слышать цель, понимает, что она говорит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2684,7 +2684,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.</p><p>The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt an INT (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is sees it as a vague image superimposed on the terrain.</p>",
+          "value": "<p>Заставить природный рельеф выглядеть, звучать и пахнуть как другой вид природного рельефа. Иллюзия включает звуковые, визуальные, тактильные и обонятельные элементы. [[/check INT (investigation) dc=@spellcasting.dc]]</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2739,7 +2739,7 @@
           "affects": {
             "choice": false,
             "type": "special",
-            "special": "Area"
+            "special": "Область"
           }
         },
         "school": "illusion"
@@ -2887,7 +2887,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3059,7 +3059,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]], дистанция/досягаемость [[lookup @labels.range]], одна цель. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

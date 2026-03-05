@@ -253,7 +253,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and frightened conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к состояниям очарования и испуга.</p>",
           "source": {}
         },
         "identifier": {},
@@ -719,7 +719,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]]. If the target is paralyzed, prone, stunned, or unconscious, it takes an extra [[/damage 1d4 slashing average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. If the target is paralyzed, prone, stunned, or unconscious, it takes an extra [[/damage 1d4 slashing average]] damage.</p>",
           "source": {}
         },
         "type": {
@@ -992,7 +992,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You cause bright light to spring forth from whatever you touch.</em></p><p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p><p>If you target an object held or worn by a hostile creature, that creature must succeed on a DEX save to avoid the spell.</p>",
+          "value": "<p>Вы касаетесь одного предмета размером не более 10 футов в любом измерении. До окончания действия заклинания предмет излучает яркий свет в радиусе 20 футов и тусклый свет на дополнительные 20 футов. Свет может быть любого цвета по вашему желанию. Полное накрытие предмета чем-то непрозрачным блокирует свет. Заклинание заканчивается, если вы накладываете его снова или прекращаете его действием. Если вы выбираете целью предмет, который держит или носит враждебное существо, это существо должно преуспеть в спасброске Ловкости [[/save DEX dc=@spellcasting.dc]], чтобы избежать заклинания.</p>",
           "source": {}
         },
         "casting": {
@@ -1135,7 +1135,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>You display divine power through a bevy of parlor tricks and small miracles.</em></p><p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p><ul><li><p>Your voice booms up to three times as loud as normal for 1 minute.</p></li><li><p>You cause flames to flicker, brighten, dim, or change color for 1 minute.</p></li><li><p>You cause harmless tremors in the ground for 1 minute.</p></li><li><p>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p></li><li><p>You instantaneously cause an unlocked door or window to fly open or slam shut.</p></li><li><p>You alter the appearance of your eyes for 1 minute.</p></li></ul><p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>",
+          "value": "<p>Вы проявляете малое чудо, знак сверхъестественной силы, в пределах дистанции. Вы создаете один из следующих магических эффектов в пределах дистанции:</p><blockquote><p>- Ваш голос гремит в три раза громче обычного в течение 1 минуты.</p><p>- Вы заставляете пламя мерцать, разгораться, тускнеть или менять цвет в течение 1 минуты.</p><p>- Вы вызываете безвредные толчки в земле в течение 1 минуты.</p><p>- Вы создаете мгновенный звук, исходящий из точки по вашему выбору в пределах дистанции, такой как раскат грома, крик ворона или зловещий шепот.</p><p>- Вы мгновенно заставляете незапертую дверь или окно распахнуться или захлопнуться.</p><p>- Вы изменяете внешний вид своих глаз на 1 минуту.</p></blockquote><p>Если вы накладываете это заклинание несколько раз, вы можете иметь до трех его 1-минутных эффектов активными одновременно, и вы можете прекратить такой эффект действием.</p>",
           "source": {}
         },
         "casting": {
@@ -1297,7 +1297,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>You empower your spoken word with divine authority that few can resist.</em></p><p>You speak a one-word command to a creature you can see within range. The target must succeed on a WIS save or follow the command on its next turn. The spell has no effect if the target is Undead, if it doesn’t understand your language, or if your command is directly harmful to it.</p><p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can’t follow your command, the spell ends.</p><p><em><strong>Approach.</strong></em> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p><p><em><strong>Drop.</strong></em> The target drops whatever it is holding and then ends its turn.</p><p><em><strong>Flee.</strong></em> The target spends its turn moving away from you by the fastest available means.</p><p><em><strong>Grovel.</strong></em> The target falls prone and then ends its turn.</p><p><em><strong>Halt.</strong></em> The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.</p>",
+          "value": "<p>Вы произносите команду из одного слова существу, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе выполнит команду в начале своего следующего хода. Заклинание не действует, если цель — Нежить, если она не понимает ваш язык, или если ваша команда напрямую вредна для нее. Некоторые типичные команды и их эффекты приведены ниже. Вы можете отдать команду, отличную от описанных здесь. Если вы это сделаете, Мастер определяет, как поведет себя цель. Если цель не может выполнить вашу команду, заклинание заканчивается.</p><blockquote><p>- <strong>Приблизься:</strong> Цель движется к вам по кратчайшему и самому прямому маршруту, заканчивая свой ход, если оказывается в пределах 5 футов от вас.</p><p>- <strong>Брось:</strong> Цель роняет все, что держит, а затем заканчивает свой ход.</p><p>- <strong>Беги:</strong> Цель тратит свой ход, двигаясь от вас самым быстрым доступным способом.</p><p>- <strong>Пади ниц:</strong> Цель падает ничком, а затем заканчивает свой ход.</p><p>- <strong>Стой:</strong> Цель не движется и не предпринимает никаких действий. Летающее существо остается в воздухе, при условии, что оно способно это делать. Если ему нужно двигаться, чтобы оставаться в воздухе, оно пролетает минимальное расстояние, необходимое для удержания в воздухе.</p></blockquote><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, вы можете воздействовать на одно дополнительное существо за каждый круг ячейки выше 1-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {}
         },
         "casting": {
@@ -1482,7 +1482,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p><em>Your pale, sickly hand threatens grievous harm upon whomever you touch.</em></p><p>Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.</p>",
+          "value": "<p>Совершите рукопашную атаку заклинанием по существу в пределах вашей досягаемости. При попадании цель получает [[/damage]] урона некротической энергией.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, урон увеличивается на [[/r 1d10]] за каждый круг ячейки выше 1-го.</p>",
           "source": {}
         },
         "casting": {
@@ -1644,7 +1644,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p><em>You paralyze your target where they stand.</em></p><p>Choose a Humanoid that you can see within range. The target must succeed on a WIS save or be paralyzed for the duration. At the end of each of its turns, the target can make another WIS save. On a success, the spell ends on the target.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {}
         },
         "casting": {
@@ -1842,7 +1842,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack extended]]. [[/damage extended]] (the fanatic’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (the fanatic’s choice).</p>",
           "source": {}
         },
         "identifier": {
