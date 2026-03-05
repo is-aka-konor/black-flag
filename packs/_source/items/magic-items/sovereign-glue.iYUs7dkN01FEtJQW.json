@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This viscous, milky-white substance can form a permanent bond between any two objects. It must be stored in a jar or flask that has been coated inside with <em>oil of slipperiness</em>. When found, a container contains [[/r 1d6 + 1]] ounces.</p><p>One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of <em>universal solvent</em> or <em>oil of etherealness</em>, or with a <em>@UUID[Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6]{wish}</em> spell.</p>",
+      "value": "<p>Это вязкое молочно-белое вещество образует постоянное сцепление между любыми двумя объектами. Его нужно хранить в банке или фляге, покрытой изнутри <em>маслом скольжения</em>. При обнаружении контейнер содержит [[/r 1d6 + 1]] унций.</p><p>Одной унции клея хватает на поверхность площадью 1 квадратный фут. Клей схватывается за 1 минуту. После застывания созданная им связь может быть разрушена только при помощи <em>универсального растворителя</em>, <em>масла бесплотности</em> или заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6]{Желание}</em>.</p>",
       "source": {
         "fallback": ""
       }

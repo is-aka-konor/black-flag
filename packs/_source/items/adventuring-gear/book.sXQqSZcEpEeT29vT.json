@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a field of lore, diagrams, notes on contraptions, or just about anything that can be represented using text or pictures. A @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{spellbook} is a separate item described later in this section.</p>",
+      "value": "<p>Книга может содержать стихи, исторические записи, сведения по определённой области знаний, схемы, заметки о механизмах или вообще всё, что можно передать текстом и изображениями. @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{Книга заклинаний} — отдельный предмет, описанный далее в этом разделе.</p>",
       "source": {}
     },
     "type": {

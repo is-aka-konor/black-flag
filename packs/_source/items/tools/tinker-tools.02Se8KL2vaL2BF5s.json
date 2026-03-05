@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Tinker tools are used to construct mechanical or clockwork devices, repair damaged devices, or determine how to use unfamiliar mechanical or clockwork systems.</p><p><em><strong>Associated Abilities:</strong></em> DEX, INT.</p><p><em><strong>Components.</strong></em> This tool kit includes an array of hand tools, an array of files, pliers, tweezers, etching styluses, threads, needles, cloth and leather scraps, glue, loose cogs and pins, and a few sheets of thinly hammered metal.</p><p><em><strong>Craft Items.</strong></em> Tinker tools can be used to make items with the crafting downtime activity.</p>",
+      "value": "<p>Инструменты мастера-умельца используются для создания механических и часовых устройств, ремонта повреждённых механизмов и понимания принципов работы незнакомых механических систем.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ИНТ.</p><p><em><strong>Состав.</strong></em> В комплект входят ручные инструменты, набор напильников, плоскогубцы, пинцеты, гравировальные стилусы, нити, иглы, обрезки ткани и кожи, клей, отдельные шестерёнки и штифты, а также несколько листов тонко кованого металла.</p><p><em><strong>Создание предметов.</strong></em> Инструменты мастера-умельца можно использовать для изготовления предметов через деятельность простоя по ремеслу.</p>",
       "source": {}
     },
     "type": {

@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Вархаммер",
+  "name": "Боевой молот",
   "type": "weapon",
   "_id": "E7IJC52xWk7Utk4p",
   "img": "icons/weapons/hammers/hammer-war-rounding.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]]. При использовании двумя руками: [[/damage versatile average]] дробящего урона.</p>",
       "source": {}
     },
     "type": {

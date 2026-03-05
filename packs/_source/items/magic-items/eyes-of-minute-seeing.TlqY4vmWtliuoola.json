@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>These crystal lenses fit over the eyes. While wearing them, you can see much better than normal to a range of 1 foot. You have advantage on INT (Investigation) checks that rely on sight while searching an area or studying an object within that range.</p>",
+      "value": "<p>Эти кристальные линзы надеваются на глаза. Пока вы их носите, вы видите значительно лучше обычного на дистанции до 1 фута. Вы получаете преимущество на проверки ИНТ (Анализ), зависящие от зрения, при обыске области или изучении объекта в этой дистанции.</p>",
       "source": {
         "fallback": ""
       }
@@ -63,11 +63,11 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"intelligence\" }, { \"k\": \"skill\", \"v\": \"investigation\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on INT (Investigation) checks that rely on sight while searching an area or studying an object within that range.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"intelligence\"},{\"k\":\"skill\",\"v\":\"investigation\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на проверки ИНТ (Анализ), зависящие от зрения, при обыске области или изучении объекта в этой дистанции.\"}}]",
           "priority": null
         }
       ],
-      "description": "<p>Вы имеете преимущество в проверках INT (расследование), которые полагаются на зрение при обыске области или изучаемом объекте в этом отношении.</p>",
+      "description": "<p>Вы совершаете с преимуществом проверки ИНТ (Расследование), основанные на зрении, когда осматриваете местность или изучаете предмет.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],

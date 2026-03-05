@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This marble statuette is about 4 inches high and long. It can become an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.Eq0kPFHAIxVCsRHO]{elephant}</strong> for up to 24 hours. Once it has been used, it can’t be used again until 7 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Эта мраморная статуэтка имеет около 4 дюймов в высоту и длину. Она может превращаться в <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.Eq0kPFHAIxVCsRHO]{Слона}</strong> на срок до 24 часов. После использования фигурку нельзя применять снова, пока не пройдёт 7 дней.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

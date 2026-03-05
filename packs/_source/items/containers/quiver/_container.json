@@ -20,7 +20,7 @@
     },
     "properties": [],
     "description": {
-      "value": "<p>A quiver can hold up to 20 arrows or 20 crossbow bolts.</p>",
+      "value": "<p>Колчан вмещает до 20 стрел или 20 арбалетных болтов.</p>",
       "source": {}
     },
     "capacity": {

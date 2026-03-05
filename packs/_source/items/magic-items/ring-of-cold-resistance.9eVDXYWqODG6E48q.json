@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to cold damage while wearing this ring. The tourmaline in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление урону холодом. Турмалин в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

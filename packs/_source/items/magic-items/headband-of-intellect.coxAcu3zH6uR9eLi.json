@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>Your INT score is 19 while you wear this headband. It has no effect on you if your INT is already 19 or higher.</p>",
+      "value": "<p>Ваш показатель ИНТ равен 19, пока вы носите этот обруч. Если ваш ИНТ уже 19 или выше, предмет не оказывает на вас эффекта.</p>",
       "source": {
         "fallback": ""
       }

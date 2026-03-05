@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This bronze statuette is of a griffon rampant. It can become a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.b6WyT2uZ2s0hH5EQ]{griffon}</strong> for up to 6 hours. Once it reverts, it can’t be used again until 5 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Эта бронзовая статуэтка изображает вставшего на дыбы грифона. Она может превращаться в <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.b6WyT2uZ2s0hH5EQ]{Грифона}</strong> на срок до 6 часов. После обратного превращения фигурку нельзя использовать снова, пока не пройдёт 5 дней.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

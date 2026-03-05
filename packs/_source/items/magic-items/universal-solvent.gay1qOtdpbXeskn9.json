@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This tube holds milky liquid with a strong alcohol smell. You can use an action to pour its contents onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including <em>sovereign glue</em>.</p>",
+      "value": "<p>Эта трубка содержит молочную жидкость с сильным запахом спирта. Действием вы можете вылить содержимое на поверхность в пределах досягаемости. Жидкость мгновенно растворяет до 1 квадратного фута любого клея, которого касается, включая <em>верховный клей</em>.</p>",
       "source": {
         "fallback": ""
       }

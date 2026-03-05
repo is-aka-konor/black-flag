@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This cube is about 1 inch across. Each face has a distinct marking that can be pressed. The <em>cube</em> starts with 36 charges.</p><p>You can use an action to press one of the <em>cube’s</em> faces, expending a number of charges based on the chosen face, as shown in the <strong>Cube of Force Faces</strong> table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens.</p><p>Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the <em>cube’s</em> sixth face, or the cube runs out of charges.</p><p>You can change the barrier’s effect by pressing a different cube face and expending the requisite number of charges, resetting the duration. When you press a different face, the current face effect ends.</p><p>If your movement causes the barrier to come into contact with a solid object that can’t pass through the cube, you can’t move any closer to that object as long as the barrier remains.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n795DRDU2fTosLnC inline]</p><p>The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown on the <strong>Cube of Force Charge Loss</strong> table.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n4A5EENHroAmqP8E inline]</p><p>The <em>cube</em> regains [[/r 1d20]] expended charges daily at dawn.</p>",
+      "value": "<p>Этот куб примерно 1 дюйм в поперечнике. На каждой его грани есть отдельная метка, которую можно нажимать. <em>Куб</em> начинает с 36 зарядов.</p><p>Действием вы можете нажать одну из граней <em>куба</em>, тратя число зарядов в зависимости от выбранной грани, как указано в таблице <strong>Грани куба силы</strong>. У каждой грани свой эффект. Если оставшихся зарядов недостаточно, ничего не происходит.</p><p>Иначе возникает барьер невидимой силы в форме куба со стороной 15 футов. Барьер центрирован на вас, движется вместе с вами и длится 1 минуту, пока вы действием не нажмёте шестую грань <em>куба</em> или пока у куба не закончатся заряды.</p><p>Вы можете изменять эффект барьера, нажимая другую грань куба и расходуя нужное число зарядов, при этом длительность обновляется. При нажатии другой грани текущий эффект грани заканчивается.</p><p>Если ваше перемещение приводит к контакту барьера с твёрдым объектом, который не может пройти сквозь куб, вы не можете приблизиться к этому объекту, пока барьер существует.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n795DRDU2fTosLnC inline]</p><p>Куб теряет заряды, когда барьер становится целью определённых заклинаний или соприкасается с определёнными эффектами заклинаний/магических предметов, как указано в таблице <strong>Потеря зарядов куба силы</strong>.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.n4A5EENHroAmqP8E inline]</p><p><em>Куб</em> ежедневно восстанавливает [[/r 1d20]] потраченных зарядов на рассвете.</p>",
       "source": {}
     },
     "activities": {
@@ -480,7 +480,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When the barrier is targeted by Disintegrate"
+          "condition": "Когда барьер становится целью заклинания «Дезинтеграция»"
         },
         "consumption": {
           "targets": [
@@ -543,7 +543,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When the barrier is targeted by a Horn of Blasting"
+          "condition": "Когда барьер становится целью Рога сокрушения"
         },
         "consumption": {
           "targets": [
@@ -607,7 +607,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When the barrier is targeted by Passwall"
+          "condition": "Когда барьер становится целью заклинания «Проход сквозь стену»"
         },
         "consumption": {
           "targets": [
@@ -671,7 +671,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When the barrier is targeted by Prismatic Spray"
+          "condition": "Когда барьер становится целью заклинания «Радужные брызги»"
         },
         "consumption": {
           "targets": [
@@ -735,7 +735,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When the barrier is targeted by Wall of Fire"
+          "condition": "Когда барьер становится целью заклинания «Огненная стена»"
         },
         "consumption": {
           "targets": [

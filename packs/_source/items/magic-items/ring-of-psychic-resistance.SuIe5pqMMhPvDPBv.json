@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to psychic damage while wearing this ring. The jade in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление психическому урону. Нефрит в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This onyx statuette of a dog can become a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.ck0kqumkVqWznctK]{mastiff}</strong> for up to 6 hours. The mastiff has an INT of −1 and can speak Common. It also has darkvision to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can’t be used again until 7 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Эта ониксовая статуэтка пса может превращаться в <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.ck0kqumkVqWznctK]{Мастифа}</strong> на срок до 6 часов. У мастифа ИНТ равен −1, и он может говорить на Всеобщем. Также у него есть тёмное зрение в пределах 60 футов, и в этом же радиусе он видит невидимых существ и предметы. После использования фигурку нельзя применять снова, пока не пройдёт 7 дней.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

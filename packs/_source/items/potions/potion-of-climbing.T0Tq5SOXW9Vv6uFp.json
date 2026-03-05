@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on STR (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, на 1 час вы получаете скорость лазания, равную вашей скорости ходьбы. В это время вы получаете преимущество на проверки СИЛ (Атлетика), связанные с лазанием. Зелье разделено на коричневый, серебристый и серый слои, похожие на полосы камня.</p>",
       "source": {
         "fallback": ""
       }
@@ -130,7 +130,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"strength\" }, { \"k\": \"skill\", \"v\": \"athletics\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on STR (Athletics) checks you make to climb.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"strength\"},{\"k\":\"skill\",\"v\":\"athletics\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на проверки СИЛ (Атлетика), совершаемые для лазания.\"}}]",
           "priority": null
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "name": "Военный выбор",
+  "name": "Клевец",
   "type": "weapon",
   "_id": "EcuWrcnF6FY79arQ",
   "img": "icons/weapons/axes/pickaxe-iron-green.webp",
@@ -58,7 +58,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "attunement": {

@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound. While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.xovBE0pXygwryVLa]{air elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell. The censer can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Этот сосуд шириной 6 дюймов и высотой 1 фут напоминает кубок с украшенной крышкой. Он весит 1 фунт. Пока в кадильнице тлеют благовония, вы можете действием произнести её командное слово и призвать <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.xovBE0pXygwryVLa]{Элементаль воздуха}</strong>, как если бы вы наложили <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{Вызов элементаля}</em>. Это свойство кадильницы нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "activities": {

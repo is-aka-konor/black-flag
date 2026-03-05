@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons. While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.pnMVYeOXRmIXdm2z]{water elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell. The bowl can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Диаметр этой чаши около 1 фута, а глубина вдвое меньше. Она весит 3 фунта и вмещает примерно 3 галлона. Пока чаша наполнена водой, вы можете действием произнести её командное слово и призвать <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.pnMVYeOXRmIXdm2z]{Элементаль воды}</strong>, как если бы вы наложили <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{Вызов элементаля}</em>. Это свойство чаши нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "activities": {

@@ -15,7 +15,7 @@
       "requirement": "от заклинателя"
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. The target must succeed on a [[/save 15 CON]] or be paralyzed for 1 minute. At the end of each of the target’s turns, it can repeat the save, ending the effect on itself on a success.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
+      "value": "<p>У этой палочки 7 зарядов. Пока вы держите её, действием вы можете потратить 1 заряд, чтобы выпустить с тонкого наконечника синий луч в существо в пределах 60 футов, которое вы видите. Цель должна преуспеть в [[/save 15 CON]], иначе будет парализована на 1 минуту. В конце каждого своего хода цель может повторять этот спасбросок, прекращая эффект при успехе.</p><p>Палочка ежедневно восстанавливает [[/r 1d6 + 1]] потраченных зарядов на рассвете. Если вы тратите последний заряд палочки, бросьте d20. При 1 палочка рассыпается в пепел и уничтожается.</p>",
       "source": {
         "fallback": ""
       }

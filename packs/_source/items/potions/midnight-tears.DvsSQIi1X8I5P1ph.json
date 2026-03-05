@@ -85,7 +85,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A creature who ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a [[/save]] save, taking [[/damage average]] damage on a failure or half as much damage on a success.</p>",
+      "value": "<p>Существо, проглотившее этот яд, не испытывает эффекта до наступления полуночи. Если к этому моменту яд не нейтрализован, существо должно пройти [[/save]] спасбросок, иначе получает [[/damage average]] урона; при успехе — половину этого урона.</p>",
       "source": {}
     },
     "attunement": {},

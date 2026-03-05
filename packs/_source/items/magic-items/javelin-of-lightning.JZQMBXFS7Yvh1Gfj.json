@@ -136,7 +136,7 @@
             "choice": false,
             "type": "creature",
             "count": "",
-            "special": "Not including target"
+            "special": "Не включая цель"
           },
           "prompt": true,
           "override": false
@@ -177,7 +177,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends from you to a target within 120 feet. Each creature in the line excluding you and the target must make a [[/save 13 DEX]], taking [[/damage 4d6 lightning]] on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus [[/damage 4d6 lightning]].</p><p>The javelin’s property can’t be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.</p>",
+      "value": "<p>Это копьё — магическое оружие. Когда вы метаете его и произносите командное слово, оно превращается в разряд молнии, образующий линию шириной 5 футов от вас до цели в пределах 120 футов. Каждое существо в линии, кроме вас и цели, должно совершить [[/save 13 DEX]], получая [[/damage 4d6 lightning]] при провале и половину этого урона при успехе. Когда разряд достигает цели, он снова превращается в копьё. Совершите дальнобойную атаку оружием по цели. При попадании цель получает урон копья плюс [[/damage 4d6 lightning]].</p><p>Это свойство копья нельзя использовать снова до следующего рассвета. До этого копьё всё равно можно использовать как магическое оружие.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

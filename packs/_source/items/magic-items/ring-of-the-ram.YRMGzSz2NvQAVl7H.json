@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This ring has 3 charges and regains [[/r 1d3]] expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to make a ranged spell attack against one creature or object that isn’t being carried within 60 feet of you. The ring produces a spectral ram’s head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes [[/damage 2d10 force]] and is pushed 5 feet away from you.</p>",
+      "value": "<p>У этого кольца 3 заряда, и оно ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете. Пока вы носите кольцо, действием вы можете потратить от 1 до 3 зарядов, чтобы совершить дальнобойную атаку заклинанием по одному существу или предмету в пределах 60 футов, если предмет никто не несёт и не держит. Кольцо создаёт призрачную голову барана и совершает атаку с бонусом +7. При попадании за каждый потраченный заряд цель получает [[/damage 2d10 force]] и отталкивается от вас на 5 футов.</p>",
       "source": {
         "fallback": ""
       }

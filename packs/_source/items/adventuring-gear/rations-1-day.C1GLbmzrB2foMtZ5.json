@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts. One unit of rations is enough to feed one Medium or smaller creature for one day.</p>",
+      "value": "<p>Рационы состоят из сухой пищи, подходящей для длительных путешествий: вяленого мяса, сушёных фруктов, сухарей и орехов. Одного рациона хватает, чтобы прокормить одно Среднее или меньшее существо в течение дня.</p>",
       "source": {}
     },
     "type": {

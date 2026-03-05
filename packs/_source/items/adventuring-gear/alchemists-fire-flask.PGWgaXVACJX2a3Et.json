@@ -74,7 +74,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist’s fire as an improvised weapon. On a hit, the target takes [[/damage 1d4]] fire damage at the start of each of its turns. A creature can end this damage by using its action to make a [[/check dexterity 10]] check to extinguish the flames.</p>",
+      "value": "<p>Эта липкая клейкая жидкость воспламеняется при контакте с воздухом. Действием вы можете бросить эту флягу на расстояние до 20 футов, разбив её при попадании. Совершите дальнобойную атаку по существу или объекту, считая алхимический огонь импровизированным оружием. При попадании цель получает [[/damage 1d4]] урона огнём в начале каждого своего хода. Существо может прекратить этот урон, потратив действие на проверку [[/check dexterity 10]] для тушения пламени.</p>",
       "source": {}
     },
     "type": {

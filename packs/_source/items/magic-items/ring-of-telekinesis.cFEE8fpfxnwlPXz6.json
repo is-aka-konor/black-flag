@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX]{telekinesis}</em> spell, but you can target only objects that aren’t being worn or carried.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы можете накладывать заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.jlDdoNUWTP3Gc1rX]{Телекинез}</em>, но целью могут быть только объекты, которые никто не носит и не держит.</p>",
       "source": {
         "fallback": ""
       }

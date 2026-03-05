@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 13). The potion’s dense, purple liquid has an ovoid cloud of pink floating in it.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, вы получаете эффект заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{Обнаружение мыслей}</em> (СЛ спасброска 13). В густой фиолетовой жидкости плавает розовое овальное облачко.</p>",
       "source": {
         "fallback": ""
       }

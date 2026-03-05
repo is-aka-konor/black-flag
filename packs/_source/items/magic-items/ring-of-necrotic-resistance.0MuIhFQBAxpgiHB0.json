@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to necrotic damage while wearing this ring. The jet in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление некротическому урону. Гагат в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

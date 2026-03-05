@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A key is provided with the lock. Without the key, a creature proficient with thieves’ tools can pick this lock with a successful [[/tool dexterity thievesTools 15]] check. Your GM may decide that better locks are available for higher prices.</p>",
+      "value": "<p>Замок поставляется с ключом. Без ключа существо, владеющее воровскими инструментами, может вскрыть его успешной проверкой [[/tool dexterity thievesTools 15]]. Мастер может решить, что за более высокую цену доступны более качественные замки.</p>",
       "source": {}
     },
     "type": {

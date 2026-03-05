@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This silver statuette of a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.ofeQtVfgvGIk6L0e]{raven}</strong> can become a raven for up to 12 hours. While in raven form, the figurine allows you to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.YbQt9YCQ8iiG78nm]{animal messenger}</em> spell on it as an action. Once it has been used, it can’t be used again until 2 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Эта серебряная статуэтка <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.ofeQtVfgvGIk6L0e]{Ворона}</strong> может превращаться в ворона на срок до 12 часов. Находясь в форме ворона, фигурка позволяет вам действием наложить на него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.YbQt9YCQ8iiG78nm]{Посланец зверей}</em>. После использования фигурку нельзя применять снова, пока не пройдёт 2 дня.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

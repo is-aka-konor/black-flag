@@ -95,7 +95,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "When you hit a Fiend or Undead"
+          "condition": "Когда вы попадаете по исчадию или нежити"
         },
         "consumption": {
           "targets": [],
@@ -158,7 +158,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>When you hit a Fiend or Undead with this magic weapon, the target takes an extra [[/damage 2d6 radiant]]. If the target has 25 HP or fewer after taking this damage, it must succeed on a [[/save 15 WIS]] or be destroyed. On a successful save, the creature becomes &Reference[frightened] of you until the end of your next turn.</p><p>While you hold this weapon, it sheds bright light in a 20- foot radius and dim light for an additional 20 feet.</p>",
+      "value": "<p>Когда вы попадаете этим магическим оружием по Исчадию или Нежити, цель получает дополнительный [[/damage 2d6 radiant]]. Если после получения этого урона у цели остаётся 25 хитов или меньше, она должна преуспеть в [[/save 15 WIS]], иначе будет уничтожена. При успешном спасброске существо становится &Reference[frightened] вас до конца вашего следующего хода.</p><p>Пока вы держите это оружие, оно излучает яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

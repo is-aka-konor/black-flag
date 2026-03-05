@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Artist tools are used to create illustrated art objects and ornamental documents, pen illuminated texts, and skillfully paint objects.</p><p><em><strong>Associated Abilities:</strong></em> DEX, CHA.</p><p><em><strong>Components.</strong></em> This tool kit includes brushes, spades, stirrers, inks, paints, a square and triangle, a canvas stretcher and an easel, and rolls of vellum, parchment, and canvas.</p><p><em><strong>Craft Items.</strong></em> Artist tools can be used to make art objects with the crafting downtime activity.</p>",
+      "value": "<p>Инструменты художника используются для создания иллюстрированных предметов искусства и декоративных документов, написания украшенных текстов и художественной росписи.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ХАР.</p><p><em><strong>Состав.</strong></em> В комплект входят кисти, лопатки, мешалки, чернила, краски, угольник и треугольник, подрамник и мольберт, а также рулоны веллума, пергамента и холста.</p><p><em><strong>Создание предметов.</strong></em> Инструменты художника можно использовать для создания предметов искусства через деятельность простоя по ремеслу.</p>",
       "source": {}
     },
     "type": {

@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing these gloves, climbing and swimming don’t cost you extra movement, and you gain a +5 bonus to STR (Athletics) checks made to climb or swim.</p>",
+      "value": "<p>Пока вы носите эти перчатки, лазание и плавание не требуют дополнительного перемещения, а также вы получаете бонус +5 к проверкам СИЛ (Атлетика) для лазания и плавания.</p>",
       "source": {
         "fallback": ""
       }
@@ -64,7 +64,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"strength\" }, { \"k\": \"skill\", \"v\": \"athletics\" }], \"note\": { \"rollMode\": 0, \"text\": \"You have a +5 bonus to STR (Athletics) checks made to climb or swim.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"strength\"},{\"k\":\"skill\",\"v\":\"athletics\"}],\"note\":{\"rollMode\":0,\"text\":\"Вы получаете бонус +5 к проверкам СИЛ (Атлетика) для лазания и плавания.\"}}]",
           "priority": null
         }
       ],

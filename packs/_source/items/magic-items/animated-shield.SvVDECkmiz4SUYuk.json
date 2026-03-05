@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While wielding this shield, you can speak its command word as a bonus action to cause it to animate. The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die. Then the shield falls to the ground or flies into your hand if you have one free.</p>",
+      "value": "<p>Пока вы держите этот щит, бонусным действием вы можете произнести его командное слово и оживить щит. Щит взмывает в воздух и парит в вашем пространстве, защищая вас так, будто вы держите его в руках, при этом руки остаются свободны. Щит остаётся оживлённым 1 минуту, пока вы бонусным действием не завершите эффект, либо пока вы не станете недееспособны или не умрёте. После этого щит падает на землю или влетает вам в руку, если она свободна.</p>",
       "source": {}
     },
     "type": {

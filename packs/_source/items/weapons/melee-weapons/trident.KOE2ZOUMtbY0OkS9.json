@@ -58,7 +58,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+      "value": "<p>Рукопашная или дальнобойная атака оружием: [[/attack]]. Досягаемость 5 фт. или дистанция 20/60 фт., одна цель. Попадание: [[/damage]]. При использовании двумя руками: [[/damage versatile average]] колющего урона.</p>",
       "source": {}
     },
     "attunement": {

@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 13) from it. The medallion regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>У этого медальона 3 заряда. Пока вы носите его, действием вы можете потратить 1 заряд, чтобы наложить с него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{Обнаружение мыслей}</em> (СЛ спасброска 13). Медальон ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете.</p>",
       "source": {
         "fallback": ""
       }

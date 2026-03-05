@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.V6dBngLQzGP0DrQt]{longstrider}</em> spell from it as a bonus action. You can target only yourself with it.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы можете бонусным действием накладывать с него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.V6dBngLQzGP0DrQt]{Скороход}</em>, но только на себя.</p>",
       "source": {
         "fallback": ""
       }

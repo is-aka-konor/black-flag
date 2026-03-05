@@ -3,7 +3,7 @@
   "name": "Похититель девяти жизней",
   "system": {
     "description": {
-      "value": "<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p><p>The sword has [[/r 1d8 + 1]] charges. If you score a critical hit against a creature that has fewer than 100 HP, it must succeed on a [[/save 15 CON]] or be slain instantly as the sword tears its life force from its body (a Construct or an Undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p><section class=\"secret\" id=\"secret-SRoLPWSush8hua5K\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Very Rare, 8,800 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +2 к броскам атаки и урона этим магическим оружием.</p><p>У меча [[/r 1d8 + 1]] зарядов. Если вы наносите критическое попадание по существу, у которого меньше 100 хитов, оно должно преуспеть в [[/save 15 CON]], иначе мгновенно погибает, когда меч вырывает его жизненную силу (Конструкты и Нежить к этому иммунны). Если существо погибает, меч теряет 1 заряд. Когда у меча не остаётся зарядов, он теряет это свойство.</p>",
       "source": {
         "fallback": ""
       }
@@ -30,7 +30,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you score a critical hit against a creature that has fewer than 100 HP"
+          "condition": "Когда вы наносите критический удар по существу с менее чем 100 ХП"
         },
         "consumption": {
           "targets": [
@@ -140,7 +140,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Nine Lives Stealer {}",
+          "value": "Похититель девяти жизней {}",
           "priority": null
         },
         {
@@ -182,7 +182,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p> <p>The sword has [[/r 1d8 + 1]] charges. If you score a critical hit against a creature that has fewer than 100 HP, it must succeed on a [[/save 15 CON]] or be slain instantly as the sword tears its life force from its body (a Construct or an Undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>",
+          "value": "<p>Вы получаете бонус +2 к броскам атаки и урона этим магическим оружием.</p><p>У меча [[/r 1d8 + 1]] зарядов. Если вы наносите критическое попадание по существу, у которого меньше 100 хитов, оно должно преуспеть в [[/save 15 CON]], иначе мгновенно погибает, когда меч вырывает его жизненную силу (Конструкты и Нежить к этому иммунны). Если существо погибает, меч теряет 1 заряд. Когда у меча не остаётся зарядов, он теряет это свойство.</p>",
           "priority": null
         }
       ],

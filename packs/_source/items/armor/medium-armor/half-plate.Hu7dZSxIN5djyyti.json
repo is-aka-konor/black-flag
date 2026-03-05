@@ -1,6 +1,6 @@
 {
   "folder": "JW7MCVevEcSMmi9e",
-  "name": "Половина пластины",
+  "name": "Полулаты",
   "type": "armor",
   "_id": "Hu7dZSxIN5djyyti",
   "img": "icons/equipment/chest/breastplate-gorget-steel.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Half plate consists of shaped metal plates that cover most of the wearer's body. It doesn’t include leg protection beyond greaves attached with leather straps.</p>",
+      "value": "<p>Полулаты состоят из формованных металлических пластин, закрывающих большую часть тела. Ноги защищаются только поножами на кожаных ремнях.</p>",
       "source": {}
     },
     "type": {

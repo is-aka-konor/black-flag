@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain resistance to psychic damage for 1 hour.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, вы получаете сопротивление психическому урону на 1 час.</p>",
       "source": {
         "fallback": ""
       }

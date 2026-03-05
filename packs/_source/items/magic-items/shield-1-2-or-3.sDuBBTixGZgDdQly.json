@@ -3,7 +3,7 @@
   "name": "Щит, +1, +2 или +3",
   "system": {
     "description": {
-      "value": "<p>While wielding this shield, you have a bonus to AC determined by the shield’s rarity. This bonus is in addition to the shield’s normal bonus to AC.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.4HBeOM5zbTXYH1xM inline]</p><section class=\"secret\" id=\"secret-Z6xs0EzOtWUMjGxY\"><p><strong>Foundry Note</strong></p><p><em>Armor (Shield), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Пока вы держите этот щит, вы получаете бонус к КД, определяемый редкостью щита. Этот бонус добавляется к обычному бонусу щита к КД.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.4HBeOM5zbTXYH1xM inline]</p><section class=\"secret\" id=\"secret-Z6xs0EzOtWUMjGxY\"><p><strong>Примечание</strong></p><p><em>Доспех (щит), редкость варьируется, цена варьируется</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -68,7 +68,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wielding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+          "value": "<p>Пока вы держите этот щит, вы получаете бонус +1 к КД. Этот бонус добавляется к обычному бонусу щита к КД.</p>",
           "priority": null
         },
         {
@@ -147,7 +147,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wielding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+          "value": "<p>Пока вы держите этот щит, вы получаете бонус +2 к КД. Этот бонус добавляется к обычному бонусу щита к КД.</p>",
           "priority": null
         },
         {
@@ -227,7 +227,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wielding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.</p>",
+          "value": "<p>Пока вы держите этот щит, вы получаете бонус +3 к КД. Этот бонус добавляется к обычному бонусу щита к КД.</p>",
           "priority": null
         },
         {

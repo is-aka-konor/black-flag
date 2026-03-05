@@ -140,7 +140,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn’t move, even if it defies gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a [[/check strength 30]] check, moving a fixed rod up to 10 feet on a success.</p>",
+      "value": "<p>Этот плоский железный стержень имеет кнопку на одном конце. Действием вы можете нажать кнопку, и стержень магически фиксируется в пространстве. Пока вы или другое существо не нажмёте кнопку снова действием, стержень не двигается, даже если это противоречит гравитации. Стержень выдерживает до 8 000 фунтов. Больший вес деактивирует его, и он падает. Существо может действием выполнить [[/check strength 30]], чтобы при успехе сдвинуть зафиксированный стержень на расстояние до 10 футов.</p>",
       "source": {}
     },
     "type": {

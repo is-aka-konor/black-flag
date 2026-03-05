@@ -1,6 +1,6 @@
 {
   "folder": "9Er7AXgwcIA7EnGb",
-  "name": "Кожа с шипами",
+  "name": "Клепаный кожаный доспех",
   "type": "armor",
   "_id": "wltnYOTuHz96wXq5",
   "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+      "value": "<p>Проклёпанная кожа изготавливается из прочной, но гибкой кожи и усиливается частыми заклёпками или шипами.</p>",
       "source": {}
     },
     "type": {

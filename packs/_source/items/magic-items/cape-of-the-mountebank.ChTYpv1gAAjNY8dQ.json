@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This cape smells faintly of brimstone. While wearing it, you can use it to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.a79cPbF5G33jiDBa]{dimension door}</em> spell as an action. This property of the cape can’t be used again until the next dawn.</p><p>When you disappear, you leave behind a cloud of smoke, and you appear in a cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.</p>",
+      "value": "<p>Этот плащ слабо пахнет серой. Пока вы носите его, действием вы можете наложить через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.a79cPbF5G33jiDBa]{Дверь в иное измерение}</em>. Это свойство плаща нельзя использовать снова до следующего рассвета.</p><p>Когда вы исчезаете, на месте остаётся облако дыма, и вы появляетесь в облаке дыма в точке назначения. Дым слегка заслоняет пространство, которое вы покинули, и пространство, где вы появились, и рассеивается в конце вашего следующего хода. Лёгкий или более сильный ветер рассеивает дым.</p>",
       "source": {}
     },
     "activities": {

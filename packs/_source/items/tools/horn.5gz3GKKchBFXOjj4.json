@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Musical instruments come in many shapes and sizes with varying regional and cultural popularity. When you have proficiency in a musical instrument, choose one type: strings, brass, woodwinds, percussion, or keyboard instruments. You must have multiple proficiencies to have proficiency with more than one type of instrument.</p><p><em><strong>Associated Abilities:</strong></em> DEX, CHA.</p><p><em><strong>Components.</strong></em> A musical instrument typically includes an instrument, a protective case, and any small pieces necessary for play, such as picks or reeds.</p>",
+      "value": "<p>Музыкальные инструменты бывают самых разных форм и размеров и могут различаться по популярности в зависимости от региона и культуры. Если вы владеете музыкальным инструментом, выберите один тип: струнные, духовые медные, духовые деревянные, ударные или клавишные. Чтобы владеть несколькими типами, требуется несколько отдельных владений.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ХАР.</p><p><em><strong>Состав.</strong></em> Как правило, музыкальный инструмент включает сам инструмент, защитный футляр и небольшие принадлежности для игры, например медиаторы или трости.</p>",
       "source": {}
     },
     "type": {

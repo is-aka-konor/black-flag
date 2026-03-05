@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to poison damage while wearing this ring. The amethyst in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление урону ядом. Аметист в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

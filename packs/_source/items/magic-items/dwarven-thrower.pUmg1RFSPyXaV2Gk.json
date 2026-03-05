@@ -259,7 +259,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the Thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, the target takes an extra [[/damage 1d8 bludgeoning]] or, if the target is a Giant, it takes an extra [[/damage 2d8 bludgeoning]]. The weapon flies back to your hand immediately after the attack.</p>",
+      "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием. У него есть свойство Метательное (обычная дистанция 20 футов, максимальная — 60 футов). Когда вы попадаете этим оружием дальнобойной атакой, цель получает дополнительный [[/damage 1d8 bludgeoning]] или, если цель — Великан, дополнительный [[/damage 2d8 bludgeoning]]. После атаки оружие немедленно возвращается вам в руку.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

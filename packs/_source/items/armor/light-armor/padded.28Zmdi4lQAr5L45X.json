@@ -1,5 +1,5 @@
 {
-  "name": "Мягкий",
+  "name": "Стеганый доспех",
   "type": "armor",
   "_id": "28Zmdi4lQAr5L45X",
   "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
@@ -13,7 +13,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This full-body outfit consists of quilted layers of cloth and batting.</p>",
+      "value": "<p>Этот доспех представляет собой цельный стёганый костюм из нескольких слоёв ткани и набивки.</p>",
       "source": {}
     },
     "overrides": {

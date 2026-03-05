@@ -15,7 +15,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>You regain 15 HP at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 HP.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
+      "value": "<p>В конце каждого часа, пока это перламутрово-белое веретено вращается вокруг вашей головы, вы восстанавливаете 15 ХП, если у вас есть хотя бы 1 ХП.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.f4AgDaCgKtvuDpSq inline]</p></aside>",
       "source": {}
     },
     "properties": [
@@ -47,7 +47,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "At the end of each hour while you have at least 1 HP"
+          "condition": "В конце каждого часа, пока у вас есть хотя бы 1 ХП"
         },
         "consumption": {
           "targets": [],

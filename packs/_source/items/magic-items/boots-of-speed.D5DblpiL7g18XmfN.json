@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While you wear these boots, you can use a bonus action and click the boots’ heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.</p><p>When the boots’ property has been used for a total of 10 minutes, the magic ceases to function until the next dawn.</p>",
+      "value": "<p>Пока вы носите эти сапоги, вы можете бонусным действием щёлкнуть каблуками. Если вы это делаете, сапоги удваивают вашу скорость ходьбы, а все существа совершают по вам провоцированные атаки с помехой. Если вы снова щёлкнете каблуками, эффект заканчивается.</p><p>После того как это свойство сапог проработало суммарно 10 минут, магия перестаёт действовать до следующего рассвета.</p>",
       "source": {}
     },
     "activities": {

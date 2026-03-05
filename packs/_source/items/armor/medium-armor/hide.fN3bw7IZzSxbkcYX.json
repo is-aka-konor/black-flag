@@ -1,6 +1,6 @@
 {
   "folder": "JW7MCVevEcSMmi9e",
-  "name": "Скрывать",
+  "name": "Шкурный доспех",
   "type": "armor",
   "_id": "fN3bw7IZzSxbkcYX",
   "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+      "value": "<p>Этот цельный доспех состоит из толстых мехов и шкур.</p>",
       "source": {}
     },
     "type": {

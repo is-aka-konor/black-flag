@@ -14,7 +14,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>This item can be used as a spellcasting focus to channel Primordial spells. Examples include a totem made from natural materials like feather or bone, a wooden staff carved from a living tree, or a yew wand.</p>",
+      "value": "<p>Этот предмет можно использовать как фокусировку заклинаний для первородных заклинаний. Примеры: тотем из природных материалов вроде пера или кости, деревянный посох, вырезанный из живого дерева, или палочка из тиса.</p>",
       "source": {}
     },
     "attunement": {

@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have advantage on saves against spells while you wear this cloak.</p>",
+      "value": "<p>Пока вы носите этот плащ, вы получаете преимущество на спасброски от заклинаний.</p>",
       "source": {
         "fallback": ""
       }
@@ -64,7 +64,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on saves against spells.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на спасброски против заклинаний.\"}}]",
           "priority": null
         }
       ],

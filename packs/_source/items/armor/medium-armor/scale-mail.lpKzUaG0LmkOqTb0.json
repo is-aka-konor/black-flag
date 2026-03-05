@@ -1,6 +1,6 @@
 {
   "folder": "JW7MCVevEcSMmi9e",
-  "name": "Масштабная кольчуга",
+  "name": "Чешуйчатый доспех",
   "type": "armor",
   "_id": "lpKzUaG0LmkOqTb0",
   "img": "icons/equipment/chest/breastplate-rivited-red.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.</p>",
+      "value": "<p>Этот доспех состоит из кожаной куртки и поножей (иногда с отдельной юбкой), покрытых перекрывающимися металлическими пластинами, как рыбья чешуя.</p>",
       "source": {}
     },
     "type": {

@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Clothier tools are used to sew, make, or tailor fabric objects such as clothing or shoes.</p><p><em><strong>Associated Abilities:</strong></em> DEX, CHA.</p><p><em><strong>Components.</strong></em> This tool kit includes pins and needles, specially sharpened shears, a small hammer and shoe horn, a variety of dyed threads on spools, and thicker waxed threads and yarns.</p><p><em><strong>Craft Items.</strong></em> Clothier tools can be used to make items with the crafting downtime activity.</p>",
+      "value": "<p>Инструменты портного используются, чтобы шить, изготавливать и подгонять тканевые изделия, такие как одежда и обувь.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ХАР.</p><p><em><strong>Состав.</strong></em> В комплект входят булавки и иглы, специально заточенные ножницы, маленький молоток и рожок для обуви, разноцветные катушки ниток, а также более толстые вощёные нити и пряжа.</p><p><em><strong>Создание предметов.</strong></em> Инструменты портного можно использовать для изготовления предметов через деятельность простоя по ремеслу.</p>",
       "source": {}
     },
     "type": {

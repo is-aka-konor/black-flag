@@ -161,7 +161,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The typical crystal ball is a very rare magic item about 6 inches in diameter. While touching it, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{scrying}</em> spell (save DC 17) with it.</p><p>While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ]{suggestion}</em> spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate to maintain suggestion for the duration of the spell, but it ends if scrying ends. The suggestion power of the crystal ball can’t be used again until the next dawn.</p>",
+      "value": "<p>Обычный кристальный шар — очень редкий магический предмет диаметром около 6 дюймов. Пока вы его касаетесь, вы можете накладывать через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{Наблюдение}</em> (СЛ спасброска 17).</p><p>Пока вы ведёте наблюдение через кристальный шар, вы можете телепатически общаться с существами, которых видите в пределах 30 футов от сенсора заклинания. Вы также можете действием наложить через сенсор на одно из этих существ заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ]{Внушение}</em> (СЛ спасброска 17). Для поддержания <em>Внушение</em> вам не нужна концентрация на всё время действия заклинания, но эффект заканчивается, если прекращается наблюдение. Свойство внушения этого кристального шара нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "type": {

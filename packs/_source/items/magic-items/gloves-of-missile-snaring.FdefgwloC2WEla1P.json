@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you’re wearing them, and you have a free hand, you can use your reaction to reduce the damage by [[/r 1d10]] + your DEX modifier. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.</p>",
+      "value": "<p>Эти перчатки, кажется, почти срастаются с вашими руками, когда вы их надеваете. Когда дальнобойная атака оружием попадает по вам, пока вы в этих перчатках и у вас есть свободная рука, вы можете реакцией уменьшить урон на [[/r 1d10]] + ваш модификатор ЛОВ. Если вы уменьшаете урон до 0, вы можете поймать снаряд, если он достаточно мал, чтобы удерживать его этой рукой.</p>",
       "source": {
         "fallback": ""
       }
@@ -38,7 +38,7 @@
         "activation": {
           "value": null,
           "type": "reaction",
-          "condition": "When a ranged weapon attack hits you"
+          "condition": "Когда вас поражает дальнобойная атака оружием"
         },
         "consumption": {
           "targets": [],

@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You gain a +1 bonus to AC and saves while wearing this ring.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете бонус +1 к КД и спасброскам.</p>",
       "source": {
         "fallback": ""
       }

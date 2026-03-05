@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can turn &Reference[invisible] as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.</p>",
+      "value": "<p>Пока вы носите это кольцо, действием вы можете стать &Reference[invisible]. Всё, что вы носите или несёте, становится невидимым вместе с вами. Вы остаетесь невидимым, пока кольцо не снято, пока вы не атакуете или не наложите заклинание, либо пока бонусным действием не станете видимым снова.</p>",
       "source": {
         "fallback": ""
       }

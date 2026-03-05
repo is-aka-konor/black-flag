@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This brass brazier weighs 5 pounds. While a fire burns in it, you can use an action to speak the brazier’s command word and summon a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.2DCblylWLteSqQ07]{fire elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental }</em>spell. The brazier can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Эта латунная жаровня весит 5 фунтов. Пока в ней горит огонь, вы можете действием произнести командное слово жаровни и призвать <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.2DCblylWLteSqQ07]{Элементаль огня}</strong>, как если бы вы наложили <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{Вызов элементаля}</em>. Это свойство жаровни нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "activities": {

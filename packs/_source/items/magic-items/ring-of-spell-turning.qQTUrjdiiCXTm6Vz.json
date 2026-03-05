@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you have advantage on saves against any spell that targets only you. In addition, if you roll a 20 for the save and the spell is 7th circle or lower, the spell has no effect on you and instead targets the caster, using the spell slot, spell save DC, attack bonus, and spellcasting ability of the caster.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете преимущество на спасброски против любого заклинания, нацеленного только на вас. Кроме того, если вы выбросили 20 на спасброске и заклинание 7-го круга или ниже, оно не действует на вас, а вместо этого нацеливается на заклинателя, используя круг ячейки, СЛ спасброска, бонус атаки и базовую характеристику заклинаний исходного заклинателя.</p>",
       "source": {
         "fallback": ""
       }
@@ -65,7 +65,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on saves against any spell that targets only you.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на спасброски против заклинаний, нацеленных только на вас.\"}}]",
           "priority": null
         }
       ],

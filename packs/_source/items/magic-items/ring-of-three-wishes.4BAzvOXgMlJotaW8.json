@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This ring has 3 charges. While wearing it, you can use an action to expend 1 charge to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6]{wish}</em> spell from it. The ring becomes nonmagical when you use the last charge.</p>",
+      "value": "<p>У этого кольца 3 заряда. Пока вы носите его, действием вы можете потратить 1 заряд, чтобы наложить с него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.TB5mhD1xitrWMfX6]{Желание}</em>. Когда расходуется последний заряд, кольцо становится немагическим.</p>",
       "source": {
         "fallback": ""
       }

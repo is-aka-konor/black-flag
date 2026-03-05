@@ -1,6 +1,6 @@
 {
   "folder": "FUnjG0V10gg8lqPG",
-  "name": "Тарелка",
+  "name": "Латы",
   "type": "armor",
   "_id": "AG4f7orze4Gsj9UO",
   "img": "icons/equipment/chest/breastplate-sculpted-green.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>",
+      "value": "<p>Латы состоят из подогнанных взаимосвязанных металлических пластин, закрывающих всё тело. Комплект лат включает перчатки, тяжёлые кожаные сапоги, шлем с забралом и толстую подкладку под доспехом. Вес распределяется по телу пряжками и ремнями.</p>",
       "source": {}
     },
     "type": {

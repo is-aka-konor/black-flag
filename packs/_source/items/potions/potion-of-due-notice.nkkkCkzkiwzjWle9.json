@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, double your PB for the purpose of calculating your passive Insight, Investigation, and Perception scores for 1 hour. If you don't have proficiency in any of these skills, you gain proficiency in them for the duration of the potion. This potion’s liquid has a bright green effervescence.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, ваш БМ удваивается при расчёте пассивных значений Проницательности, Анализа и Внимательности на 1 час. Если вы не владеете какими-либо из этих навыков, на время действия зелья вы получаете владение ими. Жидкость этого зелья ярко-зелёная и шипучая.</p>",
       "source": {
         "fallback": ""
       }

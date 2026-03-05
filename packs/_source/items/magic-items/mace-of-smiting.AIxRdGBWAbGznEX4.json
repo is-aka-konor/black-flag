@@ -229,7 +229,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a Construct.</p><p>When you roll a 20 on an attack roll with this weapon, the target takes an extra [[/damage 2d6 bludgeoning]], or [[/damage 4d6 bludgeoning]] if it’s a Construct. If a Construct has 25 HP or fewer after taking this damage, it is destroyed.</p>",
+      "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием. Бонус увеличивается до +3, когда вы используете булаву для атаки Конструкта.</p><p>Когда вы выбрасываете 20 на броске атаки этим оружием, цель получает дополнительный [[/damage 2d6 bludgeoning]], или [[/damage 4d6 bludgeoning]], если это Конструкт. Если после получения этого урона у Конструкта остаётся 25 хитов или меньше, он уничтожается.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

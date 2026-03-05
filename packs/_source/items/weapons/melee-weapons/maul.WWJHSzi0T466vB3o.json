@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Мол",
+  "name": "Кувалда",
   "type": "weapon",
   "_id": "WWJHSzi0T466vB3o",
   "img": "icons/weapons/hammers/hammer-drilling-spiked.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

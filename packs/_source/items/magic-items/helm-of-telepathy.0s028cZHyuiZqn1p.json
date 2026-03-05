@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.</p><p>While focusing on a creature with <em>detect thoughts</em>, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ]{suggestion}</em> spell (save DC 13) from the helm on that creature. You don’t need to concentrate to maintain <em>suggestion</em> for the duration of the spell, but it ends if the <em>detect thoughts</em> spell ends. Once used, the <em>suggestion</em> property can’t be used again until the next dawn.</p>",
+      "value": "<p>Пока вы носите этот шлем, действием вы можете наложить через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{Обнаружение мыслей}</em> (СЛ спасброска 13). Пока вы поддерживаете концентрацию на заклинании, бонусным действием вы можете отправить телепатическое сообщение существу, на котором сосредоточены. Оно может ответить (тоже бонусным действием), пока вы сохраняете на нём фокус.</p><p>Пока вы фокусируетесь на существе с помощью <em>Обнаружение мыслей</em>, вы можете действием наложить через шлем на это существо заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.iw5BfQdWrDssHFWZ]{Внушение}</em> (СЛ спасброска 13). Для поддержания <em>Внушение</em> вам не нужна концентрация на всё время его действия, но эффект заканчивается, если заканчивается <em>Обнаружение мыслей</em>. Свойство <em>Внушение</em> нельзя использовать снова до следующего рассвета.</p>",
       "source": {
         "fallback": ""
       }
@@ -110,7 +110,7 @@
           "value": null,
           "override": true,
           "type": "action",
-          "condition": "When focusing on a creature with detect thoughts"
+          "condition": "Когда вы сосредоточены на существе с помощью «Обнаружение мыслей»"
         },
         "consumption": {
           "targets": [

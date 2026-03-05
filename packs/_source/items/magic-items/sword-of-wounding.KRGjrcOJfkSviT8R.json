@@ -3,7 +3,7 @@
   "name": "Меч ранения",
   "system": {
     "description": {
-      "value": "<p>Hit points lost to this weapon’s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p><p>Once per turn, when you hit a creature with an attack using this magic weapon, you can choose (no action required) to wound the target. At the start of each of the wounded creature’s turns, it takes [[/damage 1d4 necrotic]] for each time you’ve wounded it. It can then make a [[/save 15 CON]], ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a [[/check 15 WIS (Medicine)]], ending the effect of such wounds on it on a success.</p><section class=\"secret\" id=\"secret-7UlKs6GBRVEmoSrU\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Rare, 8,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Хиты, потерянные от урона этого оружия, восстанавливаются только коротким или длительным отдыхом, а не регенерацией, магией или иными способами.</p><p>Раз в ход, когда вы попадаете по существу атакой этим магическим оружием, вы можете (без действия) нанести цели рану. В начале каждого хода раненого существа оно получает [[/damage 1d4 necrotic]] за каждую нанесённую вами рану. Затем оно может совершить [[/save 15 CON]], при успехе прекращая действие всех таких ран на себе. Либо раненое существо или существо в пределах 5 футов от него может действием выполнить [[/check 15 WIS (Medicine)]], при успехе прекращая действие ран.</p>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Wounding",
+          "value": "{} ранений",
           "priority": null
         },
         {
@@ -74,7 +74,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>Hit points lost to this weapon’s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p> <p>Once per turn, when you hit a creature with an attack using this magic weapon, you can choose (no action required) to wound the target. At the start of each of the wounded creature’s turns, it takes [[/damage 1d4 necrotic]] for each time you’ve wounded it. It can then make a [[/save 15 CON]], ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a [[/check 15 WIS (Medicine)]], ending the effect of such wounds on it on a success.</p>",
+          "value": "<p>Хиты, потерянные от урона этого оружия, восстанавливаются только коротким или длительным отдыхом, а не регенерацией, магией или иными способами.</p><p>Раз в ход, когда вы попадаете по существу атакой этим магическим оружием, вы можете (без действия) нанести цели рану. В начале каждого хода раненого существа оно получает [[/damage 1d4 necrotic]] за каждую нанесённую вами рану. Затем оно может совершить [[/save 15 CON]], при успехе прекращая действие всех таких ран на себе. Либо раненое существо или существо в пределах 5 футов от него может действием выполнить [[/check 15 WIS (Medicine)]], при успехе прекращая действие ран.</p>",
           "priority": null
         },
         {

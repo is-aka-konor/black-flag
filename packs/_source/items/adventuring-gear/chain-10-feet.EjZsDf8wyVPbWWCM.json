@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A chain is an object that has AC 20 and 10 HP. It can be broken with a successful [[/check strength athletics 20]] check.</p>",
+      "value": "<p>Цепь — объект с КД 20 и 10 хитами. Её можно разорвать успешной проверкой [[/check strength athletics 20]].</p>",
       "source": {}
     },
     "type": {

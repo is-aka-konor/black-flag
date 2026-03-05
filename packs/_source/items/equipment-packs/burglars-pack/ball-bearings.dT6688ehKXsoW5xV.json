@@ -61,7 +61,7 @@
       "units": "ounce"
     },
     "description": {
-      "value": "<p>As an action, you can spill these tiny metal balls from a pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a [[/save dexterity 10]] save or fall prone. A creature moving through the area at half speed doesn’t need to make the save.</p>",
+      "value": "<p>Действием вы можете высыпать эти маленькие металлические шарики, покрыв ровную квадратную область 10 на 10 футов. Существо, проходящее через эту область, должно пройти [[/save dexterity 10]] спасбросок, иначе падает ничком. Существо, движущееся по области с половиной скорости, не делает этот спасбросок.</p>",
       "source": {}
     },
     "type": {

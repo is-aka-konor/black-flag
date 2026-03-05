@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This item can be used as a spellcasting focus to channel Divine spells. Examples include an amulet depicting a deity’s symbol, that same symbol engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.</p>",
+      "value": "<p>Этот предмет можно использовать как фокусировку заклинаний для божественных заклинаний. Примеры: амулет с символом божества, тот же символ, выгравированный или инкрустированный на щите, либо маленькая шкатулка с фрагментом священной реликвии.</p>",
       "source": {}
     },
     "type": {

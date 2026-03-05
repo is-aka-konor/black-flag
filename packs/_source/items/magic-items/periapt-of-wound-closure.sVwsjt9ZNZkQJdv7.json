@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, when you roll a hit die to regain hit points, double the number of hit points it restores.</p>",
+      "value": "<p>Пока вы носите этот амулет, вы стабилизируетесь всякий раз, когда умираете в начале своего хода. Кроме того, при броске кости хитов для восстановления хитов количество восстановленных хитов удваивается.</p>",
       "source": {
         "fallback": ""
       }

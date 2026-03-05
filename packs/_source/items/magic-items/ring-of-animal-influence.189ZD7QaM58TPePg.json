@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This ring has 3 charges and regains [[/r 1d3]] expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 charge to cast one of the following spells:</p><ul><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{Animal friendship}</em> (save DC 13)</p></li><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U]{Fear}</em> (save DC 13), targeting only Beasts or creatures with the Animal tag that have an INT score of 3 or lower</p></li><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK]{Speak with animals}</em></p></li></ul>",
+      "value": "<p>У этого кольца 3 заряда, и оно ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете. Пока вы носите кольцо, действием вы можете потратить 1 заряд, чтобы наложить одно из следующих заклинаний:</p><ul><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{Дружба С Животными}</em> (СЛ спасброска 13)</p></li><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.moUAyN0JUuMvoY6U]{Страх}</em> (СЛ спасброска 13), нацеливая только Зверей или существ с меткой «Животное», чьё значение ИНТ равно 3 или ниже</p></li><li><p><em>@UUID[Compendium.black-flag-ru.spells.Item.VEYRZOPPA3yH6AeK]{Разговор с животными}</em></p></li></ul>",
       "source": {
         "fallback": ""
       }
@@ -146,7 +146,7 @@
             "choice": false,
             "type": "creature",
             "count": "",
-            "special": "Beasts or creatures with the Animal tag that have an INT score of 3 or lower"
+            "special": "Звери или существа с меткой «Животное» с ИНТ 3 или ниже"
           },
           "prompt": true,
           "override": true

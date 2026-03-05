@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While lit, a hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</p>",
+      "value": "<p>При горении закрытый фонарь даёт яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. После зажигания он горит 6 часов на одной фляге (1 пинта) масла. Действием вы можете опустить крышку, уменьшив освещение до тусклого света в радиусе 5 футов.</p>",
       "source": {}
     },
     "type": {

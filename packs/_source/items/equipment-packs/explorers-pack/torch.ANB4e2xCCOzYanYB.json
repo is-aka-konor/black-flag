@@ -26,7 +26,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>",
+      "value": "<p>Факел горит 1 час, давая яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов. Если вы попадаете рукопашной атакой горящим факелом, он наносит 1 урон огнём.</p>",
       "source": {}
     },
     "type": {

@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, animals tend to be friendly to you for 1 hour. For the duration, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{animal friendship}</em> spell (save DC 13) at any time. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, животные склонны относиться к вам дружелюбно в течение 1 часа. Пока действует эффект, вы можете в любой момент действием наложить <em>@UUID[Compendium.black-flag-ru.spells.Item.F1s8TRosgOUvR4iv]{Дружба С Животными}</em> (СЛ спасброска 13). Если взболтать эту мутную жидкость, в ней можно заметить мелкие включения: рыбью чешуйку, язык колибри, кошачий коготь или шерстинку белки.</p>",
       "source": {
         "fallback": ""
       }

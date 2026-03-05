@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saves while you wear it.</p><p>Six stars, located on the robe’s upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{magic missile}</em> as a 5th-ring spell. Daily at dusk, [[/r 1d6]] removed stars reappear on the robe.</p><p>While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.</p>",
+      "value": "<p>Эта чёрная или тёмно-синяя мантия расшита маленькими белыми или серебристыми звёздами. Пока вы её носите, вы получаете бонус +1 к спасброскам.</p><p>Шесть звёзд на верхней передней части мантии особенно крупные. Пока вы носите мантию, действием вы можете оторвать одну из звёзд и наложить с её помощью <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{Волшебная стрела}</em> как заклинание 5-го круга. Ежедневно в сумерках [[/r 1d6]] удалённых звёзд появляется на мантии снова.</p><p>Пока вы носите мантию, действием вы можете перейти в Астральный план вместе со всем, что носите и несёте. Вы остаётесь там, пока действием не вернётесь на план, где находились раньше. Вы появляетесь в последнем занятом вами пространстве, а если оно занято — в ближайшем незанятом.</p>",
       "source": {
         "fallback": ""
       }

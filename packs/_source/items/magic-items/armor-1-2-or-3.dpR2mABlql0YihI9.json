@@ -3,7 +3,7 @@
   "name": "Броня, +1, +2 или +3.",
   "system": {
     "description": {
-      "value": "<p>While wearing this armor, you receive the armor’s standard bonus to AC and an additional AC bonus equal to its rarity bonus.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.MjVrWvDySouB6UdU inline]</p><section class=\"secret\" id=\"secret-r2Vd2D5tCzNXTM0X\"><p><strong>Foundry Note</strong></p><p><em>Armor (Light, Medium, Heavy), Rarity Varies ,Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section><p></p>",
+      "value": "<p>Пока вы носите этот доспех, вы получаете стандартный бонус доспеха к КД и дополнительный бонус к КД, равный бонусу редкости.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.MjVrWvDySouB6UdU inline]</p><section class=\"secret\" id=\"secret-r2Vd2D5tCzNXTM0X\"><p><strong>Примечание</strong></p><p><em>Доспех (лёгкий, средний, тяжёлый), редкость варьируется, цена варьируется</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section><p></p>",
       "source": {}
     },
     "activities": {},
@@ -66,7 +66,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wearing this armor, you receive the armor’s standard bonus to AC and an additional +1 AC bonus.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете стандартный бонус доспеха к КД и дополнительный бонус +1 к КД.</p>",
           "priority": null
         },
         {
@@ -145,7 +145,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wearing this armor, you receive the armor’s standard bonus to AC and an additional +2 AC bonus.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете стандартный бонус доспеха к КД и дополнительный бонус +2 к КД.</p>",
           "priority": null
         },
         {
@@ -225,7 +225,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>While wearing this armor, you receive the armor’s standard bonus to AC and an additional +3 AC bonus.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете стандартный бонус доспеха к КД и дополнительный бонус +3 к КД.</p>",
           "priority": null
         },
         {

@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This item can be used as a spellcasting focus to channel Arcane spells. Examples include an orb, a crystal, a rod, a specially made staff, or a wooden wand.</p>",
+      "value": "<p>Этот предмет можно использовать как фокусировку заклинаний для арканных заклинаний. Примеры: сфера, кристалл, жезл, специально изготовленный посох или деревянная палочка.</p>",
       "source": {}
     },
     "type": {

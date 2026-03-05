@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.</p>",
+      "value": "<p>Когда вы падаете, нося это кольцо, вы снижаетесь со скоростью 60 футов за раунд и не получаете урона от падения.</p>",
       "source": {
         "fallback": ""
       }

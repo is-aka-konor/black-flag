@@ -3,7 +3,7 @@
   "name": "Пламенный язык",
   "system": {
     "description": {
-      "value": "<p>You can use a bonus action to speak this magic sword’s command word, causing flames to erupt from the blade. The flames are harmless to you and the weapon. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra [[/damage 2d6 fire]] to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p><section class=\"secret\" id=\"secret-eHFx0ZZJmHvEcu7d\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Rare, 5,000 gp + base weapon cost (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Бонусным действием вы можете произнести командное слово этого магического меча, и клинок вспыхивает пламенем. Пламя безвредно для вас и оружия. Оно создаёт яркий свет в радиусе 40 футов и тусклый свет ещё на 40 футов. Пока меч пылает, он наносит при попадании дополнительный [[/damage 2d6 fire]]. Пламя горит, пока вы снова не произнесёте командное слово бонусным действием либо пока не уроните или не уберёте меч в ножны.</p>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Flame Tongue {}",
+          "value": "Пламенный язык {}",
           "priority": null
         },
         {
@@ -98,7 +98,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You can use a bonus action to speak this magic sword’s command word, causing flames to erupt from the blade. The flames are harmless to you and the weapon. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra [[/damage 2d6 fire]] to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>",
+          "value": "<p>Бонусным действием вы можете произнести командное слово этого магического меча, и клинок вспыхивает пламенем. Пламя безвредно для вас и оружия. Оно создаёт яркий свет в радиусе 40 футов и тусклый свет ещё на 40 футов. Пока меч пылает, он наносит при попадании дополнительный [[/damage 2d6 fire]]. Пламя горит, пока вы снова не произнесёте командное слово бонусным действием либо пока не уроните или не уберёте меч в ножны.</p>",
           "priority": null
         }
       ],

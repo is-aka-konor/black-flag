@@ -3,7 +3,7 @@
   "name": "Клинок удачи",
   "system": {
     "description": {
-      "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While carried, you also gain a +1 bonus to saves.</p><p><em><strong>Luck.</strong></em> While you carry this sword, you can call on its luck (no action required) to reroll one attack roll, ability check, or save you dislike. You must use the second roll. This property can’t be used again until the next dawn.</p><p><em><strong>Wish.</strong></em> The sword has [[/r 1d4 - 1]] charges. While holding it, you can use an action to expend 1 charge and cast the <em>wish</em> spell from it. This property can’t be used again until the next dawn and never recharges. The sword loses this property if it has no charges.</p><section class=\"secret\" id=\"secret-oh6BKZdtDUYJPPrd\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Legendary, Priceless (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием. Пока меч при вас, вы также получаете бонус +1 к спасброскам.</p><p><em><strong>Удача.</strong></em> Пока вы носите этот меч, вы можете призвать его удачу (действие не требуется), чтобы перебросить один бросок атаки, проверку характеристики или спасбросок, результат которого вам не нравится. Вы должны использовать второй результат. Это свойство нельзя использовать снова до следующего рассвета.</p><p><em><strong>Желание.</strong></em> У меча [[/r 1d4 - 1]] зарядов. Пока вы держите его, действием вы можете потратить 1 заряд и наложить с него заклинание Желание. Это свойство нельзя использовать снова до следующего рассвета и оно никогда не перезаряжается. Меч теряет это свойство, если в нём не осталось зарядов.</p>",
       "source": {
         "fallback": ""
       }
@@ -92,7 +92,7 @@
       "FPxI0isW4tIFxXwa": {
         "type": "utility",
         "_id": "FPxI0isW4tIFxXwa",
-        "description": "<p>У меча [[/r 1d4 − 1]] зарядов. Удерживая его, вы сможете оценить 1 зарядный элемент и сотворить из него заклинание <em>wish</em>. Это свойство нельзя использовать повторно до следующего рассвета, и оно никогда не перезаряжается. Мечтайте применить это свойство, если у него нет зарядов.</p>",
+        "description": "<p>У меча [[/r 1d4 − 1]] зарядов. Пока вы держите его, действием вы можете потратить 1 заряд и наложить с него заклинание <em>Желание</em>. Это свойство нельзя использовать снова до следующего рассвета и оно никогда не перезаряжается. Меч теряет это свойство, если в нём не осталось зарядов.</p>",
         "sort": 0,
         "system": {
           "effects": [],
@@ -218,7 +218,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Luck Blade {}",
+          "value": "Клинок удачи {}",
           "priority": null
         },
         {
@@ -248,7 +248,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While carried, you also gain a +1 bonus to saves.</p> <p><em><strong>Luck.</strong></em> While you carry this sword, you can call on its luck (no action required) to reroll one attack roll, ability check, or save you dislike. You must use the second roll. This property can’t be used again until the next dawn.</p> <p><em><strong>Wish.</strong></em> The sword has [[/r 1d4 - 1]] charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can’t be used again until the next dawn and never recharges. The sword loses this property if it has no charges.</p>",
+          "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием. Пока меч при вас, вы также получаете бонус +1 к спасброскам.</p><p><em><strong>Удача.</strong></em> Пока вы носите этот меч, вы можете призвать его удачу (действие не требуется), чтобы перебросить один бросок атаки, проверку характеристики или спасбросок, результат которого вам не нравится. Вы должны использовать второй результат. Это свойство нельзя использовать снова до следующего рассвета.</p><p><em><strong>Желание.</strong></em> У меча [[/r 1d4 - 1]] зарядов. Пока вы держите его, действием вы можете потратить 1 заряд и наложить с него заклинание Желание. Это свойство нельзя использовать снова до следующего рассвета и оно никогда не перезаряжается. Меч теряет это свойство, если в нём не осталось зарядов.</p>",
           "priority": null
         }
       ],

@@ -26,7 +26,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</p>",
+      "value": "<p>Лампа даёт яркий свет в радиусе 15 футов и тусклый свет ещё на 30 футов. После зажигания она горит 6 часов на одной фляге (1 пинта) масла.</p>",
       "source": {}
     },
     "type": {

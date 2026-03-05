@@ -77,7 +77,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A creature subjected to this poison must succeed on a [[/save]] save or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the save at the end of each of its turns, ending both effects on a success.</p>",
+      "value": "<p>Существо, подвергшееся действию этого яда, должно пройти [[/save]] спасбросок, иначе будет отравлено на 1 минуту. Отравленное существо парализовано. В конце каждого своего хода существо может повторять спасбросок, завершая оба эффекта при успехе.</p>",
       "source": {}
     },
     "attunement": {},

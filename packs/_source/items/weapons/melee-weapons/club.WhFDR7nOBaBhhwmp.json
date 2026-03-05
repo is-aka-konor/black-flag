@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Клуб",
+  "name": "Дубинка",
   "type": "weapon",
   "_id": "WhFDR7nOBaBhhwmp",
   "img": "icons/weapons/clubs/club-banded-brown.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

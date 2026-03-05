@@ -63,7 +63,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This red, glimmering potion allows you to regain hit points when you drink it. This potion recovers [[/r 10d4 + 20]] hit points.</p>",
+      "value": "<p>Это красное мерцающее зелье восстанавливает хиты, когда вы его выпиваете. Вы восстанавливаете [[/r 10d4 + 20]] хитов.</p>",
       "source": {}
     },
     "type": {

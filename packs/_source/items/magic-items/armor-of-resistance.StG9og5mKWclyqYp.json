@@ -3,7 +3,7 @@
   "name": "Броня сопротивления",
   "system": {
     "description": {
-      "value": "<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.jhuEeuKgkLytITZz inline]</p><section class=\"secret\" id=\"secret-UtZfHoem597hb4n5\"><p><strong>Foundry Note</strong></p><p><em>Armor (Light, Medium, or Heavy), Rare, 5,000 gp + armor base cost (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление одному типу урона. Мастер выбирает тип либо определяет его случайно из вариантов ниже.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.jhuEeuKgkLytITZz inline]</p><section class=\"secret\" id=\"secret-UtZfHoem597hb4n5\"><p><strong>Примечание</strong></p><p><em>Доспех (лёгкий, средний или тяжёлый), редкий, 5 000 зм + базовая стоимость доспеха (требуется настройка)</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {}
     },
     "activities": {},
@@ -66,7 +66,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Acid Resistance",
+          "value": "{} сопротивления кислоте",
           "priority": null
         },
         {
@@ -84,7 +84,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to acid damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление кислотному урону.</p>",
           "priority": null
         },
         {
@@ -617,7 +617,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Cold Resistance",
+          "value": "{} сопротивления холоду",
           "priority": null
         },
         {
@@ -635,7 +635,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to cold damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление урону холодом.</p>",
           "priority": null
         },
         {
@@ -709,7 +709,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Fire Resistance",
+          "value": "{} сопротивления огню",
           "priority": null
         },
         {
@@ -727,7 +727,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to fire damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление огненному урону.</p>",
           "priority": null
         },
         {
@@ -801,7 +801,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Force Resistance",
+          "value": "{} сопротивления силе",
           "priority": null
         },
         {
@@ -819,7 +819,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to force damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление силовому урону.</p>",
           "priority": null
         },
         {
@@ -893,7 +893,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Lightning Resistance",
+          "value": "{} сопротивления электричеству",
           "priority": null
         },
         {
@@ -911,7 +911,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to lightning damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление электрическому урону.</p>",
           "priority": null
         },
         {
@@ -985,7 +985,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Necrotic Resistance",
+          "value": "{} сопротивления некротике",
           "priority": null
         },
         {
@@ -1003,7 +1003,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to necrotic damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление некротическому урону.</p>",
           "priority": null
         },
         {
@@ -1077,7 +1077,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Poison Resistance",
+          "value": "{} сопротивления яду",
           "priority": null
         },
         {
@@ -1095,7 +1095,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to poison damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление урону ядом.</p>",
           "priority": null
         },
         {
@@ -1169,7 +1169,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Psychic Resistance",
+          "value": "{} сопротивления психике",
           "priority": null
         },
         {
@@ -1187,7 +1187,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to psychic damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление психическому урону.</p>",
           "priority": null
         },
         {
@@ -1261,7 +1261,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Radiant Resistance",
+          "value": "{} сопротивления излучению",
           "priority": null
         },
         {
@@ -1279,7 +1279,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to radiant damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление урону излучением.</p>",
           "priority": null
         },
         {
@@ -1353,7 +1353,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Thunder Resistance",
+          "value": "{} сопротивления грому",
           "priority": null
         },
         {
@@ -1371,7 +1371,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have resistance to thunder damage while you wear this armor.</p>",
+          "value": "<p>Пока вы носите этот доспех, вы получаете сопротивление урону звуком.</p>",
           "priority": null
         },
         {

@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This gem contains a mote of elemental energy. When you use an action to break the gem, a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.2DCblylWLteSqQ07]{fire elemental}</strong> is summoned as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell, and the gem’s magic is lost.</p>",
+      "value": "<p>Этот самоцвет содержит искру стихийной энергии. Действием вы можете разбить самоцвет; тогда <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.2DCblylWLteSqQ07]{элементаль огня}</strong> призывается, как если бы вы наложили <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{Вызов элементаля}</em>, после чего магия самоцвета исчезает.</p>",
       "source": {
         "fallback": ""
       }

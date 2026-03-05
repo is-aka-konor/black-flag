@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Морнингстар",
+  "name": "Моргенштерн",
   "type": "weapon",
   "_id": "zWBmus194O0RLxeU",
   "img": "icons/weapons/maces/mace-round-spiked-grey.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

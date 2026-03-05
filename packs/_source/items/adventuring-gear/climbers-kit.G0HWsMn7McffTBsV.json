@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself to a solid surface within 5 feet of you (this surface can’t be part of a creature); when you do, you can’t fall more than 25 feet from your anchor point, and you can’t climb more than 25 feet away from that point without undoing the anchor.</p>",
+      "value": "<p>Комплект скалолаза включает специальные крюки, накладки на обувь, перчатки и страховочную систему. Действием вы можете закрепиться на твёрдой поверхности в пределах 5 футов (эта поверхность не может быть частью существа). После этого вы не можете упасть более чем на 25 футов от точки крепления и не можете отдалиться от неё при лазании более чем на 25 футов, пока не снимете закрепление.</p>",
       "source": {}
     },
     "type": {

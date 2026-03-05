@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to force damage while wearing this ring. The sapphire in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление силовому урону. Сапфир в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

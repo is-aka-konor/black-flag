@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While you wear these boots, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.0iiu16z9T1sNdNXP]{levitate}</em> spell from them on yourself.</p>",
+      "value": "<p>Пока вы носите эти сапоги, действием вы можете накладывать с них на себя заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.0iiu16z9T1sNdNXP]{Левитация}</em>.</p>",
       "source": {}
     },
     "activities": {

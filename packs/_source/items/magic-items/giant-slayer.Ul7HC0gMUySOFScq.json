@@ -3,7 +3,7 @@
   "name": "Гигантский убийца",
   "system": {
     "description": {
-      "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p><p>When you use it to hit a creature with the Giant type, the creature takes an extra [[/r 2d6]] damage of the weapon’s type and must succeed on a [[/save 15 STR]] or fall prone.</p><section class=\"secret\" id=\"secret-LWgFT10BX0uRo7QZ\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Axe or Sword), Rare, 1,500 gp + base item cost</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p><p>Когда вы попадаете им по существу типа Великан, оно получает дополнительный [[/r 2d6]] урона того же типа, что и урон оружия, и должно преуспеть в [[/save 15 STR]], иначе падает ничком.</p><section class=\"secret\" id=\"secret-LWgFT10BX0uRo7QZ\"><p><strong>Примечание</strong></p><p><em>Оружие (любой топор или меч), редкий, 1 500 зм + стоимость базового предмета</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -42,7 +42,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you hit a creature with the Giant type"
+          "condition": "Когда вы попадаете по существу типа Великан"
         },
         "consumption": {
           "targets": [],
@@ -154,7 +154,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Giant Slayer {}",
+          "value": "Убийца великанов {}",
           "priority": null
         },
         {
@@ -190,7 +190,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p> <p>When you use it to hit a creature with the Giant type, the creature takes an extra [[/r 2d6]] damage of the weapon’s type and must succeed on a [[/save 15 STR]] or fall prone.</p>",
+          "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p><p>Когда вы попадаете им по существу типа Великан, оно получает дополнительный [[/r 2d6]] урона того же типа, что и урон оружия, и должно преуспеть в [[/save 15 STR]], иначе падает ничком.</p>",
           "priority": null
         }
       ],

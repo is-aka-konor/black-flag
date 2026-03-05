@@ -150,7 +150,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The typical crystal ball is a very rare magic item about 6 inches in diameter. While touching it, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{scrying}</em> spell (save DC 17) with it.</p><p>You can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{detect thoughts}</em> spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate to maintain <em>detect thoughts</em> for the duration of the spell, but it ends if scrying ends.</p>",
+      "value": "<p>Обычный кристальный шар — очень редкий магический предмет диаметром около 6 дюймов. Пока вы его касаетесь, вы можете накладывать через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{Наблюдение}</em> (СЛ спасброска 17).</p><p>Пока вы ведёте наблюдение через кристальный шар, действием вы можете наложить заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.q3ggx5aH69iqrcL3]{Обнаружение мыслей}</em> (СЛ спасброска 17), выбирая целью существ, которых видите в пределах 30 футов от сенсора заклинания. Для поддержания <em>Обнаружение мыслей</em> вам не нужна концентрация на всё время действия заклинания, но эффект заканчивается, если прекращается наблюдение.</p>",
       "source": {}
     },
     "type": {

@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy]{detect magic}</em> spell from it. The wand regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>У этой палочки 3 заряда. Пока вы держите её, действием вы можете потратить 1 заряд, чтобы наложить с неё заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.jhMAM81keoyqBzsy]{Обнаружение магии}</em>. Палочка ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете.</p>",
       "source": {
         "fallback": ""
       }

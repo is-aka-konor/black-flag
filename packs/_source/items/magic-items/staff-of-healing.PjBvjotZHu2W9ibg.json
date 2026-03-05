@@ -258,7 +258,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: <em>@UUID[Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip]{cure wounds}</em> (1 charge per spell circle, up to 4th), <em>@UUID[Compendium.black-flag-ru.spells.Item.Aqff6XGGmiVXo6A6]{restoration}</em> (2 charges), or <em>@UUID[Compendium.black-flag-ru.spells.Item.qGHh25GoYwwQ13NO]{mass cure wounds}</em> (5 charges).</p><p>The staff regains [[/r 1d6 + 4]] expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.</p>",
+      "value": "<p>У этого посоха 10 зарядов. Пока вы держите его, действием вы можете потратить 1 или более зарядов, чтобы наложить с него одно из следующих заклинаний, используя вашу СЛ спасброска заклинаний и модификатор базовой характеристики заклинаний: <em>@UUID[Compendium.black-flag-ru.spells.Item.NQvy34IRCNEJfwip]{Лечение ран}</em> (1 заряд за круг заклинания, максимум 4-й), <em>@UUID[Compendium.black-flag-ru.spells.Item.Aqff6XGGmiVXo6A6]{Восстановление}</em> (2 заряда) или <em>@UUID[Compendium.black-flag-ru.spells.Item.qGHh25GoYwwQ13NO]{Массовое лечение ран}</em> (5 зарядов).</p><p>Посох ежедневно восстанавливает [[/r 1d6 + 4]] потраченных зарядов на рассвете. Если вы тратите последний заряд, бросьте d20. При 1 посох исчезает во вспышке света и теряется навсегда.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

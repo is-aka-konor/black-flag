@@ -89,7 +89,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "When you hit with a melee attack using the staff"
+          "condition": "Когда вы попадаете рукопашной атакой этим посохом"
         },
         "consumption": {
           "targets": [
@@ -158,7 +158,7 @@
       "KwEuhJ1EVx8qObCR": {
         "type": "save",
         "_id": "KwEuhJ1EVx8qObCR",
-        "description": "<p>Когда вы наносите рукопашную атаку с использованием посоха, вы можете выбрать (действие не требуется), чтобы посох издал раскат грома, слышимый на расстоянии 300 футов. Цель, которую вы поразили, должна добиться успеха на [[/save]] или стать &Reference[оглушенной] до конца следующего хода.</p>",
+        "description": "<p>Когда вы попадаете посохом рукопашной атакой, вы можете (без траты действия) заставить посох издать раскат грома, слышимый в пределах 300 футов. Поражённая цель должна преуспеть в [[/save]], иначе становится &Reference[stunned] до конца вашего следующего хода.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -180,7 +180,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "When you hit with a melee attack using the staff"
+          "condition": "Когда вы попадаете рукопашной атакой этим посохом"
         },
         "consumption": {
           "targets": [
@@ -353,7 +353,7 @@
       "ds7Wrp9DH2iLOWcB": {
         "type": "save",
         "_id": "ds7Wrp9DH2iLOWcB",
-        "description": "<p>Вы можете привести посох из дать оглушительный раскат грома, слышимый на расстоянии 600 футов. Каждое существо в пределах 60 футов от вас (не вас включая) должно производиться [[/save]]. В случае неудачи Существо получает [[/damage]] и становится &Reference[оглушить] на 1 минуту. При успешном спасброске он получает половину урона и не оглушается.</p>",
+        "description": "<p>Вы можете заставить посох издать оглушительный раскат грома, слышимый в пределах 600 футов. Каждое существо в пределах 60 футов от вас (кроме вас) должно совершить [[/save]]. При провале существо получает [[/damage]] и становится &Reference[stunned] на 1 минуту. При успехе существо получает половину урона и не оглушается.</p>",
         "sort": 0,
         "system": {
           "damage": {
@@ -489,7 +489,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "When you hit with a melee attack using the staff"
+          "condition": "Когда вы попадаете рукопашной атакой этим посохом"
         },
         "consumption": {
           "targets": [
@@ -569,7 +569,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. The staff has the following additional properties:</p><p>@Embed[.Activity.LIrRBK5OYyEzzNFc inline activate]{Lightning}</p><p>@Embed[.Activity.KwEuhJ1EVx8qObCR inline activate]{Thunder}</p><p>@Embed[.Activity.atyIMH7klQQCpnNA inline activate]{Lightning Strike}</p><p>@Embed[.Activity.ds7Wrp9DH2iLOWcB inline activate]{Thunderclap}</p><p>@Embed[.Activity.nbPPyY6AmM3nqdul inline activate]{Lightning and Thunder}</p><p>When one of these properties is used, it can’t be used again until the next dawn.</p>",
+      "value": "<p>Этим посохом можно владеть как магическим боевым посохом, дающим бонус +2 к броскам атаки и урона этим оружием. У посоха есть следующие дополнительные свойства:</p><p>@Embed[.Activity.LIrRBK5OYyEzzNFc inline activate]{Молния}</p><p>@Embed[.Activity.KwEuhJ1EVx8qObCR inline activate]{Гром}</p><p>@Embed[.Activity.atyIMH7klQQCpnNA inline activate]{Удар молнии}</p><p>@Embed[.Activity.ds7Wrp9DH2iLOWcB inline activate]{Раскат грома}</p><p>@Embed[.Activity.nbPPyY6AmM3nqdul inline activate]{Молния и гром}</p><p>После использования любого из этих свойств его нельзя использовать снова до следующего рассвета.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

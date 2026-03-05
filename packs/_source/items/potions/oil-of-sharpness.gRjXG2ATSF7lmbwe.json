@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.</p>",
+      "value": "<p>Это прозрачное желеобразное масло мерцает мельчайшими ультратонкими серебристыми чешуйками. Им можно покрыть одно оружие, наносящее рубящий или колющий урон, либо до 5 таких боеприпасов. Нанесение занимает 1 минуту. На 1 час покрытый предмет становится магическим и получает бонус +3 к броскам атаки и урона.</p>",
       "source": {}
     },
     "properties": [
@@ -74,7 +74,7 @@
             "choice": false,
             "type": "object",
             "count": "5",
-            "special": "Slashing or piercing ammunition"
+            "special": "Боеприпасы, наносящие рубящий или колющий урон"
           },
           "prompt": true,
           "override": false
@@ -128,7 +128,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Sharp {}",
+          "value": "Острый {}",
           "priority": null
         },
         {

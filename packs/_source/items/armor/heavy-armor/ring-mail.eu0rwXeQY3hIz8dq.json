@@ -1,6 +1,6 @@
 {
   "folder": "FUnjG0V10gg8lqPG",
-  "name": "Кольцевая почта",
+  "name": "Кольчатый доспех",
   "type": "armor",
   "_id": "eu0rwXeQY3hIz8dq",
   "img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This leather armor has heavy rings sewn into it. The rings help reinforce the armor against attacks.</p>",
+      "value": "<p>В этот кожаный доспех вшиты тяжёлые кольца. Они усиливают защиту от атак.</p>",
       "source": {}
     },
     "type": {

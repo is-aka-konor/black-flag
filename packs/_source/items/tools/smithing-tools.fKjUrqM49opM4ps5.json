@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Smithing tools are used to build and repair items primarily made of metal. The use of smithing tools typically requires a dedicated forge, furnace, or some other source of intense heat. A campfire is only suitable for the smallest tasks like spot repairs.</p><p><em><strong>Associated Abilities:</strong></em> DEX, CON.</p><p><em><strong>Components.</strong></em> This tool kit includes a small anvil, tongs, hammers, heat-resistant hide or cloth towels, calipers, and billows.</p><p><em><strong>Craft Items.</strong></em> Smithing tools can be used to make items with the crafting downtime activity.</p>",
+      "value": "<p>Кузнечные инструменты используются для изготовления и ремонта предметов, в первую очередь металлических. Обычно для работы нужен горн, печь или другой мощный источник жара. Костёр подходит только для самых мелких задач, вроде точечного ремонта.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ТЕЛ.</p><p><em><strong>Состав.</strong></em> В комплект входят маленькая наковальня, клещи, молотки, жаростойкая кожа или тканевые полотенца, штангенциркуль и меха.</p><p><em><strong>Создание предметов.</strong></em> Кузнечные инструменты можно использовать для изготовления предметов через деятельность простоя по ремеслу.</p>",
       "source": {}
     },
     "type": {

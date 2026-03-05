@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While wearing this ring, your swimming speed is 40 feet.</p>",
+      "value": "<p>Пока вы носите это кольцо, ваша скорость плавания равна 40 футам.</p>",
       "source": {
         "fallback": ""
       }

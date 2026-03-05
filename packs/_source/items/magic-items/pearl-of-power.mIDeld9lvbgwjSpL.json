@@ -16,7 +16,7 @@
       "requirement": "от заклинателя"
     },
     "description": {
-      "value": "<p>While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th circle or higher, the new slot is 3rd circle. Once you use the pearl, it can’t be used again until the next dawn.</p>",
+      "value": "<p>Пока эта жемчужина находится при вас, действием вы можете произнести её командное слово и восстановить одну потраченную ячейку заклинания. Если потраченная ячейка была 4 круга или выше, новая ячейка будет 3 круга. После использования жемчужину нельзя использовать снова до следующего рассвета.</p>",
       "source": {
         "fallback": ""
       }

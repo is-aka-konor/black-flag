@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on DEX (Stealth) checks that rely on moving silently.</p>",
+      "value": "<p>Пока вы носите эти сапоги, ваши шаги не издают звука, независимо от поверхности. Вы также получаете преимущество на проверки ЛОВ (Скрытность), зависящие от бесшумного передвижения.</p>",
       "source": {}
     },
     "activities": {},
@@ -61,7 +61,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"dexterity\" }, { \"k\": \"skill\", \"v\": \"stealth\" }], \"note\": { \"rollMode\": 1, \"text\": \"You also have advantage on DEX (Stealth) checks that rely on moving silently.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"dexterity\"},{\"k\":\"skill\",\"v\":\"stealth\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы также получаете преимущество на проверки ЛОВ (Скрытность), зависящие от бесшумного передвижения.\"}}]",
           "priority": null
         }
       ],

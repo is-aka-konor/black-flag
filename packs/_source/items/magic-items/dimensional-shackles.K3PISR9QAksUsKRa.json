@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal.</p><p>You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a [[/check 30 STR (Athletics)]]. On a success, the creature breaks free and destroys the shackles.</p>",
+      "value": "<p>Действием вы можете надеть эти кандалы на недееспособное существо. Кандалы подстраиваются под существо от Маленького до Большого размера. Помимо обычной функции кандалов, они не позволяют скованному существу использовать любые способы экстрапланарного перемещения, включая телепортацию или переход на другой план существования. Однако кандалы не мешают существу проходить через межпространственные порталы.</p><p>Вы и любое существо, которое вы обозначили при использовании кандалов, можете действием снять их. Раз в 30 дней скованное существо может выполнить [[/check 30 STR (Athletics)]]. При успехе существо вырывается и уничтожает кандалы.</p>",
       "source": {}
     },
     "activities": {

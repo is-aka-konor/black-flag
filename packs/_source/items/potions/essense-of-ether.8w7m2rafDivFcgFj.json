@@ -71,7 +71,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>A creature subjected to this poison must succeed on a [[/save]] save or be poisoned for 8 hours. The poisoned creature is unconscious. The unconscious effect ends if the creature takes damage or if another creature takes an action to shake it awake.</p>",
+      "value": "<p>Существо, подвергшееся действию этого яда, должно пройти [[/save]] спасбросок, иначе будет отравлено на 8 часов. Отравленное существо находится без сознания. Эффект бессознательности заканчивается, если существо получает урон или если другое существо действием приводит его в чувство.</p>",
       "source": {}
     },
     "attunement": {},

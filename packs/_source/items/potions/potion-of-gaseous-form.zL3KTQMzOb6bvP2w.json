@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.fUkZjWTGW0wFntSB]{gaseous form}</em> spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion’s container seems to hold fog that moves and pours like water.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, вы получаете эффект заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.fUkZjWTGW0wFntSB]{Газообразная форма}</em> на 1 час (концентрация не требуется) или до тех пор, пока не завершите эффект бонусным действием. Кажется, что сосуд этого зелья наполнен туманом, который движется и льётся как вода.</p>",
       "source": {
         "fallback": ""
       }

@@ -96,7 +96,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "As part of the Attack action with the staff"
+          "condition": "Как часть действия Атака с этим посохом"
         },
         "consumption": {
           "targets": [
@@ -167,7 +167,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This staff has 3 charges and regains [[/r 1d3]] expended charges daily at dawn.</p><p>The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge as part of your Attack action to deal an extra [[/damage 2d10 necrotic]] to the target. In addition, the target must succeed on a [[/save 15 CON]] or have disadvantage for 1 hour on any ability check or save that uses STR or CON.</p>",
+      "value": "<p>У этого посоха 3 заряда, и он ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете.</p><p>Посохом можно владеть как магическим боевым посохом. При попадании он наносит урон как обычный боевой посох, и вы можете потратить 1 заряд как часть действия Атака, чтобы цель получила дополнительный [[/damage 2d10 necrotic]]. Кроме того, цель должна преуспеть в [[/save 15 CON]], иначе в течение 1 часа будет совершать с помехой любые проверки характеристик и спасброски, использующие СИЛ или ТЕЛ.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

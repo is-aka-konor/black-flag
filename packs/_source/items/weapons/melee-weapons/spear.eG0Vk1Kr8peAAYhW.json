@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage versatile average]] damage if used with two hands.</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 10 фт., одна цель. Попадание: [[/damage]]. При использовании двумя руками: [[/damage versatile average]] колющего урона.</p>",
       "source": {}
     },
     "type": {

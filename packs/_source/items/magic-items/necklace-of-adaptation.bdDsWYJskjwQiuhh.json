@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this necklace, you can breathe normally in any environment. You also have advantage on saves made against harmful gases and vapors, such as <em>cloudkill</em> and <em>stinking cloud</em> effects, inhaled poisons, and the breath weapons of some dragons.</p>",
+      "value": "<p>Пока вы носите это ожерелье, вы можете нормально дышать в любой среде. Вы также получаете преимущество на спасброски против вредных газов и паров, включая эффекты <em>Смертельное облако</em> и <em>Зловонное облако</em>, вдыхаемые яды и оружие дыхания некоторых драконов.</p>",
       "source": {
         "fallback": ""
       }
@@ -64,7 +64,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You also have advantage on saves made against harmful gases and vapors.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы также получаете преимущество на спасброски против вредных газов и паров.\"}}]",
           "priority": null
         }
       ],

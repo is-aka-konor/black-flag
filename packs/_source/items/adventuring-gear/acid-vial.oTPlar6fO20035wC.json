@@ -74,7 +74,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes [[/damage 2d6 acid]] damage.</p>",
+      "value": "<p>Действием вы можете выплеснуть содержимое этой склянки на существо в пределах 5 футов от себя или бросить её на расстояние до 20 футов, разбив при попадании. В любом случае совершите дальнобойную атаку по существу или объекту, считая кислоту импровизированным оружием. При попадании цель получает [[/damage 2d6 acid]] урона кислотой.</p>",
       "source": {}
     },
     "type": {

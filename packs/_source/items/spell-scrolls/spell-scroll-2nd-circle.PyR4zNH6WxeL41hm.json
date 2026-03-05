@@ -25,7 +25,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A <em>spell scroll</em> bears the words of a single spell, written in a mystical cipher. You can read the scroll and cast its spell without providing any material components. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p><p>The circle of the spell on the scroll determines the spell’s save DC and attack bonus, as well as the scroll’s rarity.</p><p><strong>Save DC:</strong> 13</p><p><strong>Attack Bonus:</strong> +5</p>",
+      "value": "<p>На <em>свитке заклинания</em> записаны слова одного заклинания мистическим шифром. Вы можете прочитать свиток и наложить его заклинание без материальных компонентов. Наложение заклинания со свитка требует обычного времени накладывания. После накладывания заклинания слова на свитке исчезают, а сам он рассыпается в пыль. Если накладывание прервано, свиток не теряется.</p><p>Круг заклинания на свитке определяет СЛ спасброска и бонус атаки заклинания, а также редкость свитка.</p><p><strong>СЛ спасброска:</strong> 13</p><p><strong>Бонус атаки:</strong> +5</p>",
       "source": {}
     },
     "type": {

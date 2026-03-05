@@ -1,5 +1,5 @@
 {
-  "name": "Лэнс",
+  "name": "Кавалерийское копье",
   "type": "weapon",
   "_id": "vDPNvqRkuKnzAbvR",
   "img": "icons/weapons/polearms/pike-flared-brown.webp",
@@ -58,7 +58,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 10 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "attunement": {

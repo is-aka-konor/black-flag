@@ -1,5 +1,5 @@
 {
-  "name": "духовой пистолет",
+  "name": "Духовая трубка",
   "type": "weapon",
   "_id": "5jfXHBmPqbspahJk",
   "img": "icons/weapons/guns/gun-blunderbuss-worn-brown.webp",
@@ -58,7 +58,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Дальнобойная атака оружием: [[/attack]]. Дистанция 25/100 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "attunement": {

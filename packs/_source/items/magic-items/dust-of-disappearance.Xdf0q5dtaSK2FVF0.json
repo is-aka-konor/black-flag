@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for [[/r 2d4]] minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.</p>",
+      "value": "<p>В небольшом пакете находится порошок, похожий на очень мелкий песок. Его хватает на одно применение. Действием вы можете бросить порошок в воздух, и вы, а также каждое существо и предмет в пределах 10 футов от вас, становитесь невидимыми на [[/r 2d4]] минут. Длительность одинакова для всех целей, а порошок расходуется, как только его магия начинает действовать. Если существо, затронутое пылью, атакует или накладывает заклинание, невидимость для него заканчивается.</p>",
       "source": {
         "fallback": ""
       }

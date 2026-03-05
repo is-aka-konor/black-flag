@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While wearing this helm, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.wyKjdoHh1PVEId7q]{comprehend languages}</em> spell from it.</p>",
+      "value": "<p>Пока вы носите этот шлем, действием вы можете накладывать с него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.wyKjdoHh1PVEId7q]{Понимание языков}</em>.</p>",
       "source": {
         "fallback": ""
       }

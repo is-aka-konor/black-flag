@@ -3,7 +3,7 @@
   "name": "Меч Остроты",
   "system": {
     "description": {
-      "value": "<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p><p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra [[/damage 4d6 slashing]]. Then roll another d20. If you roll a 20, you lop off one of the target’s limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p><p>In addition, you can speak the sword’s command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p><section class=\"secret\" id=\"secret-m9iAOw4SsynIHimB\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword That Deals Slashing Damage) Very Rare, 60,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Когда вы атакуете предмет этим магическим мечом и попадаете, кости урона оружия по цели максимизируются.</p><p>Когда вы атакуете существо этим оружием и выбрасываете 20 на броске атаки, цель получает дополнительный [[/damage 4d6 slashing]]. Затем бросьте ещё один d20. Если выпало 20, вы отрубаете одну из конечностей цели; эффект потери конечности определяет Мастер. Если отрубать нечего, вы отсекаете часть тела цели.</p><p>Кроме того, вы можете произнести командное слово меча, чтобы клинок излучал яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов. Повторное произнесение командного слова или убирание меча в ножны гасит свет.</p>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Sharpness",
+          "value": "{} остроты",
           "priority": null
         },
         {
@@ -74,7 +74,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p> <p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra [[/damage 4d6 slashing]]. Then roll another d20. If you roll a 20, you lop off one of the target’s limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p> <p>In addition, you can speak the sword’s command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>",
+          "value": "<p>Когда вы атакуете предмет этим магическим мечом и попадаете, кости урона оружия по цели максимизируются.</p><p>Когда вы атакуете существо этим оружием и выбрасываете 20 на броске атаки, цель получает дополнительный [[/damage 4d6 slashing]]. Затем бросьте ещё один d20. Если выпало 20, вы отрубаете одну из конечностей цели; эффект потери конечности определяет Мастер. Если отрубать нечего, вы отсекаете часть тела цели.</p><p>Кроме того, вы можете произнести командное слово меча, чтобы клинок излучал яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов. Повторное произнесение командного слова или убирание меча в ножны гасит свет.</p>",
           "priority": null
         },
         {

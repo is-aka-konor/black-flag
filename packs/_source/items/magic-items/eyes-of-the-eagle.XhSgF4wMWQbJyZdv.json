@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>These crystal lenses fit over the eyes. While wearing them, you have advantage on WIS (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.</p>",
+      "value": "<p>Эти кристальные линзы надеваются на глаза. Пока вы их носите, вы получаете преимущество на проверки МДР (Внимательность), зависящие от зрения. В условиях хорошей видимости вы можете различать детали даже очень удалённых существ и объектов размером от 2 футов.</p>",
       "source": {
         "fallback": ""
       }
@@ -64,11 +64,11 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"wisdom\" }, { \"k\": \"skill\", \"v\": \"perception\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on WIS (Perception) checks that rely on sight.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"wisdom\"},{\"k\":\"skill\",\"v\":\"perception\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на проверки МДР (Внимательность), зависящие от зрения.\"}}]",
           "priority": null
         }
       ],
-      "description": "<p>Вы имеете преимущество при взгляде на WIS (внимательность), доверяете зрению.</p>",
+      "description": "<p>Вы совершаете с преимуществом проверки МДР (Внимательность), основанные на зрении.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],

@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While wearing these goggles, you have darkvision to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.</p>",
+      "value": "<p>Пока вы носите эти очки, вы получаете тёмное зрение на 60 футов. Если тёмное зрение у вас уже есть, его дальность увеличивается на 60 футов.</p>",
       "source": {
         "fallback": ""
       }

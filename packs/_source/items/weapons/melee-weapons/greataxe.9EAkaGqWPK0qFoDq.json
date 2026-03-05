@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Большой топор",
+  "name": "Секира",
   "type": "weapon",
   "_id": "9EAkaGqWPK0qFoDq",
   "img": "icons/weapons/axes/axe-battle-engraved-purple.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная атака оружием: [[/attack]]. Досягаемость 5 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

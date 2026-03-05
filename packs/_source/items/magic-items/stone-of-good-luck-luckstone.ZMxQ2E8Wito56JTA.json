@@ -1,6 +1,6 @@
 {
   "type": "gear",
-  "name": "Камень удачи (Luckstone)",
+  "name": "Камень удачи",
   "system": {
     "type": {
       "category": "wondrousItem"
@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While carrying this polished agate, you gain a +1 bonus to ability checks and saves.</p>",
+      "value": "<p>Пока вы носите этот отполированный агат при себе, вы получаете бонус +1 к проверкам характеристик и спасброскам.</p>",
       "source": {
         "fallback": ""
       }

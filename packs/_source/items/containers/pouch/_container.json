@@ -20,7 +20,7 @@
     },
     "properties": [],
     "description": {
-      "value": "<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a @UUID[Compendium.black-flag-ru.items.Item.f32H3HCS3Gg19diW]{component pouch}.</p>",
+      "value": "<p>Тканевый или кожаный мешочек может вмещать, среди прочего, до 20 снарядов для пращи или 50 игл для духовой трубки. Мешочек с отделениями для компонентов заклинаний называется @UUID[Compendium.black-flag-ru.items.Item.f32H3HCS3Gg19diW]{мешочком с компонентами}.</p>",
       "source": {}
     },
     "capacity": {

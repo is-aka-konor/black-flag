@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.oTs4HWDpPWNNEdqv]{etherealness}</em> spell for 1 hour.</p>",
+      "value": "<p>На поверхности этого мутно-серого масла выступают капли, которые быстро испаряются. Маслом можно покрыть Среднее или меньшее существо вместе с его надетым и переносимым снаряжением (для каждой категории размера выше Среднего требуется ещё одна склянка). Нанесение масла занимает 10 минут. После этого существо получает эффект заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.oTs4HWDpPWNNEdqv]{Бесплотность}</em> на 1 час.</p>",
       "source": {}
     },
     "properties": [

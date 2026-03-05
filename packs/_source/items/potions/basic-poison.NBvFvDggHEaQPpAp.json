@@ -57,7 +57,7 @@
             "choice": false,
             "type": "special",
             "count": "1",
-            "special": "One weapon or up to three pieces of ammunition that deal piercing or slashing damag"
+            "special": "Одно оружие или до трёх боеприпасов, наносящих колющий или рубящий урон"
           },
           "override": false
         },
@@ -80,7 +80,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You can use the poison in this vial to coat one weapon or up to three pieces of ammunition that deal piercing or slashing damage. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must succeed on a [[/save]] save or take [[/damage]] damage (in addition to the weapon’s normal damage). Once applied, the poison retains potency for 1 minute before drying.</p>",
+      "value": "<p>Вы можете использовать яд из этой склянки, чтобы покрыть одно оружие или до трёх боеприпасов, наносящих колющий или рубящий урон. Нанесение яда требует действия. Существо, поражённое отравленным оружием или боеприпасом, должно пройти [[/save]] спасбросок, иначе получает [[/damage]] урона (вдобавок к обычному урону оружия). После нанесения яд сохраняет силу 1 минуту, затем высыхает.</p>",
       "source": {}
     },
     "attunement": {},

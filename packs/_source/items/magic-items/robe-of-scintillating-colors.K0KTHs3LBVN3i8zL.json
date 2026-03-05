@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This robe has 3 charges and regains [[/r 1d3]] expended charges daily at dawn. While you wear it, you can use an action and expend 1 charge to cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe’s power is activated must succeed on a [[/save 15 WIS]] or become &Reference[stunned] until the effect ends.</p>",
+      "value": "<p>У этой мантии 3 заряда, и она ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете. Пока вы носите её, действием вы можете потратить 1 заряд, чтобы ткань заиграла переливающимися ослепительными цветами до конца вашего следующего хода. В это время мантия излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Существа, которые вас видят, совершают по вам броски атаки с помехой. Кроме того, любое существо в ярком свете, которое видит вас в момент активации силы мантии, должно преуспеть в [[/save 15 WIS]], иначе станет &Reference[stunned] до окончания эффекта.</p>",
       "source": {
         "fallback": ""
       }

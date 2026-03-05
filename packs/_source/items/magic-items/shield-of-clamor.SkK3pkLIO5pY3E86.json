@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The surface of this shield vibrates unpredictably when struck. When a weapon attack misses you while you are wielding this shield, it makes one of several sounds that are audible to 60 feet. Choose which sound it makes from the following options: a beaten drum, a duck’s quack, a gopher’s screech, an elephant’s trumpet, a foghorn, a bleating goat, or a ringing bell.</p>",
+      "value": "<p>Поверхность этого щита непредсказуемо вибрирует при ударе. Когда атака оружием по вам промахивается, пока вы держите этот щит, он издаёт один из нескольких звуков, слышимых на расстоянии до 60 футов. Выберите, какой звук это будет: удар барабана, кряканье утки, визг суслика, трубный крик слона, гудок туманного рога, блеяние козла или звон колокола.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

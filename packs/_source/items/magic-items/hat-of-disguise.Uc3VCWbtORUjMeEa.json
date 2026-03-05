@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this hat, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC]{disguise self}</em> spell from it. The spell ends if the hat is removed.</p>",
+      "value": "<p>Пока вы носите эту шляпу, действием вы можете накладывать с неё заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.75HF18ljbTk7wZwC]{Маскировка}</em>. Заклинание заканчивается, если шляпу снять.</p>",
       "source": {
         "fallback": ""
       }

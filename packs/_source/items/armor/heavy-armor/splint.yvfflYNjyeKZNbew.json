@@ -1,6 +1,6 @@
 {
   "folder": "FUnjG0V10gg8lqPG",
-  "name": "шина",
+  "name": "Наборный доспех",
   "type": "armor",
   "_id": "yvfflYNjyeKZNbew",
   "img": "icons/equipment/chest/breastplate-banded-steel-gold.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.</p>",
+      "value": "<p>Этот доспех сделан из узких вертикальных металлических полос, приклёпанных к кожаной основе, которую носят поверх мягкой тканевой подкладки. Суставы защищены гибкой кольчугой.</p>",
       "source": {}
     },
     "type": {

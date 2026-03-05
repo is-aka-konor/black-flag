@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to fire damage while wearing this ring. The garnet in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление урону огнём. Гранат в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

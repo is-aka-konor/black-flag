@@ -15,7 +15,7 @@
       "requirement": "от заклинателя"
     },
     "description": {
-      "value": "<p>While holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack.</p>",
+      "value": "<p>Пока вы держите эту палочку, вы получаете бонус +1 к броскам атаки заклинаниями. Кроме того, при такой атаке вы игнорируете укрытие на половину.</p>",
       "source": {
         "fallback": ""
       }

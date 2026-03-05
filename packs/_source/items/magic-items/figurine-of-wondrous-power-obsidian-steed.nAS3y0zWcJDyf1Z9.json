@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This polished obsidian horse can become a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.Ud4a8hMgKHtjSSde]{nightmare}</strong> for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can’t be used again until 5 days have passed.</p><p>Each time you use it, the figurine has a 10 percent chance to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the Ethereal Plane, where the nightmare reverts to figurine form.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Этот отполированный обсидиановый конь может превращаться в <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.Ud4a8hMgKHtjSSde]{Кошмара}</strong> на срок до 24 часов. Кошмар сражается только для самозащиты. После использования фигурку нельзя применять снова, пока не пройдёт 5 дней.</p><p>Каждый раз при использовании у фигурки есть 10-процентный шанс проигнорировать ваши приказы, включая приказ вернуться в форму фигурки. Если вы оседлаете кошмара, пока он игнорирует приказы, вы и кошмар мгновенно переноситесь в случайное место Эфирного плана, где кошмар возвращается в форму фигурки.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

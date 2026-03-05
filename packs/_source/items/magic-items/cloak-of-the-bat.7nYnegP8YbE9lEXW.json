@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this cloak, you have advantage on DEX (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.</p><p>While wearing the cloak in an area of dim light or darkness, you can use your action to cast <em>@UUID[Compendium.black-flag-ru.spells.Item.izAYjuiXEYPJat3R]{polymorph}</em> on yourself, transforming into a bat. While you are in the form of the <strong>bat</strong>, you retain your INT, WIS, and CHA scores. The cloak can’t be used this way again until the next dusk.</p>",
+      "value": "<p>Пока вы носите этот плащ, вы получаете преимущество на проверки ЛОВ (Скрытность). В области тусклого света или темноты вы можете ухватиться обеими руками за края плаща и летать со скоростью 40 футов. Если во время такого полёта вы перестаёте держаться за края плаща или выходите из тусклого света/темноты, эта скорость полёта теряется.</p><p>Пока вы носите плащ в области тусклого света или темноты, вы можете действием наложить на себя <em>@UUID[Compendium.black-flag-ru.spells.Item.izAYjuiXEYPJat3R]{Превращение}</em>, приняв форму <strong>летучей мыши</strong>. Пока вы в форме <strong>летучей мыши</strong>, вы сохраняете значения ИНТ, МДР и ХАР. Это свойство плаща нельзя использовать снова до следующих сумерек.</p>",
       "source": {}
     },
     "activities": {
@@ -136,7 +136,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"dexterity\" }, { \"k\": \"skill\", \"v\": \"stealth\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on DEX (Stealth) checks.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"dexterity\"},{\"k\":\"skill\",\"v\":\"stealth\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на проверки ЛОВ (Скрытность).\"}}]",
           "priority": null
         }
       ],

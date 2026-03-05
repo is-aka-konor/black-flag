@@ -26,7 +26,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Rope is an object with AC 11 and 2 hit points. It can be burst with a [[/check strength 17]] check.</p>",
+      "value": "<p>Верёвка является объектом с КД 11 и 2 хитами. Её можно порвать успешной проверкой [[/check strength 17]].</p>",
       "source": {}
     },
     "type": {

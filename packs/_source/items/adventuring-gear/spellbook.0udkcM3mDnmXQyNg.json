@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A spellbook is a leather‑bound tome with 100 blank pages suitable for recording spells.</p>",
+      "value": "<p>Книга заклинаний — это том в кожаном переплёте со 100 пустыми страницами, пригодными для записи заклинаний.</p>",
       "source": {}
     },
     "type": {

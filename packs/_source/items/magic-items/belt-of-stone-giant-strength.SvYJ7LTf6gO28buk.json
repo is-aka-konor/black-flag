@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this belt, your STR score changes to 23. If your STR is already equal to or greater than the belt’s score, the item has no effect on you.</p>",
+      "value": "<p>Пока вы носите этот пояс, ваш показатель СИЛ становится 23. Если ваш СИЛ уже равен или выше этого значения, предмет не оказывает на вас эффекта.</p>",
       "source": {}
     },
     "activities": {},

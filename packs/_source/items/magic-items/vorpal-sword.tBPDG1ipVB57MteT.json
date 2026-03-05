@@ -3,7 +3,7 @@
   "name": "Верпальный меч",
   "system": {
     "description": {
-      "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p><p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra [[/damage 6d8 slashing]] from the hit.</p><section class=\"secret\" id=\"secret-Z2miF4MjvSPSKih6\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword That Deals Slashing Damage) Legendary, 50,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием. Кроме того, оружие игнорирует сопротивление рубящему урону.</p><p>Когда вы атакуете этим оружием существо, у которого есть хотя бы одна голова, и выбрасываете 20 на броске атаки, вы отрубаете одну из голов существа. Существо погибает, если не может выжить без этой головы. Существо невосприимчиво к этому эффекту, если оно иммунно к рубящему урону, не имеет и не нуждается в голове, имеет легендарные действия либо Мастер решает, что существо слишком велико, чтобы его голову можно было отсечь этим оружием. Такое существо вместо этого получает дополнительный [[/damage 6d8 slashing]] от попадания.</p>",
       "source": {
         "fallback": ""
       }
@@ -62,13 +62,13 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Vorpal {}",
+          "value": "Ворпал {}",
           "priority": null
         },
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p> <p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra [[/damage 6d8 slashing]] from the hit.</p>",
+          "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием. Кроме того, оружие игнорирует сопротивление рубящему урону.</p><p>Когда вы атакуете этим оружием существо, у которого есть хотя бы одна голова, и выбрасываете 20 на броске атаки, вы отрубаете одну из голов существа. Существо погибает, если не может выжить без этой головы. Существо невосприимчиво к этому эффекту, если оно иммунно к рубящему урону, не имеет и не нуждается в голове, имеет легендарные действия либо Мастер решает, что существо слишком велико, чтобы его голову можно было отсечь этим оружием. Такое существо вместо этого получает дополнительный [[/damage 6d8 slashing]] от попадания.</p>",
           "priority": null
         },
         {

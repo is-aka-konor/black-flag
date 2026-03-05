@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this belt, you gain the following benefits:</p><ul><li><p>Your CON score increases by 2, to a maximum of 20.</p></li><li><p>You have advantage on CHA (Persuasion) checks made to interact with dwarves.</p></li></ul><p>In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you’re capable of growing one, or a visibly thicker beard if you already have one.</p><p>If you aren’t a dwarf, you gain the following additional benefits while wearing the belt:</p><ul><li><p>You have advantage on saves against poison, and you have resistance to poison damage.</p></li><li><p>You have darkvision to a range of 60 feet.</p></li><li><p>You can speak, read, and write Dwarvish.</p></li></ul>",
+      "value": "<p>Пока вы носите этот пояс, вы получаете следующие преимущества:</p><ul><li><p>Ваше значение ТЕЛ увеличивается на 2, максимум до 20.</p></li><li><p>Вы получаете преимущество на проверки ХАР (Убеждение) при взаимодействии с дворфами.</p></li></ul><p>Кроме того, пока вы настроены на этот пояс, каждый день на рассвете у вас есть 50-процентный шанс отрастить полную бороду (если вы способны её отрастить) или заметно увеличить уже имеющуюся.</p><p>Если вы не дворф, пока вы носите пояс, вы также получаете:</p><ul><li><p>Преимущество на спасброски против яда и сопротивление урону ядом.</p></li><li><p>Тёмное зрение в пределах 60 футов.</p></li><li><p>Вы можете говорить, читать и писать на Дворфийском.</p></li></ul>",
       "source": {}
     },
     "activities": {},
@@ -68,7 +68,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"charisma\" }, { \"k\": \"skill\", \"v\": \"persuasion\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on CHA (Persuasion) checks made to interact with dwarves.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"charisma\"},{\"k\":\"skill\",\"v\":\"persuasion\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на проверки ХАР (Убеждение) при взаимодействии с дварфами.\"}}]",
           "priority": null
         }
       ],

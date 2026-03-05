@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>Your CON score is 19 while you carry this amulet. It has no effect on you if your CON is already 19 or higher.</p>",
+      "value": "<p>Ваш показатель ТЕЛ равен 19, пока вы носите этот амулет при себе. Если ваш ТЕЛ уже 19 или выше, предмет не оказывает на вас эффекта.</p>",
       "source": {}
     },
     "activities": {},
@@ -66,7 +66,7 @@
           "priority": null
         }
       ],
-      "description": "<p>Ваш показатель CON равен 19, пока вы носите этот амулет. Это не влияет на вас, если ваш CON уже 19 или выше.</p>",
+      "description": "<p>Пока вы носите этот амулет, ваш показатель ТЕЛ равен 19. Это свойство не действует, если ваш показатель ТЕЛ уже 19 или выше.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],

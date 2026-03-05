@@ -55,7 +55,7 @@
       "units": "ounce"
     },
     "description": {
-      "value": "<p>A creature that drinks this vial of liquid gains advantage on saves against poison for 1 hour. It confers no benefit to Undead or Constructs.</p>",
+      "value": "<p>Существо, выпившее эту склянку, получает преимущество на спасброски от яда на 1 час. Нежити и конструкты не получают от неё пользы.</p>",
       "source": {}
     },
     "type": {

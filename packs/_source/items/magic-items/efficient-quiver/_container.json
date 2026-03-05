@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>Each of this quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.</p><p>You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.</p>",
+      "value": "<p>Каждое из трёх отделений этого колчана соединено с экстрапланарным пространством, благодаря чему колчан может хранить множество предметов и при этом никогда не весит больше 2 фунтов. Самое короткое отделение вмещает до шестидесяти стрел, болтов или подобных предметов. Среднее отделение вмещает до восемнадцати дротиков или подобных предметов. Самое длинное отделение вмещает до шести длинных предметов, таких как луки, боевые посохи или копья.</p><p>Вы можете извлекать любой предмет из колчана так, будто достаёте его из обычного колчана или ножен.</p>",
       "source": {
         "fallback": ""
       }

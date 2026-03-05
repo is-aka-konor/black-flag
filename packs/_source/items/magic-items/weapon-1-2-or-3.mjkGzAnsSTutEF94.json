@@ -3,7 +3,7 @@
   "name": "Оружие, +1, +2 или +3",
   "system": {
     "description": {
-      "value": "<p>You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon’s rarity.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7xTJRP68Vv0HVOhb inline]</p><section class=\"secret\" id=\"secret-GvE5BbMh9xQa8A9U\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус к броскам атаки и урона этим магическим оружием. Размер бонуса определяется редкостью оружия.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.7xTJRP68Vv0HVOhb inline]</p><section class=\"secret\" id=\"secret-GvE5BbMh9xQa8A9U\"><p><strong>Примечание</strong></p><p><em>Оружие (любое), редкость варьируется, цена варьируется</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -68,7 +68,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +1 to attack and damage rolls made with this magic weapon.</p>",
+          "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p>",
           "priority": null
         },
         {
@@ -148,7 +148,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +2 to attack and damage rolls made with this magic weapon.</p>",
+          "value": "<p>Вы получаете бонус +2 к броскам атаки и урона этим магическим оружием.</p>",
           "priority": null
         },
         {
@@ -228,7 +228,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +3 to attack and damage rolls made with this magic weapon.</p>",
+          "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием.</p>",
           "priority": null
         },
         {

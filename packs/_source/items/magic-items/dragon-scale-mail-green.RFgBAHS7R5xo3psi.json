@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Dragon scale mail is made of the scales of a green dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.</p><p>While wearing this armor, you gain a +1 bonus to AC, you have advantage on saves against the Frightful Presence and breath weapons of dragons, and you have resistance to poison damage.</p><p>In addition, you can focus your senses as an action to magically discern the distance and direction to the closest green dragon within 30 miles of you. This special action can’t be used again until the next dawn.</p>",
+      "value": "<p>Драконья чешуйчатая броня изготавливается из чешуи зелёного дракона. Иногда драконы собирают сброшенную чешую и дарят её. В других случаях охотники снимают и сохраняют шкуру мёртвого дракона. В любом случае такая броня ценится очень высоко.</p><p>Пока вы носите эту броню, вы получаете бонус +1 к КД, преимущество на спасброски против Ужасающего присутствия и оружия дыхания драконов, а также сопротивление урону ядом.</p><p>Кроме того, действием вы можете сосредоточить чувства, чтобы магически определить расстояние и направление до ближайшего зелёного дракона в пределах 30 миль от вас. Это особое действие нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "type": {
@@ -155,7 +155,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on saves against the Frightful Presence and breath weapons of dragons.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на спасброски против Устрашающего Присутствия и оружия дыхания драконов.\"}}]",
           "priority": null
         }
       ],

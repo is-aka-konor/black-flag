@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A riding saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.</p>",
+      "value": "<p>Верховое седло удерживает всадника и помогает оставаться в седле на активном ездовом животном в бою. Оно даёт преимущество на проверки, чтобы не вылететь из седла. Для водных и летающих ездовых животных требуется экзотическое седло.</p>",
       "source": {}
     },
     "type": {

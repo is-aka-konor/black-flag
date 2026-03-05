@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:</p><ul><li><p>You can see in all directions, and you have advantage on WIS (Perception) checks that rely on sight.</p></li><li><p>You have darkvision to a range of 120 feet.</p></li><li><p>You can see invisible creatures and objects, as well as see into the Ethereal Plane, to a range of 120 feet.</p></li></ul><p>The eyes on the robe can’t be closed or averted. Although you can close or avert your own eyes, you are never considered to be doing so while wearing this robe.</p><p>A <em>light</em> spell cast on the robe or a <em>daylight</em> spell cast within 5 feet of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a CON save ([[/save CON 11]]{DC 11} for <em>light</em> or [[/save CON 15]]{DC 15} for <em>daylight</em>), ending the blindness on a success.</p>",
+      "value": "<p>Эта мантия украшена узорами в форме глаз. Пока вы носите мантию, вы получаете следующие преимущества:</p><ul><li><p>Вы видите во всех направлениях и получаете преимущество на проверки МДР (Восприятие), основанные на зрении.</p></li><li><p>Вы получаете тёмное зрение в пределах 120 футов.</p></li><li><p>Вы видите невидимых существ и предметы, а также можете видеть в Эфирный план в пределах 120 футов.</p></li></ul><p>Глаза на мантии нельзя закрыть или отвести. Даже если вы закрываете или отводите свои собственные глаза, пока вы носите эту мантию, считается, что вы этого не делаете.</p><p>Заклинание <em>свет</em>, наложенное на мантию, или заклинание <em>дневной свет</em>, наложенное в пределах 5 футов от неё, ослепляет вас на 1 минуту. В конце каждого своего хода вы можете совершить спасбросок ТЕЛ ([[/save CON 11]]{СЛ 11} для <em>света</em> или [[/save CON 15]]{СЛ 15} для <em>дневного света</em>), прекращая слепоту при успехе.</p>",
       "source": {
         "fallback": ""
       }
@@ -64,7 +64,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"bonus\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"wisdom\" }, { \"k\": \"skill\", \"v\": \"perception\" }], \"note\": { \"rollMode\": 1, \"text\": \"You can see in all directions, and you have advantage on WIS (Perception) checks that rely on sight.\" } }",
+          "value": "[{\"type\":\"bonus\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"wisdom\"},{\"k\":\"skill\",\"v\":\"perception\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы видите во всех направлениях и получаете преимущество на проверки МДР (Внимательность), зависящие от зрения.\"}}]",
           "priority": null
         },
         {

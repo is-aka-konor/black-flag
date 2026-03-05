@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This Tiny object looks like a feather. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can’t be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.</p>",
+      "value": "<p>Этот Крошечный предмет выглядит как перо. Действием вы можете коснуться жетоном лодки или корабля. В течение следующих 24 часов судно нельзя сдвинуть никакими средствами. Повторное касание жетоном судна завершает эффект. Когда эффект заканчивается, жетон исчезает.</p>",
       "source": {
         "fallback": ""
       }
@@ -73,7 +73,7 @@
             "choice": false,
             "type": "object",
             "count": "",
-            "special": "Boat or ship"
+            "special": "Лодка или корабль"
           },
           "prompt": true,
           "override": false

@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.</p>",
+      "value": "<p>После употребления этого зелья вы можете дышать под водой 1 час. Его мутно-зелёная жидкость пахнет морем, и в ней плавает пузырь, похожий на медузу.</p>",
       "source": {
         "fallback": ""
       }

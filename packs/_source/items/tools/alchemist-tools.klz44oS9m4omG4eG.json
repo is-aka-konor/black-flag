@@ -23,7 +23,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>Alchemist tools are used to perform a variety of tasks such as identifying potions or foreign substances, mixing reagents together to cause alchemical reactions, and crafting alchemical substances.</p><p><em><strong>Associated Abilities:</strong></em> DEX, INT.</p><p><em><strong>Components.</strong></em> This tool kit includes an array of mixing and storage vessels, an alembic still, a metal frame for holding a mixing vessel above a flame, a mortar and pestle, and a variety of common alchemical reagents.</p><p><em><strong>Craft Items.</strong></em> Alchemist tools can be used to make items like those listed in the Alchemical Concoctions section of the <strong>Adventuring Gear</strong> table, with the crafting downtime activity.</p>",
+      "value": "<p>Инструменты алхимика используются для разных задач: опознания зелий и незнакомых веществ, смешивания реагентов для алхимических реакций и создания алхимических составов.</p><p><em><strong>Связанные характеристики:</strong></em> ЛОВ, ИНТ.</p><p><em><strong>Состав.</strong></em> В комплект входят сосуды для смешивания и хранения, перегонный куб, металлическая рамка для нагрева сосуда над пламенем, ступка с пестиком и набор обычных алхимических реагентов.</p><p><em><strong>Создание предметов.</strong></em> Инструменты алхимика можно использовать для изготовления предметов, перечисленных в разделе «Алхимические составы» таблицы <strong>Снаряжение путешественника</strong>, через деятельность простоя по ремеслу.</p>",
       "source": {}
     },
     "type": {

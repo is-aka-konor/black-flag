@@ -3,7 +3,7 @@
   "name": "Защитник",
   "system": {
     "description": {
-      "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p><p>The first time you attack with this sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p><section class=\"secret\" id=\"secret-lMWB4zSeQpdssCuv\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Legendary, 100,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием.</p><p>Первый раз в каждый свой ход, когда вы атакуете этим мечом, вы можете перенести часть или весь бонус меча в КД вместо использования этого бонуса к атакам в текущем ходу. Например, вы можете уменьшить бонус к броскам атаки и урона до +1 и получить +2 к КД. Изменённые бонусы действуют до начала вашего следующего хода, однако для получения бонуса к КД вы должны держать меч.</p><section class=\"secret\" id=\"secret-lMWB4zSeQpdssCuv\"><p><strong>Примечание</strong></p><p><em>Оружие (любой меч), легендарное, 100 000 зм (требуется настройка)</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {}
     },
     "activities": {},
@@ -60,7 +60,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Defender {}",
+          "value": "Защитник {}",
           "priority": null
         },
         {
@@ -102,7 +102,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p> <p>The first time you attack with this sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>",
+          "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим оружием.</p><p>Первый раз в каждый свой ход, когда вы атакуете этим мечом, вы можете перенести часть или весь бонус меча в КД вместо использования этого бонуса к атакам в текущем ходу. Например, вы можете уменьшить бонус к броскам атаки и урона до +1 и получить +2 к КД. Изменённые бонусы действуют до начала вашего следующего хода, однако для получения бонуса к КД вы должны держать меч.</p>",
           "priority": null
         }
       ],

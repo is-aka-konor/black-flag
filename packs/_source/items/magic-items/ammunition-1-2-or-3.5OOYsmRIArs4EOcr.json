@@ -3,7 +3,7 @@
   "name": "Боеприпасы: +1, +2 или +3.",
   "system": {
     "description": {
-      "value": "<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.8dnaDCJMMoaYpYkr inline]</p><section class=\"secret\" id=\"secret-9nHbWnSKvNAG8S2y\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Ammunition), Rarity Varies, Price Varies</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус к броскам атаки и урона этой магической боеприпасной единицей. Размер бонуса определяется редкостью боеприпаса. После успешного попадания по цели боеприпас становится немагическим.</p><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.8dnaDCJMMoaYpYkr inline]</p><section class=\"secret\" id=\"secret-9nHbWnSKvNAG8S2y\"><p><strong>Примечание</strong></p><p><em>Оружие (любой боеприпас), редкость варьируется, цена варьируется</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {}
     },
     "activities": {},
@@ -66,7 +66,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+          "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим боеприпасом. После успешного попадания по цели боеприпас становится немагическим.</p>",
           "priority": null
         },
         {
@@ -145,7 +145,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+          "value": "<p>Вы получаете бонус +2 к броскам атаки и урона этим магическим боеприпасом. После успешного попадания по цели боеприпас становится немагическим.</p>",
           "priority": null
         },
         {
@@ -225,7 +225,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it successfully hits a target, the ammunition becomes a nonmagical piece of ammunition.</p>",
+          "value": "<p>Вы получаете бонус +3 к броскам атаки и урона этим магическим боеприпасом. После успешного попадания по цели боеприпас становится немагическим.</p>",
           "priority": null
         },
         {

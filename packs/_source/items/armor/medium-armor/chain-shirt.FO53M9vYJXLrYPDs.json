@@ -1,6 +1,6 @@
 {
   "folder": "JW7MCVevEcSMmi9e",
-  "name": "Кольчужная рубашка",
+  "name": "Кольчужная рубаха",
   "type": "armor",
   "_id": "FO53M9vYJXLrYPDs",
   "img": "icons/equipment/chest/breastplate-scale-grey.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A chain shirt is made of interlocking metal rings that are worn between layers of clothing or leather. This armor protects the wearer’s upper body and the outer layers muffle the sound of the rings rubbing against one another.</p>",
+      "value": "<p>Кольчужная рубаха сделана из переплетённых металлических колец, которые носят между слоями одежды или кожи. Этот доспех защищает верхнюю часть тела, а внешние слои приглушают звон колец.</p>",
       "source": {}
     },
     "type": {

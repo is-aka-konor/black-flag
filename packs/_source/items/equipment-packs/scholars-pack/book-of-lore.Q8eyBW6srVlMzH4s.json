@@ -16,7 +16,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything that can be represented using text or pictures. A book of spells is a @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{spellbook}.</p>",
+      "value": "<p>Книга может содержать стихи, исторические записи, сведения по определённой области знаний, схемы и заметки о гномьих механизмах или вообще всё, что можно передать текстом и изображениями. Книга заклинаний — это @UUID[Compendium.black-flag-ru.items.Item.0udkcM3mDnmXQyNg]{книга заклинаний}.</p>",
       "source": {}
     },
     "type": {

@@ -1,6 +1,6 @@
 {
   "folder": "9Er7AXgwcIA7EnGb",
-  "name": "Кожа",
+  "name": "Кожаный доспех",
   "type": "armor",
   "_id": "h3Km60Kh2WNvWRoY",
   "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp",
@@ -18,7 +18,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
+      "value": "<p>Нагрудник и наплечники этого доспеха сделаны из кожи, упрочнённой кипячением в масле. Остальные части выполнены из более мягких и гибких материалов.</p>",
       "source": {}
     },
     "type": {

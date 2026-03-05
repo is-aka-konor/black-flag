@@ -1678,15 +1678,19 @@
 		}
 	},
 	"BF.Distance": {
-		"Label": "Расстояние",
+		"Label": "Дистанция",
 		"Unit": {
 			"Foot": {
-				"Label[one]": "нога",
-				"Label[other]": "Ноги"
+				"Label[one]": "Фут",
+				"Label[few]": "Фута",
+				"Label[many]": "Футов",
+				"Label[other]": "Футов"
 			},
 			"Mile": {
 				"Label[one]": "Миля",
-				"Label[other]": "Майлз"
+				"Label[few]": "Мили",
+				"Label[many]": "Миль",
+				"Label[other]": "Миль"
 			}
 		}
 	},
@@ -2890,50 +2894,50 @@
 	"BF.RANGE": {
 		"FIELDS": {
 			"range": {
-				"label": "Диапазон",
+				"label": "Дистанция",
 				"long": {
-					"label": "Длинный"
+					"label": "Максимальная"
 				},
 				"override": {
-					"label": "Диапазон переопределения"
+					"label": "Замена дистанции"
 				},
 				"reach": {
-					"label": "Достичь"
+					"label": "Досягаемость"
 				},
 				"short": {
-					"label": "Короткий"
+					"label": "Нормальная"
 				},
 				"special": {
-					"label": "Специальный диапазон"
+					"label": "Особая"
 				},
 				"unit": {
-					"label": "Тип диапазона"
+					"label": "Единицы измерения"
 				},
 				"value": {
-					"label": "Диапазон значений"
+					"label": "Значение"
 				}
 			}
 		},
 		"Formatted": {
-			"Range": "диапазон {range}",
-			"Reach": "достичь {reach}"
+			"Range": "дистанция {range}",
+			"Reach": "досягаемость {reach}"
 		},
-		"Label": "Диапазон",
+		"Label": "Дистанция",
 		"Type": {
 			"Any": {
-				"Label": "Безлимитный"
+				"Label": "Неограниченная"
 			},
 			"Self": {
-				"Label": "Я"
+				"Label": "На себя"
 			},
 			"Sight": {
-				"Label": "Зрение"
+				"Label": "В пределах видимости"
 			},
 			"Special": {
-				"Label": "Специальный"
+				"Label": "Особая"
 			},
 			"Touch": {
-				"Label": "Нажмите"
+				"Label": "Касание"
 			}
 		}
 	},
@@ -4232,7 +4236,7 @@
 		"DISTANCE": {
 			"Label": "Единицы расстояния",
 			"Foot": {
-				"Label": "Ноги",
+				"Label": "Футы",
 				"Abbreviation": "футы"
 			},
 			"Kilometer": {
@@ -4553,59 +4557,59 @@
 		"Base": {
 			"Arquebus": "Аркебуза",
 			"Battleaxe": "Боевой топор",
-			"Blowgun": "духовой пистолет",
-			"Blunderbuss": "мушкетон",
-			"Club": "Клуб",
-			"CrossbowHand": "Арбалет, Рука",
-			"CrossbowHeavy": "Арбалет, Тяжелый",
-			"CrossbowLight": "Арбалет, Свет",
+			"Blowgun": "Духовая трубка",
+			"Blunderbuss": "Мушкетон",
+			"Club": "Дубинка",
+			"CrossbowHand": "Ручной арбалет",
+			"CrossbowHeavy": "Тяжелый арбалет",
+			"CrossbowLight": "Легкий арбалет",
 			"Dagger": "Кинжал",
-			"Dart": "Дарт",
+			"Dart": "Дротик",
 			"Flail": "Цеп",
 			"Glaive": "Глефа",
-			"Greataxe": "Большой топор",
-			"Greatclub": "Отличный клуб",
-			"Greatsword": "Большой меч",
+			"Greataxe": "Секира",
+			"Greatclub": "Двуручная дубинка",
+			"Greatsword": "Двуручный меч",
 			"Halberd": "Алебарда",
 			"Handaxe": "Ручной топор",
-			"Javelin": "Копье",
-			"Lance": "Лэнс",
+			"Javelin": "Метательное копье",
+			"Lance": "Длинное копье",
 			"LightHammer": "Легкий молот",
 			"Longbow": "Длинный лук",
 			"Longsword": "Длинный меч",
-			"Mace": "Мейс",
-			"Maul": "Мол",
-			"Morningstar": "Морнингстар",
+			"Mace": "Булава",
+			"Maul": "Молот",
+			"Morningstar": "Моргенштерн",
 			"Musket": "Мушкет",
-			"Pike": "Щука",
+			"Pike": "Пика",
 			"Pistol": "Пистолет",
-			"Quarterstaff": "Посох",
+			"Quarterstaff": "Боевой посох",
 			"Rapier": "Рапира",
-			"RevolvingMusket": "Вращающийся мушкет",
-			"Scimitar": "Ятаган",
+			"RevolvingMusket": "Револьверный мушкет",
+			"Scimitar": "Скимитар",
 			"Scythe": "Коса",
 			"Shortbow": "Короткий лук",
 			"Shortsword": "Короткий меч",
 			"Sickle": "Серп",
-			"Sling": "Слинг",
+			"Sling": "Праща",
 			"Spear": "Копье",
 			"Trident": "Трезубец",
-			"WarPick": "Военный выбор",
-			"Warhammer": "Вархаммер",
+			"WarPick": "Боевая кирка",
+			"Warhammer": "Боевой молот",
 			"Whip": "Кнут"
 		},
 		"Category": {
-			"Simple": "Простой",
+			"Simple": "Простое",
 			"Simple[one]": "Простое оружие",
 			"Simple[other]": "Простое оружие",
-			"Martial": "Боевой",
-			"Martial[one]": "Боевое оружие",
-			"Martial[other]": "Боевое оружие",
-			"Natural": "Натуральный",
-			"Natural[one]": "Натуральное оружие",
-			"Natural[other]": "Натуральное оружие"
+			"Martial": "Воинское",
+			"Martial[one]": "Воинское оружие",
+			"Martial[other]": "Воинское оружие",
+			"Natural": "Естественное",
+			"Natural[one]": "Естественное оружие",
+			"Natural[other]": "Естественное оружие"
 		},
-		"Details": "Детали оружия",
+		"Details": "Сведения об оружии",
 		"FIELDS": {
 			"ammunition": {
 				"label": "Боеприпасы",
@@ -4613,72 +4617,82 @@
 					"label": "Емкость магазина"
 				},
 				"type": {
-					"label": "Тип боеприпаса"
+					"label": "Тип боеприпасов"
 				}
 			},
 			"damage": {
 				"label": "Урон"
 			},
 			"magicalBonus": {
-				"hint": "К атаке и урону добавлен магический бонус.",
+				"hint": "Магический бонус, добавляемый к атаке и урону.",
 				"label": "Магический бонус"
 			},
 			"options": {
-				"label": "Варианты оружия"
+				"label": "Опции оружия"
 			},
 			"range": {
-				"label": "Диапазон",
+				"label": "Дистанция",
 				"long": {
-					"label": "Дальняя дистанция"
+					"label": "Максимальная"
 				},
 				"reach": {
-					"label": "Достичь"
+					"label": "Досягаемость"
 				},
 				"short": {
-					"label": "Короткая дальность"
+					"label": "Нормальная"
 				},
 				"unit": {
-					"label": "Единица измерения диапазона"
+					"label": "Ед. измерения"
 				}
 			}
 		},
-		"Label[one]": "Оружие",
-		"Label[other]": "Оружие",
+		"Label": {
+			"one": "Оружие",
+			"few": "Оружия",
+			"many": "Оружий",
+			"other": "Оружия"
+		},
 		"MagicalBonus": {
 			"Label": "Магический бонус",
-			"Hint": "К атаке и урону добавлен магический бонус."
+			"Hint": "Магический бонус, добавляемый к атаке и урону."
 		},
 		"Option": {
-			"Label[one]": "Вариант оружия",
-			"Label[other]": "Варианты оружия",
-			"Bash": "Баш",
-			"Disarm": "Разоружение",
-			"Hamstring": "Подколенное сухожилие",
-			"HarmlessFusillade": "Безобидный выстрел",
-			"PinningShot": "Привязывающий выстрел",
-			"Pull": "Потянуть",
-			"RicochetShot": "Рикошетный выстрел",
-			"Trip": "Поездка"
+			"Label": {
+				"one": "Опция оружия",
+				"few": "Опции оружия",
+				"many": "Опций оружия",
+				"other": "Опции оружия"
+			},
+			"Bash": "Оглушающий удар",
+			"Disarm": "Обезоруживание",
+			"Hamstring": "Подрезание",
+			"HarmlessFusillade": "Отвлекающий залп",
+			"PinningShot": "Пригвождающий выстрел",
+			"Pull": "Притягивание",
+			"RicochetShot": "Рикошет",
+			"Trip": "Сбивание с ног"
 		},
 		"Property": {
 			"Ammunition": "Боеприпасы",
-			"Finesse": "Утонченность",
-			"Gunpowder": "Порох",
-			"Heavy": "Тяжелый",
-			"Light": "Свет",
-			"Loading": "Загрузка",
-			"Magazine": "Журнал",
-			"Reach": "Достичь",
-			"Thrown": "Брошенный",
+			"Finesse": "Фехтовальное",
+			"Gunpowder": "Пороховое",
+			"Heavy": "Тяжелое",
+			"Light": "Легкое",
+			"Loading": "Перезарядка",
+			"Magazine": "Магазинное",
+			"Reach": "Досягаемость",
+			"Thrown": "Метательное",
 			"TwoHanded": "Двуручное",
-			"Versatile": "Универсальный"
+			"Versatile": "Универсальное"
 		},
 		"Type": {
 			"Label": "Тип",
-			"CombinedLabel[one]": "{category} {type} Оружие",
-			"CombinedLabel[other]": "{category} {type} Оружие",
-			"Melee": "ближний бой",
-			"Ranged": "Дальний бой"
+			"CombinedLabel": {
+				"one": "{category} {type} оружие",
+				"other": "{category} {type} оружие"
+			},
+			"Melee": "рукопашное",
+			"Ranged": "дальнобойное"
 		}
 	},
 	"BF.Weight": {
@@ -4725,44 +4739,44 @@
 	},
 	"EFFECT.BF": {
 		"Bleeding": "Кровотечение",
-		"Burning": "Горящий",
-		"Burrowing": "Закапывание",
+		"Burning": "Горение",
+		"Burrowing": "Рытье",
 		"Concentrating": "Концентрация",
-		"Cursed": "Проклятый",
+		"Cursed": "Проклятие",
 		"Dehydration": "Обезвоживание",
 		"Dodging": "Уклонение",
-		"Diseased": "Больной",
-		"Encumbered": "Обремененный",
-		"Ethereal": "эфирный",
-		"ExceedingCarryingCapacity": "Превышение грузоподъемности",
+		"Diseased": "Болезнь",
+		"Encumbered": "Нагруженность",
+		"Ethereal": "Эфирность",
+		"ExceedingCarryingCapacity": "Превышение нагрузки",
 		"Falling": "Падение",
-		"Flying": "Летающий",
-		"HalfCover": "Половина покрытия",
-		"HeavilyEncumbered": "Сильно обремененный",
-		"Hiding": "Скрытие",
-		"Hovering": "зависание",
+		"Flying": "Полет",
+		"HalfCover": "Укрытие на 1/2",
+		"HeavilyEncumbered": "Сильная нагруженность",
+		"Hiding": "Скрытность",
+		"Hovering": "Парение",
 		"Malnutrition": "Недоедание",
-		"Marked": "Отмечено",
-		"Sleeping": "Спящий",
-		"Silenced": "Без звука",
-		"Stable": "Стабильный",
-		"Suffocation": "Удушение",
-		"ThreeQuartersCover": "Обложка на три четверти",
-		"TotalCover": "Общее покрытие",
-		"Transformed": "Преобразованный"
+		"Marked": "Метка",
+		"Sleeping": "Сон",
+		"Silenced": "Безмолвие",
+		"Stable": "Стабилизирован",
+		"Suffocation": "Удушье",
+		"ThreeQuartersCover": "Укрытие на 3/4",
+		"TotalCover": "Полное укрытие",
+		"Transformed": "Превращение"
 	},
 	"TYPES": {
 		"ActiveEffect": {
-			"enchantment": "Чары",
+			"enchantment": "Зачарование",
 			"standard": "Эффект"
 		},
 		"ChatMessage": {
 			"activation": "Сообщение активации",
-			"rest": "Сообщение отдыха",
-			"turn": "Сообщение о боевом повороте"
+			"rest": "Сообщение об отдыхе",
+			"turn": "Сообщение хода"
 		},
 		"RegionBehavior": {
-			"black-flag-ru.difficultTerrain": "Сложная местность"
+			"black-flag-ru.difficultTerrain": "Труднопроходимая местность"
 		}
 	}
 }

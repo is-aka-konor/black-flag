@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While you wear this cloak with its hood up, WIS (Perception) checks made to see you have disadvantage, and you have advantage on DEX (Stealth) checks made to hide, as the cloak’s color shifts to camouflage you. Pulling the hood up or down requires an action.</p>",
+      "value": "<p>Пока вы носите этот плащ с поднятым капюшоном, проверки МДР (Внимательность), чтобы заметить вас, совершаются с помехой, а вы получаете преимущество на проверки ЛОВ (Скрытность), чтобы прятаться, так как цвет плаща подстраивается под окружение. Поднять или опустить капюшон требует действия.</p>",
       "source": {}
     },
     "activities": {},
@@ -62,11 +62,11 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"skill-check\" }, { \"k\": \"ability\", \"v\": \"dexterity\" }, { \"k\": \"skill\", \"v\": \"stealth\" }], \"note\": { \"rollMode\": 1, \"text\": \"You also have advantage on DEX (Stealth) checks made to hide.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"skill-check\"},{\"k\":\"ability\",\"v\":\"dexterity\"},{\"k\":\"skill\",\"v\":\"stealth\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы также получаете преимущество на проверки ЛОВ (Скрытность), сделанные, чтобы спрятаться.\"}}]",
           "priority": null
         }
       ],
-      "description": "<p>Пока вы носите этот плащ с поднятым капюшоном, сначала WIS (Внимательность), чтобы убедиться, что у вас есть недостаток, и вы делаете дополнительные проверки DEX (Скрытность), сделанные для того, чтобы спрятаться, поскольку цвет плаща меняется, чтобы замаскировать вас.</p>",
+      "description": "<p>Пока вы носите этот плащ с поднятым капюшоном, проверки МДР (Внимательность), совершаемые, чтобы заметить вас, выполняются с помехой, а ваши проверки ЛОВ (Скрытность), совершаемые, чтобы спрятаться, выполняются с преимуществом, поскольку цвет плаща меняется и маскирует вас.</p>",
       "tint": "#ffffff",
       "transfer": true,
       "statuses": [],

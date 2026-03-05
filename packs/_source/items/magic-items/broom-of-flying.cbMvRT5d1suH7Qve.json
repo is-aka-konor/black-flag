@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This wooden broom weighs 3 pounds. It functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.</p>",
+      "value": "<p>Эта деревянная метла весит 3 фунта. Она работает как обычная метла, пока вы не оседлаете её и не произнесёте командное слово. После этого метла парит под вами, и на ней можно летать. Её скорость полёта — 50 футов. Она может нести до 400 фунтов, но при нагрузке свыше 200 фунтов скорость полёта снижается до 30 футов. Когда вы приземляетесь, метла перестаёт парить.</p><p>Вы можете отправить метлу лететь самостоятельно к месту в пределах 1 мили от вас, если произнесёте командное слово, назовёте место и знакомы с ним. Метла вернётся к вам, когда вы произнесёте другое командное слово, при условии что она всё ещё в пределах 1 мили.</p>",
       "source": {}
     },
     "activities": {},

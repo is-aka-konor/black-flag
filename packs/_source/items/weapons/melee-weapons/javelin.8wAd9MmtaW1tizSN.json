@@ -1,6 +1,6 @@
 {
   "folder": "tVD5DakH2RhE9Ig5",
-  "name": "Копье",
+  "name": "Метательное копье",
   "type": "weapon",
   "_id": "8wAd9MmtaW1tizSN",
   "img": "icons/weapons/polearms/spear-flared-worn-grey.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Рукопашная или дальнобойная атака оружием: [[/attack]]. Досягаемость 5 фт. или дистанция 30/120 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

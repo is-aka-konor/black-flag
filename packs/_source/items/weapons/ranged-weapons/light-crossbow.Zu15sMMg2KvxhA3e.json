@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Дальнобойная атака оружием: [[/attack]]. Дистанция 80/320 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

@@ -15,7 +15,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 feet, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, invisible, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
+      "value": "<p>У этой палочки 7 зарядов. Пока вы держите её, действием вы можете потратить 1 заряд и произнести командное слово. В течение следующей минуты вы знаете направление до ближайшего враждебного вам существа в пределах 60 футов, но не расстояние до него. Палочка может обнаруживать враждебных существ, которые находятся в Эфире, невидимы, замаскированы или скрыты, а также тех, кто на виду. Эффект прекращается, если вы перестаёте держать палочку.</p><p>Палочка ежедневно восстанавливает [[/r 1d6 + 1]] потраченных зарядов на рассвете. Если вы тратите последний заряд палочки, бросьте d20. При 1 палочка рассыпается в пепел и уничтожается.</p>",
       "source": {
         "fallback": ""
       }

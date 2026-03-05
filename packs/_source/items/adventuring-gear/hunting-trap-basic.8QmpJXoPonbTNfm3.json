@@ -76,7 +76,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When a Large or smaller creature that enters the trap’s space"
+          "condition": "Когда Большое или меньшее существо входит в пространство ловушки"
         },
         "consumption": {
           "targets": [],
@@ -122,7 +122,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>As an action, you can set a trap in an unoccupied space within 5 feet of you. When set, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. A Large or smaller creature that enters the trap’s space must succeed on a [[/save dexterity 13]] save or take [[/damage 1d4 piercing]] damage and become grappled until freed. A creature can use its action to make a [[/check strength athletics 13]] check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</p>",
+      "value": "<p>Действием вы можете установить ловушку в незанятом пространстве в пределах 5 футов от себя. Установленная ловушка представляет собой зубчатое стальное кольцо, которое захлопывается, когда существо наступает на нажимную пластину в центре. Большое или меньшее существо, входящее в пространство ловушки, должно пройти [[/save dexterity 13]] спасбросок, иначе получает [[/damage 1d4 piercing]] колющего урона и становится схваченным до освобождения. Существо может действием сделать проверку [[/check strength athletics 13]], чтобы освободить себя или другое существо в пределах досягаемости. Каждый провал такой проверки наносит пойманному существу 1 колющего урона.</p>",
       "source": {}
     },
     "attunement": {

@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>You have resistance to lightning damage while wearing this ring. The citrine in the ring indicates the type.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление урону электричеством. Цитрин в кольце указывает тип сопротивления.</p>",
       "source": {
         "fallback": ""
       }

@@ -170,7 +170,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p><p>You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a [[/save 15 CON]] or take [[/damage 2d10 poison]] and become poisoned for 1 minute. The dagger can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p><p>Действием вы можете покрыть клинок густым чёрным ядом. Яд держится 1 минуту или до тех пор, пока атака этим оружием не попадёт по существу. Это существо должно преуспеть в [[/save 15 CON]], иначе получит [[/damage 2d10 poison]] и состояние отравления на 1 минуту. Кинжал нельзя использовать таким образом снова до следующего рассвета.</p>",
       "source": {}
     },
     "type": {

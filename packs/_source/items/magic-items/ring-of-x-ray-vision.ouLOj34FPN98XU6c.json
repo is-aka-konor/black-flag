@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don’t prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.</p><p>When you use the ring again before taking a long rest, you must succeed on a [[/save 15 CON]] or gain one level of exhaustion.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы можете действием произнести его командное слово. После этого в течение 1 минуты вы видите внутрь и сквозь твёрдую материю. Радиус этого зрения — 30 футов. Для вас твёрдые объекты в этом радиусе выглядят прозрачными и не препятствуют прохождению света. Зрение проникает через 1 фут камня, 1 дюйм обычного металла или до 3 футов дерева либо земли. Более толстые слои блокируют зрение, как и тонкий лист свинца.</p><p>Если вы используете кольцо снова до завершения длительного отдыха, вы должны преуспеть в [[/save 15 CON]], иначе получите один уровень истощения.</p>",
       "source": {
         "fallback": ""
       }
@@ -123,7 +123,7 @@
           "value": null,
           "override": false,
           "type": "free",
-          "condition": "When used more than once per long rest"
+          "condition": "При использовании более одного раза за продолжительный отдых"
         },
         "consumption": {
           "targets": [],

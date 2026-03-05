@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While wielding this shield, you have advantage on saves against spells and other magical effects, and spell attacks have disadvantage against you.</p>",
+      "value": "<p>Пока вы держите этот щит, вы получаете преимущество на спасброски против заклинаний и других магических эффектов, а атаки заклинаниями против вас совершаются с помехой.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }
@@ -74,7 +74,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on saves against spells and other magical effects.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на спасброски против заклинаний и других магических эффектов.\"}}]",
           "priority": null
         }
       ],

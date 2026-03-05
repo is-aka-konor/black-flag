@@ -27,7 +27,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While lit, a bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</p>",
+      "value": "<p>При горении направленный фонарь даёт яркий свет в конусе 60 футов и тусклый свет ещё на 60 футов. После зажигания он горит 6 часов на одной фляге (1 пинта) масла.</p>",
       "source": {}
     },
     "type": {

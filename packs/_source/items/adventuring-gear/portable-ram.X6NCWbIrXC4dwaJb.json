@@ -13,7 +13,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>You can use a portable ram to break down doors. You have advantage on relevant STR (Athletic) checks made to do so.</p>",
+      "value": "<p>Переносной таран можно использовать для выбивания дверей. Вы получаете преимущество на соответствующие проверки СИЛ (Атлетика).</p>",
       "source": {}
     },
     "attunement": {

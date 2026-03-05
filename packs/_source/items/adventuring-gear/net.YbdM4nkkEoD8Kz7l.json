@@ -73,7 +73,7 @@
       "max": ""
     },
     "description": {
-      "value": "<p>As an action, you can throw a net at a Large or smaller creature within 15 feet of you. The net has no effect on creatures that are formless or incorporeal (like ghosts). Make a ranged attack against the creature, treating the net as an improvised weapon. On a hit, the target is restrained until it is freed. A creature can use its action to make a [[/check strength athletics 10]] check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.</p>",
+      "value": "<p>Действием вы можете бросить сеть в Большое или меньшее существо в пределах 15 футов. Сеть не действует на бесформенных и бестелесных существ (например, призраков). Совершите дальнобойную атаку по существу, считая сеть импровизированным оружием. При попадании цель становится опутанной, пока не будет освобождена. Существо может действием сделать проверку [[/check strength athletics 10]], чтобы освободить себя или другое существо в пределах досягаемости. Нанесение сети 5 рубящего урона (КД 10) также освобождает существо без вреда для него, но сеть уничтожается.</p>",
       "source": {}
     },
     "attunement": {

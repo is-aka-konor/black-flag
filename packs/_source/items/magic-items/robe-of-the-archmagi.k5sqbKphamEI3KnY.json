@@ -15,7 +15,7 @@
       "requirement": "от чародея, колдуна или волшебника"
     },
     "description": {
-      "value": "<p>This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. You gain these benefits while wearing the robe:</p><ul><li><p>If you aren’t wearing armor, your base AC is 15 + your DEX modifier.</p></li><li><p>You have advantage on saves against spells and other magical effects.</p></li><li><p>Your spell save DC and spell attack bonus each increase by 2.</p></li></ul>",
+      "value": "<p>Это элегантное одеяние изготовлено из превосходной белой, серой или чёрной ткани и украшено серебристыми рунами. Пока вы носите эту мантию, вы получаете следующие преимущества:</p><ul><li><p>Если вы не носите доспех, ваше базовое КД равно 15 + модификатор ЛОВ.</p></li><li><p>Вы получаете преимущество на спасброски против заклинаний и других магических эффектов.</p></li><li><p>Ваша СЛ спасброска заклинаний и бонус атаки заклинанием увеличиваются на 2.</p></li></ul>",
       "source": {
         "fallback": ""
       }
@@ -70,7 +70,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-save\" }], \"note\": { \"rollMode\": 1, \"text\": \"You have advantage on saves against spells and other magical effects.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-save\"}],\"note\":{\"rollMode\":1,\"text\":\"Вы получаете преимущество на спасброски против заклинаний и других магических эффектов.\"}}]",
           "priority": null
         },
         {

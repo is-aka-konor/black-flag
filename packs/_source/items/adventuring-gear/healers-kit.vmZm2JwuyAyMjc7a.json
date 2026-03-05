@@ -66,7 +66,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This kit is a leather pouch containing bandages, salves, and splints. The kit has 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 HP without needing to make a WIS (Medicine) check.</p>",
+      "value": "<p>Этот набор — кожаный мешочек с бинтами, мазями и шинами. В наборе 10 использований. Действием вы можете потратить одно использование, чтобы стабилизировать существо с 0 хитов без проверки МДР (Медицина).</p>",
       "source": {}
     },
     "type": {

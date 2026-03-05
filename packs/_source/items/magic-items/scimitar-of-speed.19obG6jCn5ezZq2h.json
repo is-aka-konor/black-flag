@@ -73,7 +73,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.</p>",
+      "value": "<p>Вы получаете бонус +2 к броскам атаки и урона этим магическим оружием. Кроме того, в каждый свой ход вы можете совершать им одну атаку бонусным действием.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

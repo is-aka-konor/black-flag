@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.NJKjBBmBG98Lo2XY]{teleport}</em> spell from it. The helm regains [[/r 1d3]] expended charges daily at dawn.</p>",
+      "value": "<p>У этого шлема 3 заряда. Пока вы его носите, действием вы можете потратить 1 заряд, чтобы наложить с него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.NJKjBBmBG98Lo2XY]{Телепортация}</em>. Шлем ежедневно восстанавливает [[/r 1d3]] потраченных зарядов на рассвете.</p>",
       "source": {
         "fallback": ""
       }

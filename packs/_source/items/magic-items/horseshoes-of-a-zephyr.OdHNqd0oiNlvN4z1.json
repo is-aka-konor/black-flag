@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.</p>",
+      "value": "<p>Эти железные подковы идут набором из четырёх штук. Когда все четыре подковы закреплены на копытах лошади или похожего существа, существо может нормально перемещаться, паря на высоте 4 дюймов над землёй. Благодаря этому оно может пересекать и стоять над непрочными или нестабильными поверхностями, такими как вода или лава. Существо не оставляет следов и игнорирует труднопроходимую местность. Кроме того, существо может перемещаться обычной скоростью до 12 часов в день, не получая истощения от форсированного марша.</p>",
       "source": {
         "fallback": ""
       }

@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While wearing this circlet, you can use an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.zcPLl539wJ5MflKO]{scorching ray}</em> spell with it. When you make the spell’s attacks, you do so with an attack bonus of +5. The circlet can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Пока вы носите этот обруч, действием вы можете накладывать через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.zcPLl539wJ5MflKO]{Опаляющий луч}</em>. Броски атаки этого заклинания совершаются с бонусом атаки +5. Это свойство обруча нельзя использовать снова до следующего рассвета.</p>",
       "source": {}
     },
     "activities": {

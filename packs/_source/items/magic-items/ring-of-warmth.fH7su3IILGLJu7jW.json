@@ -16,7 +16,7 @@
       "requirement": ""
     },
     "description": {
-      "value": "<p>While wearing this ring, you are resistant to cold damage. In addition, you and your equipment are unharmed by temperatures as low as -50 degrees Fahrenheit.</p>",
+      "value": "<p>Пока вы носите это кольцо, вы получаете сопротивление урону холодом. Кроме того, вы и ваше снаряжение не страдаете при температурах до −50 °F.</p>",
       "source": {
         "fallback": ""
       }

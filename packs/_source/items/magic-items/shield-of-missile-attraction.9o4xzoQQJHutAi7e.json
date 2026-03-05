@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While holding this shield, you have resistance to damage from ranged weapon attacks.</p><p><em><strong>Curse.</strong></em> This shield is cursed. Attuning to it curses you until you are targeted by the <em>@UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{remove curse}</em> spell or similar magic. Removing the shield fails to end the curse on you. When a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</p>",
+      "value": "<p>Пока вы держите этот щит, вы получаете сопротивление урону от дальнобойных атак оружием.</p><p><em><strong>Проклятие.</strong></em> Этот щит проклят. Настройка на него накладывает на вас проклятие, пока на вас не будет наложено <em>@UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{Снятие проклятия}</em> или похожая магия. Снятие щита не прекращает проклятие. Когда по цели в пределах 10 футов от вас совершается дальнобойная атака оружием, проклятие заставляет атаку нацеливаться на вас вместо неё.</p>",
       "source": {
         "fallback": "Black Flag Reference Document"
       }

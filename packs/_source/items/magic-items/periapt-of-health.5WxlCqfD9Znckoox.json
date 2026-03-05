@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects are suppressed while you wear the pendant.</p>",
+      "value": "<p>Пока вы носите этот амулет, вы не можете заразиться болезнями. Если вы уже заражены, эффекты болезни подавляются, пока амулет надет.</p>",
       "source": {
         "fallback": ""
       }

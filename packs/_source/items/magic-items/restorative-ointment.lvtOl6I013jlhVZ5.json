@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This glass jar, 3 inches in diameter, contains [[/r 1d4 + 1]] doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.</p><p>As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains [[/healing 2d8 + 2]]{2d8 + 2} hit points, ceases to be poisoned, and is cured of any disease.</p>",
+      "value": "<p>Эта стеклянная банка диаметром 3 дюйма содержит [[/r 1d4 + 1]] дозы густой смеси со слабым запахом алоэ. Банка вместе с содержимым весит 1/2 фунта.</p><p>Действием одну дозу мази можно проглотить или нанести на кожу. Существо, получившее дозу, восстанавливает [[/healing 2d8 + 2]]{2d8 + 2} хитов, перестаёт быть отравленным и излечивается от любой болезни.</p>",
       "source": {
         "fallback": ""
       }

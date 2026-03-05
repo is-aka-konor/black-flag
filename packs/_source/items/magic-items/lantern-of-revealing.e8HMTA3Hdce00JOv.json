@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible if they are in the lantern’s bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.</p>",
+      "value": "<p>Пока этот закрытый фонарь горит, он расходует 1 пинту масла за 6 часов, создавая яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Невидимые существа и предметы становятся видимыми, если находятся в ярком свете фонаря. Действием вы можете опустить заслонку, сократив свет до тусклого в радиусе 5 футов.</p>",
       "source": {
         "fallback": ""
       }

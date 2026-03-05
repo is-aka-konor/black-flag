@@ -3,7 +3,7 @@
   "name": "Воющие стрелы",
   "system": {
     "description": {
-      "value": "<p>These arrowheads are made from hollowed antler and emit a shrill whistle while airborne. A successful attack made with a howling arrow deals only half damage, but the target must succeed on a [[/save 11 CON]] or be deafened until the end of its next turn.</p><section class=\"secret\" id=\"secret-lTb5w2ubjg2Ilg7J\"><p><strong>Foundry Note</strong></p><p><em>Wondrous Item (Any Piercing Ammunition), Common, 10 gp</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Наконечники этих стрел сделаны из полых оленьих рогов и в полёте издают пронзительный свист. Успешная атака воющей стрелой наносит лишь половину урона, но цель должна преуспеть в [[/save 11 CON]], иначе оглохнет до конца своего следующего хода.</p><section class=\"secret\" id=\"secret-lTb5w2ubjg2Ilg7J\"><p><strong>Примечание</strong></p><p><em>Чудесный предмет (любой колющий боеприпас), обычный, 10 зм</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Howling {}",
+          "value": "Воющий {}",
           "priority": null
         },
         {
@@ -92,7 +92,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>These arrowheads are made from hollowed antler and emit a shrill whistle while airborne. A successful attack made with a howling arrow deals only half damage, but the target must succeed on a [[/save 11 CON]] or be deafened until the end of its next turn.</p>",
+          "value": "<p>Наконечники этих стрел сделаны из полых оленьих рогов и в полёте издают пронзительный свист. Успешная атака воющей стрелой наносит лишь половину урона, но цель должна преуспеть в [[/save 11 CON]], иначе оглохнет до конца своего следующего хода.</p>",
           "priority": null
         }
       ],

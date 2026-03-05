@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>per bead This necklace has [[/r 1d6 + 3]] beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-circle <em>@UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{fireball}</em> spell (save DC 15).</p><p>You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the spell circle of the fireball by 1 for each bead beyond the first.</p>",
+      "value": "<p>На этом ожерелье висит [[/r 1d6 + 3]] бусин. Действием вы можете отцепить бусину и бросить её на расстояние до 60 футов. В конце траектории бусина взрывается как заклинание 3-го круга <em>@UUID[Compendium.black-flag-ru.spells.Item.VYvD59yJYefhAwOI]{Огненный шар}</em> (СЛ спасброска 15).</p><p>Вы можете бросить несколько бусин или даже всё ожерелье одним действием. В этом случае круг заклинания огненного шара увеличивается на 1 за каждую бусину после первой.</p>",
       "source": {
         "fallback": ""
       }

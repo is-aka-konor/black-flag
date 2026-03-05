@@ -87,7 +87,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>The typical crystal ball is a very rare magic item about 6 inches in diameter. While touching it, you can cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{scrying}</em> spell (save DC 17) with it.</p>",
+      "value": "<p>Обычный кристальный шар — очень редкий магический предмет диаметром около 6 дюймов. Пока вы его касаетесь, вы можете накладывать через него заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.GRLnRMB9C9gU2PHq]{Наблюдение}</em> (СЛ спасброска 17).</p>",
       "source": {}
     },
     "type": {

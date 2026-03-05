@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>For 1 hour after drinking it, you gain 10 temporary HP that last for 1 hour. For the same duration, you are under the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.Gnxh5w9pE08ZGF9S]{bless}</em> spell (no concentration required). This blue potion bubbles and steams as if boiling.</p>",
+      "value": "<p>В течение 1 часа после употребления вы получаете 10 временных хитов (они действуют 1 час). На то же время вы получаете эффект заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.Gnxh5w9pE08ZGF9S]{Благословение}</em> (концентрация не требуется). Это синее зелье пузырится и парит, будто кипит.</p>",
       "source": {
         "fallback": ""
       }

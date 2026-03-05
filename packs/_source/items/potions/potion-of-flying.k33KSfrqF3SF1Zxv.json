@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you’re in the air when the potion wears off, you fall unless you have some other means of staying aloft. This potion’s clear liquid floats at the top of its container and cloudy white impurities drift in it.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, на 1 час вы получаете скорость полёта, равную вашей скорости ходьбы, и можете зависать. Если действие зелья заканчивается в воздухе, вы падаете, если у вас нет другого способа удержаться в воздухе. Прозрачная жидкость этого зелья словно парит в верхней части сосуда, а в ней дрейфуют мутные белые примеси.</p>",
       "source": {
         "fallback": ""
       }

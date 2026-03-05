@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>These crystal lenses fit over the eyes. They have 3 charges and regain all expended charges daily at dawn. While wearing them, you can expend 1 charge as an action to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM]{charm}</em> spell (save DC 13) on a Humanoid within 30 feet of you, provided that you and the target can see each other.</p>",
+      "value": "<p>Эти кристальные линзы надеваются на глаза. У них 3 заряда, и все потраченные заряды восстанавливаются ежедневно на рассвете. Пока вы их носите, действием вы можете потратить 1 заряд, чтобы наложить заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.pw72u0bgcIKLtSBM]{Очарование}</em> (СЛ спасброска 13) на Гуманоида в пределах 30 футов, при условии что вы и цель видите друг друга.</p>",
       "source": {
         "fallback": ""
       }

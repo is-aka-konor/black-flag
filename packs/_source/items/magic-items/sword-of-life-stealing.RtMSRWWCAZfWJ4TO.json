@@ -3,7 +3,7 @@
   "name": "Меч кражи жизни",
   "system": {
     "description": {
-      "value": "<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra [[/damage 3d6 necrotic]], provided that the target isn’t a Construct or an Undead. You gain temporary HP equal to the extra damage dealt.</p><section class=\"secret\" id=\"secret-okYzBUw4eqOVcSuy\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Rare, 8,000 gp (Requires Attunement)</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Когда вы атакуете существо этим магическим оружием и выбрасываете 20 на броске атаки, цель получает дополнительный [[/damage 3d6 necrotic]], если цель не Конструкт и не Нежить. Вы получаете временные хиты, равные нанесённому дополнительному урону.</p>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "{} of Life Stealing",
+          "value": "{} похищения жизни",
           "priority": null
         },
         {
@@ -74,7 +74,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra [[/damage 3d6 necrotic]], provided that the target isn’t a Construct or an Undead. You gain temporary HP equal to the extra damage dealt.</p>",
+          "value": "<p>Когда вы атакуете существо этим магическим оружием и выбрасываете 20 на броске атаки, цель получает дополнительный [[/damage 3d6 necrotic]], если цель не Конструкт и не Нежить. Вы получаете временные хиты, равные нанесённому дополнительному урону.</p>",
           "priority": null
         },
         {

@@ -17,7 +17,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of [[/r 1d8]].</p><p>Curse. Once you don this cursed armor, you can’t doff it unless you are targeted by a remove curse spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saves against their spells and special abilities.</p>",
+      "value": "<p>Пока вы носите этот доспех, вы получаете бонус +1 к КД и можете понимать и говорить на Бездонном языке. Кроме того, когтистые латные перчатки доспеха превращают безоружные удары руками в магическое оружие, наносящее рубящий урон, с бонусом +1 к броскам атаки и урона и костью урона [[/r 1d8]].</p><p><em><strong>Проклятие.</strong></em> Однажды надев этот проклятый доспех, вы не можете снять его, пока на вас не будет наложено <em>Снятие проклятия</em> или похожая магия. Пока вы носите доспех, вы совершаете с помехой броски атаки против демонов и спасброски против их заклинаний и особых способностей.</p>",
       "source": {}
     },
     "type": {
@@ -174,7 +174,7 @@
         {
           "key": "system.modifiers",
           "mode": 2,
-          "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"attack\", \"ability-save\"] }], \"note\": { \"rollMode\": -1, \"text\": \"You have disadvantage on attack rolls against demons and on saves against their spells and special abilities.\" } }",
+          "value": "[{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"attack\",\"ability-save\"]}],\"note\":{\"rollMode\":-1,\"text\":\"Вы получаете помеху на броски атаки против демонов и на спасброски против их заклинаний и особых способностей.\"}}]",
           "priority": null
         }
       ],

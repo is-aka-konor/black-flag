@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain the “reduce” effect of the enlarge/reduce spell for [[/r 1d4]] hours (no concentration required). The red in the potion’s liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, вы получаете эффект <q>уменьшение</q> заклинания увеличение/уменьшение на [[/r 1d4]] часов (концентрация не требуется). Красная капля в жидкости непрерывно сжимается до крошечной точки, а затем вновь расширяется, окрашивая прозрачную жидкость вокруг.</p>",
       "source": {
         "fallback": ""
       }

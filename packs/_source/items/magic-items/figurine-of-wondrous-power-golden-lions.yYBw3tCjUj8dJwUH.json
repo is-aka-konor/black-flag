@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.PIz6OxdTiqdlix0y]{lion}</strong> for up to 1 hour. Once a lion has been used, it can’t be used again until 7 days have passed.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
+      "value": "<p>Эти золотые статуэтки львов всегда создаются парой. Вы можете использовать одну фигурку или обе одновременно. Каждая может превращаться в <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.PIz6OxdTiqdlix0y]{Льва}</strong> на срок до 1 часа. После использования конкретного льва нельзя использовать снова, пока не пройдёт 7 дней.</p><aside><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GgrjFmYmZW7aexLc inline]</p></aside>",
       "source": {
         "fallback": ""
       }

@@ -3,7 +3,7 @@
   "name": "Убийца Драконов",
   "system": {
     "description": {
-      "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p><p>When you hit a dragon with this weapon, the target takes an extra [[/damage 3d6]] damage of the weapon’s type. For the purpose of this weapon, <q>dragon</q> refers to any creature with the Dragon type, including dragon turtles and wyverns.</p><section class=\"secret\" id=\"secret-xlJxed76pEhVOZdg\"><p><strong>Foundry Note</strong></p><p><em>Weapon (Any Sword), Rare, 8,000 gp</em></p><p>Create the final magic item by selection the appropriate mundane item and dragging an enchantment from the <q>Advancement &amp; Effects</q> tab to that item.</p></section>",
+      "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p><p>Когда вы попадаете этим оружием по дракону, цель получает дополнительный [[/damage 3d6]] урона того же типа, что и урон оружия. Для этого оружия под <q>драконом</q> понимается любое существо типа Дракон, включая драконовых черепах и виверн.</p><section class=\"secret\" id=\"secret-xlJxed76pEhVOZdg\"><p><strong>Примечание</strong></p><p><em>Оружие (любой меч), редкий, 8 000 зм</em></p><p>Создайте итоговый магический предмет, выбрав подходящий обычный предмет и перетащив на него зачарование со вкладки <q>Развитие и эффекты</q>.</p></section>",
       "source": {
         "fallback": ""
       }
@@ -62,7 +62,7 @@
         {
           "key": "name",
           "mode": 5,
-          "value": "Dragon Slayer {}",
+          "value": "Убийца драконов {}",
           "priority": null
         },
         {
@@ -98,7 +98,7 @@
         {
           "key": "system.description.value",
           "mode": 2,
-          "value": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p> <p>When you hit a dragon with this weapon, the target takes an extra [[/damage 3d6]] damage of the weapon’s type. For the purpose of this weapon, <q>dragon</q> refers to any creature with the Dragon type, including dragon turtles and wyverns.</p>",
+          "value": "<p>Вы получаете бонус +1 к броскам атаки и урона этим магическим оружием.</p><p>Когда вы попадаете этим оружием по дракону, цель получает дополнительный [[/damage 3d6]] урона того же типа, что и урон оружия. Для этого оружия под <q>драконом</q> понимается любое существо типа Дракон, включая драконовых черепах и виверн.</p>",
           "priority": null
         }
       ],

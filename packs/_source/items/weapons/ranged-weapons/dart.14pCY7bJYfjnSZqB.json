@@ -1,6 +1,6 @@
 {
   "folder": "QeYWxC06p1u8TuWG",
-  "name": "Дарт",
+  "name": "Дротик",
   "type": "weapon",
   "_id": "14pCY7bJYfjnSZqB",
   "img": "icons/weapons/thrown/dart-feathered.webp",
@@ -31,7 +31,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>[[/attack extended]]. [[/damage extended]].</p>",
+      "value": "<p>Дальнобойная атака оружием: [[/attack]]. Дистанция 20/60 фт., одна цель. Попадание: [[/damage]].</p>",
       "source": {}
     },
     "type": {

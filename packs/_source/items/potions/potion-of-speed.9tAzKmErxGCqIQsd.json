@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, you gain the effect of the <em>@UUID[Compendium.black-flag-ru.spells.Item.aHifQ78fmPqA4oAJ]{haste}</em> spell for 1 minute (no concentration required). The potion’s yellow fluid is streaked with black and swirls on its own.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, вы получаете эффект заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.aHifQ78fmPqA4oAJ]{Ускорение}</em> на 1 минуту (концентрация не требуется). Жёлтая жидкость зелья пронизана чёрными прожилками и закручивается сама по себе.</p>",
       "source": {
         "fallback": ""
       }

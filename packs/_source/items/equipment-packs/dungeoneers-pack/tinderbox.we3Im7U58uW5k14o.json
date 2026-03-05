@@ -26,7 +26,7 @@
       "units": "pound"
     },
     "description": {
-      "value": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.</p>",
+      "value": "<p>Этот небольшой набор содержит кремень, огниво и трут (обычно сухую ткань, пропитанную лёгким маслом) для разведения огня. Чтобы зажечь факел или другой источник с открытым горючим, требуется действие. Чтобы разжечь любой другой огонь, требуется 1 минута.</p>",
       "source": {}
     },
     "type": {

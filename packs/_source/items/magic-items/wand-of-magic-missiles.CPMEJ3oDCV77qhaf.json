@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{magic missile}</em> spell from it. For 1 charge, you cast the 1st-circle version of the spell. You can increase the spell slot circle by one for each additional charge you expend.</p><p>The wand regains [[/r 1d6 + 1]] expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>",
+      "value": "<p>У этой палочки 7 зарядов. Пока вы держите её, действием вы можете потратить 1 или более зарядов, чтобы наложить с неё заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{Волшебная стрела}</em>. За 1 заряд вы накладываете версию заклинания 1-го круга. За каждый дополнительный потраченный заряд круг ячейки заклинания увеличивается на 1.</p><p>Палочка ежедневно восстанавливает [[/r 1d6 + 1]] потраченных зарядов на рассвете. Если вы тратите последний заряд палочки, бросьте d20. При 1 палочка рассыпается в пепел и уничтожается.</p>",
       "source": {
         "fallback": ""
       }

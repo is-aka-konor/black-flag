@@ -12,7 +12,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>This carved stone weighs 5 pounds. If the stone is touching the ground, you can use an action to speak its command word and summon an <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.AbtSnvjVHTDzZciV]{earth elemental}</strong>, as if you had cast the <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{conjure elemental}</em> spell. The stone can’t be used this way again until the next dawn.</p>",
+      "value": "<p>Этот резной камень весит 5 фунтов. Если камень касается земли, вы можете действием произнести его командное слово и призвать <strong>@UUID[Compendium.black-flag-ru.npcs.Actor.AbtSnvjVHTDzZciV]{Элементаль земли}</strong>, как если бы вы наложили <em>@UUID[Compendium.black-flag-ru.spells.Item.r3D0SVvYQkzi6lE4]{Вызов элементаля}</em>. Это свойство камня нельзя использовать снова до следующего рассвета.</p>",
       "source": {
         "fallback": ""
       }

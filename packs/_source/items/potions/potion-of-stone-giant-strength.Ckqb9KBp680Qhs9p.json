@@ -11,7 +11,7 @@
       "denomination": "gp"
     },
     "description": {
-      "value": "<p>When you drink this potion, your STR score changes to 23 for 1 hour. The potion has no effect if your STR score equals or exceeds that score.</p><p>This potion’s transparent liquid has floating in it a sliver of fingernail from a stone giant.</p>",
+      "value": "<p>Когда вы выпиваете это зелье, ваш показатель СИЛ становится 23 на 1 час. Зелье не оказывает эффекта, если ваш показатель СИЛ уже равен 23 или выше.</p><p>В прозрачной жидкости этого зелья плавает кусочек ногтя каменного великана.</p>",
       "source": {
         "fallback": ""
       }
