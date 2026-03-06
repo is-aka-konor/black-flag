@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has two heads and is resistant to the blinded, charmed, deafened, frightened, stunned, and unconscious conditions. Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains [[/healing 10]] HP for each head regrown in this way.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет две головы и обладает сопротивлением к состояниям: ослепление, очарование, оглушение, испуг, ошеломление и бессознательность. Каждый раз, когда гидра получает 25 или больше урона за один ход, одна из её голов погибает. Если погибают все головы, гидра умирает. В конце своего хода она отращивает две головы за каждую голову, погибшую с конца её предыдущего хода, если только с конца предыдущего хода она не получала урон огнём. Гидра восстанавливает [[/healing 10]] хитов за каждую голову, отросшую таким способом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -951,7 +951,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hydra squeezes the stumps of its severed heads, spraying blood and gore. Each creature within 5 feet of the hydra must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn and &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Гидра сжимает обрубки отсечённых голов, разбрызгивая кровь и ошмётки. Каждое существо в пределах 5 футов от гидры должно преуспеть в [[/save format=long]] или стать недееспособным (&Reference[incapacitated]{недееспособен}) до конца своего следующего хода и отравлённым (&Reference[poisoned]{отравлён}) на 1 минуту. Отравлённое существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

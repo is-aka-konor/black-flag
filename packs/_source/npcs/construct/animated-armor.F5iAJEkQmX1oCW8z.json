@@ -138,7 +138,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>The emptiness within the suit of plate mail’s visor demonstrates that no creature controls the armor from inside it. An iron sword floats in midair at rest—then suddenly swings and flourishes as though wielded by a trained swordfighter.</em></p><p>Animated objects are nonmagical objects given life by a spellcaster. Though little more than their mundane counterparts, animated objects can be given basic instructions to follow indefinitely or until given new instructions by their creators. The most common animated objects are decorative or seemingly innocuous armor and weapons instructed to protect their creators’ homes, laboratories, treasuries, or other locations important to their creators.</p><p><strong>Animated Armor.</strong> Crafted to look like field armor with dents and scratches showing signs of its use in battle, or ornately decorated for those who want something more aesthetically pleasing, animated armor moves as quickly as those who might wear it. It pummels foes with its gauntlets but can kick or otherwise ram opponents in the absence of its gauntlets.</p>",
+      "value": "<p><em>Пустота за забралом латного доспеха показывает, что внутри им никто не управляет. Железный меч неподвижно парит в воздухе, а затем внезапно начинает размахивать и финтить, словно в руках опытного фехтовальщика.</em></p><p>Оживлённые предметы — это немагические вещи, которым заклинатель даровал подобие жизни. Почти не отличаясь от обычных аналогов, такие предметы способны бесконечно выполнять простые приказы создателя, пока не получат новые указания. Чаще всего оживляют декоративные или на вид безобидные доспехи и оружие, чтобы они охраняли дома, лаборатории, сокровищницы и другие важные для создателя места.</p><p><strong>Оживлённый доспех.</strong> Его куют как полевой доспех со вмятинами и следами сражений либо украшают богатым орнаментом для ценителей красоты. Двигается он так же быстро, как воин, который мог бы его носить. Обычно он бьёт врагов латными рукавицами, но может пинать и таранить противников, если рукавицы недоступны.</p>",
       "legendary": ""
     },
     "description": {
@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is incapacitated while in the area of an <em>@UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}</em>. If targeted by <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em>, the [[lookup @name lowercase]] must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute.</p>",
+          "value": "<p>[[lookup @name lowercase]] недееспособен, пока находится в области действия заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{антимагическое поле}</em>. Если в него нацелено <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{рассеивание магии}</em>, [[lookup @name lowercase]] должен преуспеть в спасброске [[/save constitution]] против СЛ спасброска заклинаний заклинателя, иначе теряет сознание на 1 минуту.</p>",
           "source": {}
         },
         "identifier": {
@@ -316,7 +316,7 @@
       "_key": "!actors.items!F5iAJEkQmX1oCW8z.7vDv6MbUjGTHVTgA"
     },
     {
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "ywYUm4fXuphIzGdI",
       "img": "icons/commodities/tech/furnace-modern.webp",
@@ -378,7 +378,7 @@
       "_key": "!actors.items!F5iAJEkQmX1oCW8z.ywYUm4fXuphIzGdI"
     },
     {
-      "name": "Создать устойчивость",
+      "name": "Стойкость конструкта",
       "type": "feature",
       "_id": "qi3WnDnXp4lTwWll",
       "img": "icons/commodities/tech/glass-electrode.webp",
@@ -542,7 +542,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal suit of armor.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от обычного комплекта доспехов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -654,7 +654,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The animated armor makes two Slam attacks.</p>",
+          "value": "<p>Оживлённый доспех совершает две атаки «Ударом».</p>",
           "source": {}
         },
         "identifier": {},
@@ -794,7 +794,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The animated armor slams its helmet into a creature it can sense within 5 feet of it. The target must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked prone.</p>",
+          "value": "<p>Оживлённый доспех бьёт шлемом существо, которое ощущает в пределах 5 футов. Цель должна преуспеть в [[/save]], иначе получает [[/damage average]] урона и падает ничком.</p>",
           "source": {}
         },
         "identifier": {},
@@ -841,7 +841,7 @@
       "_key": "!actors.items!F5iAJEkQmX1oCW8z.KOWaEiJHAMz7bpLg"
     },
     {
-      "name": "Хлопок",
+      "name": "Удар",
       "type": "weapon",
       "_id": "eEjpPikFO7YS54SY",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",

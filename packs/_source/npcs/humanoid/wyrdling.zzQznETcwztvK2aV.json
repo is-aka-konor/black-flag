@@ -253,7 +253,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wyrdling rolls two dice for initiative, taking the higher number. In addition, the wyrdling has advantage on WIS (Insight) checks.</p>",
+          "value": "<p>Вирдлинг бросает два кубика на инициативу и использует больший результат. Кроме того, вирдлинг имеет преимущество на проверки МДР (Проницательность).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Вирдлинг может в течение 1 минуты взывать к судьбе от имени одного существа, остающегося в пределах 10 футов всё это время. Существо должно задать один вопрос о конкретной цели, событии или действии, которое должно произойти в течение 7 дней. В конце минуты вирдлинг объявляет результат. Эта черта работает как заклинание divination, но не может отвечать на вопросы одного и того же существа чаще одного раза в 3 дня, даже если вопросы разные.</p>",
+          "value": "<p>Вирдлинг может в течение 1 минуты взывать к судьбе от имени одного существа, остающегося в пределах 10 футов всё это время. Существо должно задать один вопрос о конкретной цели, событии или действии, которое должно произойти в течение 7 дней. В конце минуты вирдлинг объявляет результат. Эта черта работает как заклинание «предсказание», но не может отвечать на вопросы одного и того же существа чаще одного раза в 3 дня, даже если вопросы разные.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -824,7 +824,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the wyrdling is attacked by a creature it can see, it can pluck the strands of fate around the creature, imposing disadvantage on that attack roll. If the attack misses, the wyrdling or one friendly creature it can see within 30 feet of it has advantage on the next attack roll it makes against the attacker before the end of the wyrdling’s next turn.</p>",
+          "value": "<p>Когда существо, которое вирдлинг видит, атакует его, вирдлинг может дёрнуть за нити судьбы вокруг атакующего, накладывая помеху на этот бросок атаки. Если атака промахивается, вирдлинг или одно дружественное существо, которое он видит в пределах 30 футов, получает преимущество на следующий бросок атаки по атакующему до конца следующего хода вирдлинга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

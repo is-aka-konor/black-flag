@@ -585,7 +585,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint the location of Aberrations and Undead within 60 feet of it.</p>",
+          "value": "<p>[[lookup @name lowercase]] может точно определить местоположение Аберраций и Нежити в пределах 60 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -721,7 +721,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Difficult terrain composed of nonmagical plants doesn’t cost the [[lookup @name lowercase]] extra movement. In addition, the [[lookup @name lowercase]] can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p>",
+          "value": "<p>Труднопроходимая местность из немагических растений не требует от [[lookup @name lowercase]] дополнительного перемещения. Кроме того, [[lookup @name lowercase]] может проходить сквозь немагические растения, не замедляясь и не получая урон от шипов, колючек и подобных природных опасностей.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -842,7 +842,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The unicorn makes one Hooves attack and one Horn attack, or it makes two Horn Bolt attacks.</p>",
+          "value": "<p>Единорог совершает одну атаку «Копытами» и одну атаку «Рогом» либо две атаки «Роговым зарядом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -957,7 +957,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The unicorn can cast the @UUID[Compendium.black-flag-ru.spells.Item.YEjQ3ADloS9QFghm]{dancing lights} and @UUID[Compendium.black-flag-ru.spells.Item.rwGcFyilX3avbA5E]{druidcraft} cantrips at will, requiring no material components and using WIS as the spellcasting ability.</p>",
+          "value": "<p>Единорог может неограниченно накладывать заговоры @UUID[Compendium.black-flag-ru.spells.Item.YEjQ3ADloS9QFghm]{пляшущие огоньки} и @UUID[Compendium.black-flag-ru.spells.Item.rwGcFyilX3avbA5E]{искусство друидов}, не используя материальные компоненты и применяя МДР как заклинательную характеристику.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1108,7 +1108,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] touches another creature. The target magically regains [[/healing average]] and is freed from any curse, disease, poison, blindness, or deafness.</p>",
+          "value": "<p>[[lookup @name lowercase]] касается другого существа. Цель магически восстанавливает [[/healing average]] и освобождается от любого проклятия, болезни, яда, слепоты или глухоты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1238,7 +1238,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the unicorn can see within 30 feet of it, including the unicorn, is attacked, the unicorn can surround it with a shimmering shield of radiant light. The target adds 3 to its AC against the attack.</p><p><em>Note: An Active Effect is available to enable in the Effects tab of the character sheet to add the AC bonus.</em></p>",
+          "value": "<p>Когда существо, которое единорог видит в пределах 30 футов (включая самого единорога), становится целью атаки, единорог может окружить его мерцающим щитом лучистого света. Цель получает +3 к КД против этой атаки.</p><p><em>Примечание: во вкладке «Эффекты» листа персонажа доступен активный эффект для включения бонуса к КД.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1410,7 +1410,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to half is speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до половины своей скорости, не провоцируя атаки возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1564,7 +1564,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The unicorn raises its hooves glowing with golden light and brings them down with a reverberating stomp. Each hostile creature within 10 feet of the unicorn must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>Единорог поднимает копыта, сияющие золотым светом, и с гулким топотом опускает их на землю. Каждое враждебное существо в пределах 10 футов от единорога должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и падает &Reference[prone]{ничком}. При успехе существо получает половину урона и не падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1702,7 +1702,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically regains [[/healing average]].</p>",
+          "value": "<p>[[lookup @name lowercase]] магически восстанавливает [[/healing average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -339,7 +339,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] is subjected to an effect that allows it to make a DEX save to take only half damage, the [[lookup @name lowercase]] instead takes no damage if it succeeds on the save, and only half the damage if it fails.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] подвергается эффекту, позволяющему совершить спасбросок ЛОВ, чтобы получить только половину урона, то при успешном спасброске [[lookup @name lowercase]] не получает урон вовсе, а при провале получает только половину.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -536,7 +536,7 @@
           "Tj1NLioeHgc96IOc": {
             "type": "utility",
             "_id": "Tj1NLioeHgc96IOc",
-            "description": "<p>Существо и справка[отравленное]{poisoned} средство, покрытое этим ядом, имеет скорость двукратного воздействия во время отравления.</p>",
+            "description": "<p>Существо, отравленное оружием, покрытым этим ядом, имеет скорость, уменьшенную вдвое, пока остаётся &Reference[poisoned]{отравлен}.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -603,7 +603,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Оружие убийцы покрыто ядом. Когда он попадает любым оружием, оно дополнительно наносит 3d8 урона ядом (включено в атаку). Кроме того, в начале каждого своего хода убийца может выбрать, какой из его ядов активен.</p><ul><li><p>@Embed[.Activity.1oB085Zbjchlb7Pt activate inline]{Друг убийцы}</p></li><li><p>@Embed[.Activity.JtOvHEAO1IAnE4NU activate inline]{Милосердие покупателя}</p></li><li><p>@Embed[.Activity.Tj1NLioeHgc96IOc activate inline]{Судьба вмешивающегося}</p></li></ul>",
+          "value": "<p>Оружие убийцы покрыто ядом. Когда он попадает любым оружием, эта атака дополнительно наносит 3к8 урона ядом (уже включено в атаку). Кроме того, в начале каждого своего хода убийца выбирает, какой из его ядов активен.</p><ul><li><p>@Embed[.Activity.1oB085Zbjchlb7Pt activate inline]{Друг убийцы}</p></li><li><p>@Embed[.Activity.JtOvHEAO1IAnE4NU activate inline]{Милость покупателя}</p></li><li><p>@Embed[.Activity.Tj1NLioeHgc96IOc activate inline]{Судьба вмешавшегося}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

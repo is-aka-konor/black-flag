@@ -577,7 +577,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the [[lookup @name lowercase]] can make one Bite attack.</p>",
+          "value": "<p>[[lookup @name lowercase]] телепортируется вместе с любым носимым и переносимым снаряжением на расстояние до 40 футов в свободное пространство, которое видит. До или после телепортации [[lookup @name lowercase]] может совершить одну атаку «Укусом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

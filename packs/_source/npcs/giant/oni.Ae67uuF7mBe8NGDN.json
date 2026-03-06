@@ -276,7 +276,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This is a head-to-toe suit of armor made of interlocking metal rings. Chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows.</p>",
+          "value": "<p>Это полный доспех из переплетённых металлических колец. Под кольчугу обычно надевают стёганый слой ткани, чтобы избежать натирания и смягчить удары.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -350,7 +350,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s weapon attacks are magical. When the oni hits with any weapon, the weapon deals an extra 3d6 force damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда они попадает любым оружием, эта атака дополнительно наносит 3к6 урона силой (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -421,7 +421,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the stunned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление состоянию &Reference[stunned]{ошеломлён}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -600,7 +600,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] regains [[/healing]] at the start of its turn if it has at least 1 HP.</p>",
+          "value": "<p>[[lookup @name lowercase]] восстанавливает [[/healing]] в начале своего хода, если у него есть хотя бы 1 ОЗ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -718,7 +718,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The oni makes two Claw or Glaive attacks, or it makes three Arcane Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Они совершает две атаки «Когтями» или «Глефой» либо три атаки «Тайным зарядом». Одну из атак они может заменить использованием «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -983,7 +983,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 1d10 + 4 average]] damage in a Medium or smaller form plus [[/damage 3d6 force average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], или [[/damage 1d10 + 4 average]] урона в форме Среднего или меньшего размера, плюс [[/damage 3d6 force average]] урона силой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1173,7 +1173,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The oni channels its magic into its twirling glaive, creating magical wind in a 30-foot cone. Each creature in the area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is pushed up to 15 feet away from the oni. On a success, a creature takes half the damage and isn’t pushed.</p>",
+          "value": "<p>Они направляет магию в вращающуюся глефу, создавая магический ветер в конусе 30 футов. Каждое существо в этой области должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и отталкивается от они на расстояние до 15 футов. При успехе существо получает половину урона и не отталкивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1452,7 +1452,7 @@
           "max": "0"
         },
         "description": {
-          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]{невидим}</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2243,7 +2243,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The oni magically transforms into a Small or Medium Humanoid, a Large ogre, or back into its true form, which is Giant. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it, except for its glaive, which adjusts to fit its new form. If the oni dies, it reverts to its true form, and the glaive reverts to its normal size.</p>",
+          "value": "<p>Они магически превращается в Гуманоида Маленького или Среднего размера, в огра Большого размера либо возвращается в истинную форму Великана. Его характеристики, кроме размера, одинаковы во всех формах. Всё носимое и переносимое снаряжение преобразуется вместе с ним, кроме глефы, которая подстраивается под новую форму. Если они погибает, он возвращается в истинную форму, а глефа — к обычному размеру.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

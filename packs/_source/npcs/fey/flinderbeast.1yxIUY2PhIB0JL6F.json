@@ -688,7 +688,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The flinderbeast exhales splinters in a 15-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Флиндерзверь выдыхает облако щепок в 15-футовом конусе. Каждое существо в этой области должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -818,7 +818,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] teleports to an unoccupied space it can see within 15 feet of it.</p>",
+          "value": "<p>[[lookup @name lowercase]] телепортируется в свободное пространство, которое видит в пределах 15 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1021,7 +1021,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] is the target of a ranged weapon attack that uses ammunition made mostly of wood, such as an arrow, the [[lookup @name lowercase]] can attempt to catch and eat the ammunition. The [[lookup @name lowercase]] must make a [[/save dex 14 format=long]]. On a success, it gains [[/healing 1d6 temp average]] and prevents the attack’s damage.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] становится целью дальнобойной атаки оружием, использующей боеприпас преимущественно из дерева (например, стрелу), [[lookup @name lowercase]] может попытаться поймать и съесть этот боеприпас. [[lookup @name lowercase]] должен совершить [[/save dex 14 format=long]]. При успехе он получает [[/healing 1d6 temp average]] и предотвращает урон от этой атаки.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

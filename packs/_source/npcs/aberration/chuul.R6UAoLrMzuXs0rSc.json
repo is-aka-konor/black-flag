@@ -526,7 +526,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] senses and can pinpoint the location of magic within 120 feet of it. If it senses magic and can see the creature or object bearing the magic it senses, it sees a faint aura around that creature or object.</p>",
+          "value": "<p>[[lookup @name lowercase]] ощущает магию и может точно определить её местоположение в пределах 120 футов. Если он ощущает магию и видит существо или объект, несущие эту магию, то видит вокруг них слабое сияние.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -647,7 +647,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chuul makes two Pincer attacks.</p>",
+          "value": "<p>Чуул совершает две атаки «Клешнёй».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -811,7 +811,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chuul taps into ancient memories of magic and reaches toward nearby magic with an unpracticed grasp, releasing a burst of energy. Each creature within 15 feet of the chuul must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. If a magic item, spell effect, or spellcaster is within 30 feet of the chuul, the burst is pure arcane energy, dealing force damage. If no magic is within 30 feet of the chuul, the burst pulls from the chuul’s own life force, dealing necrotic damage. If the damage is necrotic, the chuul takes necrotic damage as if it succeeded on the save.</p>",
+          "value": "<p>Чуул обращается к древним воспоминаниям о магии и неумело тянется к ближайшей магической энергии, высвобождая всплеск силы. Каждое существо в пределах 15 футов от чуула должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона. Если в пределах 30 футов от чуула есть магический предмет, эффект заклинания или заклинатель, всплеск становится чистой тайной энергией и наносит урон силой. Если в пределах 30 футов нет магии, всплеск черпает энергию из жизненной силы чуула и наносит некротический урон. Если урон некротический, чуул получает некротический урон так, как если бы успешно прошёл этот спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -951,7 +951,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the chuul must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. Until this poison ends, the creature is &Reference[paralyzed]{парализован}. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Одно существо, схваченное чуулом, должно преуспеть в [[/save format=long]] или быть &Reference[poisoned]{отравлен} на 1 минуту. Пока действует этот яд, существо находится в состоянии &Reference[paralyzed]{парализован}. Отравленное существо может повторять спасбросок в конце каждого своего хода, завершая эффект на себе при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1100,7 +1100,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is Large or smaller, it is &Reference[grappled]{схвачен} (escape DC 14). The chuul has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель Большого размера или меньше, она становится &Reference[grappled]{схвачен} (СЛ высвобождения 14). У чуула две клешни, и каждая может удерживать только одну цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

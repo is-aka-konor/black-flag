@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that touches the [[lookup @name lowercase]] or hits it with a melee attack while within 5 feet of it takes [[/damage average]] damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the [[lookup @name lowercase]] is destroyed after dealing damage. The [[lookup @name lowercase]] can eat through a panel of nonmagical wood or metal in its space that is up to 2 inches thick in 1 round.</p>",
+          "value": "<p>Существо, коснувшееся [[lookup @name lowercase]] или попавшее по нему рукопашной атакой, находясь в пределах 5 футов, получает [[/damage average]] урона. Любое немагическое оружие из металла или дерева, попавшее по студню, подвергается коррозии. После нанесения урона оружие получает постоянный и суммирующийся штраф −1 к броскам урона. Если штраф достигает −5, оружие уничтожается. Немагические боеприпасы из металла или дерева, попавшие по [[lookup @name lowercase]], уничтожаются после нанесения урона. [[lookup @name lowercase]] может проесть в своей клетке панель из немагического дерева или металла толщиной до 2 дюймов за 1 раунд.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -824,7 +824,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The black pudding makes two Pseudopod attacks.</p>",
+          "value": "<p>Чёрный студень совершает две атаки «Ложноножкой».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -952,7 +952,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] dims the light around it. The radius of each light source within 60 feet of it is halved until the start of its next turn. The [[lookup @name lowercase]] can’t use this action while in sunlight.</p>",
+          "value": "<p>[[lookup @name lowercase]] приглушает свет вокруг себя. Радиус каждого источника света в пределах 60 футов от него уменьшается вдвое до начала его следующего хода. [[lookup @name lowercase]] не может использовать это действие под солнечным светом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1079,7 +1079,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a [[lookup @name lowercase]] that is Medium or larger is subjected to lightning or slashing damage, it splits into two new [[lookup @name lowercase]]s if it has at least 10 HP. Each new [[lookup @name lowercase]] has HP equal to half the original [[lookup @name lowercase]]'s, rounded down. New [[lookup @name lowercase]] are one size smaller than the original [[lookup @name lowercase]].</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] Среднего размера или больше получает урон электричеством или рубящий урон, он делится на два новых [[lookup @name lowercase]], если у него не меньше 10 ОЗ. Каждый новый [[lookup @name lowercase]] имеет количество ОЗ, равное половине ОЗ исходного [[lookup @name lowercase]] (округляя вниз). Новые [[lookup @name lowercase]] на один размер меньше исходного.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1246,7 +1246,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Кроме того, немагический доспех, который носит цель, частично растворяется и получает постоянный, суммирующийся штраф −1 к даваемому КД. Доспех, чей КД снижен до 10, уничтожается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

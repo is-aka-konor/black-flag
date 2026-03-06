@@ -630,7 +630,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn. If a creature fails the save by 5 or more, it must spend its turn retching uncontrollably and be unable to move or act.</p>",
+          "value": "<p>Существо, начинающее ход в пределах 10 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или стать &Reference[poisoned]{отравлен} до начала своего следующего хода. Если существо проваливает спасбросок на 5 или больше, оно проводит ход в неконтролируемой рвоте и не может двигаться и действовать.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -825,7 +825,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When an ochre jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new ochre jellies if it has at least 10 HP. Each new jelly has HP equal to half the original jelly’s, rounded down. New jellies are one size smaller than the original jelly.</p>",
+          "value": "<p>Когда охристый студень Среднего размера или больше получает урон электричеством или рубящий урон, он делится на два новых охристых студня, если у него не меньше 10 ОЗ. Каждый новый студень имеет количество ОЗ, равное половине ОЗ исходного (округляя вниз). Новые студни на один размер меньше исходного.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1082,7 +1082,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is poisoned, it must succeed on a [[/save con 13 format=long]] save or also take [[/damage 2d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель отравлена, она должна преуспеть в [[/save con 13 format=long]] или дополнительно получить [[/damage 2d4 poison average]] урона ядом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

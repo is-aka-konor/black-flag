@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the white dragon hasn’t unleashed its Cold Breath, the cold builds up within it and ripples outward from it. While the dragon’s Cold Breath is available, it emits a numbing chill, and each creature that starts its turn within 10 feet of the dragon must succeed on a [[/save format=long]] or its speed is reduced by 10 feet.</p>",
+          "value": "<p>Когда белый дракон не использовал своё «Ледяное дыхание», холод накапливается в его теле и расходится от него волнами. Пока «Ледяное дыхание» дракона доступно, он испускает пронизывающий мороз, и каждое существо, начинающее ход в пределах 10 футов от дракона, должно преуспеть в [[/save format=long]], иначе его скорость уменьшается на 10 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

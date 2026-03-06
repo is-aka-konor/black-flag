@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wild warrior automatically discerns true north when outside, and checks to follow its tracks in forest, grassland, hills, or mountain terrain have disadvantage, unless the wild warrior chooses to leave obvious signs of its passage.</p>",
+          "value": "<p>Воин дикой природы автоматически определяет истинный север, находясь под открытым небом. Проверки для выслеживания его следов в лесу, на равнинах, в холмах или горах совершаются с помехой, если только воин дикой природы сам не решит оставить очевидные признаки своего пути.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -344,7 +344,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] uses its Acid Breath, acid clings to its mouth, throat, and nostrils for a time, evaporating as the [[lookup @name lowercase]] breathes. While the [[lookup @name lowercase]]'s Acid Breath is unavailable, acidic vapors surround it, and each creature that starts its turn within 20 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn.</p>",
+          "value": "<p>После того как [[lookup @name lowercase]] использует «Кислотное дыхание», кислота некоторое время остаётся на его пасти, в горле и ноздрях, постепенно испаряясь, пока дышит [[lookup @name lowercase]]. Пока «Кислотное дыхание» [[lookup @name lowercase]] недоступно, его окружают кислотные испарения, и каждое существо, начинающее ход в пределах 20 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или стать &Reference[poisoned]{отравлён} до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -808,7 +808,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган} of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]] спасброске или стать &Reference[frightened]{испуган} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нём заканчивается, оно получает иммунитет к «Устрашающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1363,7 +1363,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a [[/save]] save or be vulnerable to acid damage until the end of its next turn. A target resistant to acid damage isn’t resistant to it for the duration. A target immune to acid damage is still immune to it, even if the target fails the save.</p>",
+          "value": "<p>[[lookup @name lowercase]] рычит на не более чем двух существ по своему выбору в пределах 120 футов. Каждая цель должна преуспеть в [[/save]] спасброске или получить уязвимость к урону кислотой до конца своего следующего хода. Цель, имеющая сопротивление урону кислотой, теряет это сопротивление на время действия эффекта. Цель, имеющая иммунитет к урону кислотой, сохраняет иммунитет, даже если проваливает спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

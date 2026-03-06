@@ -395,7 +395,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While attached to a creature, the [[lookup @name lowercase]] takes only half the damage dealt to it (rounded down), and that creature takes the other half.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] прикреплён к существу, он получает только половину наносимого ему урона (округляя вниз), а вторую половину получает это существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -466,7 +466,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным и не показывает нижнюю сторону тела, его невозможно отличить от тёмного кожаного плаща.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -534,7 +534,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in bright light, the [[lookup @name lowercase]] has disadvantage on attack rolls, and its Perception is 6 when perceiving by sight.</p>",
+          "value": "<p>На ярком свету [[lookup @name lowercase]] совершает броски атаки с помехой, а его Восприятие при использовании зрения равно 6.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -652,7 +652,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cloaker makes one Bite attack and two Tail attacks.</p>",
+          "value": "<p>Плащевик совершает одну атаку «Укусом» и две атаки «Хвостом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -817,7 +817,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cloaker releases a deep, thrumming moan that rattles the nerves of all who hear it. Each creature within 30 feet of the cloaker that can hear the moan and that isn’t an Aberration must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[frightened]{испуган} until the end of its next turn. On a success, a creature takes half the damage and isn’t frightened.</p>",
+          "value": "<p>Плащевик издаёт глубокий, дрожащий стон, расшатывающий нервы всем, кто его слышит. Каждое существо в пределах 30 футов от плащевика, которое слышит стон и не является Аберрацией, должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится &Reference[frightened]{испуган} до конца своего следующего хода. При успехе существо получает половину урона и не пугается.</p>",
           "source": {
             "fallback": "Black Flag Resource Document"
           }
@@ -956,7 +956,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the cloaker isn’t in bright light, it pulls shadows around itself, partially obscuring its form. For 1 minute or until the cloaker is hit with an attack, the cloaker’s Stealth is 20, and creatures have disadvantage on attack rolls against the cloaker.</p>",
+          "value": "<p>Пока плащевик не находится на ярком свету, он собирает вокруг себя тени, частично скрывая свой силуэт. На 1 минуту или до тех пор, пока по плащевику не попадут атакой, его Скрытность становится 20, а существа совершают броски атаки по нему с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1270,7 +1270,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage on the attack roll, the cloaker attaches to the target’s head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can’t make Bite attacks, and at the start of each of the cloaker’s turns, the target takes [[/damage 4d6 + 4 piercing average]] damage.</p><p>The attached cloaker moves with the target whenever the target moves, requiring none of the cloaker’s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the cloaker by succeeding on a [[/check str 15 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель Большого размера или меньше, плащевик прикрепляется к ней. Если плащевик имел преимущество на бросок атаки, он прикрепляется к голове цели, и цель становится ослеплённой и не может дышать, пока плащевик прикреплён. Пока прикреплён, плащевик не может совершать атаки «Укусом», а в начале каждого хода плащевика цель получает [[/damage 4d6 + 4 piercing average]] урона.</p><p>Прикреплённый плащевик перемещается вместе с целью, когда она движется, не тратя собственного перемещения. Он может отцепиться, потратив 5 футов своего перемещения в свой ход. Существо, включая саму цель, может действием отцепить плащевика, преуспев в [[/check str 15 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

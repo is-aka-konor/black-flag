@@ -555,7 +555,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sends out a burst of necrotic-laced spores, rapidly rotting nearby flesh. Each creature within 10 feet of the [[lookup @name lowercase]] that isn’t a Construct must make a  [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выбрасывает всплеск спор, насыщенных некротической энергией, быстро разлагающих плоть поблизости. Каждое существо в пределах 10 футов от [[lookup @name lowercase]], не являющееся Конструктом, должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

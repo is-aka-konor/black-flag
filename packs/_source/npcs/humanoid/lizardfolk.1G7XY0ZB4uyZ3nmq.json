@@ -522,7 +522,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lizardfolk makes one Bite attack and one Heavy Club attack, or it makes two Javelin attacks.</p>",
+          "value": "<p>Ящеролюд совершает одну атаку «Укусом» и одну атаку «Тяжёлой дубиной» либо две атаки «Дротиком».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

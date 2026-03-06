@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The insatiable brood has advantage on saves against spells or effects that would alter its form.</p>",
+          "value": "<p>Ненасытный выводок имеет преимущество на спасброски против заклинаний и эффектов, которые изменяют его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -330,7 +330,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The insatiable brood’s Bites attacks are magical.</p>",
+          "value": "<p>Атаки «Укусом» ненасытного выводка считаются магическими.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Рой может занимать пространство другого существа, и наоборот, а также проходить через любое отверстие, достаточное для Крошечного существа. Рой не может восстанавливать HP и получать временные HP.</p>",
+          "value": "<p>Рой может занимать пространство другого существа, и наоборот, а также проходить через любое отверстие, достаточное для Крошечного существа. Рой не может восстанавливать ОЗ и получать временные ОЗ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -532,7 +532,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep, and it is immune to the effects of Void terrain. In addition, it can fly through the Void as if through air.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне, а также невосприимчив к эффектам местности Пустоты. Кроме того, он может летать сквозь Пустоту так же, как через воздух.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -672,7 +672,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The insatiable brood turns all its individual heads in one direction, and its hundreds of Void-filled eyes stare at one creature the brood can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target fails the save by 5 or more, it suffers a random, short-term dread effect for 1 minute.</p>",
+          "value": "<p>Ненасытный выводок поворачивает все свои отдельные головы в одну сторону, и его сотни глаз, наполненных Пустотой, впиваются в одно существо, которое выводок видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]] или стать &Reference[frightened]{испуган} до конца своего следующего хода. Если цель проваливает спасбросок на 5 или больше, она получает случайный краткосрочный эффект ужаса на 1 минуту.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1133,7 +1133,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d6 piercing average]] damage plus [[/damage 2d8 force average]] damage if the insatiable brood has half its HP or fewer.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], либо [[/damage 2d6 piercing average]] колющего урона плюс [[/damage 2d8 force average]] урона силой, если у ненасытного выводка половина ОЗ или меньше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

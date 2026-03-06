@@ -269,7 +269,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.</p>",
+          "value": "<p>Этот доспех состоит из кожаного панциря и поножей (иногда с отдельной юбкой), покрытых перекрывающимися металлическими пластинами, похожими на рыбью чешую.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -590,7 +590,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Nearby weather responds to the storm giant’s desires. At the start of each minute, the storm giant can choose to change the precipitation, temperature, and wind within 3 miles of it by one stage, up or down (no action required). This effect works like the changing weather conditions aspect of the control weather spell, except the conditions change immediately and the storm giant can’t change the temperature by more than one stage up or down from the area’s standard temperature.</p>",
+          "value": "<p>Погода поблизости откликается на желания штормового великана. В начале каждой минуты штормовой великан может изменить уровень осадков, температуру и силу ветра в радиусе 3 миль от себя на одну ступень вверх или вниз (без траты действия). Этот эффект работает как часть заклинания «управление погодой», отвечающая за смену погодных условий, но условия меняются сразу, и штормовой великан не может менять температуру более чем на одну ступень вверх или вниз относительно обычной температуры местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -658,7 +658,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can see through areas obscured by clouds, fog, rain, snow, and storms without penalty.</p>",
+          "value": "<p>[[lookup @name lowercase]] без штрафа видит сквозь области, скрытые облаками, туманом, дождём, снегом и штормом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -726,7 +726,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in an area open to the sky, the storm giant has a flying speed of 30 feet.</p>",
+          "value": "<p>На открытой местности под небом штормовой великан получает скорость полёта 30 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -847,7 +847,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant makes three Greatsword attacks, or it makes four Lightning Bolt attacks.</p>",
+          "value": "<p>Великан совершает три атаки «Двуручным мечом» либо четыре атаки «Разрядом молнии».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1202,7 +1202,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[stunned]{ошеломлён} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>Великан швыряет магический разряд молнии в точку, которую видит в пределах 500 футов. Каждое существо в пределах 10 футов от этой точки должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится &Reference[stunned]{ошеломлён} до конца своего следующего хода. При успехе существо получает половину урона и не становится ошеломлённым.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1341,7 +1341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the storm giant can see hits it with a melee attack while within 5 feet of the giant, the giant can send a stormy blast at the creature. The attacker must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the giant and knocked prone.</p>",
+          "value": "<p>Когда существо, которое штормовой великан видит, попадает по нему рукопашной атакой, находясь в пределах 5 футов от великана, великан может направить в это существо штормовой выброс. Атакующий должен преуспеть в [[/save format=long]] или быть оттолкнутым от великана на расстояние до 15 футов и сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1565,7 +1565,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the giant scores a critical hit, the target must succeed on a [[/save con 17 format=long]] or be &Reference[paralyzed]{парализован} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если великан совершает критическое попадание, цель должна преуспеть в [[/save con 17 format=long]] или быть &Reference[paralyzed]{парализован} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

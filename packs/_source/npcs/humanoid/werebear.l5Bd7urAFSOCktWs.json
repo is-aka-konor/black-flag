@@ -650,7 +650,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The werebear transforms into a Medum or Large bear, a Large bear-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size, speed, and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>Оборотень-медведь превращается в Медведя Среднего или Большого размера, в гибридную форму «медведь-гуманоид» Большого размера либо возвращается в истинную форму Гуманоида. Его характеристики, кроме размера, скорости и КД, одинаковы во всех формах. Носимое и переносимое снаряжение не преобразуется. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -777,7 +777,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the werebear is knocked &Reference[prone]{ничком}, and it is &Reference[restrained]{опутан} until the grapple ends.</p>",
+          "value": "<p>Одно существо, схваченное оборотнем-медведем, падает &Reference[prone]{ничком} и остаётся &Reference[restrained]{опутан} до окончания захвата.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -539,7 +539,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can communicate with Plants and nonmagical plants as if they shared a language.</p>",
+          "value": "<p>[[lookup @name lowercase]] может общаться с Растениями и немагическими растениями так, словно они говорят на одном языке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -677,7 +677,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The treant makes three Slam attacks, or it makes two Throw Rock attacks. If two Slam attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Трент совершает три атаки «Ударом» либо две атаки «Броском скалы». Если две атаки «Ударом» попадают по одному существу, цель должна преуспеть в [[/save format=long]] или упасть &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -982,7 +982,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The treant magically animates 2 trees or [[/r 2d6]] shrubs it can see within 60 feet of it. The trees use the statistics of an @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.vYcjilCbj3LEInu5]{awakened tree}, and the shrubs use the statistics of an @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.ueDCdXsSa5jnyMRL]{awakened shrub} (see Animals Appendix). The animated plants act as allies of the treant, obeying its spoken commands. The plants remain for 1 hour, until the treant dies, or until the treant dismisses them as a bonus action.</p>",
+          "value": "<p>Трент магически оживляет 2 дерева или [[/r 2d6]] кустарников, которые видит в пределах 60 футов. Деревья используют параметры @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.vYcjilCbj3LEInu5]{пробуждённого дерева}, а кустарники — параметры @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.ueDCdXsSa5jnyMRL]{пробуждённого кустарника} (см. приложение «Животные»). Оживлённые растения действуют как союзники трента и подчиняются его устным приказам. Они остаются на 1 час, пока трент не погибнет или пока трент не отпустит их бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1121,7 +1121,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The treant calls to the roots beneath up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} by roots until the end of its next turn. The treant can target only creatures in contact with the ground and can’t target creatures in contact with a manufactured floor, such as the wooden floor of a building.</p>",
+          "value": "<p>Трент призывает корни под ногами до двух существ, которых видит в пределах 30 футов. Каждая цель должна преуспеть в [[/save format=long]] или стать &Reference[restrained]{опутан} корнями до конца своего следующего хода. Трент может выбирать целью только существ, касающихся земли, и не может выбирать существ, стоящих на искусственном полу, например на деревянном полу здания.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -134,7 +134,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A gray-skinned humanoid glares with red-rimmed eyes. He brandishes his axe and growls, his tusked mouth twisting into a toothy snarl as he advances.</em></p><p>Orcs are broad and muscular, with coarse features, prominent tusks on their lower jaws, and deeply set eyes. They commonly have a dusky gray skin color, though this can vary by region or tribe, with tones ranging from pale white to sandy or even mottled white and black, with a few sporting greenish or orange tinges.</p><p><strong>Rule of Might.</strong> Aggressive, opportunistic warriors, orcs follow the rule of might. In orcish culture, you are entitled to whatever you can take, for however long you are strong enough to hold it. Tribes choose homes based on the other creatures that live nearby and what they have worth taking, even if those others are another orc tribe.</p><p><strong>Great War Banners.</strong> Occasionally, tribes band together under the banner of a leader of exceptional might, a Great Chief, to take some great prize. Such hordes rarely last beyond the initial raid, with each tribe seizing its share and returning home to celebrate victory.</p>",
+      "value": "<p><em>Серокожий гуманоид смотрит исподлобья красноватыми глазами. Он размахивает топором и рычит, обнажая клыки в зверином оскале, пока идёт вперёд.</em></p><p>Орки широкоплечи и мускулисты, с грубыми чертами лица, выступающими нижними клыками и глубоко посаженными глазами. Чаще всего их кожа сумрачно-серая, но в зависимости от региона и племени встречаются оттенки от бледно-белого до песочного и даже пятнистого бело-чёрного, иногда с зеленоватыми или оранжевыми тонами.</p><p><strong>Право сильного.</strong> Агрессивные и оппортунистичные воины, орки живут по праву силы. В орочьей культуре тебе принадлежит всё, что ты способен отнять и удержать. Племена выбирают земли по тому, какие существа живут поблизости и что у них можно забрать, даже если рядом обитает другое орочье племя.</p><p><strong>Великие боевые знамёна.</strong> Иногда племена объединяются под знаменем лидера исключительной мощи — Великого Вождя, чтобы завладеть крупной добычей. Такие орды редко существуют дольше первого большого набега: каждое племя забирает свою долю и возвращается домой праздновать победу.</p>",
       "legendary": ""
     },
     "description": {
@@ -403,7 +403,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Если [[lookup @name lowercase]] получает 10 урона или меньше, и этот урон должен снизить его до 0 HP, вместо этого у него остаётся 1 HP.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает 10 урона или меньше, и этот урон должен снизить его до 0 ОЗ, вместо этого у него остаётся 1 ОЗ.</p>",
           "source": {}
         },
         "identifier": {},

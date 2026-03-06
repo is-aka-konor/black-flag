@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from an ordinary fungus.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от обычного гриба.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -555,7 +555,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shrieker emits a concentrated burst of sound at one creature it can sense within 30 feet of it. The target must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Крикун испускает концентрированный звуковой выброс в одно существо, которое ощущает в пределах 30 футов. Цель должна совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -695,7 +695,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shrieker emits a high-pitched shriek audible within 300 feet of it. Each creature within 30 feet of it that isn’t a Plant and that can hear the shriek must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the shriek ends. The shrieker must use a bonus action on its subsequent turns to continue shrieking. It can stop shrieking at any time. The shriek ends if the shrieker is incapacitated.</p><p>A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. A creature that successfully saves is immune to the frightened effect of this shrieker’s Shriek for the next 24 hours.</p>",
+          "value": "<p>Крикун издаёт пронзительный визг, слышимый в пределах 300 футов. Каждое существо в пределах 30 футов, не являющееся Растением и способное слышать визг, должно преуспеть в [[/save format=long]] или стать &Reference[frightened]{испуган} до окончания визга. На последующих ходах крикун должен использовать бонусное действие, чтобы продолжать визжать. Он может прекратить визг в любой момент. Визг заканчивается, если крикун становится недееспособным.</p><p>Испуганное существо может повторять спасбросок в конце каждого своего хода, завершая эффект на себе при успехе. Существо, успешно прошедшее спасбросок, становится невосприимчивым к эффекту испуга от «Визга» этого крикуна на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -825,7 +825,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When bright light or a creature other than a Plant moves to within 30 feet of the shrieker, the shrieker can use Shriek, if it isn’t already shrieking.</p>",
+          "value": "<p>Когда яркий свет или существо, не являющееся Растением, перемещается в пределы 30 футов от крикуна, крикун может использовать «Визг», если ещё не визжит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

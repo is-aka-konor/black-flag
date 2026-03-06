@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ground within 10 feet of the mouther is dough-like difficult terrain. A creature that starts its turn in the area must succeed on a [[/save format=long]] or its speed is halved until the start of its next turn.</p>",
+          "value": "<p>Земля в пределах 10 футов от болтуна становится вязкой труднопроходимой местностью. Существо, начинающее ход в этой области, должно преуспеть в [[/save format=long]] или его скорость уменьшается вдвое до начала следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -598,7 +598,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mouther babbles incoherently while it can see any creature and isn’t incapacitated. A creature that starts its turn within 20 feet of the mouther and that can hear the gibbering must succeed on a [[/save format=long]] or it can’t take reactions until the start of its next turn and must roll a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and moves its full speed in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.</p>",
+          "value": "<p>Пока болтун видит любое существо и не является недееспособным, он бессвязно бормочет. Существо, начинающее ход в пределах 20 футов от болтуна и способное слышать бормотание, должно преуспеть в [[/save format=long]] или не сможет совершать реакции до начала своего следующего хода и должно бросить [[/r 1d8]], чтобы определить своё поведение в этот ход. При 1-4 существо ничего не делает. При 5-6 существо не совершает действие и бонусное действие и перемещается на полную скорость в случайном направлении. При 7-8 существо совершает рукопашную атаку по случайно выбранному существу в пределах досягаемости либо ничего не делает, если не может совершить такую атаку.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -736,7 +736,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gibbering mouther makes two Bite attacks. If both attacks hit one Medium or smaller creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Бормочущая пасть совершает две атаки «Укусом». Если обе атаки попадают по одному существу Среднего размера или меньше, цель должна преуспеть в [[/save format=long]] или быть сбита с ног &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -887,7 +887,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the mouther can see within 30 feet of it must succeed on a [[/save format=long]] or take [[/damage average]] damage and suffer a random, short-term dread effect for 1 minute.</p>",
+          "value": "<p>Одно существо, которое болтун видит в пределах 30 футов, должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона и случайный краткосрочный эффект ужаса на 1 минуту.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1026,7 +1026,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mouther spits an otherworldly goo at up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
+          "value": "<p>Болтун выплёвывает потустороннюю слизь в сторону до двух существ, которых видит в пределах 30 футов. Каждая цель должна преуспеть в [[/save format=long]] или стать &Reference[blinded]{ослеплён} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

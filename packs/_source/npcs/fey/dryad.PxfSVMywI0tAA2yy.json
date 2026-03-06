@@ -450,7 +450,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in a forest, the [[lookup @name lowercase]] can’t be surprised, and it leaves behind no tracks or other traces of its passage.</p>",
+          "value": "<p>Находясь в лесу, [[lookup @name lowercase]] не может быть застигнут врасплох и не оставляет следов или иных признаков своего прохода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -586,7 +586,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Once on its turn, the [[lookup @name lowercase]] can use 10 feet of its movement to step magically into one living tree within its reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or larger.</p>",
+          "value": "<p>Один раз за свой ход [[lookup @name lowercase]] может потратить 10 футов перемещения, чтобы магически войти в живое дерево в пределах досягаемости и выйти из второго живого дерева в пределах 60 футов от первого, появляясь в свободном пространстве в пределах 5 футов от второго дерева. Оба дерева должны быть Большого размера или больше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -724,7 +724,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dryad makes two Vine Whip or Blast of Pollen attacks. If both Vine Whip attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} by vines until the end of its next turn.</p>",
+          "value": "<p>Дриада совершает две атаки «Плетью лоз» или «Взрывом пыльцы». Если обе атаки «Плетью лоз» попадают по одному существу, цель должна преуспеть в [[/save format=long]] или быть &Reference[restrained]{опутан} лозами до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1025,7 +1025,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] emits an alluring, floral scent toward one Beast or Humanoid it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} for 1 minute. While charmed, the target views the [[lookup @name lowercase]] as an ally and views the [[lookup @name lowercase]]'s requests favorably, though it isn’t under the [[lookup @name lowercase]]'s control. The charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time.</p>",
+          "value": "<p>[[lookup @name lowercase]] испускает чарующий цветочный аромат в сторону одного Зверя или Гуманоида, которого видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]] или быть &Reference[charmed]{очарован}{очарован} на 1 минуту. Пока цель очарована, она воспринимает [[lookup @name lowercase]] как союзника и благосклонно относится к её просьбам, хотя не находится под прямым контролем [[lookup @name lowercase]]. Очарованное существо может повторять спасбросок в конце каждого своего хода, завершая эффект на себе при успехе. Одновременно [[lookup @name lowercase]] может удерживать очарованными таким образом до двух существ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1158,7 +1158,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically calls a horde of squirrels, rabbits, mice, and other small animals native to the forest. The horde uses the statistics of 1 @UUID[Compendium.black-flag-ru.npcs.Actor.42AgwMUryk85tzJH]{swarm of rats}. The called creatures arrive on initiative count 20 of the next round, acting as allies of the [[lookup @name lowercase]] and obeying its spoken commands. They remain for 1 hour, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] dismisses them as a bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически призывает орду белок, кроликов, мышей и других мелких лесных животных. Орда использует параметры 1 @UUID[Compendium.black-flag-ru.npcs.Actor.42AgwMUryk85tzJH]{роя крыс}. Призванные существа прибывают на счёт инициативы 20 следующего раунда, действуют как союзники [[lookup @name lowercase]] и подчиняются её устным приказам. Они остаются на 1 час, пока [[lookup @name lowercase]] не погибнет или пока не отпустит их бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

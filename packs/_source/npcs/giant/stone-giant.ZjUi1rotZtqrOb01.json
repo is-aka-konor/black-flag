@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] Stealth is 20 while in rocky terrain.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 20, пока он находится в каменистой местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -506,7 +506,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant makes two Stony Fist or Rock attacks.</p>",
+          "value": "<p>Великан совершает две атаки «Каменным кулаком» или «Скалой».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -667,7 +667,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target is &Reference[grappled]{схвачен} (escape DC 17) if it is a Large or smaller creature and the stone giant isn’t already grappling a creature.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Цель становится &Reference[grappled]{схвачен} (СЛ высвобождения 17), если это существо Большого размера или меньше и каменный великан ещё никого не удерживает в захвате.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -913,7 +913,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 17 format=long]] save or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, оно должно преуспеть в [[/save str 17 format=long]] или быть сбито с ног &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1342,7 +1342,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The stone giant performs one of the following wrestling maneuvers against one creature it is grappling. The target must succeed on a [[/save format=long]] or suffer the listed effect until the stone giant uses this bonus action again or until the grapple ends.</p><ul><li><p>@Embed[.Activity.vARZti6P5h1lvZv8 activate inline]{Armbar}</p></li><li><p>@Embed[.Activity.dhri57M4R57CjxMN activate inline]{Chinlock}</p></li><li><p>@Embed[.Activity.Ekk8qPY6r2PrJyKw activate inline]{Takedown}</p></li><li><p>@Embed[.Activity.O0up88mlwb5d5dyD activate inline]{Throw}</p></li></ul>",
+          "value": "<p>Каменный великан выполняет один из следующих борцовских приёмов против существа, которое удерживает в захвате. Цель должна преуспеть в [[/save format=long]] или получить указанный эффект до тех пор, пока каменный великан не использует это бонусное действие снова либо пока захват не закончится.</p><ul><li><p>@Embed[.Activity.vARZti6P5h1lvZv8 activate inline]{Залом руки}</p></li><li><p>@Embed[.Activity.dhri57M4R57CjxMN activate inline]{Захват шеи}</p></li><li><p>@Embed[.Activity.Ekk8qPY6r2PrJyKw activate inline]{Сбивание с ног}</p></li><li><p>@Embed[.Activity.O0up88mlwb5d5dyD activate inline]{Бросок}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1469,7 +1469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If a creature the giant can see makes a ranged weapon attack against the giant, the giant can add 3 to its AC. If the attack misses, the giant can catch the missile, provided the attack included a projectile, and throw it back at the attacker, using the giant’s normal ranged weapon attack bonus and the weapon’s normal damage.</p><p><em>Note: An Active Effect is available in the Effects tab of this character sheet to enable the AC bonus.</em></p>",
+          "value": "<p>Если существо, которое великан видит, совершает дальнобойную атаку оружием по великану, великан может добавить 3 к своему КД. Если атака промахивается, великан может поймать снаряд (если атака включала метательный снаряд) и бросить его обратно в атакующего, используя обычный бонус к дальнобойной атаке оружием великана и обычный урон оружия.</p><p><em>Примечание: во вкладке «Эффекты» этого листа персонажа доступен активный эффект для включения бонуса к КД.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

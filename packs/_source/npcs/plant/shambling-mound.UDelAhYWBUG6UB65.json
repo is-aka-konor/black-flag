@@ -547,7 +547,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] emits the smell of rotting vegetation. A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] save or be &Reference[poisoned]{отравлен} until the start of its next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] источает запах гниющей растительности. Существо, начинающее ход в пределах 10 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или быть &Reference[poisoned]{отравлен} до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shambling mound makes two Slam attacks. If both attacks hit a Medium or smaller target, the target is &Reference[grappled]{схвачен} (escape DC 14).</p>",
+          "value": "<p>Шаркающий холм совершает две атаки «Ударом». Если обе атаки попадают по цели Среднего размера или меньше, цель становится &Reference[grappled]{схвачен} (СЛ высвобождения 14).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -833,7 +833,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] engulfs a Medium or smaller creature grappled by it. In addition to being grappled, the engulfed target is &Reference[blinded]{ослеплён}, &Reference[restrained]{опутан}, and unable to breathe, and it must succeed on a [[/save format=long]] save at the start of each of the [[lookup @name lowercase]]'s turns or take [[/damage average]] damage. If the [[lookup @name lowercase]] moves, the engulfed target moves with it. The [[lookup @name lowercase]] can have only one creature engulfed at a time.</p>",
+          "value": "<p>[[lookup @name lowercase]] поглощает существо Среднего размера или меньше, которое удерживает в захвате. Помимо захвата, поглощённая цель становится &Reference[blinded]{ослеплён}, &Reference[restrained]{опутан}, не может дышать и должна преуспевать в [[/save format=long]] в начале каждого хода [[lookup @name lowercase]], иначе получает [[/damage average]] урона. Если [[lookup @name lowercase]] движется, поглощённая цель движется вместе с ним. Одновременно [[lookup @name lowercase]] может держать поглощённым только одно существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

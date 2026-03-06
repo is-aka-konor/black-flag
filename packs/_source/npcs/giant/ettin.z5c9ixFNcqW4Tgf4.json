@@ -380,7 +380,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has two heads and is resistant to the blinded, charmed, deafened, frightened, stunned, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет две головы и обладает сопротивлением состояниям &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглох}, &Reference[frightened]{испуган}, &Reference[stunned]{ошеломлён} и &Reference[unconscious]{без сознания}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -523,7 +523,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on WIS and CHA saves.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет преимущество на спасброски МДР и ХАР.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -591,7 +591,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When one of the [[lookup @name lowercase]]'s heads is asleep, its other head is awake.</p>",
+          "value": "<p>Когда одна из голов [[lookup @name lowercase]] спит, другая бодрствует.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -712,7 +712,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ettin makes one Knobbed Club attack and one Spiked Club attack.</p>",
+          "value": "<p>Эттин совершает одну атаку «Шишковатой дубиной» и одну атаку «Шипастой дубиной».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -908,7 +908,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 15 format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as the blow knocks the wind out of the target. This weapon is wielded by the right head.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save str 15 format=long]] или стать &Reference[incapacitated]{недееспособен} до конца своего следующего хода, так как удар выбивает из неё дыхание. Этим оружием владеет правая голова.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1132,7 +1132,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]., and the target must succeed on a [[/save con 15 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute, as bits of rotten meat clinging to the club’s spikes coat the target’s wound. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. This weapon is wielded by the left head.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 15 format=long]] или стать &Reference[poisoned]{отравлен} на 1 минуту: в рану попадают куски гнилого мяса, застрявшие на шипах дубины. Цель может повторять спасбросок в конце каждого своего хода, завершая эффект на себе при успехе. Этим оружием владеет левая голова.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1275,7 +1275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One of the ettin’s heads picks a creature the ettin can see within 30 feet of it, gaining advantage on its next attack against that creature. The other head doesn’t like being told what to do and has disadvantage on its next attack against that creature. Each weapon attack notes which head controls that weapon.</p>",
+          "value": "<p>Одна из голов эттина выбирает существо, которое эттин видит в пределах 30 футов, и получает преимущество на следующую атаку по этому существу. Другая голова не любит, когда ей указывают, и получает помеху на следующую атаку по этому же существу. В описании каждой оружейной атаки указано, какая голова управляет этим оружием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

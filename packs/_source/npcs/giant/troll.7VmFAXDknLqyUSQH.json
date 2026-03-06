@@ -135,7 +135,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>This hunched giant stares hungrily with wide eyes. Baring massive fangs, it reaches out with long, hooked claws.</em></p><p>Trolls stand about 15 feet tall, seeming shorter due to their bowed legs and stooped postures. Long arms end in wicked, curved claws that scrape the ground when the troll moves. Powerful, fang-filled jaws sit below long, broad noses and massive, bloodshot eyes.</p><p><strong>Variable Appearance.</strong> Troll appearance varies widely, and they are prone to a variety of cosmetic mutations. Skin tones and body types include scaled or slimy, broad and rangy, and even somewhat twiggy or stonelike in some cases. Some sport shaggy mops of hair and even beards, while others are completely hairless.</p><p><strong>Bullies.</strong> Trolls are natural bullies, killing to sate their appetites. They enjoy extorting food and wealth from weaker creatures through threats of violence.</p><p><strong>Regeneration.</strong> The troll’s most notable feature is its powerful regenerative capabilities. Given time, a troll can recover from nearly any wound, even complete dismemberment or beheading. Only wounds delivered with acid or fire can overcome a troll’s regeneration.</p>",
+      "value": "<p><em>Сутулый великан с голодным взглядом широко раскрытых глаз скалит огромные клыки и тянется вперёд длинными крючковатыми когтями.</em></p><p>Тролли достигают примерно 15 футов роста, но кажутся ниже из-за кривых ног и сгорбленной осанки. Их длинные руки оканчиваются зловещими изогнутыми когтями, скребущими землю при ходьбе. Под длинным широким носом расположены мощные челюсти, полные клыков, и огромные налитые кровью глаза.</p><p><strong>Разнообразный облик.</strong> Внешность троллей сильно варьируется, и среди них нередки косметические мутации. Цвет кожи и телосложение могут быть чешуйчатыми или слизистыми, широкими и жилистыми, а иногда даже ветвистыми или каменистыми на вид. У одних растут густые шевелюры и бороды, другие же полностью лишены волос.</p><p><strong>Задиры.</strong> Тролли по природе своей хулиганы и убивают, чтобы насытиться. Им нравится вымогать еду и ценности у более слабых существ, угрожая насилием.</p><p><strong>Регенерация.</strong> Главная особенность тролля — мощная способность к регенерации. Имея время, тролль способен восстановиться почти после любой раны, даже после полного расчленения или обезглавливания. Лишь раны, нанесённые кислотой или огнём, могут подавить эту регенерацию.</p>",
       "legendary": ""
     },
     "description": {
@@ -498,7 +498,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>В начале своего хода [[lookup @name lowercase]] восстанавливает [[/healing]]. Если [[lookup @name lowercase]] получил урон кислотой или огнём, эта особенность не работает в начале его следующего хода. [[lookup @name lowercase]] погибает, только если начинает ход с 0 HP и не восстанавливается.</p>",
+          "value": "<p>В начале своего хода [[lookup @name lowercase]] восстанавливает [[/healing]]. Если [[lookup @name lowercase]] получил урон кислотой или огнём, эта особенность не работает в начале его следующего хода. [[lookup @name lowercase]] погибает, только если начинает ход с 0 ОЗ и не восстанавливает ОЗ.</p>",
           "source": {}
         },
         "identifier": {},
@@ -610,7 +610,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The troll makes one Bite attack and two Claw attacks.</p>",
+          "value": "<p>Тролль совершает одну атаку «Укусом» и две атаки «Когтями».</p>",
           "source": {}
         },
         "identifier": {},
@@ -729,7 +729,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Desperate for a meal as its injuries mount, the troll moves up to half its speed and makes one Bite attack against a creature it can see within range. The troll then regains HP equal to half the damage dealt.</p>",
+          "value": "<p>Отчаянно пытаясь добыть еду по мере накопления ран, тролль перемещается на расстояние до половины своей скорости и совершает одну атаку «Укусом» по существу, которое видит в пределах досягаемости. Затем тролль восстанавливает ОЗ в размере половины нанесённого урона.</p>",
           "source": {}
         },
         "identifier": {},

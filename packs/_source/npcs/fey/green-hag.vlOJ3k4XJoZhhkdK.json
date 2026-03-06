@@ -446,7 +446,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can communicate with Beasts as if they shared a language.</p>",
+          "value": "<p>[[lookup @name lowercase]] может общаться со Зверями так, словно они говорят на одном языке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -583,7 +583,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The green hag makes two Claw or Torment attacks. If two attacks hit one creature, the target must succeed on a [[/save format=long]] or be overwhelmed with pain and have disadvantage on attack rolls until the end of its next turn.</p>",
+          "value": "<p>Зелёная карга совершает две атаки «Когтями» или «Мучением». Если две атаки попадают по одному существу, цель должна преуспеть в [[/save format=long]] или быть переполненной болью и получать помеху на броски атаки до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -720,7 +720,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag magically calls 1 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.pQYXPzSXcfPw7rVt]{giant spider}</strong>, 2 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.bS83voALAowFEnkv]{giant poisonous snakes}</strong>, or [[/r 2d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.68Yn8SwPGkTHabhm]{poisonous snakes}</strong> (see Animals Appendix for statistics). The creatures arrive in [[/r 1d4]] rounds, acting as allies of the hag and obeying its spoken commands. The creatures remain for 1 hour, until the hag dies, or until the hag dismisses them as a bonus action.</p>",
+          "value": "<p>Карга магически призывает 1 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.pQYXPzSXcfPw7rVt]{гигантского паука}</strong>, 2 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.bS83voALAowFEnkv]{гигантских ядовитых змей}</strong> или [[/r 2d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.68Yn8SwPGkTHabhm]{ядовитых змей}</strong> (см. приложение «Животные»). Существа прибывают через [[/r 1d4]] раундов, действуют как союзники карги и подчиняются её устным приказам. Существа остаются на 1 час, пока карга не погибнет или пока карга не отпустит их бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Docuemnt"
           }
@@ -849,7 +849,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). While invisible, it leaves no physical evidence of its passage and can be tracked only by magic. Any equipment it wears or carries is invisible with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически становится невидимой, пока не атакует, не наложит заклинание или пока не закончится её концентрация (как при концентрации на заклинании). Будучи невидимой, она не оставляет физических следов своего прохода и может быть выслежена только магией. Любое снаряжение, которое она носит или несёт, становится невидимым вместе с ней.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1514,7 +1514,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if the hag dies.</p><p>The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching it would feel its rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a [[/check investigation 20 format=long]] to discern that the hag is disguised.</p>",
+          "value": "<p>Карга покрывает себя и всё носимое/переносимое снаряжение магической иллюзией, из-за которой выглядит как другое существо примерно того же размера и гуманоидного телосложения. Иллюзия заканчивается, если карга бонусным действием прекращает эффект или если карга погибает.</p><p>Изменения, создаваемые этим эффектом, не выдерживают физической проверки. Например, карга может выглядеть как обладательница гладкой кожи, но при прикосновении она всё равно ощущается грубой и шершавой. В остальных случаях существо должно действием внимательно осмотреть иллюзию и преуспеть в [[/check investigation 20 format=long]], чтобы распознать маскировку карги.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1648,7 +1648,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can mimic Animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful [[/check insight 14 format=long]].</p>",
+          "value": "<p>[[lookup @name lowercase]] может имитировать звуки животных и голоса гуманоидов. Существо, услышавшее эти звуки, может распознать подделку, преуспев в [[/check insight 14 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

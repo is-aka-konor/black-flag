@@ -1,6 +1,6 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Живой Колосс",
+  "name": "Живой колосс",
   "type": "npc",
   "_id": "wdVwwqWDYfJ7V1xa",
   "img": "systems/black-flag-ru/artwork/tokens/living-colossus.webp",
@@ -296,7 +296,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "h5YrJn9gfnte8QWF",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -364,7 +364,7 @@
           "value": null
         }
       },
-      "name": "Создать устойчивость",
+      "name": "Стойкость конструкта",
       "type": "feature",
       "_id": "rWJ93kl1TrJIRXsf",
       "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -496,7 +496,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal statue or monument of the individual it represents.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от обычной статуи или монумента того, кого он изображает.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -561,7 +561,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to any spell or effect that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к любому заклинанию или эффекту, который изменил бы его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -629,7 +629,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] deals double damage to objects and structures.</p>",
+          "value": "<p>[[lookup @name lowercase]] наносит двойной урон объектам и постройкам.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -750,7 +750,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The living colossus makes three Slam attacks, or it makes four Spirit Blast attacks.</p>",
+          "value": "<p>Живой колосс совершает три атаки «Ударом» или четыре атаки «Духовным взрывом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -914,7 +914,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The living colossus slams its hands together, creating a thunderous wave in a 30-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Живой колосс с силой сводит ладони, создавая грохочущую волну в 30-футовом конусе. Каждое существо в этой области должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1053,7 +1053,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The living colossus strikes the ground with its foot. Each creature within 30 feet of the living colossus must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног} and have the air knocked from its lungs, if it is a breathing creature, until the start of the living colossus’s next turn. A creature with the air knocked from its lungs can’t speak or cast spells with verbal components. If a creature fails the save by 5 or more, it is also &Reference[stunned]{ошеломлён} until the start of the living colossus’s next turn.</p>",
+          "value": "<p>Живой колосс ударяет ногой в землю. Каждое существо в пределах 30 футов от живого колосса должно преуспеть в [[/save format=long]] или быть сбитым с ног &Reference[prone]{сбит с ног}, а также лишиться воздуха в лёгких, если оно дышит, до начала следующего хода живого колосса. Существо, лишившееся воздуха, не может говорить и накладывать заклинания с вербальными компонентами. Если спасбросок провален на 5 или больше, существо также становится &Reference[stunned]{ошеломлён} до начала следующего хода живого колосса.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1267,7 +1267,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly creature the living colossus can see within 60 feet of it, other than itself, takes damage, the living colossus can share some of the life force of the spirit animating it with that friendly creature. The target gains [[/healing temp average]] for 1 minute. If the target would take enough damage to reduce it to 0 HP, it instead regains [[/healing 4d8 format=long]].</p>",
+          "value": "<p>Когда дружественное существо (кроме самого колосса), которое живой колосс видит в пределах 60 футов, получает урон, живой колосс может передать ему часть жизненной силы духа, что оживляет его. Цель получает [[/healing temp average]] на 1 минуту. Если цель должна получить достаточно урона, чтобы её хиты снизились до 0, вместо этого она восстанавливает [[/healing 4d8 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1323,7 +1323,7 @@
       "_key": "!actors.items!wdVwwqWDYfJ7V1xa.EBasDuGHHM0HNhcM"
     },
     {
-      "name": "Хлопок",
+      "name": "Удар",
       "type": "weapon",
       "_id": "Hb3084BW3HSyZ6tC",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",

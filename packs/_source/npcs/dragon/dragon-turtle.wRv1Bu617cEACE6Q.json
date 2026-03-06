@@ -915,7 +915,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. Instead of dealing damage, the dragon turtle can choose to latch onto the target, if the target is a vehicle, such as a ship or wagon. If the vehicle is Huge or smaller, its speed is reduced to 0, and it can’t be moved until the dragon turtle is killed or ends this effect. If the vehicle is Gargantuan, the vehicle’s speed is halved, and the turtle moves with it when it moves. While latched onto a vehicle in this way, the turtle can make Bite attacks against only the vehicle and such attacks automatically hit. The turtle can end this effect at any time (no action required).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Вместо нанесения урона драконья черепаха может вцепиться в цель, если цель - транспорт, например корабль или повозка. Если транспорт Огромного размера или меньше, его скорость уменьшается до 0, и его нельзя перемещать, пока драконья черепаха не погибнет или не прекратит этот эффект. Если транспорт Громадного размера, его скорость уменьшается вдвое, и черепаха перемещается вместе с ним, когда он движется. Пока черепаха вцепилась в транспорт таким образом, она может совершать атаки «Укус» только по этому транспорту, и такие атаки автоматически попадают. Черепаха может прекратить этот эффект в любое время (действие не требуется).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1342,7 +1342,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 19 format=long]] or be pushed up to 15 feet away from the dragon turtle and knocked &Reference[prone]{ничком}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - существо, оно должно преуспеть в [[/save str 19 format=long]] или быть отброшено от драконьей черепахи на расстояние до 15 футов и упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

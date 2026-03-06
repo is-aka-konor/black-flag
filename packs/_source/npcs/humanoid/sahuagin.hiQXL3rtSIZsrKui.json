@@ -461,7 +461,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If a creature the [[lookup @name lowercase]] can magically command any shark within 120 feet of it, using a limited telepathy.</p>",
+          "value": "<p>[[lookup @name lowercase]] может магически отдавать приказы любой акуле в пределах 120 футов, используя ограниченную телепатию.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -582,7 +582,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sahuagin makes one Bite attack and one Claws or Trident attack.</p>",
+          "value": "<p>Сахуагин совершает одну атаку «Укусом» и одну атаку «Когтями» или «Трезубцем».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

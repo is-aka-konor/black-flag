@@ -674,7 +674,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The aboleth makes three Tentacle or Psychic Bolt attacks. If two Tentacle attacks hit one target, the target must succeed on a [[/save format=long]] or contract the <em>slime pox</em> disease (see the <strong>Slime Pox</strong> trait).</p>",
+          "value": "<p>Аболет совершает три атаки «Щупальцем» или «Психическим зарядом». Если две атаки «Щупальцем» попадают по одной цели, цель должна преуспеть в [[/save format=long]] или заразиться болезнью <em>слизневая оспа</em> (см. черту <strong>Слизневая оспа</strong>).</p>",
           "source": {
             "fallback": ""
           }
@@ -739,7 +739,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If a creature the [[lookup @name lowercase]] can see communicates telepathically with the [[lookup @name lowercase]], the [[lookup @name lowercase]] learns the creature’s greatest desires.</p>",
+          "value": "<p>Если существо, которое [[lookup @name lowercase]] видит, общается с [[lookup @name lowercase]] телепатически, [[lookup @name lowercase]] узнаёт самые сильные желания этого существа.</p>",
           "source": {
             "fallback": ""
           }
@@ -889,7 +889,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Characterized by the slimy pustules that erupt across the victim’s body, slime pox is a disease that infects creatures attacked by an [[lookup @name lowercase]] or that come into contact with an [[lookup @name lowercase]]’s slime.</p><p>Until the disease is cured, the infected creature can breathe air and water, can’t regain HP except when underwater, and takes [[/damage 1d12 acid average]] damage for every 1 hour it remains outside of water or without moisture applied to its skin.</p><p>Every 24 hours that elapse, the infected creature must make a [[/save charisma 16 format=long]]. Each time a creature fails this save, it views the infecting [[lookup @name lowercase]] more and more favorably, becoming the [[lookup @name lowercase]]’s doting and protective thrall after three failed saves. The successes and failures don’t need to be consecutive, but once a creature has acquired three of a kind, it no longer has to make this save, resulting in either the creature becoming a thrall of the [[lookup @name lowercase]] or an autonomous—though infected—creature.</p><p>Slime pox can be cured only by the @UUID[Compendium.black-flag-ru.spells.Item.46Yd7ExOTYuRanOs]{heal} spell or similar magic.</p>",
+          "value": "<p>Болезнь «Слизневая оспа» проявляется склизкими пустулами, покрывающими тело жертвы, и передаётся существам, атакованным [[lookup @name lowercase]] или соприкоснувшимся со слизью [[lookup @name lowercase]].</p><p>Пока болезнь не излечена, заражённое существо может дышать воздухом и водой, не может восстанавливать ОЗ, кроме как под водой, и получает [[/damage 1d12 acid average]] урона за каждый 1 час, проведённый вне воды или без увлажнения кожи.</p><p>Каждые 24 часа заражённое существо должно совершать [[/save charisma 16 format=long]]. Каждый провал делает его всё более благосклонным к заразившему его [[lookup @name lowercase]]; после трёх провалов существо становится преданным и защитным слугой [[lookup @name lowercase]]. Успехи и провалы не обязаны быть подряд, но после трёх одинаковых результатов существо больше не совершает этот спасбросок: оно либо становится слугой [[lookup @name lowercase]], либо остаётся самостоятельным, но заражённым.</p><p>«Слизневую оспу» можно излечить только заклинанием @UUID[Compendium.black-flag-ru.spells.Item.46Yd7ExOTYuRanOs]{исцеление} или схожей магией.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1024,7 +1024,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is coated in an otherworldly mucus. A creature that touches the [[lookup @name lowercase]] or that hits it with a melee attack while within 5 feet of it must succeed on a [[/save format=long]] or be infected with <em>slime pox</em> (see the Slime Pox trait).</p>",
+          "value": "<p>[[lookup @name lowercase]] покрыт потусторонней слизью. Существо, коснувшееся [[lookup @name lowercase]] или попавшее по нему рукопашной атакой в пределах 5 футов, должно преуспеть в [[/save format=long]] или заразиться <em>слизневой оспой</em> (см. черту «Слизневая оспа»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1192,7 +1192,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] floods the minds of up to three creatures it can see within 60 feet of it with random and horrific memories from its eons-long life. Each target must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[incapacitated]{недееспособен} until the end of its next turn, as its mind reels from the torrent of images, thoughts, and memories. On a success, a creature takes half the damage and isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] наводняет разум до трёх существ, которых видит в пределах 60 футов, случайными и ужасающими воспоминаниями из своей многовековой жизни. Каждая цель должна совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится &Reference[incapacitated]{недееспособен} до конца своего следующего хода, пока его разум захлёстывает поток образов, мыслей и воспоминаний. При успехе существо получает половину урона и не становится недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1443,7 +1443,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] swims up to half its speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] проплывает до половины своей скорости, не провоцируя атаки возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1574,7 +1574,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature infected with <em>slime pox</em> within 30 feet of the [[lookup @name lowercase]] takes [[/damage 3d6 acid average]] damage, and the [[lookup @name lowercase]] regains HP equal to the damage the creature takes.</p><section class=\"secret\" id=\"secret-DPYBnxG6Es8Fhk1p\"><p><em><strong>Note</strong>: Damage must be rolled from the inline roll above.</em></p></section>",
+          "value": "<p>Одно существо, заражённое <em>слизневой оспой</em>, в пределах 30 футов от [[lookup @name lowercase]] получает [[/damage 3d6 acid average]] урона, а [[lookup @name lowercase]] восстанавливает ОЗ, равные полученному существом урону.</p><section class=\"secret\" id=\"secret-DPYBnxG6Es8Fhk1p\"><p><em><strong>Примечание</strong>: урон нужно бросать встроенным броском выше.</em></p></section>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

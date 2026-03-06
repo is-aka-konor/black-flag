@@ -450,7 +450,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lizardfolk makes one Bite attack and one Ritual Staff attack, or it makes two Swamp Bolt attacks.</p>",
+          "value": "<p>Ящер-шаман совершает одну атаку «Укусом» и одну атаку «Ритуальным посохом» либо две атаки «Болотным зарядом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1417,7 +1417,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20x20 футов, начиная с точки в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Существо в области, когда вы накладываете заклинание, должно преуспеть в спасброске Силы [[/save strength]], иначе будет опутано опутывающими растениями до окончания действия заклинания. Существо, опутанное растениями, может использовать свое действие, чтобы совершить [[/check strength]] проверку Силы против Сл спасброска от вашего заклинания. В случае успеха оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
+          "value": "<p>Хватающие сорняки и лозы прорастают из земли в квадрате 20 × 20 футов с центром в точке в пределах дистанции. На время действия заклинания растения делают эту область труднопроходимой местностью. Существо в области, когда вы накладываете заклинание, должно преуспеть в спасброске СИЛ [[/save strength]], иначе будет опутано до окончания заклинания. Опутанное существо может действием совершить проверку СИЛ [[/check strength]] против СЛ спасброска ваших заклинаний; при успехе оно освобождается. Когда заклинание заканчивается, вызванные растения увядают.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1634,7 +1634,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Скользкая смазка покрывает землю в квадрате 10x10 футов с центром в точке в пределах дистанции и превращает ее в труднопроходимую местность на время действия заклинания. &Reference[prone] Когда появляется смазка, каждое существо, стоящее в ее области, должно преуспеть в спасброске Ловкости [[/save]], иначе упадет ничком. Существо, которое входит в область или заканчивает там свой ход, также должно преуспеть в спасброске Ловкости, иначе упадет ничком.</p>",
+          "value": "<p>Скользкая смазка покрывает область 10 × 10 футов с центром в точке в пределах дистанции, превращая её в труднопроходимую местность на время действия заклинания. Когда смазка появляется, каждое существо в этой области должно преуспеть в спасброске ЛОВ [[/save]], иначе упадёт &Reference[prone]{ничком}. Существо, которое входит в область или заканчивает там ход, также должно преуспеть в спасброске ЛОВ, иначе падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2000,7 +2000,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shaman coats itself in poison until the start of its next turn. It takes [[/damage 1d6 poison average]] damage. In addition, the next time a creature hits the shaman with a melee attack while within 5 feet of the shaman before the start of the shaman’s next turn, the attacker takes [[/damage average]] damage.</p><section id=\"secret-hMCKFQCEozaR4OZ0\" class=\"secret\"><p><em>Note: An inline link is available above to roll the damage the shaman takes when coating its body with poison. A creature's damage when it attacks the shaman is configured in the damage activity.</em></p></section>",
+          "value": "<p>Шаман покрывает себя ядом до начала своего следующего хода. Он получает [[/damage 1d6 poison average]] урона. Кроме того, в следующий раз, когда существо попадёт по шаману рукопашной атакой, находясь в пределах 5 футов от него до начала следующего хода шамана, атакующий получает [[/damage average]] урона.</p><section id=\"secret-hMCKFQCEozaR4OZ0\" class=\"secret\"><p><em>Примечание: выше доступна встроенная ссылка для броска урона, который шаман получает при покрытии тела ядом. Урон, получаемый существом при атаке шамана, настроен в активности урона.</em></p></section>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2320,7 +2320,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлён} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 13 format=long]] или быть &Reference[poisoned]{отравлён} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint the location of Aberrations, Celestials, Fiends, and Undead within 30 feet of it and knows if a place or object it can sense is consecrated or desecrated.</p>",
+          "value": "<p>[[lookup @name lowercase]] может точно определить местоположение Аберраций, Небожителей, Исчадий и Нежити в пределах 30 футов, а также знает, освящён ли объект или место, которое он ощущает, либо осквернён.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -400,7 +400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, эта атака дополнительно наносит 4к8 лучистого урона (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -468,7 +468,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -666,7 +666,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] spends 10 minutes praying to its deity for the safe return of the soul of a slain creature. At the end of the prayer, the [[lookup @name lowercase]] touches a creature that has been dead no more than 24 hours and returns the creature to life with a number of HP equal to half its HP maximum. Reviving Prayer can’t return to life a creature that has died of old age, nor can it restore any missing body parts. A creature restored to life in this way can’t be returned to life by this [[lookup @name lowercase]] again for 30 days.</p>",
+          "value": "<p>[[lookup @name lowercase]] тратит 10 минут на молитву своему божеству о безопасном возвращении души убитого существа. По окончании молитвы [[lookup @name lowercase]] касается существа, умершего не более 24 часов назад, и возвращает его к жизни с количеством ОЗ, равным половине его максимума ОЗ. «Молитва возвращения» не может вернуть к жизни существо, умершее от старости, и не восстанавливает утраченные части тела. Существо, возвращённое к жизни этим способом, не может быть вновь возвращено к жизни тем же [[lookup @name lowercase]] в течение 30 дней.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -787,7 +787,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes three Mace attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает три атаки «Булавой».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1132,7 +1132,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] touches another creature. The target magically regains [[/healing average]] and is freed from any curse, disease, poison, blindness, or deafness.</p>",
+          "value": "<p>[[lookup @name lowercase]] касается другого существа. Цель магически восстанавливает [[/healing average]] и освобождается от любого проклятия, болезни, яда, слепоты или глухоты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1259,7 +1259,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Large or smaller Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Celestial. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the [[lookup @name lowercase]]’s choice). It reverts to its true form if it dies. In a new form, the [[lookup @name lowercase]] retains its Angelic Resilience, Angelic Senses, and Immortal Nature traits and its HP, HD, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в Зверя или Гуманоида Большого размера или меньше с показателем опасности не выше собственного либо возвращается в истинную форму Небожителя. Всё носимое и переносимое снаряжение преобразуется вместе с ним или переносится новой формой (по выбору [[lookup @name lowercase]]). При смерти [[lookup @name lowercase]] возвращается в истинную форму. В новой форме [[lookup @name lowercase]] сохраняет черты «Небесная стойкость», «Небесные чувства» и «Бессмертная природа», а также ОЗ, КХ, способность говорить, владения, значения ИНТ/МДР/ХАР и это бонусное действие. В остальном его параметры и возможности заменяются параметрами новой формы, кроме её классовых особенностей и легендарных действий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1327,7 +1327,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and the charmed and frightened conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление лучистому урону, а также дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован} и &Reference[frightened]{испуган}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

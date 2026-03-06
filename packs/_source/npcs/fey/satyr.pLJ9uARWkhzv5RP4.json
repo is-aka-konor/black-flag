@@ -502,7 +502,7 @@
           "CxeeCxMsP3WSwemv": {
             "type": "save",
             "_id": "CxeeCxMsP3WSwemv",
-            "description": "<p>Песня сатира пронизана магическими чарами, и цель - танцевать под музыку. До начала следующего хода сатира Целью является &Reference[charmed]{очарован}, а его скорость падает на 10 футов, поскольку он бесконтрольно танцует.</p>",
+            "description": "<p>Песня сатира пронизана магическими чарами, и цель - танцевать под музыку. До начала следующего хода сатира Целью является &Reference[charmed]{очарован}{очарован}, а его скорость падает на 10 футов, поскольку он бесконтрольно танцует.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -572,7 +572,7 @@
           "cFYeJgLsk5s4Dg0w": {
             "type": "save",
             "_id": "cFYeJgLsk5s4Dg0w",
-            "description": "<p>Песня и танцевальная сатира становятся устрашающими с медленными топотами, пронзительными нотами и быстрой отрывистой мелодией. Цель и ссылка[напугана]{frightened} до конца следующего хода.</p>",
+            "description": "<p>Песня и танец сатира становятся пугающими: медленные тяжёлые шаги, пронзительные ноты и резкая отрывистая мелодия. Цель становится &Reference[frightened]{испуган} до конца следующего хода.</p>",
             "sort": 0,
             "system": {
               "damage": {
@@ -649,7 +649,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The satyr dances and plays a tune on its pipes, affecting one creature it can see within 30 feet of it in one of the following ways. The target must succeed on a [[/save format=long]] save or gain the listed effect. A willing creature can choose to fail the save.</p><ul><li><p>@Embed[.Activity.uqKGXa7tA7p39IpR activate inline]{Celebrate}</p></li><li><p>@Embed[.Activity.CxeeCxMsP3WSwemv activate inline]{Overindulge}</p></li><li><p>@Embed[.Activity.cFYeJgLsk5s4Dg0w activate inline]{Unnerve}</p></li></ul>",
+          "value": "<p>Сатир танцует и играет мелодию на свирели, воздействуя на одно существо, которое видит в пределах 30 футов, одним из следующих способов. Цель должна преуспеть в [[/save format=long]] или получить указанный эффект. Добровольное существо может выбрать провал этого спасброска.</p><ul><li><p>@Embed[.Activity.uqKGXa7tA7p39IpR activate inline]{Празднование}</p></li><li><p>@Embed[.Activity.CxeeCxMsP3WSwemv activate inline]{Чрезмерное услаждение}</p></li><li><p>@Embed[.Activity.cFYeJgLsk5s4Dg0w activate inline]{Тревожный мотив}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1047,7 +1047,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 13 format=long]] или стать &Reference[incapacitated]{недееспособен}{недееспособен} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

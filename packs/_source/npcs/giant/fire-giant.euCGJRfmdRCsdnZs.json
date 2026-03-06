@@ -425,7 +425,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The fire giant makes two Flaming Greatsword or Lava Boulder attacks.</p>",
+          "value": "<p>Огненный великан совершает две атаки «Пылающим двуручным мечом» или «Лавовым валуном».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -967,7 +967,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The fire giant expels built-up heat from within itself, sending a blast of lava outward. Each creature within 15 feet of the fire giant must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone. A creature that fails this save has disadvantage on the next save it makes against the giant’s Pyroclastic Surge before the start of the giant’s next turn.</p>",
+          "value": "<p>Огненный великан выпускает накопившийся внутри жар, посылая наружу взрыв лавы. Каждое существо в пределах 15 футов от огненного великана должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и падает &Reference[prone]{ничком}. При успехе существо получает половину урона и не падает ничком. Существо, провалившее этот спасбросок, совершает с помехой следующий спасбросок против «Пирокластического выброса» великана до начала его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1108,7 +1108,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A burst of volcanic gas and rock fragments flows in a 60-foot-line that is 5 feet wide from the fire giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn and pushed up to 15 feet away from the giant. A creature that fails the save by 5 or more is &Reference[petrified]{окаменел} in volcanic ash for 1 hour or until a creature spends 1 minute soaking the petrified creature in cool water.</p>",
+          "value": "<p>Всплеск вулканического газа и осколков породы вырывается линией 60 футов длиной и 5 футов шириной из вытянутой руки огненного великана. Каждое существо в этой линии должно преуспеть в [[/save format=long]] или стать &Reference[poisoned]{отравлен} до конца своего следующего хода и быть оттолкнутым от великана на расстояние до 15 футов. Существо, провалившее спасбросок на 5 или больше, оказывается &Reference[petrified]{окаменел} в вулканическом пепле на 1 час или до тех пор, пока кто-нибудь не потратит 1 минуту, обливая окаменевшее существо прохладной водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1183,7 +1183,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>",
+          "value": "<p>Латный доспех состоит из изогнутых и взаимно перекрывающихся металлических пластин, покрывающих всё тело. Комплект включает латные рукавицы, тяжёлые кожаные сапоги, шлем с забралом и толстую поддоспешную подкладку. Пряжки и ремни распределяют вес доспеха по телу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

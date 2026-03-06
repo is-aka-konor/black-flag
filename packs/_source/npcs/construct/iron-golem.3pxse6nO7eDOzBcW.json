@@ -269,7 +269,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Это широкая пластина из дерева и металла, удерживаемая рукоятью, закреплённой с одной стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -365,7 +365,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "f9riNM38FktWXD7D",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -407,7 +407,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the [[lookup @name lowercase]] is subjected to fire damage, it takes no damage and instead regains HP equal to the fire damage dealt.</p>",
+          "value": "<p>Каждый раз, когда [[lookup @name lowercase]] получает урон огнём, он не получает этот урон и вместо этого восстанавливает хиты в размере полученного урона огнём.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The golem is immune to any spell or effect that would alter its form.</p>",
+          "value": "<p>Голем невосприимчив к любому заклинанию или эффекту, который изменил бы его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -673,7 +673,7 @@
           "iqqX9O1vbQuI3YgN": {
             "type": "save",
             "_id": "iqqX9O1vbQuI3YgN",
-            "description": "<p>В следующий раз, когда голем использует рукопашную атаку со стороны существа в пределах 5 футов от него до начала следующего движения, голем может в ответ ударить плечом атакующего. Атакующий должен добиться успеха на [[/save format=long]], иначе его оттолкнет на расстояние до 10 футов от голема и ударит ногами &Reference[prone]{сбит с ног}.</p>",
+            "description": "<p>До начала следующего хода, когда существо в пределах 5 футов от голема попадает по нему рукопашной атакой, голем может реакцией совершить «Удар щитом» по атакующему. Атакующий должен преуспеть в [[/save format=long]], иначе будет оттолкнут от голема на расстояние до 10 футов и сбит с ног &Reference[prone]{сбит с ног}.</p>",
             "system": {
               "damage": {
                 "parts": []
@@ -735,7 +735,7 @@
               "min": "",
               "max": ""
             },
-            "name": "карательный",
+            "name": "Карательная стойка",
             "img": "systems/black-flag-ru/artwork/activities/save.svg",
             "sort": 250000,
             "magical": false
@@ -743,7 +743,7 @@
           "AB7uKKoVTNA10aGY": {
             "type": "utility",
             "_id": "AB7uKKoVTNA10aGY",
-            "description": "<p>Когда голем использует Мультитаку, он может заменить одну дополнительную атакующую Копья атакующей Удар Щитом. Если он это сделает, его КД перейдет на 2 до начала следующего хода.</p>",
+            "description": "<p>Когда голем использует «Мультиатаку», он может заменить одну атаку «Копьём» на атаку «Удар щитом». Если он делает это, его КД увеличивается на 2 до начала следующего хода.</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -796,14 +796,14 @@
               "min": "",
               "max": ""
             },
-            "name": "Агрессивный",
+            "name": "Агрессивная стойка",
             "img": "",
             "sort": 200000
           },
           "5kzF6OgaYBxY0cll": {
             "type": "utility",
             "_id": "5kzF6OgaYBxY0cll",
-            "description": "<p>AC голема увеличивается на 4, но он не может продолжить проведение Shield Bash, начиная со следующего хода.</p>",
+            "description": "<p>КД голема увеличивается на 4, но до начала его следующего хода он не может совершать «Удар щитом».</p>",
             "system": {
               "effects": [],
               "roll": {
@@ -856,7 +856,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Оборонительный",
+            "name": "Оборонительная стойка",
             "img": "",
             "sort": 300000
           }
@@ -870,7 +870,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the start of each of its turns, the iron golem chooses one of the following fighting stances to adopt, which lasts until the start of the golem’s next turn.</p><ul><li><p>@Embed[.Activity.AB7uKKoVTNA10aGY activate inline]{Aggressive}</p></li><li><p>@Embed[.Activity.iqqX9O1vbQuI3YgN activate inline]{Retributive}</p></li><li><p>@Embed[.Activity.5kzF6OgaYBxY0cll activate inline]{Defensive}</p></li></ul><p><em>Note: An Active Effects are available in the Effects tab of the character sheet to enable the AC bonus or nerf.</em></p>",
+          "value": "<p>В начале каждого своего хода железный голем выбирает одну из следующих боевых стоек; выбранная стойка действует до начала его следующего хода.</p><ul><li><p>@Embed[.Activity.AB7uKKoVTNA10aGY activate inline]{Агрессивная стойка}</p></li><li><p>@Embed[.Activity.iqqX9O1vbQuI3YgN activate inline]{Карательная стойка}</p></li><li><p>@Embed[.Activity.5kzF6OgaYBxY0cll activate inline]{Оборонительная стойка}</p></li></ul><p><em>Примечание: во вкладке «Эффекты» доступны активные эффекты для применения бонуса к КД и ограничений стойки.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -896,7 +896,7 @@
           "value": null
         }
       },
-      "name": "Стойка Воина",
+      "name": "Боевая стойка",
       "type": "feature",
       "_id": "mDUFJausy9MyrGMX",
       "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
@@ -1080,7 +1080,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem makes four Spear Arm attacks. It can replace one Spear Arm attack with a Shield Bash attack.</p>",
+          "value": "<p>Голем совершает четыре атаки «Копьём». Одну атаку «Копьём» он может заменить атакой «Удар щитом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1244,7 +1244,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem vents poisonous gas from small holes across its body. Each creature within 15 feet of the golem must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Голем выпускает ядовитый газ из небольших отверстий по всему телу. Каждое существо в пределах 15 футов от голема должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1270,7 +1270,7 @@
           "value": null
         }
       },
-      "name": "Вытеснить ядовитый газ",
+      "name": "Выброс ядовитого газа",
       "type": "feature",
       "_id": "EKUxkq18pux9jJOr",
       "img": "icons/magic/air/fog-gas-smoke-dense-green.webp",
@@ -1312,7 +1312,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and to the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован}, &Reference[frightened]{испуган}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменевший} и &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1649,7 +1649,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 18 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save str 18 format=long]] или быть сбитой с ног &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -450,7 +450,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can mimic Animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful [[/check insight 16 format=long]].</p>",
+          "value": "<p>[[lookup @name lowercase]] может имитировать звуки животных и голоса гуманоидов. Существо, услышавшее эти звуки, может распознать подделку, преуспев в [[/check insight 16 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -639,7 +639,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ambush hag makes two Claw attacks or three Poison Spray attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Карга из засады совершает две атаки «Когтями» или три атаки «Ядовитым брызгом». Одну атаку она может заменить использованием «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1208,7 +1208,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Ваше тело становится размытым, смещающимся и колеблющимся для всех, кто может вас видеть. На время действия заклинания существа имеют помеху на броски атаки против вас. Атакующий иммунен к этому эффекту, если он не полагается на зрение, как при обостренном чувстве (keensense), или может видеть сквозь иллюзии, как при истинном зрении (truesight).</p>",
+          "value": "<p>Ваше тело становится размытым, смещающимся и колеблющимся для всех, кто может вас видеть. На время действия заклинания существа совершают броски атаки по вам с помехой. Атакующий игнорирует этот эффект, если не полагается на зрение (например, использует острое чутьё) или способен видеть сквозь иллюзии, как при истинном зрении.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1595,7 +1595,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Вы создаете извивающийся узор из цветов, который плетется в воздухе внутри 30-футового куба в пределах дистанции. Узор появляется на мгновение и исчезает. Каждое существо в области, которое видит узор, должно совершить спасбросок Мудрости [[/save]]. При провале существо становится &Reference[charmed] &Reference[incapacitated] очарованным на время действия заклинания. Будучи очарованным этим заклинанием, существо недееспособно и имеет скорость 0. Заклинание заканчивается для затронутого существа, если оно получает какой-либо урон или если кто-то другой использует действие, чтобы вывести существо из оцепенения.</p>",
+          "value": "<p>Вы создаете извивающийся узор из цветов, который плетется в воздухе внутри 30-футового куба в пределах дистанции. Узор появляется на мгновение и исчезает. Каждое существо в области, которое видит узор, должно совершить спасбросок Мудрости [[/save]]. При провале существо становится &Reference[charmed]{очарован} &Reference[incapacitated]{недееспособен} очарованным на время действия заклинания. Будучи очарованным этим заклинанием, существо недееспособно и имеет скорость 0. Заклинание заканчивается для затронутого существа, если оно получает какой-либо урон или если кто-то другой использует действие, чтобы вывести существо из оцепенения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2287,7 +2287,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if the hag dies.</p><p>The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching it would feel its rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a [[/check investigation 20 format=long]] to discern that the hag is disguised.</p>",
+          "value": "<p>Карга покрывает себя и всё носимое/переносимое снаряжение магической иллюзией, из-за которой выглядит как другое существо примерно того же размера и гуманоидного телосложения. Иллюзия заканчивается, если карга бонусным действием прекращает эффект или если карга погибает.</p><p>Изменения, создаваемые этим эффектом, не выдерживают физической проверки. Например, карга может выглядеть как обладательница гладкой кожи, но при прикосновении она всё равно ощущается грубой и шершавой. В остальных случаях существо должно действием внимательно осмотреть иллюзию и преуспеть в [[/check investigation 20 format=long]], чтобы распознать маскировку карги.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2530,7 +2530,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 16 format=long]] или быть &Reference[paralyzed]{парализован} на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, завершая эффект на себе при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2776,7 +2776,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 16 format=long]] or be &Reference[restrained]{опутан} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save str 16 format=long]] или быть &Reference[restrained]{опутан} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -389,7 +389,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Perception is 19 when perceiving by sight, hearing, or smell.</p>",
+          "value": "<p>Восприятие [[lookup @name lowercase]] равно 19, когда он полагается на зрение, слух или обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -457,7 +457,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A weapon that deals piercing damage deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Оружие, наносящее колющий урон, наносит на одну кость урона больше, когда [[lookup @name lowercase]] попадает им (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -646,7 +646,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The feral hunter makes two Hunting Knife or Longbow attacks.</p>",
+          "value": "<p>Дикий охотник совершает две атаки «Охотничьим ножом» или «Длинным луком».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1143,7 +1143,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] marks one creature it can see within 30 feet of it as its quarry until the start of the [[lookup @name lowercase]]'s next turn. When the [[lookup @name lowercase]] hits the marked creature with a weapon attack, the weapon deals an extra [[/damage]] damage of the weapon’s type to the target.</p>",
+          "value": "<p>[[lookup @name lowercase]] помечает одно существо, которое видит в пределах 30 футов, как свою добычу до начала своего следующего хода. Когда [[lookup @name lowercase]] попадает по отмеченному существу атакой оружием, эта атака дополнительно наносит цели [[/damage]] урона того же типа, что и оружие.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1273,7 +1273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] takes damage, it can move up to 10 feet without provoking opportunity attacks.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] получает урон, он может переместиться на расстояние до 10 футов, не провоцируя атаки возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1348,7 +1348,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
+          "value": "<p>Нагрудник и наплечники этого доспеха сделаны из кожи, закалённой кипячением в масле. Остальная часть доспеха изготовлена из более мягких и гибких материалов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

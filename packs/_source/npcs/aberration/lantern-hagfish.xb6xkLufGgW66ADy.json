@@ -388,7 +388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lantern hagfish sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The hagfish can alter the radius as a bonus action. In addition, the hagfish has advantage on attack rolls against a creature if at least one other hagfish is within 5 feet of the creature and that other hagfish isn’t incapacitated.</p>",
+          "value": "<p>Фонарь-миксина излучает яркий свет в радиусе от 5 до 20 футов и тусклый свет на дополнительное расстояние, равное выбранному радиусу. Миксина может менять радиус бонусным действием. Кроме того, миксина получает преимущество на броски атаки по существу, если хотя бы ещё одна миксина находится в пределах 5 футов от этого существа и эта другая миксина не недееспособна.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -456,7 +456,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air, food, drink, or sleep, and it is immune to the effects of Void terrain. In addition, it can swim through the Void as if through water.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе, пище, воде и сне, а также невосприимчив к эффектам местности Пустоты. Кроме того, он может плавать сквозь Пустоту так же, как через воду.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -596,7 +596,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While on a solid surface, the lantern hagfish slides up to 15 feet in a straight line and can move through the space of any creature without provoking opportunity attacks. Each space on that surface along that line is coated in slime until the start of the hagfish’s next turn. Each creature in that line, and any creature that enters a slime‑coated space for the first time on a turn must succeed on a [[/save format=long]] or fall &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>На твёрдой поверхности фонарь-миксина скользит по прямой на расстояние до 15 футов и может проходить через пространство любого существа, не провоцируя атаки возможности. Каждая клетка этой поверхности вдоль линии покрывается слизью до начала следующего хода миксины. Каждое существо в этой линии, а также любое существо, впервые за ход входящее в покрытую слизью клетку, должно преуспеть в [[/save format=long]] или упасть &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -904,7 +904,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a prone creature that isn’t a Construct or Undead, the hagfish can burrow into the creature’s flesh. While burrowed into a creature, the hagfish can’t attack, and at the start of each of the hagfish’s turns, the target loses [[/damage 1d4 + 1 average]] HP as the hagfish consumes it from the inside. The burrowed hagfish moves with the target whenever the target moves, requiring none of the hagfish’s movement. It can detach itself by spending 5 feet of its movement on its turn. It does so after it consumes 6 HP worth of flesh from the target or the target dies. A creature, including the target, can take its action to extract the burrowed hagfish by succeeding on a [[/check medicine 11 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — лежащее ничком существо, не являющееся Конструктом или Нежитью, миксина может зарыться в его плоть. Пока миксина зарыта в существо, она не может атаковать, а в начале каждого хода миксины цель теряет [[/damage 1d4 + 1 average]] ОЗ, так как миксина пожирает её изнутри. Зарытая миксина движется вместе с целью, когда цель движется, не тратя собственного перемещения. Она может отцепиться, потратив 5 футов своего перемещения в свой ход. Она делает это после того, как съест 6 ОЗ плоти цели, либо когда цель погибнет. Существо, включая саму цель, может действием извлечь зарывшуюся миксину, преуспев в [[/check medicine 11 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

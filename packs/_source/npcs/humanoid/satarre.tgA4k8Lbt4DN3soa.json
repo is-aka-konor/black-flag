@@ -483,7 +483,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, оно дополнительно наносит 1d6 некротического урона (включено в атаку).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, эта атака дополнительно наносит 1к6 некротического урона (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -604,7 +604,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The satarre makes two Claw or Spear attacks.</p>",
+          "value": "<p>Сатарре совершает две атаки «Когтями» или «Копьём».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -267,7 +267,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -457,7 +457,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can use STR instead of CHA when making CHA (Intimidation) checks.</p>",
+          "value": "<p>При проверках ХАР (Запугивание) [[lookup @name lowercase]] может использовать СИЛ вместо ХАР.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -578,7 +578,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant makes two Spiked Tree Branch or Rotten Snack attacks.</p>",
+          "value": "<p>Великан совершает две атаки «Шипастой ветвью дерева» или «Гнилой закуской».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1000,7 +1000,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 16 format=long]] или стать &Reference[poisoned]{отравлен} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1156,7 +1156,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hill giant bumps its stomach, hip, shoulder, knee, or other part of its body into a creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the giant and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Холмовой великан толкает существо в пределах 10 футов животом, бедром, плечом, коленом или другой частью тела. Цель должна преуспеть в [[/save format=long]] или быть оттолкнута от великана на расстояние до 10 футов и сбита с ног &Reference[prone]{сбит с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

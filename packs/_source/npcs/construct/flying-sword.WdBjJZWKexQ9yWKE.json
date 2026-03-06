@@ -146,7 +146,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>The emptiness within the suit of plate mail’s visor demonstrates that no creature controls the armor from inside it. An iron sword floats in midair at rest—then suddenly swings and flourishes as though wielded by a trained swordfighter.</em></p><p>Animated objects are nonmagical objects given life by a spellcaster. Though little more than their mundane counterparts, animated objects can be given basic instructions to follow indefinitely or until given new instructions by their creators. The most common animated objects are decorative or seemingly innocuous armor and weapons instructed to protect their creators’ homes, laboratories, treasuries, or other locations important to their creators.</p><p><strong>Flying Sword.</strong> Often paired with animated armor, a flying sword appears equally as battle-worn or ornate as the accompanying armor. The sword may also sit alone, innocuous among a rack of weapons, ready to fly out at intruders. Though more maneuverable than most animated objects, its fragility makes it easier to destroy.</p>",
+      "value": "<p><em>Пустота за забралом латного доспеха показывает, что внутри им никто не управляет. Железный меч неподвижно парит в воздухе, а затем внезапно начинает размахивать и финтить, словно в руках опытного фехтовальщика.</em></p><p>Оживлённые предметы — это немагические вещи, которым заклинатель даровал подобие жизни. Почти не отличаясь от обычных аналогов, такие предметы способны бесконечно выполнять простые приказы создателя, пока не получат новые указания. Чаще всего оживляют декоративные или на вид безобидные доспехи и оружие, чтобы они охраняли дома, лаборатории, сокровищницы и другие важные для создателя места.</p><p><strong>Летающий меч.</strong> Часто действует в паре с оживлённым доспехом и обычно выглядит так же: либо потрёпанным в боях, либо богато украшенным. Меч может лежать отдельно среди стойки оружия, ничем не выделяясь, пока не вылетит навстречу незваным гостям. Он манёвреннее большинства оживлённых предметов, но при этом более хрупок.</p>",
       "legendary": ""
     },
     "description": {
@@ -274,7 +274,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is incapacitated while in the area of an <em>@UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}</em>. If targeted by <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}</em>, the [[lookup @name lowercase]] must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute.</p>",
+          "value": "<p>[[lookup @name lowercase]] недееспособен, пока находится в области действия заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{антимагическое поле}</em>. Если в него нацелено <em>@UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{рассеивание магии}</em>, [[lookup @name lowercase]] должен преуспеть в спасброске [[/save constitution]] против СЛ спасброска заклинаний заклинателя, иначе теряет сознание на 1 минуту.</p>",
           "source": {}
         },
         "identifier": {
@@ -324,7 +324,7 @@
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.0rnE6H0HieAZOb6l"
     },
     {
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "GWfyGFB1cjbYmXj2",
       "img": "icons/commodities/tech/furnace-modern.webp",
@@ -386,7 +386,7 @@
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.GWfyGFB1cjbYmXj2"
     },
     {
-      "name": "Создать устойчивость",
+      "name": "Стойкость конструкта",
       "type": "feature",
       "_id": "xvsssnE7I2CwvCM4",
       "img": "icons/commodities/tech/glass-electrode.webp",
@@ -550,7 +550,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal sword.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от обычного меча.</p>",
           "source": {}
         },
         "identifier": {},
@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The flying sword makes a Slash attack against a target it can sense within 5 feet of it.</p>",
+          "value": "<p>Летающий меч совершает одну атаку «Рубящим ударом» по цели, которую ощущает в пределах 5 футов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -715,7 +715,7 @@
       "_key": "!actors.items!WdBjJZWKexQ9yWKE.9oTyPW4XTvpnRkPX"
     },
     {
-      "name": "Слэш",
+      "name": "Рубящий удар",
       "type": "weapon",
       "_id": "rHFXNJdmkNvJJS1K",
       "img": "icons/skills/melee/strike-sword-steel-yellow.webp",

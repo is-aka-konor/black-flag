@@ -409,7 +409,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] starts its turn afflicted by an ongoing effect that allows for a repeated save to end the effect, such as the @UUID[Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix]{hold} spell or the poison from an ettercap’s Bite, the [[lookup @name lowercase]] can make the save at the start of the turn instead of the end and has advantage on the save.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] начинает ход под действием длительного эффекта, который позволяет повторять спасбросок для его окончания (например, заклинание @UUID[Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix]{удержание} или яд от укуса эттеркапа), [[lookup @name lowercase]] может совершить этот спасбросок в начале хода, а не в конце, и делает его с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

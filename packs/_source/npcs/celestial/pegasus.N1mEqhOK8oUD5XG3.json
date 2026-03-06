@@ -142,7 +142,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A noble flying horse, its coat shining like newly fallen snow, soars overhead on majestic, feathered wings, mane and tail streaming behind it.</em></p><p>Free-spirited creatures, pegasi soar the skies with wild dignity. Ranging far from civilization, pegasi are comfortable only in the presence of their own kind.</p><p>Intruders cause them to take wing quickly to find more secluded surroundings. Their diet is similar to mundane horses, feeding on grass and flowers in alpine meadows and taking water from mountain streams and high lakes.</p><p><strong>Mountain Nests.</strong> Fiercely protective of their young, pegasi build nests in rocky hills, atop spires and peaks inaccessible to most creatures without the power of flight. When the young are ready to leave the nest, the entire herd watches over and protects them until they reach adulthood.</p><p><strong>Heroic Servitors.</strong> Pegasi are intelligent, autonomous, and untamable. However, a being of pure heart and good intent can sometimes convince a pegasus to become its companion, especially if the being is in desperate need or faces some monumental task, such as thwarting those with evil motives.</p>",
+      "value": "<p><em>Благородный крылатый конь с шерстью, сияющей как свежевыпавший снег, парит в небе на величественных пернатых крыльях, а грива и хвост развеваются за ним.</em></p><p>Свободолюбивые создания, пегасы бороздят небеса с дикой грацией. Далеко от цивилизации пегасы по-настоящему спокойны лишь рядом с себе подобными.</p><p>Чужаков они обычно избегают и быстро взмывают ввысь в поисках более укромных мест. Питаются пегасы примерно так же, как обычные лошади: щиплют траву и цветы на высокогорных лугах и пьют воду из горных ручьёв и верхних озёр.</p><p><strong>Горные гнёзда.</strong> Яростно защищая потомство, пегасы устраивают гнёзда в каменистых холмах, на шпилях и вершинах, недоступных большинству существ без способности летать. Когда молодняк готов покинуть гнездо, всё стадо охраняет его, пока он не достигнет зрелости.</p><p><strong>Героические спутники.</strong> Пегасы умны, самостоятельны и не поддаются приручению. Однако существо с чистым сердцем и добрыми намерениями иногда может убедить пегаса стать союзником, особенно если ему срочно нужна помощь или предстоит великая задача, например остановить тех, кто движим злом.</p>",
       "legendary": ""
     },
     "description": {
@@ -435,7 +435,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the pegasus is flying and moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save strength 14]] save or be knocked prone. If the target is prone, the pegasus can make one Hooves attack against it as a bonus action.</p>",
+          "value": "<p>Если пегас летит и перемещается по прямой минимум на 20 футов к существу, а затем в тот же ход попадает по нему атакой «Копытами», цель должна преуспеть в [[/save strength 14]] или упасть ничком. Если цель лежит ничком, пегас может бонусным действием совершить по ней ещё одну атаку «Копытами».</p>",
           "source": {}
         },
         "identifier": {},
@@ -670,7 +670,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The pegasus makes two Hooves attacks.</p>",
+          "value": "<p>Пегас совершает две атаки «Копытами».</p>",
           "source": {}
         },
         "identifier": {},
@@ -789,7 +789,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the pegasus’s rider fails a check or save to remain in the saddle or is subjected to an effect that would dismount it, the pegasus can shift to catch the falling rider, preventing the rider from being dismounted.</p>",
+          "value": "<p>Если всадник пегаса проваливает проверку или спасбросок, чтобы удержаться в седле, либо попадает под эффект, который должен выбить его из седла, пегас может сместиться, подхватить падающего всадника и предотвратить его падение.</p>",
           "source": {}
         },
         "identifier": {},

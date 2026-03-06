@@ -1041,7 +1041,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a [[/save]] save or be vulnerable to lightning damage until the end of its next turn. A target resistant to lightning damage isn’t resistant to it for the duration. A target immune to lightning damage is still immune to it, even if the target fails the save.</p>",
+          "value": "<p>[[lookup @name lowercase]] рычит на не более чем двух существ по своему выбору в пределах 120 футов. Каждая цель должна преуспеть в [[/save]] спасброске или получить уязвимость к урону электричеством до конца своего следующего хода. Цель, имеющая сопротивление урону электричеством, теряет это сопротивление на время действия эффекта. Цель, имеющая иммунитет к урону электричеством, сохраняет иммунитет, даже если проваливает спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1335,7 +1335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган} of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]] спасброске или стать &Reference[frightened]{испуган} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нём заканчивается, оно получает иммунитет к «Устрашающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1791,7 +1791,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] uses its Lightning Breath, its body begins recharging with lightning, pulling electricity from nearby creatures. While the [[lookup @name lowercase]]'s Lightning Breath is unavailable, each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must make a [[/save format=long]] On a failure, a creature can use either an action or a bonus action on its turn, not both.</p>",
+          "value": "<p>После того как [[lookup @name lowercase]] использует «Дыхание молнией», его тело начинает перезаряжаться электричеством, вытягивая его из ближайших существ. Пока «Дыхание молнией» [[lookup @name lowercase]] недоступно, каждое существо, начинающее ход в пределах 30 футов от [[lookup @name lowercase]], должно совершить [[/save format=long]]. При провале существо может в свой ход совершить либо действие, либо бонусное действие (но не оба).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

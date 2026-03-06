@@ -1842,7 +1842,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see within 60 feet of it makes an ability check, attack roll, or save, the target must roll a [[/r d6]] and subtract the number rolled from that ability check, attack roll, or save.</p><p><em>Note: An inline link is available above to roll the d6.</em></p>",
+          "value": "<p>Когда существо, которое [[lookup @name lowercase]] видит в пределах 60 футов, совершает проверку характеристики, бросок атаки или спасбросок, цель должна бросить [[/r d6]] и вычесть выпавшее число из этого броска.</p><p><em>Примечание: выше доступна встроенная ссылка для броска d6.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

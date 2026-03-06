@@ -420,7 +420,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that hits the [[lookup @name lowercase]] with a melee attack while within 5 feet of the drake takes [[/damage average]] damage and must succeed on a [[/save format=long]] or ignite. Until a creature takes an action to douse the fire, an ignited creature takes [[/damage average]]  damage at the start of each of its turns.</p>",
+          "value": "<p>Существо, которое попадает по [[lookup @name lowercase]] рукопашной атакой, находясь в пределах 5 футов от дрейка, получает [[/damage average]] урона и должно преуспеть в [[/save format=long]] или загореться. Пока существо не потратит действие, чтобы потушить огонь, загоревшееся существо получает [[/damage average]] урона в начале каждого своего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -782,7 +782,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales fire in a 30-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage and ignites. On a success, a creature takes half the damage and doesn’t ignite. Until a creature takes an action to douse the fire, an ignited creature takes [[/damage 1d6 fire average]] damage at the start of each of its turns. This fire ignites flammable objects in the line that aren’t being worn or carried.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает огонь 30-футовым конусом. Каждое существо в этой области должно совершить [[/save format=long]], получая [[/damage average]] урона при провале и загораясь. При успехе существо получает половину урона и не загорается. Пока существо не потратит действие, чтобы потушить огонь, загоревшееся существо получает [[/damage 1d6 fire average]] урона в начале каждого своего хода. Этот огонь также поджигает горючие предметы на линии, которые никто не носит и не несёт.</p>",
           "source": {
             "fallback": "Black Flag Reference Documenbt"
           }
@@ -921,7 +921,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] flaps its wings in the direction of one ignited creature it can see within 15 feet of it. The flames coating the target flare up and generate excess smoke. The target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] взмахивает крыльями в сторону одного загоревшегося существа в пределах 15 футов, которое видит. Пламя на цели вспыхивает сильнее и поднимает клубы дыма. Цель должна преуспеть в [[/save format=long]] или стать ослеплённой (&Reference[blinded]{ослеплён}) до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

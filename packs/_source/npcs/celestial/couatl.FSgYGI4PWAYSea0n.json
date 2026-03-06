@@ -388,7 +388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell or effect, such as scrying or detecting its location, that it refuses. WIS (Insight) checks made to ascertain the [[lookup @name lowercase]]'s intentions or sincerity have disadvantage.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к любому эффекту, считывающему эмоции или читающему мысли, а также к любому заклинанию или эффекту прорицания (например, наблюдению или определению местоположения), если он этого не желает. Проверки МДР (Проницательность), совершаемые для определения намерений или искренности [[lookup @name lowercase]], выполняются с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -645,7 +645,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The couatl makes one Bite attack and one Constrict attack.</p>",
+          "value": "<p>Куатль совершает одну атаку «Укусом» и одну атаку «Сжиманием».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -769,7 +769,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Large or smaller Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Celestial. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the couatl’s choice). It reverts to its true form if it dies. In a new form, the couatl retains its Celestial Resilience and Inscrutable traits and its HP, HD, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action and the Rainbow Shield reaction. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в Зверя или Гуманоида Большого размера или меньше с показателем опасности не выше собственного либо возвращается в истинную форму Небожителя. Всё носимое и переносимое снаряжение преобразуется вместе с ним или переносится новой формой (по выбору куатля). При смерти куатль возвращается в истинную форму. В новой форме куатль сохраняет черты «Небесная стойкость» и «Непостижимый», а также ОЗ, КХ, способность говорить, владения, значения ИНТ/МДР/ХАР, это бонусное действие и реакцию «Радужный щит». В остальном его параметры и возможности заменяются параметрами новой формы, кроме её классовых особенностей и легендарных действий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -900,7 +900,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see within 30 feet of it, including itself, is targeted with an attack, the [[lookup @name lowercase]] can interpose a shield of rainbow-hued light between the attacker and the creature. The attacker has disadvantage on the attack roll. If the protected creature hasn’t attacked or harmed another creature within the last minute, the attacker’s attack misses instead.</p>",
+          "value": "<p>Когда существо, которое [[lookup @name lowercase]] видит в пределах 30 футов (включая самого себя), становится целью атаки, [[lookup @name lowercase]] может встать между атакующим и целью, создавая щит из радужного света. Атакующий совершает бросок атаки с помехой. Если защищаемое существо за последнюю минуту не атаковало и не причиняло вреда другим существам, атака вместо этого автоматически промахивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1052,7 +1052,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The couatl croons a soothing hiss at a creature it can sense within 5 feet of it. The target magically regains [[/healing average]] HP and is freed from any disease or poison.</p>",
+          "value": "<p>Куатль издаёт успокаивающее шипение существу, которое ощущает в пределах 5 футов. Цель магически восстанавливает [[/healing average]] ОЗ и освобождается от любой болезни или яда.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1220,7 +1220,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если урон ядом снижает ОЗ цели до 0, куатль может выбрать, чтобы цель стабилизировалась, но оставалась &Reference[poisoned]{отравлен} на 1 час (даже после восстановления ОЗ), и находилась &Reference[unconscious]{без сознания}, пока отравлена таким образом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1390,7 +1390,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}, and the [[lookup @name lowercase]] can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схвачен} (СЛ высвобождения 15), если это существо Среднего размера или меньше. Пока захват не окончен, цель находится в состоянии &Reference[restrained]{опутан}, а [[lookup @name lowercase]] не может сжимать другую цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

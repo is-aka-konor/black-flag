@@ -258,7 +258,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes fire damage, it loses its immunity to the frightened condition and has disadvantage on attack rolls and ability checks until the end of its next turn.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает урон огнём, он теряет невосприимчивость к состоянию &Reference[frightened]{испуган} и получает помеху на броски атаки и проверки характеристик до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -392,7 +392,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the golem starts its turn, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its HP.</p><p>The golem’s creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a [[/check persuasion 15 format=long]]. If the check succeeds, the golem ceases being berserk. If the golem takes damage while still at 55 HP or fewer, the golem might go berserk again.</p>",
+          "value": "<p>Когда голем начинает ход, бросьте d6. При результате 6 голем впадает в берсерк. На каждом своём ходу в состоянии берсерка голем атакует ближайшее существо, которое видит. Если рядом нет существа, до которого он может добраться и атаковать, голем атакует объект, предпочитая объект меньше себя.</p><p>Голем остаётся в берсерке, пока не будет уничтожен или пока не восстановит все свои хиты. Создатель голема, находящийся в пределах 60 футов, может попытаться успокоить его твёрдыми, убедительными словами. Голем должен слышать создателя, а создатель должен действием совершить [[/check persuasion 15 format=long]]. При успехе голем выходит из берсерка. Если голем получает урон, имея 55 хитов или меньше, он может снова впасть в берсерк.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -486,7 +486,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "WeSBmd8Eyon2koDR",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -528,7 +528,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The golem is immune to any spell or effect that would alter its form.</p>",
+          "value": "<p>Голем невосприимчив к любому заклинанию или эффекту, который изменил бы его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -596,7 +596,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the [[lookup @name lowercase]] is subjected to lighting damage, it takes no damage and instead regains a number of HP equal to the lightning damage dealt.</p>",
+          "value": "<p>Каждый раз, когда [[lookup @name lowercase]] получает урон электричеством, он не получает этот урон и вместо этого восстанавливает количество хитов, равное полученному урону электричеством.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -853,7 +853,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem makes two Slam attacks.</p>",
+          "value": "<p>Голем совершает две атаки «Ударом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1017,7 +1017,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem releases a wave of emotional anguish from its core. Each creature within 15 feet of the golem must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[incapacitated]{недееспособен} until the end of its next turn, as its mind fills with memories of its greatest failures. On a success, a creature takes half the damage and isn’t incapacitated.</p>",
+          "value": "<p>Голем высвобождает волну душевной муки из своего ядра. Каждое существо в пределах 15 футов от голема должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится &Reference[incapacitated]{недееспособно} до конца своего следующего хода, пока его разум переполняют воспоминания о величайших неудачах. При успехе существо получает половину урона и не становится недееспособным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1043,7 +1043,7 @@
           "value": null
         }
       },
-      "name": "Муки Создателя",
+      "name": "Муки создателя",
       "type": "feature",
       "_id": "5klCbNEWb4ERqwY9",
       "img": "icons/creatures/abilities/mouth-teeth-human.webp",
@@ -1085,7 +1085,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and to the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован}, &Reference[frightened]{испуган}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменевший} и &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1252,7 +1252,7 @@
       "_key": "!actors.items!3TQoqyumjGWMNY8A.MPZVV63gOfgL8A9A"
     },
     {
-      "name": "Хлопок",
+      "name": "Удар",
       "type": "weapon",
       "_id": "lXT8lsnxDu5ACV8o",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",

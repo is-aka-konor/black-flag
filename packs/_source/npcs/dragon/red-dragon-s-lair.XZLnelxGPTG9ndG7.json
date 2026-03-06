@@ -184,7 +184,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ceiling on a point the dragon can see within 120 feet of it collapses, covering a 20-foot square area on the ground directly below that point. Each creature in that area must succeed on a [[/save]] save or be knocked prone and buried under the rubble. A buried creature is restrained and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check strength 15]] check while within reach of the buried creature.</p>",
+          "value": "<p>Потолок в точке в пределах 120 футов, которую дракон видит, обрушивается, накрывая участок земли 20 × 20 футов прямо под этой точкой. Каждое существо в этой области должно преуспеть в [[/save]] спасброске или упасть ничком и оказаться погребённым под обломками. Погребённое существо опутано, не может дышать и встать на ноги. Существо, включая погребённую цель, может потратить действие, чтобы освободить погребённое существо, преуспев в [[/check strength 15]] проверке, находясь в пределах досягаемости до него.</p>",
           "source": {}
         },
         "restriction": {
@@ -314,7 +314,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Searing ash blasts a point the dragon can see within 120 feet of it. Each creature within 30 feet of that point must make a [[/save]] save. On a failure, a creature takes [[/damage average]] damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn’t blinded. The ash ignites flammable objects within 30 feet of that point that aren’t being worn or carried.</p>",
+          "value": "<p>Раскалённый пепел взрывается в точке в пределах 120 футов, которую дракон видит. Каждое существо в пределах 30 футов от этой точки должно совершить [[/save]] спасбросок. При провале существо получает [[/damage average]] урона и становится ослеплённым до конца своего следующего хода. При успехе существо получает половину урона и не ослепляется. Пепел поджигает горючие предметы в пределах 30 футов от этой точки, которые никто не носит и не несёт.</p>",
           "source": {}
         },
         "restriction": {
@@ -444,7 +444,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the dragon can see within 120 feet of it becomes tethered to the Elemental Plane of Fire. The target must succeed on a [[/save]] save or be burned for 1 minute. While burned, the target takes [[/damage average]] damage at the start of each of its turns. The effect ends early if the target takes cold damage, is submerged in water, or the burn is removed with a greater restoration spell or similar magic.</p>",
+          "value": "<p>Одно существо в пределах 120 футов, которое дракон видит, оказывается связанным с Стихийным планом Огня. Цель должна преуспеть в [[/save]] спасброске или загореться на 1 минуту. Пока цель горит, она получает [[/damage average]] урона в начале каждого своего хода. Эффект заканчивается раньше, если цель получает урон холодом, оказывается полностью погружена в воду или горение снимается заклинанием «Высшее восстановление» либо схожей магией.</p>",
           "source": {}
         },
         "restriction": {
@@ -508,7 +508,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Within 10 miles of the red dragon’s lair, precipitation is oily and stinks of sulfur. Snow in the area may be gray or black as it falls, appearing like ash, though its temperature is unchanged.</p>",
+          "value": "<p>В пределах 10 миль от логова красного дракона осадки становятся маслянистыми и пахнут серой. Снег в этой области может падать серым или чёрным, напоминая пепел, хотя его температура остаётся прежней.</p>",
           "source": {}
         },
         "restriction": {
@@ -572,7 +572,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Creatures within 3 miles of the red dragon’s lair are quick to anger and slow to forgive. Such creatures have disadvantage on CHA checks, except CHA (Intimidation), and Beasts in the area that aren’t domesticated are more aggressive than normal.</p>",
+          "value": "<p>Существа в пределах 3 миль от логова красного дракона легко впадают в ярость и медленно прощают. Такие существа совершают проверки ХАР с помехой, кроме ХАР (Запугивание), а Звери в этой области, не приручённые человеком, ведут себя агрессивнее обычного.</p>",
           "source": {}
         },
         "restriction": {
@@ -636,7 +636,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Within 1 mile of the red dragon’s lair, temperatures are unnaturally high. Vegetation in the area withers and eventually crumbles to dust. Creatures in the area require twice as much water as normal each day to survive, and each creature in the area must succeed on a [[/save constitution 10]] save every hour it remains in the area or suffer one level of exhaustion. Creatures that are resistant or immune to fire damage are unaffected by this regional effect.</p>",
+          "value": "<p>В пределах 1 мили от логова красного дракона держится неестественно высокая температура. Растительность в этой области увядает и постепенно рассыпается в пыль. Существам в этой местности требуется вдвое больше воды в день для выживания, и каждое существо в области должно преуспевать в спасброске [[/save constitution 10]] каждый час пребывания в ней, иначе получает один уровень истощения. Существа, имеющие сопротивление или иммунитет к урону огнём, не подвержены этому региональному эффекту.</p>",
           "source": {}
         },
         "restriction": {

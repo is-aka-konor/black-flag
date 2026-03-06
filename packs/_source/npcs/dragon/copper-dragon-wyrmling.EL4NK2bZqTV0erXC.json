@@ -345,7 +345,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{ничком}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 15 футов к существу, а затем в том же ходу попадает по нему атакой «Когти», цель должна преуспеть в [[/save]] спасброске или упасть ничком (&Reference[prone]{сбит с ног}). Если цель лежит ничком, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

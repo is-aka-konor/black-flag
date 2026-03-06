@@ -342,7 +342,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the silver dragon uses its Cold Breath, freezing fog surrounds it. While the dragon’s Cold Breath is unavailable, each creature that starts its turn within 30 feet of the dragon must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} until the start of its next turn.</p>",
+          "value": "<p>После того как серебряный дракон использует «Ледяное дыхание», его окружает промораживающий туман. Пока «Ледяное дыхание» дракона недоступно, каждое существо, начинающее ход в пределах 30 футов от дракона, должно преуспеть в [[/save format=long]] или стать &Reference[restrained]{опутан} до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -738,7 +738,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]] спасброске или стать &Reference[frightened]{испуган} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нём заканчивается, оно получает иммунитет к «Устрашающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1572,7 +1572,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a [[/save]] save or be vulnerable to cold damage until the end of its next turn. A target resistant to cold damage isn’t resistant to it for the duration. A target immune to cold damage is still immune to it, even if the target fails the save.</p>",
+          "value": "<p>[[lookup @name lowercase]] рычит на не более чем двух существ по своему выбору в пределах 120 футов. Каждая цель должна преуспеть в [[/save]] спасброске или получить уязвимость к урону холодом до конца своего следующего хода. Цель, имеющая сопротивление урону холодом, теряет это сопротивление на время действия эффекта. Цель, имеющая иммунитет к урону холодом, сохраняет иммунитет, даже если проваливает спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

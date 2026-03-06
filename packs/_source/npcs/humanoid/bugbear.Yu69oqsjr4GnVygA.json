@@ -135,7 +135,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A hirsute, brown-furred humanoid with dark eyes and elongated ears wields a massive, heavily spiked club.</em></p><p>Named for their unique appearance, bugbears embraced the terror-inducing term. The consummate carnivores enjoy the crunch of bones beneath their bloody clubs.</p><p><strong>Bullies.</strong> While bugbears prefer to hunt and battle alone, they sometimes find themselves in leadership positions over smaller goblins. Their command is marked by bouts of terror, where they randomly inflict pain or humiliation on their subordinates. They don’t expect pushback from lesser goblins, but they back down from the rare, coordinated response. This attitude persists when bugbears fight other creatures. If assured of an easy win, they brutalize and taunt their foes. However, they flee when their opponents demonstrate superiority on the battlefield, unless an even more powerful leader threatens their lives.</p><p><strong>Sneaky Combatants.</strong> Owing to their cowardice, bugbears try to attack with the element of surprise and are deadly against surprised enemies. They wait for cover of darkness or choose locations where they can hide. If the conditions aren’t right, they coerce their subordinates to create a distraction for them.</p>",
+      "value": "<p><em>Косматый гуманоид с бурой шерстью, тёмными глазами и вытянутыми ушами размахивает огромной дубиной, утыканной шипами.</em></p><p>Получив название за свою необычную внешность, багберы приняли это пугающее прозвище. Эти убеждённые хищники с удовольствием слышат хруст костей под окровавленными дубинами.</p><p><strong>Задиры.</strong> Хотя багберы предпочитают охотиться и сражаться в одиночку, иногда они занимают положение вожаков над более мелкими гоблинами. Их власть держится на вспышках террора: они случайно причиняют подчинённым боль и унижают их. От низших гоблинов они не ждут сопротивления, но отступают перед редким скоординированным отпором. Тот же подход багберы сохраняют и против других врагов: если уверены в лёгкой победе, они жестоко издеваются над противниками, но бегут, когда враг доказывает превосходство в бою, если только жизнь багберов не находится под угрозой от ещё более сильного лидера.</p><p><strong>Коварные бойцы.</strong> Из-за своей трусости багберы стараются нападать внезапно и особенно смертоносны против застигнутых врасплох врагов. Они выжидают темноту или выбирают места, где можно спрятаться. Если условия не подходят, багберы вынуждают подчинённых создать отвлекающий манёвр.</p>",
       "legendary": ""
     },
     "description": {
@@ -468,7 +468,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. A surprised target takes an extra [[/damage 1d8 piercing average]] damage and must succeed on a [[/save constitution 13]] save or be stunned until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Застигнутая врасплох цель дополнительно получает [[/damage 1d8 piercing average]] урона и должна преуспеть в [[/save constitution 13]], иначе будет &Reference[stunned]{ошеломлён} до конца своего следующего хода.</p>",
           "source": {}
         },
         "type": {
@@ -624,7 +624,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] in melee or [[/damage 1d6 + 2 piercing average]] damage at range.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] в ближнем бою или [[/damage 1d6 + 2 piercing average]] урона на дистанции.</p>",
           "source": {}
         },
         "type": {

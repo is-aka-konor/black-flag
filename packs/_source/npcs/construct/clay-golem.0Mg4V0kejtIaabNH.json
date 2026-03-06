@@ -1,6 +1,6 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Глиняный Голем",
+  "name": "Глиняный голем",
   "type": "npc",
   "_id": "0Mg4V0kejtIaabNH",
   "img": "systems/black-flag-ru/artwork/tokens/golem-clay.webp",
@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the [[lookup @name lowercase]] is subjected to acid damage, it takes no damage and instead regains HP equal to the acid damage dealt.</p>",
+          "value": "<p>Каждый раз, когда [[lookup @name lowercase]] получает урон кислотой, он не получает этот урон и вместо этого восстанавливает хиты в размере полученного урона кислотой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -356,7 +356,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "WIOpn8hkY23IRTtc",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -398,7 +398,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] takes fire damage, its body temporarily hardens like baked clay. Until the end of its next turn, the [[lookup @name lowercase]]'s speed is reduced by 10 feet, it can’t use Mold Hand, and its AC becomes 18.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] получает урон огнём, его тело временно затвердевает, как обожжённая глина. До конца его следующего хода скорость [[lookup @name lowercase]] уменьшается на 10 футов, он не может использовать «Формование руки», а его КД становится 18.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -466,7 +466,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The golem is immune to any spell or effect that would alter its form.</p>",
+          "value": "<p>Голем невосприимчив к любому заклинанию или эффекту, который изменил бы его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -723,7 +723,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem makes three Slam attacks.</p>",
+          "value": "<p>Голем совершает три атаки «Ударом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -860,7 +860,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Until the end of its next turn, the [[lookup @name lowercase]] magically gains a +2 bonus to its AC, has advantage on DEX saves, and can make a Slam attack as a bonus action.</p>",
+          "value": "<p>До конца своего следующего хода [[lookup @name lowercase]] магически получает бонус +2 к КД, преимущество на спасброски ЛОВ и может совершить одну атаку «Ударом» бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -987,7 +987,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] molds its hand into the shape of a weapon or back into a hand. The [[lookup @name lowercase]]'s Slam attack deals bludgeoning, piercing, or slashing damage, depending on the type of weapon chosen, until the [[lookup @name lowercase]] uses this bonus action again. For example, a hand shaped like an axe deals slashing damage.</p>",
+          "value": "<p>[[lookup @name lowercase]] придаёт своей руке форму оружия или возвращает ей обычную форму. Урон атаки «Удар» у [[lookup @name lowercase]] становится дробящим, колющим или рубящим (в зависимости от выбранного оружия) до следующего использования этого бонусного действия. Например, рука в форме топора наносит рубящий урон.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1013,7 +1013,7 @@
           "value": null
         }
       },
-      "name": "Плесень для рук",
+      "name": "Формование руки",
       "type": "feature",
       "_id": "qSWeJ6ocUo8ZgndG",
       "img": "icons/magic/unholy/hand-claw-fog-green.webp",
@@ -1055,7 +1055,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and to the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению, а также к состояниям &Reference[charmed]{очарован}, &Reference[frightened]{испуган}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменевший} и &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1222,7 +1222,7 @@
       "_key": "!actors.items!0Mg4V0kejtIaabNH.X4XnitONm6His4Oa"
     },
     {
-      "name": "Хлопок",
+      "name": "Удар",
       "type": "weapon",
       "_id": "fWa9LNNnyTats4Vt",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
@@ -1415,7 +1415,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], as determined by Mold Hand. The target must succeed on a [[/save str 16 format=long]] or suffer an effect based on the type of damage: knocked &Reference[prone]{сбит с ног} (bludgeoning), pushed up to 10 feet away from the golem (piercing), or its speed is reduced by 10 feet until the end of its next turn (slashing).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], в зависимости от «Формования руки». Цель должна преуспеть в [[/save str 16 format=long]] или получить дополнительный эффект в зависимости от типа урона: быть сбитой с ног &Reference[prone]{сбит с ног} (дробящий), быть оттолкнутой от голема на расстояние до 10 футов (колющий) либо иметь скорость, уменьшенную на 10 футов до конца следующего хода цели (рубящий).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

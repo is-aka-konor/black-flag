@@ -360,7 +360,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] hasn’t unleashed its Fire Breath, the heat builds and rolls outward from it. While the dragon’s Fire Breath is available, it emits immense heat, and each creature that starts its turn within 30 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] save or take [[/damage average]] damage. A creature that fails this save by 5 or more also suffers one level of &Reference[exhaustion]{exhaustion}.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] не использовал своё «Огненное дыхание», жар накапливается в его теле и расходится волнами наружу. Пока «Огненное дыхание» дракона доступно, он испускает чудовищный жар, и каждое существо, начинающее ход в пределах 30 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] спасброске или получить [[/damage average]] урона. Существо, провалившее этот спасбросок на 5 или больше, также получает один уровень &Reference[exhaustion]{истощение}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -753,7 +753,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]] спасброске или стать &Reference[frightened]{испуган} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нём заканчивается, оно получает иммунитет к «Устрашающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -919,7 +919,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales fire in a 90-foot cone. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает огонь 90-футовым конусом. Каждое существо в этой области должно совершить [[/save format=long]], получая [[/damage average]] урона при провале или половину этого урона при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Documenbt"
           }

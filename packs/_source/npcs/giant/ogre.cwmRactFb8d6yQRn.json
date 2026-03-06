@@ -270,7 +270,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -513,7 +513,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ogre makes two Greatclub or Javelin attacks.</p>",
+          "value": "<p>Огр совершает две атаки «Дубиной» или «Дротиком».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1000,7 +1000,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ogre sweeps its weapon in a wide arc around it. Each creature within 10 feet of the ogre must make a [[/save format=long]]. Small and smaller creatures have disadvantage on the save. On a failure, a creature takes [[/damage format=long]] damage, is pushed up to 10 feet away from the ogre, and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t pushed or knocked prone.</p>",
+          "value": "<p>Огр широко размахивает оружием вокруг себя. Каждое существо в пределах 10 футов от огра должно совершить [[/save format=long]]. Маленькие и более мелкие существа совершают этот спасбросок с помехой. При провале существо получает [[/damage format=long]] урона, отталкивается от огра на расстояние до 10 футов и падает &Reference[prone]{ничком}. При успехе существо получает половину урона и не отталкивается, и не падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1135,7 +1135,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ogre takes the &Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
+          "value": "<p>Огр выполняет действие &Reference[Dash]{Рывок}. Если он перемещается, то может врезаться в одно существо, которое видит на своём пути. Цель должна преуспеть в [[/save format=long]] или быть сбита с ног &Reference[prone]{сбит с ног}. Это перемещение не провоцирует атаки возможности от цели, провалившей этот спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

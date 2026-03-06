@@ -258,7 +258,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] serves another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded and on the same plane of existence, the companion can sense what the [[lookup @name lowercase]] senses and the two can communicate telepathically. While the [[lookup @name lowercase]] is within 100 feet of the companion, it can use a reaction to deliver any spell the companion casts that has a range of touch. If the spell requires an attack roll, the [[lookup @name lowercase]] uses the companion’s spell attack modifier for the roll. While the [[lookup @name lowercase]] is within 10 feet of its companion, the companion has advantage on INT (Arcana) and INT (Investigation) checks.</p><p>At any time and for any reason, the [[lookup @name lowercase]] can end its service as a familiar, ending the telepathic bond.</p>",
+          "value": "<p>[[lookup @name lowercase]] служит другому существу в роли фамильяра, образуя с добровольным хозяином магическую телепатическую связь. Пока они связаны и находятся на одном плане существования, хозяин может ощущать то же, что и [[lookup @name lowercase]], и они могут общаться телепатически. Пока [[lookup @name lowercase]] находится в пределах 100 футов от хозяина, он может реакцией доставить любое заклинание хозяина с дистанцией «касание». Если заклинание требует броска атаки, [[lookup @name lowercase]] использует модификатор броска атаки заклинанием хозяина. Пока [[lookup @name lowercase]] находится в пределах 10 футов от хозяина, хозяин получает преимущество на проверки ИНТ (Магия) и ИНТ (Расследование).</p><p>В любой момент и по любой причине [[lookup @name lowercase]] может прекратить службу фамильяра, разрывая телепатическую связь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -352,7 +352,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "68vUF3xfybr8oGel",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -420,7 +420,7 @@
           "value": null
         }
       },
-      "name": "Создать устойчивость",
+      "name": "Стойкость конструкта",
       "type": "feature",
       "_id": "BhmZTfs1D7fpW0ow",
       "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -723,7 +723,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. If the save fails by 5 or more, the target is instead poisoned for 5 ([[/r 1d10]]) minutes and &Reference[unconscious]{unconscious} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 12 format=long]] или быть &Reference[poisoned]{отравлен} на 1 минуту. Если спасбросок провален на 5 или больше, цель вместо этого отравлена на 5 ([[/r 1d10]]) минут и находится &Reference[unconscious]{без сознания}, пока отравлена таким образом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

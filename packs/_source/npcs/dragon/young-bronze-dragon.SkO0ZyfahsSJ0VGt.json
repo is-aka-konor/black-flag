@@ -655,7 +655,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] uses its Lightning Breath, its body begins recharging with lightning, pulling electricity from nearby creatures. While the [[lookup @name lowercase]]'s Lightning Breath is unavailable, each creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must make a [[/save format=long]] On a failure, a creature can use either an action or a bonus action on its turn, not both.</p>",
+          "value": "<p>После того как [[lookup @name lowercase]] использует «Дыхание молнией», его тело начинает перезаряжаться электричеством, вытягивая его из ближайших существ. Пока «Дыхание молнией» [[lookup @name lowercase]] недоступно, каждое существо, начинающее ход в пределах 10 футов от [[lookup @name lowercase]], должно совершить [[/save format=long]]. При провале существо может в свой ход совершить либо действие, либо бонусное действие (но не оба).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

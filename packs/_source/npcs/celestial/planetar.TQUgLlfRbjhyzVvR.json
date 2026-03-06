@@ -275,7 +275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 7d8 radiant damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, эта атака дополнительно наносит 7к8 лучистого урона (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -343,7 +343,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] knows if it hears a lie.</p>",
+          "value": "<p>[[lookup @name lowercase]] знает, когда слышит ложь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -411,7 +411,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Aberrations, Celestials, Fiends, and Undead have disadvantage on attack rolls against the [[lookup @name lowercase]].</p>",
+          "value": "<p>Аберрации, Небожители, Исчадия и Нежить совершают броски атаки по [[lookup @name lowercase]] с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -479,7 +479,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -685,7 +685,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes two Greatsword attacks, or it makes three Radiant Bolt attacks. It can replace one attack with a use of Spellcasting. If two Greatsword or Radiant Bolt attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает две атаки «Двуручным мечом» или три атаки «Лучистым зарядом». Одну из атак он может заменить использованием «Колдовства». Если две атаки «Двуручным мечом» или «Лучистым зарядом» попадают по одному существу, цель должна преуспеть в [[/save format=long]] или быть &Reference[blinded]{ослеплён} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1186,7 +1186,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A pulse of divine power ripples out from the planetar’s golden halo. Each hostile creature within 15 feet of the planetar must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. Each friendly creature within 15 feet of the planetar is empowered with divine energy and has advantage on all melee attack rolls it makes before the start of the planetar’s next turn.</p>",
+          "value": "<p>Импульс божественной силы расходится от золотого нимба планетара. Каждое враждебное существо в пределах 15 футов от планетара должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона. Каждое дружественное существо в пределах 15 футов от планетара наполняется божественной энергией и получает преимущество на все рукопашные броски атаки, которые совершает до начала следующего хода планетара.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1337,7 +1337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] touches another creature. The target magically regains [[/healing average]] and is freed from any curse, disease, poison, blindness, or deafness.</p>",
+          "value": "<p>[[lookup @name lowercase]] касается другого существа. Цель магически восстанавливает [[/healing average]] и освобождается от любого проклятия, болезни, яда, слепоты или глухоты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1465,7 +1465,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]{невидим}</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1964,7 +1964,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint the location of Aberrations, Celestials, Fiends, and Undead within 30 feet of it and knows if a place or object it can sense is consecrated or desecrated.</p>",
+          "value": "<p>[[lookup @name lowercase]] может точно определить местоположение Аберраций, Небожителей, Исчадий и Нежити в пределах 30 футов, а также знает, освящён ли объект или место, которое он ощущает, либо осквернён.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2032,7 +2032,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and the charmed and frightened conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление лучистому урону, а также дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован} и &Reference[frightened]{испуган}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

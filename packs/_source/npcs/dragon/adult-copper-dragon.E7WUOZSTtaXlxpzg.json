@@ -271,7 +271,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] hasn’t spit its Acid Breath, the acid built up within the [[lookup @name lowercase]] causes the patina on its scales to spread to weapons that strike it. While the [[lookup @name lowercase]]'s Acid Breath is available, any weapon made of metal that hits the [[lookup @name lowercase]] corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If a nonmagical weapon’s penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the [[lookup @name lowercase]] is destroyed after dealing damage. A magical weapon can’t have a penalty greater than −5, and a magical weapon removes this penalty after 24 hours or after its attuned wielder finishes a long rest.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] ещё не изверг «Кислотное дыхание», накопившаяся внутри [[lookup @name lowercase]] кислота распространяет налёт на его чешуе на оружие, которое по нему бьёт. Пока «Кислотное дыхание» [[lookup @name lowercase]] доступно, любое металлическое оружие, попадающее по [[lookup @name lowercase]], подвергается коррозии. Нанеся урон, это оружие получает постоянный и накапливающийся штраф −1 к броскам урона. Если штраф немагического оружия достигает −5, оружие разрушается. Немагические металлические боеприпасы, попавшие по [[lookup @name lowercase]], разрушаются после нанесения урона. Магическое оружие не может получить штраф больше −5, а наложенный штраф с магического оружия исчезает через 24 часа или после того, как настроенный на него владелец завершит продолжительный отдых.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -532,7 +532,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]] спасброске или стать &Reference[frightened]{испуган} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нём заканчивается, оно получает иммунитет к «Устрашающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1374,7 +1374,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] roars at up to two creatures of its choice within 120 feet of it. Each target must succeed on a [[/save]] save or be vulnerable to acid damage until the end of its next turn. A target resistant to acid damage isn’t resistant to it for the duration. A target immune to acid damage is still immune to it, even if the target fails the save.</p>",
+          "value": "<p>[[lookup @name lowercase]] рычит на не более чем двух существ по своему выбору в пределах 120 футов. Каждая цель должна преуспеть в [[/save]] спасброске или получить уязвимость к урону кислотой до конца своего следующего хода. Цель, имеющая сопротивление урону кислотой, теряет это сопротивление на время действия эффекта. Цель, имеющая иммунитет к урону кислотой, сохраняет иммунитет, даже если проваливает спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] starts its turn enlarged, it can choose to end the effect and return to its normal size (no action required).</p>",
+          "value": "<p>Если [[lookup @name lowercase]] начинает ход увеличенным, он может завершить этот эффект и вернуться к обычному размеру (без траты действия).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -681,7 +681,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d8 + 2 piercing average]] damage while enlarged.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], или [[/damage 2d8 + 2 piercing average]] урона, пока дургар увеличен.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -935,7 +935,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 2d6 + 2 piercing average]] damage while enlarged.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], или [[/damage 2d6 + 2 piercing average]] урона, пока дургар увеличен.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1319,7 +1319,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The duergar adds 2 to its AC against one weapon attack that would hit it. To do so, the duergar must be wielding a shield and within 5 feet of another duergar that is also wielding a shield.</p><p><em>Note: An Active Effect is available in the Effects tab of this character sheet to enable the AC bonus.</em></p>",
+          "value": "<p>Дургар получает +2 к КД против одной оружейной атаки, которая попала бы по нему. Для этого дургар должен держать щит и находиться в пределах 5 футов от другого дургара, который тоже держит щит.</p><p><em>Примечание: во вкладке «Эффекты» этого листа персонажа доступен активный эффект для включения бонуса к КД.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

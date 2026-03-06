@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly creature the cultist can see within 5 feet of it is hit by an attack that would reduce that creature to 0 HP, the cultist can leap in front of the attack, taking the damage instead.</p>",
+          "value": "<p>Когда дружественное существо, которое культист видит в пределах 5 футов, получает попадание атакой, которая снизила бы его до 0 ОЗ, культист может броситься под удар и получить урон вместо него.</p>",
           "source": {}
         },
         "identifier": {},

@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Оружие [[lookup @name lowercase]] окутано тёмным или золотым пламенем в зависимости от его божества. Когда [[lookup @name lowercase]] попадает любым оружием, оно дополнительно наносит 2d6 некротического урона или урона излучением (включено в атаку) — по выбору [[lookup @name lowercase]].</p>",
+          "value": "<p>Оружие [[lookup @name lowercase]] окутано тёмным или золотым пламенем в зависимости от его божества. Когда [[lookup @name lowercase]] попадает любым оружием, эта атака дополнительно наносит 2к6 некротического урона или урона сиянием (по выбору [[lookup @name lowercase]]; уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -610,7 +610,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The priest makes two Mace or Divine Bolt attacks.</p>",
+          "value": "<p>Жрец совершает две атаки «Булавой» или «Божественным зарядом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -771,7 +771,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the priest’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору жреца).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1716,7 +1716,7 @@
               "priority": null
             }
           ],
-          "description": "<p>Когда цель делает бросок атаки или спасбросок до окончания заклинания, цель может бросить d4 и добавить выпавшее число к броску атаки или спасброску.</p>",
+          "description": "<p>Когда цель совершает бросок атаки или спасбросок до окончания заклинания, она может бросить [[/r 1d4]] и добавить выпавшее значение к этому броску.</p>",
           "transfer": true,
           "statuses": [],
           "flags": {},
@@ -2271,7 +2271,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Вы касаетесь существа и можете прекратить одну болезнь или одно &Reference[blinded] &Reference[deafened] &Reference[paralyzed] &Reference[poisoned] состояние, поражающее его. Состояние может быть слепота, глухота, паралич или отравление.</p>",
+          "value": "<p>Вы касаетесь существа и можете прекратить одну болезнь или одно &Reference[blinded]{ослеплён} &Reference[deafened]{оглох} &Reference[paralyzed]{парализован} &Reference[poisoned]{отравлен} состояние, поражающее его. Состояние может быть слепота, глухота, паралич или отравление.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2470,7 +2470,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the [[lookup @name lowercase]]'s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору [[lookup @name lowercase]]).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

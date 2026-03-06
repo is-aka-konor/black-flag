@@ -137,7 +137,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>The military bearing of this humanoid is evident in its stance and in its readied weapon. The warrior’s yellow eyes seem to watch everything.</em></p><p>Hobgoblins stand about as tall as a human, though they are more powerfully built. As a society, most hobgoblin enclaves are highly organized military communities, called cohorts, where members are ranked according to their skills and accomplishments.</p><p><strong>Rule Bound.</strong> The militant hobgoblins live their lives according to the Decrees, a complicated set of rules, laws, and customs. Tenets of the Decrees are so ingrained that even hobgoblins who leave the community to become adventurers continue to model their reactions and decisions on its lessons.</p><p><strong>The Goblin Oath.</strong> All hobgoblins are sworn to serve their cohorts from birth, raised to honor the Decrees and their superiors in equal measure. The cohort combines military virtues with family loyalty to create a potent whole. To swear by the cohort is the most binding promise a hobgoblin can give.</p>",
+      "value": "<p><em>Военная выправка этого гуманоида заметна и в стойке, и в том, как он держит оружие наготове. Жёлтые глаза воина будто подмечают всё вокруг.</em></p><p>Хобгоблины обычно ростом с человека, но сложены крепче. В обществе большинство хобгоблинских поселений — это строго организованные военные общины, называемые когортами, где место каждого определяется его навыками и достижениями.</p><p><strong>Власть правил.</strong> Воинственные хобгоблины живут по Декретам — сложному своду законов, правил и обычаев. Положения Декретов настолько глубоко укоренены, что даже те хобгоблины, которые покидают общину и становятся искателями приключений, продолжают принимать решения, опираясь на эти уроки.</p><p><strong>Клятва когорте.</strong> Каждый хобгоблин с рождения присягает служить своей когорте и одинаково чтить Декреты и старших. Когорта сочетает воинские добродетели с верностью семье, образуя мощное целое. Поклясться когортой — самая обязательная клятва, какую может дать хобгоблин.</p>",
       "legendary": ""
     },
     "description": {
@@ -335,7 +335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each friendly creature within 30 feet of the hobgoblin commander can’t be charmed or frightened while the commander isn’t incapacitated.</p>",
+          "value": "<p>Каждое дружественное существо в пределах 30 футов от хобгоблина-командира не может быть &Reference[charmed]{очарован} или &Reference[frightened]{испуган}, пока командир не является недееспособным.</p>",
           "source": {}
         },
         "identifier": {},
@@ -447,7 +447,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hobgoblin commander makes three Greatsword or Longbow attacks.</p>",
+          "value": "<p>Хобгоблин-командир совершает три атаки «Двуручным мечом» или «Длинным луком».</p>",
           "source": {}
         },
         "identifier": {},
@@ -949,7 +949,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hobgoblin commander employs one of the following tactics:</p><ul><li><p>@Embed[.Activity.6aejTOrUuETVpGnH activate inline]{Emboldening Shout}</p></li><li><p>@Embed[.Activity.d1iO8dR7sRKi0vb7 activate inline]{Pressing Advance}</p></li></ul>",
+          "value": "<p>Хобгоблин-командир применяет одну из следующих тактик:</p><ul><li><p>@Embed[.Activity.6aejTOrUuETVpGnH activate inline]{Воодушевляющий клич}</p></li><li><p>@Embed[.Activity.d1iO8dR7sRKi0vb7 activate inline]{Наступательный рывок}</p></li></ul>",
           "source": {}
         },
         "identifier": {

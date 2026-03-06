@@ -524,7 +524,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a Humanoid that can see the hag’s true form starts its turn within 30 feet of the hag, the hag can force it to make a [[/save format=long]]. On a failure, the creature is &Reference[frightened]{испуган} until the start of its next turn.</p><p>Unless surprised or the revelation of the hag’s true form is sudden, such as the ending of Illusory Appearance, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the hag until the start of its next turn, when it can avert its eyes again. If the creature looks at the hag in the meantime, it must immediately make the save.</p>",
+          "value": "<p>Когда Гуманоид, который видит истинный облик карги, начинает ход в пределах 30 футов от неё, карга может заставить его совершить [[/save format=long]]. При провале существо становится &Reference[frightened]{испуган} до начала своего следующего хода.</p><p>Если существо не застигнуто врасплох и раскрытие истинного облика карги не произошло внезапно (например, при окончании «Иллюзорной внешности»), оно может отвести взгляд, чтобы избежать спасброска в начале хода. Если существо делает это, до начала своего следующего хода оно не видит каргу; затем может снова отвести взгляд. Если же существо посмотрит на каргу до этого, оно немедленно совершает спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -592,7 +592,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag’s Stealth is 18 while underwater and not using Illusory Appearance.</p>",
+          "value": "<p>Скрытность карги равна 18, пока она находится под водой и не использует «Иллюзорную внешность».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -713,7 +713,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag uses Death Glare. It then makes two Claw attacks.</p>",
+          "value": "<p>Карга использует «Смертельный взгляд», затем совершает две атаки «Когтями».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -849,7 +849,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the hag can see within 30 feet of it must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target is already frightened and fails the save, it is reduced to 0 HP instead. If reduced to 0 HP in this way, the creature is stable.</p>",
+          "value": "<p>Одно существо, которое карга видит в пределах 30 футов, должно преуспеть в [[/save format=long]] или стать &Reference[frightened]{испуган} до конца своего следующего хода. Если цель уже испугана и проваливает этот спасбросок, её ОЗ вместо этого снижаются до 0. Если ОЗ снижены до 0 таким образом, существо остаётся стабильным.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -983,7 +983,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if the hag dies.</p><p>The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching it would feel its rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a [[/check investigation 20 format=long]] to discern that the hag is disguised.</p>",
+          "value": "<p>Карга покрывает себя и всё носимое/переносимое снаряжение магической иллюзией, из-за которой выглядит как другое существо примерно того же размера и гуманоидного телосложения. Иллюзия заканчивается, если карга бонусным действием прекращает эффект или если карга погибает.</p><p>Изменения, создаваемые этим эффектом, не выдерживают физической проверки. Например, карга может выглядеть как обладательница гладкой кожи, но при прикосновении она всё равно ощущается грубой и шершавой. В остальных случаях существо должно действием внимательно осмотреть иллюзию и преуспеть в [[/check investigation 20 format=long]], чтобы распознать маскировку карги.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1127,7 +1127,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the hag takes damage from a source it can see, the hag can shift the barnacles and scales on its body to absorb some of the impact, reducing the damage by [[/damage average]].</p>",
+          "value": "<p>Когда карга получает урон от источника, который видит, она может сдвинуть ракушки и чешую на своём теле, принимая часть удара на себя и уменьшая этот урон на [[/damage average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

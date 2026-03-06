@@ -383,7 +383,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move across and climb icy surfaces without needing to make an ability check. In addition, difficult terrain composed of ice or snow doesn’t cost it extra movement.</p>",
+          "value": "<p>[[lookup @name lowercase]] может перемещаться и взбираться по ледяным поверхностям без проверки характеристики. Кроме того, труднопроходимая местность из льда или снега не требует от него дополнительного перемещения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -451,7 +451,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can see through areas obscured by snowfall, sleet, and other wintry precipitation without penalty.</p>",
+          "value": "<p>[[lookup @name lowercase]] без штрафа видит сквозь области, скрытые снегопадом, снежной крупой и другими зимними осадками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -572,7 +572,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant makes two Icy Greataxe or Ice Boulder attacks.</p>",
+          "value": "<p>Великан совершает две атаки «Ледяным двуручным топором» или «Ледяным валуном».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1178,7 +1178,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frost giant sends out a wave of snow in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is buried. On a success, a creature takes half the damage and isn’t buried. A buried creature is &Reference[restrained]{опутан} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 16 format=long]].</p>",
+          "value": "<p>Ледяной великан выпускает волну снега в конусе 30 футов. Каждое существо в этой области должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и оказывается погребено снегом. При успехе существо получает половину урона и не оказывается погребено. Погребённое существо находится в состоянии &Reference[restrained]{опутан}, не может дышать и не может встать. Любое существо, включая погребённое, может действием освободить его, преуспев в [[/check str 16 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1319,7 +1319,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A blast of wintry air extends in a 30-foot line that is 5 feet wide from the frost giant’s outstretched hand. Each creature in the line must succeed on a [[/save format=long]] or its speed is halved until the end of its next turn. A creature that fails the save by 5 or more is &Reference[petrified]{окаменел} in ice for 1 hour or until a creature spends 1 minute warming the petrified creature.</p>",
+          "value": "<p>Порыв зимнего воздуха вырывается линией длиной 30 футов и шириной 5 футов из вытянутой руки ледяного великана. Каждое существо в линии должно преуспеть в [[/save format=long]], иначе его скорость уменьшается вдвое до конца следующего хода. Существо, провалившее спасбросок на 5 или больше, оказывается &Reference[petrified]{окаменел} во льду на 1 час или до тех пор, пока кто-нибудь не потратит 1 минуту, согревая окаменевшее существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1394,7 +1394,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -520,7 +520,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The medusa can communicate with snakes as if they shared a language, and snakes can’t be petrified by the medusa’s Petrifying Gaze.</p>",
+          "value": "<p>Медуза может общаться со змеями так, словно они говорят на одном языке, и змеи не могут быть обращены в камень «Окаменяющим взглядом» медузы.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -641,7 +641,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The medusa makes one Snake Hair attack and two Shortsword attacks, or it makes three Longbow attacks.</p>",
+          "value": "<p>Медуза совершает одну атаку «Змеиными волосами» и две атаки «Коротким мечом» либо три атаки «Длинным луком».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

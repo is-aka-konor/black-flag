@@ -286,7 +286,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "6DUKbUFXwkBV7WJ0",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to any spell or effect that would alter its form.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к любому заклинанию или эффекту, который изменил бы его форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -585,7 +585,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem makes three Slam attacks.</p>",
+          "value": "<p>Голем совершает три атаки «Ударом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -735,7 +735,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golem shares the plodding perception of timeless stone with those nearby, slowing all life to a crawl. Each creature within 10 feet of the golem must make a  [[/save average]]. On a failure, a creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Голем делится с окружающими неумолимым восприятием вечного камня, замедляя всё живое. Каждое существо в пределах 10 футов от голема должно совершить [[/save average]]. При провале существо не может использовать реакции, его скорость уменьшается вдвое, и в свой ход оно не может совершать больше одной атаки. Кроме того, в свой ход существо может выполнить либо действие, либо бонусное действие, но не оба сразу. Эти эффекты длятся 1 минуту. В конце каждого своего хода существо может повторять спасбросок, оканчивая эффект на себе при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -761,7 +761,7 @@
           "value": null
         }
       },
-      "name": "Медленно",
+      "name": "Замедление",
       "type": "feature",
       "_id": "8EqYU18Xw6lO1dkz",
       "img": "icons/magic/control/debuff-energy-hold-yellow.webp",
@@ -797,7 +797,7 @@
           "FihNiaKc23p54fK1": {
             "type": "damage",
             "_id": "FihNiaKc23p54fK1",
-            "description": "<p>Голем меняет несколько камней своего тела. Его КД снижается на 2, и каждый раз, когда Существо в пределах 5 футов от голема защищает его рукопашной атакой, атакующий получает [[/damage average]] урона.</p>",
+            "description": "<p>Голем перестраивает несколько камней своего тела. Его КД уменьшается на 2, и каждый раз, когда существо в пределах 5 футов попадает по голему рукопашной атакой, атакующий получает [[/damage average]] урона.</p>",
             "system": {
               "damage": {
                 "parts": [
@@ -868,7 +868,7 @@
               "min": "",
               "max": ""
             },
-            "name": "Зубчатые камни",
+            "name": "Зазубренные камни",
             "img": "systems/black-flag-ru/artwork/activities/damage.svg",
             "magical": true,
             "sort": 0
@@ -876,7 +876,7 @@
           "TU16gQR4ere2CcBr": {
             "type": "heal",
             "_id": "TU16gQR4ere2CcBr",
-            "description": "<p>Голем скользит по телу несколькими камнями, чтобы защитить уязвимые места. Его скорость снижается на 10 футов, и каждый раз, когда он получает урон, урон снижается на [[/healing average]].</p>.",
+            "description": "<p>Голем сдвигает несколько каменных плит тела, прикрывая уязвимые места. Его скорость уменьшается на 10 футов, и каждый раз, когда он получает урон, этот урон уменьшается на [[/healing average]].</p>",
             "system": {
               "effects": [],
               "healing": {
@@ -951,7 +951,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The stone golem rearranges some of the stone comprising its body, choosing one of the following arrangements. The arrangement lasts until the golem ends the effect as a bonus action, uses this bonus action again, or until it is incapacitated.</p><ul><li><p>@Embed[.Activity.FihNiaKc23p54fK1 activate inline]{Jagged Stones}</p></li><li><p>@Embed[.Activity.TU16gQR4ere2CcBr activate inline]{Protective Slabs}</p></li></ul><p><em>Note: Active Effects are available in the Effects tab to enable each feature.</em></p>",
+          "value": "<p>Каменный голем перестраивает часть камня, из которого состоит его тело, выбирая один из следующих вариантов. Эффект длится, пока голем не завершит его бонусным действием, не использует это бонусное действие снова или пока голем не станет недееспособным.</p><ul><li><p>@Embed[.Activity.FihNiaKc23p54fK1 activate inline]{Зазубренные камни}</p></li><li><p>@Embed[.Activity.TU16gQR4ere2CcBr activate inline]{Защитные плиты}</p></li></ul><p><em>Примечание: во вкладке «Эффекты» доступны активные эффекты для включения каждого варианта.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -977,7 +977,7 @@
           "value": null
         }
       },
-      "name": "Переставить камень",
+      "name": "Перестройка камня",
       "type": "feature",
       "_id": "cpSBSbNgSk5nMzM0",
       "img": "icons/magic/earth/projectile-spiked-stone-boulder-brown.webp",
@@ -1108,7 +1108,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to poison and psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and to the charmed, frightened, paralyzed, petrified, and poisoned conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к урону ядом и психическому урону, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован}, &Reference[frightened]{испуган}, &Reference[paralyzed]{парализован}, &Reference[petrified]{окаменевший} и &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1275,7 +1275,7 @@
       "_key": "!actors.items!9lP9jFwc6Ib2XcKv.32W2LWJi2n5JQGCx"
     },
     {
-      "name": "Хлопок",
+      "name": "Удар",
       "type": "weapon",
       "_id": "cdbrtgB9YRRfqdcb",
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",

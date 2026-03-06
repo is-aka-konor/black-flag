@@ -148,7 +148,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A tiny, pulsing mote weaves through the night. As it approaches, its phosphorescent glow slowly dims into blackness. Seconds later, the thing erupts with a blinding flash.</em></p><p>Star crows are tiny, formless alien beings that lack sentience or emotion. These glowing creatures are drawn to sentient beings, feeding ravenously on the beings’ thoughts. They have also been known to carry and transfer memories of one sentient creature to another. Star crows transmit these thoughts as a powerful illusory experience, a pastiche of raw emotion, color, images, and sounds. Some star crows bear the wisdom of primordial beings, while others deliver incomprehensible knowledge.</p><p><strong>Immortal.</strong> Star crows have an infinite lifespan. They do not age and do not require food, water, air, or rest. The memories each star crow carries degrade, combine, or interlace with the eons of visions a single star crow may possess. A star crow reproduces by splitting, making a perfect copy of itself, when it acquires too many memories to handle without corruption. A newly spawned star crow assumes about a fourth of the information, lessening the burden of its parent.</p>",
+      "value": "<p><em>Крошечная пульсирующая искра петляет в ночи. Приближаясь, её фосфоресцирующее сияние постепенно тускнеет до черноты. Через секунду существо взрывается ослепительной вспышкой.</em></p><p>Звёздные вороны — крошечные бесформенные пришельцы, лишённые разума и эмоций. Эти светящиеся создания тянутся к мыслящим существам, жадно питаясь их мыслями. Известно, что они переносят память от одного разумного существа к другому. Передача происходит как мощное иллюзорное переживание — смесь сырой эмоции, цвета, образов и звуков. Одни звёздные вороны несут мудрость первородных сущностей, другие передают непостижимое знание.</p><p><strong>Бессмертные.</strong> Звёздные вороны живут бесконечно долго. Они не стареют и не нуждаются в пище, воде, воздухе или отдыхе. Воспоминания, которые они несут, со временем деградируют, переплетаются и смешиваются с бесчисленными видениями. Переполнившись памятью, звёздный ворон размножается делением, создавая точную копию. Новосозданный ворон принимает примерно четверть накопленной информации, облегчая ношу родителя.</p>",
       "legendary": ""
     },
     "description": {
@@ -543,7 +543,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The star crow learns some of the attached target’s memories, and the attached target experiences a rapid sequence of memories from other creatures the star crow has encountered. The target takes [[/damage average]] damage and must succeed on a [[/save]] save or be stunned until the end of its next turn.</p>",
+          "value": "<p>Звёздный ворон считывает часть памяти прикреплённой цели, а сама цель переживает стремительную последовательность воспоминаний других существ, с которыми ворон сталкивался ранее. Цель получает [[/damage average]] урона и должна преуспеть в [[/save]], иначе будет ошеломлена до конца своего следующего хода.</p>",
           "source": {}
         },
         "identifier": {},
@@ -680,7 +680,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The star crow dims then suddenly bursts with blinding light. Each creature within 30 feet of the star crow must succeed on a [[/save]] save or be blinded until the end of its next turn.</p>",
+          "value": "<p>Звёздный ворон гаснет, а затем внезапно взрывается ослепительной вспышкой. Каждое существо в пределах 30 футов от звёздного ворона должно преуспеть в [[/save]], иначе будет ослеплено до конца своего следующего хода.</p>",
           "source": {}
         },
         "identifier": {},
@@ -892,7 +892,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the star crow attaches to the target. While attached, the star crow can use only the Thought Share action and Blinding Burst bonus action, and it moves with the target whenever the target moves, requiring none of the star crow’s movement. The star crow can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the star crow by succeeding on a [[/check strength 13]] check.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и звёздный ворон прикрепляется к цели. Пока прикреплён, звёздный ворон может использовать только действие «Обмен мыслями» и бонусное действие «Ослепляющий всплеск», а также перемещается вместе с целью, когда та движется, не тратя собственного перемещения. Звёздный ворон может отцепиться, потратив 5 футов своего перемещения. Существо, включая саму цель, может действием отцепить звёздного ворона, преуспев в [[/check strength 13]].</p>",
           "source": {}
         },
         "identifier": {

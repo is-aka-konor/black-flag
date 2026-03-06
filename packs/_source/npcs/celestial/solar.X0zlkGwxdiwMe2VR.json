@@ -280,7 +280,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint the location of Aberrations, Celestials, Fiends, and Undead within 30 feet of it and knows if a place or object it can sense is consecrated or desecrated.</p>",
+          "value": "<p>[[lookup @name lowercase]] может точно определить местоположение Аберраций, Небожителей, Исчадий и Нежити в пределах 30 футов, а также знает, освящён ли объект или место, которое он ощущает, либо осквернён.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -348,7 +348,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, эта атака дополнительно наносит 6к8 лучистого урона (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -416,7 +416,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] knows if it hears a lie.</p>",
+          "value": "<p>[[lookup @name lowercase]] знает, когда слышит ложь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -484,7 +484,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Aberrations, Celestials, Fiends, and Undead have disadvantage on attack rolls against the [[lookup @name lowercase]].</p>",
+          "value": "<p>Аберрации, Небожители, Исчадия и Нежить совершают броски атаки по [[lookup @name lowercase]] с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -552,7 +552,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require food, drink, or sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в пище, воде и сне.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -893,7 +893,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The solar makes three Greatsword or Holy Fire Bolt attacks. It can replace one attack with a use of Spellcasting. If two Greatsword or Holy Fire Bolt attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
+          "value": "<p>Солар совершает три атаки «Двуручным мечом» или «Священным огненным зарядом». Одну из атак он может заменить использованием «Колдовства». Если две атаки «Двуручным мечом» или «Священным огненным зарядом» попадают по одному существу, цель должна преуспеть в [[/save format=long]] или быть &Reference[blinded]{ослеплён} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1549,7 +1549,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]{невидим}</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1890,7 +1890,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sends divine power into the weapons of up to two friendly creatures it can see within 30 feet of it. Each target has advantage on the next weapon attack roll it makes before the start of the [[lookup @name lowercase]]’s next turn. If that attack hits, the weapon deals an extra [[/damage 2d6 radiant average]] damage.</p>",
+          "value": "<p>[[lookup @name lowercase]] наполняет божественной силой оружие до двух дружественных существ, которых видит в пределах 30 футов. Каждая цель получает преимущество на следующий бросок атаки оружием, совершённый до начала следующего хода [[lookup @name lowercase]]. Если эта атака попадает, оружие дополнительно наносит [[/damage 2d6 radiant average]] лучистого урона.</p>",
           "source": {
             "fallback": ""
           }
@@ -2031,7 +2031,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One friendly creature the [[lookup @name lowercase]] can see within 30 feet of it gains [[/healing 4d6 temp average]] and becomes immune to the charmed and frightened conditions until the start of the [[lookup @name lowercase]]’s next turn, ending any effect currently causing the target to be charmed or frightened.</p>",
+          "value": "<p>Одно дружественное существо, которое [[lookup @name lowercase]] видит в пределах 30 футов, получает [[/healing 4d6 temp average]] и становится невосприимчивым к состояниям &Reference[charmed]{очарован} и &Reference[frightened]{испуган} до начала следующего хода [[lookup @name lowercase]], завершая любой действующий эффект, который сейчас вызывает у цели очарование или испуг.</p>",
           "source": {
             "fallback": ""
           }
@@ -2160,7 +2160,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] commands up to three friendly creatures it can see to reposition themselves on the battlefield. Each target can use a reaction to move up to half its speed in a direction of the solar’s choice. This movement is unaffected by difficult terrain and doesn’t provoke opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] приказывает до трёх дружественных существ, которых видит, изменить позиции на поле боя. Каждая цель может реакцией переместиться на расстояние до половины своей скорости в направлении, выбранном соларом. Это перемещение не зависит от труднопроходимой местности и не провоцирует атаки возможности.</p>",
           "source": {
             "fallback": ""
           }
@@ -2636,7 +2636,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе со всем носимым и переносимым снаряжением на расстояние до 120 футов в свободное пространство, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2805,7 +2805,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The solar emits divine energy. Each creature of its choice within 10 feet of it must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Солар испускает божественную энергию. Каждое выбранное им существо в пределах 10 футов должно совершить [[/save]], получая [[/damage average]] урона при провале или половину этого урона при успехе.</p>",
           "source": {
             "fallback": "Black Flag Referrence Document"
           }
@@ -2944,7 +2944,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The solar glares at up to three creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be cowed until the end of its next turn. While cowed, a creature’s speed is halved, and it can’t look at the solar.</p>",
+          "value": "<p>Солар пронзает взглядом до трёх существ, которых видит в пределах 30 футов. Каждая цель должна преуспеть в [[/save format=long]] или стать подавленной до конца своего следующего хода. Пока существо подавлено, его скорость уменьшается вдвое, и оно не может смотреть на солара.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3096,7 +3096,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] touches another creature. The target magically regains [[/healing average]] and is freed from any curse, disease, poison, blindness, or deafness.</p>",
+          "value": "<p>[[lookup @name lowercase]] касается другого существа. Цель магически восстанавливает [[/healing average]] и освобождается от любого проклятия, болезни, яда, слепоты или глухоты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3171,7 +3171,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to radiant damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to exhaustion and the charmed and frightened conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление лучистому урону, а также дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к истощению и состояниям &Reference[charmed]{очарован} и &Reference[frightened]{испуган}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -506,7 +506,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands to make a melee attack.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], или [[/damage versatile average]] урона, если оружие используется двумя руками для рукопашной атаки.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -869,7 +869,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] reduces a creature to 0 HP, it can move up to half its speed and make one Bite attack. If it does, attack rolls against it have advantage until the start of its next turn.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] снижает существо до 0 ОЗ, он может переместиться на расстояние до половины своей скорости и совершить одну атаку «Укусом». Если он делает это, броски атаки по нему совершаются с преимуществом до начала его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

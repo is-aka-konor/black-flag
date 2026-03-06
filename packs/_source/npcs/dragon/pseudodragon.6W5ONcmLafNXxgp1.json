@@ -968,7 +968,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[poisoned]{отравлен} for 1 hour. If the creature fails the save by 5 or more, it falls unconscious while poisoned in this way, or until it takes damage or another creature uses an action to shake it awake.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save con 11 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}) на 1 час. Если существо проваливает спасбросок на 5 или больше, оно также падает без сознания, пока остаётся отравленным таким образом, либо до тех пор, пока не получит урон или другое существо не потратит действие, чтобы привести его в чувство.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

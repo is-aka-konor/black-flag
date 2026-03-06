@@ -1,6 +1,6 @@
 {
   "folder": "eGbBUI0gCQf7V1CE",
-  "name": "Коврик удушения",
+  "name": "Ковёр удушения",
   "type": "npc",
   "_id": "rEjsBo7fnpeE7VyE",
   "img": "systems/black-flag-ru/artwork/tokens/rug-of-smothering.webp",
@@ -146,7 +146,7 @@
       }
     },
     "biography": {
-      "value": "<p><strong>Living Objects</strong>. Animated objects are nonmagical objects given life by a spellcaster. Though little more than their mundane counterparts, animated objects can be given basic instructions to follow—they do so indefinitely or until given new instructions by their creators. The most common animated objects are decorative or seemingly innocuous armor, weapons, and rugs instructed to protect their creators’ homes, laboratories, or treasuries.</p><p><strong>Rug of Smothering</strong>. One of the most insidious animated objects, the rug of smothering usually waits until a victim draws near before attempting to grab and suffocate it. Beyond the immediate danger of constriction and suffocation, the rug also passes on some of the damage inflicted on it by the victim’s allies. Despite its name, many large textiles can be animated as rugs of smothering, such as tapestries, blankets, or even heraldic flags and banners.</p>",
+      "value": "<p><strong>Живые предметы</strong>. Оживлённые предметы — это немагические вещи, которым заклинатель даровал подобие жизни. Почти не отличаясь от обычных аналогов, такие предметы способны бесконечно выполнять простые приказы создателя, пока не получат новые указания. Чаще всего оживляют декоративные или на вид безобидные доспехи, оружие и ковры, чтобы они охраняли дома, лаборатории и сокровищницы своих создателей.</p><p><strong>Ковёр удушения</strong>. Один из самых коварных оживлённых предметов: обычно он ждёт, пока жертва подойдёт ближе, а затем пытается схватить и задушить её. Помимо прямой угрозы сдавливания и удушья, ковёр также передаёт часть получаемого урона самой жертве. Несмотря на название, таким существом может стать не только ковёр: оживить можно и крупные ткани вроде гобеленов, покрывал, а также геральдических флагов и знамён.</p>",
       "legendary": ""
     },
     "spellcasting": {
@@ -299,7 +299,7 @@
           "value": null
         }
       },
-      "name": "Построить природу",
+      "name": "Природа конструкта",
       "type": "feature",
       "_id": "kpiTr2pIbRsgARYl",
       "img": "icons/commodities/tech/cog-gold.webp",
@@ -367,7 +367,7 @@
           "value": null
         }
       },
-      "name": "Создать устойчивость",
+      "name": "Стойкость конструкта",
       "type": "feature",
       "_id": "OH5zDVbHJDjhKU2K",
       "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -496,7 +496,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While it is grappling a creature, the [[lookup @name lowercase]] takes only half the damage dealt to it (rounded down), and the creature grappled by the [[lookup @name lowercase]] takes the other half.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] удерживает существо в захвате, он получает только половину наносимого ему урона (округляя вниз), а вторую половину получает существо, схваченное [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -718,7 +718,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rug of smothering tightens around a creature it is grappling. The target must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A breathing creature that fails this save by 5 or more has the remaining air squeezed from its lungs and begins suffocating.</p>",
+          "value": "<p>Ковёр удушения сжимается вокруг существа, которое удерживает в захвате. Цель должна совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину этого урона. Дышащее существо, провалившее этот спасбросок на 5 или больше, теряет оставшийся воздух в лёгких и начинает задыхаться.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -845,7 +845,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If it isn’t grappling a creature, the rug curls up and rolls along the ground up to triple its speed straight toward a creature it can sense. If it stops within 5 feet of the target, it can make one Smother attack against the target.</p>",
+          "value": "<p>Если ковёр никого не удерживает в захвате, он сворачивается и катится по земле по прямой к существу, которое ощущает, на расстояние до трёх своих скоростей. Если он останавливается в пределах 5 футов от цели, он может совершить одну атаку «Душить» по этой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -975,7 +975,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is &Reference[incapacitated]{недееспособен} while in the area of an @UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{antimagic field}. If targeted by @UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{dispel magic}, the armor must succeed on a [[/save constitution]] save against the caster’s spell save DC or fall unconscious for 1 minute</p>",
+          "value": "<p>[[lookup @name lowercase]] становится &Reference[incapacitated]{недееспособен}, пока находится в области действия @UUID[Compendium.black-flag-ru.spells.Item.ChqgW59lFxjXHF9s]{антимагическое поле}. Если на него нацелено @UUID[Compendium.black-flag-ru.spells.Item.t61I6zrmEDPdOLfw]{рассеивание магии}, ковёр должен преуспеть в [[/save constitution]] против СЛ спасброска заклинаний заклинателя, иначе теряет сознание на 1 минуту.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1124,7 +1124,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach [[lookup @labels.reach]], one Medium or smaller creature [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 13). Until this grapple ends, the target is &Reference[restrained]{опутан}, &Reference[blinded]{ослеплён}, and unable to breathe, and the rug can’t fly and can’t Smother another target.</p>",
+          "value": "<p><em>Рукопашная атака оружием</em>: [[/attack]], досягаемость [[lookup @labels.reach]], одна цель размером не больше Среднего. [[/damage average]], и цель оказывается &Reference[grappled]{схвачен} (СЛ высвобождения 13). Пока этот захват не окончен, цель находится в состояниях &Reference[restrained]{опутан} и &Reference[blinded]{ослеплён}, не может дышать, а ковёр не может летать и использовать «Душить» против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -268,7 +268,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wood herald’s Stealth is 18 while in any terrain with ample, obscuring plant life.</p>",
+          "value": "<p>Скрытность древесного вестника равна 18, пока он находится в местности с обильной, заслоняющей обзор растительностью.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -908,7 +908,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the wood herald can see hits it with a melee attack while within 5 feet of it, the herald can extend sharp brambles along its body, dealing [[/damage average]] damage to the attacker.</p>",
+          "value": "<p>Когда существо, которое древесный вестник видит, попадает по нему рукопашной атакой, находясь в пределах 5 футов, вестник может выпустить по телу острые шипы, нанося атакующему [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

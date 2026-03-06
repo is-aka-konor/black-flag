@@ -404,7 +404,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can easily move through any opening large enough for a Small creature. It can squeeze through any opening large enough for a Tiny creature. The [[lookup @name lowercase]]'s destination must still have suitable room to accommodate its volume.</p>",
+          "value": "<p>[[lookup @name lowercase]] легко проходит через любое отверстие, достаточное для существа Маленького размера. Он может протискиваться через отверстие, достаточное для существа Крошечного размера. При этом в месте назначения всё равно должно быть достаточно места, чтобы вместить объём тела [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -591,7 +591,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mordovermis makes two Sting attacks. If both Sting attacks hit one Large or smaller creature, the mordovermis can use Consume on the creature without the need for the target to be incapacitated.</p>",
+          "value": "<p>Мордовермис совершает две атаки «Жалом». Если обе атаки «Жалом» попадают по одному существу Большого размера или меньше, мордовермис может использовать «Поглощение» на этой цели, даже если она не недееспособна.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -831,7 +831,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mordovermis wraps its body around an incapacitated creature. The target must make a [[/save format=long]]. On a failure, the target takes [[/damage average]] damage and is &Reference[grappled]{схвачен} (escape DC 13). On a success, the target takes half the damage and isn’t grappled. Until this grapple ends, the target is &Reference[restrained]{опутан} and takes [[/damage 4d8 acid average]] damage at the start of each of its turns, and the mordovermis can’t use Consume.</p>",
+          "value": "<p>Мордовермис обвивает телом недееспособное существо. Цель должна совершить [[/save format=long]]. При провале цель получает [[/damage average]] урона и становится &Reference[grappled]{схвачен} (СЛ высвобождения 13). При успехе цель получает половину урона и не становится схваченной. Пока захват не окончен, цель находится в состоянии &Reference[restrained]{опутан} и получает [[/damage 4d8 acid average]] урона в начале каждого своего хода, а мордовермис не может использовать «Поглощение».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -970,7 +970,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mordovermis focuses its gaze on one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} until the end of its next turn. While charmed, the creature is &Reference[incapacitated]{недееспособен} and has a speed of 0.</p>",
+          "value": "<p>Мордовермис фокусирует взгляд на одном существе, которое видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]] или стать &Reference[charmed]{очарован} до конца своего следующего хода. Пока цель очарована, она находится в состоянии &Reference[incapacitated]{недееспособен} и имеет скорость 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

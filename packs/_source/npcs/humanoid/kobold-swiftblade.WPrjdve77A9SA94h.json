@@ -462,7 +462,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The kobold swiftblade makes two Scimitar or Hand Crossbow attacks.</p>",
+          "value": "<p>Кобольд-быстрый клинок совершает две атаки «Скимитаром» или «Ручным арбалетом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -966,7 +966,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The swiftblade moves up to 15 feet without provoking opportunity attacks, and if it moves into a lightly or heavily obscured area, it takes the &Reference[Hide]{Засада} action, using its Stealth value as the result of the check. If the swiftblade is aware of traps in the area, it can choose if this movement triggers any of them.</p>",
+          "value": "<p>Быстрый клинок перемещается на расстояние до 15 футов, не провоцируя атаки возможности. Если при этом он входит в область с лёгким или сильным заслонением, он выполняет действие &Reference[Hide]{Скрыться}, используя своё значение Скрытности как результат проверки. Если быстрый клинок знает о ловушках в области, он может решить, сработают ли они из-за этого перемещения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

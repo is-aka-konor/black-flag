@@ -138,7 +138,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>An enormous mound rises from the muck, grasping with its tentacles as a massive, toothy maw opens on its front.</em></p><p>This bizarre creature’s body is a shapeless mass of flesh atop three thick fins. Three tentacles sprout from the body, two longer ones ending in spiky, grasping pads, and a third, shorter limb bearing the otyugh’s eyes and nostrils. Much of the creature’s front side is taken up by a cavernous mouth filled with sharp teeth.</p><p><strong>Adaptable Appetites.</strong> Otyughs are omnivorous, eating anything organic and delighting in rot, waste, and carrion. Their constant hunger extends to living creatures as well. They hide while submerged in water or bury themselves in mud or filth, lashing out at potential prey as they pass.</p><p><strong>Damp Dwellers.</strong> Otyughs prefer wet environs, lairing in swamps, rainforests, partially flooded caves, or other wilderness areas prone to damp and decay. They can also be found in populated areas. City sewers, village middens, or boneyards contain what these sewer horrors view as abundant sources of food.</p>",
+      "value": "<p><em>Из жижи поднимается огромная туша, тянущаяся щупальцами, пока на передней стороне раскрывается гигантская зубастая пасть.</em></p><p>Тело этого странного существа — бесформенная масса плоти на трёх толстых ластообразных опорах. Из туловища растут три щупальца: два длинных заканчиваются шипастыми хватательными подушечками, а третье, более короткое, несёт глаза и ноздри отьюга. Значительную часть передней стороны занимает огромная пасть, полная острых зубов.</p><p><strong>Всеядная утроба.</strong> Отьюги всеядны, едят любую органику и особенно любят гниль, отходы и падаль. Их постоянный голод распространяется и на живых существ. Они прячутся, погрузившись в воду, или закапываются в грязь и нечистоты, а затем набрасываются на подходящую добычу.</p><p><strong>Жители сырости.</strong> Отьюги предпочитают влажные места: болота, дождевые леса, частично затопленные пещеры и другие природные области, где много сырости и распада. Их можно встретить и в населённых местах. Городские канализации, деревенские свалки или костяные ямы для этих канализационных ужасов — богатые источники пищи.</p>",
       "legendary": ""
     },
     "description": {
@@ -623,7 +623,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The otyugh makes one Bite attack and two Tentacle attacks. It can replace both Tentacle attacks with a use of Tentacle Slam.</p>",
+          "value": "<p>Отьюг совершает одну атаку «Укусом» и две атаки «Щупальцами». Он может заменить обе атаки «Щупальцами» использованием «Удара щупальцами».</p>",
           "source": {}
         },
         "identifier": {},
@@ -902,7 +902,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save constitution 15]] save or become infected with a disease. Until the disease is cured, the target is poisoned. Every 24 hours that elapse, the infected creature must repeat the save, reducing its HP maximum by 5 ([[/healing -1d10 max]]{1d10}) no a failure. The disease is cured on a success. The creature dies if the disease reduces its HP maximum to 0. This reduction to the creature’s HP maximum lasts until it finishes a long rest after the disease is cured.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, оно должно преуспеть в [[/save constitution 15]] или заразиться болезнью. Пока болезнь не излечена, цель остаётся отравленной. Каждые 24 часа заражённое существо повторяет спасбросок; при провале его максимум ОЗ уменьшается на 5 ([[/healing -1d10 max]]{1d10}). Болезнь излечивается при успешном спасброске. Существо погибает, если болезнь снижает его максимум ОЗ до 0. Это уменьшение максимума ОЗ сохраняется, пока существо не завершит продолжительный отдых после излечения болезни.</p>",
           "source": {}
         },
         "identifier": {

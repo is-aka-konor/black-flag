@@ -502,7 +502,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The knight exudes a powerful presence. At the start of each of the knight’s turns, it chooses one of the following presences, which lasts until the start of the knight’s next turn.</p><ul><li><p><strong>Empowering Presence.</strong> Each friendly creature that starts its turn within 15 feet of the knight has advantage on the first attack roll it makes before this presence ends.</p></li><li><p><strong>Protective Presence.</strong> Hostile creatures have disadvantage on attack rolls against friendly creatures within 5 feet of the knight.</p></li><li><p><strong>Unwavering Presence.</strong> Each friendly creature within 15 feet of the knight is resistant to the charmed and frightened conditions.</p></li></ul>",
+          "value": "<p>Рыцарь излучает мощное присутствие. В начале каждого своего хода рыцарь выбирает один из следующих вариантов присутствия; выбранный вариант действует до начала его следующего хода.</p><ul><li><p><strong>Воодушевляющее присутствие.</strong> Каждое дружественное существо, начинающее ход в пределах 15 футов от рыцаря, получает преимущество на первый бросок атаки, совершённый до окончания этого эффекта.</p></li><li><p><strong>Защитное присутствие.</strong> Враждебные существа совершают броски атаки по дружественным существам в пределах 5 футов от рыцаря с помехой.</p></li><li><p><strong>Непоколебимое присутствие.</strong> Каждое дружественное существо в пределах 15 футов от рыцаря получает сопротивление состояниям &Reference[charmed]{очарован} и &Reference[frightened]{испуган}.</p></li></ul>",
           "source": {}
         },
         "identifier": {},

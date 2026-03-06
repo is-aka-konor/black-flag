@@ -264,7 +264,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While not flying, the wyvern is vulnerable to the grappled, prone, and restrained conditions.</p>",
+          "value": "<p>Пока виверна не летит, она уязвима к состояниям «схвачен», «сбит с ног» и «опутан».</p>",
           "source": {
             "fallback": "Black Flag Reference Letter"
           }
@@ -442,7 +442,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wyvern makes one Bite attack and one Stinger attack. While flying, it can replace one attack with a Claws attack.</p>",
+          "value": "<p>Виверна совершает одну атаку «Укус» и одну атаку «Жало». Находясь в полёте, она может заменить одну из этих атак на атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -578,7 +578,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature moves into a space within 15 feet of the [[lookup @name lowercase]], it can whip its tail at the creature. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{ничком}.</p>",
+          "value": "<p>Когда существо входит в пространство в пределах 15 футов от [[lookup @name lowercase]], тот может хлестнуть его хвостом. Цель должна преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1165,7 +1165,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 15 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save con 15 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}) на 1 минуту. Отравлённое существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
