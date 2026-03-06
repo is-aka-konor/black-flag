@@ -256,7 +256,7 @@
   },
   "items": [
     {
-      "name": "амфибия",
+      "name": "Амфибия",
       "type": "feature",
       "_id": "JEfTJZ1cmBJu3GkA",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -336,7 +336,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The sila can move through the space of any creature, regardless of size, and a creature of any size can move through a sila’s space. In addition, the sila can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>Сила может проходить через пространство любого существа независимо от размера, и существо любого размера может проходить через пространство силы. Кроме того, сила может проходить через пространство шириной всего 1 дюйм, не испытывая стеснения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -404,7 +404,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 21, it can hover while flying, can’t manipulate objects or attack, and it can pass through any space air can pass through without squeezing. In addition, it can enter and hide in any Tiny or larger container, such as a pouch, lamp, backpack, or barrel.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 21; он может парить в полёте, не может манипулировать предметами или атаковать и может проходить через любое пространство, через которое проходит воздух, не испытывая стеснения. Кроме того, он может входить и прятаться в любом контейнере Крошечного размера или больше, например в сумке, лампе, рюкзаке или бочке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -430,7 +430,7 @@
           "value": null
         }
       },
-      "name": "Туманность (только в форме облака)",
+      "name": "Туманное тело (только в форме облака)",
       "type": "feature",
       "_id": "oHgKgyb4HmOUAGR1",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -542,7 +542,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sila makes four Cold-Infused Jambiya or Water Burst attacks. If two Water Burst attacks hit one creature, the target must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the sila.</p>",
+          "value": "<p>Сила совершает четыре атаки «Ледяная джамбия» или «Водный взрыв». Если по одному существу попадают две атаки «Водный взрыв», цель должна преуспеть в [[/save format=long]] или быть отброшенной от силы на расстояние до 15 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -596,7 +596,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Холодная Джамбия",
+      "name": "Ледяная джамбия",
       "type": "weapon",
       "_id": "i8wAmN3kEvTIGj9o",
       "img": "icons/weapons/daggers/dagger-curved-blue.webp",
@@ -867,7 +867,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically creates one water-based Elemental of CR 5 or lower in an unoccupied space the djinni can see within 30 feet of it. The elemental acts as an ally of the [[lookup @name lowercase]], obeying its spoken commands. The elemental remains for 1 hour, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] dismisses it as a bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магическим образом создаёт одного водного Элементаля с ПО не выше 5 в незанятом пространстве в пределах 30 футов, которое видит. Элементаль действует как союзник [[lookup @name lowercase]] и подчиняется его устным приказам. Элементаль существует 1 час, пока [[lookup @name lowercase]] не погибнет или пока [[lookup @name lowercase]] не развеет его бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1031,7 +1031,7 @@
           "value": null
         }
       },
-      "name": "Путешествуйте на самолетах",
+      "name": "Сдвиг плана",
       "type": "feature",
       "_id": "sYblUJ0izsRExij2",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1145,7 +1145,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sila condenses the air or water around the head or eyes of up to two creatures it can see within 30 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[blinded]{ослеплён} until the end of its next turn.</p>",
+          "value": "<p>Сила сгущает воздух или воду вокруг головы или глаз не более чем двух существ в пределах 30 футов, которых видит. Каждая цель должна преуспеть в [[/save format=long]] или стать ослеплённой (&Reference[blinded]{ослеплён}) до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1272,7 +1272,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium cloud of thick mist that leaves droplets of water on everything it touches or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The [[lookup @name lowercase]] can’t use this bonus action to transform into its bipedal form while inside a Medium or smaller container.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в облако густого тумана Среднего размера, оставляющее капли воды на всём, чего касается, или обратно в свою двуногую форму. Его характеристики одинаковы в обеих формах. Любое носимое и переносимое им снаряжение преобразуется вместе с ним. При смерти он возвращается в двуногую форму. [[lookup @name lowercase]] не может этим бонусным действием вернуться в двуногую форму, находясь внутри контейнера Среднего или меньшего размера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1298,7 +1298,7 @@
           "value": null
         }
       },
-      "name": "Джинн Форма",
+      "name": "Форма силы",
       "type": "feature",
       "_id": "gOevIhwz6ORGQFcU",
       "img": "icons/magic/water/bubbles-air-water-light.webp",

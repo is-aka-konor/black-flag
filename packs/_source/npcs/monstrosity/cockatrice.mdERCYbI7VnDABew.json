@@ -675,7 +675,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or be &Reference[restrained]{опутан} as it begins to turn to stone. The creature must repeat the save at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 11 format=long]], иначе становится &Reference[restrained]{опутанной}, начиная обращаться в камень. Существо повторяет спасбросок в конце своего следующего хода. При успехе эффект заканчивается. При провале существо окаменевает на 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

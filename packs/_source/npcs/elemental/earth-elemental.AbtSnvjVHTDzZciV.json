@@ -338,7 +338,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 14 while in muddy, rocky, sandy, or stony terrain.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 14, пока он находится в грязной, каменистой, песчаной или скалистой местности.</p>",
           "source": {
             "fallback": "Black Flag Referernce Document"
           }
@@ -794,7 +794,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental makes three Slam attacks, or it makes two Lob Stone attacks. If two Slam or Lob Stone attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Элементаль совершает три атаки «Хлопок» или две атаки «Бросок камня». Если по одному существу попадают две атаки «Хлопок» или «Бросок камня», цель должна преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -997,7 +997,7 @@
         },
         "rarity": ""
       },
-      "name": "Лоб Стоун",
+      "name": "Бросок камня",
       "type": "weapon",
       "_id": "yCrAjn2d4b07cVQF",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -1124,7 +1124,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The earth elemental causes the ground on a point it can see within 30 feet of it to rumble and shake violently. Each creature within 10 feet of that point must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Элементаль земли заставляет почву в точке в пределах 30 футов, которую видит, содрогнуться и сильно вибрировать. Каждое существо в пределах 10 футов от этой точки должно преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

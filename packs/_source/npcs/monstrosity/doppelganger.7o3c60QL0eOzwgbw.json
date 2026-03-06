@@ -329,7 +329,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can mimic any Humanoid’s body and voice it has seen and heard nearly perfectly. A creature very familiar with the individual Humanoid the [[lookup @name lowercase]] is pretending to be can tell the [[lookup @name lowercase]] is an imitation with a successful [[/check insight 20 format=long]] check.</p>",
+          "value": "<p>[[lookup @name lowercase]] почти безупречно подражает телу и голосу любого Гуманоида, которого видел и слышал. Существо, очень хорошо знакомое с конкретным Гуманоидом, которого изображает [[lookup @name lowercase]], может распознать подделку, преуспев в [[/check insight 20 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -397,7 +397,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While reading a creature’s mind, the doppelganger has advantage on CHA checks against the creature, knows the creature’s current mood, and knows if the creature speaks a lie. In addition, the doppelganger has advantage on attack rolls against the creature.</p>",
+          "value": "<p>Пока доппельгангер читает мысли существа, он получает преимущество на проверки ХАР против этого существа, знает текущее настроение существа и понимает, лжет ли оно. Кроме того, доппельгангер получает преимущество на броски атаки против этого существа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -518,7 +518,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The doppelganger makes two Slam or Psychic Bolt attacks.</p>",
+          "value": "<p>Доппельгангер совершает две атаки: «Удар» или «Психический разряд».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -642,7 +642,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]  transforms into a Small or Medium Humanoid it has seen or back into its true form, which is Monstrosity. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>[[lookup @name lowercase]] превращается в виденного им Гуманоида Маленького или Среднего размера либо возвращается в истинную форму (Чудовище). Его характеристики, кроме размера и скорости, в обеих формах одинаковы. Носимое и переносимое снаряжение не превращается. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -773,7 +773,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically reads the surface thoughts—what is foremost in the mind at the moment—of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the [[lookup @name lowercase]] can continue reading the target’s thoughts until its concentration is broken (as if concentrating on a spell) or it uses Read Thoughts on a different target.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически читает поверхностные мысли - то, что в данный момент находится на первом плане сознания, - одного существа в пределах 60 футов. Эффект проходит сквозь преграды, но блокируется 3 футами дерева или земли, 2 футами камня, 2 дюймами металла или тонким листом свинца. Пока цель в пределах дистанции, [[lookup @name lowercase]] может продолжать читать ее мысли, пока не потеряет концентрацию (как при концентрации на заклинании) или пока не применит «Чтение мыслей» к другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

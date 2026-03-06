@@ -1,6 +1,6 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Паровой Мефит",
+  "name": "Паровой мефит",
   "type": "npc",
   "_id": "gWWEn9hsrNGlYi7Z",
   "img": "systems/black-flag-ru/artwork/tokens/mephit-steam.webp",
@@ -163,7 +163,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Паровой Мефит",
+    "name": "Паровой мефит",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -357,7 +357,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a [[/save format=long]] or be scalded for 1 minute. A scalded creature has disadvantage on weapon attack rolls and on ability checks that require manual dexterity. A scalded creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Когда мефит погибает, он взрывается облаком пара. Каждое существо в пределах 5 футов от мефита должно преуспеть в [[/save format=long]] или получить ошпаривание на 1 минуту. Ошпаренное существо имеет помеху на броски атаки оружием и на проверки характеристик, требующие точной ручной ловкости. Ошпаренное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -383,7 +383,7 @@
           "value": null
         }
       },
-      "name": "Смертельный взрыв",
+      "name": "Предсмертный взрыв",
       "type": "feature",
       "_id": "XIu7YHld245LdtDq",
       "img": "icons/magic/air/air-wave-gust-blue.webp",
@@ -428,7 +428,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless and hovering, it is indistinguishable from an ordinary cloud of steam.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным и парит, его невозможно отличить от обычного облака пара.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -771,7 +771,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit exhales superheated breath in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and suffers one level of &Reference[exhaustion]{exhaustion}. On a success, a creature takes half the damage and doesn’t suffer exhaustion. A creature can’t suffer more than two levels of exhaustion from a steam mephit’s Steam Breath, regardless of the number of times it fails the save or the number of steam mephits using Steam Breath against it.</p>",
+          "value": "<p>Мефит выдыхает перегретый пар 15-футовым конусом. Каждое существо в этой области должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и получает один уровень истощения (&Reference[exhaustion]{истощение}). При успехе существо получает половину урона и не получает истощение. Существо не может получить более двух уровней истощения от «Парового дыхания» парового мефита, сколько бы раз оно ни провалило спасбросок и сколько бы паровых мефитов ни использовали против него это действие.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -911,7 +911,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit casts the @UUID[Compendium.black-flag-ru.spells.Item.ZYLMA2g3OIC3ecTz]{blur} spell, requiring no material components and using WIS as the spellcasting ability.</p>",
+          "value": "<p>Мефит накладывает заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.ZYLMA2g3OIC3ecTz]{Размытие}</em>, не требуя материальных компонентов и используя МДР как базовую характеристику заклинаний.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1050,7 +1050,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Ваше тело становится размытым, смещающимся и колеблющимся для всех, кто может вас видеть. На время действия заклинания существа имеют помеху на броски атаки против вас. Атакующий иммунен к этому эффекту, если он не полагается на зрение, как при обостренном чувстве (keensense), или может видеть сквозь иллюзии, как при истинном зрении (truesight).</p>",
+          "value": "<p>Ваше тело становится размытым, смещающимся и дрожащим для всех, кто может вас видеть. На время действия заклинания существа совершают броски атаки по вам с помехой. Атакующий игнорирует этот эффект, если не полагается на зрение или способен видеть сквозь иллюзии, например при истинном зрении.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },

@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If at least four of the roper’s Grasping Tendrils aren’t grappling creatures, the roper has a climbing speed of 30 feet.</p>",
+          "value": "<p>Если как минимум четыре Цепких усика ропера не схватывают существ, скорость лазания ропера равна 30 футам.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal conical or spire-like cave formation, such as a stalagmite or stalactite.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его нельзя отличить от обычного конического или шпилеобразного пещерного образования, например сталагмита или сталактита.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -462,7 +462,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roper can have up to six Grasping Tendrils at a time. Each Grasping Tendril can be attacked (AC 20; 10 HP; vulnerable to thunder damage; immune to poison and psychic damage). Destroying a Grasping Tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A Grasping Tendril can also be broken if a creature takes an action and succeeds on a [[/check str 15 format=long]] against it.</p>",
+          "value": "<p>У ропера одновременно может быть до шести Цепких усиков. Каждый Цепкий усик можно атаковать (КД 20; 10 хитов; уязвимость к урону громом; иммунитет к яду и психическому урону). Уничтожение Цепкого усика не наносит роперу урона; на своем следующем ходу он может выпустить новый усик на замену. Цепкий усик также можно разорвать: существо тратит действие и преуспевает в [[/check str 15 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1036,7 +1036,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a Grasping Tendril that is grappling a creature is destroyed, the roper can quickly pull the remains of that tendril back to it with a whipping snap. Each creature within 10 feet of the roper must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Когда уничтожается Цепкий усик, который удерживает существо, ропер может резким щелчком быстро подтянуть остаток усика к себе. Каждое существо в пределах 10 футов от ропера должно преуспеть в [[/save format=long]] или оказаться &Reference[prone]{сбитым с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1361,7 +1361,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15). Until the grapple ends, the target is &Reference[restrained]{опутан} and has disadvantage on STR checks and STR saves, and the roper can’t use the same Grasping Tendril on another target. A creature immune to the poisoned condition doesn’t have disadvantage on STR checks and STR saves from the tendril.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (СЛ высвобождения 15). Пока захват не окончится, цель является &Reference[restrained]{опутанной}, имеет помеху на проверки СИЛ и спасброски СИЛ, а ропер не может использовать этот же Цепкий усик на другой цели. Существо с иммунитетом к состоянию «отравлен» не получает помеху на проверки и спасброски СИЛ от этого усика.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -864,7 +864,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wraith targets one Humanoid it can see within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target’s spirit rises as a <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.REeq8PgajdfxsKGs]{specter}</strong> in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith’s control. The wraith can have no more than seven specters under its control at one time.</p>",
+          "value": "<p>Призрачный дух выбирает одного Гуманоида, которого видит в пределах 10 футов, умершего насильственной смертью не более 1 минуты назад. Дух цели поднимается как <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.REeq8PgajdfxsKGs]{призрак}</strong> в пространстве тела или в ближайшем незанятом пространстве. Этот призрак находится под контролем духа. Дух может одновременно контролировать не более семи призраков.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1032,7 +1032,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wraith moves up to 30 feet in a straight line. This distance is not reduced by moving through creatures or objects, and this movement doesn’t provoke opportunity attacks. The first time it enters a creature’s space during this move, that creature must succeed on a [[/save format=long]] or be afflicted with wasting doom. While afflicted with wasting doom, a creature takes [[/damage average]] damage at the start of each of its turns. Wasting doom ends if a creature starts its turn in sunlight or regains HP.</p>",
+          "value": "<p>Дух перемещается по прямой на расстояние до 30 футов. Это перемещение не уменьшается при прохождении через существ и объекты и не провоцирует атаки по возможности. Когда дух впервые входит в пространство существа во время этого перемещения, существо должно преуспеть в [[/save format=long]], иначе получает «чахнущую погибель». Пока действует «чахнущая погибель», существо получает [[/damage average]] урона в начале каждого своего хода. Эффект заканчивается, если существо начинает свой ход под солнечным светом или восстанавливает хиты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1163,7 +1163,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the wraith can see within 30 feet of it and that isn’t a Construct or Undead regains HP, the wraith can corrupt the healing energies, halving the amount of healing that creature receives.</p>",
+          "value": "<p>Когда существо в пределах 30 футов, которое дух видит и которое не является Конструктом или Нежитью, восстанавливает хиты, дух может осквернить исцеляющую энергию, уменьшив величину этого исцеления вдвое.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1390,7 +1390,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 15 format=long]] or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Цель должна преуспеть в [[/save con 15 format=long]], иначе максимум ее хитов уменьшается на величину полученного урона. Это уменьшение длится, пока цель не завершит продолжительный отдых. Цель умирает, если из-за этого эффекта максимум ее хитов снижается до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

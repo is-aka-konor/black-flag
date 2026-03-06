@@ -752,7 +752,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the specter takes damage from a creature it can see within 30 feet of it, the specter can shriek with the fury of its tormented existence. That creature must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn.</p>",
+          "value": "<p>Когда призрак получает урон от существа, которое видит в пределах 30 футов, он может издать пронзительный крик, полный ярости своей мучительной нежизни. Это существо должно преуспеть в [[/save format=long]] или стать &Reference[frightened]{испуганным} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -980,7 +980,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 12 format=long]] or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Цель должна преуспеть в [[/save con 12 format=long]], иначе максимум ее хитов уменьшается на величину полученного урона. Это уменьшение длится, пока цель не завершит продолжительный отдых. Цель умирает, если из-за эффекта максимум ее хитов снижается до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of exhaustion from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе и сне. Кроме того, каждые 24 часа он должен выпивать не менее 80 унций крови (примерно половину крови в теле Гуманоида Среднего размера), иначе теряет иммунитет к истощению и начинает голодать, пока не насытится. Пока у него есть уровни истощения от голода, вампир не может снижать их, пока не выпьет минимум 160 унций крови.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -471,7 +471,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has a coffin, grave, sarcophagus, or similar location just large enough for it to lie down designated as its resting place. While in its resting place, the [[lookup @name lowercase]] doesn’t suffer exhaustion levels from starvation and has keensense out to a range of 120 feet.</p>",
+          "value": "<p>У [[lookup @name lowercase]] есть место отдыха - гроб, могила, саркофаг или подобное укрытие, достаточно большое, чтобы лечь. Пока [[lookup @name lowercase]] находится в месте отдыха, он не получает уровни истощения от голода и обладает острым чутьем в радиусе 120 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -924,7 +924,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire calls to the blood within one injured creature it can see within 10 feet of it, causing blood to pour from the creature’s wounds. If the target doesn’t have all its HP, it must make a [[/save format=long]], losing [[/healing 2d6 average]] on a failed save, or losing half as much HP on a successful one. Before the end of its next turn, the vampire has advantage on the next attack roll it makes against a creature that failed the save.</p>",
+          "value": "<p>Вампир взывает к крови внутри одного раненого существа, которое видит в пределах 10 футов, заставляя кровь хлестать из ран. Если у цели не все хиты, она должна совершить [[/save format=long]]: при провале теряет [[/healing 2d6 average]] хитов, при успехе - половину этой величины. До конца следующего хода вампир получает преимущество на следующий бросок атаки по существу, провалившему этот спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1263,7 +1263,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire has the following flaws:</p><ul><li><p>@Embed[.Activity.JzE8AyylzgWCI8ae activate inline]{Forbiddance}</p></li><li><p>@Embed[.Activity.6eC1vSiVDvxMmxNL activate inline]{Harmed by Running Water}</p></li><li><p>@Embed[.Activity.0XtDu2kazEXaLeSX activate inline]{Stake to the Heart}</p></li><li><p>@Embed[.Activity.OEMqQu5lIPfW7tVV activate inline]{Sunlight Hypersensitivity}</p></li></ul>",
+          "value": "<p>У вампира есть следующие слабости:</p><ul><li><p>@Embed[.Activity.JzE8AyylzgWCI8ae activate inline]{Запрет}</p></li><li><p>@Embed[.Activity.6eC1vSiVDvxMmxNL activate inline]{Вред от проточной воды}</p></li><li><p>@Embed[.Activity.0XtDu2kazEXaLeSX activate inline]{Кол в сердце}</p></li><li><p>@Embed[.Activity.OEMqQu5lIPfW7tVV activate inline]{Гиперчувствительность к солнечному свету}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1618,7 +1618,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. [[/damage average]]. The target’s HP maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains HP equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0. A Humanoid slain in this way and then fed at least one drop of the vampire’s blood rises the following night as a @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{vampire spawn} under the vampire’s control.</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 фт., одно согласное существо либо существо, схваченное вампиром, недееспособное или опутанное. [[/damage average]]. Максимум хитов цели уменьшается на величину полученного некротического урона, а вампир восстанавливает столько же хитов. Уменьшение длится, пока цель не завершит продолжительный отдых. Цель умирает, если из-за этого эффекта максимум ее хитов снижается до 0. Гуманоид, убитый таким образом и затем накормленный хотя бы одной каплей крови вампира, следующей ночью поднимается как @UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{вампирское отродье} под контролем вампира.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

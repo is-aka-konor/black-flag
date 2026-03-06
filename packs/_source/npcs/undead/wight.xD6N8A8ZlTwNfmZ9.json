@@ -277,7 +277,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+          "value": "<p>Проклепанная кожаная броня изготавливается из прочной, но гибкой кожи, усиленной частыми заклепками или шипами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -348,7 +348,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A manufactured weapon, such as a sword or bow, deals one extra die of its damage when the wight hits with it (included in the attack).</p>",
+          "value": "<p>Когда умертвие попадает изготовленным оружием (например, мечом или луком), это оружие наносит на одну кость урона больше (уже учтено в атаке).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -726,7 +726,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wight makes two Longsword or Longbow attacks. It can replace one attack with a Life Drain attack.</p>",
+          "value": "<p>Умертвие совершает две атаки «Длинный меч» или «Длинный лук». Одну атаку оно может заменить атакой «Похищение жизни».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -879,7 +879,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], либо [[/damage versatile average]], если оружие используется двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1356,7 +1356,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wight commands up to five friendly <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.JRZWv6AegnprZ1n4]{skeletons}</strong> or <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{zombies}</strong> to do one of the following:</p><ul><li><p>@Embed[.Activity.T0uokxFUJRzzi8e3 activate inline]{Protect}</p></li><li><p>@Embed[.Activity.souDnqeY4RrQZQOC activate inline]{Overwhelm}</p></li><li><p>@Embed[.Activity.oW5oNMDlMvOgsVTN activate inline]{Shamble}</p></li></ul>",
+          "value": "<p>Умертвие приказывает до пяти дружественным <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.JRZWv6AegnprZ1n4]{скелетам}</strong> или <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{зомби}</strong> выполнить одно из следующих действий:</p><ul><li><p>@Embed[.Activity.T0uokxFUJRzzi8e3 activate inline]{Защита}</p></li><li><p>@Embed[.Activity.souDnqeY4RrQZQOC activate inline]{Сокрушение}</p></li><li><p>@Embed[.Activity.oW5oNMDlMvOgsVTN activate inline]{Шаркающий марш}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1583,7 +1583,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 13 format=long]] or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p><p>A Humanoid slain by this attack rises 24 hours later as a <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{zombie}</strong> under the wight’s control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Цель должна преуспеть в [[/save con 13 format=long]], иначе максимум ее хитов уменьшается на величину полученного урона. Это уменьшение длится, пока цель не завершит продолжительный отдых. Цель умирает, если из-за этого эффекта максимум ее хитов снижается до 0.</p><p>Гуманоид, убитый этой атакой, поднимается через 24 часа как <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{зомби}</strong> под контролем умертвия, если только Гуманоид не был возвращен к жизни или его тело не уничтожено. Умертвие не может одновременно контролировать более двенадцати зомби.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

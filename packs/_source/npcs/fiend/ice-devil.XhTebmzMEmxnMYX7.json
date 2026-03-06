@@ -1,6 +1,6 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Ледяной Дьявол",
+  "name": "Ледяной дьявол",
   "type": "npc",
   "_id": "XhTebmzMEmxnMYX7",
   "img": "systems/black-flag-ru/artwork/tokens/devil-ice.webp",
@@ -168,7 +168,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ледяной Дьявол",
+    "name": "Ледяной дьявол",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move across icy surfaces without needing to make an ability check. In addition, difficult terrain composed of ice or snow doesn’t cost it extra movement.</p>",
+          "value": "<p>[[lookup @name lowercase]] может перемещаться по ледяным поверхностям без проверки характеристики. Кроме того, труднопроходимая местность изо льда или снега не требует от него дополнительных затрат перемещения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -676,7 +676,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ice devil causes a wall of ice to magically rise from the ground at a point it can see within 60 feet of it. The wall is up to 30 feet long, 10 feet high, and 5 feet thick. It can be any shape, as long as its base is connected to the ground. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side (the devil’s choice). If a creature would be surrounded on all sides by the wall, it can make a [[/save format=long]]. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.</p><p>The wall lasts 1 minute, until the devil creates a new wall, or until the devil dies. Each 10-foot section of the wall has AC 5, 30 HP, is vulnerable to fire damage, and is immune to acid, cold, necrotic, poison, and psychic damage.</p>",
+          "value": "<p>Ледяной дьявол заставляет стену льда магически подняться из земли в точке в пределах 60 футов, которую видит. Стена может быть до 30 футов длиной, 10 футов высотой и 5 футов толщиной. Она может иметь любую форму, если её основание соприкасается с землёй. Если при появлении стена проходит через пространство существа, существо отталкивается в одну из сторон (по выбору дьявола). Если существо оказалось бы окружено стеной со всех сторон, оно может совершить [[/save format=long]]. При успехе оно может использовать реакцию, чтобы переместиться на расстояние до своей скорости и выйти из окружения.</p><p>Стена существует 1 минуту, пока дьявол не создаст новую стену или пока дьявол не погибнет. Каждый 10-футовый участок стены имеет КД 5, 30 хитов, уязвимость к урону огнём и иммунитет к урону кислотой, холодом, некротической энергией, ядом и психическому урону.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -803,7 +803,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] or a friendly creature it can see is hit by an attack, the devil can create a magical barrier of ice to disrupt the attack. The target halves the damage from the attack.</p>",
+          "value": "<p>Когда по [[lookup @name lowercase]] или дружественному существу, которое он видит, попадает атака, дьявол может создать магический барьер изо льда, ослабляющий удар. Цель получает только половину урона от этой атаки.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -829,7 +829,7 @@
           "value": null
         }
       },
-      "name": "Ледяной Щит",
+      "name": "Ледяной щит",
       "type": "feature",
       "_id": "YcrONRjlwYG4caou",
       "img": "icons/magic/water/barrier-ice-crystal-wall-faceted.webp",

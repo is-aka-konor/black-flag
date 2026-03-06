@@ -269,7 +269,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>",
+          "value": "<p>[[lookup @name lowercase]] видит на 60 футов в Эфирный план, находясь на Материальном плане, и наоборот.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -643,7 +643,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The phase spider makes one Barbed Legs attack and one Bite attack. It can replace one attack with a Phasing Web attack.</p>",
+          "value": "<p>Фазовый паук совершает одну атаку «Шипастые лапы» и одну атаку «Укус». Одну из этих атак он может заменить атакой «Фазирующая паутина».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -850,7 +850,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. <em>Hit</em>: The target is &Reference[restrained]{опутан} by webbing. While restrained in this way, the target can see and attack creatures on the Ethereal Plane, and the restrained target can be seen and attacked by creatures on the Ethereal Plane. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 12; HP 10; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
+          "value": "<p>[[/attack]]. <em>Попадание</em>: цель становится &Reference[restrained]{опутанной} паутиной. Пока цель опутана таким образом, она может видеть и атаковать существ на Эфирном плане, а существа на Эфирном плане могут видеть и атаковать её. Существо, включая саму опутанную цель, может действием освободить цель, преуспев в [[/check str 13 format=long]]. Паутину также можно атаковать и уничтожить (КД 12; хиты 10; уязвимость к урону огнём; иммунитет к дробящему, яду и психическому урону).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -994,7 +994,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically shifts from the Material Plane to the Ethereal Plane, or vice versa.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически смещается с Материального плана в Эфирный или обратно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1412,7 +1412,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлён} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна совершить [[/save con 13 format=long]], получая [[/damage 3d8 poison average]] урона ядом при провале или половину при успехе. Если этот урон ядом снижает хиты цели до 0, цель стабилизируется, но остается &Reference[poisoned]{отравленной} на 1 час даже после восстановления хитов и является &Reference[paralyzed]{парализованной}, пока отравлена таким образом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

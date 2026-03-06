@@ -535,7 +535,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy makes two Rotting Fist attacks. If both attacks hit one creature that isn’t a Construct or Undead, the target must succeed on a [[/save format=long]] or be cursed with mummy rot (see the Mummy Rot sidebar in the Biography tab).</p>",
+          "value": "<p>Мумия совершает две атаки «Гниющий кулак». Если обе атаки попадают по одному существу, не являющемуся Конструктом или Нежитью, цель должна преуспеть в [[/save format=long]], иначе получает проклятие «гниль мумии» (см. раздел «Гниль мумии» во вкладке биографии).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -686,7 +686,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Mummies, and to a lesser extent their remains, can spread a unique, disease-like curse called mummy rot that slowly rots the flesh of those cursed. A creature has a 50 percent chance ([[/r d100cs&lt;51]]) to become cursed with mummy rot for each minute it spends exposed to the remains of a mummy or to the remains of a creature that died while cursed by mummy rot. A creature normally immune to disease is immune to mummy rot, but spells and effects that combat diseases, such as the restoration spell, have no effect on mummy rot.</p><p>The flesh of a creature cursed with mummy rot slowly deteriorates, rotting off in flakes at first then whole chunks as the curse progresses. While cursed, a creature can’t regain HP, and at the end of each long rest, it must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). If the curse reduces the creature’s HP maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{remove curse} spell or similar magic.</p><p><em>Note: Inline links are available above to roll a percentile dice and HP Max decrease. When rolling the percentile dice, a result of 1 represents a failed roll. A roll of 0 represents a successful roll.</em></p>",
+          "value": "<p>Мумии, а в меньшей степени и их останки, могут распространять уникальное проклятие, похожее на болезнь, - «гниль мумии», которое медленно разлагает плоть проклятых. За каждую минуту контакта с останками мумии или с останками существа, умершего под этим проклятием, существо имеет 50% шанс ([[/r d100cs&lt;51]]) получить «гниль мумии». Существо, обычно иммунное к болезням, также иммунно к «гнили мумии», но заклинания и эффекты, лечащие болезни (например, «Восстановление»), на нее не действуют.</p><p>Плоть проклятого существа постепенно распадается: сначала осыпается хлопьями, затем целыми кусками. Пока действует проклятие, существо не может восстанавливать хиты, а в конце каждого продолжительного отдыха должно преуспеть в [[/save format=long]], иначе максимум его хитов уменьшается на 7 ([[/r 2d6]]). Если максимум хитов снижается до 0, существо умирает, а его тело обращается в прах. Проклятие длится, пока не будет снято заклинанием @UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{Снятие проклятия} или схожей магией.</p><p><em>Примечание: выше доступны встроенные ссылки для броска процентной кости и уменьшения максимума хитов. При броске процентной кости результат 1 означает провал, а 0 - успех.</em></p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -821,7 +821,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target fails the save by 5 or more, it is also &Reference[paralyzed]{парализован} for the same duration.</p>",
+          "value": "<p>[[lookup @name lowercase]] впивается взглядом в одно существо, которое видит в пределах 60 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода. Если цель провалила спасбросок на 5 и более, на тот же срок она также становится &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

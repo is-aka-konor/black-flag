@@ -140,7 +140,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>This gaunt, gray humanoid wears rags and smells strongly of rotting flesh. It flicks a long tongue out of its mouth, sensing for its next warm meal.</em></p><p>Ghouls amass in nightmarish packs to scour the world for the flesh of the dead. Though capable hunters, most ghoul packs raid cemeteries and ancient crypts to feast on putrefied flesh. Forever starving for their next meal, ghouls never decay nor age and may prowl the long-forgotten mausoleums of dead civilizations for thousands of years, searching for their next morsel of flesh.</p><p><strong>Abyssal Creator.</strong> A demon lord with dominion over undead laid waste to a mortal army and saw fit to experiment on the abundance of corpses. Thus were made the first ghouls. The demon lord crafted these ghouls to be undead shock troops smart enough to follow orders but not enough to question them.</p><p><strong>Bestial Nature.</strong> Contributing to their mental diminishment, ghouls have a never-ending desire to eat flesh. They carry none of their concerns from their former lives, so their clothes are reduced to rags. The animalistic ghouls hunt in packs, sniffing the air for prey and running on their forelimbs and legs when chasing down their victims. They also proudly embrace the nauseating stench they emanate after they consume and revel in their kills.</p>",
+      "value": "<p><em>Этот тощий серокожий гуманоид в лохмотьях источает сильный запах гниющей плоти. Он высовывает длинный язык, вынюхивая следующую теплую добычу.</em></p><p>Гули собираются в кошмарные стаи и рыщут по миру в поисках мертвой плоти. Хотя они способны охотиться, большинство стай разоряет кладбища и древние крипты, пожирая разложившиеся останки. Вечно голодные, гули не стареют и не разлагаются дальше и могут тысячелетиями бродить по забытым мавзолеям мертвых цивилизаций в поисках нового куска плоти.</p><p><strong>Создатель Бездны.</strong> Повелитель демонов, властвовавший над нежитью, уничтожил смертную армию и решил поэкспериментировать с обилием трупов. Так появились первые гули. Этот демон создал их как ударные отряды нежити: достаточно сообразительные, чтобы выполнять приказы, но недостаточно умные, чтобы задавать вопросы.</p><p><strong>Звериная природа.</strong> Их умственное оскудение усиливается бесконечной жаждой плоти. Гули не сохраняют забот прежней жизни, поэтому их одежда превращается в лохмотья. Эти звероподобные создания охотятся стаями, вынюхивают добычу и при погоне несутся на передних и задних конечностях. Они не стыдятся отвратительной вони после трапезы и упиваются своими убийствами.</p>",
       "legendary": ""
     },
     "description": {
@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A disease spread by ghouls, <em>ghoul hunger</em> instills a despicable hunger for Humanoid flesh in the creature suffering it. Until the disease is cured, the infected creature is poisoned. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save constitution 13]] save or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. If the infected creature fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. Only a wish spell or similarly powerful magic can reverse the transformation. A creature that succeeds on two saves recovers from the disease.</p>",
+          "value": "<p>Болезнь, распространяемая гулями, <em>гулий голод</em> внушает зараженному существу омерзительный голод к плоти Гуманоидов. Пока болезнь не излечена, зараженное существо является отравленным. Этот эффект можно подавить на 1 час, если зараженное существо съест любое количество плоти Гуманоида. Каждые 12 часов зараженное существо должно преуспеть в спасброске Телосложения [[/save constitution 13]], иначе максимум его хитов уменьшается на 7 ([[/r 2d6]]). Если во время болезни существо ело плоть Гуманоида, этот спасбросок совершается с помехой. Уменьшение действует, пока существо не завершит продолжительный отдых после излечения болезни. Существо умирает, если из-за эффекта максимум его хитов снижается до 0. Если зараженное существо дважды проваливает этот спасбросок или умирает во время болезни, оно превращается в гуля, а при БМ +4 или выше - в вурдалака, в ходе мучительного превращения, разрывающего плоть. Обратить такое превращение может только заклинание «Исполнение желаний» или схожая по силе магия. Существо, дважды успешно прошедшее спасбросок, выздоравливает.</p>",
           "source": {}
         },
         "identifier": {},
@@ -324,7 +324,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ghoul doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of exhaustion from starvation, the ghoul can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
+          "value": "<p>Гуль не нуждается в воздухе и сне. Кроме того, каждые 24 часа он должен съедать не менее 2 фунтов сырого мяса, иначе теряет иммунитет к истощению и начинает голодать, пока не поест. Пока у него есть уровни истощения от голода, гуль не может снижать их, пока не съест минимум 4 фунта сырого мяса.</p>",
           "source": {}
         },
         "identifier": {},
@@ -923,7 +923,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature other than an elf, Construct, or Undead, it must succeed on a [[/save constitution 13]] save or be paralyzed for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, кроме эльфа, Конструкта или Нежити, она должна преуспеть в спасброске Телосложения [[/save constitution 13]] или быть парализованной на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе.</p>",
           "source": {}
         },
         "identifier": {

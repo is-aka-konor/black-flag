@@ -143,7 +143,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>Brimstone permeates the air around this hulking canine. The beast’s claws are curved daggers, its eyes shine with a burning radiance, and flames curl out of its fanged mouth.</em></p><p>Hellhounds are fiends punished by their kin and forcibly transformed into the shape of a beast. They roam the infernal realms in cruel packs or serve whatever masters they hope will restore them to original forms.</p><p><strong>Infernal Guardians.</strong> Hellhounds are often encountered near sites important to evil creatures or demonic incursions. Greater demons give mortal supplicants the service of hellhounds as a reward, though it also helps the demon to watch over them.</p><p><strong>No Mere Beast.</strong> Despite their shape and other bestial instincts, hellhounds are still fiends, and they retain most of their intellect and cruel cunning. Opponents who expect them to act like hounds seldom discover their error before they are consumed. They prefer to fight in great numbers, and when they begin a hunt, very little dissuades them.</p>",
+      "value": "<p><em>Воздух вокруг этого массивного пса пропитан серным смрадом. Когти зверя похожи на изогнутые кинжалы, глаза сияют жгучим светом, а из клыкастой пасти вырываются языки пламени.</em></p><p>Адские гончие - исчадия, наказанные собственными сородичами и насильно превращённые в звериную форму. Они бродят по инфернальным пределам жестокими стаями или служат тем хозяевам, которые, как они надеются, вернут им первоначальный облик.</p><p><strong>Инфернальные стражи.</strong> Адских гончих часто встречают у мест, важных для злых существ или демонических вторжений. Старшие демоны нередко даруют смертным просителям службу адских гончих в качестве награды - и заодно используют это, чтобы присматривать за ними.</p><p><strong>Не просто зверь.</strong> Несмотря на облик и звериные инстинкты, адские гончие остаются исчадиями и сохраняют большую часть своего ума и жестокой хитрости. Противники, ожидающие от них поведения обычных псов, обычно осознают ошибку слишком поздно. Они предпочитают сражаться большими стаями, и, начав охоту, почти ничто не может их остановить.</p>",
       "legendary": ""
     },
     "description": {
@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hound can pinpoint, by scent, the location of Medium and smaller creatures within 30 feet of it.</p>",
+          "value": "<p>Гончая может по запаху точно определять местоположение существ Среднего размера и меньше в пределах 30 футов от себя.</p>",
           "source": {}
         },
         "identifier": {},

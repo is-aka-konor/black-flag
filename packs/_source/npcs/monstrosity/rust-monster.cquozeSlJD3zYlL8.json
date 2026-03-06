@@ -131,7 +131,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A strange, insectile creature skitters forward on four legs. It waves two large, feathery antennae about in a questing manner.</em></p><p>As its name implies, this odd creature can rust ferrous metals, allowing it to eat the oxidized results. The rust monster roams caves and tunnels seeking out such metals. When it finds it, the creature aggressively rushes to devour the meal. Because rust monsters have a basic, animalistic intelligence, an adventurer can save their sword or shield by distracting the creature with another source of metal.</p><p><strong>Armored Shell.</strong> A rust monster is about the size of a large dog. It has an insectile appearance, with armored plates like an exoskeleton. It has segmented legs but, unlike an insect, only four of them. It has a thin, whip-like tail that thrashes when the creature is agitated or catches the scent of metals.</p><p><strong>Color Matches Diet.</strong> The coloration of its hide varies depending on its diet. A rust monster whose diet includes large amounts of mithral would have a silvery sheen to its hide, for example.</p>",
+      "value": "<p><em>Странное насекомоподобное существо, перебирая четырьмя лапами, суетливо подкрадывается ближе и водит в воздухе двумя большими перистыми усиками, словно что-то выискивая.</em></p><p>Как и следует из названия, это существо способно разъедать железосодержащие металлы ржавчиной и питаться окисленными остатками. Ржавоед бродит по пещерам и туннелям в поисках такого металла и, учуяв его, яростно бросается к «добыче». Из-за примитивного звериного ума авантюристы иногда могут спасти меч или щит, отвлекая ржавоеда другим куском металла.</p><p><strong>Бронированный панцирь.</strong> Ржавоед размером примерно с крупную собаку. По виду он напоминает насекомое с пластинами панциря, похожими на экзоскелет. Его лапы сегментированы, но, в отличие от насекомых, их всего четыре. Тонкий хвост-хлыст беспокойно хлещет, когда существо раздражено или чует металл.</p><p><strong>Окрас по рациону.</strong> Цвет панциря зависит от того, чем ржавоед питается. Например, ржавоед, часто поедающий мифрил, может иметь серебристый отлив.</p>",
       "legendary": ""
     },
     "description": {
@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.</p>",
+          "value": "<p>[[lookup @name lowercase]] по запаху точно определяет местоположение железосодержащего металла в пределах 30 футов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -435,7 +435,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.</p>",
+          "value": "<p>Любое немагическое оружие из металла, попавшее по ржавнику, корродирует. После нанесения урона оружие получает постоянный накопительный штраф -1 к броскам урона. Когда штраф достигает -5, оружие разрушается. Немагические металлические боеприпасы, попавшие по ржавнику, разрушаются после нанесения урона.</p>",
           "source": {}
         },
         "identifier": {},
@@ -622,7 +622,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn’t being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a [[/save dexterity 11]] save to avoid the rust monster’s touch.</p><p>If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.</p>",
+          "value": "<p>Ржавник разъедает один видимый немагический объект из железосодержащего металла в пределах 5 футов. Если объект не носят и не держат, касание уничтожает куб со стороной 1 фут. Если объект носят или держат, существо может совершить [[/save dexterity 11]], чтобы избежать касания ржавника.</p><p>Если затронутый объект - металлический доспех или металлический щит, который носят или держат, он получает постоянный накопительный штраф -1 к предоставляемому КД. Доспех, чей КД снижен до 10, или щит, чей бонус снижен до +0, разрушается. Если затронутый объект - удерживаемое металлическое оружие, оно ржавеет, как описано в свойстве «Ржавчина металла».</p>",
           "source": {}
         },
         "identifier": {},

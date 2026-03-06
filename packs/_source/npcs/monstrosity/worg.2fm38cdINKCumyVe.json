@@ -138,7 +138,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A canine as large as a horse bears down, its oily muzzle caked in blood and saliva. Its thick, heavy shoulders and massive neck sway side to side, and with each step, its long, mangy tail drags along behind it.</em></p><p>An enormous creature resembling a wolf, worgs are nightmarish hunters with a taste for humanoid flesh. They willingly stalk inhospitable terrain in their endless hunt for their next meal, roaming snow fields, volcanic barrens, even stony badlands. Known to collect grisly bounties and to coat their bodies with fetid remains, worgs are more ferocious than any natural beast.</p><p><strong>Warren Dweller.</strong> Worgs often shelter in warrens, tunnels, and caves in which they can travel quickly to prey and away from predators. Such places are fetid, vile places full of half-eaten corpses that the worg seems to have gorged itself on without consequence.</p><p><strong>Willing Mounts.</strong> While many beasts of burden must be trained to hold a rider, worgs tend to willingly carry goblins, who share a great number of similarities to the worg, and use the smaller creatures to find more bountiful humanoid prey. Possessing surprising intelligence, worgs have learned to speak Goblin as well as their own guttural language. On rare occasions, worgs have even learned to speak and understand Common or Elvish.</p>",
+      "value": "<p><em>На вас несётся огромный, как лошадь, пёс. Его маслянистая морда измазана кровью и слюной, тяжёлые плечи и массивная шея раскачиваются из стороны в сторону, а длинный облезлый хвост волочится по земле.</em></p><p>Ворг - исполинское создание, напоминающее волка, кошмарный охотник с тягой к плоти гуманоидов. В непрерывной погоне за новой добычей ворги готовы выслеживать жертв в самых суровых землях: на снежных пустошах, в вулканических бесплодных регионах и даже среди каменистых пустошей. Известные своей жестокостью, ворги нередко покрывают тела смрадными останками, выглядя ещё страшнее любых обычных зверей.</p><p><strong>Обитатели нор.</strong> Часто ворги селятся в норах, туннелях и пещерах, из которых удобно быстро выскакивать на добычу и так же быстро скрываться от более опасных хищников. Такие логова - зловонные, мерзкие места, заваленные полуобглоданными трупами.</p><p><strong>Охотничьи ездовые звери.</strong> В отличие от обычных вьючных животных, которых приходится долго обучать всаднику, ворги часто добровольно позволяют гоблинам ездить верхом: у этих существ немало общих черт, и вместе им проще находить богатую добычу среди гуманоидов. Благодаря неожиданно высокому уму ворги научились использовать маленьких всадников в собственных целях.</p>",
       "legendary": ""
     },
     "description": {
@@ -335,7 +335,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The worg unleashes an unnatural howl audible out to a distance of 300 feet. Each creature of the worg’s choice within 30 feet of it must succeed on a [[/save]] save or be frightened of it for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Until it finishes a long rest, the worg can sense the direction but not the exact location of each creature that was frightened by Loathsome Howl.</p>",
+          "value": "<p>Ворг издает неестественный вой, слышимый на расстоянии до 300 футов. Каждое существо по выбору ворга в пределах 30 футов должно преуспеть в [[/save]], иначе становится &Reference[frightened]{испуганным} им на 1 минуту. Испуганное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Пока ворг не завершит продолжительный отдых, он чувствует направление, но не точное местоположение каждого существа, испуганного «Отвратительным воем».</p>",
           "source": {}
         },
         "identifier": {},
@@ -649,7 +649,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 13]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, она должна преуспеть в [[/save strength 13]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {}
         },
         "identifier": {

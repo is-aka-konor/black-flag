@@ -807,7 +807,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The nightmare increases the intensity of the heat on its hooves. Until the start of its next turn, it leaves burning hoofprints in any surface through which it walks, creating a trail of fire in its wake. A creature that enters a space with burning hoofprints for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] or take [[/damage average]] damage. The hoofprints stop burning at the start of the nightmare’s next turn.</p>",
+          "value": "<p>Кошмар усиливает жар своих копыт. До начала следующего хода он оставляет горящие следы копыт на любой поверхности, по которой проходит, создавая за собой огненный след. Существо, которое впервые за ход входит в клетку с горящими следами или начинает там ход, должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона. Следы перестают гореть в начале следующего хода кошмара.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1021,7 +1021,7 @@
         },
         "rarity": ""
       },
-      "name": "Пылающее Копыто",
+      "name": "Пылающее копыто",
       "type": "weapon",
       "_id": "hJNYbMbmpiCdgGrN",
       "img": "icons/magic/fire/blast-jet-stream-splash.webp",

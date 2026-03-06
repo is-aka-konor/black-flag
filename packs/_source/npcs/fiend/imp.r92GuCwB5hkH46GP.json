@@ -900,7 +900,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона (тип урона зависит от основной атаки звериной формы, например «Кусать»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1164,7 +1164,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 12 format=long]], taking [[/damage 3d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна совершить [[/save con 12 format=long]], получая [[/damage 3d6 poison average]] урона при провале или половину этого урона при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1214,7 +1214,7 @@
         },
         "rarity": ""
       },
-      "name": "Стинг (только в истинной форме)",
+      "name": "Жало (только в истинной форме)",
       "type": "weapon",
       "_id": "hKyh7zWOMFFoVMGf",
       "img": "icons/commodities/biological/stinger-insect-grey.webp",

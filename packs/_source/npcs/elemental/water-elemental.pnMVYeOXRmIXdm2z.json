@@ -513,7 +513,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes cold damage, it partially freezes, and its speed is reduced by 20 feet until the end of its next turn.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает урон холодом, он частично замерзает, и его скорость уменьшается на 20 футов до конца его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -581,7 +581,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] sits in a body of slow-flowing or standing water, such as a spring, small creek, or lake, for at least 1 hour, the water becomes purified and rendered free of poison and disease. In slow-flowing water, this purification fades 1 hour after the [[lookup @name lowercase]] leaves the water. In standing water, this purification lasts until a contaminant enters the water while the elemental isn’t in it.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] проводит не менее 1 часа в водоёме со слабым течением или стоячей воде, например в роднике, небольшом ручье или озере, вода очищается от яда и болезней. В воде со слабым течением это очищение исчезает через 1 час после того, как [[lookup @name lowercase]] покидает воду. В стоячей воде очищение сохраняется, пока в водоём не попадёт загрязнение в то время, когда элементаля в нём нет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -649,7 +649,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>[[lookup @name lowercase]] может входить в пространство враждебного существа и останавливаться там. Он может проходить через пространство шириной всего 1 дюйм, не испытывая стеснения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -717,7 +717,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 17 while in a Medium or larger body of water.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 17, пока он находится в водоёме Среднего размера или больше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -743,7 +743,7 @@
           "value": null
         }
       },
-      "name": "Водный Камуфляж",
+      "name": "Водный камуфляж",
       "type": "feature",
       "_id": "7WPaKZUU5K1IKTaI",
       "img": "icons/magic/water/orb-water-bubbles-blue.webp",
@@ -838,7 +838,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The water elemental makes two Water Tendril or Water Bolt attacks. If both Water Tendril attacks hit one creature, it can use Whelm on the target, if available.</p>",
+          "value": "<p>Элементаль воды совершает две атаки «Водяной жгут» или «Водяной болт». Если обе атаки «Водяной жгут» попадают по одному существу, элементаль может использовать на этой цели «Поглощение», если это действие доступно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1230,7 +1230,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] envelops one creature it is grappling, and the grapple ends. While enveloped, the target is &Reference[restrained]{опутан}, unable to breathe unless it can breathe water, can’t be hit by the [[lookup @name lowercase]]'s Water Tendril, and it takes [[/damage average]] damage at the start of each of the [[lookup @name lowercase]]'s turns.</p><p>When the [[lookup @name lowercase]] moves, the enveloped creature moves with it. The [[lookup @name lowercase]] can have only one creature enveloped at a time. A creature within 5 feet of the [[lookup @name lowercase]], including the target, can take its action to free the target from the [[lookup @name lowercase]] by succeeding on a [[/check str 15 format=long]].</p>",
+          "value": "<p>[[lookup @name lowercase]] поглощает одно существо, которое удерживает захватом, после чего захват оканчивается. Пока цель поглощена, она опутана (&Reference[restrained]{опутан}), не может дышать, если только не умеет дышать под водой, по ней нельзя попасть «Водяным жгутом» [[lookup @name lowercase]], и она получает [[/damage average]] урона в начале каждого хода [[lookup @name lowercase]].</p><p>Когда [[lookup @name lowercase]] перемещается, поглощённое существо перемещается вместе с ним. [[lookup @name lowercase]] может одновременно поглотить только одно существо. Существо в пределах 5 футов от [[lookup @name lowercase]], включая саму цель, может действием освободить цель из объятий [[lookup @name lowercase]], преуспев в [[/check str 15 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1256,7 +1256,7 @@
           "value": null
         }
       },
-      "name": "Вельм",
+      "name": "Поглощение",
       "type": "feature",
       "_id": "iAMlCgiGbkpwlNAY",
       "img": "icons/magic/water/pseudopod-swirl-blue.webp",
@@ -1370,7 +1370,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] touches a willing creature that isn’t a Construct or Undead. The target is cured of the poisoned condition and of any disease afflicting it.</p>",
+          "value": "<p>[[lookup @name lowercase]] касается согласного существа, которое не является Конструктом или Нежитью. Цель исцеляется от состояния «отравлен» и от любой болезни, которой страдает.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1519,7 +1519,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15) if it is Large or smaller. The [[lookup @name lowercase]] can have up to three targets grappled at a time.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель становится схваченной (&Reference[grappled]{схвачен}) (Сл высвобождения 15), если она Большого размера или меньше. [[lookup @name lowercase]] может одновременно удерживать захватом до трёх целей.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1572,7 +1572,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Водяной усик",
+      "name": "Водяной жгут",
       "type": "weapon",
       "_id": "TQykGScVMfOpCZQo",
       "img": "icons/magic/water/wave-water-teal.webp",

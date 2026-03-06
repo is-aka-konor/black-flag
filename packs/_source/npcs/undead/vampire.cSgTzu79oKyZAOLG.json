@@ -270,7 +270,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of &Reference[exhaustion]{истощение} from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе и сне. Кроме того, каждые 24 часа он должен выпивать не менее 80 унций крови (примерно половину крови в теле Гуманоида Среднего размера), иначе теряет иммунитет к истощению и начинает голодать, пока не насытится. Пока у него есть уровни &Reference[exhaustion]{истощения} от голода, вампир не может снижать их, пока не выпьет минимум 160 унций крови.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -473,7 +473,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When it drops to 0 HP outside its resting place, the vampire transforms into a cloud of mist (as in the Mist Form bonus action) instead of falling unconscious, provided it isn’t in sunlight or running water. If it can’t transform, it is destroyed. While it has 0 HP in mist form, it can’t revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 HP. After spending 1 hour in its resting place with 0 HP, it regains 1 HP.</p>",
+          "value": "<p>Когда хиты вампира снижаются до 0 вне его места отдыха, он превращается в облако тумана (как при бонусном действии «Туманная форма») вместо потери сознания, если не находится на солнце или в проточной воде. Если он не может превратиться, то уничтожается. Имея 0 хитов в туманной форме, вампир не может вернуться в свою обычную форму и должен добраться до места отдыха за 2 часа, иначе будет уничтожен. Добравшись до места отдыха, он возвращается в форму вампира. После этого он &Reference[paralyzed]{парализован}, пока не восстановит как минимум 1 хит. Проведя 1 час в месте отдыха с 0 хитов, он восстанавливает 1 хит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -678,7 +678,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has a coffin, grave, sarcophagus, or similar location just large enough for it to lie down designated as its resting place. While in its resting place, the [[lookup @name lowercase]] doesn’t suffer exhaustion levels from starvation and has keensense out to a range of 120 feet.</p>",
+          "value": "<p>У [[lookup @name lowercase]] есть место отдыха - гроб, могила, саркофаг или подобное укрытие, достаточно большое, чтобы лечь. Пока [[lookup @name lowercase]] находится в месте отдыха, он не получает уровни истощения от голода и обладает острым чутьем в радиусе 120 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1017,7 +1017,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire has the following flaws:</p><ul><li><p>@Embed[.Activity.JzE8AyylzgWCI8ae activate inline]{Forbiddance}</p></li><li><p>@Embed[.Activity.6eC1vSiVDvxMmxNL activate inline]{Harmed by Running Water}</p></li><li><p>@Embed[.Activity.0XtDu2kazEXaLeSX activate inline]{Stake to the Heart}</p></li><li><p>@Embed[.Activity.OEMqQu5lIPfW7tVV activate inline]{Sunlight Hypersensitivity}</p></li></ul>",
+          "value": "<p>У вампира есть следующие слабости:</p><ul><li><p>@Embed[.Activity.JzE8AyylzgWCI8ae activate inline]{Запрет}</p></li><li><p>@Embed[.Activity.6eC1vSiVDvxMmxNL activate inline]{Вред от проточной воды}</p></li><li><p>@Embed[.Activity.0XtDu2kazEXaLeSX activate inline]{Кол в сердце}</p></li><li><p>@Embed[.Activity.OEMqQu5lIPfW7tVV activate inline]{Гиперчувствительность к солнечному свету}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1251,7 +1251,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire can use Charm. It then makes three Bite or Claw attacks. It can replace one attack with a Draining Bite attack. If two Claw attacks hit one Large or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 17).</p>",
+          "value": "<p>Вампир может использовать «Очарование». Затем он совершает три атаки «Укус» или «Когти». Одну атаку он может заменить атакой «Осушающий укус». Если две атаки «Когти» попадают по одному существу Большого размера или меньше, цель становится &Reference[grappled]{схваченной} (СЛ высвобождения 17).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1388,7 +1388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Humanoid the [[lookup @name lowercase]] can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &Reference[charmed]{очарован} for 1 day, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] takes a bonus action to end the effect. The charmed target obeys the [[lookup @name lowercase]]'s verbal commands and is a willing target for the [[lookup @name lowercase]]'s Draining Bite attack. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success.</p><p>The [[lookup @name lowercase]] can have up to two creatures charmed in this way at a time. If it charms a third, the effect on the first target ends.</p>",
+          "value": "<p>Один Гуманоид в пределах 30 футов, которого [[lookup @name lowercase]] видит, должен преуспеть в [[/save format=long]], иначе магически становится &Reference[charmed]{очарованным} на 1 день, пока [[lookup @name lowercase]] не погибнет или не завершит эффект бонусным действием. Очарованная цель подчиняется устным приказам [[lookup @name lowercase]] и считается согласной целью для его атаки «Осушающий укус». Если цель получает какой-либо урон или суицидальный приказ, она может повторить спасбросок, оканчивая эффект при успехе.</p><p>Одновременно [[lookup @name lowercase]] может удерживать очарованными не более двух существ. Если он очарует третье, эффект на первой цели заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1506,7 +1506,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically calls [[/r 2d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.J6WSA8wUKHVif124]{swarms of bats}</strong> or <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.fIIoyvy7gfJ5RkGo]{rats}</strong>, provided that the sun isn’t up. While outdoors, the [[lookup @name lowercase]] can call [[/r 3d6]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.Nx3vzPiXSysYOZSz]{wolves}</strong> instead. The called creatures arrive in [[/r 1d4]] rounds, acting as allies of the [[lookup @name lowercase]] and obeying its spoken commands. The Beasts remain for 1 hour, until the vampire dies, or until the [[lookup @name lowercase]] dismisses them as a bonus action. The [[lookup @name lowercase]] can have any number of such Beasts under its control at one time, provided the combined total CR of the Beasts is no higher than 4.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически призывает [[/r 2d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.J6WSA8wUKHVif124]{роев летучих мышей}</strong> или <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.fIIoyvy7gfJ5RkGo]{крыс}</strong>, если солнце не взошло. На открытой местности [[lookup @name lowercase]] может вместо этого призвать [[/r 3d6]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.Nx3vzPiXSysYOZSz]{волков}</strong>. Призванные существа прибывают через [[/r 1d4]] раундов, считаются союзниками [[lookup @name lowercase]] и выполняют его устные команды. Эти Звери остаются на 1 час, до смерти вампира либо пока [[lookup @name lowercase]] не отпустит их бонусным действием. [[lookup @name lowercase]] может одновременно контролировать любое число таких Зверей, если их суммарный ПО не превышает 4.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1633,7 +1633,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire transforms into a Tiny bat, Tiny rat, Medium wolf, or back into its true form, which is Undead. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing transforms with it, but anything it is carrying doesn’t transform with it. It reverts to its true form if it dies.</p>",
+          "value": "<p>Вампир превращается в летучую мышь Крошечного размера, крысу Крошечного размера, волка Среднего размера или возвращается в истинную форму (Нежить). Его характеристики, кроме размера и скорости, одинаковы во всех формах. Любое носимое снаряжение преобразуется вместе с ним, но переносимое в руках - нет. При смерти вампир возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1760,7 +1760,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] transforms into a Medium cloud of mist or back into its true form, which is Undead. While in mist form, it can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on STR, DEX, and CON saves, and it is immune to all nonmagical damage, except the damage it takes from sunlight.</p>",
+          "value": "<p>[[lookup @name lowercase]] превращается в облако тумана Среднего размера или возвращается в истинную форму (Нежить). В туманной форме он не может совершать действия, говорить или манипулировать предметами. Он невесом, имеет скорость полета 20 футов, может зависать и может входить в пространство враждебного существа и останавливаться там. Если через пространство может проходить воздух, через него проходит и туман без протискивания, но через воду он проходить не может. Он совершает спасброски СИЛ, ЛОВ и ТЕЛ с преимуществом и имеет иммунитет ко всему немагическому урону, кроме урона от солнечного света.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2014,7 +2014,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] uses Children of the Night.</p>",
+          "value": "<p>[[lookup @name lowercase]] использует «Дети ночи».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2221,7 +2221,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each creature within 15 feet of the [[lookup @name lowercase]] that doesn’t have all its HP must succeed on a [[/save format=long]] or lose [[/healing 4d6 average]] as its wounds bleed profusely. Before the end of its next turn, the [[lookup @name lowercase]] has advantage on the next attack roll it makes against a creature that failed this save.</p>",
+          "value": "<p>Каждое существо в пределах 15 футов от [[lookup @name lowercase]], у которого не все хиты, должно преуспеть в [[/save format=long]] или потерять [[/healing 4d6 average]], поскольку его раны начинают обильно кровоточить. До конца своего следующего хода [[lookup @name lowercase]] получает преимущество на следующий бросок атаки по существу, провалившему этот спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2764,7 +2764,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. [[/damage average]]. The target’s HP maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains HP equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0. A Humanoid slain in this way and then fed at least one drop of the vampire’s blood rises the following night as a <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{vampire spawn}</strong> under the vampire’s control.</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 фт., одно согласное существо либо существо, схваченное вампиром, недееспособное или опутанное. [[/damage average]]. Максимум хитов цели уменьшается на величину полученного некротического урона, а вампир восстанавливает столько же хитов. Уменьшение длится, пока цель не завершит продолжительный отдых. Цель умирает, если из-за этого эффекта максимум ее хитов снижается до 0. Гуманоид, убитый таким образом и затем накормленный хотя бы одной каплей крови вампира, следующей ночью поднимается как <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.v5UX9VNwR5y1mJmo]{вампирское отродье}</strong> под контролем вампира.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

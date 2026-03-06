@@ -2042,7 +2042,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] gazes at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} until the end of its next turn and cursed for 1 hour. While cursed, the target has disadvantage on WIS saves and on all ability checks.</p>",
+          "value": "<p>[[lookup @name lowercase]] смотрит на одно видимое существо в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[charmed]{очарованной} до конца своего следующего хода и проклятой на 1 час. Пока цель проклята, у нее помеха на спасброски МДР и на все проверки характеристик.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

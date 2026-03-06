@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the hag can see within 10 feet of it must succeed on a [[/save format=long]] or be filled with sorrow for 1 minute. While filled with sorrow, a creature is &Reference[incapacitated]{недееспособен} and experiences visions or memories of sorrowful events. The target can repeat the save at the end of each of its turns (if conscious) or end of each hour (if unconscious), ending the effect on itself on a success.</p><p>For each hour an &Reference[unconscious]{unconscious} creature is affected, its HP maximum is reduced by [[/damage average]]. This reduction lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} spell or similar magic. The creature dies if this effect reduces its HP maximum to 0. If an unconscious creature suffers from Cause Sorrow for at least 1 hour, it doesn’t gain any benefits from the rest.</p><p>The hag can have only one creature filled with sorrow at a time. If it uses Cause Sorrow on another, the effect on the previous creature ends.</p>",
+          "value": "<p>Одно существо в пределах 10 футов, которое ведьма видит, должно преуспеть в [[/save format=long]] или быть переполненным печалью на 1 минуту. Пока существо переполнено печалью, оно недееспособно (&Reference[incapacitated]{недееспособен}) и переживает видения или воспоминания о трагических событиях. Цель может повторять спасбросок в конце каждого своего хода (если в сознании) или в конце каждого часа (если без сознания), оканчивая эффект при успехе.</p><p>За каждый час, пока эффект действует на существо без сознания (&Reference[unconscious]{без сознания}), его максимум хитов уменьшается на [[/damage average]]. Это уменьшение длится до снятия заклинанием @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} или схожей магией. Существо погибает, если этим эффектом его максимум хитов снижается до 0. Если существо без сознания находится под действием «Навести печаль» не менее 1 часа, оно не получает преимуществ от отдыха.</p><p>Ведьма может одновременно держать в печали только одно существо. Если она использует «Навести печаль» на другое существо, эффект на предыдущей цели оканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -575,7 +575,7 @@
           "value": null
         }
       },
-      "name": "Причина печали",
+      "name": "Навести печаль",
       "type": "feature",
       "_id": "h2rV1LAjZaYwdBQX",
       "img": "icons/magic/control/fear-fright-white.webp",
@@ -1385,7 +1385,7 @@
     },
     {
       "folder": "HenBiWX7TrhP9By8",
-      "name": "Сдвиг самолета",
+      "name": "Сдвиг плана",
       "type": "spell",
       "_id": "93YuVOlYYV8yYnB0",
       "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",

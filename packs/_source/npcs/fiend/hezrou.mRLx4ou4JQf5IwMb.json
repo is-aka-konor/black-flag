@@ -261,7 +261,7 @@
   },
   "items": [
     {
-      "name": "амфибия",
+      "name": "Амфибия",
       "type": "feature",
       "_id": "1OxCvbIMXFXgussF",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -544,7 +544,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</p>",
+          "value": "<p>Прыжок в длину [[lookup @name lowercase]] составляет до 20 футов, а прыжок в высоту - до 10 футов, с разбега или без него.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -638,7 +638,7 @@
           "value": null
         }
       },
-      "name": "Поговорите с лягушками и жабами",
+      "name": "Разговор с лягушками и жабами",
       "type": "feature",
       "_id": "reVXQ1Q6WWEIjLYK",
       "img": "icons/creatures/amphibians/frog-confused-green-blue.webp",
@@ -752,7 +752,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]]  or be &Reference[poisoned]{отравлён} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
+          "value": "<p>Существо, начинающее свой ход в пределах 10 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или стать отравлённым (&Reference[poisoned]{отравлён}) до начала своего следующего хода. При успехе существо получает иммунитет к «Зловонию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Dolcument"
           }
@@ -778,7 +778,7 @@
           "value": null
         }
       },
-      "name": "вонь",
+      "name": "Зловоние",
       "type": "feature",
       "_id": "U9BCqSSl7gbDzAhN",
       "img": "icons/magic/air/fog-gas-smoke-swirling-green.webp",
@@ -873,7 +873,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The hezrou makes one Sticky Tongue attack, one Bite attack, and two Claw attacks.</p>",
+          "value": "<p>Хезру совершает одну атаку «Липкий язык», одну атаку «Кусать» и две атаки «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1000,7 +1000,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hezrou jumps horizontally up to 20 feet to an unoccupied space it can see without provoking opportunity attacks.</p>",
+          "value": "<p>Хезру прыгает по горизонтали на расстояние до 20 футов в незанятое пространство, которое видит, не провоцируя атак по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1576,7 +1576,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 16 format=long]] or be pulled up to 15 feet toward the hezrou.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save str 16 format=long]] или быть подтянутой к хезру на расстояние до 15 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

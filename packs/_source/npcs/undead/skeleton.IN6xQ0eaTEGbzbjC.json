@@ -140,7 +140,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>Half hidden in darkness, skeletal bones clad in rusted armor and rotten clothing lurch toward you. The thing’s bony hands grip a sword with malign intent.</em></p><p>Skeletons are fleshless undead that have been reconstructed and animated by fell magic. Soulless, emotionless, and driven by the whims of their master, the skeleton is an unshakable guardian. Skeletons can be found in desecrated temples, graveyards, and cemeteries where they can watch, completely motionless, for eons. New and masterful necromancers use skeletons as stalwart guards and servants, though they understand such creatures have no loyalty beyond the magic that controls them.</p><p><strong>Dark Intelligence.</strong> While lacking humanoid intelligence, skeletons possess a cleverness that extends beyond a mere beast or construct. Their malicious minds remember how to wield weapons and armor, and they collect and use weapons or shields taken from the recent dead. Skeletons look upon the living with eyeless sockets and unsettling patience as their instincts judge distances, tactics, and methods to separate a potential target’s flesh from their bones.</p><p><strong>Moldering Bodies.</strong> Though dried strands of tendon or wisps of stubborn hair may cling to a skeleton, magic alone is responsible for its movement. Piercing weapons and arrows may skip from the skeleton’s hardened bone, but heavy blows shatter them.</p>",
+      "value": "<p><em>Наполовину скрытый во тьме, скелет в проржавевших доспехах и сгнивших одеждах дергающимися шагами движется к вам. Его костлявые руки с зловещим намерением сжимают оружие.</em></p><p>Скелеты - это бесплотная нежить, собранная заново и оживленная темной магией. Без души, без эмоций и ведомые волей хозяина, они становятся неколебимыми стражами. Скелетов можно встретить в оскверненных храмах, усыпальницах и на кладбищах, где они способны неподвижно стоять целые эпохи. И начинающие, и искусные некроманты используют скелетов как стойких охранников и слуг, понимая, что их верность держится только на магическом контроле.</p><p><strong>Темная смекалка.</strong> Хотя скелетам недостает человеческого интеллекта, они сообразительнее зверя или простого конструкта. Их злобный рассудок помнит, как обращаться с оружием и доспехами, и они охотно подбирают щиты и оружие у недавно павших. Пустыми глазницами скелеты смотрят на живых с пугающим терпением, оценивая дистанции, тактику и способы отделить плоть цели от костей.</p><p><strong>Истлевшие тела.</strong> На костях скелета могут оставаться сухие жилы или редкие пряди волос, но движет им только магия. Колющее оружие и стрелы иногда соскальзывают с твердых костей, однако мощные удары дробят их.</p>",
       "legendary": ""
     },
     "description": {
@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless and prone, it is indistinguishable from an inanimate Humanoid skeleton.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен и лежит ничком, его невозможно отличить от безжизненного скелета Гуманоида.</p>",
           "source": {}
         },
         "identifier": {},
@@ -891,7 +891,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the skeleton can see hits it with an attack, the skeleton can make one Shortsword or Shortbow attack against the attacker.</p>",
+          "value": "<p>Когда существо, которое скелет видит, попадает по нему атакой, скелет может совершить одну атаку «Короткий меч» или «Короткий лук» по атакующему.</p>",
           "source": {}
         },
         "identifier": {},

@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided it has no creature grappled. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Анкхег плюется кислотой линией длиной 30 футов и шириной 5 футов, если никого не удерживает в захвате. Каждое существо в этой линии должно совершить [[/save format=long]], получая [[/damage average]] урона при провале или половину при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -624,7 +624,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ankheg quickly digs a small hole and stuffs one creature grappled by it into the hole, burying the creature and ending the grapple. A buried creature is &Reference[restrained]{опутан} and unable to breathe or stand up. A creature, including the buried creature, can take its action to free the buried creature by succeeding on a [[/check str 13 format=long]].</p>",
+          "value": "<p>Анкхег быстро выкапывает небольшую яму и запихивает туда одно существо, схваченное им, закапывая цель и оканчивая захват. Закопанное существо является &Reference[restrained]{опутанным}, не может дышать и не может встать. Существо, включая саму закопанную цель, может действием освободить ее, преуспев в [[/check str 13 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -791,7 +791,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Large or smaller creature, it is &Reference[grappled]{схвачен} (escape DC 13). Until this grapple ends, the ankheg can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо Большого размера или меньше, она становится &Reference[grappled]{схваченной} (СЛ высвобождения 13). Пока захват не окончится, анкхег не может кусать другую цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

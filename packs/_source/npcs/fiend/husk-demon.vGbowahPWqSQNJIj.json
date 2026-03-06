@@ -1,6 +1,6 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Шелуха Демона",
+  "name": "Демон-шелуха",
   "type": "npc",
   "_id": "vGbowahPWqSQNJIj",
   "img": "systems/black-flag-ru/artwork/tokens/husk-demon.webp",
@@ -150,7 +150,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>The formless pile of desiccated hide and broken scales slowly twists and writhes across the ground like a sheet of canvas in the wind. As it draws closer, a guttural syllabic echo drones in a psychic reverberation.</em></p><p>Life on abyssal planes isn’t easy, even for the demons native to it. Without regular trips to other planes, some lesser demons eventually wear away as the reality-bending chaos consumes them. What remains is known as a husk demon.</p><p><strong>Expunged.</strong> Drained by the chaos and endless fury, little remains of what these demons once were, save for rage and hunger. Husk demons seek to consume the souls of sentient creatures from other planes, a whisper of their demonic form promising relief in the pits of the Abyss, if only they can consume enough souls. These demons slurp at the bodies and souls of creatures, steadily leeching the vitality and thirst for life from victims. After a kill, many husk demons burn and mutilate their victim with a mark of their patron demon. Whether the husk demon recalls the meaning of the mark remains uncertain.</p><p><strong>Tied to the Past.</strong> Husk demons inhabit the ruins of demonic strongholds, ancient demonic prisons, or temples on the Material Plane dedicated to dead gods or infernal exiles. Such sites often contain lost relics and artifacts to which the demons shared a distant connection in life. Experienced scavengers and looters tend to avoid areas said to be inhabited by husk demons, believing the demons to be long-dead guardians pressed into service by the powerful objects themselves. Unfortunate explorers or travelers seeking shelter from the weather may accidentally wander into such places on the Material Plane and find themselves surrounded by these starving fiends.</p>",
+      "value": "<p><em>Бесформенная груда высохшей шкуры и сломанных чешуек медленно скручивается и извивается по земле, будто полотно, трепещущее на ветру. По мере приближения в сознании отдаётся глухое психическое эхо из утробных слогов.</em></p><p>Жизнь на планах Бездны тяжела даже для демонов, рождённых там. Без регулярных вылазок на иные планы некоторые младшие демоны постепенно истираются, пока искажающий реальность хаос не поглощает их полностью. То, что остаётся, называют демоном-шелухой.</p><p><strong>Вычеркнутые.</strong> Истощённые хаосом и бесконечной яростью, эти демоны почти полностью утратили прежнюю сущность; в них остались лишь гнев и голод. Демоны-шелухи стремятся пожирать души разумных существ с других планов, и призрачный отголосок их демонической природы обещает им избавление в бездонных ямах Бездны - если только они поглотят достаточно душ. Они жадно всасывают плоть и души жертв, медленно высасывая жизненную силу и жажду жить. После убийства многие демоны-шелухи сжигают и калечат труп жертвы, оставляя клеймо своего демонического покровителя. Помнит ли демон-шелуха смысл этого клейма - неизвестно.</p><p><strong>Связанные прошлым.</strong> Демоны-шелухи обитают в руинах демонических твердынь, древних демонических тюрем или храмов на Материальном плане, посвящённых мёртвым богам и инфернальным изгнанникам. В таких местах часто хранятся утраченные реликвии и артефакты, с которыми у демонов сохранилась отдалённая связь из прошлой жизни. Опытные мародёры и кладоискатели обычно обходят эти районы стороной, считая демонов-шелух давно погибшими стражами, принуждёнными служить самим могущественным предметам. Невезучие исследователи или путники, ищущие укрытие от непогоды, могут случайно забрести в такие места на Материальном плане и оказаться в окружении этих голодных исчадий.</p>",
       "legendary": ""
     },
     "description": {
@@ -162,7 +162,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Шелуха Демона",
+    "name": "Демон-шелуха",
     "displayName": 0,
     "actorLink": false,
     "appendNumber": false,
@@ -633,7 +633,7 @@
       "_key": "!actors.items!vGbowahPWqSQNJIj.w0mYqCEirHKKvCxN"
     },
     {
-      "name": "Кормление души",
+      "name": "Пожирание души",
       "type": "feature",
       "_id": "6UzOYqhSMxBkiOtX",
       "img": "icons/magic/death/projectile-skull-flaming-yellow.webp",
@@ -714,7 +714,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The husk demon feasts on the light in the soul of up to two creatures it can see within 20 feet of it, causing one of the following effects. Each target must succeed on a [[/save charisma 15]] save or suffer the chosen effect. A creature that fails the save against Soul Feed two rounds in a row suffers one level of exhaustion.</p><ul><li><p><strong>Happiness Feast.</strong> The husk demon feasts on the target’s happiness, causing the target to become crestfallen. The target has disadvantage on attack rolls until the end of its next turn.</p></li><li><p><strong>Hope Feast.</strong> The husk demon feasts on the target’s hope, causing the target to become despondent. The target has disadvantage on saves until the end of its next turn.</p></li><li><p><strong>Motivation Feast.</strong> The husk demon feasts on the target’s motivation, causing the target to lose its ambitions and become apathetic. The target’s speed is halved until the end of its next turn.</p></li></ul>",
+          "value": "<p>Демон-шелуха питается светом души не более чем двух существ в пределах 20 футов, которые видит, вызывая один из следующих эффектов. Каждая цель должна преуспеть в спасброске [[/save charisma 15]] или испытать выбранный эффект. Существо, два раунда подряд провалившее спасбросок против «Пожирания души», получает один уровень истощения.</p><ul><li><p><strong>Пир счастья.</strong> Демон-шелуха пожирает счастье цели, отчего та впадает в уныние. Цель имеет помеху на броски атаки до конца своего следующего хода.</p></li><li><p><strong>Пир надежды.</strong> Демон-шелуха пожирает надежду цели, отчего та становится подавленной. Цель имеет помеху на спасброски до конца своего следующего хода.</p></li><li><p><strong>Пир воли.</strong> Демон-шелуха пожирает волю цели, лишая её стремлений и делая апатичной. Скорость цели уменьшается вдвое до конца её следующего хода.</p></li></ul>",
           "source": {}
         },
         "identifier": {
@@ -764,7 +764,7 @@
       "_key": "!actors.items!vGbowahPWqSQNJIj.6UzOYqhSMxBkiOtX"
     },
     {
-      "name": "Утечка жизни",
+      "name": "Похищение жизни",
       "type": "weapon",
       "_id": "5OSQ5kt80NDgmGGO",
       "img": "icons/magic/death/hand-undead-skeleton-fire-green.webp",
@@ -875,7 +875,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the [[lookup @name lowercase]] regain HP equal to half the necrotic damage dealt. The target must succeed on a [[/save constitution 15]] save or its HP maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creatures finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и [[lookup @name lowercase]] восстанавливает хиты в количестве, равном половине нанесённого некротического урона. Цель должна преуспеть в спасброске [[/save constitution 15]], иначе её максимум хитов уменьшается на величину полученного некротического урона. Это уменьшение длится до завершения целью продолжительного отдыха. Цель погибает, если этим эффектом её максимум хитов снижается до 0.</p>",
           "source": {}
         },
         "identifier": {

@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the thrall has not consumed 1 ounce of blood from a vampire within the past week, it is poisoned for 1 week, and it loses darkvision and its Limited Regeneration, Spider Climb, and Sunlight Sensitivity traits until it consumes 1 ounce of vampire blood.</p>",
+          "value": "<p>Если раб не выпил 1 унцию крови вампира в течение последней недели, он становится отравленным на 1 неделю и теряет темное зрение, а также свойства «Ограниченная регенерация», «Паучье лазание» и «Чувствительность к солнечному свету», пока не выпьет 1 унцию вампирской крови.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -402,7 +402,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] regains [[/healing]] at the start of its turn if it has at least 1 HP and isn’t in sunlight. If the thrall takes radiant damage, this trait doesn’t function at the start of the thrall’s next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] восстанавливает [[/healing]] в начале своего хода, если у него как минимум 1 хит и он не находится под солнечным светом. Если раб получает урон излучением, это свойство не действует в начале его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -947,7 +947,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly vampire the thrall can see within 5 feet of it is hit by an attack that would reduce the vampire to 0 HP, the thrall can give some of its life force to save the vampire. The thrall loses [[/damage average]] HP, and the vampire regains HP equal to that amount.</p>",
+          "value": "<p>Когда дружественный вампир в пределах 5 футов, которого раб видит, получает атаку, способную снизить его хиты до 0, раб может отдать часть своей жизненной силы, чтобы спасти вампира. Раб теряет [[/damage average]] хитов, а вампир восстанавливает столько же хитов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

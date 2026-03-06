@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to &Reference[exhaustion]{истощение} and risks starvation until it does so. While it has any levels of exhaustion from starvation, the [[lookup @name lowercase]] can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
+          "value": "<p>[[lookup @name lowercase]] не нуждается в воздухе и сне. Кроме того, каждые 24 часа он должен съедать не менее 2 фунтов сырого мяса, иначе теряет иммунитет к &Reference[exhaustion]{истощению} и начинает голодать, пока не поест. Пока у него есть уровни истощения от голода, [[lookup @name lowercase]] не может снижать их, пока не съест минимум 4 фунта сырого мяса.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -469,7 +469,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 5 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
+          "value": "<p>Существо, начинающее ход в пределах 5 футов от [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или стать &Reference[poisoned]{отравленным} до начала своего следующего хода. При успехе существо получает иммунитет к «Вони» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Dolcument"
           }
@@ -537,7 +537,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] and any ghouls within 30 feet of it have advantage on saves against effects that turn undead.</p>",
+          "value": "<p>[[lookup @name lowercase]] и все гули в пределах 30 футов от него совершают спасброски против эффектов изгнания нежити с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -800,7 +800,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ghast makes one Bite attack and two Claws attacks. If one Bite attack and at least one Claws attack hit a creature that isn’t a Construct or Undead, the target must succeed on a [[/save format=long]] save or contract <em>ghoul hunger</em> (see the Ghoul Hunger above).</p>",
+          "value": "<p>Вурдалак совершает одну атаку «Укус» и две атаки «Когти». Если по существу, не являющемуся Конструктом или Нежитью, попадает укус и хотя бы одна атака когтями, цель должна преуспеть в [[/save format=long]], иначе заражается <em>гульим голодом</em> (см. «Гулий голод» выше).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -947,7 +947,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A disease spread by ghouls, ghoul hunger instills a hunger for Humanoid flesh in the creature suffering it, fully manifesting after [[/r 1d4]] hours. Once the disease is fully manifested, the infected creature is &Reference[poisoned]{отравлен} until the disease is cured. This effect can be suppressed for 1 hour if the infected creature consumes any amount of Humanoid flesh. Every 12 hours that elapse, the infected creature must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). The creature has disadvantage on this save if it consumed any amount of Humanoid flesh while diseased. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if this effect reduces its HP maximum to 0. A creature that succeeds on two of these saves recovers from the disease.</p><p>If an infected Humanoid fails two of these saves or dies while infected, it becomes a ghoul, or a ghast if its PB is +4 or higher, in a flesh-rending transformation. If the humanoid is a spellcaster with a PB +4 or higher, it has a 25 percent chance of transforming into a necrophage ghast instead. Only a wish spell or similarly powerful magic can reverse the transformation.</p>",
+          "value": "<p>Болезнь, распространяемая гулями, «гулий голод» вызывает у зараженного существа неутолимый голод к плоти Гуманоидов и полностью проявляется через [[/r 1d4]] часа. После полного проявления зараженное существо является &Reference[poisoned]{отравленным}, пока болезнь не будет излечена. Этот эффект можно подавить на 1 час, если зараженное существо съест любое количество плоти Гуманоида. Каждые 12 часов зараженное существо должно преуспеть в [[/save format=long]], иначе максимум его хитов уменьшается на 7 ([[/r 2d6]]). Если во время болезни существо ело плоть Гуманоида, этот спасбросок совершается с помехой. Уменьшение действует, пока существо не завершит продолжительный отдых после излечения болезни. Существо умирает, если из-за этого эффекта максимум его хитов снижается до 0. Существо, дважды успешно прошедшее этот спасбросок, выздоравливает.</p><p>Если зараженный Гуманоид дважды проваливает эти спасброски или умирает во время болезни, он превращается в гуля, а при БМ +4 или выше - в вурдалака, в ходе мучительного превращения, разрывающего плоть. Если это Гуманоид-заклинатель с БМ +4 или выше, у него есть 25% шанс превратиться в некрофага-вурдалака. Обратить такое превращение может только заклинание «Исполнение желаний» или схожая по силе магия.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -1348,7 +1348,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature that isn’t a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, не являющееся Конструктом или Нежитью, она должна преуспеть в [[/save con 13 format=long]] или стать &Reference[paralyzed]{парализованной} на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

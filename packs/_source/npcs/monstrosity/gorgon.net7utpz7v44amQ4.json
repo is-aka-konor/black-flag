@@ -454,7 +454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the gorgon moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the gorgon can make one Hooves attack against it as a bonus action.</p>",
+          "value": "<p>Если горгона перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Бодание», цель должна преуспеть в [[/save format=long]], иначе оказывается &Reference[prone]{сбитой с ног}. Если цель сбита с ног, горгона может бонусным действием совершить по ней одну атаку «Копыта».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -739,7 +739,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales poisonous, petrifying gas in a 30-foot cone. Each creature in the area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is &Reference[restrained]{опутан} as it begins to turn to stone. On a success, a creature takes half the damage and isn’t restrained. A restrained creature must repeat the save at the end of its next turn. On a success, the effect ends on the creature. On a failure, the creature is petrified until freed by the <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration}</em> spell or other magic.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает ядовитый окаменяющий газ 30-футовым конусом. Каждое существо в области совершает [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится &Reference[restrained]{опутанным}, начиная обращаться в камень. При успехе существо получает половину урона и не опутывается. Опутанное существо повторяет спасбросок в конце своего следующего хода. При успехе эффект на нем заканчивается. При провале существо окаменевает, пока не будет освобождено заклинанием <em>@UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{Высшее восстановление}</em> или иной магией.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -877,7 +877,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] is hit by an attack from a creature it can see within 10 feet of it, the [[lookup @name lowercase]] can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлён} until the end of its next turn.</p>",
+          "value": "<p>Когда по [[lookup @name lowercase]] попадает атака существа, которое он видит в пределах 10 футов, [[lookup @name lowercase]] может яростно фыркнуть, выпуская в это существо облачко ядовитого газа. Атакующий должен преуспеть в [[/save format=long]] или стать &Reference[poisoned]{отравленным} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

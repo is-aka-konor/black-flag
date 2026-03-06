@@ -146,7 +146,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A hateful crimson eye opens on the surface of the otherwise innocuous barrel. Then another eye opens, and another still. With startling speed, the barrel becomes a pseudopod-wielding horror, its toothy maw opening wide.</em></p><p>The dungeon delver’s bane, a mimic is a stealthy predator that transforms itself into an inanimate object, perfectly copying the appearance of wood or stone. It typically poses as furniture, doors, stairs, and the like. In its natural form, it resembles an amorphous blob with flesh-like protrusions resembling objects it previously copied.</p><p><strong>Deceptive Hunters.</strong> While not terribly intelligent, mimics are uncanny predators. They lurk in well trafficked areas of dungeons, wildernesses, or urban environments, assuming shapes intended to lure prey. They then use their sticky adhesive skin to trap their next meal.</p><p><strong>Taste Focused.</strong> Mimics are supremely patient, but they are obsessed with consuming prey to relish the taste, not necessarily to sate hunger. The taste buds of a mimic’s tongue are extremely sensitive, and they gather a great deal of information with every bite.</p>",
+      "value": "<p><em>На поверхности с виду безобидной бочки открывается налитый кровью глаз. Затем второй. И ещё один. В следующее мгновение бочка с пугающей скоростью превращается в чудовище с ложноножками и распахнутой зубастой пастью.</em></p><p>Проклятие каждого исследователя подземелий, мимик - скрытный хищник, способный превращаться в неодушевлённый предмет и идеально копировать фактуру дерева или камня. Чаще всего он притворяется мебелью, дверьми, ступенями и подобными вещами. В истинной форме мимик похож на аморфный ком с мясистыми выступами, напоминающими предметы, в которые он превращался ранее.</p><p><strong>Коварные охотники.</strong> Мимики не слишком умны, но чрезвычайно опасны как хищники. Они затаиваются в оживлённых местах подземелий, дикой местности или городов, принимая облик объектов, привлекающих жертву. Затем липкой клейкой кожей удерживают добычу и пожирают её.</p><p><strong>Одержимы вкусом.</strong> Мимики терпеливы до крайности, но движимы прежде всего не голодом, а страстью к вкусу добычи. Вкусовые рецепторы на языке мимика необычайно чувствительны, и с каждым укусом он получает массу сведений о жертве.</p>",
       "legendary": ""
     },
     "description": {
@@ -336,7 +336,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from a normal object.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его нельзя отличить от обычного предмета.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1013,7 +1013,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 5 ft., one grappled creature. [[/damage average]].</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 фт., одна схваченная цель. [[/damage average]].</p>",
           "source": {}
         },
         "identifier": {
@@ -1188,7 +1188,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the mimic is in object form, the target is subjected to its Adhesive trait.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если мимик находится в форме предмета, цель также подвергается действию его свойства «Клейкий».</p>",
           "source": {}
         },
         "identifier": {

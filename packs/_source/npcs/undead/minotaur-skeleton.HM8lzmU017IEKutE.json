@@ -350,7 +350,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 10 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage of the weapon’s type. If the target is a creature, it must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the skeleton and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 10 футов к цели и затем в том же ходу попадает по ней атакой «Бодание», цель получает дополнительный [[/damage average]] урона типа этого оружия. Если цель - существо, она должна преуспеть в [[/save format=long]], иначе отбрасывается на расстояние до 10 футов от скелета и оказывается &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -421,7 +421,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless and prone, it is indistinguishable from an inanimate minotaur skeleton.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] неподвижен и лежит ничком, его невозможно отличить от безжизненного скелета минотавра.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -486,7 +486,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on checks and saves to avoid becoming lost or to recall a path it has previously traveled.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает с преимуществом проверки и спасброски, чтобы не заблудиться или вспомнить уже пройденный путь.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -978,7 +978,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see hits it with a melee attack while within 5 feet of it, the [[lookup @name lowercase]] can make one Gore attack against the attacker.</p>",
+          "value": "<p>Когда существо в пределах 5 футов, которое [[lookup @name lowercase]] видит, попадает по нему рукопашной атакой, [[lookup @name lowercase]] может совершить одну атаку «Бодание» по атакующему.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

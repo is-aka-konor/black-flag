@@ -278,7 +278,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The will-o’-wisp can’t wear or carry anything. In addition, it adds its WIS modifier to its AC (included above).</p>",
+          "value": "<p>Блуждающий огонек не может носить или переносить предметы. Кроме того, он добавляет свой модификатор МДР к КД (уже учтено выше).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -490,7 +490,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The will-o’-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o’-wisp can alter the radius as a bonus action.</p>",
+          "value": "<p>Блуждающий огонек излучает яркий свет в радиусе от 5 до 20 футов и тусклый свет на дополнительное расстояние, равное выбранному радиусу. Огонек может изменять радиус бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -802,7 +802,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The will-o’-wisp makes two Shock attacks.</p>",
+          "value": "<p>Блуждающий огонек совершает две атаки «Шок».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -920,7 +920,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] and its light magically become invisible until it attacks or uses its Beckon, or until its concentration ends (as if concentrating on a spell).</p>",
+          "value": "<p>[[lookup @name lowercase]] и его свечение магически становятся невидимыми, пока он не атакует или не использует «Манить», либо пока не окончится его концентрация (как при концентрации на заклинании).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1056,7 +1056,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The will-o’-wisp pulses its lightly gently toward one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or use its reaction to move up to its speed toward the will-o’-wisp by the most direct route. It doesn’t avoid opportunity attacks or damaging terrain when moving.</p>",
+          "value": "<p>Блуждающий огонек мягко пульсирует светом, воздействуя на одно существо, которое видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]] или использовать реакцию, чтобы переместиться на расстояние до своей скорости к блуждающему огоньку по кратчайшему пути. При таком перемещении цель не избегает атак по возможности и опасной местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1197,7 +1197,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the will-o’-wisp can see within 15 feet of it is reduced to 0 HP, the will-o’-wisp can consume some of that creature’s fading life. The will-o’-wisp gains [[/healing temp average]], and the creature has disadvantage on the next death save it makes before the end of the wisp’s next turn.</p>",
+          "value": "<p>Когда существо в пределах 15 футов, которое блуждающий огонек видит, снижает хиты до 0, огонек может поглотить часть угасающей жизненной силы цели. Блуждающий огонек получает [[/healing temp average]] временных хитов, а цель совершает следующий спасбросок от смерти до конца следующего хода огонька с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

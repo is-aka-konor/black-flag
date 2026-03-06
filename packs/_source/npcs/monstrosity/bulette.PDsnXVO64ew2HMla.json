@@ -685,7 +685,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] leaps up to 30 feet, diving onto a point it can see or sense within that range and landing on its feet with a thunderous crash. It occupies a space of its choice within 5 feet of that point, and each creature within 10 feet of that point must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone. Any creature in the [[lookup @name lowercase]]'s space is then pushed into an unoccupied space within 5 feet of the [[lookup @name lowercase]]. If no unoccupied space is within range, the creature instead falls prone in the [[lookup @name lowercase]]'s space.</p>",
+          "value": "<p>[[lookup @name lowercase]] прыгает на расстояние до 30 футов, пикируя в видимую или ощущаемую точку в пределах этой дистанции, и с оглушительным грохотом приземляется на лапы. Он занимает выбранное им пространство в пределах 5 футов от этой точки, и каждое существо в пределах 10 футов от нее должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и оказывается &Reference[prone]{сбитым с ног}. При успехе существо получает половину урона и не сбивается с ног. Затем любое существо в пространстве [[lookup @name lowercase]] отталкивается в незанятое пространство в пределах 5 футов от него. Если такого пространства нет, существо падает ничком в пространстве [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -825,7 +825,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bulette looks and sniffs around for new prey, releasing a satisfied, guttural chirp when it settles on one. One creature the bulette can see or sense within 30 feet of it and that can see or hear the bulette must make a [[/save format=long]]. On a failure, the target is &Reference[frightened]{испуган} until the end of its next turn, and the bulette has advantage on the next attack roll it makes against the creature before the start of its next turn.</p>",
+          "value": "<p>Булет оглядывается и принюхивается в поисках новой добычи, издавая довольное гортанное стрекотание, когда выбирает цель. Одно существо, которое булет видит или чувствует в пределах 30 футов и которое видит или слышит булета, должно совершить [[/save format=long]]. При провале цель становится &Reference[frightened]{испуганной} до конца своего следующего хода, а булет получает преимущество на следующий бросок атаки по этой цели до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

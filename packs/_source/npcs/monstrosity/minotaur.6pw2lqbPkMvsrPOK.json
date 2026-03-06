@@ -346,7 +346,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 10 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage of the weapon’s type. If the target is a creature, it must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the minotaur and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 10 футов к цели, а затем в том же ходу попадает по ней атакой «Бодание», цель получает дополнительно [[/damage average]] урона того же типа, что и оружие. Если цель - существо, она должна преуспеть в [[/save format=long]], иначе её отбрасывает от минотавра на расстояние до 10 футов, и она становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The minotaur can perfectly recall any path it has traveled.</p>",
+          "value": "<p>Минотавр способен в точности вспомнить любой путь, по которому проходил.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -599,7 +599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</p>",
+          "value": "<p>В начале своего хода минотавр может получить преимущество на все броски рукопашных атак оружием до конца этого хода, но броски атаки по нему также совершаются с преимуществом до начала его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -788,7 +788,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The minotaur makes one Gore attack and one Greataxe attack.</p>",
+          "value": "<p>Минотавр совершает одну атаку «Бодание» и одну атаку «Секира».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1109,7 +1109,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The minotaur enters a frenzy until the start of its next turn. Until the frenzy ends, the minotaur deals an extra [[/damage average]] of the weapon’s type each time it hits with a melee weapon attack, and the minotaur takes an extra [[/damage average]]damage of the weapon’s type the first time it is hit with a melee weapon attack before the frenzy ends.</p>",
+          "value": "<p>Минотавр впадает в неистовство до начала своего следующего хода. Пока длится неистовство, каждый раз, когда минотавр попадает рукопашной атакой оружием, он наносит дополнительный [[/damage average]] урона того же типа, что и оружие. Впервые за это неистовство, когда по минотавру попадают рукопашной атакой оружием, он получает дополнительный [[/damage average]] урона того же типа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

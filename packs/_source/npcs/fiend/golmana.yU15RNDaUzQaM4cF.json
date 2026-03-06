@@ -673,7 +673,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golmana makes two Claws attacks and one Tail attack. If both Claws attacks hit a Medium or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 15). Until this grapple ends, the target is restrained, and the golmana can’t make Claws attacks against other targets.</p>",
+          "value": "<p>Гольмана совершает две атаки «Когти» и одну атаку «Хвост». Если обе атаки «Когти» попадают по существу Среднего размера или меньше, цель становится схваченной (&Reference[grappled]{схвачен}) (Сл высвобождения 15). Пока захват не окончится, цель опутана, а гольмана не может совершать атаки «Когти» по другим целям.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -851,7 +851,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golmana lets out a keening screech in a 30-foot cone. Each creature that isn’t a Fiend in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]]  damage, and it has disadvantage on the next attack roll it makes before the start of the golmana’s next turn, as brief contact with the energies of the Void destabilizes the creature. On a success, a creature takes half the damage and doesn’t suffer this disadvantage on its next attack roll.</p>",
+          "value": "<p>Гольмана издаёт пронзительный визг 30-футовым конусом. Каждое существо в этой области, не являющееся Исчадием, должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и получает помеху на следующий бросок атаки до начала следующего хода гольманы, поскольку краткий контакт с энергиями Пустоты дестабилизирует существо. При успехе существо получает половину урона и не получает этой помехи.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1009,7 +1009,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The golmana violently digs its small, torso claws into one creature it is grappling. The target must make a [[/save average]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. The golmana then regains HP equal to the damage dealt.</p>",
+          "value": "<p>Гольмана яростно вонзает свои малые грудные когти в одно существо, которое удерживает захватом. Цель должна совершить [[/save average]], получая [[/damage average]] урона при провале или половину этого урона при успехе. Затем гольмана восстанавливает хиты в количестве, равном нанесённому урону.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1035,7 +1035,7 @@
           "value": null
         }
       },
-      "name": "Потребление ренда",
+      "name": "Разрывающее пожирание",
       "type": "feature",
       "_id": "GRZyRRpLDInOWOB2",
       "img": "icons/magic/unholy/strike-beam-blood-large-red-gray.webp",

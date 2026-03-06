@@ -1,6 +1,6 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Магма Мефит",
+  "name": "Магмовый мефит",
   "type": "npc",
   "_id": "PuyGsCyCqiZnH2Zl",
   "img": "systems/black-flag-ru/artwork/tokens/mephit-magma.webp",
@@ -164,7 +164,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Магма Мефит",
+    "name": "Магмовый мефит",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -358,7 +358,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the mephit, knocked &Reference[prone]{сбит с ног}, and catch on fire. Until a creature takes an action to douse the fire, the creature on fire takes [[/damage 1d6 fire average]] damage at the start of each of its turns.</p>",
+          "value": "<p>Когда мефит погибает, он взрывается всплеском лавы. Каждое существо в пределах 5 футов от него должно преуспеть в [[/save format=long]] или быть отброшенным от мефита на расстояние до 10 футов, упасть ничком (&Reference[prone]{сбит с ног}) и загореться. Пока существо не потратит действие, чтобы потушить огонь, оно получает [[/damage 1d6 fire average]] урона в начале каждого своего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -384,7 +384,7 @@
           "value": null
         }
       },
-      "name": "Смертельный взрыв",
+      "name": "Предсмертный взрыв",
       "type": "feature",
       "_id": "Z2kTqDEsYs9jYNkG",
       "img": "icons/magic/light/explosion-star-glow-orange.webp",
@@ -429,7 +429,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from an ordinary mound of molten rock.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от обычной кучи расплавленного камня.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -595,7 +595,7 @@
         },
         "rarity": ""
       },
-      "name": "Лоб Магма",
+      "name": "Плевок магмой",
       "type": "weapon",
       "_id": "S5h67wX6e2AB5HJu",
       "img": "icons/magic/earth/projectiles-magma-stone-orange.webp",
@@ -735,7 +735,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit exhales an explosive blast of lava in a 15-foot cone. Each creature in the area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is pushed up to 10 feet away from the mephit and knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t pushed or knocked prone.</p>",
+          "value": "<p>Мефит выдыхает взрывной поток лавы 15-футовым конусом. Каждое существо в области должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона, отбрасывается от мефита на расстояние до 10 футов и падает ничком (&Reference[prone]{сбит с ног}). При успехе существо получает половину урона и не отбрасывается, а также не падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -875,7 +875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mephit casts the @UUID[Compendium.black-flag-ru.spells.Item.SgbFroBbEHc9wkLk]{color spray} spell (spell save DC 11), requiring no material components and using CHA as the spellcasting ability.</p>",
+          "value": "<p>Мефит накладывает заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.SgbFroBbEHc9wkLk]{Цветные брызги}</em> (Сл спасброска от заклинания 11), не требуя материальных компонентов и используя ХАР как базовую характеристику заклинаний.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -932,7 +932,7 @@
     },
     {
       "folder": "nRrXxMSYGyY4qKs3",
-      "name": "Цветной спрей",
+      "name": "Цветные брызги",
       "type": "spell",
       "_id": "SBag9d4N48x1xQUt",
       "img": "icons/magic/light/orbs-smoke-pink.webp",
@@ -1014,7 +1014,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Ослепительный массив вспыхивающего цветного света вырывается из вашей руки. Бросьте [[/r 8d10]] и сложите результат. Эта сумма — количество хитов существ, на которое может воздействовать это заклинание. Существа в 15-футовом конусе, исходящем от вас, подвергаются воздействию в порядке возрастания их текущих хитов (игнорируя существ без сознания и существ, которые не могут видеть). Начиная с существа с наименьшим количеством текущих хитов, каждое существо, затронутое этим заклинанием, &Reference[blinded] до окончания действия заклинания. Вычитайте текущие хиты каждого существа из общей суммы, прежде чем переходить к существу со следующим наименьшим количеством хитов. Хиты существа должны быть равны или меньше оставшейся суммы, чтобы это существо подверглось воздействию.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, бросайте дополнительно [[/r 2d10]] за каждый круг ячейки выше 1-го.</p>",
+          "value": "<p>Ослепительный массив вспыхивающего цветного света вырывается из вашей руки. Бросьте [[/r 8d10]] и сложите результат. Эта сумма — количество хитов существ, на которое может воздействовать это заклинание. Существа в 15-футовом конусе, исходящем от вас, подвергаются воздействию в порядке возрастания их текущих хитов (игнорируя существ без сознания и существ, которые не могут видеть). Начиная с существа с наименьшим количеством текущих хитов, каждое существо, затронутое этим заклинанием, &Reference[blinded]{ослеплён} до окончания действия заклинания. Вычитайте текущие хиты каждого существа из общей суммы, прежде чем переходить к существу со следующим наименьшим количеством хитов. Хиты существа должны быть равны или меньше оставшейся суммы, чтобы это существо подверглось воздействию.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 2-го круга или выше, бросайте дополнительно [[/r 2d10]] за каждый круг ячейки выше 1-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },

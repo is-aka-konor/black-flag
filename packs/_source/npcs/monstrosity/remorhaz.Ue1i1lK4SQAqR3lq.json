@@ -349,7 +349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that touches the [[lookup @name lowercase]] or hits it with a melee attack while within 5 feet of it takes [[/damage 2d6 fire average]] damage.</p>",
+          "value": "<p>Существо, коснувшееся [[lookup @name lowercase]] или попавшее по нему рукопашной атакой в пределах 5 футов, получает [[/damage 2d6 fire average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -534,7 +534,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can burrow through ice, snow, and permafrost, and it leaves a 5-foot-diameter tunnel in its wake.</p>",
+          "value": "<p>[[lookup @name lowercase]] может рыть ходы в льду, снегу и вечной мерзлоте, оставляя за собой туннель диаметром 5 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -673,7 +673,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>As the remorhaz’s life force ebbs, its body generates more heat to protect itself. The remorhaz can open valves in its carapace to vent this excess heat. Each creature within 5 feet of the remorhaz must succeed on a [[/save format=long]] or suffer one level of &Reference[exhaustion]{exhaustion}.</p>",
+          "value": "<p>Когда жизненная сила ремораза иссякает, его тело начинает выделять ещё больше тепла, защищая его. Ремораз может открыть отверстия в панцире и выпустить избыток жара. Каждое существо в пределах 5 футов от ремораза должно преуспеть в [[/save format=long]], иначе получает один уровень &Reference[exhaustion]{истощения}.</p>",
           "source": {
             "fallback": "Black Flag Reference Docuemnt"
           }
@@ -1086,7 +1086,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it must succeed on a [[/save dex 17 format=long]] or be swallowed by the remorhaz. A swallowed creature is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the remorhaz, and it takes [[/damage 3d6 acid average]] damage and [[/damage 3d6 fire average]] damage at the start of each of the remorhaz’s turns.</p><p>If the remorhaz takes 30 damage or more on a single turn from a swallowed creature, the remorhaz must succeed on a [[/save con 19 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{сбит с ног} in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо Среднего размера или меньше, она должна преуспеть в [[/save dex 17 format=long]], иначе будет проглочена реморазом. Проглоченное существо является &Reference[blinded]{ослеплённым} и &Reference[restrained]{опутанным}, имеет полное укрытие от атак и других эффектов вне ремораза и получает [[/damage 3d6 acid average]] урона кислотой и [[/damage 3d6 fire average]] урона огнём в начале каждого хода ремораза.</p><p>Если за один ход ремораз получает 30 или более урона от проглоченного существа, в конце этого хода ремораз должен преуспеть в [[/save con 19 format=long]], иначе изрыгивает всех проглоченных существ; они падают &Reference[prone]{сбитыми с ног} в пространстве в пределах 10 футов от ремораза. Если ремораз умирает, проглоченное существо больше не опутано им и может выбраться из трупа, потратив 15 футов перемещения, оказываясь сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

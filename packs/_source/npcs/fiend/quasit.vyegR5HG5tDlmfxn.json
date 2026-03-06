@@ -137,7 +137,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>This miniature fiend has horns jutting from its head, and its oversized bat ears almost rival the horns in length. It gazes with expressionless, black eyes.</em></p><p>Quasits take to mortal worlds to escape bullying from most other demons and to spread Abyssal destruction there by making themselves available as familiars to spellcasters. While serving as familiars, quasits goad their masters into vile acts. These acts often start small and simple, slowly escalating until the master has been fully corrupted by the quasit’s influence.</p><p><strong>Cowardly Shapechangers.</strong> Quasits rarely show their true forms, preferring instead to assume a shape suited for its current environment. The cowardly creatures also rely on their invisibility to escape destruction.</p>",
+      "value": "<p><em>У этого крошечного исчадия из головы торчат рога, а огромные уши, как у летучей мыши, почти не уступают им в длине. Оно смотрит неподвижными чёрными глазами без тени выражения.</em></p><p>Квазиты приходят в миры смертных, чтобы сбежать от притеснений со стороны большинства других демонов и сеять там разрушение Бездны, предлагая себя в фамильяры заклинателям. Служа фамильярами, квазиты подталкивают хозяев к гнусным поступкам. Обычно всё начинается с малого и простого, но постепенно заходит всё дальше, пока хозяин не оказывается полностью развращён влиянием квазита.</p><p><strong>Трусливые меняющие облик.</strong> Квазиты редко показывают истинную форму, предпочитая принимать облик, подходящий текущей обстановке. Эти трусливые существа также полагаются на невидимость, чтобы избежать уничтожения.</p>",
       "legendary": ""
     },
     "description": {
@@ -502,7 +502,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks, uses Scare, or uses Change Shape, or until its concentration ends (as if concentrating on a spell). Any equipment the [[lookup @name lowercase]] wears or carries is invisible with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически становится невидимым, пока не атакует, не использует «Испугать», не использует «Изменить форму» или пока не закончится его концентрация (как при концентрации на заклинании). Любое снаряжение, которое [[lookup @name lowercase]] носит или несёт, становится невидимым вместе с ним.</p>",
           "source": {}
         },
         "identifier": {},
@@ -756,7 +756,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature of the quasit’s choice within 20 feet of it must succeed on a [[/save wisdom 13]] save or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Одно существо по выбору квазита в пределах 20 футов от него должно преуспеть в спасброске [[/save wisdom 13]] или стать испуганным на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {}
         },
         "identifier": {},
@@ -895,7 +895,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save constitution 13]] save or take [[/damage 2d4 poison average]] damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в спасброске [[/save constitution 13]] или получить [[/damage 2d4 poison average]] урона и стать отравлённой на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {}
         },
         "identifier": {
@@ -1086,7 +1086,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (based on the type of damage dealt by the Beast form’s primary attack, such as Bite).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона (тип урона зависит от основной атаки звериной формы, например «Кусать»).</p>",
           "source": {}
         },
         "identifier": {

@@ -574,7 +574,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roc can swim up to 60 feet on its turn, but it must start and end its movement either flying or on a solid surface, such as a ship or beach. If it is swimming at the end of its turn, it must succeed on a [[/save format=long]] or it immediately begins to sink and suffocate. A suffocating roc must succeed on a [[/check str 19 format=long]] to fly out of the substance where it is sinking.</p>",
+          "value": "<p>Рух может проплыть в свой ход до 60 футов, но должен начинать и заканчивать перемещение либо в полете, либо на твердой поверхности, например на корабле или берегу. Если в конце своего хода рух находится в воде, он должен преуспеть в [[/save format=long]], иначе немедленно начинает тонуть и задыхаться. Задыхающийся рух должен преуспеть в [[/check str 19 format=long]], чтобы вырваться в полет из среды, в которой тонет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -695,7 +695,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roc makes one Beak attack and two Talon attacks. If both Talon attacks hit one Huge or Gargantuan creature, the target is &Reference[grappled]{схвачен} (escape DC 17). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the roc can’t use its Talons on another target.</p>",
+          "value": "<p>Рух совершает одну атаку «Клюв» и две атаки «Коготь». Если обе атаки «Коготь» попадают по одному существу Огромного или Громадного размера, цель становится &Reference[grappled]{схваченной} (СЛ высвобождения 17). Пока захват не окончится, цель является &Reference[restrained]{опутанной}, и рух не может использовать «Когти» против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -831,7 +831,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roc shrieks a territorial challenge at up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. While frightened by this shriek, a creature must take the &Reference[Dash] action on its turn and move away from the roc by the safest available route, unless there is nowhere to move.</p>",
+          "value": "<p>Рух издает территориальный визг, обращенный к максимум двум существам, которых видит в пределах 60 футов. Каждая цель должна преуспеть в [[/save format=long]] или стать &Reference[frightened]{испуганной} до конца своего следующего хода. Пока существо испугано этим визгом, в свой ход оно должно совершать действие &Reference[Dash]{Рывок} и удаляться от руха по наиболее безопасному маршруту, если есть куда двигаться.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1156,7 +1156,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 17) if it is a Large or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}, and the roc can’t use its Talons on another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель - существо Большого размера или меньше, она становится &Reference[grappled]{схваченной} (СЛ высвобождения 17). Пока захват не окончится, цель является &Reference[restrained]{опутанной}, и рух не может использовать «Когти» против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

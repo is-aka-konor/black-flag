@@ -554,7 +554,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The nalfeshnee magically emits scintillating, multicolored light that disorients and frightens mortals. Each creature that isn’t an Aberration, Celestial, or Fiend and that starts its turn within 15 feet of the nalfeshnee must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the start of its next turn. A creature that fails the save by 5 or more must take the &Reference[Dash] action on its turn and move away from the nalfeshnee by the safest available route, unless there is nowhere to move.</p>",
+          "value": "<p>Нальфешни магически испускает мерцающий разноцветный свет, дезориентирующий и устрашающий смертных. Каждое существо, которое не является Аберрацией, Небожителем или Исчадием и начинает свой ход в пределах 15 футов от нальфешни, должно преуспеть в [[/save format=long]] или стать испуганным (&Reference[frightened]{испуган}) до начала своего следующего хода. Существо, провалившее спасбросок на 5 или больше, должно в свой ход совершить действие &Reference[Dash]{Рывок} и удаляться от нальфешни по самому безопасному доступному маршруту, если есть куда двигаться.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -930,7 +930,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the nalfeshnee can see within 20 feet of it is reduced to 0 HP or dies, the nalfeshnee can move up to its speed toward the creature without provoking opportunity attacks then feast on the creature, if it moves to within 5 feet of the creature. The nalfeshnee regains HP equal to twice the creature’s CR or class level, and the creature has disadvantage on the next death save it makes, if it is making death saves.</p>",
+          "value": "<p>Когда существо в пределах 20 футов от нальфешни, которое он видит, падает до 0 хитов или погибает, нальфешни может переместиться к нему на расстояние до своей скорости, не провоцируя атак по возможности, а затем, если окажется в пределах 5 футов, начать пожирать его. Нальфешни восстанавливает хиты в количестве, равном удвоенному ПО существа или удвоенному уровню его класса, а само существо совершает следующий спасбросок от смерти с помехой, если оно вообще совершает спасброски от смерти.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -956,7 +956,7 @@
           "value": null
         }
       },
-      "name": "Внезапный праздник",
+      "name": "Внезапное пиршество",
       "type": "feature",
       "_id": "CEBybtvaHQOHNy9A",
       "img": "icons/skills/wounds/anatomy-organ-heart-red.webp",
@@ -1082,7 +1082,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If this attack hits a frightened creature, the nalfeshnee regains HP equal to half the damage dealt.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если эта атака попадает по испуганному существу, нальфешни восстанавливает хиты в количестве, равном половине нанесённого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1500,7 +1500,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 16 format=long]]or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save str 16 format=long]] или упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1550,7 +1550,7 @@
         },
         "rarity": ""
       },
-      "name": "Гор",
+      "name": "Таран",
       "type": "weapon",
       "_id": "2UKvlqhrouwVLrvQ",
       "img": "icons/creatures/mammals/bull-horns-eyes-glowin-orange.webp",

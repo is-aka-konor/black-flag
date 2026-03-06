@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chimera is perpetually one step away from arguing with itself. A creature that can see the chimera can use a bonus action on its turn to appeal to one of the chimera’s heads with bribes (dragon), praise (lion), displays of magic (goat), or other clever manipulation of a head’s desires. The chimera must succeed on a [[/save format=long]] or succumb to that desire.</p><p>If the lion or goat head succumbs, the chimera has disadvantage on the next Bite or Headbutt attack it makes before the end of its next turn. If the dragon head succumbs, creatures caught in the chimera’s next Fire Breath have advantage on the save, provided the chimera uses the breath within the next 1 minute. Once a head has succumbed to a desire, that head can’t succumb again for the next 24 hours.</p>",
+          "value": "<p>Химера постоянно в шаге от ссоры сама с собой. Существо, которое видит химеру, может бонусным действием в свой ход повлиять на одну из ее голов: подкупом (драконья), похвалой (львиная), демонстрацией магии (козлиная) или иной хитрой игрой на желаниях выбранной головы. Химера должна преуспеть в [[/save format=long]], иначе поддается этому желанию.</p><p>Если поддалась львиная или козлиная голова, химера получает помеху на следующую атаку «Укус» или «Бодание головой» до конца своего следующего хода. Если поддалась драконья голова, существа, попавшие под следующее «Огненное дыхание» химеры, получают преимущество на спасбросок, если дыхание используется в течение следующей 1 минуты. Поддавшись желанию, голова не может поддаться снова в течение следующих 24 часов.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }

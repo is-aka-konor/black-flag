@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can’t use its keensense while deafened.</p>",
+          "value": "<p>[[lookup @name lowercase]] не может использовать свое острое чутье, пока является &Reference[deafened]{оглохшим}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -478,7 +478,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that hits the [[lookup @name lowercase]] with a melee attack while within 5 feet of it takes [[/damage average]] damage.</p>",
+          "value": "<p>Существо, попавшее по [[lookup @name lowercase]] рукопашной атакой, находясь в пределах 5 футов от него, получает [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -733,7 +733,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While attached to a creature, the [[lookup @name lowercase]] swings its body to throw off the balance of the creature to which it is attached. The attached target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target fails the save and is already prone, it is &Reference[restrained]{опутан} while the [[lookup @name lowercase]] is attached to it, as the [[lookup @name lowercase]] pins it to the ground.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] прикреплен к существу, он раскачивает тело, сбивая равновесие цели. Прикрепленная цель должна преуспеть в [[/save format=long]] или оказаться &Reference[prone]{сбитой с ног}. Если цель провалила спасбросок и уже лежит ничком, она становится &Reference[restrained]{опутанной}, пока [[lookup @name lowercase]] прикреплен к ней, прижимая ее к земле.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -875,7 +875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A 15-foot radius of magical darkness extends out from the [[lookup @name lowercase]], moves with it, and spreads around corners. The darkness lasts as long as the [[lookup @name lowercase]] maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can’t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.</p>",
+          "value": "<p>Вокруг [[lookup @name lowercase]] распространяется область магической тьмы радиусом 15 футов; она перемещается вместе с ним и огибает углы. Тьма длится, пока [[lookup @name lowercase]] поддерживает концентрацию, максимум 10 минут (как при концентрации на заклинании). Темное зрение не проникает сквозь эту тьму, и никакой немагический свет не может ее осветить. Если часть этой тьмы перекрывается с областью света, созданной заклинанием 2-го круга или ниже, заклинание света рассеивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1184,7 +1184,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the [[lookup @name lowercase]] attaches to it. If the target is Medium or smaller and the [[lookup @name lowercase]] has advantage on the attack roll, the [[lookup @name lowercase]] attaches to the target’s head, and the target is &Reference[blinded]{ослеплён} and unable to breathe while the [[lookup @name lowercase]] is attached. While attached, the [[lookup @name lowercase]] can’t make Crush attacks, and at the start of each of the [[lookup @name lowercase]]'s turns, the target takes [[/damage average]].</p><p>The attached [[lookup @name lowercase]] moves with the target whenever the target moves, requiring none of the [[lookup @name lowercase]]'s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can take its action to detach the [[lookup @name lowercase]] by succeeding on a [[/check str 13 format=long]].</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и [[lookup @name lowercase]] прикрепляется к цели. Если цель Среднего размера или меньше и [[lookup @name lowercase]] имел преимущество на бросок атаки, он прикрепляется к голове цели; цель становится &Reference[blinded]{ослепленной} и не может дышать, пока [[lookup @name lowercase]] прикреплен. Пока он прикреплен, [[lookup @name lowercase]] не может совершать атаки «Раздавить», а в начале каждого хода [[lookup @name lowercase]] цель получает [[/damage average]].</p><p>Прикрепленный [[lookup @name lowercase]] перемещается вместе с целью, не тратя собственное перемещение. Он может отцепиться, потратив 5 футов перемещения в свой ход. Существо, включая саму цель, может действием отцепить [[lookup @name lowercase]], преуспев в [[/check str 13 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

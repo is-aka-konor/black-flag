@@ -458,7 +458,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The devil makes two Claw attacks and one Sting attack.</p>",
+          "value": "<p>Дьявол совершает две атаки «Коготь» и одну атаку «Жало».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -734,7 +734,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] shouts one of the following commands at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or obey the command. A lesser devil, such as a barbed devil or lemure, has disadvantage on this save.</p><ul><li><p>@Embed[.Activity.SWxkXOJeKFC2Tv8k activate inline]{Attack}</p></li><li><p>@Embed[.Activity.aKuGaSHOrUbxHNyC activate inline]{Beg for Mercy}</p></li><li><p>@Embed[.Activity.7U3dyRNLyXysv701 activate inline]{Flee}</p></li></ul>",
+          "value": "<p>[[lookup @name lowercase]] выкрикивает одну из следующих команд одному существу в пределах 30 футов, которое видит. Цель должна преуспеть в [[/save format=long]] или подчиниться команде. Младший дьявол, например колючий дьявол или лемура, совершает этот спасбросок с помехой.</p><ul><li><p>@Embed[.Activity.SWxkXOJeKFC2Tv8k activate inline]{Атакуй}</p></li><li><p>@Embed[.Activity.aKuGaSHOrUbxHNyC activate inline]{Моли о пощаде}</p></li><li><p>@Embed[.Activity.7U3dyRNLyXysv701 activate inline]{Беги}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -945,7 +945,7 @@
       "_key": "!actors.items!H6pAKPnTrxJfFJhi.ZhfEeqhV0iAIyj2w"
     },
     {
-      "name": "коготь",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "VGXjwM2rI1djshwD",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",
@@ -1307,7 +1307,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 15 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save con 15 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}) на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1360,7 +1360,7 @@
         "options": [],
         "rarity": ""
       },
-      "name": "Стинг",
+      "name": "Жало",
       "type": "weapon",
       "_id": "1sPR69B5rF0Vc0Ra",
       "img": "icons/creatures/abilities/stinger-poison-scorpion-brown.webp",

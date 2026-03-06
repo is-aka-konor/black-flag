@@ -264,7 +264,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>",
+          "value": "<p>[[lookup @name lowercase]] может входить в пространство враждебного существа и останавливаться там. Он может проходить через пространство шириной всего 1 дюйм, не испытывая стеснения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 20 while in clouds, fog, or windy weather.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 20, пока он находится в облаках, тумане или при ветреной погоде.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -704,7 +704,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental makes two Wind Lash or Lightning Bolt attacks.</p>",
+          "value": "<p>Элементаль совершает две атаки «Хлыст ветра» или «Молния».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -827,7 +827,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Ranged Weapon Attack</em>: [[/attack]] to hit, range [[lookup @labels.range]], one target. <em>Hit</em>: [[/damage average]] damage.</p>",
+          "value": "<p><em>Дальнобойная атака оружием</em>: [[/attack]] к попаданию, дистанция [[lookup @labels.range]], одна цель. <em>Попадание</em>: [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1078,7 +1078,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each creature in the [[lookup @name lowercase]]'s space must make a [[/save format=long]]. On a failure, a target takes [[/damage average]] damage and is flung up 20 feet away from the [[lookup @name lowercase]] in a random direction and knocked &Reference[prone]{сбит с ног}. If a thrown target strikes an object, such as a wall or floor, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save dex 13 format=long]] or take the same damage and be knocked &Reference[prone]{сбит с ног}.</p><p>If the save is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.</p>",
+          "value": "<p>Каждое существо в пространстве [[lookup @name lowercase]] должно совершить [[/save format=long]]. При провале цель получает [[/damage average]] урона, отбрасывается на 20 футов от [[lookup @name lowercase]] в случайном направлении и падает ничком (&Reference[prone]{сбит с ног}). Если отброшенная цель врезается в объект, например стену или пол, она получает [[/damage 1d6 bludgeoning average]] урона за каждые 10 футов, на которые была отброшена. Если цель влетает в другое существо, это существо должно преуспеть в [[/save dex 13 format=long]] или получить такой же урон и упасть ничком (&Reference[prone]{сбит с ног}).</p><p>При успешном спасброске цель получает половину дробящего урона и не отбрасывается, а также не падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1233,7 +1233,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see deals damage to it, the [[lookup @name lowercase]] can expel a crack of thunder and move up to 15 feet to an unoccupied space it can see. Each creature within 5 feet of the space the [[lookup @name lowercase]] left must succeed on a [[/save format=long]] or take [[/damage average]] damage.</p>",
+          "value": "<p>Когда существо, которое [[lookup @name lowercase]] видит, наносит ему урон, [[lookup @name lowercase]] может издать раскат грома и переместиться на расстояние до 15 футов в незанятое пространство, которое видит. Каждое существо в пределах 5 футов от пространства, которое покинул [[lookup @name lowercase]], должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

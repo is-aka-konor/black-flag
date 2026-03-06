@@ -399,7 +399,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rakshasa makes four Claw or Arcane Bolt attacks. It can replace one attack with a use of Spellcasting. If two Claw attacks hit one creature, the target is cursed. While cursed, the target gains no benefit from finishing a short or long rest. The curse lasts until removed by the remove curse spell or similar magic.</p>",
+          "value": "<p>Ракшаса совершает четыре атаки «Коготь» или «Чародейская стрела». Одну атаку он может заменить применением «Колдовства». Если две атаки «Коготь» попадают по одному существу, цель оказывается проклята. Пока действует проклятие, цель не получает преимуществ от завершения короткого или продолжительного отдыха. Проклятие длится, пока не будет снято заклинанием «Снятие проклятия» или схожей магией.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -534,7 +534,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] transports itself to a different plane of existence. This works like the <em>@UUID[Compendium.black-flag-ru.spells.Item.9C1ZtrdSaiyWefRx]{plane shift}</em> spell, except the [[lookup @name lowercase]] can affect only itself and can’t use this action to banish an unwilling creature.</p>",
+          "value": "<p>[[lookup @name lowercase]] переносит себя на другой план существования. Это действует как заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.9C1ZtrdSaiyWefRx]{plane shift}</em>, но [[lookup @name lowercase]] может воздействовать только на себя и не может этим действием изгнать несогласное существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -560,7 +560,7 @@
           "value": null
         }
       },
-      "name": "Путешествуйте на самолетах",
+      "name": "Сдвиг плана",
       "type": "feature",
       "_id": "RBJaChEIguzheTQe",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1528,7 +1528,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Это заклинание не действует на существ, иммунных к состоянию &quot;&Reference[charmed] очарованный&quot;. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет очарована вами на время действия заклинания. Если вы или существа, дружественные вам, сражаетесь с ней, она имеет преимущество на спасбросок. Пока существо очаровано, у вас есть телепатическая связь с ним, пока вы оба находитесь на одном плане существования. Вы можете использовать эту телепатическую связь, чтобы отдавать команды существу, пока вы в сознании (действие не требуется), которые оно выполняет наилучшим образом. Вы можете указать простой и общий курс действий, такой как «атакуй то существо», «беги туда» или «принеси тот предмет». Если существо выполняет приказ и не получает дальнейших указаний от вас, оно защищает и сохраняет себя наилучшим образом. Вы можете использовать свое действие, чтобы взять полный и точный контроль над целью. До конца вашего следующего хода существо предпринимает только те действия, которые вы выбираете, и не делает ничего, что вы ему не позволяете. В это время вы также можете заставить существо использовать реакцию, но это требует от вас использования вашей собственной реакции. Каждый раз, когда цель получает урон, она совершает новый спасбросок Мудрости против заклинания, прекращая заклинание при успехе.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 6-го круга, длительность составляет концентрация, до 10 минут. Когда вы используете ячейку заклинания 7-го круга, длительность составляет концентрация, до 1 часа. Когда вы используете ячейку заклинания 8-го круга или выше, длительность составляет концентрация, до 8 часов.</p>",
+          "value": "<p>Ракшаса пытается подчинить волю одного существа в пределах 60 футов, которое видит. Цель должна преуспеть в [[/save format=long]] или стать очарованной (&Reference[charmed]{очарован}) на 1 день. Очарованная цель считает ракшасу доверенным другом, которого нужно защищать. Если цель получает урон от ракшасы или его союзников, она может немедленно повторить спасбросок, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -1735,7 +1735,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rakshasa turns its gaze toward one creature it can see within 60 feet of it. If the target can see the rakshasa, the target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} for 1 minute. A charmed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The rakshasa can have up to three creatures charmed in this way at a time.</p>",
+          "value": "<p>Ракшаса устремляет взгляд на одно существо в пределах 60 футов, которое видит. Если цель видит ракшасу, она должна преуспеть в [[/save format=long]] или стать очарованной (&Reference[charmed]{очарован}) на 1 минуту. Очарованная цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе. Ракшаса может одновременно держать очарованными таким способом до трёх существ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1869,7 +1869,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and humanoid shape. The illusion ends if the [[lookup @name lowercase]] takes a bonus action to end it or if the [[lookup @name lowercase]] dies.</p><p>The changes wrought by this effect fail to hold up to physical inspection. For example, a creature touching the disguised [[lookup @name lowercase]] might feel its fur instead of Humanoid flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a [[/check investigation 25 format=long]] to discern that the [[lookup @name lowercase]] is disguised.</p>",
+          "value": "<p>[[lookup @name lowercase]] покрывает себя и всё, что носит или несёт, магической иллюзией, которая заставляет его выглядеть как другое существо сопоставимого размера и гуманоидной формы. Иллюзия заканчивается, если [[lookup @name lowercase]] тратит бонусное действие, чтобы прекратить её, или если [[lookup @name lowercase]] погибает.</p><p>Изменения, создаваемые этим эффектом, не выдерживают физической проверки. Например, существо, касающееся замаскированного [[lookup @name lowercase]], может нащупать мех вместо кожи Гуманоида. В остальном существо должно потратить действие на визуальный осмотр иллюзии и преуспеть в [[/check investigation 25 format=long]], чтобы распознать маскировку [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

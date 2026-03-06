@@ -661,7 +661,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Tattoos leap off the unska’s body and latch onto a creature the unska can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован}, disoriented, or &Reference[frightened]{испуган} (the unska’s choice) until the end of its next turn. When a disoriented creature moves, it moves in a random direction.</p>",
+          "value": "<p>Татуировки с тела унски срываются и цепляются за существо в пределах 30 футов, которое унска видит. Цель должна преуспеть в [[/save format=long]] или стать очарованной (&Reference[charmed]{очарован}), дезориентированной или испуганной (&Reference[frightened]{испуган}) (по выбору унски) до конца своего следующего хода. Когда дезориентированное существо перемещается, оно движется в случайном направлении.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -885,7 +885,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 14 format=long]], or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its HP maximum is reduced to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Цель должна преуспеть в [[/save con 14 format=long]], иначе её максимум хитов уменьшается на величину полученного урона. Это уменьшение длится до завершения целью продолжительного отдыха. Цель погибает, если её максимум хитов снижается до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

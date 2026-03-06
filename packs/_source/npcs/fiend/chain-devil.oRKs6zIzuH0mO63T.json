@@ -656,7 +656,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chain devil commands chains it can see within 60 feet of it that aren’t being worn or carried to grab up to two creatures it can see within 10 feet of at least one commanded chain. Each creature must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан}. A creature, including the restrained creature, can take its action to free the restrained creature by succeeding on a [[/check str 15 format=long]].</p><p>The devil can have up to two creatures restrained in this way at a time. If it uses this bonus action to restrain a third, the effect ends on one of the previous targets (the devil’s choice).</p>",
+          "value": "<p>Цепной дьявол приказывает цепям, которые видит в пределах 60 футов и которые никто не носит и не несёт, схватить не более двух существ, которых он видит в пределах 10 футов хотя бы от одной подчинённой цепи. Каждое существо должно преуспеть в [[/save format=long]] или стать опутанным (&Reference[restrained]{опутан}). Существо, включая саму опутанную цель, может потратить действие, чтобы освободить её, преуспев в [[/check str 15 format=long]].</p><p>Дьявол может одновременно удерживать таким образом не более двух опутанных существ. Если он использует это бонусное действие, чтобы опутать третье, эффект оканчивается на одной из предыдущих целей (по выбору дьявола).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -796,7 +796,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can command its mask to shift to look like one of the creature’s departed loved ones or bitter enemies. If the creature can see the mask, it must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its turn.</p>",
+          "value": "<p>Когда существо, которое дьявол видит, начинает свой ход в пределах 30 футов от него, дьявол может приказать своей маске принять облик одного из умерших близких этого существа или его заклятых врагов. Если существо видит маску, оно должно преуспеть в [[/save format=long]] или стать испуганным (&Reference[frightened]{испуган}) до конца своего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1195,7 +1195,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 15). Until the grapple ends, the target is &Reference[restrained]{опутан} and takes [[/damage 4d6 piercing average]] damage at the start of each of its turns, and the [[lookup @name lowercase]] can’t use the same Chain on another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель становится схваченной (&Reference[grappled]{схвачен}) (Сл высвобождения 15). Пока захват не окончится, цель опутана (&Reference[restrained]{опутан}), получает [[/damage 4d6 piercing average]] урона в начале каждого своего хода, а [[lookup @name lowercase]] не может использовать эту же цепь против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

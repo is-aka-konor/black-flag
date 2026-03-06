@@ -349,7 +349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each hostile creature that starts its turn within 20 feet of the pit fiend must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the start of its next turn. Each friendly devil within 20 feet of the pit fiend is immune to the charmed and frightened conditions and has advantage on the first attack roll it makes on each of its turns.</p>",
+          "value": "<p>Каждое враждебное существо, начинающее свой ход в пределах 20 футов от пит-дьявола, должно преуспеть в [[/save format=long]] или стать испуганным (&Reference[frightened]{испуган}) до начала своего следующего хода. Каждый дружественный дьявол в пределах 20 футов от пит-дьявола получает иммунитет к состояниям «очарован» и «испуган», а также преимущество на первый бросок атаки в каждом своём ходу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 4d6 fire damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, оно наносит дополнительный урон огнём 4к6 (учтено в атаке).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -640,7 +640,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The pit fiend makes one Bite attack, one Gore attack, one Mace attack, and one Tail attack, or it makes four Hurl Flame attacks. If two Hurl Flame attacks hit one creature, each creature within 10 feet of the target must make a [[/save format=long]] as the fire bursts outward from the target, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Пит-дьявол совершает по одной атаке «Кусать», «Таран», «Булава» и «Хвост» либо четыре атаки «Бросить пламя». Если две атаки «Бросить пламя» попадают по одному существу, каждое существо в пределах 10 футов от цели должно совершить [[/save format=long]], поскольку огонь вспыхивает наружу от цели; при провале существо получает [[/damage average]] урона, при успехе - половину этого урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1401,7 +1401,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 21 format=long]] be &Reference[poisoned]{отравлён}. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Цель должна преуспеть в [[/save con 21 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}). Пока цель отравлена таким образом, она не может восстанавливать хиты. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1859,7 +1859,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 21 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save str 21 format=long]] или упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

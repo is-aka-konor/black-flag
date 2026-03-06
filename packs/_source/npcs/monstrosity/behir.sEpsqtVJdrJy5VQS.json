@@ -719,7 +719,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The behir makes one Bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the behir, and it takes [[/damage average]] damage at the start of each of the behir’s turns. A behir can have only one creature swallowed at a time.</p><p>If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{сбит с ног} in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.</p>",
+          "value": "<p>Бехир совершает одну атаку «Укус» по цели Среднего размера или меньше, которую держит в захвате. При попадании цель проглатывается, и захват оканчивается. Пока цель проглочена, она является &Reference[blinded]{ослеплённой} и &Reference[restrained]{опутанной}, имеет полное укрытие от атак и других эффектов вне бехира и получает [[/damage average]] урона в начале каждого хода бехира. Бехир может держать проглоченной только одну цель одновременно.</p><p>Если за один ход бехир получает 30 или более урона от проглоченного существа, в конце этого хода бехир должен преуспеть в [[/save format=long]], иначе изрыгивает существо; оно падает &Reference[prone]{сбитым с ног} в пространстве в пределах 10 футов от бехира. Если бехир умирает, проглоченное существо больше не опутано им и может выбраться из трупа, потратив 15 футов перемещения, оказываясь сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -887,7 +887,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The behir exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Бехир выдыхает молнию линией длиной 30 футов и шириной 5 футов. Каждое существо в этой линии должно совершить [[/save format=long]], получая [[/damage average]] урона при провале или половину этого урона при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1229,7 +1229,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5ft., one Large or smaller creature [[/damage average]]. If the target is Large or smaller and the behir isn’t already grappling a creature, the target is &Reference[grappled]{схвачен} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the behir can’t Constrict another target.</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 фт., одна цель Большого размера или меньше. [[/damage average]]. Если цель Большого размера или меньше и бехир уже не держит другое существо в захвате, цель становится &Reference[grappled]{схваченной} (СЛ высвобождения 16). Пока захват не окончится, цель является &Reference[restrained]{опутанной}, и бехир не может использовать «Сжимание» против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

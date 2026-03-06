@@ -260,7 +260,7 @@
   },
   "items": [
     {
-      "name": "Дайвинг Набросок",
+      "name": "Пикирующий бросок",
       "type": "feature",
       "_id": "UiqlXnkV4iOGuwgF",
       "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
@@ -347,7 +347,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 20 feet straight toward a creature and then hits it with a Claws attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] летит, перемещается как минимум на 20 футов по прямой к существу, а затем в тот же ход попадает по нему атакой «Когти», цель должна преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}). Если цель лежит ничком, [[lookup @name lowercase]] может совершить по ней одну атаку «Кусать» бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -415,7 +415,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the [[lookup @name lowercase]] remains motionless, it is indistinguishable from an inanimate statue.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] остаётся неподвижным, его невозможно отличить от неживой статуи.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -533,7 +533,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gargoyle makes one Bite attack and one Claws attack.</p>",
+          "value": "<p>Горгулья совершает одну атаку «Кусать» и одну атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -665,7 +665,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see hits it with an attack, the [[lookup @name lowercase]] can shift its face to appear more monstrous. The attacker must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} of the [[lookup @name lowercase]] until the end of its next turn.</p>",
+          "value": "<p>Когда существо, которое [[lookup @name lowercase]] видит, попадает по нему атакой, [[lookup @name lowercase]] может исказить своё лицо, сделав его ещё более чудовищным. Атакующий должен преуспеть в [[/save format=long]] или стать испуганным (&Reference[frightened]{испуган}) [[lookup @name lowercase]] до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

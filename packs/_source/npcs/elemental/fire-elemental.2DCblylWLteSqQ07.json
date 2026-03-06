@@ -136,7 +136,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>This mobile flame casts light in varying hues of yellow and orange, setting flammable objects alight as it touches them.</em></p><p>Fire elementals are the most inherently destructive of the quartet of elementals, burning and igniting everything they touch. Fortunately, they react to water like ordinary fire, but as intelligent creatures, they back away from the immediate threat of extinguishment only to then quickly maneuver around it to strike at opponents, especially those using water as a weapon.</p>",
+      "value": "<p><em>Это подвижное пламя отбрасывает свет в оттенках жёлтого и оранжевого и воспламеняет горючие предметы при прикосновении.</em></p><p>Элементали огня - самые разрушительные из четырёх стихийных элементалей: они жгут и поджигают всё, к чему прикасаются. К счастью, вода действует на них так же, как на обычный огонь. Но, будучи разумными существами, они лишь отступают от непосредственной угрозы затухания, чтобы затем быстро обойти её и ударить по противникам, особенно по тем, кто использует воду как оружие.</p>",
       "legendary": ""
     },
     "description": {
@@ -484,7 +484,7 @@
       "_key": "!actors.items!2DCblylWLteSqQ07.CYHJfcZdS3y6VKJs"
     },
     {
-      "name": "Форма Огня",
+      "name": "Огненная форма",
       "type": "feature",
       "_id": "JpKAsnoYxL4dNhTL",
       "img": "icons/magic/fire/flame-burning-skeleton-explosion.webp",
@@ -499,7 +499,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes [[/damage 1d10 fire average]] damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes [[/damage 1d10 fire average]] damage and catches fire; until a creature takes an action to douse the fire, the burning creature takes [[/damage 1d10 fire average]] damage at the start of each of its turns.</p>",
+          "value": "<p>Элементаль может проходить через пространство шириной всего 1 дюйм, не испытывая стеснения. Существо, которое касается элементаля или попадает по нему рукопашной атакой, находясь в пределах 5 футов от него, получает [[/damage 1d10 fire average]] урона. Кроме того, элементаль может входить в пространство враждебного существа и останавливаться там. Впервые за ход входя в пространство существа, он наносит этому существу [[/damage 1d10 fire average]] урона и поджигает его; пока существо не потратит действие, чтобы потушить огонь, горящее существо получает [[/damage 1d10 fire average]] урона в начале каждого своего хода.</p>",
           "source": {}
         },
         "identifier": {},
@@ -623,7 +623,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes [[/damage 1 cold]] damage.</p>",
+          "value": "<p>За каждые 5 футов, которые элементаль проходит в воде, а также за каждый галлон воды, вылитой на него, он получает [[/damage 1 cold]] урона.</p>",
           "source": {}
         },
         "identifier": {},
@@ -735,7 +735,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental makes two Fiery Touch or Spit Fire attacks.</p>",
+          "value": "<p>Элементаль совершает две атаки «Огненное прикосновение» или «Плевок огнём».</p>",
           "source": {}
         },
         "identifier": {},
@@ -893,7 +893,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elemental moves up to 20 feet in a straight line and can move through the space of any Large or smaller creature without provoking opportunity attacks. Each space along that line catches fire until the start of the elemental’s next turn. A creature that enters a burning space for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] or take [[/damage average]] damage.</p>",
+          "value": "<p>Элементаль перемещается по прямой на расстояние до 20 футов и может проходить через пространство любого существа Большого размера или меньше, не провоцируя атак по возможности. Каждая клетка на этой линии воспламеняется до начала следующего хода элементаля. Существо, которое впервые за ход входит в горящую клетку или начинает там свой ход, должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1041,7 +1041,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes [[/damage 1d10 fire average]] damage at the start of each of its turns.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - существо или горючий объект, она загорается. Пока существо не потратит действие, чтобы потушить огонь, цель получает [[/damage 1d10 fire average]] урона в начале каждого своего хода.</p>",
           "source": {}
         },
         "identifier": {

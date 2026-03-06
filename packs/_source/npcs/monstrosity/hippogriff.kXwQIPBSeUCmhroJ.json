@@ -133,7 +133,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>Flashing down from the sky, this creature has the body and rear legs of a horse, but the head, wings, and forelegs of a mighty eagle. With a raptor’s scream, it dives to strike.</em></p><p>The swift hippogriffs hunt the mountain steppes, plains, and wild places of the world. They are omnivorous but prefer meat. A single hippogriff considers an extremely wide swath as its hunting territory and remains in an area until the food supply is exhausted.</p><p><strong>Eternal Mates.</strong> Hippogriffs mate for life, raising one to two young at a time. They lay eggs, taking turns watching over them (or hatchlings) while the other mate hunts for food. When a hippogriff dies, its mate often starves itself to death.</p><p><strong>Loyal Steeds.</strong> Hippogriff eggs are prized treasures and valuable to everyone from elven lords to powerful human generals. A single egg is valued at 2,000 gp. Of all the monstrous mounts, hippogriffs are the easiest to train. However, the death of a hippogriff ’s rider sends the mount into a frenzy.</p>",
+      "value": "<p><em>Молнией падая с неба, это существо сочетает тело и задние ноги коня с головой, крыльями и передними лапами могучего орла. Издав хищный крик, оно бросается в атаку.</em></p><p>Быстрые гиппогрифы охотятся в горных степях, на равнинах и в диких краях мира. Они всеядны, но предпочитают мясо. Один гиппогриф считает своей охотничьей территорией огромный участок и остаётся в нём, пока не иссякнет кормовая база.</p><p><strong>Пары на всю жизнь.</strong> Гиппогрифы создают пары на всю жизнь и обычно выращивают от одного до двух детёнышей. Они откладывают яйца и по очереди охраняют кладку (или птенцов), пока второй родитель добывает пищу. Когда один гиппогриф погибает, его пара нередко умирает от голода.</p><p><strong>Верные скакуны.</strong> Яйца гиппогрифов - ценная добыча, за которой охотятся все: от эльфийских владык до могущественных человеческих полководцев. Одно яйцо может стоить 2000 зм. Из всех чудовищных ездовых существ гиппогрифов обучать легче всего. Однако гибель всадника обычно ввергает гиппогрифа в неистовую ярость.</p>",
       "legendary": ""
     },
     "description": {
@@ -638,7 +638,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While flying, the hippogriff dives onto a creature below it. The hippogriff moves at least 20 feet in a straight line toward a creature it can see. The target must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked prone.</p>",
+          "value": "<p>Во время полета гиппогриф пикирует на существо под собой. Гиппогриф должен пролететь по прямой не менее 20 футов к видимой им цели. Цель должна преуспеть в [[/save]] или получить [[/damage average]] урона и быть &Reference[prone]{сбитой с ног}.</p>",
           "source": {}
         },
         "identifier": {},

@@ -770,7 +770,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vrock shakes a cloud of toxic spores from its wings. Each creature within 15 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] and is &Reference[poisoned]{отравлён} for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. While poisoned, a creature takes [[/damage 1d6 poison average]] damage at the start of each of its turns. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the poisoned creature also ends the effect on it.</p>",
+          "value": "<p>Врок стряхивает с крыльев облако ядовитых спор. Каждое существо в пределах 15 футов от него должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и становится отравлённым (&Reference[poisoned]{отравлён}) на 1 минуту. При успехе существо получает половину урона и не становится отравлённым. Пока существо отравлено, оно получает [[/damage 1d6 poison average]] урона в начале каждого своего хода. Отравленное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе. Если вылить на отравленное существо флакон святой воды, эффект на нём также заканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -916,7 +916,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] emits a horrific screech at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] be able to take either an action or bonus action on its turn, not both, and it can’t take reactions.</p>",
+          "value": "<p>[[lookup @name lowercase]] издаёт чудовищный визг в сторону одного существа в пределах 30 футов, которое видит. Цель должна преуспеть в [[/save format=long]] или в свой ход сможет совершить только действие либо бонусное действие (но не оба), а также не сможет совершать реакции.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

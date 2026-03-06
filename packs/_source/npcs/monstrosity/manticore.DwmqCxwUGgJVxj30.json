@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can mimic Animal sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful [[/check insight 13 format=long]].</p>",
+          "value": "<p>[[lookup @name lowercase]] может имитировать звуки Животных и голоса Гуманоидов. Существо, услышавшее эти звуки, может распознать имитацию, преуспев в [[/check insight 13 format=long]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -970,7 +970,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the manticore can see hits it with a melee attack while within 5 feet of it, the manticore can jab a spike into the attacker. The attacker must succeed on a [[/save format=long]] or take [[/damage average]] damage.</p>",
+          "value": "<p>Когда существо, которое мантикора видит, попадает по ней рукопашной атакой, находясь в пределах 5 футов, мантикора может вонзить шип в атакующего. Атакующий должен преуспеть в [[/save format=long]] или получить [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

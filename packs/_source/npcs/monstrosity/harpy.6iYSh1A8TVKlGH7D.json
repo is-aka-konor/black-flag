@@ -140,7 +140,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>With the body of a woman and the wings and talons of a swift raptor, this monstrosity slashes the air as she dives at prey. Often, a harpy strikes with a deadly song on her lips.</em></p><p>Harpies dwell in dark forests and along coastlines, building their eyries in high places to protect their young. Dangerous hunters with a taste for human and giant flesh, they lure prey to its doom using their magical voices or descend upon it with talon and claw.</p><p><strong>Agents of the Divine.</strong> Though loathed now, harpies were once the favored messengers of the gods until some now-forgotten transgression exiled them from the divine realms. Harpies claim they have no stories or legends of that time.</p><p><strong>Clamor Eyries.</strong> Harpies live in large flocks of six to ten mated pairs and their children. A typical clamor is led by the strongest hunters or most powerful singers.</p><p><strong>Urban Harpies.</strong> A few harpies have found acceptance in large urban centers. They trade their aerial speed or magical songs for coins.</p>",
+      "value": "<p><em>С телом женщины, крыльями и когтями стремительного хищника, эта тварь рассекает воздух в пикирующем броске на добычу. Нередко гарпия атакует, не прекращая своей смертоносной песни.</em></p><p>Гарпии обитают в мрачных лесах и на побережьях, устраивая гнёзда на высоте, чтобы защитить потомство. Это опасные охотницы, предпочитающие плоть людей и великанов: они заманивают жертв магическими голосами или обрушиваются сверху клювом и когтями.</p><p><strong>Бывшие посланницы богов.</strong> Ныне презираемые, гарпии когда-то были любимыми вестницами богов, пока за некое давно забытое прегрешение не были изгнаны из божественных пределов. Сами гарпии уверяют, что не сохранили о тех временах ни преданий, ни песен.</p><p><strong>Шумные колонии.</strong> Гарпии живут большими стаями из шести-десяти пар и их потомства. Обычно стаю возглавляют сильнейшие охотницы или самые могущественные певуньи.</p><p><strong>Городские гарпии.</strong> Небольшое число гарпий сумело прижиться в крупных городах, обменивая скорость полёта или магические песни на монеты.</p>",
       "legendary": ""
     },
     "description": {
@@ -425,7 +425,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The harpy makes two Claw or Screech attacks. If both Screech attacks hit one Giant or Humanoid, the target has disadvantage on the next save it makes against the harpy’s Luring Song before the start of the harpy’s next turn.</p>",
+          "value": "<p>Гарпия совершает две атаки «Коготь» или «Визг». Если обе атаки «Визг» попадают по одному Гиганту или Гуманоиду, цель получает помеху на следующий спасбросок против «Завлекающей песни» гарпии до начала следующего хода гарпии.</p>",
           "source": {}
         },
         "identifier": {},
@@ -551,7 +551,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The harpy sings a magical melody. Every Humanoid and Giant within 300 feet of the harpy that can hear the song must succeed on a [[/save]] save or be charmed until the song ends. The harpy must use a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.</p><p>While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the save. A charmed target can also repeat the save at the end of each of its turns. If the save is successful, the effect ends on it. A target that successfully saves is immune to this harpy’s song for the next 24 hours.</p>",
+          "value": "<p>Гарпия поет магическую мелодию. Каждый Гуманоид и Гигант в пределах 300 футов от гарпии, слышащий песню, должен преуспеть в [[/save]], иначе становится очарованным, пока песня не закончится. На последующих ходах гарпия должна тратить бонусное действие, чтобы продолжать петь. Она может прекратить пение в любой момент. Песня заканчивается, если гарпия становится недееспособной.</p><p>Пока цель очарована гарпией, она является недееспособной и игнорирует песни других гарпий. Если очарованная цель находится более чем в 5 футах от гарпии, она должна в свой ход двигаться к гарпии самым прямым путем, пытаясь подойти на 5 футов. Она не избегает провоцированных атак, но перед входом на опасную местность (например, лаву или в яму), а также каждый раз, когда получает урон не от гарпии, может повторить спасбросок. Очарованная цель также может повторять спасбросок в конце каждого своего хода. При успехе эффект на ней заканчивается. Существо, успешно прошедшее спасбросок, получает иммунитет к песне этой гарпии на следующие 24 часа.</p>",
           "source": {}
         },
         "identifier": {},

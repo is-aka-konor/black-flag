@@ -818,7 +818,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature other than a Construct or Undead, it must succeed on a [[/save con 13 format=long]] or lose [[/damage 1d6 average]] HP at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 3 (1d6). Any creature can take an action to stanch the wound with a successful [[/check medicine 10 format=long]]. The wound also closes if the target receives magical healing, provided the target is capable of regaining HP.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - существо, не являющееся Конструктом или Нежитью, оно должно преуспеть в [[/save con 13 format=long]] или терять [[/damage 1d6 average]] хитов в начале каждого своего хода из-за инфернальной раны. Каждый раз, когда дьявол попадает этой атакой по уже раненой цели, урон от раны увеличивается на 3 (1к6). Любое существо может потратить действие, чтобы остановить кровотечение, преуспев в [[/check medicine 10 format=long]]. Рана также закрывается, если цель получает магическое исцеление, при условии что она способна восстанавливать хиты.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -980,7 +980,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bearded devil enhances the pain in one creature it can see within 30 feet of it that is poisoned from the devil’s Beard Spines attack or suffering an infernal wound from the devil’s Glaive attack. The target must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as it doubles over in pain.</p>",
+          "value": "<p>Бородатый дьявол усиливает боль у одного существа в пределах 30 футов, которое он видит и которое отравлено его атакой «Шипы бороды» либо страдает от инфернальной раны, нанесённой его атакой «Глефа». Цель должна преуспеть в [[/save format=long]] или стать недееспособной (&Reference[incapacitated]{недееспособен}) до конца своего следующего хода, сгибаясь от боли.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1360,7 +1360,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save con 13 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}) на 1 минуту. Пока цель отравлена таким образом, она не может восстанавливать хиты. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1410,7 +1410,7 @@
         },
         "rarity": ""
       },
-      "name": "Шипы для бороды",
+      "name": "Шипы бороды",
       "type": "weapon",
       "_id": "GwzpqTiTquWnVd1P",
       "img": "icons/magic/light/projectile-bolts-salvo-yellow.webp",

@@ -134,7 +134,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>Bursting from the forest undergrowth, a massive creature—equal parts bear and raptor—gives a roaring screech as it charges.</em></p><p>Vicious carnivores, owlbears devour vast amounts of deer, boar, and other creatures in the forests they inhabit—and vomit up distinctive bezoars of undigested bone, hide, and feathers. An owlbear has the shape and mass of a grizzly bear, with a thick coat of fur intermixed with feathers.</p><p>The massive body is topped with a great, owl-like head, complete with large, round eyes and a curved, hooked beak that can grip and tear its prey. Though incapable of flight, the owlbear’s limbs are covered with enough feathers for gliding when it leaps from sufficiently high cliffs and hills.</p><p><strong>Territorial.</strong> Territorial and testy, owlbears are quick to challenge interlopers in their domain. An owlbear faces larger or more numerous opponents with undaunted savagery that often scares off larger and even more powerful foes.</p><p><strong>Nesting.</strong> Normally solitary, owlbears remain together only to rear their hatchlings until they are old enough to fend for themselves. Mated pairs sometimes build an enormous stick-nest in a cavern or on a rocky spire. An angry owlbear defending its eggs or young is especially dangerous.</p><p><strong>Tribal Guardians.</strong> Despite their hostility, humanoid tribes sometimes capture owlbear hatchlings or eggs, raising them as fearsome guardians or mounts. Dwarves have also been known to keep owlbears as guards.</p>",
+      "value": "<p><em>Прорываясь через лесной подлесок, огромная тварь - наполовину медведь, наполовину хищная птица - издаёт рёв, похожий на пронзительный крик, и несётся в атаку.</em></p><p>Совиные медведи - свирепые хищники, пожирающие оленей, кабанов и другую живность в своих лесах, а затем отрыгивающие характерные безоары из непереваренных костей, шкур и перьев. По форме и массе совиный медведь напоминает гризли: мощное тело, густая шерсть, перемешанная с перьями.</p><p>Туловище венчает большая совиная голова с круглыми глазами и изогнутым клювом, способным схватить и разорвать добычу. Летать совиный медведь не может, но перья на конечностях позволяют ему планировать при прыжках с достаточно высоких уступов и холмов.</p><p><strong>Территориальность.</strong> Совиные медведи вспыльчивы и яростно защищают свою территорию, быстро бросая вызов любому чужаку. Даже против более крупных и многочисленных врагов они сражаются с такой свирепостью, что нередко обращают в бегство и более сильных противников.</p><p><strong>Гнездование.</strong> Обычно совиные медведи живут поодиночке и держатся вместе только для выращивания потомства, пока молодняк не сможет выживать самостоятельно. Спарившиеся пары иногда строят огромные гнёзда из ветвей в пещерах или среди бурелома.</p>",
       "legendary": ""
     },
     "description": {
@@ -257,7 +257,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The owlbear has long, sturdy feathers along its forelimbs and sides that expand while falling to slow its rate of descent to 60 feet per round, landing on its feet and taking no falling damage. It can move up to 5 feet horizontally for every 1 foot it falls. The owlbear can’t gain height with its gliding feathers alone. If subjected to a strong wind or lift of any kind, it can use the updraft to glide farther.</p>",
+          "value": "<p>У совомеда длинные прочные перья вдоль передних конечностей и боков. При падении они расправляются, уменьшая скорость снижения до 60 футов за раунд: совомед приземляется на лапы и не получает урона от падения. За каждый 1 фут падения он может сместиться по горизонтали до 5 футов. Набирать высоту только за счет планирующих перьев совомед не может. При сильном ветре или восходящем потоке он может планировать дальше.</p>",
           "source": {}
         },
         "identifier": {},
@@ -684,7 +684,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The owlbear roars and barrels through creatures. It moves up to 20 feet in a straight line and can move through the space of any Medium or smaller creature. The first time it enters a creature’s space during this move, that creature must make a [[/save]] save. On a failure, a creature takes [[/damage average]] damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>Совомед ревет и проламывается через существ. Он перемещается по прямой на расстояние до 20 футов и может проходить через пространство любого существа Среднего размера или меньше. Когда он впервые входит в пространство существа во время этого перемещения, это существо должно совершить [[/save]]. При провале существо получает [[/damage average]] урона и оказывается &Reference[prone]{сбитым с ног}. При успехе существо получает половину урона и не сбивается с ног.</p>",
           "source": {}
         },
         "identifier": {},
@@ -824,7 +824,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The owlbear violently wrenches a Medium or smaller creature it is currently grappling. The target must make a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Совомед яростно рвет существо Среднего размера или меньше, которое сейчас схвачено им. Цель должна совершить [[/save]]: при провале она получает [[/damage average]] урона, при успехе - половину.</p>",
           "source": {}
         },
         "identifier": {},

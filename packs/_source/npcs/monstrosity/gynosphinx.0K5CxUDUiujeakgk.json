@@ -352,7 +352,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx’s Claw attacks are magical. When the sphinx hits with a Claw attack, the Claw deals an extra 3d6 psychic damage (included in the attack).</p>",
+          "value": "<p>Атаки «Коготь» сфинкса считаются магическими. Когда сфинкс попадает атакой «Коготь», она наносит дополнительно 3d6 психического урона (включен в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -590,7 +590,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx makes three Claw attacks, or it makes four Psychic Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Сфинкс совершает три атаки «Коготь» или четыре атаки «Психический разряд». Одну атаку он может заменить применением «Сотворения заклинаний».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -983,7 +983,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx sends out a burst of psychic energy. Each creature within 20 feet of the sphinx that has an INT of 8 or higher must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn, as it reels from the psychic onslaught.</p>",
+          "value": "<p>Сфинкс испускает всплеск психической энергии. Каждое существо в пределах 20 футов от сфинкса с ИНТ 8 или выше должно преуспеть в [[/save format=long]], иначе становится &Reference[incapacitated]{недееспособным} до конца своего следующего хода, оглушенное ментальным натиском.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1262,7 +1262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the sphinx can see within 60 feet of it must succeed on a [[/save format=long]] or be mentally connected to the sphinx until the sphinx chooses to end it or until the sphinx dies or the target dies. While connected in this way, the sphinx can cause the target to experience one of the following effects at the start of each of the target’s turns. The effect lasts until the start of the target’s next turn or until the connection ends. The target can repeat the save at the end of each of its turns, ending the connection on a success.</p><ul><li><p>@Embed[.Activity.Q3o5VBOxtcXXmv7E activate inline]{Disoriented}</p></li><li><p>@Embed[.Activity.RhFFjDvx2XBhw3gx activate inline]{Distracted}</p></li><li><p>@Embed[.Activity.ITQ1oO5D5AD83lAt activate inline]{Seeing Double}</p></li></ul>",
+          "value": "<p>Одно существо, которое сфинкс видит в пределах 60 футов, должно преуспеть в [[/save format=long]], иначе устанавливается ментальная связь со сфинксом до тех пор, пока сфинкс не завершит её, либо пока не умрёт сфинкс или цель. Пока связь активна, в начале каждого хода цели сфинкс может вызвать один из следующих эффектов. Эффект длится до начала следующего хода цели или до разрыва связи. В конце каждого своего хода цель может повторять спасбросок, завершая связь при успехе.</p><ul><li><p>@Embed[.Activity.Q3o5VBOxtcXXmv7E activate inline]{Дезориентация}</p></li><li><p>@Embed[.Activity.RhFFjDvx2XBhw3gx activate inline]{Отвлечённость}</p></li><li><p>@Embed[.Activity.ITQ1oO5D5AD83lAt activate inline]{Двоение в глазах}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

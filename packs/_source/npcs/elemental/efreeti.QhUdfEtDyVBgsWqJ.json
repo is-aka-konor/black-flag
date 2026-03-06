@@ -1,6 +1,6 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Ифрити",
+  "name": "Ифрит",
   "type": "npc",
   "_id": "QhUdfEtDyVBgsWqJ",
   "img": "systems/black-flag-ru/artwork/tokens/genie-efreeti.webp",
@@ -160,7 +160,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Ифрити",
+    "name": "Ифрит",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -267,7 +267,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 16, it can hover while flying, can’t manipulate objects or attack, and it can pass through any space air can pass through without squeezing. In addition, it can enter and hide in any Tiny or larger container, such as a pouch, lamp, backpack, or barrel.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 16; он может парить в полёте, не может манипулировать предметами или атаковать и может проходить через любое пространство, через которое проходит воздух, не испытывая стеснения. Кроме того, он может входить и прятаться в любом контейнере Крошечного размера или больше, например в сумке, лампе, рюкзаке или бочке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -293,7 +293,7 @@
           "value": null
         }
       },
-      "name": "Туманность (только в форме облака)",
+      "name": "Туманное тело (только в форме облака)",
       "type": "feature",
       "_id": "SIYdgiFHfkyirs9T",
       "img": "icons/magic/air/fog-gas-smoke-dense-orange.webp",
@@ -388,7 +388,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The efreeti makes three Scimitar or Hurl Flame attacks.</p>",
+          "value": "<p>Ифрит совершает три атаки «Ятаган» или «Бросить пламя».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -714,7 +714,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically creates one fire-based Elemental of CR 5 or lower in an unoccupied space the [[lookup @name lowercase]] can see within 30 feet of it. The elemental acts as an ally of the [[lookup @name lowercase]], obeying its spoken commands. The elemental remains for 1 hour, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] dismisses it as a bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магическим образом создаёт одного огненного Элементаля с ПО не выше 5 в незанятом пространстве в пределах 30 футов, которое видит [[lookup @name lowercase]]. Элементаль действует как союзник [[lookup @name lowercase]] и подчиняется его устным приказам. Элементаль существует 1 час, пока [[lookup @name lowercase]] не погибнет или пока [[lookup @name lowercase]] не развеет его бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -878,7 +878,7 @@
           "value": null
         }
       },
-      "name": "Путешествуйте на самолетах",
+      "name": "Сдвиг плана",
       "type": "feature",
       "_id": "n7N6mmkvJvb2EcQk",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1008,7 +1008,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The efreeti magically creates a translucent wall of fire along a solid surface at a point it can see within 30 feet of it. The wall can be up to 1 foot thick, up to 45 feet long, and up to 5 feet high, and it can be any shape. Each creature in a space where the fire appears must succeed on a [[/save format=long]] or take [[/damage average]] damage. A creature that successfully saves can move to the wall’s edge, out of the fire. A creature that enters the wall for the first time on a turn or ends its turn within 5 feet of the wall must succeed on a [[/save format=long]] or take [[/damage average]] damage. The efreeti can have only one fire wall active at a time. If it creates another, the previous fire wall disappears.</p>",
+          "value": "<p>Ифрит магическим образом создаёт полупрозрачную стену огня вдоль твёрдой поверхности в точке в пределах 30 футов, которую видит. Стена может быть толщиной до 1 фута, длиной до 45 футов и высотой до 5 футов, а её форма может быть любой. Каждое существо в клетке, где появляется огонь, должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона. Существо, успешно прошедшее спасбросок, может переместиться к краю стены, выйдя из огня. Существо, которое впервые за ход входит в стену или оканчивает ход в пределах 5 футов от неё, должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона. Ифрит может поддерживать только одну такую стену одновременно. Если он создаёт новую, предыдущая исчезает.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1135,7 +1135,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium cloud of thick smoke filled with sparks of fire or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The [[lookup @name lowercase]] can’t use this bonus action to transform into its bipedal form while inside a Medium or smaller container.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в облако густого дыма Среднего размера, наполненного искрами огня, или обратно в свою двуногую форму. Его характеристики одинаковы в обеих формах. Любое носимое и переносимое им снаряжение преобразуется вместе с ним. При смерти он возвращается в двуногую форму. [[lookup @name lowercase]] не может этим бонусным действием вернуться в двуногую форму, находясь внутри контейнера Среднего или меньшего размера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1161,7 +1161,7 @@
           "value": null
         }
       },
-      "name": "Джинн Форма",
+      "name": "Форма ифрита",
       "type": "feature",
       "_id": "o0VhMU7huAXWSXFa",
       "img": "icons/magic/fire/projectile-embers-orange.webp",

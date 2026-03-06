@@ -270,7 +270,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Этот широкий щит из дерева и металла удерживается за рукоять, закреплённую с внутренней стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -420,7 +420,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that touches the [[lookup @name lowercase]] or hits it with a melee attack while within 5 feet of it takes [[/damage average]] damage.</p>",
+          "value": "<p>Существо, которое касается [[lookup @name lowercase]] или попадает по нему рукопашной атакой, находясь в пределах 5 футов от него, получает [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -446,7 +446,7 @@
           "value": null
         }
       },
-      "name": "Тело с подогревом",
+      "name": "Раскаленное тело",
       "type": "feature",
       "_id": "Wo2mvGjZaygUSIVV",
       "img": "icons/magic/fire/elemental-fire-humanoid.webp",
@@ -488,7 +488,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] hits with a metal melee weapon, the weapon deals an extra 3 (1d6) fire damage (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает металлическим рукопашным оружием, это оружие наносит дополнительно 3 (1к6) урона огнём (учтено в атаке).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -514,7 +514,7 @@
           "value": null
         }
       },
-      "name": "Горячее оружие",
+      "name": "Раскаленное оружие",
       "type": "feature",
       "_id": "V4otWEyRodajlxpV",
       "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
@@ -556,7 +556,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>",
+          "value": "<p>[[lookup @name lowercase]] испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -582,7 +582,7 @@
           "value": null
         }
       },
-      "name": "Освещение",
+      "name": "Свечение",
       "type": "feature",
       "_id": "oty0a5DIoCONmav5",
       "img": "icons/magic/light/torch-fire-orange.webp",
@@ -677,7 +677,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The azer makes two Warhammer attacks.</p>",
+          "value": "<p>Азер совершает две атаки «Боевой молот».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -731,7 +731,7 @@
     },
     {
       "folder": "tVD5DakH2RhE9Ig5",
-      "name": "Вархаммер",
+      "name": "Боевой молот",
       "type": "weapon",
       "_id": "vvKCYXeCzC8FhXF0",
       "img": "icons/weapons/hammers/hammer-war-rounding.webp",
@@ -942,7 +942,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, или [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1092,7 +1092,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The azer creates fire in a 15-foot line that is 1 foot wide, originating from a point the azer can see within 15 feet of it. This line is an opaque wall that is 3 feet tall and provides half-cover to creatures behind it. A creature that moves through the line takes damage as if it touched the azer. The line of fire lasts for 1 minute or until the azer uses this bonus action again.</p>",
+          "value": "<p>Азер создаёт огонь в линии длиной 15 футов и шириной 1 фут из точки в пределах 15 футов, которую он видит. Эта линия образует непрозрачную стену высотой 3 фута и даёт существам за ней укрытие на половину. Существо, проходящее через линию, получает урон так, как если бы коснулось азера. Линия огня существует 1 минуту или пока азер снова не использует это бонусное действие.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1118,7 +1118,7 @@
           "value": null
         }
       },
-      "name": "Пылающий оплот",
+      "name": "Пылающий заслон",
       "type": "feature",
       "_id": "lPG5ev8i1ofkozl9",
       "img": "icons/magic/fire/beam-jet-stream-spiral-yellow.webp",

@@ -511,7 +511,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 18 while in snowy terrain.</p>",
+          "value": "<p>Показатель Скрытности [[lookup @name lowercase]] равен 18, пока он находится в заснеженной местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -632,7 +632,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The winter wolf makes two Bite attacks.</p>",
+          "value": "<p>Зимний волк совершает две атаки «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1176,7 +1176,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The winter wolf touches its nose to a creature it can see within 5 feet of it. The target must succeed on a [[/save format=long]] or one of the following parts of its body (the winter wolf’s choice) is &Reference[petrified]{окаменел} in ice for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success. If the target takes fire damage, it has advantage on the next save it makes to end the effect.</p><ul><li><p>@Embed[.Activity.ayfnyn4BfIBc0IgL activate inline]{Body}</p></li><li><p>@Embed[.Activity.998qlqV7w9RLLUmh activate inline]{Head}</p></li><li><p>@Embed[.Activity.grW3Vd56cswojZvc activate inline]{Lower Limb}</p></li><li><p>@Embed[.Activity.wlZmBw43jTLo9hIX activate inline]{Upper Limb}</p></li></ul>",
+          "value": "<p>Зимний волк касается носом существа, которое видит в пределах 5 футов. Цель должна преуспеть в [[/save format=long]], иначе одна из следующих частей её тела (по выбору зимнего волка) покрывается льдом и становится &Reference[petrified]{окаменевшей} на 1 минуту. В конце каждого своего хода цель может повторять спасбросок, завершая эффект при успехе. Если цель получает урон огнём, она совершает следующий спасбросок на завершение эффекта с преимуществом.</p><ul><li><p>@Embed[.Activity.ayfnyn4BfIBc0IgL activate inline]{Тело}</p></li><li><p>@Embed[.Activity.998qlqV7w9RLLUmh activate inline]{Голова}</p></li><li><p>@Embed[.Activity.grW3Vd56cswojZvc activate inline]{Нижняя конечность}</p></li><li><p>@Embed[.Activity.wlZmBw43jTLo9hIX activate inline]{Верхняя конечность}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1418,7 +1418,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, она должна преуспеть в [[/save str 13 format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -1,6 +1,6 @@
 {
   "folder": "HmKzvYpRYsWN47yG",
-  "name": "Джинны",
+  "name": "Джинн",
   "type": "npc",
   "_id": "E2GtLSyUX3zyv1iK",
   "img": "systems/black-flag-ru/artwork/tokens/genie-djiin.webp",
@@ -161,7 +161,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Джинны",
+    "name": "Джинн",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -268,7 +268,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 21, it can hover while flying, can’t manipulate objects or attack, and it can pass through any space air can pass through without squeezing. In addition, it can enter and hide in any Tiny or larger container, such as a pouch, lamp, backpack, or barrel.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 21; он может парить в полёте, не может манипулировать предметами или атаковать и может проходить через любое пространство, через которое проходит воздух, не испытывая стеснения. Кроме того, он может входить и прятаться в любом контейнере Крошечного размера или больше, например в сумке, лампе, рюкзаке или бочке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -294,7 +294,7 @@
           "value": null
         }
       },
-      "name": "Туманность (только в форме облака)",
+      "name": "Туманное тело (только в форме облака)",
       "type": "feature",
       "_id": "e5w669NkWelgOYYl",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -389,7 +389,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The djinni makes three Scimitar or Storm Bolt attacks.</p>",
+          "value": "<p>Джинн совершает три атаки «Ятаган» или «Штормовой болт».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -562,7 +562,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the djinni’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона (тип урона выбирает джинн).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -719,7 +719,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically creates one air-based Elemental of CR 5 or lower in an unoccupied space the djinni can see within 30 feet of it. The elemental acts as an ally of the [[lookup @name lowercase]], obeying its spoken commands. The elemental remains for 1 hour, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] dismisses it as a bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магическим образом создаёт одного воздушного Элементаля с ПО не выше 5 в незанятом пространстве в пределах 30 футов, которое видит. Элементаль действует как союзник [[lookup @name lowercase]] и подчиняется его устным приказам. Элементаль существует 1 час, пока [[lookup @name lowercase]] не погибнет или пока [[lookup @name lowercase]] не развеет его бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -883,7 +883,7 @@
           "value": null
         }
       },
-      "name": "Путешествуйте на самолетах",
+      "name": "Сдвиг плана",
       "type": "feature",
       "_id": "f5prZWPlA49tOkuB",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -993,7 +993,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] creates whirlwinds of air around up to two creatures it can see within 60 feet of it. Each target must succeed on a [[/check str 17 format=long]] or be &Reference[restrained]{опутан} by a whirlwind. A creature, including the target, can take its action to free the restrained target by succeeding on a [[/check str 17 format=long]].</p><p>While at least one creature is restrained by one of these whirlwinds, the [[lookup @name lowercase]] can use this bonus action to move the whirlwind up to 30 feet, and the restrained target moves with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] создаёт воздушные вихри вокруг не более чем двух существ в пределах 60 футов, которых видит. Каждая цель должна преуспеть в [[/check str 17 format=long]] или быть опутанной вихрем (&Reference[restrained]{опутан}). Существо, включая саму цель, может действием освободить опутанную цель, преуспев в [[/check str 17 format=long]].</p><p>Пока хотя бы одно существо опутано одним из этих вихрей, [[lookup @name lowercase]] может этим бонусным действием переместить вихрь на расстояние до 30 футов; опутанная цель перемещается вместе с ним.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1120,7 +1120,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium cloud of sparkling, blue air or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The [[lookup @name lowercase]] can’t use this bonus action to transform into its bipedal form while inside a Medium or smaller container.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в облако мерцающего синего воздуха Среднего размера или обратно в свою двуногую форму. Его характеристики одинаковы в обеих формах. Любое носимое и переносимое им снаряжение преобразуется вместе с ним. При смерти он возвращается в двуногую форму. [[lookup @name lowercase]] не может этим бонусным действием вернуться в двуногую форму, находясь внутри контейнера Среднего или меньшего размера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1146,7 +1146,7 @@
           "value": null
         }
       },
-      "name": "Джинн Форма",
+      "name": "Форма джинна",
       "type": "feature",
       "_id": "AmE67IvAlKrGKzpY",
       "img": "icons/magic/air/wind-swirl-purple-blue.webp",

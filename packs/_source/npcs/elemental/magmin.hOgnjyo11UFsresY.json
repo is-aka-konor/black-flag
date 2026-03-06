@@ -350,7 +350,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the magmin dies, it collapses into a Tiny cinder cone. On initiative count 20 after the magmin dies, the cinder cone erupts in a burst of fire and lava. Each creature within 10 feet of the cone must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. Flammable objects that aren’t being worn or carried in that area are ignited.</p>",
+          "value": "<p>Когда магмин погибает, он осыпается в крошечный шлаковый конус. На счёте инициативы 20 после гибели магмина этот конус извергается всплеском огня и лавы. Каждое существо в пределах 10 футов от конуса должно совершить [[/save format=long]], получая [[/damage average]] урона при провале или половину этого урона при успехе. Горючие предметы в этой области, которые никто не несёт и не носит, воспламеняются.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -376,7 +376,7 @@
           "value": null
         }
       },
-      "name": "Смертельный взрыв",
+      "name": "Предсмертный взрыв",
       "type": "feature",
       "_id": "tceMG7J1Y9ZzZVnz",
       "img": "icons/magic/earth/explosion-lava-orange.webp",
@@ -418,7 +418,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the magmin isn’t ablaze, it is resistant to piercing and slashing damage from nonmagical attacks, and it is vulnerable to thunder damage.</p>",
+          "value": "<p>Пока магмин не объят пламенем, он имеет сопротивление к колющему и рубящему урону от немагических атак и уязвимость к урону звуком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -566,7 +566,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the magmin is ablaze, each creature that hits it with a melee attack while within 5 feet of it takes [[/damage format=long]] damage.</p>",
+          "value": "<p>Пока магмин объят пламенем, каждое существо, попавшее по нему рукопашной атакой, находясь в пределах 5 футов от него, получает [[/damage format=long]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -693,7 +693,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>",
+          "value": "<p>Магмин воспламеняет себя или гасит своё пламя. Пока он объят пламенем, магмин испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -719,7 +719,7 @@
           "value": null
         }
       },
-      "name": "Зажженное освещение",
+      "name": "Пламенное сияние",
       "type": "feature",
       "_id": "Fw9pVKy90ixzg0BE",
       "img": "icons/magic/fire/flame-burning-skull-orange.webp",

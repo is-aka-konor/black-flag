@@ -377,7 +377,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has two heads and is resistant to the blinded, charmed, deafened, frightened, stunned, and unconscious conditions.</p>",
+          "value": "<p>У [[lookup @name lowercase]] две головы, и он устойчив к состояниям: &Reference[blinded]{ослеплен}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, &Reference[frightened]{испуган}, &Reference[stunned]{ошеломлен} и &Reference[unconscious]{без сознания}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -573,7 +573,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The death dog makes two Bite attacks.</p>",
+          "value": "<p>Пес смерти совершает две атаки «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -710,7 +710,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The death dog’s two heads bark at creatures in two 15-foot cones. Each creature in the area of a cone must succeed on a [[/save format=long]] or be &Reference[deafened]{оглохший} until the end of its next turn. If the cones overlap each other, each creature in overlapping cones must make only one save with disadvantage rather than one save for each cone.</p>",
+          "value": "<p>Две головы пса смерти лают, поражая существ в двух 15-футовых конусах. Каждое существо в области каждого конуса должно преуспеть в [[/save format=long]] или стать &Reference[deafened]{оглохшим} до конца своего следующего хода. Если конусы перекрываются, существо в зоне перекрытия совершает только один спасбросок, но с помехой, вместо отдельного спасброска за каждый конус.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -939,7 +939,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save con 12 format=long]] or contract a disease. Until the disease is cured, the target is &Reference[poisoned]{отравлён}. Every 24 hours that elapse, the infected creature must repeat the save, reducing its HP maximum by 5 ([[/r 2d4]]) on a failure. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if the disease reduces its HP maximum to 0.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, оно должно преуспеть в [[/save con 12 format=long]], иначе заражается болезнью. Пока болезнь не излечена, цель является &Reference[poisoned]{отравленной}. Каждые прошедшие 24 часа зараженное существо повторяет спасбросок; при провале максимум его хитов уменьшается на 5 ([[/r 2d4]]). Это уменьшение длится, пока существо не завершит продолжительный отдых после излечения болезни. Существо умирает, если болезнь снижает максимум его хитов до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

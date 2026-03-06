@@ -758,7 +758,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] slams its [[lookup @name lowercase]] into a creature it can see within 5 feet of it. The target must make a [[/save format=long]]. On a failure, the target takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, the target takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>[[lookup @name lowercase]] с размаху бьёт рогами одно существо в пределах 5 футов, которое видит [[lookup @name lowercase]]. Цель должна совершить [[/save format=long]]. При провале цель получает [[/damage average]] урона и падает ничком (&Reference[prone]{сбит с ног}). При успехе цель получает половину урона и не падает ничком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1309,7 +1309,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature other than a Construct or Undead, it must succeed on a [[/save con 17 format=long]] or lose [[/damage 3d6 average]] HP at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful [[/check medicine 12 format=long]]. The wound also closes if the target receives magical healing.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - существо, не являющееся Конструктом или Нежитью, оно должно преуспеть в [[/save con 17 format=long]] или терять [[/damage 3d6 average]] хитов в начале каждого своего хода из-за инфернальной раны. Каждый раз, когда дьявол попадает этой атакой по уже раненой цели, урон от раны увеличивается на 10 (3к6). Любое существо может потратить действие, чтобы остановить кровотечение, преуспев в [[/check medicine 12 format=long]]. Рана также закрывается, если цель получает магическое исцеление.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1482,7 +1482,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a flammable object that isn’t being worn or carried, it also catches fire.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - горючий предмет, который никто не носит и не несёт, он также загорается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

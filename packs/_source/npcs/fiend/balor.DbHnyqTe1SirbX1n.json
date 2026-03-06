@@ -557,7 +557,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] is flying and moves at least 30 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Longsword attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] летит, перемещается как минимум на 30 футов по прямой к существу и в том же ходу попадает по нему атакой «Таран», цель должна преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}). Если цель лежит ничком, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку «Длинный меч».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -583,7 +583,7 @@
           "value": null
         }
       },
-      "name": "Дайвинг-штурм",
+      "name": "Пикирующий натиск",
       "type": "feature",
       "_id": "qSRRIdJi3eKkOd8p",
       "img": "icons/creatures/abilities/wing-batlike-white-blue.webp",
@@ -1168,7 +1168,7 @@
         },
         "rarity": ""
       },
-      "name": "Гор",
+      "name": "Таран",
       "type": "weapon",
       "_id": "eiCBTXXpeifPbJGG",
       "img": "icons/creatures/mammals/bull-horns-eyes-glowin-orange.webp",
@@ -1314,7 +1314,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, или [[/damage versatile average]] урона при использовании двумя руками. Если балор наносит критическое попадание, он бросает кости урона трижды вместо двух.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1562,7 +1562,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 20]] saving throw or be pulled up to 25 feet toward the balor.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в спасброске [[/save str 20]] или быть подтянутой к балору на расстояние до 25 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

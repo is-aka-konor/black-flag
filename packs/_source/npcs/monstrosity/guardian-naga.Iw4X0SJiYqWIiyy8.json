@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon attack, the weapon deals an extra 3d8 necrotic damage or radiant damage (included in the attack), the [[lookup @name lowercase]]'s choice.</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любой атакой оружием, она наносит дополнительный урон 3d8 некротической энергией или излучением (включен в атаку) - по выбору [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -458,7 +458,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If it dies, the naga returns to life in [[/r 1d6]] days, regaining all its HP and becoming active again. Only a <em>wish</em> spell can prevent this trait from functioning.</p>",
+          "value": "<p>Если нага погибает, она возвращается к жизни через [[/r 1d6]] дней с полными хитами и снова становится активной. Только заклинание <em>Исполнение желаний</em> может предотвратить действие этого свойства.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -579,7 +579,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The guardian naga makes three Slam or Spit Poison attacks, or it makes one Constrict attack and two Slam attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Нага-страж совершает три атаки «Удар» или «Плевок ядом», либо одну атаку «Сжимание» и две атаки «Удар». Одну атаку она может заменить применением «Сотворения заклинаний».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -744,7 +744,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору наги).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2066,7 +2066,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет &Reference[paralyzed]{парализована} на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок Мудрости, оканчивая эффект при успехе. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку 3-го круга или выше, вы можете выбрать еще одну цель за каждый круг ячейки выше 2-го. Все цели должны находиться в пределах 30 футов друг от друга в момент выбора.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2466,7 +2466,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space within the sacred site or temple it protects or within 30 feet of the exterior of such a site. Swirls of golden light or tendrils of inky shadow (the [[lookup @name lowercase]]'s choice) appear at the origin and destination when it uses this bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 120 футов в незанятое пространство в пределах охраняемого ею священного места или храма либо в пределах 30 футов от внешней стороны такого места. В точке отправления и в точке прибытия при использовании этого бонусного действия появляются вихри золотого света или струи чернильной тьмы (по выбору [[lookup @name lowercase]]).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2635,7 +2635,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice), and the target is &Reference[grappled]{схвачен} (escape DC 16) if it is a Large or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}, and the naga can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору наги), и цель становится &Reference[grappled]{схваченной} (СЛ высвобождения 16), если это существо Большого размера или меньше. Пока захват не окончится, цель является &Reference[restrained]{опутанной}, и нага не может использовать «Сжимание» против другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2834,7 +2834,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the naga’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору наги).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

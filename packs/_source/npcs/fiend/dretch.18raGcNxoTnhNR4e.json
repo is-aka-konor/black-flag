@@ -264,7 +264,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Unlike other outsiders, a [[lookup @name lowercase]] that dies in its home plane of the Abyss is restored in a new body in [[/r 1d10]] days, regaining all its HP and becoming active again. The new body appears in a random location in the Abyss. Only sprinkling holy water on the [[lookup @name lowercase]]'s remains can prevent this trait from functioning.</p>",
+          "value": "<p>В отличие от других аутсайдеров, [[lookup @name lowercase]], погибший на родном плане Бездны, восстанавливается в новом теле через [[/r 1d10]] дней, полностью возвращая свои хиты и вновь становясь активным. Новое тело появляется в случайном месте Бездны. Только окропление останков [[lookup @name lowercase]] святой водой может предотвратить действие этой особенности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -549,7 +549,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A 10-foot radius cloud of disgusting green gas extends out from the [[lookup @name lowercase]], moves with it, and spreads around corners. The cloud’s area is lightly obscured and lasts 1 minute or until a strong wind disperses it. A creature that starts its turn in the cloud must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлён} until the start of its next turn. While poisoned in this way, a creature can take either an action or a bonus action on its turn, not both, and can’t take reactions.</p>",
+          "value": "<p>От [[lookup @name lowercase]] исходит 10-футовое облако отвратительного зелёного газа; оно перемещается вместе с ним и огибает углы. Область облака считается слабо заслонённой и существует 1 минуту либо до тех пор, пока сильный ветер не рассеет его. Существо, начинающее свой ход в облаке, должно преуспеть в [[/save format=long]] или стать отравлённым (&Reference[poisoned]{отравлён}) до начала своего следующего хода. Пока существо отравлено таким образом, в свой ход оно может совершить либо действие, либо бонусное действие (но не оба), и не может совершать реакции.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

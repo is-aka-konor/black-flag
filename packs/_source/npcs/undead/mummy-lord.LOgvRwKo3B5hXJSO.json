@@ -477,7 +477,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its HP and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.</p>",
+          "value": "<p>Уничтоженный лорд мумий получает новое тело через 24 часа, если его сердце цело. Он восстанавливает все хиты и снова становится активным. Новое тело появляется в пределах 5 футов от сердца лорда мумий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -545,7 +545,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] and any friendly Undead within 30 feet of it have advantage on saves against effects that turn undead.</p>",
+          "value": "<p>[[lookup @name lowercase]] и вся дружественная Нежить в пределах 30 футов от него совершают спасброски против эффектов изгнания нежити с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -857,7 +857,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy makes two Blessed Khopesh attacks and one Rotting Fist attack, or it makes four Divine Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Мумия совершает две атаки «Благословенный хопеш» и одну атаку «Гниющий кулак» либо четыре атаки «Божественная стрела». Одну атаку она может заменить применением «Сотворения заклинаний».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1030,7 +1030,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the mummy lord’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору лорда мумий).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1163,7 +1163,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy lord magically calls [[/r 2d6]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.JRZWv6AegnprZ1n4]{skeletons}</strong> or <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{zombies}</strong>, [[/r 1d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.REeq8PgajdfxsKGs]{specters}</strong>, or 2 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.vWKlM4EMHEdnCeuD]{mummies}</strong>. The called creatures arrive in [[/r 1d4]] rounds, acting as allies of the mummy lord and obeying its spoken commands. The Undead remain for 1 hour, until the mummy lord dies, or until the mummy lord dismisses them as a bonus action. The mummy lord can have any number of Undead under its control at one time, provided the combined total CR of the Undead is no higher than 6.</p>",
+          "value": "<p>Лорд мумий магически призывает [[/r 2d6]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.JRZWv6AegnprZ1n4]{скелетов}</strong> или <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.nwFf0rAmXKAJG1Qe]{зомби}</strong>, [[/r 1d4]] <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.REeq8PgajdfxsKGs]{призраков}</strong> либо 2 <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.vWKlM4EMHEdnCeuD]{мумий}</strong>. Призванные существа прибывают через [[/r 1d4]] раундов, считаются союзниками лорда мумий и выполняют его устные команды. Нежить остается на 1 час, до смерти лорда мумий либо пока лорд мумий не отпустит ее бонусным действием. Лорд мумий может одновременно контролировать любое число таких существ, если их суммарный ПО не превышает 6.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1959,7 +1959,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет &Reference[paralyzed]{парализована} на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2379,7 +2379,7 @@
           "max": "1"
         },
         "description": {
-          "value": "<p>Совершите рукопашную атаку заклинанием по существу в пределах вашей досягаемости. При попадании вы поражаете существо болезнью по вашему выбору из вариантов ниже. В конце каждого хода цели она должна совершить спасбросок Телосложения [[/save]]. После трех проваленных спасбросков эффекты болезни длятся в течение всего времени действия, и существо прекращает совершать эти спасброски. После трех успешных спасбросков существо излечивается от болезни, и заклинание заканчивается. Поскольку это заклинание вызывает у цели естественную болезнь, любой эффект, который снимает или подавляет эффекты болезни, применяется к ней.</p><h4>Варианты болезней | Disease Options</h4><ul><li><strong>Слепящая болезнь:</strong> Боль охватывает разум существа, а его глаза становятся молочно-белыми. Существо имеет помеху на проверки Мудрости и спасброски Мудрости и ослеплено.</li><li><strong>Грязная лихорадка:</strong> Бушующая лихорадка охватывает тело существа. Существо имеет помеху на проверки Силы, спасброски Силы и броски атаки, использующие Силу.</li><li><strong>Гниение плоти:</strong> Плоть существа разлагается. Существо имеет помеху на проверки Харизмы и становится уязвимым ко всему урону.</li><li><strong>Разумный огонь:</strong> Разум существа становится лихорадочным. Существо имеет помеху на проверки Интеллекта и спасброски Интеллекта, и существо ведет себя так, как будто находится под действием заклинания <em>смятение</em> во время боя.</li><li><strong>Судороги:</strong> Существо охватывает дрожь. Существо имеет помеху на проверки Ловкости, спасброски Ловкости и броски атаки, использующие Ловкость.</li><li><strong>Слизистая погибель:</strong> Существо начинает неконтролируемо кровоточить. Существо имеет помеху на проверки Телосложения и спасброски Телосложения. Кроме того, когда существо получает урон, оно ошеломлено до конца своего следующего хода.</li></ul>",
+          "value": "<p>Совершите рукопашную атаку заклинанием по существу в пределах вашей досягаемости. При попадании вы заражаете цель одной из болезней ниже (по вашему выбору). В конце каждого своего хода цель совершает спасбросок Телосложения [[/save]]. После трех провалов эффект болезни длится до конца действия заклинания, и цель перестает совершать эти спасброски. После трех успехов цель излечивается от болезни, и заклинание заканчивается. Поскольку это заклинание вызывает естественную болезнь, на нее действуют любые эффекты, снимающие или подавляющие болезни.</p><h4>Варианты болезней</h4><ul><li><strong>Ослепляющая болезнь:</strong> разум существа пронзает боль, а глаза мутнеют. Существо совершает проверки и спасброски МДР с помехой и является ослепленным.</li><li><strong>Грязевая лихорадка:</strong> тело существа охватывает изнуряющий жар. Существо совершает проверки СИЛ, спасброски СИЛ и броски атаки, использующие СИЛ, с помехой.</li><li><strong>Гниение плоти:</strong> плоть существа разлагается. Существо совершает проверки ХАР с помехой и становится уязвимым ко всему урону.</li><li><strong>Огненный разум:</strong> сознание существа охвачено лихорадкой. Существо совершает проверки и спасброски ИНТ с помехой и в бою ведет себя так, как будто находится под действием заклинания <em>Смятение</em>.</li><li><strong>Судороги:</strong> существо сотрясает дрожь. Существо совершает проверки ЛОВ, спасброски ЛОВ и броски атаки, использующие ЛОВ, с помехой.</li><li><strong>Кровавая погибель:</strong> существо начинает неудержимо кровоточить. Существо совершает проверки и спасброски ТЕЛ с помехой. Кроме того, когда существо получает урон, оно становится &Reference[stunned]{ошеломленным} до конца своего следующего хода.</li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2453,7 +2453,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"wisdom\" }], \"note\": { \"rollMode\": -1, \"text\": \"Pain grips your’s mind, and your eyes turn milky white. You have disadvantage on WIS checks and WIS saves and area blinded.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"ability-check\",\"ability-save\"]},{\"k\":\"ability\",\"v\":\"wisdom\"}],\"note\":{\"rollMode\":-1,\"text\":\"Боль сжимает ваш разум, а глаза мутнеют. Вы совершаете проверки и спасброски МДР с помехой и являетесь ослепленным.\"}}",
               "priority": null
             }
           ],
@@ -2499,7 +2499,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"] }, { \"k\": \"ability\", \"v\": \"strength\" }], \"note\": { \"rollMode\": -1, \"text\": \"A raging fever sweeps through the your body. You have disadvantage on STR checks, STR saves, and attack rolls that use STR.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"ability-check\",\"ability-save\",\"attack\"]},{\"k\":\"ability\",\"v\":\"strength\"}],\"note\":{\"rollMode\":-1,\"text\":\"Тело охватывает сильная лихорадка. Вы совершаете проверки СИЛ, спасброски СИЛ и броски атаки, использующие СИЛ, с помехой.\"}}",
               "priority": null
             }
           ],
@@ -2543,7 +2543,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"v\": \"ability-check\" }, { \"k\": \"ability\", \"v\": \"charisma\" }], \"note\": { \"rollMode\": -1, \"text\": \"Your flesh decays. You have disadvantage on CHA checks and become vulnerable to all damage.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"v\":\"ability-check\"},{\"k\":\"ability\",\"v\":\"charisma\"}],\"note\":{\"rollMode\":-1,\"text\":\"Ваша плоть разлагается. Вы совершаете проверки ХАР с помехой и становитесь уязвимым ко всему урону.\"}}",
               "priority": null
             },
             {
@@ -2593,7 +2593,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"intelligence\" }], \"note\": { \"rollMode\": -1, \"text\": \"Your mind becomes feverish. You have disadvantage on INT checks and INT saves, and you behave as if under the effects of the confusion spell during combat.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"ability-check\",\"ability-save\"]},{\"k\":\"ability\",\"v\":\"intelligence\"}],\"note\":{\"rollMode\":-1,\"text\":\"Ваш разум становится лихорадочным. Вы совершаете проверки и спасброски ИНТ с помехой и в бою ведете себя как под действием заклинания «Смятение».\"}}",
               "priority": null
             }
           ],
@@ -2637,7 +2637,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\", \"attack\"] }, { \"k\": \"ability\", \"v\": \"dexterity\" }], \"note\": { \"rollMode\": -1, \"text\": \"You are overcome with shaking. You have disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"ability-check\",\"ability-save\",\"attack\"]},{\"k\":\"ability\",\"v\":\"dexterity\"}],\"note\":{\"rollMode\":-1,\"text\":\"Вас охватывает дрожь. Вы совершаете проверки ЛОВ, спасброски ЛОВ и броски атаки, использующие ЛОВ, с помехой.\"}}",
               "priority": null
             }
           ],
@@ -2681,7 +2681,7 @@
             {
               "key": "system.modifiers",
               "mode": 2,
-              "value": "{ \"type\": \"note\", \"filter\": [{ \"k\": \"type\", \"o\": \"in\", \"v\": [\"ability-check\", \"ability-save\"] }, { \"k\": \"ability\", \"v\": \"constitution\" }], \"note\": { \"rollMode\": -1, \"text\": \"You begin to bleed uncontrollably. You have disadvantage on CON checks and CON saves. In addition, when you take damage, you are stunned until the end of your next turn.\" } }",
+              "value": "{\"type\":\"note\",\"filter\":[{\"k\":\"type\",\"o\":\"in\",\"v\":[\"ability-check\",\"ability-save\"]},{\"k\":\"ability\",\"v\":\"constitution\"}],\"note\":{\"rollMode\":-1,\"text\":\"Вы начинаете неудержимо кровоточить. Вы совершаете проверки и спасброски ТЕЛ с помехой. Кроме того, когда вы получаете урон, вы становитесь ошеломленным до конца своего следующего хода.\"}}",
               "priority": null
             }
           ],
@@ -3190,7 +3190,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sends necrotic power into up to three friendly Undead it can see, other than itself, within 30 feet of it. Each target regains [[/healing average]] and has advantage on the next attack roll it makes before the start of the [[lookup @name lowercase]]'s next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] направляет некротическую силу в трех дружественных Нежитей, которых видит в пределах 30 футов, не считая себя. Каждая цель восстанавливает [[/healing average]] и получает преимущество на следующий бросок атаки до начала следующего хода [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3329,7 +3329,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] glares at one creature it can see within 60 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the target fails the save by 5 or more, it is also &Reference[paralyzed]{парализован} for the same duration.</p>",
+          "value": "<p>[[lookup @name lowercase]] впивается взглядом в одно существо, которое видит в пределах 60 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода. Если цель провалила спасбросок на 5 и более, на тот же срок она также становится &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3461,7 +3461,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] automatically detects every creature that isn’t a Construct or Undead within 30 feet of it, pinpointing the current location of each.</p>",
+          "value": "<p>[[lookup @name lowercase]] автоматически обнаруживает каждое существо, не являющееся Конструктом или Нежитью, в пределах 30 футов, точно определяя его текущее местоположение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3591,7 +3591,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] transforms into loose sand and teleports up to 60 feet to an unoccupied space it can see, reforming in that space. Any equipment it is wearing or carrying transforms with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] превращается в сыпучий песок и телепортируется на расстояние до 60 футов в видимое незанятое пространство, где вновь принимает форму. Любое носимое и переносимое снаряжение преобразуется вместе с ним.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3718,7 +3718,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] uses Undead Servitors.</p>",
+          "value": "<p>[[lookup @name lowercase]] использует «Нежить-слуги».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3875,7 +3875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mummy lord unleashes a wave of divine energy. Each creature within 10 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] necrotic damage or radiant damage (the mummy lord’s choice) and is &Reference[stunned]{ошеломлён} until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>Лорд мумий высвобождает волну божественной энергии. Каждое существо в пределах 10 футов должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] некротического урона или урона излучением (по выбору лорда мумий) и становится &Reference[stunned]{ошеломленным} до конца своего следующего хода. При успехе существо получает половину урона и не ошеломляется.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4029,7 +4029,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Mummies, and to a lesser extent their remains, can spread a unique, disease-like curse called mummy rot that slowly rots the flesh of those cursed. A creature has a 50 percent chance ([[/r d100cs&lt;51]]) to become cursed with mummy rot for each minute it spends exposed to the remains of a mummy or to the remains of a creature that died while cursed by mummy rot. A creature normally immune to disease is immune to mummy rot, but spells and effects that combat diseases, such as the restoration spell, have no effect on mummy rot.</p><p>The flesh of a creature cursed with mummy rot slowly deteriorates, rotting off in flakes at first then whole chunks as the curse progresses. While cursed, a creature can’t regain HP, and at the end of each long rest, it must succeed on a [[/save format=long]] or its HP maximum is reduced by 7 ([[/r 2d6]]). If the curse reduces the creature’s HP maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the @UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{remove curse} spell or similar magic.</p><section id=\"secret-mcAuOgEVmlAnvRko\" class=\"secret\"><p><em>Note: Inline links are available above to roll a percentile dice and HP Max decrease. When rolling the percentile dice, a result of 1 represents a failed roll. A roll of 0 represents a successful roll.</em></p></section>",
+          "value": "<p>Мумии, а в меньшей степени и их останки, могут распространять уникальное проклятие, похожее на болезнь, - «гниль мумии», которое медленно разлагает плоть проклятых. За каждую минуту контакта с останками мумии или с останками существа, умершего под этим проклятием, существо имеет 50% шанс ([[/r d100cs&lt;51]]) получить «гниль мумии». Существо, обычно иммунное к болезням, также иммунно к «гнили мумии», но заклинания и эффекты, лечащие болезни (например, «Восстановление»), на нее не действуют.</p><p>Плоть проклятого существа постепенно распадается: сначала осыпается хлопьями, затем целыми кусками. Пока действует проклятие, существо не может восстанавливать хиты, а в конце каждого продолжительного отдыха должно преуспеть в [[/save format=long]], иначе максимум его хитов уменьшается на 7 ([[/r 2d6]]). Если максимум хитов снижается до 0, существо умирает, а его тело обращается в прах. Проклятие длится, пока не будет снято заклинанием @UUID[Compendium.black-flag-ru.spells.Item.1CSuwbYVhlmZMNGM]{Снятие проклятия} или схожей магией.</p><section id=\"secret-mcAuOgEVmlAnvRko\" class=\"secret\"><p><em>Примечание: выше доступны встроенные ссылки для броска процентной кости и уменьшения максимума хитов. При броске процентной кости результат 1 означает провал, а 0 - успех.</em></p></section>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -4264,7 +4264,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 17 format=long]] or be cursed with mummy rot (see the Mummy Rot sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 17 format=long]], иначе получает проклятие «гниль мумии» (см. раздел «Гниль мумии» во вкладке биографии).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4437,7 +4437,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the mummy lord’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] (по выбору лорда мумий).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

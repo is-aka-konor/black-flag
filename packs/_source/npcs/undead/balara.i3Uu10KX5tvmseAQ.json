@@ -340,7 +340,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature that can see the balara’s glowing ribcage starts its turn within 30 feet of the balara, the balara can force it to make a [[/save format=long]] if the balara isn’t incapacitated and can see the creature. On a failure, the creature is &Reference[frightened]{испуган} until the start of its next turn, as the visions, fear, and pain of the last moments of several animals flash through its mind. While frightened, the creature’s speed is reduced to 0, and it can’t use reactions.</p><p>Unless surprised, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the balara until the start of its next turn, when it can avert its eyes again. If the creature looks at the balara in the meantime, it must immediately make the save.</p>",
+          "value": "<p>Когда существо, видящее светящуюся грудную клетку балары, начинает ход в пределах 30 футов от нее, балара может заставить его совершить [[/save format=long]], если балара не &Reference[incapacitated]{недееспособна} и видит это существо. При провале существо становится &Reference[frightened]{испуганным} до начала своего следующего хода: в его разуме вспыхивают видения страха, боли и последних мгновений жизни нескольких животных. Пока существо испугано, его скорость равна 0, и оно не может использовать реакции.</p><p>Если существо не застигнуто врасплох, в начале хода оно может отвести взгляд, чтобы избежать спасброска. В этом случае до начала своего следующего хода существо не видит балару, после чего может снова отвести взгляд. Если до этого оно посмотрит на балару, то немедленно совершает спасбросок.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -654,7 +654,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The balara makes one Bite attack and two Claw attacks, or it makes three Necrotic Bolt attacks.</p>",
+          "value": "<p>Балара совершает одну атаку «Укус» и две атаки «Когти» либо три атаки «Некротический разряд».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -778,7 +778,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the [[lookup @name lowercase]] can see moves away from it, the [[lookup @name lowercase]] can move up to half its speed toward that creature. This movement doesn’t provoke opportunity attacks.</p>",
+          "value": "<p>Когда видимое [[lookup @name lowercase]] существо отходит от него, [[lookup @name lowercase]] может переместиться к этому существу на расстояние до половины своей скорости. Это перемещение не провоцирует атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -945,7 +945,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target can’t regain HP until the start of the [[lookup @name lowercase]]'s next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель не может восстанавливать хиты до начала следующего хода [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1290,7 +1290,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target can’t regain HP until the start of the [[lookup @name lowercase]]’s next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель не может восстанавливать хиты до начала следующего хода [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

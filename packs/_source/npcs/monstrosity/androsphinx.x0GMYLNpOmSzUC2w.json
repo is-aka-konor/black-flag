@@ -1410,7 +1410,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Вы касаетесь существа и можете прекратить одну болезнь или одно &Reference[blinded] &Reference[deafened] &Reference[paralyzed] &Reference[poisoned] состояние, поражающее его. Состояние может быть слепота, глухота, паралич или отравление.</p>",
+          "value": "<p>Вы касаетесь существа и можете завершить действие одной болезни или одного из состояний: &Reference[blinded]{ослеплен}, &Reference[deafened]{оглохший}, &Reference[paralyzed]{парализован} или &Reference[poisoned]{отравлен}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2816,7 +2816,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx emits one of the following magical roars. Each roar is audible up to 300 feet away. When it roars, the sphinx chooses up to three creatures it can see within 120 feet of it to be affected by the roar. A creature that fails a save and is affected by an ongoing effect can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p><ul><li><p>@Embed[.Activity.vh3Svy3BdFTStChq activate inline]{Rumbling Roar}</p></li><li><p class=\"p1\">@Embed[.Activity.UQW5kX0GuLB3XJ1r activate inline]{Terrifying Roar}</p></li><li><p class=\"p1\">@Embed[.Activity.ywY9HKOnZBanDedx activate inline]{Thunderous Roar}</p></li></ul>",
+          "value": "<p>Сфинкс издает один из следующих магических ревов. Каждый рев слышен на расстоянии до 300 футов. Когда сфинкс рычит, он выбирает до трех существ, которых видит в пределах 120 футов от себя; на них действует этот рев. Существо, провалившее спасбросок и находящееся под длительным эффектом, может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе.</p><ul><li><p>@Embed[.Activity.vh3Svy3BdFTStChq activate inline]{Грохочущий рев}</p></li><li><p class=\"p1\">@Embed[.Activity.UQW5kX0GuLB3XJ1r activate inline]{Устрашающий рев}</p></li><li><p class=\"p1\">@Embed[.Activity.ywY9HKOnZBanDedx activate inline]{Громовой рев}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3367,7 +3367,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] rears up on its hind legs, wings fluttering, and swipes in a wide arc with both its forepaws. Each creature in a 15-foot cone must succeed on a [[/save format=long]] or take [[/damage format=long]] damage and suffer a bleeding wound. A creature with a bleeding wound loses [[/damage 1d10 average]] HP at the start of each of its turns. Any creature can take an action to stanch the wound with a successful [[/check medicine 18 format=long]]. The wound also closes if the bleeding creature receives magical healing.</p><p><em>Note: The Medicine check is configured as an Free Action, but it is actually and Action.</em></p>",
+          "value": "<p>[[lookup @name lowercase]] привстает на задние лапы, взмахивает крыльями и обеими передними лапами наносит широкий рассекающий удар. Каждое существо в 15-футовом конусе должно преуспеть в [[/save format=long]], иначе получает [[/damage format=long]] урона и кровоточащую рану. Существо с такой раной теряет [[/damage 1d10 average]] хитов в начале каждого своего хода. Любое существо может действием остановить кровотечение, преуспев в [[/check medicine 18 format=long]]. Рана также закрывается, если кровоточащее существо получает магическое исцеление.</p><p><em>Примечание: проверка Медицины настроена как свободное действие, но фактически требует действия.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

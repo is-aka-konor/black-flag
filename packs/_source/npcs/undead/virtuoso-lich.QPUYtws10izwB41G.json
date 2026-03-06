@@ -738,7 +738,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the end of each long rest, the lich chooses one form of artistic expression, such as song, poetry, dance, fashion, paint, or similar. Until it finishes a long rest, the lich has immunity to one type of damage, which is associated with its artistic expression. For example, a lich expressing art through song or poetry has immunity to thunder damage, a lich expressing art through fashion has immunity to slashing damage, and a lich expressing art through paint has immunity to acid damage. This trait can’t give the lich immunity to force, psychic, or radiant damage.</p>",
+          "value": "<p>В конце каждого продолжительного отдыха лич выбирает одну форму художественного выражения: песню, поэзию, танец, моду, живопись и т.п. До следующего продолжительного отдыха лич получает иммунитет к одному типу урона, связанному с выбранным искусством. Например, песня или поэзия дают иммунитет к урону громом, мода - к рубящему урону, живопись - к урону кислотой. Это свойство не может дать иммунитет к урону силой, психическому урону или урону излучением.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -859,7 +859,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The virtuoso lich uses Corrupted Art. It then makes three Artistic Flourish attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Лич-виртуоз использует «Искаженное искусство». Затем он совершает три атаки «Художественный росчерк». Одну атаку он может заменить применением «Сотворения заклинаний».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -995,7 +995,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich chooses one Beast or Humanoid it can see within 30 feet of it to be its muse. The target must succeed on a [[/save format=long]] or become the lich’s muse and be charmed by the lich for 1 minute. While charmed, the muse has a speed of 0 and is incapacitated as it watches or listens to the lich’s artistic expression. The muse can repeat the save at the end of each of its turns, ending the effect on itself on a success. If a creature’s save is successful or the effect ends for it, the creature is immune to the lich’s Call Muse for the next 24 hours. If the muse suffers harm from the lich, it is no longer charmed.</p><p>The lich can have only one muse at a time. If it charms another, the effect on the previous muse ends. If the lich is within 30 feet of its muse and can see its muse, the lich has advantage on its first Artistic Flourish attack each round against a creature that isn’t its muse.</p>",
+          "value": "<p>Лич выбирает одно существо типа Зверь или Гуманоид, которое видит в пределах 30 футов, чтобы сделать его своей музой. Цель должна преуспеть в [[/save format=long]], иначе становится музой лича и оказывается им очарована на 1 минуту. Пока цель очарована, ее скорость равна 0, и она недееспособна, наблюдая или вслушиваясь в художественное выражение лича. Муза может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно проходит спасбросок или эффект на нем заканчивается, оно получает иммунитет к «Призыву музы» лича на 24 часа. Если лич причиняет музе вред, она перестает быть очарованной.</p><p>У лича может быть только одна муза одновременно. Если он очарует другую, эффект на предыдущей заканчивается. Если лич находится в пределах 30 футов от своей музы и видит ее, он получает преимущество на первую атаку «Художественный росчерк» в каждом раунде против существа, не являющегося его музой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1206,7 +1206,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich hums a discordant melody, paints a crumbling symbol of death in the air, performs a reality-bending pirouette, or emulates some other expression of corrupted or twisted art and targets one creature it can see, other than itself, within 60 feet. This action’s effects change, depending on if the target is Undead.</p><ul><li><p>@Embed[.Activity.L8VZplUoUFbEunoY activate inline]{Non-Undead}</p></li><li><p>@Embed[.Activity.1E5zshVx0GJf1QWV activate inline]{Undead}</p></li></ul>",
+          "value": "<p>Лич насвистывает диссонирующую мелодию, рисует в воздухе рушащийся символ смерти, исполняет искривляющее реальность па или выражает искаженное искусство и выбирает одно видимое существо, кроме себя, в пределах 60 футов. Эффект этого действия зависит от того, является ли цель Нежитью.</p><ul><li><p>@Embed[.Activity.L8VZplUoUFbEunoY activate inline]{Не Нежить}</p></li><li><p>@Embed[.Activity.1E5zshVx0GJf1QWV activate inline]{Нежить}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2141,7 +2141,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Существо по вашему выбору, которое вы можете видеть в пределах дистанции, воспринимает все как уморительно смешное и впадает в приступы смеха, если это заклинание на него действует. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе упадет ничком, станет недееспособной и не сможет встать на время действия заклинания. Существо с Интеллектом 3 (-4) или ниже не подвержено действию этого заклинания. &Reference[incapacitated] В конце каждого своего хода и каждый раз, когда оно получает урон, цель может совершить еще один спасбросок Мудрости, прекращая заклинание при успехе. Цель имеет преимущество на спасбросок, если он вызван уроном.</p>",
+          "value": "<p>Существо по вашему выбору, которое вы видите в пределах дистанции, воспринимает все как уморительно смешное и впадает в неудержимый смех, если это заклинание на него действует. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе падает ничком, становится &Reference[incapacitated]{недееспособной} и не может встать на время действия заклинания. Существо с Интеллектом 3 (-4) или ниже не подвержено действию этого заклинания. В конце каждого своего хода и каждый раз, когда цель получает урон, она может совершить еще один спасбросок Мудрости, завершая заклинание при успехе. Цель совершает этот спасбросок с преимуществом, если он вызван получением урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2319,7 +2319,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет парализована на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая &Reference[paralyzed] эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
+          "value": "<p>Выберите существо Среднего или меньшего размера, которое вы можете видеть в пределах дистанции. Цель должна преуспеть в спасброске Мудрости [[/save]], иначе будет &Reference[paralyzed]{парализована} на время действия заклинания. В конце каждого своего хода затронутая цель может повторить спасбросок Мудрости, прекращая эффект на себе в случае успеха. Это заклинание не действует на Нежить.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы выбираете их целями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2493,7 +2493,7 @@
           "max": "3"
         },
         "description": {
-          "value": "<p>Существо, которого вы касаетесь, становится невидимым до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание. &Reference[invisible]</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
+          "value": "<p>Существо, которого вы касаетесь, становится &Reference[invisible]{невидимым} до окончания действия заклинания. Все, что цель носит или несет, невидимо, пока находится на теле цели. Заклинание заканчивается для цели, которая атакует или накладывает заклинание.</p><em>На более высоких кругах.</em><p>Когда вы накладываете это заклинание, используя ячейку заклинания 3-го круга или выше, вы можете выбрать целью одно дополнительное существо за каждый круг ячейки выше 2-го.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -2835,7 +2835,7 @@
           "max": "2"
         },
         "description": {
-          "value": "<p>Вы проецируете призрачный образ худших страхов существа. Каждое существо в 30-футовом конусе должно преуспеть в спасброске Мудрости [[/save wisdom]], иначе уронит все, что держит, и станет напуганным вами на время действия заклинания. Будучи напуганным этим заклинанием, существо должно совершать действие Рывок и двигаться от вас по самому безопасному доступному маршруту в каждый свой ход, если только двигаться некуда. Если существо заканчивает свой ход в месте, где у него нет линии видимости до вас, существо может совершить спасбросок Мудрости, прекращая &Reference[frightened] эффект на себе в случае успеха.</p>",
+          "value": "<p>Вы проецируете призрачный образ худших страхов существа. Каждое существо в 30-футовом конусе должно преуспеть в спасброске Мудрости [[/save wisdom]], иначе уронит все, что держит, и станет &Reference[frightened]{испуганным} вами на время действия заклинания. Будучи испуганным этим заклинанием, существо должно совершать действие «Рывок» и двигаться от вас по самому безопасному доступному маршруту в каждый свой ход, если только двигаться некуда. Если существо заканчивает свой ход в месте, где у него нет линии видимости до вас, оно может совершить спасбросок Мудрости, прекращая эффект на себе в случае успеха.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           },
@@ -3729,7 +3729,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich uses Call Muse.</p>",
+          "value": "<p>Лич использует «Призыв музы».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4137,7 +4137,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lich unleashes the full force of its artistic talents on those nearby. Each creature with 15 feet of the lich must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage of the type chosen with the Versatile Artist trait and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>Лич высвобождает всю мощь своего художественного дара на ближайших врагов. Каждое существо в пределах 15 футов от лича должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона типа, выбранного свойством «Универсальный художник», и оказывается &Reference[prone]{сбитым с ног}. При успехе существо получает половину урона и не сбивается с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -4286,7 +4286,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] of the type chosen with the Versatile Artist trait plus [[/damage 2d8 force average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона типа, выбранного свойством «Универсальный художник», плюс [[/damage 2d8 force average]] урона силой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

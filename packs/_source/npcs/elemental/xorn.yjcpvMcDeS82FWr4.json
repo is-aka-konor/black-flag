@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 18 while in rocky terrain.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 18, пока он находится в каменистой местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -367,7 +367,7 @@
           "value": null
         }
       },
-      "name": "Каменный Камуфляж",
+      "name": "Каменный камуфляж",
       "type": "feature",
       "_id": "kksauML0nY6iswGc",
       "img": "icons/magic/defensive/armor-stone-skin.webp",
@@ -472,7 +472,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.</p>",
+          "value": "<p>Ксорн может по запаху точно определять местоположение драгоценных металлов и камней, например монет и самоцветов, в пределах 60 футов от себя.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -593,7 +593,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The xorn makes one Bite attack and three Claw attacks, or it makes three Lob Stone attacks.</p>",
+          "value": "<p>Ксорн совершает одну атаку «Кусать» и три атаки «Коготь» либо три атаки «Бросок камня».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -796,7 +796,7 @@
         },
         "rarity": ""
       },
-      "name": "Лоб Стоун",
+      "name": "Бросок камня",
       "type": "weapon",
       "_id": "lPEggyXxbMfB51PK",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -909,7 +909,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The xorn belches a mixture of stomach gas and crystalline shards in a 15-foot cone. Each creature in the area must succeed on a [[/save format=long]] or be coated in miniscule, crystalline shards until the end of its next turn. A creature coated in shards suffers bouts of pain each time it moves, reducing its speed by 10 feet and imposing disadvantage on all weapon attack rolls.</p>",
+          "value": "<p>Ксорн изрыгает смесь желудочного газа и кристаллических осколков 15-футовым конусом. Каждое существо в этой области должно преуспеть в [[/save format=long]] или покрыться мельчайшими кристаллическими осколками до конца своего следующего хода. Существо, покрытое осколками, испытывает приступы боли при каждом движении: его скорость уменьшается на 10 футов, а все броски атаки оружием совершаются с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1138,7 +1138,7 @@
       "_key": "!actors.items!yjcpvMcDeS82FWr4.Q29pLU9zaHsBvBNh"
     },
     {
-      "name": "коготь",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "69wCh1PbRIfP2f9g",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",

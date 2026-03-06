@@ -447,7 +447,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] Stealth is 17 while in rocky terrain.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 17, пока он находится на каменистой местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -285,7 +285,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don’t even need to be on the same plane of existence.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничение дистанции своей телепатии при общении с существом, которое он очаровал. Им даже не обязательно находиться на одном плане существования.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -406,7 +406,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The succubus makes two Claw attacks or one Claw attack and one Draining Kiss attack. It can replace one attack with Charm.</p>",
+          "value": "<p>Суккуб совершает две атаки «Коготь» либо одну атаку «Коготь» и одну атаку «Истощающий поцелуй». Одну из атак он может заменить на «Очарование».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -543,7 +543,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Humanoid the succubus can see within 30 feet of it must succeed on a [[/save format=long]] or be magically &Reference[charmed]{очарован} for 1 day, until the succubus dies, or until the succubus takes a bonus action to end the effect. The charmed target obeys the succubus’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the save, ending the effect on itself on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this succubus’s Charm for the next 24 hours.</p><p>The succubus can have only one target charmed at a time. If it charms another, the effect on the previous target ends.</p>",
+          "value": "<p>Один Гуманоид в пределах 30 футов, которого суккуб видит, должен преуспеть в [[/save format=long]] или быть магически очарованным (&Reference[charmed]{очарован}) на 1 день, пока суккуб не погибнет или пока суккуб бонусным действием не прекратит эффект. Очарованная цель подчиняется словесным или телепатическим приказам суккуба. Если цель получает любой урон или приказ совершить самоубийство, она может повторить спасбросок, оканчивая эффект при успехе. Если цель успешно проходит спасбросок против эффекта либо эффект на ней заканчивается, она получает иммунитет к «Очарованию» этого суккуба на следующие 24 часа.</p><p>Суккуб может одновременно держать очарованной только одну цель. Если он очаровывает другую, эффект на предыдущей цели оканчивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -670,7 +670,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The succubus transforms into a Small or Medium Humanoid or back into its true form, which is Fiend. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>Суккуб превращается в Гуманоида Малого или Среднего размера либо возвращается в истинную форму Исчадия. Его характеристики, кроме размера, одинаковы в обеих формах. Носимое и переносимое им снаряжение не изменяется. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -797,7 +797,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically enters the Ethereal Plane from the Material Plane, or vice versa.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически переходит с Материального плана на Эфирный или обратно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -924,7 +924,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the succubus can see within 5 feet of a creature charmed by the succubus attacks the succubus, the succubus can command the charmed creature to use its reaction to make one melee weapon attack against the attacker.</p>",
+          "value": "<p>Когда существо, которое суккуб видит в пределах 5 футов от существа, очарованного суккубом, атакует суккуба, суккуб может приказать очарованному существу использовать реакцию и совершить одну рукопашную атаку оружием по атакующему.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1261,7 +1261,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one willing creature, or a creature that is charmed, incapacitated, or restrained. [[/damage average]], and the target’s HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.</p>",
+          "value": "<p><em>Рукопашная атака оружием</em>: [[/attack]], досягаемость 5 фт.; одна согласная цель либо существо, которое очаровано, недееспособно или опутано. [[/damage average]] урона, и максимум хитов цели уменьшается на величину полученного урона. Это уменьшение длится до завершения целью продолжительного отдыха. Цель погибает, если этим эффектом её максимум хитов снижается до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

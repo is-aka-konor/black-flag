@@ -138,7 +138,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>An enormous worm, its body armored in plates of bluish-purple chitin, bursts from the cavern floor. Its vast, toothy maw is large enough to swallow a horse whole.</em></p><p>Truly the rulers of their domains, purple worms claim the Underworld as their hunting grounds. These tremendous monsters can bore through solid rock, creating new tunnels and passageways as they travel. Any creature a purple worm encounters besides another of its kind is prey.</p><p><strong>Follow Prey by Sound.</strong> Purple worms are attracted by sound and vibration, leading most subterranean humanoids to travel as quietly as possible and ensure that battles are short and decisive. Major settlements in the Underworld have contingencies in place for a purple worm attack.</p><p><strong>Gemstones and Ore.</strong> A purple worm digests the earth and rock it ingests while tunneling, excreting it along the tunnels it creates and in the caverns where it rests. In mineral-rich areas, brave souls may find undigested gems and unrefined ores among a purple worm’s waste, or even inside its body if they are mighty enough to defeat it.</p>",
+      "value": "<p><em>Из пола пещеры вырывается исполинский червь, чьё тело покрыто пластинами синевато-фиолетового хитина. Его громадная зубастая пасть настолько велика, что способна проглотить лошадь целиком.</em></p><p>Истинные владыки своих владений, фиолетовые черви считают Подземье своими охотничьими угодьями. Эти чудовищные создания способны прогрызать цельную породу, оставляя за собой новые туннели и проходы. Любое существо, кроме другого червя их вида, для них - добыча.</p><p><strong>След по звуку.</strong> Фиолетовых червей привлекают звук и вибрации, поэтому обитатели подземья стараются двигаться как можно тише, а сражения заканчивать быстро и решительно. Крупные поселения в подземном мире обычно имеют планы на случай нападения такого чудовища.</p><p><strong>Самоцветы и руда.</strong> Прогрызая породу, фиолетовый червь переваривает землю и камень и выбрасывает остатки в туннелях и пещерах, где отдыхает. В богатых минералами областях смельчаки могут найти в его отходах непереваренные самоцветы и необработанную руду - или даже внутри самого червя, если хватит сил его одолеть.</p>",
       "legendary": ""
     },
     "description": {
@@ -649,7 +649,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The purple worm convulses its large body, smashing everything around it. Each creature within 20 feet of the worm must make a [[/save]] save. On a failure, a creature takes [[/damage average]] damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.</p>",
+          "value": "<p>Пурпурный червь судорожно изгибает огромное тело, сокрушая все вокруг. Каждое существо в пределах 20 футов от червя совершает [[/save]]. При провале существо получает [[/damage average]] урона и становится &Reference[stunned]{ошеломленным} до конца своего следующего хода. При успехе существо получает половину урона и не ошеломляется.</p>",
           "source": {}
         },
         "identifier": {},
@@ -779,7 +779,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The purple worm’s digestive system absorbs some of the already digested material from creatures it has swallowed. If the purple worm has at least one swallowed creature inside it, the purple worm regains [[/healing]]. This healing increases by [[/healing 1d8]] for each creature currently inside the purple worm, to a maximum of [[/healing 10d8]].</p>",
+          "value": "<p>Пищеварительная система пурпурного червя усваивает часть уже переваренной массы проглоченных существ. Если внутри пурпурного червя находится хотя бы одно проглоченное существо, пурпурный червь восстанавливает [[/healing]]. Это исцеление увеличивается на [[/healing 1d8]] за каждое существо внутри, максимум до [[/healing 10d8]].</p>",
           "source": {}
         },
         "identifier": {
@@ -1157,7 +1157,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Large or smaller creature, it must make a [[/save dexterity 19]] or be swallowed by the purple worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside of the worm, and it takes [[/damage 6d6 acid average]] damage at the start of each of the worm’s turns.</p><p>If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a [[/save constitution 21]] save at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо Большого размера или меньше, она должна преуспеть в [[/save dexterity 19]], иначе будет проглочена фиолетовым червём. Проглоченное существо является &Reference[blinded]{ослеплённым} и &Reference[restrained]{опутанным}, имеет полное укрытие от атак и других эффектов вне червя и получает [[/damage 6d6 acid average]] урона кислотой в начале каждого хода червя.</p><p>Если за один ход червь получает 30 или более урона от существа внутри него, в конце этого хода червь должен преуспеть в [[/save constitution 21]], иначе изрыгивает всех проглоченных существ; они падают &Reference[prone]{сбитыми с ног} в пространстве в пределах 10 футов от червя. Если червь умирает, проглоченное существо больше не опутано им и может выбраться из трупа, потратив 20 футов перемещения, оказываясь сбитым с ног.</p>",
           "source": {}
         },
         "identifier": {
@@ -1427,7 +1427,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save constitution 19]] save, taking [[/damage 12d6 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна совершить [[/save constitution 19]], получая [[/damage 12d6 poison average]] урона ядом при провале или половину этого урона при успехе.</p>",
           "source": {}
         },
         "identifier": {

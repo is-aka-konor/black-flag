@@ -278,7 +278,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hivebound’s individual insects and swarms under its control are connected via a hive mind. It can telepathically communicate with any of its individual insects and swarms within 1 mile of it, and it can’t be surprised. It can have up to five swarms of insects under its control at a time.</p>",
+          "value": "<p>Отдельные насекомые и рои под контролем [[lookup @name lowercase]] связаны единым роевым разумом. Он может телепатически общаться с любыми своими отдельными насекомыми и роями в пределах 1 мили и не может быть застигнут врасплох. Одновременно под его контролем может находиться до пяти роев насекомых.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -463,7 +463,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] starts its turn afflicted by an ongoing effect that allows a repeated INT, WIS, or CHA save to end the effect, such as the @UUID[Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix]{hold} spell, the [[lookup @name lowercase]] can make the save at the start of the turn instead of the end and has advantage on the save.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] начинает свой ход под действием длительного эффекта, который можно завершить повторным спасброском ИНТ, МДР или ХАР (например, заклинанием @UUID[Compendium.black-flag-ru.spells.Item.kVXub5YGKOSXv8ix]{Удержание}), [[lookup @name lowercase]] может совершить этот спасбросок в начале хода вместо конца и делает его с преимуществом.</p>",
           "source": {
             "fallback": "Black Flab Reference Document"
           }
@@ -818,7 +818,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save dex 15 format=long]] or be pestered until the end of its next turn. A pestered creature has disadvantage on the next attack roll it makes before the pester ends.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save dex 15 format=long]], иначе до конца своего следующего хода её донимает рой. Донимаемое существо совершает следующий бросок атаки с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1016,7 +1016,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hivebound exhales stinging insects in a 30-foot cone. Each creature in the area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A swarm of insects under the hivebound’s control then forms in an unoccupied space in that area.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает жалящих насекомых 30-футовым конусом. Каждое существо в области совершает [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе - половину. Затем в незанятом пространстве в этой области формируется рой насекомых под контролем [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

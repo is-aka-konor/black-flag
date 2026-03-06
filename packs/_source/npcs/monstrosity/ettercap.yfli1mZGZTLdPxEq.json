@@ -1029,7 +1029,7 @@
             "page": "",
             "fallback": ""
           },
-          "value": "<p>The ettercap launches a gob of webbing at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан}. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 13 format=long]]. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>"
+          "value": "<p>Эттеркап выпускает сгусток паутины в одно видимое существо в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[restrained]{опутанной}. Существо, включая опутанную цель, может действием освободить цель от паутины, преуспев в [[/check str 13 format=long]]. Паутину также можно атаковать и уничтожить (КД 10; хиты 5; уязвимость к урону огнем; иммунитет к дробящему, яду и психическому урону).</p>"
         },
         "restriction": {
           "allowMultipleTimes": false,
@@ -1269,7 +1269,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Цель должна преуспеть в [[/save con 13 format=long]], иначе становится &Reference[poisoned]{отравленной} на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

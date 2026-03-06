@@ -337,7 +337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 20, it can hover while flying, can’t manipulate objects or attack, and it can pass through any space air can pass through without squeezing. In addition, it can enter and hide in any Tiny or larger container, such as a pouch, lamp, backpack, or barrel.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 20; он может парить в полёте, не может манипулировать предметами или атаковать и может проходить через любое пространство, через которое проходит воздух, не испытывая стеснения. Кроме того, он может входить и прятаться в любом контейнере Крошечного размера или больше, например в сумке, лампе, рюкзаке или бочке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -363,7 +363,7 @@
           "value": null
         }
       },
-      "name": "Туманность (только в форме облака)",
+      "name": "Туманное тело (только в форме облака)",
       "type": "feature",
       "_id": "oAnc6e2dry5krtDA",
       "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hinn makes three Gem-Studded Mace or Lob Stone attacks. If two Gem-Studded Mace attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[stunned]{ошеломлён} until the end of its next turn.</p>",
+          "value": "<p>Хинн совершает три атаки «Усыпанная драгоценными камнями булава» или «Бросок камня». Если по одному существу попадают две атаки «Усыпанная драгоценными камнями булава», цель должна преуспеть в [[/save format=long]] или стать ошеломлённой (&Reference[stunned]{ошеломлён}) до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -864,7 +864,7 @@
         },
         "rarity": ""
       },
-      "name": "Лоб Стоун",
+      "name": "Бросок камня",
       "type": "weapon",
       "_id": "8wpyW5Udf5zY864Q",
       "img": "icons/magic/earth/projectile-boulder-debris.webp",
@@ -980,7 +980,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically creates one earth-based Elemental of CR 5 or lower in an unoccupied space the [[lookup @name lowercase]] can see within 30 feet of it. The elemental acts as an ally of the [[lookup @name lowercase]], obeying its spoken commands. The elemental remains for 1 hour, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] dismisses it as a bonus action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магическим образом создаёт одного земляного Элементаля с ПО не выше 5 в незанятом пространстве в пределах 30 футов, которое видит [[lookup @name lowercase]]. Элементаль действует как союзник [[lookup @name lowercase]] и подчиняется его устным приказам. Элементаль существует 1 час, пока [[lookup @name lowercase]] не погибнет или пока [[lookup @name lowercase]] не развеет его бонусным действием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1144,7 +1144,7 @@
           "value": null
         }
       },
-      "name": "Путешествуйте на самолетах",
+      "name": "Сдвиг плана",
       "type": "feature",
       "_id": "fELnSQLTOLQF7XQU",
       "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
@@ -1273,7 +1273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hinn causes the ground on a point it can see within 60 feet of it to erupt. Each creature within 15 feet of that point must succeed on a [[/save format=long]] or take [[/damage average]] damage and be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Хинн заставляет почву в точке в пределах 60 футов, которую видит, взорваться и разверзнуться. Каждое существо в пределах 15 футов от этой точки должно преуспеть в [[/save format=long]] или получить [[/damage average]] урона и упасть ничком (&Reference[prone]{сбит с ног}).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1400,7 +1400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium cloud of dust filled with miniscule clashing, bursting, and reforming rocks or back into its bipedal form. Its statistics are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its bipedal form if it dies. The  [[lookup @name lowercase]] can’t use this bonus action to transform into its bipedal form while inside a Medium or smaller container.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в облако пыли Среднего размера, наполненное крошечными сталкивающимися, раскалывающимися и вновь формирующимися камнями, или обратно в свою двуногую форму. Его характеристики одинаковы в обеих формах. Любое носимое и переносимое им снаряжение преобразуется вместе с ним. При смерти он возвращается в двуногую форму. [[lookup @name lowercase]] не может этим бонусным действием вернуться в двуногую форму, находясь внутри контейнера Среднего или меньшего размера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1426,7 +1426,7 @@
           "value": null
         }
       },
-      "name": "Джинн Форма",
+      "name": "Форма хинна",
       "type": "feature",
       "_id": "jcXi2bWmT5vrrtUW",
       "img": "icons/magic/air/fog-gas-smoke-brown.webp",

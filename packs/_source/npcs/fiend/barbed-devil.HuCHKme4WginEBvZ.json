@@ -349,7 +349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the barbed devil dies, its body withers, leaving behind a mass of spikes on the ground in a 10-foot radius centered on the devil’s body. The area becomes difficult terrain for 1 minute, and when a creature moves into or within the area, it takes [[/damage average]] damage for every 5 feet it travels.</p>",
+          "value": "<p>Когда колючий дьявол погибает, его тело иссыхает, оставляя на земле массу шипов в радиусе 10 футов от его тела. Эта область становится труднопроходимой местностью на 1 минуту, и когда существо перемещается в эту область или внутри неё, оно получает [[/damage average]] урона за каждые 5 футов, которые проходит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -495,7 +495,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that hits the barbed devil with a melee attack while within 5 feet of it takes [[/damage average]] damage. A creature that starts its turn grappling or grappled by the barbed devil takes [[/damage average]] damage.</p>",
+          "value": "<p>Существо, которое попадает по колючему дьяволу рукопашной атакой, находясь в пределах 5 футов от него, получает [[/damage average]] урона. Существо, начинающее свой ход, удерживая колючего дьявола захватом или будучи схваченным им, получает [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -563,7 +563,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Magical darkness doesn’t impede the devil’s darkvision.</p>",
+          "value": "<p>Магическая тьма не мешает тёмному зрению дьявола.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -752,7 +752,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The devil makes two Claw attacks and one Tail attack, or it makes three Hurl Flame attacks.</p>",
+          "value": "<p>Дьявол совершает две атаки «Когти» и одну атаку «Хвост» либо три атаки «Бросить пламя».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1402,7 +1402,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a flammable object that isn’t being worn or carried, it also catches fire.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона. Если цель - горючий предмет, который никто не носит и не несёт, он также загорается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

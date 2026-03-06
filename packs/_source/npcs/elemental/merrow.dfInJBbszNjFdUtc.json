@@ -251,7 +251,7 @@
   },
   "items": [
     {
-      "name": "амфибия",
+      "name": "Амфибия",
       "type": "feature",
       "_id": "D0J0bLhgTLT6juLg",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -501,7 +501,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The merrow makes one Bite attack and two Claw attacks. It can replace one Claw attack with a Harpoon attack.</p>",
+          "value": "<p>Мерроу совершает одну атаку «Кусать» и две атаки «Коготь». Одну атаку «Коготь» он может заменить атакой «Гарпун».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -701,7 +701,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee or Ranged Weapon Attack</em>: [[/attack]], reach 5 ft. or range [[lookup @labels.range]]., one target. <em>Hit</em>: [[/damage average]] damage, and the harpoon sticks in the target. While the harpoon is stuck, the merrow can’t make Harpoon attacks against other targets, and the target and merrow can’t move farther than 60 feet away from each other. A creature, including the target, can take its action to detach the harpoon by succeeding on a [[/check str 14 format=long]]. Alternatively, the cord connecting the merrow to the harpoon can be attacked and destroyed (AC 10; HP 15; immune to bludgeoning, poison, and psychic damage), dislodging the harpoon into an unoccupied space within 5 feet of the target and preventing the merrow from using Recall Harpoon.</p>",
+          "value": "<p><em>Рукопашная или дальнобойная атака оружием</em>: [[/attack]], досягаемость 5 фт. или дистанция [[lookup @labels.range]], одна цель. <em>Попадание</em>: [[/damage average]] урона, и гарпун застревает в цели. Пока гарпун застрял, мерроу не может совершать атаки «Гарпун» по другим целям, а цель и мерроу не могут удаляться друг от друга более чем на 60 футов. Существо, включая цель, может действием отсоединить гарпун, преуспев в [[/check str 14 format=long]]. Либо можно атаковать и разрушить трос, соединяющий мерроу с гарпуном (КД 10; ХП 15; иммунитет к дробящему урону, яду и психическому урону), из-за чего гарпун высвобождается в незанятом пространстве в пределах 5 футов от цели, а мерроу не может использовать «Возврат гарпуна».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -855,7 +855,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The merrow takes the &Reference[Dash]{Dash} action. If it moves, it can propel itself into one creature it can see along its path. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. This movement doesn’t provoke opportunity attacks from a target that fails this save.</p>",
+          "value": "<p>Мерроу совершает действие &Reference[Dash]{Рывок}. Если он перемещается, то может врезаться в одно существо, которое видит на своём пути. Цель должна преуспеть в [[/save format=long]] или упасть ничком (&Reference[prone]{сбит с ног}). Это перемещение не провоцирует атак по возможности от цели, провалившей этот спасбросок.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -881,7 +881,7 @@
           "value": null
         }
       },
-      "name": "толкая Раш",
+      "name": "Толчковый рывок",
       "type": "feature",
       "_id": "bavrG1Nm6IfTMws6",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -994,7 +994,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The merrow pulls on the cord connected to its harpoon, returning the harpoon to its empty hand. If the harpoon is stuck in a creature, that creature must succeed on a [[/save format=long]] or be pulled up to 20 feet toward the merrow. Regardless, the harpoon is dislodged and returned to the merrow’s hand.</p>",
+          "value": "<p>Мерроу тянет за трос, соединённый с его гарпуном, возвращая гарпун в свободную руку. Если гарпун застрял в существе, это существо должно преуспеть в [[/save format=long]] или быть подтянутым к мерроу на расстояние до 20 футов. В любом случае гарпун высвобождается и возвращается в руку мерроу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1020,7 +1020,7 @@
           "value": null
         }
       },
-      "name": "Вспомнить гарпун",
+      "name": "Возврат гарпуна",
       "type": "feature",
       "_id": "Eofll0qCl4TUUuVa",
       "img": "icons/weapons/polearms/spear-flared-bronze-teal.webp",
@@ -1223,7 +1223,7 @@
       "_key": "!actors.items!dfInJBbszNjFdUtc.fbp4axY8XCP7ZGY9"
     },
     {
-      "name": "коготь",
+      "name": "Коготь",
       "type": "weapon",
       "_id": "aOaNVRQPF1oJMPYF",
       "img": "icons/skills/wounds/injury-triple-slash-bleed.webp",

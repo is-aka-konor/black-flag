@@ -417,7 +417,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in sunlight, the [[lookup @name lowercase]] has disadvantage on attack rolls, ability checks, and saves.</p>",
+          "value": "<p>Находясь под солнечным светом, [[lookup @name lowercase]] совершает броски атаки, проверки характеристик и спасброски с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -745,7 +745,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the [[lookup @name lowercase]] can see within 5 feet of it must succeed on a [[/save format=long]] or the [[lookup @name lowercase]] bonds with the target’s shadow for 1 minute. While bonded with the target’s shadow, the [[lookup @name lowercase]] can use this bonus action to teleport to an unoccupied space within 5 feet of that creature, provided the creature is within 120 feet of the [[lookup @name lowercase]].</p>",
+          "value": "<p>Одно существо в пределах 5 футов, которое [[lookup @name lowercase]] видит, должно преуспеть в [[/save format=long]], иначе [[lookup @name lowercase]] связывается с его тенью на 1 минуту. Пока связь действует, [[lookup @name lowercase]] может использовать это бонусное действие, чтобы телепортироваться в незанятое пространство в пределах 5 футов от этого существа, если существо находится в пределах 120 футов от [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -872,7 +872,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Hide]{Hide} action. It can use this bonus action only while in dim light or darkness.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает действие &Reference[Hide]{Засада}. Он может использовать это бонусное действие только в тусклом освещении или темноте.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1021,7 +1021,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target’s STR score is reduced by [[/r 1d4]]. The target dies if this reduces its STR to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a Humanoid dies from this attack, a new shadow rises from the corpse [[/r 1d4]] hours later.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], а значение СИЛ цели уменьшается на [[/r 1d4]]. Цель умирает, если ее СИЛ снижается до 0. Иначе уменьшение длится, пока цель не завершит короткий или продолжительный отдых. Если от этой атаки умирает Гуманоид, через [[/r 1d4]] часа из его трупа поднимается новая тень.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

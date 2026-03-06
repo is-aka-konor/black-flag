@@ -1,6 +1,6 @@
 {
   "folder": "Fm2a800RpGPvFKEJ",
-  "name": "Эринии",
+  "name": "Эриния",
   "type": "npc",
   "_id": "Za8SWZT6BRyG18Kx",
   "img": "systems/black-flag-ru/artwork/tokens/devil-erineys.webp",
@@ -164,7 +164,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Эринии",
+    "name": "Эриния",
     "displayName": 20,
     "actorLink": false,
     "appendNumber": false,
@@ -266,7 +266,7 @@
   "items": [
     {
       "folder": "FUnjG0V10gg8lqPG",
-      "name": "Тарелка",
+      "name": "Латный доспех",
       "type": "armor",
       "_id": "5spLEeRTeSdbyNRS",
       "img": "icons/equipment/chest/breastplate-sculpted-green.webp",
@@ -284,7 +284,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>",
+          "value": "<p>Латный доспех состоит из подогнанных и сцепленных металлических пластин, закрывающих всё тело. Комплект лат включает рукавицы, тяжёлые кожаные сапоги, шлем с забралом и плотную поддоспешную подкладку. Пряжки и ремни распределяют вес доспеха по телу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -548,7 +548,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the start of each of its turns, the erinyes chooses one of the following fighting styles to adopt, which lasts until the start of the erinyes’s next turn.</p><ul><li><p>@Embed[.Activity.FqFFAKLj4UqTIA3i activate inline]{Aggressive}</p></li><li><p>@Embed[.Activity.ILMQ60mwKwRjTFAT activate inline]{Retributive}</p></li><li><p>@Embed[.Activity.lcJyn98a7hvQKElW activate inline]{Defensive}</p></li></ul>",
+          "value": "<p>В начале каждого своего хода эриния выбирает один из следующих боевых стилей, который действует до начала её следующего хода.</p><ul><li><p>@Embed[.Activity.FqFFAKLj4UqTIA3i activate inline]{Агрессивный}</p></li><li><p>@Embed[.Activity.ILMQ60mwKwRjTFAT activate inline]{Карательный}</p></li><li><p>@Embed[.Activity.lcJyn98a7hvQKElW activate inline]{Оборонительный}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -616,7 +616,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s weapon attacks are magical. When the erinyes hits with any weapon, the weapon deals an extra 4d8 poison damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда эриния попадает любым оружием, оно наносит дополнительный урон ядом 4к8 (учтено в атаке).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -970,7 +970,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, или [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1225,7 +1225,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, и цель должна преуспеть в [[/save con 16 format=long]] или стать отравлённой (&Reference[poisoned]{отравлён}) на 1 минуту. Цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1372,7 +1372,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] adds 4 to its AC against one melee attack that would hit it. To do so, the [[lookup @name lowercase]] must see the attacker and be wielding a melee weapon.</p><section id=\"secret-3nA3z0hny5GdOUD8\" class=\"secret\"><p><em>Note: An Active Effect is available in the Effects tab of the character sheet to enable the AC bonus.</em></p></section>",
+          "value": "<p>[[lookup @name lowercase]] добавляет 4 к своему КД против одной рукопашной атаки, которая должна попасть по ней. Для этого [[lookup @name lowercase]] должна видеть атакующего и держать в руках рукопашное оружие.</p><section id=\"secret-3nA3z0hny5GdOUD8\" class=\"secret\"><p><em>Примечание: во вкладке «Эффекты» листа персонажа доступен активный эффект для включения бонуса к КД.</em></p></section>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -250,7 +250,7 @@
   },
   "items": [
     {
-      "name": "амфибия",
+      "name": "Амфибия",
       "type": "feature",
       "_id": "NY86dANbRkKxrtbX",
       "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
@@ -396,7 +396,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, или [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -707,7 +707,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Dash] or &Reference[Disengage] action.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает действие &Reference[Dash]{Рывок} или &Reference[Disengage]{Отход}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -733,7 +733,7 @@
           "value": null
         }
       },
-      "name": "Шустрый Раш",
+      "name": "Стремительный рывок",
       "type": "feature",
       "_id": "0C5EVF1C7TBODF3k",
       "img": "icons/skills/movement/figure-running-gray.webp",
@@ -846,7 +846,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the merfolk can see hits it with a melee attack while within 5 feet of it, the merfolk can twist its body to scrape the attacker’s arm or similar attacking appendage across the rough coral of its armor. The attacker must succeed on a [[/save format=long]] or have disadvantage on the next attack roll it makes before the end of its next turn, as its attacking appendage hurts from the abrasion.</p>",
+          "value": "<p>Когда существо, которое мерфолк видит, попадает по нему рукопашной атакой, находясь в пределах 5 футов от него, мерфолк может извернуться так, чтобы царапнуть руку нападающего или иной атакующий придаток о грубый коралл своего доспеха. Атакующий должен преуспеть в [[/save format=long]] или до конца своего следующего хода иметь помеху на следующий бросок атаки, поскольку атакующий придаток болит после ссадины.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

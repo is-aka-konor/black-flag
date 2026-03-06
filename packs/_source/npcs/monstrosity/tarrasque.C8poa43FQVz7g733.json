@@ -600,7 +600,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Any time the tarrasque is targeted by a @UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{magic missile} spell, a line spell, or a spell that requires a ranged attack roll, roll a [[/r d6]]. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.</p>",
+          "value": "<p>Каждый раз, когда тарраска становится целью заклинания <em>@UUID[Compendium.black-flag-ru.spells.Item.RBoSYpr3alIlLBro]{magic missile}</em>, линейного заклинания или заклинания, требующего дальнобойного броска атаки, бросьте [[/r d6]]. При результате 1-5 тарраска не получает эффекта. При результате 6 тарраска также не получает эффекта, а заклинание отражается в заклинателя, как если бы исходило от тарраски, делая заклинателя новой целью.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] deals triple damage to objects and structures.</p>",
+          "value": "<p>[[lookup @name lowercase]] наносит объектам и сооружениям тройной урон.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -789,7 +789,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The tarrasque uses its Frightful Presence. It then makes one Bite attack, four Claw attacks, and one Spiked Tail attack, or it makes five Acid Spit attacks.</p>",
+          "value": "<p>Тарраска использует «Ужасающее присутствие», затем совершает одну атаку «Укус», четыре атаки «Когти» и одну атаку «Шипастый хвост», либо совершает пять атак «Плевок кислотой».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1073,7 +1073,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Every creature of the [[lookup @name lowercase]]’s choice within 120 ft. of it must succeed on a [[/save]] save or become &Reference[frightened]{испуган}  of the [[lookup @name lowercase]] for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect for itself on a success. If a creature’s save succeeds or the effect ends for it, the creature is immune to the [[lookup @name lowercase]]’s Frightful Presence for the next 24 hours.</p>",
+          "value": "<p>Каждое существо по выбору [[lookup @name lowercase]] в пределах 120 фт. от него должно преуспеть в [[/save]], иначе становится &Reference[frightened]{испугано} [[lookup @name lowercase]] на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Если существо успешно прошло спасбросок или эффект для него закончился, оно получает иммунитет к «Ужасающему присутствию» [[lookup @name lowercase]] на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1197,7 +1197,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] automatically detects every creature and trap within 60 feet of it, pinpointing the current location of each.</p>",
+          "value": "<p>[[lookup @name lowercase]] автоматически обнаруживает каждое существо и каждую ловушку в пределах 60 футов, точно определяя их текущее местоположение.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1599,7 +1599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] whips its spiked tail in a wide arc, flailing it in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and is knocked &Reference[prone]{сбит с ног}. On a success, a creature takes half the damage and isn’t knocked prone.</p>",
+          "value": "<p>[[lookup @name lowercase]] описывает широкий взмах шипастым хвостом, поражая 30-футовый конус. Каждое существо в этой области совершает [[/save format=long]]. При провале существо получает [[/damage average]] урона и оказывается &Reference[prone]{сбитым с ног}. При успехе существо получает половину урона и не сбивается с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1983,7 +1983,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save dex 27 format=long]] or be swallowed by the tarrasque. A swallowed creature is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effect outside of the tarrasque, and it takes [[/damage 12d6 acid average]] damage at the start of each of the tarrasque’s turns.</p><p>If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a [[/save con 20 format=long]] at the end of that turn or regurgitate all swallowed creatures, which fall &Reference[prone]{сбит с ног} in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 20 feet of movement, exiting prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, она должна преуспеть в [[/save dex 27 format=long]], иначе будет проглочена тарраской. Проглоченное существо является &Reference[blinded]{ослеплённым} и &Reference[restrained]{опутанным}, имеет полное укрытие от атак и других эффектов вне тарраски и получает [[/damage 12d6 acid average]] урона кислотой в начале каждого хода тарраски.</p><p>Если за один ход тарраска получает 60 или более урона от существа внутри неё, в конце этого хода тарраска должна преуспеть в [[/save con 20 format=long]], иначе изрыгивает всех проглоченных существ; они падают &Reference[prone]{сбитыми с ног} в пространстве в пределах 10 футов от тарраски. Если тарраска умирает, проглоченное существо больше не опутано ею и может выбраться из трупа, потратив 20 футов перемещения, оказываясь сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2429,7 +2429,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 27 format=long]] save or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, она должна преуспеть в [[/save str 27 format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
