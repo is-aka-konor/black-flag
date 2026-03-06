@@ -324,7 +324,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</p>",
+          "value": "<p>Прыжок в длину [[lookup @name lowercase]] — до 20 футов, в высоту — до 10 футов, с разбега или без него.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -463,7 +463,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frog’s skin is coated in a hallucinogenic toxin. A creature that touches the frog or hits it with a melee attack while within 5 feet of it must make a [[/save format=long]]. On a failure, a creature is &Reference[poisoned]{отравлен} until the end of its next turn and experiences mild hallucinations while poisoned.</p>",
+          "value": "<p>Кожа лягушки покрыта галлюциногенным токсином. Существо, которое касается лягушки или попадает по ней рукопашной атакой, находясь в пределах 5 футов, должно совершить [[/save format=long]]. При провале существо становится &Reference[poisoned]{отравленным} до конца своего следующего хода и испытывает лёгкие галлюцинации, пока отравлено.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -616,7 +616,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frog makes one Bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is &Reference[blinded]{ослеплён} and &Reference[restrained]{опутан}, it has total cover against attacks and other effects outside the frog, and it takes [[/damage average]] damage at the start of each of the frog’s turns. The frog can have only one target swallowed at a time.</p><p>If the frog takes any damage from the swallowed creature, the frog must succeed on a [[/save format=long]] at the end of that turn or regurgitate the creature, which falls &Reference[prone]{сбит с ног} in a space within 5 feet of the frog. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</p>",
+          "value": "<p>Лягушка совершает одну атаку «Укус» по цели Маленького размера или меньше, которую держит в захвате. При попадании цель проглатывается, и захват оканчивается. Проглоченная цель является &Reference[blinded]{ослеплённой} и &Reference[restrained]{опутанной}, имеет полное укрытие от атак и других эффектов вне лягушки и получает [[/damage average]] урона в начале каждого хода лягушки. Лягушка может держать проглоченной только одну цель одновременно.</p><p>Если лягушка получает любой урон от проглоченного существа, в конце этого хода она должна преуспеть в [[/save format=long]], иначе изрыгивает существо; оно падает &Reference[prone]{сбитым с ног} в пространстве в пределах 5 футов от лягушки. Если лягушка умирает, проглоченное существо больше не опутано ею и может выбраться из трупа, потратив 5 футов перемещения, и оказывается сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -754,7 +754,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The frog lashes out its tongue at one Large or smaller creature it can see within 20 feet of it. The target must succeed on a [[/save format=long]] or be pulled up to 15 feet closer to the frog.</p>",
+          "value": "<p>Лягушка выбрасывает язык в сторону одного существа Большого размера или меньше, которое видит в пределах 20 футов. Цель должна преуспеть в [[/save format=long]], иначе её подтягивает к лягушке на расстояние до 15 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -780,7 +780,7 @@
           "value": null
         }
       },
-      "name": "Покачивающийся язык",
+      "name": "Выброс языка",
       "type": "feature",
       "_id": "osdGrAFyg1y0dAMI",
       "img": "icons/commodities/biological/tongue-pink.webp",
@@ -923,7 +923,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 13). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the frog can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 13). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а лягушка не может применить «Укус» к другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -255,7 +255,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mage apprentice’s weapon attacks are magical. When the mage hits with any weapon, the weapon deals an extra 2d8 force damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием ученика мага считаются магическими. Когда он попадает любым оружием, оно дополнительно наносит 2d8 урона силовым полем (включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -323,7 +323,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If it can see a fellow apprentice or its magical teacher at the start of its turn, the mage apprentice has advantage on the first spell attack roll it makes during that turn, but attack rolls against it also have advantage until the start of its next turn.</p>",
+          "value": "<p>Если в начале своего хода ученик мага видит другого ученика или своего магического наставника, он получает преимущество на первый бросок атаки заклинанием в этом ходу, но до начала его следующего хода броски атак по нему также совершаются с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

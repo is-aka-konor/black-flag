@@ -336,7 +336,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the snake can see hits it with a melee attack while within 5 feet of it, the snake can make a quick nip at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>Когда существо, которое змея видит, попадает по ней рукопашной атакой в пределах 5 футов, змея может мгновенно укусить в ответ. Атакующий должен преуспеть в [[/save format=long]], иначе становится &Reference[poisoned]{отравленным} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -362,7 +362,7 @@
           "value": null
         }
       },
-      "name": "Рефлексивный прикус",
+      "name": "Рефлекторный укус",
       "type": "feature",
       "_id": "0xzLsbKVFWthNM2f",
       "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
@@ -580,7 +580,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 11 format=long]], taking [[/damage 2d4 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна совершить [[/save con 11 format=long]]: при провале получает [[/damage 2d4 poison average]] урона, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

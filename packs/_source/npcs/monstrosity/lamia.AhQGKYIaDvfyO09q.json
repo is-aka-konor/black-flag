@@ -270,7 +270,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Difficult terrain composed of sand, mud, or rock doesn’t cost the [[lookup @name lowercase]] extra movement. In addition, the [[lookup @name lowercase]] leaves no tracks or other traces of its passage when moving through sandy, muddy, or rocky terrain.</p>",
+          "value": "<p>Труднопроходимая местность из песка, грязи или камня не требует от [[lookup @name lowercase]] дополнительных затрат перемещения. Кроме того, двигаясь по песчаной, грязевой или каменистой местности, [[lookup @name lowercase]] не оставляет следов и иных признаков своего прохода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -508,7 +508,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lamia makes two Hooves attacks and one Dagger attack, or it makes three Arcane Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Ламия совершает две атаки копытами и одну атаку кинжалом либо три атаки «Чародейским разрядом». Она может заменить одну атаку применением «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

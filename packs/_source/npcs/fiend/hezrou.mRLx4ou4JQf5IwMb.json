@@ -612,7 +612,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hezrou can communicate with frogs and toads as if they shared a language.</p>",
+          "value": "<p>Хезроу может общаться с лягушками и жабами, как будто у них общий язык.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -752,7 +752,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]]  or be &Reference[poisoned]{отравлен} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
+          "value": "<p>A creature that starts its turn within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save format=long]]  or be &Reference[poisoned]{отравлён} until the start of its next turn. On a success, the creature is immune to the [[lookup @name lowercase]]'s Stench for the next 24 hours.</p>",
           "source": {
             "fallback": "Black Flag Reference Dolcument"
           }

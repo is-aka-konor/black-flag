@@ -527,7 +527,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vrock makes one Beak attack and two Talon attacks.</p>",
+          "value": "<p>Врок совершает одну атаку клювом и две атаки когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -770,7 +770,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vrock shakes a cloud of toxic spores from its wings. Each creature within 15 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] and is &Reference[poisoned]{отравлен} for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. While poisoned, a creature takes [[/damage 1d6 poison average]] damage at the start of each of its turns. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the poisoned creature also ends the effect on it.</p>",
+          "value": "<p>The vrock shakes a cloud of toxic spores from its wings. Each creature within 15 feet of it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] and is &Reference[poisoned]{отравлён} for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. While poisoned, a creature takes [[/damage 1d6 poison average]] damage at the start of each of its turns. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the poisoned creature also ends the effect on it.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

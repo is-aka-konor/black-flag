@@ -396,7 +396,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the panther can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Когти», цель должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, пантера может бонусным действием совершить по ней одну атаку «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -520,7 +520,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Hide]{Hide} action.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает действие &Reference[Hide]{Засада}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

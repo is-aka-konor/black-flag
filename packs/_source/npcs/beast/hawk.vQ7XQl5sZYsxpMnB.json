@@ -378,7 +378,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hawk takes the &Reference[Disengage]{Disengage} or &Reference[Dodge]{Dodge} action. It can use this bonus action only while flying.</p>",
+          "value": "<p>Ястреб совершает действие &Reference[Disengage]{Отход} или &Reference[Dodge]{Уклонение}. Это бонусное действие он может использовать только в полёте.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

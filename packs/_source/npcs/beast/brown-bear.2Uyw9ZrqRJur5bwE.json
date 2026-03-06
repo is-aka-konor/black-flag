@@ -374,7 +374,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The brown bear makes one Bite attack and one Claws attack. If both attacks hit one creature, the target is &Reference[grappled]{схвачен} (escape DC 14). The bear can grapple only one creature at a time.</p>",
+          "value": "<p>Бурый медведь совершает одну атаку «Укус» и одну атаку «Когти». Если обе атаки попадают по одной цели, цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 14). Медведь может держать в захвате только одно существо одновременно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

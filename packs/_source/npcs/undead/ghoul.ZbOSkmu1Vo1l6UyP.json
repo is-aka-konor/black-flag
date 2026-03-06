@@ -617,7 +617,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ghoul makes one Bite attack and one Claws attack. If both attacks hit a Humanoid target, the target must succeed on a [[/save constitution 13]] save or contract Ghoul Hunger (see the Ghoul Hunger trait).</p>",
+          "value": "<p>Гуль совершает одну атаку укусом и одну атаку когтями. Если обе атаки попадают по гуманоиду, цель должна преуспеть в спасброске [[/save constitution 13]], иначе заражается «Голодом гуля» (см. черту «Голод гуля»).</p>",
           "source": {}
         },
         "identifier": {},

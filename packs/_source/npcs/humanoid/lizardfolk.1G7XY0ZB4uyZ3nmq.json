@@ -263,7 +263,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Этот широкий предмет из дерева и металла держат за рукоять, закреплённую с одной стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -333,7 +333,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Perception is 18 when perceiving by smell or taste.</p>",
+          "value": "<p>Внимательность [[lookup @name lowercase]] равна 18, когда он полагается на обоняние или вкус.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -401,7 +401,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 15 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 15 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -949,7 +949,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If a creature misses the [[lookup @name lowercase]] with an attack and the [[lookup @name lowercase]] is wielding a shield, the [[lookup @name lowercase]] can shove its shield into the creature. The attacker must succeed on a [[/save format=long]] or be pushed up to 10 feet away from the [[lookup @name lowercase]] and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если существо промахивается по [[lookup @name lowercase]] атакой, а [[lookup @name lowercase]] держит щит, [[lookup @name lowercase]] может толкнуть это существо щитом. Атакующий должен преуспеть в [[/save format=long]], иначе отталкивается от [[lookup @name lowercase]] на расстояние до 10 футов и падает &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Perception is 20 when perceiving by smell or taste.</p>",
+          "value": "<p>Внимательность [[lookup @name lowercase]] равна 20, когда он полагается на обоняние или вкус.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -329,7 +329,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 15 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 15 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2320,7 +2320,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлён} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

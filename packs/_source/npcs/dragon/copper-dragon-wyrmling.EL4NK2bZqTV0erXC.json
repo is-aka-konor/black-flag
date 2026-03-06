@@ -345,7 +345,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{ничком}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -463,7 +463,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and one Claw attack.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и одну атаку когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -628,7 +628,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает кислоту линией длиной 30 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона кислотой, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -781,7 +781,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales slowing gas in a 15-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, not both. These effects last for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Дракон выдыхает замедляющий газ 15-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]. При провале существо не может использовать реакции, его скорость уменьшается вдвое, и оно не может совершать больше одной атаки в свой ход. Кроме того, в свой ход оно может использовать либо действие, либо бонусное действие, но не оба сразу. Эти эффекты длятся 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Documengt"
           }

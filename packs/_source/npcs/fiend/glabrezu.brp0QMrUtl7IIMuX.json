@@ -482,7 +482,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the glabrezu makes a Crackling Flame Bolt attack, it doesn’t have disadvantage on the attack roll from being within 5 feet of a hostile creature, provided it is grappling that creature.</p>",
+          "value": "<p>Когда глабрезу совершает атаку «Трескучий огненный разряд», он не получает помеху к броску атаки из-за того, что находится в пределах 5 футов от враждебного существа, если это существо схвачено им.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -603,7 +603,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The glabrezu makes two Claw attacks and two Pincer attacks, or it makes four Crackling Flame Bolt attacks. It can replace both Claw attacks with two Crackling Flame Bolt attacks.</p>",
+          "value": "<p>Глабрезу совершает две атаки когтями и две атаки клешнями либо четыре атаки «Трескучим огненным разрядом». Он может заменить обе атаки когтями двумя атаками «Трескучим огненным разрядом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1090,7 +1090,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it is &Reference[grappled]{схвачен} (escape DC 17). The glabrezu has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо Среднего размера или меньше, она становится &Reference[grappled]{схваченной} (Сл высвобождения 17). У глабрезу две клешни, и каждая может удерживать только одну цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

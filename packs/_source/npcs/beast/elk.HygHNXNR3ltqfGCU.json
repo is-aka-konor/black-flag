@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Таран», цель получает дополнительный [[/damage average]] урона. Если цель — существо, она должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -732,7 +732,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 12 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель — существо Большого размера или меньше, она должна преуспеть в [[/save str 12 format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

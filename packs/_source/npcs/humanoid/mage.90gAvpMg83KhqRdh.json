@@ -255,7 +255,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mage’s weapon attacks are magical. When the mage hits with any weapon, the weapon deals an extra 3d6 force damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием мага считаются магическими. Когда маг попадает любым оружием, это оружие дополнительно наносит 3d6 урона силовым полем (включено в атаку).</p>",
           "source": {}
         },
         "identifier": {},
@@ -428,7 +428,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mage makes three Dagger or Fire Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Маг совершает три атаки кинжалом или «Огненным снарядом». Он может заменить одну атаку применением «Колдовства».</p>",
           "source": {}
         },
         "identifier": {},

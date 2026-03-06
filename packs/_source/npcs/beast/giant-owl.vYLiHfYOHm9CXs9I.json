@@ -258,7 +258,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.</p>",
+          "value": "<p>[[lookup @name lowercase]] не провоцирует атаки по возможности, когда вылетает из досягаемости врага.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -392,7 +392,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 19 while flying.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 19, пока он летит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -525,7 +525,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the owl is aware of and that is within 30 feet of it attacks it, the owl can suddenly turn its piercing gaze on the creature, puff up its feathers, and release a quick hiss, startling the creature. The attacker has disadvantage on the attack roll.</p>",
+          "value": "<p>Когда существо, о котором сова знает и которое находится в пределах 30 футов, атакует её, сова может резко уставиться на него пронзительным взглядом, распушить перья и коротко зашипеть, пугая противника. Атакующий совершает этот бросок атаки с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -551,7 +551,7 @@
           "value": null
         }
       },
-      "name": "Раздутый дисплей",
+      "name": "Пугающая демонстрация",
       "type": "feature",
       "_id": "fGgNLjVpTEwBwczw",
       "img": "icons/creatures/birds/raptor-hawk-flying.webp",

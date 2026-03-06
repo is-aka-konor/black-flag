@@ -439,7 +439,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bandit captain makes one Dagger attack and two Scimitar attacks, or it makes three Dagger attacks.</p>",
+          "value": "<p>Капитан бандитов совершает одну атаку кинжалом и две атаки скимитаром либо три атаки кинжалом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -886,7 +886,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each friendly bandit and thug under the bandit captain’s command moves up to half its speed in a direction of the captain’s choice. This movement doesn’t provoke opportunity attacks.</p>",
+          "value": "<p>Каждый дружественный бандит и головорез под командованием капитана бандитов перемещается на расстояние до половины своей скорости в выбранном капитаном направлении. Это перемещение не провоцирует атаки по возможности.</p>",
           "source": {}
         },
         "identifier": {},

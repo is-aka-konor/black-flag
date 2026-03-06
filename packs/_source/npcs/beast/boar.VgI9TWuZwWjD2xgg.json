@@ -337,7 +337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the boar moves at least 20 feet straight toward a target and then hits it with a Tusk attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если кабан перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Клыки», цель получает дополнительный [[/damage average]] урона. Если цель — существо, она должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes 4 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает 4 урона или меньше, и этот урон должен снизить его до 0 ОЗ, вместо этого у него остаётся 1 ОЗ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

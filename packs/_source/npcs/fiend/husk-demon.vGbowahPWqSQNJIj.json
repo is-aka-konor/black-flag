@@ -583,7 +583,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The husk demon makes two Life Drain attacks.</p>",
+          "value": "<p>Демон-оболочка совершает две атаки «Высасывание жизни».</p>",
           "source": {}
         },
         "identifier": {

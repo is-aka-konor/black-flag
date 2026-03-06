@@ -453,7 +453,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Когти», цель должна преуспеть в [[/save]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -571,7 +571,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lion makes one Bite attack and one Claws attack.</p>",
+          "value": "<p>Существо совершает одну атаку «Укус» и одну атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -718,7 +718,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lion releases a bone-shaking roar in a 15-foot cone. Each creature in the area must succeed on a [[/save format=long]] or have disadvantage on attack rolls until the end of its next turn.</p>",
+          "value": "<p>Лев издаёт сотрясающий кости рёв в конусе 15 футов. Каждое существо в области должно преуспеть в [[/save format=long]], иначе совершает броски атаки с помехой до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -786,7 +786,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>With a 10-foot running start, the [[lookup @name lowercase]] can long jump up to 25 feet.</p>",
+          "value": "<p>С разбегу в 10 футов [[lookup @name lowercase]] может совершить прыжок в длину до 25 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

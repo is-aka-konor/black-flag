@@ -408,7 +408,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One breathing creature grappled by the crab must succeed on a [[/save format=long]] or be unable to speak or cast spells with verbal components and begin suffocating, as the crab squeezes the air from the target’s lungs. This effect lasts until the grapple ends.</p>",
+          "value": "<p>Одно дышащее существо, схваченное крабом, должно преуспеть в [[/save format=long]], иначе не может говорить и накладывать заклинания с вербальными компонентами и начинает задыхаться, поскольку краб выжимает воздух из его лёгких. Эффект длится до окончания захвата.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -434,7 +434,7 @@
           "value": null
         }
       },
-      "name": "Клещи Пинч",
+      "name": "Сдавливающие клешни",
       "type": "feature",
       "_id": "X955WiCaddatohAo",
       "img": "icons/commodities/claws/claw-pincer-pink.webp",
@@ -558,7 +558,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). The crab has two pincers, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). У краба две клешни, каждая из которых может удерживать только одну цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

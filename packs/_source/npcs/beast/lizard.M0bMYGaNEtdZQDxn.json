@@ -344,7 +344,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the lizard takes damage, it can detach its tail, reducing the damage by [[/damage 1d4 average]], and immediately move up to its speed without provoking opportunity attacks.</p>",
+          "value": "<p>Когда ящерица получает урон, она может отбросить хвост, уменьшая урон на [[/damage 1d4 average]], и немедленно переместиться на расстояние до своей скорости, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

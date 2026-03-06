@@ -270,7 +270,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of &Reference[exhaustion]{exhaustion} from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
+          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 80 ounces of blood (approximately half the blood in a Medium Humanoid’s body) every 24 hours, or it loses its immunity to exhaustion and risks starvation until it does so. While it has any levels of &Reference[exhaustion]{истощение} from starvation, the vampire can’t remove levels of exhaustion until it consumes at least 160 ounces of blood.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -613,7 +613,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] regains [[/healing]] at the start of its turn if it has at least 1 HP and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] восстанавливает [[/healing]] в начале своего хода, если у него хотя бы 1 ОЗ и он не находится под солнечным светом или в проточной воде. Если вампир получает урон излучением или урон от святой воды, эта черта не действует в начале следующего хода вампира.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1085,7 +1085,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire is immune to exhaustion.</p>",
+          "value": "<p>Вампир невосприимчив к истощению.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1887,7 +1887,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to its speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до своей скорости, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

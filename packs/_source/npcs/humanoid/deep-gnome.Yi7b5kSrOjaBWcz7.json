@@ -270,7 +270,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>A chain shirt is made of interlocking metal rings that are worn between layers of clothing or leather. This armor protects the wearer’s upper body and the outer layers muffle the sound of the rings rubbing against one another.</p>",
+          "value": "<p>Кольчужная рубаха сделана из переплетённых металлических колец, которые носят между слоями ткани или кожи. Такой доспех защищает верхнюю часть тела, а внешние слои приглушают звон колец.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -409,7 +409,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] Stealth is 17 while in rocky terrain.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 17 на каменистой местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -875,7 +875,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] crushes a magic-infused crystal on the end of its war pick. Until the start of the [[lookup @name lowercase]]'s next turn the war pick is magical and deals an extra [[/damage average]] damage when the [[lookup @name lowercase]] hits with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] раздавливает наполненный магией кристалл о боёк своего боевого киркомолота. До начала следующего хода [[lookup @name lowercase]] киркомолот считается магическим и наносит дополнительный [[/damage average]] урона при попадании.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -357,7 +357,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through other creatures and objects as if they were difficult terrain. It takes [[/damage 1d10 force average]] damage if it ends its turn inside an object.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить сквозь существ и объекты, как через труднопроходимую местность. Если он заканчивает ход внутри объекта, то получает [[/damage 1d10 force average]] урона силовым полем.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -735,7 +735,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wraith makes two Life Drain attacks.</p>",
+          "value": "<p>Призрак совершает две атаки «Высасывание жизни».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

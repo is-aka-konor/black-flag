@@ -452,7 +452,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The eagle can swim up to 30 feet on its turn, but it must start and end its movement either flying or on a solid surface, such as a ship or beach. If it is swimming at the end of its turn, it must succeed on a [[/save format=long]] save or it immediately begins to sink and suffocate. A suffocating eagle must succeed on a [[/check str 8 format=long]] to fly out of the substance where it is sinking.</p>",
+          "value": "<p>Орёл может проплыть до 30 футов в свой ход, но должен начинать и заканчивать перемещение либо в полёте, либо на твёрдой поверхности, такой как корабль или берег. Если в конце своего хода он остаётся в воде, он должен преуспеть в [[/save format=long]], иначе сразу начинает тонуть и задыхаться. Задыхающийся орёл должен преуспеть в [[/check str 8 format=long]], чтобы взлететь из среды, в которой тонет.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

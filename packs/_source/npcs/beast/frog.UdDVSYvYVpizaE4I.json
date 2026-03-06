@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.</p>",
+          "value": "<p>Прыжок в длину [[lookup @name lowercase]] составляет до 10 футов, а прыжок в высоту - до 5 футов, с разбега или без него.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

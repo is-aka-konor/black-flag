@@ -268,7 +268,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+          "value": "<p>Клёпаная кожа изготовлена из прочной, но гибкой кожи и усилена частыми заклёпками или шипами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -476,7 +476,7 @@
           "JtOvHEAO1IAnE4NU": {
             "type": "utility",
             "_id": "JtOvHEAO1IAnE4NU",
-            "description": "<p>Существо &Reference[отравленное]{poisoned} оружие, покрытое этим ядом, падает &Reference[без сознания]{unconscious} во время отравления или до тех пор, пока оно не получит урон или пока другое Существо не выполнит действие, чтобы разбудить его.</p>",
+            "description": "<p>Существо &Reference[poisoned]{отравлен} оружие, покрытое этим ядом, падает &Reference[unconscious]{без сознания} во время отравления или до тех пор, пока оно не получит урон или пока другое Существо не выполнит действие, чтобы разбудить его.</p>",
             "sort": 0,
             "system": {
               "effects": [],
@@ -603,7 +603,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The assassin’s weapons are coated in poison. When it hits with any weapon, the weapon deals an extra 3d8 poison damage (included in the attack). In addition, at the start of each of its turns, the assassin can choose which of the following poisons is active on its weapons. The poison remains on the weapons until the start of the assassin’s next turn.</p><ul><li><p>@Embed[.Activity.1oB085Zbjchlb7Pt activate inline]{Assassin’s Friend}</p></li><li><p>@Embed[.Activity.JtOvHEAO1IAnE4NU activate inline]{Buyer’s Mercy}</p></li><li><p>@Embed[.Activity.Tj1NLioeHgc96IOc activate inline]{Meddler’s Fate}</p></li></ul>",
+          "value": "<p>Оружие убийцы покрыто ядом. Когда он попадает любым оружием, оно дополнительно наносит 3d8 урона ядом (включено в атаку). Кроме того, в начале каждого своего хода убийца может выбрать, какой из его ядов активен.</p><ul><li><p>@Embed[.Activity.1oB085Zbjchlb7Pt activate inline]{Друг убийцы}</p></li><li><p>@Embed[.Activity.JtOvHEAO1IAnE4NU activate inline]{Милосердие покупателя}</p></li><li><p>@Embed[.Activity.Tj1NLioeHgc96IOc activate inline]{Судьба вмешивающегося}</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -724,7 +724,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The assassin makes three Shortsword or Hand Crossbow attacks.</p>",
+          "value": "<p>Убийца совершает три атаки коротким мечом или ручным арбалетом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -948,7 +948,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, а цель должна преуспеть в [[/save con 14 format=long]], иначе станет &Reference[poisoned]{отравленной} на 1 минуту. Отравленное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1190,7 +1190,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. A poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, а цель должна преуспеть в [[/save con 14 format=long]], иначе станет &Reference[poisoned]{отравленной} на 1 минуту. Отравленное существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1339,7 +1339,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see and takes the &Reference[Hide]{Hide} action.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 30 футов в незанятое пространство, которое видит, и совершает действие &Reference[Hide]{Засада}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

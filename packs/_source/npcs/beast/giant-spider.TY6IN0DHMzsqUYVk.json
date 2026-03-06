@@ -337,7 +337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in contact with a web, the [[lookup @name lowercase]] knows the exact location of any other creature in contact with the same web.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] касается паутины, он точно знает местоположение любого существа, касающегося этой же паутины.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -405,7 +405,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores movement restrictions caused by webbing.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничения передвижения, вызванные паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -619,7 +619,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The spider launches a gob of webbing at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан}. A creature, including the restrained target, can take its action to free the target from the webbing by succeeding on a [[/check str 12 format=long]]. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</p>",
+          "value": "<p>Паук выбрасывает комок паутины в одно существо, которое видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[restrained]{опутанной}. Существо, включая опутанную цель, может действием освободить цель от паутины, преуспев в [[/check str 12 format=long]]. Паутину также можно атаковать и уничтожить (КД 10; хиты 5; уязвимость к урону огнём; иммунитет к дробящему, яду и психическому урону).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -901,7 +901,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d6 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна совершить [[/save con 13 format=long]]: при провале получает [[/damage 3d6 poison average]] урона ядом, при успехе - половину. Если урон ядом снижает хиты цели до 0, цель остаётся стабильной, но становится &Reference[poisoned]{отравленной} на 1 час даже после восстановления хитов, и пока она отравлена таким образом, она также является &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

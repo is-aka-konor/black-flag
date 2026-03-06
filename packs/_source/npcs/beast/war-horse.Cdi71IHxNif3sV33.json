@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the horse moves at least 20 feet straight toward a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the horse can make another Hooves attack against it as a bonus action.</p>",
+          "value": "<p>Если лошадь перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Копыта», цель должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, лошадь может бонусным действием совершить по ней ещё одну атаку «Копыта».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -455,7 +455,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> If the horse’s rider is subjected to an effect that would knock it prone or dismount it, the horse can shift its body to assist the rider. The rider has advantage on the check or save to avoid the effect.</p>",
+          "value": "<p>Если на всадника лошади действует эффект, который должен сбить его с ног или выбить из седла, лошадь может сместить корпус, помогая всаднику удержаться. Всадник получает преимущество на проверку или спасбросок, чтобы избежать этого эффекта.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -481,7 +481,7 @@
           "value": null
         }
       },
-      "name": "Обученная смена",
+      "name": "Выверенное смещение",
       "type": "feature",
       "_id": "BYlGJx8Z2X3PM9Ta",
       "img": "icons/tools/smithing/horseshoe-steel-blue.webp",

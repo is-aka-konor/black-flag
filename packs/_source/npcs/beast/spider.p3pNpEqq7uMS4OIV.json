@@ -331,7 +331,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in contact with a web, the [[lookup @name lowercase]] knows the exact location of any other creature in contact with the same web.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] касается паутины, он точно знает местоположение любого существа, касающегося этой же паутины.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -399,7 +399,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores movement restrictions caused by webbing.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничения передвижения, вызванные паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -550,7 +550,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The spider launches a gob of webbing at one creature it can see within 15 feet of it. The target must succeed on a [[/save format=long]] save or have its speed reduced by 10 feet. A creature can take an action to remove the webbing, ending the effect.</p>",
+          "value": "<p>Паук выбрасывает комок паутины в одно существо, которое видит в пределах 15 футов. Цель должна преуспеть в [[/save format=long]], иначе её скорость уменьшается на 10 футов. Существо может потратить действие, чтобы удалить паутину и закончить эффект.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -832,7 +832,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 9 format=long]] or take [[/damage 1d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 9 format=long]], иначе получает [[/damage 1d4 poison average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

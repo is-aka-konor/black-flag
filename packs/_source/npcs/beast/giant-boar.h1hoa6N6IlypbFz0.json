@@ -337,7 +337,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the boar moves at least 20 feet straight toward a target and then hits it with a Tusk attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если кабан перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Клыки», цель получает дополнительный [[/damage average]] урона. Если цель — существо, она должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -623,7 +623,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant boar makes two Tusk attacks. If both attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Гигантский кабан совершает две атаки «Клыки». Если обе атаки попадают по одной цели, цель должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -758,7 +758,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The boar snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the boar.</p>",
+          "value": "<p>Кабан фыркает и бьёт копытами по земле, глядя на существо в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода и совершает с помехой следующий спасбросок против эффекта кабана, который может сбить её с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -784,7 +784,7 @@
           "value": null
         }
       },
-      "name": "Сложный фырканье",
+      "name": "Угрожающее фырканье",
       "type": "feature",
       "_id": "XNaLe3tp9p3pKqb5",
       "img": "icons/creatures/mammals/bull-horns-eyes-glowin-orange.webp",

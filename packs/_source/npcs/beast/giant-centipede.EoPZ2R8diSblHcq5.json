@@ -321,7 +321,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The centipede moves up to its speed toward a hostile creature that it can see.</p>",
+          "value": "<p>Сороконожка перемещается на расстояние до своей скорости к враждебному существу, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -545,7 +545,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or take [[/damage 2d6 poison average]] damage. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 11 format=long]], иначе получает [[/damage 2d6 poison average]] урона ядом. Если урон ядом снижает хиты цели до 0, цель остаётся стабильной, но становится &Reference[poisoned]{отравленной} на 1 час даже после восстановления хитов, и пока она отравлена таким образом, она также является &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

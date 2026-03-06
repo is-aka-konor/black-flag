@@ -805,7 +805,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The erinyes makes three Longsword or Longbow attacks.</p>",
+          "value": "<p>Эринния совершает три атаки длинным мечом или длинным луком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1225,7 +1225,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 16 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1482,7 +1482,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire damage and poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к урону огнём и ядом и к состоянию &Reference[poisoned]{отравлён}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

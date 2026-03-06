@@ -268,7 +268,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.</p>",
+          "value": "<p>Этот доспех состоит из кожаной куртки и поножей (иногда с отдельной юбкой), покрытых перекрывающимися металлическими пластинами, как рыбья чешуя.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -407,7 +407,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Perception is 17 when perceiving by smell or taste.</p>",
+          "value": "<p>Внимательность [[lookup @name lowercase]] равна 17, когда он полагается на обоняние или вкус.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -475,7 +475,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 15 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 15 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -546,7 +546,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each friendly creature within 30 feet of the [[lookup @name lowercase]] can’t be charmed or frightened while the [[lookup @name lowercase]] isn’t incapacitated.</p>",
+          "value": "<p>Каждое дружественное существо в пределах 30 футов от [[lookup @name lowercase]] не может быть &Reference[charmed]{очарованным} или &Reference[frightened]{испуганным}, пока [[lookup @name lowercase]] не является &Reference[incapacitated]{недееспособным}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -664,7 +664,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The lizardfolk ruler makes two Bite attacks and one Greataxe attack, or it makes three Javelin attacks.</p>",
+          "value": "<p>Правитель ящеролюдов совершает две атаки укусом и одну атаку секирой либо три атаки дротиком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1047,7 +1047,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] in melee or [[/damage 1d6 + 3 piercing average]] damage at range.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона в ближнем бою или [[/damage 1d6 + 3 piercing average]] урона при дальнобойной атаке.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1210,7 +1210,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ruler hisses out a challenge or a threat (the ruler’s choice) toward one creature it can see within 30 feet of it. The target must make a [[/save format=long]]. If the target fails the save against a challenge, the target has disadvantage on attack rolls against any creature other than the ruler until the start of the ruler’s next turn. If the target fails the save against a threat, the ruler has advantage on the next attack roll it makes against the target before the start of its next turn.</p>",
+          "value": "<p>Правитель шипит вызов или угрозу (по его выбору) в адрес одного существа, которое видит в пределах 30 футов. Цель должна совершить [[/save format=long]]. Если цель проваливает спасбросок против вызова, то до начала следующего хода правителя совершает броски атаки с помехой по всем существам, кроме правителя. Если цель проваливает спасбросок против угрозы, правитель получает преимущество на следующий бросок атаки по этой цели до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1351,7 +1351,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly lizardfolk the ruler can see within 30 feet of it is hit by an attack, the ruler can hiss out inspiring words to encourage the lizardfolk to keep going. The target gains [[/healing average]] for 1 minute.</p>",
+          "value": "<p>Когда дружественный ящеролюд, которого правитель видит в пределах 30 футов, получает попадание атакой, правитель может прошипеть воодушевляющие слова. Цель получает [[/healing average]] на 1 минуту.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

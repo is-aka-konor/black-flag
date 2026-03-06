@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to &Reference[exhaustion]{exhaustion} and risks starvation until it does so. While it has any levels of exhaustion from starvation, the [[lookup @name lowercase]] can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
+          "value": "<p>The [[lookup @name lowercase]] doesn’t require air or sleep. In addition, it must consume at least 2 pounds of raw meat every 24 hours, or it loses its immunity to &Reference[exhaustion]{истощение} and risks starvation until it does so. While it has any levels of exhaustion from starvation, the [[lookup @name lowercase]] can’t remove levels of exhaustion until it consumes at least 4 pounds of raw meat.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

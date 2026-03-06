@@ -263,7 +263,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+          "value": "<p>Клёпаная кожа изготовлена из прочной, но гибкой кожи и усилена частыми заклёпками или шипами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -341,7 +341,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Этот широкий предмет из дерева и металла держат за рукоять, закреплённую с одной стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -768,7 +768,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1049,7 +1049,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] adds 3 to its AC against one melee attack that would hit it. To do so, the [[lookup @name lowercase]] must see the attacker and be wielding a melee weapon.</p><p><em>Note: An Active Effect is available in the Effects tab of this character sheet to enable the +3 AC bonus.</em></p>",
+          "value": "<p>[[lookup @name lowercase]] получает +3 к КД против одной рукопашной атаки, которая должна была попасть. Для этого [[lookup @name lowercase]] должен видеть атакующего и держать рукопашное оружие.</p><p><em>Примечание: на вкладке «Эффекты» листа персонажа доступен активный эффект для бонуса +3 к КД.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1317,7 +1317,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it must succeed on a [[/save str 15 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо Среднего размера или меньше, она должна преуспеть в [[/save str 15 format=long]], иначе падает &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -268,7 +268,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Half plate consists of shaped metal plates that cover most of the wearer's body. It doesn’t include leg protection beyond greaves attached with leather straps.</p>",
+          "value": "<p>Полулаты состоят из формованных металлических пластин, закрывающих большую часть тела носителя. Защита ног ограничивается поножами, закреплёнными кожаными ремнями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A melee or ranged weapon deals one extra die of its damage when the [[lookup @name lowercase]] hits with it (included in the attack).</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] попадает рукопашным или дальнобойным оружием, это оружие наносит дополнительную кость своего урона (уже включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -530,7 +530,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The orc warlord makes two Longsword attacks and one Skull Club attack, or it makes three Longbow attacks.</p>",
+          "value": "<p>Воевода орков совершает две атаки длинным мечом и одну атаку череподробящей дубиной либо три атаки длинным луком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -661,7 +661,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1104,7 +1104,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to its speed toward a hostile creature that it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до своей скорости к враждебному существу, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1244,7 +1244,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] yells a rallying cry to its allies. Each friendly creature within 30 feet of the [[lookup @name lowercase]] and that can hear the [[lookup @name lowercase]] has advantage on the next attack roll it makes before the start of the [[lookup @name lowercase]]'s next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] выкрикивает боевой клич союзникам. Каждое дружественное существо в пределах 30 футов, которое слышит [[lookup @name lowercase]], получает преимущество на следующий бросок атаки, совершённый до начала следующего хода [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

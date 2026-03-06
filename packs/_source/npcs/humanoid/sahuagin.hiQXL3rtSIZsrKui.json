@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on melee attack rolls against any creature that doesn't have all its HP.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает рукопашные атаки с преимуществом против существ, у которых не полный запас ОЗ.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -331,7 +331,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать и воздухом, и под водой, но чтобы не начать задыхаться, он должен погружаться в воду хотя бы раз в 4 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -797,7 +797,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a [[/save dex 11 format=long]] or drop the weapon or shield (the sahuagin’s choice if the target is wielding both).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками в ближнем бою. Если цель держит оружие или щит, она должна преуспеть в [[/save dex 11 format=long]], иначе роняет оружие или щит (если держит и то и другое, выбор делает сахуагин).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -957,7 +957,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] ends its turn within 10 feet of at least two other friendly sahuagin or sharks, the [[lookup @name lowercase]] can snap its teeth at one creature within 15 feet of it that it can see and that can see or hear it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] заканчивает ход в пределах 10 футов как минимум от двух других дружественных сахуагинов или акул, [[lookup @name lowercase]] может щёлкнуть зубами на одно существо в пределах 15 футов, которое он видит и которое видит или слышит его. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

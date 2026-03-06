@@ -259,7 +259,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -573,7 +573,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -727,7 +727,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wild warrior cobbles together a makeshift trap with materials at hand and throws the trap at a creature it can see within 15 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[restrained]{опутан} until the end of its next turn.</p>",
+          "value": "<p>Дикий воин на ходу мастерит примитивную ловушку из подручных материалов и бросает её в существо, которое видит в пределах 15 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[restrained]{опутанной} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

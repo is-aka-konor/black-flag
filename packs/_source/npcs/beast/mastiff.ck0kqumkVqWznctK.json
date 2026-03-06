@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly Humanoid the mastiff can see is hit by an attack from a creature within 5 feet of the mastiff, the mastiff can make one Bite attack against that attacking creature.</p>",
+          "value": "<p>Когда дружественный Гуманоид, которого мастиф видит, получает попадание от атаки существа в пределах 5 футов от мастифа, мастиф может совершить одну атаку «Укус» по этому атакующему существу.</p>",
           "source": {}
         },
         "identifier": {},
@@ -444,7 +444,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 12]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, она должна преуспеть в [[/save strength 12]], иначе будет сбита с ног.</p>",
           "source": {}
         },
         "identifier": {

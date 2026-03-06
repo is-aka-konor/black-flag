@@ -525,7 +525,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon uses its Frightful Presence. It then makes one Bite attack and two Claw attacks. It can replace its Bite attack with a use of Repulsion Breath, if available.</p>",
+          "value": "<p>Дракон использует «Ужасающее присутствие». Затем он совершает одну атаку укусом и две атаки когтями. Он может заменить атаку укусом применением «Отталкивающего дыхания», если оно доступно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -649,7 +649,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon magically transforms into a Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Dragon. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the dragon’s choice). It reverts to its true form if it dies. In a new form, the dragon retains its Legendary Resistance trait and its HP, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</p>",
+          "value": "<p>Дракон магически превращается в Зверя или Гуманоида с показателем опасности не выше своего, либо возвращается в истинную форму дракона. Любое носимое и переносимое снаряжение либо преобразуется вместе с ним, либо переносится новой формой (по выбору дракона). В новой форме дракон сохраняет мировоззрение, хиты, кости хитов, способность говорить, владения, черту «Легендарное сопротивление», а также значения ИНТ, МДР и ХАР, включая это действие. В остальном его параметры и возможности заменяются параметрами новой формы, кроме её классовых особенностей и легендарных действий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1193,7 +1193,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{сбит с ног}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] взмахивает крыльями. Каждое существо в пределах 10 футов от него должно преуспеть в спасброске [[/save]], иначе получает [[/damage average]] урона и падает &Reference[prone]{ничком}. После этого [[lookup @name lowercase]] может пролететь на расстояние до половины своей скорости полёта, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1637,7 +1637,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает молнию линией длиной 90 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона электричеством, при успехе — половину.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -1789,7 +1789,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales repulsion energy in a 60-foot cone. Each creature in that area must succeed on a [[/save format=long]] or be pushed up to 30 feet away from the dragon.</p>",
+          "value": "<p>Дракон выдыхает отталкивающую энергию 60-футовым конусом. Каждое существо в этой области должно преуспеть в спасброске [[/save format=long]], иначе отталкивается от дракона на расстояние до 30 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

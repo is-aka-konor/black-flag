@@ -275,7 +275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Perception is 18 when perceiving by sight, hearing, or smell.</p>",
+          "value": "<p>Пассивная Внимательность [[lookup @name lowercase]] равна 18, когда он полагается на зрение, слух или обоняние.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -414,7 +414,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.</p>",
+          "value": "<p>[[lookup @name lowercase]] может магически передавать простые идеи, эмоции и образы телепатически любому существу в пределах 100 футов, которое понимает язык.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -553,7 +553,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales a cloud of smoke in a 10-foot-radius sphere centered on itself. The sphere spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает облако дыма в сфере радиусом 10 футов с центром на себе. Сфера огибает углы, а её область становится сильно заслонённой. Она существует 1 минуту или пока ветер умеренной силы или сильнее (не менее 10 миль в час) не рассеет её.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -568,7 +568,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The grick makes one Beak attack and one Tentacles attack.</p>",
+          "value": "<p>Грик совершает одну атаку клювом и одну атаку щупальцами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

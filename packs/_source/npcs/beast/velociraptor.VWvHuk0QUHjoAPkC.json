@@ -126,7 +126,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>A small, wispy-feathered creature with a sweeping tail, vicious needle-like teeth, and hooked claws on its powerful back legs tilts its head from side to side before it darts forward.</em></p><p>An effective pack hunter, the velociraptor rarely travels alone. These dinosaurs spread out from one another and surround their prey, attacking ferociously from blind spots, ripping and tearing their targets with savage claws on their hind legs. Hard to train and forever plagued by instincts to kill, only the most foolish and determined humanoids attempt to tame velociraptors. Career caretakers display missing fingers and ghoulish scars as badges of honor.</p>",
+      "value": "<p><em>Небольшое покрытое редкими перьями существо с длинным хвостом, острыми игольчатыми зубами и крючковатыми когтями на мощных задних лапах наклоняет голову из стороны в сторону, прежде чем рвануть вперёд.</em></p><p>Велоцирапторы - эффективные стайные охотники и редко держатся поодиночке. Эти динозавры рассредоточиваются и окружают добычу, яростно атакуя из слепых зон и разрывая цель мощными когтями задних лап. Их трудно выдрессировать, и инстинкт убивать у них не исчезает никогда, поэтому лишь самые безрассудные и настойчивые гуманоиды пытаются их приручить. Профессиональные смотрители носят недостающие пальцы и жуткие шрамы как знаки мастерства.</p>",
       "legendary": ""
     },
     "description": {
@@ -360,7 +360,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The velociraptor makes one Bite attack and one Claws attack.</p>",
+          "value": "<p>Существо совершает одну атаку «Укус» и одну атаку «Когти».</p>",
           "source": {}
         },
         "identifier": {},
@@ -407,7 +407,7 @@
       "_key": "!actors.items!VWvHuk0QUHjoAPkC.7ALdpB5qy47rj7hM"
     },
     {
-      "name": "Мол",
+      "name": "Растерзание",
       "type": "feature",
       "_id": "QG6npgCSEVyiEaIu",
       "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
@@ -500,7 +500,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The velociraptor uses its claws to rip into one creature it is grappling. The target must make a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Велоцираптор вонзает когти в одно существо, которое держит в захвате.</p>",
           "source": {}
         },
         "identifier": {},
@@ -639,7 +639,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Medium or smaller creature, it is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the [[lookup @name lowercase]] can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо Среднего размера или меньше, она становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а [[lookup @name lowercase]] не может применить «Укус» к другой цели.</p>",
           "source": {}
         },
         "identifier": {

@@ -263,7 +263,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 10-foot radius and dim light for an additional 10-feet.</p>",
+          "value": "<p>[[lookup @name lowercase]] излучает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -407,7 +407,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Any creature riding a willing nightmare is resistant to fire damage. A creature riding the nightmare without the nightmare’s permission takes [[/damage average]] damage at the start of each of the nightmare’s turns.</p>",
+          "value": "<p>Любое существо, едущее верхом на согласной ночной кобыле, получает сопротивление к урону огнём. Существо, едущее на ночной кобыле без её согласия, получает [[/damage average]] урона в начале каждого хода ночной кобылы.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -528,7 +528,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The nightmare makes two Flaming Hoof attacks.</p>",
+          "value": "<p>Ночная кобыла совершает две атаки огненными копытами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -656,7 +656,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.</p>",
+          "value": "<p>Ночная кобыла и до трёх согласных существ в пределах 5 футов от неё магически переходят из Материального плана в Эфирный и обратно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

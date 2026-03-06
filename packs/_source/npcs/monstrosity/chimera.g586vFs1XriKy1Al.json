@@ -520,7 +520,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chimera has three heads and is resistant to the blinded, charmed, deafened, frightened, stunned, and unconscious conditions.</p>",
+          "value": "<p>У химеры три головы, и она устойчива к состояниям &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, &Reference[frightened]{испуган}, &Reference[stunned]{ошеломлён} и &Reference[unconscious]{без сознания}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -716,7 +716,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The chimera makes one Bite attack, one Headbutt attack, and two Claws attacks, or it can make two Claws attacks and use Fire Breath, if available.</p>",
+          "value": "<p>Химера совершает одну атаку укусом, одну атаку боданием и две атаки когтями либо две атаки когтями и использует «Огненное дыхание», если оно доступно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

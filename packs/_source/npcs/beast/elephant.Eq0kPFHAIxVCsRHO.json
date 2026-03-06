@@ -328,7 +328,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the elephant can make one Stomp attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Бодание», цель должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, слон может бонусным действием совершить по ней одну атаку «Топот».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -449,7 +449,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elephant makes two Gore attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Бодание».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -584,7 +584,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elephant grabs one Large or smaller creature within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[grappled]{схвачен} (escape DC 15). The elephant can grapple only one creature at a time.</p>",
+          "value": "<p>Слон хватает одно существо Большого размера или меньше в пределах 10 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[grappled]{схваченной} (Сл. высвобождения 15). Слон может держать в захвате только одно существо одновременно.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -910,7 +910,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage average]].</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 футов, одна цель, сбитая с ног. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

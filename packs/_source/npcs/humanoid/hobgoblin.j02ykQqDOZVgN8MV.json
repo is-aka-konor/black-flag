@@ -456,7 +456,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hobgoblin makes two Longsword or Longbow attacks.</p>",
+          "value": "<p>Хобгоблин совершает две атаки длинным мечом или длинным луком.</p>",
           "source": {}
         },
         "identifier": {},
@@ -591,7 +591,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {}
         },
         "type": {
@@ -892,7 +892,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hobgoblin briefly studies one creature it can see within 30 feet of it. It has advantage on the next attack roll it makes against that creature before the start of the its next turn.</p>",
+          "value": "<p>Хобгоблин быстро изучает одно существо, которое видит в пределах 30 футов. До начала своего следующего хода он получает преимущество на следующий бросок атаки по этому существу.</p>",
           "source": {}
         },
         "identifier": {},

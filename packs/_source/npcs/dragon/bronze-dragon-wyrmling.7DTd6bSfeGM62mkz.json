@@ -391,7 +391,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and one Claw attack.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и одну атаку когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -531,7 +531,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] переместился по прямой как минимум на 15 футов к существу, а затем в тот же ход попал по нему атакой когтями, цель должна преуспеть в спасброске [[/save]], иначе падает &Reference[prone]{ничком}. Если цель лежит ничком, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку укусом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -696,7 +696,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает молнию линией длиной 30 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона электричеством, при успехе — половину.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -848,7 +848,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales repulsion energy in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or be pushed up to 5 feet away from the dragon.</p>",
+          "value": "<p>Дракон выдыхает отталкивающую энергию 15-футовым конусом. Каждое существо в этой области должно преуспеть в спасброске [[/save format=long]], иначе отталкивается от дракона на расстояние до 5 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

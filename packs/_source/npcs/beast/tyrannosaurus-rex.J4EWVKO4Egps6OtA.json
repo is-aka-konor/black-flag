@@ -127,7 +127,7 @@
       }
     },
     "biography": {
-      "value": "<p><em>Though this bipedal saurian has relatively stubby forelimbs, its crushing jaw and long sweeping tail mark it as a formidable predator.</em></p><p>One of the most aggressive and territorial dinosaurs, tyrannosaurs attack with confidence. They grab their prey, shaking it and crushing it with their powerful jaws while walloping other creatures with their tails. The dinosaurs attack their opponents until they or their opponents are dead. Humanoids suffering from tyrannosaurus predation keep tyrannosaur skulls as trophies when they manage to defeat the dinosaurs. A typical tyrannosaurus rex stands 15 feet tall, measures 35 feet from snout to tail, and weighs 7 tons.</p>",
+      "value": "<p><em>Хотя передние конечности этого двуногого ящера сравнительно коротки, его сокрушительная челюсть и длинный размашистый хвост делают его грозным хищником.</em></p><p>Тираннозавры - одни из самых агрессивных и территориальных динозавров и атакуют уверенно и яростно. Они хватают добычу, трясут её и дробят мощными челюстями, одновременно отбивая других противников хвостом. Эти динозавры сражаются, пока не погибнут сами или их враги. Гуманоиды, страдающие от нападений тираннозавров, хранят их черепа как трофеи, если им удаётся победить чудовище. Типичный тираннозавр рекс достигает 15 футов в высоту, 35 футов в длину от морды до хвоста и весит около 7 тонн.</p>",
       "legendary": ""
     },
     "description": {
@@ -299,7 +299,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The tyrannosaurus makes one Bite attack and one Tail attack. It can’t make both attacks against the same target.</p>",
+          "value": "<p>Тираннозавр совершает одну атаку «Укус» и одну атаку «Хвост». Он не может направить обе атаки в одну и ту же цель.</p>",
           "source": {}
         },
         "identifier": {},
@@ -439,7 +439,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While grappling a creature, the tyrannosaurus shakes its head, tearing at the creature. The grappled creature must succeed on a [[/save]] save or take [[/damage average]] damage and be thrown up to 20 feet in a random direction and knocked prone. If the thrown target strikes a solid surface, the target takes [[/damage 1d6 bludgeoning average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save dexterity 16]] save or take the same damage and be knocked prone.</p>",
+          "value": "<p>Пока тираннозавр держит существо в захвате, он мотает головой, разрывая цель. Схваченное существо должно преуспеть в [[/save]], иначе получает [[/damage average]] урона, отбрасывается в случайном направлении на расстояние до 20 футов и становится сбитым с ног. Если отброшенная цель врезается в твёрдую поверхность, она получает [[/damage 1d6 bludgeoning average]] дробящего урона за каждые 10 футов броска. Если цель брошена в другое существо, это существо должно преуспеть в [[/save dexterity 16]], иначе получает тот же урон и становится сбитым с ног.</p>",
           "source": {}
         },
         "identifier": {},
@@ -578,7 +578,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Larger or smaller creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the [[lookup @name lowercase]] can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо Большого размера или меньше, она становится &Reference[grappled]{схваченной} (Сл. высвобождения 16). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а [[lookup @name lowercase]] не может применить «Укус» к другой цели.</p>",
           "source": {}
         },
         "identifier": {

@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A purple worm can burrow through solid rock at half its burrow speed. Doing so creates a 10-foot-diameter tunnel behind it.</p>",
+          "value": "<p>Пурпурный червь может рыть ход в твёрдой породе со скоростью, равной половине своей скорости рытья. При этом за ним остаётся туннель диаметром 10 футов.</p>",
           "source": {}
         },
         "identifier": {},
@@ -496,7 +496,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The worm makes one Bite attack and one Tail Stinger attack.</p>",
+          "value": "<p>Червь совершает одну атаку укусом и одну атаку жалом хвоста.</p>",
           "source": {}
         },
         "identifier": {},

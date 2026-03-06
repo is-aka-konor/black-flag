@@ -700,7 +700,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The griffon makes one Beak attack and one Claws attack.</p>",
+          "value": "<p>Грифон совершает одну атаку клювом и одну атаку когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

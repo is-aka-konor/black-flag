@@ -546,7 +546,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Many rats, especially those found in urban environments and swamps, carry the following unique disease that spreads through their bites. At the GM’s discretion, a rat might not spread this disease, poisoning the target instead.</p><p><strong>Rat Plague.</strong> This disease is passed through the bites of infected rats, but rats are immune to the disease’s effects. Until the disease is cured, the creature is poisoned and can’t regain HP except by magical means. Every 24 hours that elapse, the infected creature must repeat the save (using the DC of the infecting rat’s Bite), reducing its HP maximum by 3 ([[/damage 1d6 max average]]{1d6}) on a failure. The disease is cured on a success. This reduction lasts until the creature finishes a long rest after the disease is cured. The creature dies if the disease reduces its HP maximum to 0.</p>",
+          "value": "<p>Многие крысы, особенно живущие в городах и болотах, переносят следующую особую болезнь, распространяемую укусами. По усмотрению Мастера крыса может не передать эту болезнь, а просто отравить цель.</p><p><strong>Крысиная чума.</strong> Эта болезнь передаётся укусами заражённых крыс, но сами крысы невосприимчивы к её эффектам. Пока болезнь не вылечена, существо является отравленным и не может восстанавливать хиты, кроме как магией. Каждые 24 часа заражённое существо повторяет спасбросок (используя Сл. укуса заразившей крысы), и при провале его максимум хитов уменьшается на 3 ([[/damage 1d6 max average]]{1d6}). При успехе болезнь излечивается. Это уменьшение сохраняется, пока существо не завершит продолжительный отдых после излечения болезни. Существо умирает, если болезнь снижает его максимум хитов до 0.</p>",
           "source": {}
         },
         "identifier": {},
@@ -684,7 +684,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 1d6 piercing average]] damage if the swarm has half of its HP or fewer. If the target is a creature, it must make a [[/save constitution 9]] save. On a failure, the target contracts the <em>rat plague</em> disease or is poisoned until the end of its next turn (the GM’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] или [[/damage 1d6 piercing average]] колющего урона, если у роя половина хитов или меньше. Если цель — существо, она должна совершить [[/save constitution 9]]. При провале цель заражается болезнью <em>крысиная чума</em> либо становится отравленной до конца своего следующего хода (по выбору Мастера).</p>",
           "source": {}
         },
         "identifier": {

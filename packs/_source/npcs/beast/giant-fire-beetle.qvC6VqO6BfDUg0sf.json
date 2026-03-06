@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>",
+          "value": "<p>[[lookup @name lowercase]] излучает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов дальше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -462,7 +462,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Ranged Weapon Attack</em>: [[/attack]], range [[lookup @labels.range]]., one target. <em>Hit</em>: [[/damage average]] damage, and the target is covered in mucus that ignites after [[/r 1d4]] rounds or if the target takes fire damage. An ignited creature takes [[/damage 1d4 fire average]] damage at the start of each of its turns until a creature takes an action to douse the fire. A creature can remove the mucus before it ignites by taking an action.</p>",
+          "value": "<p><em>Дальнобойная атака оружием</em>: [[/attack]], дистанция [[lookup @labels.range]]., одна цель. <em>Попадание</em>: [[/damage average]] урона, и цель покрывается слизью, которая воспламеняется через [[/r 1d4]] раундов или при получении целью урона огнём. Загоревшееся существо получает [[/damage 1d4 fire average]] урона огнём в начале каждого своего хода, пока какое-либо существо не потратит действие, чтобы потушить пламя. Существо может удалить слизь до возгорания, потратив действие.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

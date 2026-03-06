@@ -454,7 +454,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The goblin captain makes two Scimitar or Shortbow attacks. If both attacks hit one target, the goblin captain can make one extra Scimitar or Shortbow attack.</p>",
+          "value": "<p>Капитан гоблинов совершает две атаки скимитаром или коротким луком. Если обе атаки попадают по одной цели, капитан гоблинов может совершить ещё одну дополнительную атаку скимитаром или коротким луком.</p>",
           "source": {}
         },
         "identifier": {},
@@ -869,7 +869,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The goblin captain points at a target and calls out to a friendly goblin it can see within 30 feet of it. The chosen goblin can use its reaction to move up to half its speed and make one melee attack against the target.</p>",
+          "value": "<p>Капитан гоблинов указывает на цель и отдаёт приказ союзному гоблину, которого видит в пределах 30 футов. Выбранный гоблин может реакцией переместиться на расстояние до половины своей скорости и совершить одну рукопашную атаку по этой цели.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1105,7 +1105,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the goblin captain can see targets it with an attack, the captain can sidestep behind an ally within 5 feet of it, moving to an unoccupied space within 5 feet of the ally. The chosen ally becomes the target of the attack instead.</p>",
+          "value": "<p>Когда существо, которое капитан гоблинов видит, выбирает его целью атаки, капитан может шагнуть за союзника в пределах 5 футов, переместившись в незанятое пространство в пределах 5 футов от союзника. Вместо капитана целью атаки становится выбранный союзник.</p>",
           "source": {}
         },
         "identifier": {},

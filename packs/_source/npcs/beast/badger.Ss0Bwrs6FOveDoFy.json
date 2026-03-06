@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When in combat, the badger attacks the creature that most recently dealt damage to it, provided that creature is within range or moving to it doesn’t cause the badger to provoke opportunity attacks. The badger otherwise attacks the nearest hostile creature.</p>",
+          "value": "<p>В бою барсук атакует существо, которое последним нанесло ему урон, если оно в досягаемости или если движение к нему не провоцирует атаки по возможности. Иначе барсук атакует ближайшее враждебное существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

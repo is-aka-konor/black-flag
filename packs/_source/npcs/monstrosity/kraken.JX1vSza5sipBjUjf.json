@@ -683,7 +683,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] deals double damage to objects and structures.</p>",
+          "value": "<p>[[lookup @name lowercase]] наносит двойной урон объектам и сооружениям.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1054,7 +1054,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &Reference[poisoned]{отравлен} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
+          "value": "<p>While underwater, the kraken expels an ink cloud in a 30-foot-radius centered on the kraken. The cloud spreads around corners, and the area is heavily obscured. Each creature in the area when it first appears must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. A creature that enters the ink cloud for the first time on a turn or starts its turn there must succeed on a [[/save format=long]] save or take [[/damage 2d10 poison average]] damage and be &Reference[poisoned]{отравлён} until the start of its next turn. The cloud lasts for 1 minute or until dispersed by a strong current.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

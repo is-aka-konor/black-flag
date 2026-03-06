@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on melee attack rolls against any creature that doesn't have all its HP.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает рукопашные атаки с преимуществом против существ, у которых не полный запас ОЗ.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -390,7 +390,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

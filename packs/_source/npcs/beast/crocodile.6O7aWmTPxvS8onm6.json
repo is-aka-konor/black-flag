@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 15 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 15 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -415,7 +415,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the crocodile must make a  [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Одно существо, схваченное крокодилом, должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе - половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -569,7 +569,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the crocodile can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а крокодил не может применить «Укус» к другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

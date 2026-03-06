@@ -411,7 +411,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If it has a phylactery, a destroyed [[lookup @name lowercase]] gains a new body in [[/r 1d10]] days, regaining all its HP and becoming active again. The new body appears within 5 feet of the phylactery.</p>",
+          "value": "<p>Если у [[lookup @name lowercase]] есть филактерий, уничтоженный [[lookup @name lowercase]] получает новое тело через [[/r 1d10]] дней, восстанавливая все ОЗ и снова становясь активным. Новое тело появляется в пределах 5 футов от филактерия.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -479,7 +479,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on saves against any effect that turns undead.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает с преимуществом спасброски против эффектов обращения нежити.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3856,7 +3856,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to its speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до своей скорости, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3983,7 +3983,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] uses Spellcasting.</p>",
+          "value": "<p>[[lookup @name lowercase]] использует Колдовство.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While out of water, the octopus can hold its breath for 1 hour.</p>",
+          "value": "<p>На суше осьминог может задерживать дыхание на 1 час.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -324,7 +324,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Stealth is 18 while underwater.</p>",
+          "value": "<p>Скрытность [[lookup @name lowercase]] равна 18, пока он под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -392,7 +392,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -536,7 +536,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the octopus can see deals damage to it, the octopus can release a 20-foot-radius cloud of ink all around itself, if it is underwater. The area is heavily obscured until the end of the octopus’s next turn, although a significant current can disperse the ink. Then, the octopus can swim up to its swimming speed. If it does so, it immediately releases any creature it is grappling.</p>",
+          "value": "<p>Когда существо, которое осьминог видит, наносит ему урон, осьминог может выпустить вокруг себя облако чернил радиусом 20 футов, если находится под водой. Область становится сильно заслонённой до конца следующего хода осьминога, хотя сильное течение может рассеять чернила. Затем осьминог может проплыть расстояние до своей скорости плавания. Если он делает это, он немедленно отпускает всех существ, которых держит в захвате.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -562,7 +562,7 @@
           "value": null
         }
       },
-      "name": "Чернила Дэш",
+      "name": "Чернильный рывок",
       "type": "feature",
       "_id": "AowZFe17aQNPtmC2",
       "img": "icons/magic/water/orb-water-bubbles-blue.webp",
@@ -689,7 +689,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The octopus slams a Medium or smaller creature it is grappling into a solid surface. The target must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Осьминог швыряет о твёрдую поверхность одно существо Среднего размера или меньше, которое держит в захвате. Цель должна совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе - половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -841,7 +841,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 13), if it is a Huge or smaller creature. Until this grapple ends, the target is &Reference[restrained]{опутан}. The octopus can grapple up to two creatures at one time.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель - существо Огромного размера или меньше, она становится &Reference[grappled]{схваченной} (Сл. высвобождения 13). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}. Осьминог может держать в захвате до двух существ одновременно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -448,7 +448,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in contact with a web, the [[lookup @name lowercase]] knows the exact location of any other creature in contact with the same web.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] касается паутины, он точно знает местоположение любого другого существа, соприкасающегося с той же паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -516,7 +516,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores movement restrictions caused by webbing.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничения передвижения, вызванные паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -637,7 +637,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ettercap makes one Bite attack and one Claws attack, or it makes two Spit Poison attacks.</p>",
+          "value": "<p>Эттеркап совершает одну атаку укусом и одну атаку когтями либо две атаки «Ядовитый плевок».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1269,7 +1269,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлен} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 13 format=long]] or be &Reference[poisoned]{отравлён} for 1 minute. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

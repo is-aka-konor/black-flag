@@ -251,7 +251,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint, by scent, the location of carrion, dead creatures, and Undead without the Incorporeal Movement trait within 60 feet of it.</p>",
+          "value": "<p>По запаху [[lookup @name lowercase]] точно определяет местоположение падали, мёртвых существ и Нежити без особенности Бестелесное перемещение в пределах 60 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature in the swarm’s space is surrounded by ravens pecking and pulling at its clothing, hair, fur, and belongings. If a creature in the swarm’s space casts a spell with a material component, it must succeed on a [[/save format=long]] or the spell fails to cast, expending the action required to cast it but not the spell slot or daily use, as the ravens steal the component.</p>",
+          "value": "<p>Существо в пространстве роя окружено воронами, которые клюют и дёргают его одежду, волосы, шерсть и вещи. Если существо в пространстве роя накладывает заклинание с материальным компонентом, оно должно преуспеть в [[/save format=long]], иначе заклинание не срабатывает: действие тратится, но ячейка заклинания или дневное применение не расходуются, так как вороны крадут компонент.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -887,7 +887,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage 1d8 piercing average]] damage if the swarm has half of its HP or fewer.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] или [[/damage 1d8 piercing average]] урона, если у роя половина хитов или меньше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

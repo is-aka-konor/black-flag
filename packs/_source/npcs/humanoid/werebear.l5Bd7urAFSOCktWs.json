@@ -376,7 +376,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The werebear makes three Claw or Greataxe attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form. If two Claw attacks hit one creature, the target is &Reference[grappled]{схвачен} (escape DC 15). The werebear can grapple only one creature at a time.</p>",
+          "value": "<p>Медвелак совершает три атаки когтями или секирой. Он может заменить одну атаку атакой укусом, если находится в подходящей форме. Если две атаки когтями попадают по одному существу, цель становится &Reference[grappled]{схваченной} (Сл высвобождения 15). Медвелак может удерживать в хватке только одно существо одновременно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -777,7 +777,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the werebear is knocked &Reference[prone]{сбит с ног}, and it is &Reference[restrained]{опутан} until the grapple ends.</p>",
+          "value": "<p>One creature grappled by the werebear is knocked &Reference[prone]{ничком}, and it is &Reference[restrained]{опутан} until the grapple ends.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1004,7 +1004,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 14 format=long]] or be cursed with the werebear lycanthropy curse (see Curse of Lycanthropy sidebar in Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — Гуманоид, она должна преуспеть в [[/save con 14 format=long]], иначе будет проклята проклятием ликантропии медвелака (см. блок «Проклятие ликантропии» во вкладке «Биография»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

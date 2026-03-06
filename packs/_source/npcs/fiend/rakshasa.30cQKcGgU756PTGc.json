@@ -278,7 +278,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can’t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saves against all other spells and magical effects.</p>",
+          "value": "<p>[[lookup @name lowercase]] нельзя обнаружить или затронуть заклинаниями 6-го круга и ниже без его желания. Против всех остальных заклинаний и магических эффектов он совершает спасброски с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

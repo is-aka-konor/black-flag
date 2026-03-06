@@ -341,7 +341,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Таран», цель получает дополнительный [[/damage average]] урона. Если цель — существо, она должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -409,7 +409,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Stealth is 19 while underwater.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 19, пока он находится под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -477,7 +477,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -615,7 +615,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The seahorse grabs one Medium or smaller creature within 10 feet of it. The target must succeed on a [[/save format=long]] save or be &Reference[grappled]{схвачен} (escape DC 12). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the seahorse can’t use Grasping Tail on another creature.</p>",
+          "value": "<p>Морской конёк хватает хвостом одно существо Среднего размера или меньше в пределах 10 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а морской конёк не может применить «Цепкий хвост» к другому существу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -641,7 +641,7 @@
           "value": null
         }
       },
-      "name": "Цепляясь за хвост",
+      "name": "Цепкий хвост",
       "type": "feature",
       "_id": "522vgQx37TwbPmzI",
       "img": "icons/creatures/abilities/tail-swipe-green.webp",

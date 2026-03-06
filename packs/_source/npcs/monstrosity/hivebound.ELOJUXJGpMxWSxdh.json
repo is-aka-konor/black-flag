@@ -584,7 +584,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hivebound makes one Bite attack and two Claw attacks, or it makes three Spit Insect attacks.</p>",
+          "value": "<p>Роевой связывающий совершает одну атаку укусом и две атаки когтями либо три атаки «Плевок насекомыми».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1143,7 +1143,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hivebound flies up to half its speed without provoking opportunity attacks.</p>",
+          "value": "<p>Роевой связывающий летит на расстояние до половины своей скорости, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

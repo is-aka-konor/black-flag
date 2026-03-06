@@ -323,7 +323,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The giant scorpion makes two Claw attacks and one Sting attack.</p>",
+          "value": "<p>Гигантский скорпион совершает две атаки «Клешня» и одну атаку «Жало».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -473,7 +473,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the scorpion can see attacks it while within 10 feet of the scorpion, the scorpion can whip its tail defensively at the creature. The attacker must succeed on a [[/save format=long]] or take [[/damage average]] damage.</p>",
+          "value": "<p>Когда существо, которое скорпион видит, атакует его, находясь в пределах 10 футов, скорпион может защитно хлестнуть его хвостом. Атакующий должен преуспеть в [[/save format=long]], иначе получает [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -625,7 +625,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12). The scorpion has two claws, each of which can grapple only one target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). У скорпиона две клешни, каждая из которых может удерживать только одну цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -885,7 +885,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or be &Reference[poisoned]{отравлен}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 12 format=long]], иначе становится &Reference[poisoned]{отравленной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

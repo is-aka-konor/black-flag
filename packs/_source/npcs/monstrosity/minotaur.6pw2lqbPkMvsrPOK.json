@@ -667,7 +667,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] deals double damage to objects and structures.</p>",
+          "value": "<p>[[lookup @name lowercase]] наносит двойной урон объектам и сооружениям.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

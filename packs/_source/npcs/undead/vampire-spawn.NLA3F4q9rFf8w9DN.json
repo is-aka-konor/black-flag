@@ -406,7 +406,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] regains [[/healing]] at the start of its turn if it has at least 1 HP and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] восстанавливает [[/healing]] в начале своего хода, если у него хотя бы 1 ОЗ и он не находится под солнечным светом или в проточной воде. Если вампир получает урон излучением или урон от святой воды, эта черта не действует в начале следующего хода вампира.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -607,7 +607,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire is immune to exhaustion.</p>",
+          "value": "<p>Вампир невосприимчив к истощению.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -773,7 +773,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire spawn makes two Claw attacks. It can replace one attack with a Draining Bite attack. If both Claw attacks hit one Large or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 14).</p>",
+          "value": "<p>Вампирское отродье совершает две атаки когтями. Оно может заменить одну атаку атакой «Высасывающий укус». Если обе атаки когтями попадают по одному существу Большого размера или меньше, цель становится &Reference[grappled]{схваченной} (Сл высвобождения 14).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

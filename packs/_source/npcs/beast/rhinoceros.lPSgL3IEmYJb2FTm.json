@@ -345,7 +345,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save format=long]] save or be pushed up to 10 feet away from the rhinoceros and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Бодание», цель получает дополнительный [[/damage average]] урона. Если цель — существо, она должна преуспеть в [[/save format=long]], иначе её отбрасывает на расстояние до 10 футов от носорога, и она становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -466,7 +466,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rhinoceros makes two Gore attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Бодание».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -599,7 +599,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rhinoceros rears up and slams its forefeet on the ground, shaking the area. Each creature within 10 feet of the rhinoceros must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Носорог встаёт на дыбы и с силой бьёт передними копытами о землю, сотрясая местность. Каждое существо в пределах 10 футов от носорога должно преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитым с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -625,7 +625,7 @@
           "value": null
         }
       },
-      "name": "Трясущийся топот",
+      "name": "Сотрясающий топот",
       "type": "feature",
       "_id": "7HTJ1Vh00pCMjgmU",
       "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",

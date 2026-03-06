@@ -334,7 +334,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</p>",
+          "value": "<p>Прыжок в длину [[lookup @name lowercase]] — до 20 футов, в высоту — до 10 футов, с разбега или без него.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -467,7 +467,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The spider jumps up to 20 feet horizontally or up to 10 feet vertically toward a hostile creature that it can see. This movement doesn’t provoke opportunity attacks.</p>",
+          "value": "<p>Паук совершает прыжок на расстояние до 20 футов по горизонтали или до 10 футов по вертикали к враждебному существу, которое видит. Это перемещение не провоцирует атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -711,7 +711,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 12 format=long]], taking [[/damage 2d4 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], а цель должна совершить [[/save con 12 format=long]]: при провале получает [[/damage 2d4 poison average]] урона, при успехе — половину. Если урон ядом снижает хиты цели до 0, цель остаётся стабильной, но становится &Reference[poisoned]{отравленной} на 1 час даже после восстановления хитов, и пока она отравлена таким образом, она также является &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

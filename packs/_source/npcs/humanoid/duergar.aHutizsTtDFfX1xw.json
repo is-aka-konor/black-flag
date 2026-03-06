@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed and paralyzed conditions, and it has advantage on saves against spells and illusions.</p>",
+          "value": "<p>[[lookup @name lowercase]] устойчив к состояниям &Reference[charmed]{очарован} и &Reference[paralyzed]{парализован}, а также совершает с преимуществом спасброски против заклинаний и иллюзий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1192,7 +1192,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically increases in size, along with any equipment it is wearing or carrying. While enlarged, the [[lookup @name lowercase]] is Large, doubles its damage dice on weapon attacks (included in the attacks), and makes STR checks and saves with advantage. While enlarged, it also can no longer use the Invisibility action. If the [[lookup @name lowercase]] lacks the room to become Large, this bonus action fails.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически увеличивается в размере вместе с носимым и переносимым снаряжением. Пока [[lookup @name lowercase]] увеличен, он становится Большого размера, удваивает кости урона на атаках оружием (уже включено в атаки) и совершает проверки и спасброски СИЛ с преимуществом. Кроме того, в увеличенном состоянии он больше не может использовать действие «Невидимость». Если места для увеличения до Большого размера недостаточно, это бонусное действие не срабатывает.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1439,7 +1439,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Этот широкий предмет из дерева и металла держат за рукоять, закреплённую с одной стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1516,7 +1516,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.</p>",
+          "value": "<p>Этот доспех состоит из кожаной куртки и поножей (иногда с отдельной юбкой), покрытых перекрывающимися металлическими пластинами, как рыбья чешуя.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

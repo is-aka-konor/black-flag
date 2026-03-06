@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ape makes two Fist attacks. If both Fist attacks hit one Medium or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 13), and the ape can’t grapple another creature.</p>",
+          "value": "<p>Обезьяна совершает две атаки «Кулак». Если обе атаки попадают по одному существу Среднего размера или меньше, цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 13), и обезьяна не может схватить другое существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

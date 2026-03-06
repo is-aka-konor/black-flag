@@ -397,7 +397,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The night hag can use Cause Sorrow. It then makes two Claw or Arcane Bolt attacks. It can replace one Claw or Arcane Bolt attack with a use of Spellcasting.</p>",
+          "value": "<p>Ночная ведьма может использовать «Причинить скорбь». Затем она совершает две атаки когтями или «Чародейским разрядом». Она может заменить одну такую атаку применением «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1630,7 +1630,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag magically transforms into Medium or smaller Humanoid, or back into its true form, which is Fiend. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies.</p>",
+          "value": "<p>Ведьма магически превращается в Гуманоида Среднего размера или меньше либо возвращается в истинную форму, которая является Исчадием. Её параметры одинаковы во всех формах, кроме размера. Всё носимое и переносимое снаряжение преобразуется вместе с ней. При смерти она возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1757,7 +1757,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. The hag can use Cause Sorrow on an unconscious creature not on its plane; otherwise, the hag can’t affect or be affected by anything on the other plane.</p>",
+          "value": "<p>Ведьма магически переходит из Материального плана в Эфирный и обратно. Ведьма может использовать «Причинить скорбь» на существе без сознания, которое находится не на её плане; в остальном она не может влиять и не подвержена влиянию чего-либо с другого плана.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

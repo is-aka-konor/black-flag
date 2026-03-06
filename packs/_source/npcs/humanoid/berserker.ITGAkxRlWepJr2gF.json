@@ -261,7 +261,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -334,7 +334,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</p>",
+          "value": "<p>В начале своего хода берсерк может получить преимущество на все броски атак рукопашным оружием, которые совершает в этот ход, но до начала его следующего хода броски атак по нему тоже совершаются с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -523,7 +523,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The berserker makes two Greataxe attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Секира».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

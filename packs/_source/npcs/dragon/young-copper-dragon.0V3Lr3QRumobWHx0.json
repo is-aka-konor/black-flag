@@ -324,7 +324,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and two Claw attacks. It can replace its Bite attack with a use of Slowing Breath, if available.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и две атаки когтями. Он может заменить атаку укусом применением «Замедляющего дыхания», если оно доступно.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает кислоту линией длиной 60 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона кислотой, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -642,7 +642,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales slowing gas in a 30-foot cone. Each creature in that area must make a [[/save format=long]]. On a failure, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, not both. These effects last for 1 minute. The creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Дракон выдыхает замедляющий газ 30-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]. При провале существо не может использовать реакции, его скорость уменьшается вдвое, и оно не может совершать больше одной атаки в свой ход. Кроме того, в свой ход оно может использовать либо действие, либо бонусное действие, но не оба сразу. Эти эффекты длятся 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Documengt"
           }
@@ -769,7 +769,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon magically transforms into a Beast or Humanoid that has a challenge rating no higher than its own, or back into its true form, which is Dragon. Any equipment it is wearing or carrying transforms with it or is borne by the new form (the dragon’s choice). It reverts to its true form if it dies. In a new form, the dragon retains its HP, ability to speak, proficiencies, and INT, WIS, and CHA scores, as well as this bonus action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.</p>",
+          "value": "<p>Дракон магически превращается в Зверя или Гуманоида с показателем опасности не выше своего, либо возвращается в истинную форму дракона. Любое носимое и переносимое снаряжение либо преобразуется вместе с ним, либо переносится новой формой (по выбору дракона). В новой форме дракон сохраняет мировоззрение, хиты, кости хитов, способность говорить, владения, черту «Легендарное сопротивление», а также значения ИНТ, МДР и ХАР, включая это действие. В остальном его параметры и возможности заменяются параметрами новой формы, кроме её классовых особенностей и легендарных действий.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

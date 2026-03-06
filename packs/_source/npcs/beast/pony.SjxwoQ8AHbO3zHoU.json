@@ -252,7 +252,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can push, drag, or lift weight in pounds equal to three times its carrying capacity.</p>",
+          "value": "<p>[[lookup @name lowercase]] может толкать, тянуть и поднимать вес в фунтах, равный утроенной грузоподъёмности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

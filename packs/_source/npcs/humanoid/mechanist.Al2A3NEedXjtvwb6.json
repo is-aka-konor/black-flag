@@ -261,7 +261,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish.</p>",
+          "value": "<p>Этот доспех состоит из кожаной куртки и поножей (иногда с отдельной юбкой), покрытых перекрывающимися металлическими пластинами, как рыбья чешуя.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -334,7 +334,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mechanist is proficient with tinker tools and doubles its proficiency bonus for any ability check it makes with tinker tools.</p>",
+          "value": "<p>Механист владеет инструментами жестянщика и удваивает бонус мастерства для любых проверок характеристик, совершаемых с их помощью.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -455,7 +455,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mechanist makes two Warhammer or Light Crossbow attacks.</p>",
+          "value": "<p>Механист совершает две атаки боевым молотом или лёгким арбалетом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -610,7 +610,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -930,7 +930,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mechanist touches one friendly Construct it can see. The target regains [[/healing average]].</p>",
+          "value": "<p>Механист касается одного дружественного Конструкта, которого видит. Цель восстанавливает [[/healing average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1072,7 +1072,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mechanist cobbles together various machine parts it is carrying and creates a Tiny Construct. The Construct obeys the mechanist’s spoken commands. It uses the statistics of a <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.s8UNCu3143r69IPC]{solodron}</strong>, but it isn’t a mechadron or part of the Plan. The mechanist can have up to two such Constructs under its control at one time. Each Construct remains for 1 minute, until the mechanist dies, or until the mechanist uses this bonus action again to dismiss one or both of them.</p>",
+          "value": "<p>Механист собирает из носимых деталей крошечного Конструкта. Конструкт подчиняется устным командам механиста. Он использует параметры <strong>@UUID[Compendium.kp-tov-monster-vault.kp-tov-mv-bestiary.Actor.s8UNCu3143r69IPC]{солодрона}</strong>, но не является мехадроном и не относится к Плану. Одновременно механист может контролировать до двух таких Конструктов. Каждый Конструкт существует 1 минуту, до смерти механиста или до повторного использования этого бонусного действия для роспуска одного или обоих.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1211,7 +1211,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the mechanist can see attacks it with a weapon made at least partially of metal while within 5 feet of it, the mechanist can release a magical, magnetic pulse. The attacker must succeed on a [[/save format=long]] or have disadvantage on the attack roll.</p>",
+          "value": "<p>Когда существо, которое механист видит, атакует его оружием, хотя бы частично изготовленным из металла, находясь в пределах 5 футов, механист может испустить магический магнитный импульс. Атакующий должен преуспеть в [[/save format=long]], иначе совершает бросок атаки с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

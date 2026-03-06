@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can’t use its keensense while deafened.</p>",
+          "value": "<p>[[lookup @name lowercase]] не может использовать обострённые чувства, пока оглохший.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

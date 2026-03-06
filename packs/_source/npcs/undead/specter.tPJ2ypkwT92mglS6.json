@@ -356,7 +356,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through other creatures and objects as if they were difficult terrain. It takes [[/damage average]] damage if it ends its turn inside an object.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить сквозь существ и объекты, как через труднопроходимую местность. Если он заканчивает ход внутри объекта, то получает [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

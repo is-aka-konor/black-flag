@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 1 hour.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 1 час.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -471,7 +471,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.</p>",
+          "value": "<p>За каждую голову сверх одной гидра получает дополнительную реакцию, которую может использовать только для атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -539,7 +539,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While one of the [[lookup @name lowercase]]'s heads is asleep, its other head is awake.</p>",
+          "value": "<p>Пока одна из голов [[lookup @name lowercase]] спит, другая голова бодрствует.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -660,7 +660,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hydra makes as many Bite attacks as it has heads.</p>",
+          "value": "<p>Гидра совершает столько атак укусом, сколько у неё голов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -811,7 +811,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hydra exhales poisonous gas in a 30-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p><p>While the hydra has five or more heads, this action has a recharge of 6. The recharge range increases for each head the hydra has below five. For example, a hydra that starts its turn with two heads can recharge this feature on a 3, 4, 5, or 6.</p><p><em>Note for the GM: You must track the recharge manually due to the variability of the recharge range.</em></p>",
+          "value": "<p>Гидра выдыхает ядовитый газ 30-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину.</p><p>Пока у гидры пять или больше голов, это действие перезаряжается на 6. Диапазон перезарядки увеличивается на 1 за каждую голову меньше пяти. Например, если гидра начинает ход с двумя головами, эта особенность перезаряжается на 3, 4, 5 или 6.</p><p><em>Примечание для Мастера: перезарядку нужно отслеживать вручную из-за переменного диапазона.</em></p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.</p>",
+          "value": "<p>[[lookup @name lowercase]] может прыгнуть в длину на расстояние до 30 футов и в высоту до 15 футов, с разбега или без него.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -506,7 +506,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bulette makes two Bite attacks.</p>",
+          "value": "<p>Буллет совершает две атаки укусом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

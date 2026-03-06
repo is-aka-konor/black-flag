@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The druid makes two Flowering Quarterstaff or Poison Bolt attacks.</p>",
+          "value": "<p>Друид совершает две атаки «Цветущим посохом» или «Ядовитым разрядом».</p>",
           "source": {}
         },
         "identifier": {},

@@ -314,7 +314,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The deer takes the &Reference[Dash]{Dash} or &Reference[Disengage]{Disengage} action.</p>",
+          "value": "<p>Олень совершает действие &Reference[Dash]{Рывок} или &Reference[Disengage]{Отход}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -464,7 +464,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 10 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель — существо Большого размера или меньше, она должна преуспеть в [[/save str 10 format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

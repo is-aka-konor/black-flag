@@ -316,7 +316,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint, by scent, the location of carrion, dead creatures, and Undead without the Incorporeal Movement trait within 60 feet of it.</p>",
+          "value": "<p>По запаху [[lookup @name lowercase]] точно определяет местоположение падали, мёртвых существ и Нежити без особенности Бестелесное перемещение в пределах 60 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -519,7 +519,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the vulture can see hits it with a melee attack while within 5 feet of it, the vulture can spit partially digested carrion at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
+          "value": "<p>Когда существо, которое гриф видит, попадает по нему рукопашной атакой, находясь в пределах 5 футов от него, гриф может плюнуть в это существо частично переваренной падалью. Атакующий должен преуспеть в [[/save format=long]], иначе становится &Reference[incapacitated]{недееспособным} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

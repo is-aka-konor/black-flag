@@ -263,7 +263,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This full-body suit of armor consists of thick furs and pelts.</p>",
+          "value": "<p>Этот полный комплект доспеха состоит из толстых мехов и шкур.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -343,7 +343,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>This broad piece of wood and metal is held by a handle attached to one side.</p>",
+          "value": "<p>Этот широкий предмет из дерева и металла держат за рукоять, закреплённую с одной стороны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -742,7 +742,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gnoll lets out a high-pitched laugh and taunts one creature it can see within 30 feet of it. The target must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] damage and must spend its next turn moving up to its speed toward the gnoll and make one attack against the gnoll.</p>",
+          "value": "<p>Гнолл издаёт пронзительный хохот и насмехается над одним существом, которое видит в пределах 30 футов. Цель должна совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и в свой следующий ход должно потратить перемещение (вплоть до своей скорости), чтобы приблизиться к гноллу, а затем совершить по нему одну атаку.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

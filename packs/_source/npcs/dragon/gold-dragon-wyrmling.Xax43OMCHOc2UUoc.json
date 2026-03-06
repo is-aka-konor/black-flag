@@ -410,7 +410,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{ничком}. If the target is prone, the [[lookup @name lowercase]] can make one Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -528,7 +528,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and one Claw attack.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и одну атаку когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -694,7 +694,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales fire in a 15-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает огонь 15-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона огнём, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Documenbt"
           }
@@ -847,7 +847,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales weakening gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or have disadvantage on STR-based attack rolls, STR checks, and STR saves for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает ослабляющий газ 15-футовым конусом. Каждое существо в этой области должно преуспеть в спасброске [[/save format=long]], иначе на 1 минуту получает помеху на броски атаки, проверки и спасброски, основанные на СИЛ. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Feature Reference"
           }

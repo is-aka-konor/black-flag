@@ -323,7 +323,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While the archmage is conscious, wearing no armor, and not inside of an antimagic effect, it adds its INT modifier to its AC (included above). In addition, it is resistant to force damage.</p>",
+          "value": "<p>Пока архимаг находится в сознании, не носит доспех и не находится в зоне антимагии, он добавляет модификатор ИНТ к своей КД (уже учтено выше). Кроме того, он имеет сопротивление к урону силовым полем.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -489,7 +489,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The archmage makes three Arcane Blast attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Архимаг совершает три атаки «Чародейским взрывом». Он может заменить одну атаку применением «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3044,7 +3044,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The archmage teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Sparks of arcane energy appear at the origin and destination when it uses this bonus action.</p>",
+          "value": "<p>Архимаг телепортируется вместе с носимым и переносимым снаряжением на расстояние до 30 футов в незанятое пространство, которое видит. В точке отправления и точке прибытия при этом вспыхивают искры чародейской энергии.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3177,7 +3177,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the archmage can see within 30 feet of it casts a spell, the archmage can counter the spell, interrupting the casting. This reaction works like the <em>@UUID[Compendium.black-flag-ru.spells.Item.Uxv1vWfoFhwbXMLt]{counterspell}</em> spell with a +5 spellcasting ability check, except the archmage must always make the ability check, regardless of the spell’s circle. The archmage has advantage on this check if the spell is on the Arcane source spell list.</p>",
+          "value": "<p>Когда существо, которое архимаг видит в пределах 30 футов, накладывает заклинание, архимаг может прервать его реакцией. Эта реакция работает как заклинание <em>@UUID[Compendium.black-flag-ru.spells.Item.Uxv1vWfoFhwbXMLt]{counterspell}</em> с проверкой заклинательной характеристики +5, но архимаг всегда совершает эту проверку независимо от круга заклинания. Если заклинание находится в списке источника «Arcane», архимаг совершает эту проверку с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -3403,7 +3403,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save str 17 format=long]] or be pushed up to 10 feet away from the archmage and knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save str 17 format=long]], иначе отталкивается от архимага на расстояние до 10 футов и падает &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }

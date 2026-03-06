@@ -746,7 +746,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] of the type determined by Artistic Expression.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона типа, определяемого «Художественным выражением».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -926,7 +926,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] of the type determined by Artistic Expression.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона типа, определяемого «Художественным выражением».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1124,7 +1124,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Each creature within 30 feet of the bard and that can see or hear it must make a [[/save format=long]]. On a failure, a creature takes [[/damage average]] and has disadvantage on attack rolls and ability checks until the end of its next turn. On a success, a creature takes half the damage and doesn’t have disadvantage on attack rolls and ability checks.</p>",
+          "value": "<p>Каждое существо в пределах 30 футов от барда, которое видит или слышит его, должно совершить [[/save format=long]]. При провале существо получает [[/damage average]] урона и до конца своего следующего хода совершает броски атаки и проверки характеристик с помехой. При успехе существо получает половину урона и не получает помеху.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2847,7 +2847,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+          "value": "<p>Клёпаная кожа изготовлена из прочной, но гибкой кожи и усилена частыми заклёпками или шипами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

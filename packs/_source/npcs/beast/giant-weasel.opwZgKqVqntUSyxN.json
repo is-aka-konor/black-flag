@@ -386,7 +386,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the weasel can see moves to a space within 15 feet of it, the weasel can release a pungent spray at the creature. The target must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn. While poisoned, the creature can’t move to a space within 5 feet of the weasel.</p>",
+          "value": "<p>Когда существо, которое ласка видит, перемещается в пространство в пределах 15 футов от неё, ласка может выпустить в него едкий спрей. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[poisoned]{отравленной} до конца своего следующего хода. Пока цель отравлена, она не может перемещаться в пространство в пределах 5 футов от ласки.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -540,7 +540,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. Instead of dealing damage, the weasel can steal one item the target is wearing or carrying, provided the item weighs no more than 10 pounds, isn’t a weapon, and isn’t wrapped around or firmly attached to the target. For example, a weasel could steal a hat or belt pouch but not a creature’s shirt or armor.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Вместо нанесения урона ласка может украсть один предмет, который цель носит или несёт, если предмет весит не более 10 фунтов, не является оружием и не обмотан вокруг цели и не закреплён на ней прочно. Например, ласка может украсть шляпу или поясной кошель, но не рубашку или доспех цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

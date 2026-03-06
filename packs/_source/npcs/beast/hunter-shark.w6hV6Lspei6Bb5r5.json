@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on melee attack rolls against any creature that doesn't have all its HP.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает рукопашные атаки с преимуществом против существ, у которых не полный запас ОЗ.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -399,7 +399,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can pinpoint, by scent, the location of creatures that don’t have all of their HP within 60 feet of it and can sense the general direction of such creatures within 1 mile of it.</p>",
+          "value": "<p>По запаху [[lookup @name lowercase]] точно определяет местоположение существ с неполными ОЗ в пределах 60 футов и чувствует общее направление на таких существ в пределах 1 мили.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -533,7 +533,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the shark takes lightning damage, it must succeed on a [[/save format=long]] or be &Reference[incapacitated]{недееспособен} until the end of its next turn.</p>",
+          "value": "<p>Каждый раз, когда акула получает урон электричеством, она должна преуспеть в [[/save format=long]], иначе становится &Reference[incapacitated]{недееспособной} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -601,7 +601,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -722,7 +722,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shark makes two Bite attacks.</p>",
+          "value": "<p>Акула совершает две атаки «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -848,7 +848,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The shark moves up to half its speed toward a hostile creature that it can see. This movement doesn’t provoke opportunity attacks.</p>",
+          "value": "<p>Акула перемещается на расстояние до половины своей скорости к враждебному существу, которое видит. Это перемещение не провоцирует атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

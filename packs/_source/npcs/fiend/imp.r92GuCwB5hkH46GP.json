@@ -261,7 +261,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Magical darkness doesn’t impede the [[lookup @name lowercase]]'s darkvision.</p>",
+          "value": "<p>Магическая тьма не мешает тёмному зрению [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -450,7 +450,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically turns invisible until it attacks or uses Change Shape, or until its concentration ends (as if concentrating on a spell). Any equipment the [[lookup @name lowercase]] wears or carries is invisible with it.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически становится невидимым, пока не атакует, не использует «Смена формы» или пока не закончится его концентрация (как при концентрации на заклинании). Всё носимое и переносимое снаряжение становится невидимым вместе с ним.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -574,7 +574,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Medium or smaller Beast that has a CR no higher than its own or back into its true form, which is a Fiend. Without wings, it loses its flying speed. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying transforms with it. It reverts to its true form if it dies.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в Зверя Среднего размера или меньше с ПО не выше своего, либо возвращается в истинную форму Исчадия. В форме без крыльев он теряет скорость полёта. Его параметры одинаковы в каждой форме, кроме размера и скорости. Всё носимое и переносимое снаряжение преобразуется вместе с ним. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -639,7 +639,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire damage and poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к урону огнём и ядом и к состоянию &Reference[poisoned]{отравлён}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

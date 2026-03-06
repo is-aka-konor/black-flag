@@ -442,7 +442,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and one Claw attack.</p>",
+          "value": "<p>Дракон совершает одну атаку «Укус» и одну атаку «Коготь».</p>",
           "source": {}
         },
         "identifier": {},

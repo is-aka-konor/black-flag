@@ -1321,7 +1321,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to its speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до своей скорости, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

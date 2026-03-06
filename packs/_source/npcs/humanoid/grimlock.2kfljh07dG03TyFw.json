@@ -393,7 +393,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The grimlock’s Stealth is [[calc @attributes.stealth + 5]] while in rocky terrain.</p>",
+          "value": "<p>Скрытность гримлока равна [[calc @attributes.stealth + 5]] на каменистой местности.</p>",
           "source": {}
         },
         "identifier": {},

@@ -269,7 +269,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can burrow through nonmagical, unworked earth and stone. While doing so, the [[lookup @name lowercase]] doesn’t disturb the material through which it moves.</p>",
+          "value": "<p>[[lookup @name lowercase]] может рыть ход через немагические необработанные землю и камень. При этом он не нарушает материал, через который проходит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1118,7 +1118,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] transports itself to a different plane of existence. This works like the <em>plane shift</em> spell, except it can affect only itself and can’t use this action to banish an unwilling creature.</p>",
+          "value": "<p>[[lookup @name lowercase]] переносит себя на другой план существования. Это работает как заклинание <em>сдвиг плана</em>, но действует только на него самого и не позволяет изгнать несогласное существо.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

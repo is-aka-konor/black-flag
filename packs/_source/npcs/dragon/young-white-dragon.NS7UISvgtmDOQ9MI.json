@@ -275,7 +275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The dragon can move across and climb icy surfaces without needing to make an ability check. In addition, difficult terrain composed of ice or snow doesn’t cost it extra movement.</p>",
+          "value": "<p>Дракон может перемещаться и взбираться по ледяным поверхностям без проверок характеристик. Кроме того, труднопроходимая местность изо льда или снега не требует от него дополнительных затрат перемещения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -535,7 +535,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and two Claw attacks.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и две атаки когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -699,7 +699,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Дракон выдыхает ледяной вихрь 30-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона холодом, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

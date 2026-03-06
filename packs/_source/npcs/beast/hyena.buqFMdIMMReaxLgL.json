@@ -315,7 +315,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If three or more hyenas are all within 30 feet of each other, their cackling, grunts, whoops, and yips create a deafening chorus. A creature that starts its turn within 10 feet of such a hyena must succeed on a CON save or be &Reference[deafened]{оглохший} until the start of its next turn. The DC is equal to 8 plus the number of participating hyenas.</p>",
+          "value": "<p>Если три или более гиены находятся в пределах 30 футов друг от друга, их смех, рычание и визг сливаются в оглушительный хор. Существо, начинающее ход в пределах 10 футов от такой гиены, должно преуспеть в спасброске Телосложения, иначе становится &Reference[deafened]{оглохшим} до начала своего следующего хода. СЛ равна 8 + число участвующих гиен.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

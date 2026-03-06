@@ -573,7 +573,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] makes two Bite or Poison Spit attacks. If both Bite or Poison Spit attacks hit one creature, the target is &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает две атаки: «Укус» или «Ядовитый плевок». Если обе атаки попадают по одному существу, цель становится &Reference[poisoned]{отравленной} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

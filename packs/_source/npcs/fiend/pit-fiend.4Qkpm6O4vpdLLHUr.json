@@ -881,7 +881,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire damage and poison damage and to the poisoned condition.</p>",
+          "value": "<p>[[lookup @name lowercase]] имеет сопротивление к урону холодом, а также к дробящему, колющему и рубящему урону от немагических атак. Кроме того, он невосприимчив к урону огнём и ядом и к состоянию &Reference[poisoned]{отравлён}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1401,7 +1401,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 21 format=long]] be &Reference[poisoned]{отравлен}. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. The target must succeed on a [[/save con 21 format=long]] be &Reference[poisoned]{отравлён}. While poisoned in this way, the target can’t regain HP. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

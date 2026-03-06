@@ -671,7 +671,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The marilith makes two Dagger attacks, two Mace attacks, and two Longsword attacks. It can replace two Dagger attacks with a Tail attack.</p>",
+          "value": "<p>Марилит совершает две атаки кинжалом, две атаки булавой и две атаки длинным мечом. Она может заменить две атаки кинжалом одной атакой хвостом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1471,7 +1471,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 60 футов в незанятое пространство, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

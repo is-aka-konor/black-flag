@@ -452,7 +452,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature that can see the medusa’s eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a [[/save format=long]] if the medusa isn’t incapacitated and can see the creature. If the save fails by 5 or more, the creature is instantly &Reference[petrified]{окаменел}. Otherwise, a creature that fails the save begins to turn to stone and is &Reference[restrained]{опутан}. The restrained creature must repeat the save at the end of its next turn, becoming petrified on a failure or ending the effect on itself on a success. The petrification lasts until the creature is freed by the @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} spell or other magic.</p><p>Unless surprised, a creature can avert its eyes to avoid the save at the start of its turn. If the creature does so, it can’t see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.</p><p>If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa, due to its curse, is affected by its own gaze. A medusa isn’t resistant to its own gaze.</p>",
+          "value": "<p>Когда существо, которое может видеть глаза медузы, начинает ход в пределах 30 футов от неё, медуза может заставить его совершить [[/save format=long]], если медуза не является &Reference[incapacitated]{недееспособной} и видит это существо. Если спасбросок провален на 5 и более, существо мгновенно становится &Reference[petrified]{окаменевшим}. Иначе существо, провалившее спасбросок, начинает каменеть и становится &Reference[restrained]{опутанным}. Опутанное существо повторяет спасбросок в конце своего следующего хода: при провале становится окаменевшим, при успехе заканчивает эффект. Окаменение длится, пока существо не будет освобождено заклинанием @UUID[Compendium.black-flag-ru.spells.Item.ZTVg00JolCuPkOOX]{greater restoration} или другой магией.</p><p>Если существо не застигнуто врасплох, в начале своего хода оно может отвести взгляд, чтобы избежать спасброска. В этом случае до начала следующего хода оно не видит медузу, после чего может снова отводить взгляд. Если существо всё же посмотрит на медузу до этого момента, оно немедленно совершает спасбросок.</p><p>Если медуза видит своё отражение в полированной поверхности в пределах 30 футов при ярком свете, из-за проклятия она подпадает под действие собственного взгляда. Медуза не имеет устойчивости к собственному взгляду.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1149,7 +1149,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the medusa can see targets it with an attack, the medusa’s snakes can suddenly rise and hiss at the attacker. The attacker must succeed on a [[/save format=long]] or fail the attack roll.</p>",
+          "value": "<p>Когда существо, которое медуза видит, выбирает её целью атаки, её змеи могут резко подняться и зашипеть на атакующего. Атакующий должен преуспеть в [[/save format=long]], иначе его бросок атаки автоматически проваливается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

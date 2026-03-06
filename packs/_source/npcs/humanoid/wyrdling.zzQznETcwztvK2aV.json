@@ -385,7 +385,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wyrdling can spend 1 minute communing with fate on behalf of one creature that remains within 10 feet of it for the duration. The creature must ask a single question concerning a specific goal, event, or activity to occur within 7 days. At the end of the minute, the wyrdling pronounces the result of the target’s inquiry. This trait works like the divination spell, except it can’t be used to answer a specific creature’s question more than once every 3 days, regardless if the creature asks a different question.</p>",
+          "value": "<p>Вирдлинг может в течение 1 минуты взывать к судьбе от имени одного существа, остающегося в пределах 10 футов всё это время. Существо должно задать один вопрос о конкретной цели, событии или действии, которое должно произойти в течение 7 дней. В конце минуты вирдлинг объявляет результат. Эта черта работает как заклинание divination, но не может отвечать на вопросы одного и того же существа чаще одного раза в 3 дня, даже если вопросы разные.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -693,7 +693,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wyrdling pronounces the fate, either fortune or doom (the wyrdling’s choice), of one creature it can see within 30 feet of it. The target rolls a [[/r d4]] and adds (fortune) or subtracts (doom) the number rolled to the next attack roll or save it makes before the start of the wyrdling’s next turn.</p>",
+          "value": "<p>Вирдлинг провозглашает судьбу (удачу или рок, по выбору вирдлинга) для одного существа, которое видит в пределах 30 футов. Цель бросает [[/r d4]] и добавляет (удача) или вычитает (рок) выпавшее число к следующему броску атаки или спасброску, который совершит до начала следующего хода вирдлинга.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

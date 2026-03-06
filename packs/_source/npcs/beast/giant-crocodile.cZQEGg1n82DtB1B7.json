@@ -257,7 +257,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 30 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 30 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -378,7 +378,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The crocodile makes one Bite attack and one Tail attack.</p>",
+          "value": "<p>Существо совершает одну атаку «Укус» и одну атаку «Хвост».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -528,7 +528,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the crocodile must make a  [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Одно существо, схваченное крокодилом, должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе - половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -682,7 +682,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 16). Until this grapple ends, the target is &Reference[restrained]{опутан}, and the crocodile can’t Bite another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 16). Пока захват не окончится, цель остаётся &Reference[restrained]{опутанной}, а крокодил не может применить «Укус» к другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -932,7 +932,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 16 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, она должна преуспеть в [[/save str 16 format=long]], иначе будет &Reference[prone]{сбита с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

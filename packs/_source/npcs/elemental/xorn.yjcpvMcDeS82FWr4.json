@@ -273,7 +273,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can burrow through nonmagical, unworked earth and stone. While doing so, the [[lookup @name lowercase]] doesn’t disturb the material through which it moves.</p>",
+          "value": "<p>[[lookup @name lowercase]] может рыть ход через немагические необработанные землю и камень. При этом он не нарушает материал, через который проходит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

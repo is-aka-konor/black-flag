@@ -697,7 +697,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bandit steals an object from one creature it can see within 5 feet of it. The target must succeed on a [[/save]] save or lose one object it is wearing or carrying of the bandit’s choice. The object must weigh no more than 10 pounds, can’t be a weapon, and can’t be wrapped around or firmly attached to the target, such as a shirt or armor.</p>",
+          "value": "<p>Бандит крадёт предмет у одного существа, которое видит в пределах 5 футов. Цель должна преуспеть в спасброске [[/save]], иначе теряет один носимый или переносимый предмет по выбору бандита. Предмет должен весить не более 10 фунтов, не может быть оружием и не должен быть плотно закреплён на цели или обёрнут вокруг неё, как, например, рубаха или доспех.</p>",
           "source": {}
         },
         "identifier": {},

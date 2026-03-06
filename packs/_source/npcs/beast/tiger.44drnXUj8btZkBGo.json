@@ -396,7 +396,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Когти», цель должна преуспеть в [[/save]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -545,7 +545,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The tiger makes one Bite attack and one Claws attack. If both attacks hit one creature, the target must succeed on a [[/save format=long]] at the start of its next turn or lose [[/damage average]] HP, as the wound continues bleeding.</p>",
+          "value": "<p>Тигр совершает одну атаку «Укус» и одну атаку «Когти». Если обе атаки попадают по одной цели, в начале своего следующего хода цель должна преуспеть в [[/save format=long]], иначе теряет [[/damage average]] хитов из-за продолжающегося кровотечения из раны.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

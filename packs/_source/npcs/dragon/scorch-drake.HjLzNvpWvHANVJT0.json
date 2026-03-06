@@ -266,7 +266,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Creatures more than 30 feet from the [[lookup @name lowercase]] have disadvantage on WIS (Perception) checks to see the drake.</p>",
+          "value": "<p>Существа дальше чем в 30 футах от [[lookup @name lowercase]] совершают проверки МДР (Внимательность), основанные на зрении, с помехой, когда пытаются заметить дрейка.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -541,7 +541,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The scorch drake makes one Bite and two Claw attacks.</p>",
+          "value": "<p>Огненный дрейк совершает одну атаку укусом и две атаки когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

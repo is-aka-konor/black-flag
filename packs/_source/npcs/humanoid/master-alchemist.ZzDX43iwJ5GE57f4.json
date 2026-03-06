@@ -261,7 +261,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>",
+          "value": "<p>Клёпаная кожа изготовлена из прочной, но гибкой кожи и усилена частыми заклёпками или шипами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The master alchemist is proficient with alchemist’s supplies and doubles its proficiency bonus for any ability check it makes with alchemist’s supplies.</p>",
+          "value": "<p>Старший алхимик владеет инструментами алхимика и удваивает бонус мастерства для любых проверок характеристик, совершаемых с их помощью.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -453,7 +453,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The master alchemist makes three Hasty Concoction attacks.</p>",
+          "value": "<p>Старший алхимик совершает три атаки «Спешной смесью».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1003,7 +1003,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The master alchemist throws an explosive flask at a point it can see within 30 feet of it. Each creature within 10 feet of that point must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Старший алхимик бросает взрывающуюся колбу в точку, которую видит в пределах 30 футов. Каждое существо в пределах 10 футов от этой точки должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1154,7 +1154,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The master alchemist rubs a greasy unguent on a creature’s wounds. The target regains [[/healing average]].</p>",
+          "value": "<p>Старший алхимик втирает жирную мазь в раны существа. Цель восстанавливает [[/healing average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1289,7 +1289,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The master alchemist drinks one of its brews and gains resistance to acid, cold, fire, or poison damage (the master alchemist’s choice) until the end of its next turn.</p>",
+          "value": "<p>Старший алхимик выпивает один из своих составов и до конца своего следующего хода получает сопротивление к урону кислотой, холодом, огнём или ядом (по выбору старшего алхимика).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

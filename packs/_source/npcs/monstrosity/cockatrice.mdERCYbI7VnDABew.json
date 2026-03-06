@@ -446,7 +446,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the cockatrice can see within 30 feet of it attacks it, the cockatrice can let out a startling crow. The attacker must succeed on a [[/save format=long]] or have disadvantage on the attack roll.</p>",
+          "value": "<p>Когда существо, которое кокатрис видит в пределах 30 футов, атакует его, кокатрис может издать пронзительный крик. Атакующий должен преуспеть в спасброске [[/save format=long]], иначе совершает бросок атаки с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -249,7 +249,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The horse’s steps are smooth and steady. A creature riding the horse has advantage on saves against exhaustion caused by a Forced March (see <strong>Traveling</strong> in Chapter 6 of <em>Player’s Guide</em>).</p>",
+          "value": "<p>Шаг лошади ровный и плавный. Существо, едущее верхом на этой лошади, имеет преимущество на спасброски против истощения от форсированного марша (см. раздел <strong>Путешествие</strong> в главе 6 <em>Руководства игрока</em>).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -275,7 +275,7 @@
           "value": null
         }
       },
-      "name": "Легкая походка",
+      "name": "Лёгкая поступь",
       "type": "feature",
       "_id": "vjLojuApN1pGMlds",
       "img": "icons/environment/creatures/horse-white.webp",

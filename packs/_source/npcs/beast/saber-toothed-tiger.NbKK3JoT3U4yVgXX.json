@@ -391,7 +391,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite attack against it as a bonus action.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Когти», цель должна преуспеть в [[/save]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, [[lookup @name lowercase]] может бонусным действием совершить по ней одну атаку «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -509,7 +509,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The tiger makes one Bite attack and one Claws attack.</p>",
+          "value": "<p>Существо совершает одну атаку «Укус» и одну атаку «Когти».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -889,7 +889,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save dex 14 format=long]] or suffer a puncture wound. A creature suffering a puncture wound loses [[/damage 1d10 average]] HP at the start of each of its turns as the wound bleeds excessively. Any creature can take an action to stanch the wound with a successful [[/check medicine 12 format=long]]. The wound also closes if the target receives magical healing.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save dex 14 format=long]], иначе получает колотую рану. Существо с колотой раной теряет [[/damage 1d10 average]] хитов в начале каждого своего хода из-за сильного кровотечения. Любое существо может действием остановить кровотечение, преуспев в [[/check medicine 12 format=long]]. Рана также закрывается, если цель получает магическое исцеление.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

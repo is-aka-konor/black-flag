@@ -400,7 +400,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {}
         },
         "type": {
@@ -542,7 +542,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a friendly creature the guard can see within 5 feet of it is the target of an attack, the guard can interpose its weapon between the creature and the attacker. The friendly creature adds 2 to its AC against that attack. To use this reaction, the guard must be able to see the attacker and be wielding a melee weapon.</p>",
+          "value": "<p>Когда дружественное существо в пределах 5 футов от стражника, которое он видит, становится целью атаки, стражник может подставить оружие между целью и атакующим. Дружественное существо получает +2 к КД против этой атаки. Чтобы использовать эту реакцию, стражник должен видеть атакующего и держать рукопашное оружие.</p>",
           "source": {}
         },
         "identifier": {},

@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.</p>",
+          "value": "<p>[[lookup @name lowercase]] не провоцирует атаки по возможности, когда вылетает из досягаемости врага.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -390,7 +390,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s Stealth is 18 while flying.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 18, пока он летит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -416,7 +416,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Creatures resistant to fire damage aren’t resistant to fire damage dealt by the [[lookup @name lowercase]]. A creature immune to fire damage is still immune to the [[lookup @name lowercase]]'s fire damage.</p>",
+          "value": "<p>Существа с сопротивлением к урону огнём не получают это сопротивление против огненного урона от [[lookup @name lowercase]]. Существо с иммунитетом к урону огнём сохраняет иммунитет к огненному урону [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -625,7 +625,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 3d8 fire damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, оно дополнительно наносит 3d8 урона огнём (включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -773,7 +773,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>At the start of each of the [[lookup @name lowercase]]'s turns, each creature within 10 feet of it takes [[/damage average]] damage, and flammable objects in the aura that aren’t being worn or carried ignite.</p>",
+          "value": "<p>В начале каждого хода [[lookup @name lowercase]] каждое существо в пределах 10 футов от него получает [[/damage average]] урона, а воспламеняющиеся объекты в ауре, которые никто не несёт и не носит, загораются.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -960,7 +960,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The balor makes one Gore attack, one Longsword attack, and one Whip attack.</p>",
+          "value": "<p>Балор совершает одну атаку рогами, одну атаку двуручным мечом и одну атаку кнутом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1714,7 +1714,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 60 футов в незанятое пространство, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

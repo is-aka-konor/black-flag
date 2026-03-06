@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hissing, spitting, and constant nipping of snakes in the swarm leaves the swarm’s space dripping with poison. A creature that starts its turn in the swarm’s space must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the start of its next turn.</p>",
+          "value": "<p>Шипение, плевки и постоянные укусы змей в рое покрывают его пространство ядом. Существо, начинающее ход в пространстве роя, должно преуспеть в [[/save format=long]], иначе становится &Reference[poisoned]{отравленным} до начала своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -920,7 +920,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 0 ft., one target in the swarm’s space. [[/damage average]], or [[/damage 2d4 piercing average]] damage if the swarm has half of its HP or fewer. If the target is a creature, it must make a [[/save con 14 format=long]], taking [[/damage 4d8 poison average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p><em>Рукопашная атака оружием</em>: [[/attack]], досягаемость 0 фт., одна цель в пространстве роя. [[/damage average]] или [[/damage 2d4 piercing average]] колющего урона, если у роя половина хитов или меньше. Если цель — существо, оно должно совершить [[/save con 14 format=long]], получая [[/damage 4d8 poison average]] урона ядом при провале или половину этого урона при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

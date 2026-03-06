@@ -347,7 +347,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature grappled by the snake must succeed on a [[/save format=long]] or take [[/damage average]] damage and begin suffocating. The creature continues suffocating until the grapple ends.</p>",
+          "value": "<p>Одно существо, схваченное змеёй, должно преуспеть в [[/save format=long]], иначе получает [[/damage average]] урона и начинает задыхаться. Существо продолжает задыхаться, пока захват не закончится.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -669,7 +669,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target is &Reference[grappled]{схвачен} (escape DC 12), if it is a Large or smaller creature. Until this grapple ends, the creature is &Reference[restrained]{опутан}, and the snake can’t Constrict another target.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель - существо Большого размера или меньше, она становится &Reference[grappled]{схваченной} (Сл. высвобождения 12). Пока захват не окончится, существо остаётся &Reference[restrained]{опутанным}, а змея не может применить «Сдавливание» к другой цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

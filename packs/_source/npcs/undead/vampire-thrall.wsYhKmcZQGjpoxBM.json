@@ -654,7 +654,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The vampire thrall makes two Rapier attacks.</p>",
+          "value": "<p>Вампирский раб совершает две атаки рапирой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -275,7 +275,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>he mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.</p>",
+          "value": "<p>Мимик прилипает ко всему, что его касается. Существо Огромного размера или меньше, прилипшее к мимику, также считается &Reference[grappled]{схваченным} им (Сл высвобождения 13). Проверки характеристик для освобождения от этой хватки совершаются с помехой.</p>",
           "source": {}
         },
         "identifier": {},
@@ -623,7 +623,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mimic makes two Pseudopod attacks. If it is grappling a creature, it can replace one attack with a Bite attack.</p>",
+          "value": "<p>Мимик совершает две атаки ложноножкой. Если он удерживает существо в хватке, он может заменить одну атаку атакой укусом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -741,7 +741,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically transforms into a Large or smaller object or back into its true, amorphous form, which is a [[lookup @traits.type.config.label]]. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически превращается в объект Большого размера или меньше либо возвращается в свою истинную аморфную форму ([[lookup @traits.type.config.label]]). Его параметры одинаковы в обеих формах. Носимое и переносимое снаряжение не преобразуется. При смерти он возвращается в истинную форму.</p>",
           "source": {}
         },
         "identifier": {},
@@ -860,7 +860,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the mimic can see hits it with an attack while it is grappling a creature, the mimic can roll the grappled creature in front of the blow, forcing the grappled creature to take the damage instead.</p>",
+          "value": "<p>Когда существо, которое мимик видит, попадает по нему атакой, пока мимик держит кого-то в хватке, мимик может подставить схваченное существо под удар, заставив его получить урон вместо себя.</p>",
           "source": {}
         },
         "identifier": {},

@@ -513,7 +513,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.</p>",
+          "value": "<p>У мантикоры двадцать четыре хвостовых шипа. Израсходованные шипы отрастают после завершения продолжительного отдыха.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -651,7 +651,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The manticore makes one Bite attack and two Claw attacks, or it makes two Tail Spike attacks. If both Tail Spike attacks hit one creature, the target must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>Мантикора совершает одну атаку укусом и две атаки когтями либо две атаки хвостовыми шипами. Если обе атаки хвостовыми шипами попадают по одному существу, цель должна преуспеть в спасброске [[/save format=long]], иначе становится &Reference[poisoned]{отравленной} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -371,7 +371,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The scout makes two Shortsword or Shortbow attacks.</p>",
+          "value": "<p>Разведчик совершает две атаки коротким мечом или коротким луком.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -798,7 +798,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The scout takes the &Reference[Dash]{Dash} or &Reference[Disengage]{Disengage} action.</p>",
+          "value": "<p>Разведчик совершает действие &Reference[Dash]{Рывок} или &Reference[Disengage]{Отход}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -873,7 +873,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
+          "value": "<p>Нагрудник и наплечники этого доспеха выполнены из кожи, упрочнённой кипячением в масле. Остальные части сделаны из более мягких и гибких материалов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

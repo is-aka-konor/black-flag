@@ -443,7 +443,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and two Claw attacks.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и две атаки когтями.</p>",
           "source": {}
         },
         "identifier": {},
@@ -595,7 +595,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a [[/save]] save, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>[[lookup @name lowercase]] выдыхает кислоту линией длиной 30 футов и шириной 5 футов. Каждое существо в этой линии должно совершить спасбросок [[/save]]: при провале получает [[/damage average]] урона кислотой, при успехе — половину.</p>",
           "source": {}
         },
         "identifier": {},

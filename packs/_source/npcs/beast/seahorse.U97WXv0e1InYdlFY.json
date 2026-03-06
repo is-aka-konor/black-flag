@@ -255,7 +255,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]’s Stealth is 17 while underwater.</p>",
+          "value": "<p>Значение Скрытности [[lookup @name lowercase]] равно 17, пока он находится под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -323,7 +323,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

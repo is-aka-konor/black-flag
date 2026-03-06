@@ -262,7 +262,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.</p>",
+          "value": "<p>[[lookup @name lowercase]] не провоцирует атаки по возможности, когда вылетает из досягаемости врага.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -391,7 +391,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the snake can see attacks it, the snake can move up to 5 feet. If this movement puts the snake out of reach of the attack, the attack misses.</p>",
+          "value": "<p>Когда существо, которое змея видит, атакует её, змея может переместиться на расстояние до 5 футов. Если это перемещение выводит змею из досягаемости атаки, атака промахивается.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -417,7 +417,7 @@
           "value": null
         }
       },
-      "name": "Рефлексивный побег",
+      "name": "Рефлекторный уход",
       "type": "feature",
       "_id": "JbKaKE3ft7uoeh43",
       "img": "icons/skills/movement/arrow-upward-yellow.webp",
@@ -635,7 +635,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 11 format=long]] or take [[/damage 2d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 11 format=long]], иначе получает [[/damage 2d4 poison average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

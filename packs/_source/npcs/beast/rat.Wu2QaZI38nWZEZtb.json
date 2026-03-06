@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The rat has advantage on saves against contracting diseases.</p>",
+          "value": "<p>Крыса совершает спасброски против заражения болезнями с преимуществом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

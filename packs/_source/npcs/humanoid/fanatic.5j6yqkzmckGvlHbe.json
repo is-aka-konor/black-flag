@@ -490,7 +490,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The fanatic makes two Sacrificial Dagger or Dark Bolt attacks.</p>",
+          "value": "<p>Фанатик совершает две атаки ритуальным кинжалом или тёмным разрядом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -719,7 +719,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is paralyzed, prone, stunned, or unconscious, it takes an extra [[/damage 1d4 slashing average]] damage.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона. Если цель парализована, сбита с ног, ошеломлена или без сознания, она получает дополнительно [[/damage 1d4 slashing average]] урона.</p>",
           "source": {}
         },
         "type": {
@@ -881,7 +881,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One creature the fanatic can see within 30 feet of it must succeed on a [[/save]] save or be marked with an unholy brand until the start of the fanatic’s next turn. While the creature is branded, Fiends and cultists have advantage on attack rolls against it.</p>",
+          "value": "<p>Одно существо, которое фанатик видит в пределах 30 футов, должно преуспеть в спасброске [[/save]], иначе до начала следующего хода фанатика отмечается нечестивым клеймом. Пока существо отмечено, исчадия и культисты совершают по нему броски атаки с преимуществом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1842,7 +1842,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]] (the fanatic’s choice).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]] урона (по выбору фанатика).</p>",
           "source": {}
         },
         "identifier": {

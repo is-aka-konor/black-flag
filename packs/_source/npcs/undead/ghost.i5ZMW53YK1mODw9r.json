@@ -280,7 +280,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>",
+          "value": "<p>[[lookup @name lowercase]] может видеть на 60 футов в Эфирный план, когда находится на Материальном плане, и наоборот.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -424,7 +424,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can move through other creatures and objects as if they were difficult terrain. It takes [[/damage 1d10 force average]] damage if it ends its turn inside an object.</p>",
+          "value": "<p>[[lookup @name lowercase]] может проходить сквозь существ и объекты, как через труднопроходимую местность. Если он заканчивает ход внутри объекта, то получает [[/damage 1d10 force average]] урона силовым полем.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -874,7 +874,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ghost makes two Withering Touch or Telekinetic Throw attacks.</p>",
+          "value": "<p>Привидение совершает две атаки «Иссушающее касание» или «Телекинетический бросок».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1349,7 +1349,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Ethereal Plane, and vice versa, yet it can’t affect or be affected by anything on the other plane.</p>",
+          "value": "<p>[[lookup @name lowercase]] переходит из Материального плана в Эфирный или обратно. Находясь в Эфирном плане, он виден с Материального, и наоборот, но не может влиять и не подвержен влиянию чего-либо с другого плана.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

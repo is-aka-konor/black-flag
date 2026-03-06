@@ -393,7 +393,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wolf stares down and growls at one creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. The wolf has advantage on the next attack roll it makes against the frightened creature.</p>",
+          "value": "<p>Волк пристально смотрит и рычит на одно существо, которое видит в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода. Волк получает преимущество на следующий бросок атаки по испуганной цели.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -794,7 +794,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель - существо, она должна преуспеть в [[/save str 13 format=long]], иначе становится &Reference[prone]{сбитой с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

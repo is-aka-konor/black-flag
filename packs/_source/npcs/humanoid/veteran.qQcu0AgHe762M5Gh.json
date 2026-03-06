@@ -379,7 +379,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The veteran makes two Longsword attacks and two Shortsword attacks, or it makes three Longsword attacks.</p>",
+          "value": "<p>Ветеран совершает две атаки длинным мечом и две атаки коротким мечом либо три атаки длинным мечом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -504,7 +504,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {}
         },
         "type": {
@@ -958,7 +958,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The veteran shoves a creature it can see within 5 feet of it. The target must succeed on a [[/save]] save or be knocked prone.</p>",
+          "value": "<p>Ветеран толкает существо, которое видит в пределах 5 футов. Цель должна преуспеть в спасброске [[/save]], иначе падает &Reference[prone]{ничком}.</p>",
           "source": {}
         },
         "identifier": {},

@@ -279,7 +279,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell or effect, such as scrying or detecting its location, that it refuses. WIS (Insight) checks made to ascertain the [[lookup @name lowercase]]'s intentions or sincerity have disadvantage.</p>",
+          "value": "<p>[[lookup @name lowercase]] невосприимчив к любым эффектам, определяющим его эмоции или читающим мысли, а также к любым заклинаниям и эффектам прорицания (например, магическому наблюдению или определению местоположения), которым он противится. Проверки МДР (Проницательность), совершаемые, чтобы понять намерения или искренность [[lookup @name lowercase]], выполняются с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -347,7 +347,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx’s Claw attacks are magical. When the sphinx hits with a Claw attack, the Claw deals an extra 2d8 force damage (included in the attack).</p>",
+          "value": "<p>Атаки когтями сфинкса считаются магическими. Когда сфинкс попадает атакой когтями, эта атака дополнительно наносит 2d8 урона силовым полем (включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -585,7 +585,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The sphinx makes four Claw or Arcane Bolt attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Сфинкс совершает четыре атаки когтями или «Чародейским разрядом». Он может заменить одну атаку применением «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2946,7 +2946,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 120 футов в незанятое пространство, которое видит.</p>",
           "source": {
             "fallback": ""
           }
@@ -3073,7 +3073,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] uses Spellcasting.</p>",
+          "value": "<p>[[lookup @name lowercase]] использует Колдовство.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

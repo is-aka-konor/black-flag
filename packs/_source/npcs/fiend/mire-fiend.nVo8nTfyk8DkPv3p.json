@@ -607,7 +607,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mire fiend’s Stealth is 21 while in swampy terrain.</p>",
+          "value": "<p>Скрытность болотного исчадия равна 21 на болотистой местности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -728,7 +728,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The mire fiend makes one Mandibles attack, one Spear attack, and one Stinger attack.</p>",
+          "value": "<p>Болотное исчадие совершает одну атаку жвалами, одну атаку копьём и одну атаку жалом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1642,7 +1642,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлен}.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or be &Reference[poisoned]{отравлён}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

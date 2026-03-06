@@ -254,7 +254,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The mule is considered to be a Large animal for the purpose of determining its carrying capacity.</p>",
+          "value": "<p>Для определения грузоподъёмности мул считается животным Большого размера.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -280,7 +280,7 @@
           "value": null
         }
       },
-      "name": "Тяжелый зверь",
+      "name": "Вьючное животное",
       "type": "feature",
       "_id": "s0RutsCWnkr6Orw3",
       "img": "icons/environment/settlement/stables-horses.webp",

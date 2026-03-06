@@ -460,7 +460,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon makes one Bite attack and one Claw attack.</p>",
+          "value": "<p>Дракон совершает одну атаку укусом и одну атаку когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -624,7 +624,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Дракон выдыхает ледяной вихрь 15-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона холодом, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -777,7 +777,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a [[/save format=long]] or be &Reference[paralyzed]{парализован} for 1 minute. A creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.</p>",
+          "value": "<p>Дракон выдыхает парализующий газ 15-футовым конусом. Каждое существо в этой области должно преуспеть в спасброске [[/save format=long]], иначе становится &Reference[paralyzed]{парализовано} на 1 минуту. Существо может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

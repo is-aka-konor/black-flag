@@ -276,7 +276,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Whenever the [[lookup @name lowercase]] is subjected to lighting damage, it takes no damage and instead regains a number of HP equal to the lightning damage dealt.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] получает урон электричеством, он не получает урона и вместо этого восстанавливает количество ОЗ, равное нанесённому урону электричеством.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

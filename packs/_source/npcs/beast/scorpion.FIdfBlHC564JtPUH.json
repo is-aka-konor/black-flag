@@ -350,7 +350,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save constitution 10]] save or take [[/damage 1d4 poison average]] damage.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save constitution 10]], иначе получает [[/damage 1d4 poison average]] урона ядом.</p>",
           "source": {}
         },
         "identifier": {

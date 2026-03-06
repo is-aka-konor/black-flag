@@ -675,7 +675,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The nalfeshnee makes one Bite attack, one Gore attack, and two Claw attacks.</p>",
+          "value": "<p>Налфешни совершает одну атаку укусом, одну атаку рогами и две атаки когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -801,7 +801,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.</p>",
+          "value": "<p>[[lookup @name lowercase]] магически телепортируется вместе с носимым и переносимым снаряжением на расстояние до 60 футов в незанятое пространство, которое видит.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

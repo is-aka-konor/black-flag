@@ -507,7 +507,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1188,7 +1188,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the werewolf lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — Гуманоид, она должна преуспеть в [[/save con 13 format=long]], иначе будет проклята проклятием ликантропии волколака (см. блок «Проклятие ликантропии» во вкладке «Биография»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

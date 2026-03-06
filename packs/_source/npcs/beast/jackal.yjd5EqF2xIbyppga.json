@@ -640,7 +640,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 10 format=long]] or contract shriveling fever disease, named for the way the disease causes an infected creature’s muscles to shrivel. Until the disease is cured, the creature is &Reference[poisoned]{отравлен}, and at the end of each long rest, the infected creature must succeed on a [[/save con 10 format=long]] or its STR score is reduced by [[/r 1d4]]. This reduction lasts until the creature finishes a long rest after the disease is cured. If the disease reduces the creature’s STR to 0, the creature dies. A creature that succeeds on two saves recovers from the disease.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 10 format=long]], иначе заражается болезнью «иссушающая лихорадка», названной так из-за того, что она вызывает усыхание мышц заражённого существа. Пока болезнь не вылечена, существо является &Reference[poisoned]{отравленным}, и в конце каждого продолжительного отдыха заражённое существо должно преуспеть в [[/save con 10 format=long]], иначе его СИЛ уменьшается на [[/r 1d4]]. Это уменьшение сохраняется, пока существо не завершит продолжительный отдых после излечения болезни. Если болезнь снижает СИЛ существа до 0, существо умирает. Существо, преуспевшее в двух спасбросках, излечивается от болезни.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -796,7 +796,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Дракон выдыхает ледяной поток в конусе 15 футов. Каждое существо в области должно совершить [[/save format=long]]: при провале получает [[/damage average]] урона, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

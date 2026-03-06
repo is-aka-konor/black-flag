@@ -405,7 +405,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
+          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a creature and then hits it with a Claw attack on the same turn, that target must succeed on a [[/save]] save or be knocked &Reference[prone]{ничком}. If the target is prone, the [[lookup @name lowercase]] can make one Bite or Claw attack against it as a bonus action.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -523,7 +523,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The weretiger makes four Claw or Scimitar attacks, or it makes four Longbow attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form.</p>",
+          "value": "<p>Тигролак совершает четыре атаки когтями или скимитаром либо четыре атаки длинным луком. Он может заменить одну атаку атакой укусом, если находится в подходящей форме.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1001,7 +1001,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] chooses a creature it can see within 30 feet of it to be its prey until the prey dies, until the [[lookup @name lowercase]] dies, or until the [[lookup @name lowercase]] uses this bonus action on another creature. While within 60 feet of its prey, the [[lookup @name lowercase]] can pinpoint its prey’s location. In addition, if the [[lookup @name lowercase]] hits the prey with at least two melee weapon attacks, the [[lookup @name lowercase]] rends the prey’s flesh, and the prey must succeed on a [[/save format=long]] or lose [[/damage average]] HP at the start of its next turn, as the wound bleeds excessively.</p>",
+          "value": "<p>[[lookup @name lowercase]] выбирает существо в пределах 30 футов, которое видит, своей добычей: до смерти добычи, до своей смерти или пока не использует это бонусное действие на другое существо. Пока добыча находится в пределах 60 футов, [[lookup @name lowercase]] точно определяет её местоположение. Кроме того, если [[lookup @name lowercase]] попадает по добыче как минимум двумя рукопашными атаками оружием, он разрывает ей плоть, и добыча должна преуспеть в [[/save format=long]], иначе в начале своего следующего хода теряет [[/damage average]] ОЗ из-за сильного кровотечения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1128,7 +1128,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The weretiger transforms into a Large tiger, a Medium tiger-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>Тигролак превращается в Большого тигра, в Среднюю гибридную форму тигрогуманоида или возвращается в истинную форму Гуманоида. Его параметры одинаковы во всех формах, кроме размера и скорости. Носимое и переносимое снаряжение не преобразуется. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1355,7 +1355,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 13 format=long]] or be cursed with the weretiger lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — Гуманоид, она должна преуспеть в [[/save con 13 format=long]], иначе будет проклята проклятием ликантропии тигролака (см. блок «Проклятие ликантропии» во вкладке «Биография»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

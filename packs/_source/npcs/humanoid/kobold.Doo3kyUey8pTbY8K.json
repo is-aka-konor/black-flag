@@ -257,7 +257,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on attack rolls against a creature if at least one of the [[lookup @name lowercase]]’s allies is within 5 feet of the creature and the ally isn’t incapacitated.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает броски атаки с преимуществом против существа, если хотя бы один союзник [[lookup @name lowercase]] находится в пределах 5 футов от цели и не является &Reference[incapacitated]{недееспособным}.</p>",
           "source": {}
         },
         "identifier": {},
@@ -734,7 +734,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The kobold moves up to 15 feet without provoking opportunity attacks. If the kobold is aware of traps in the area, the kobold can choose if this movement triggers any of them.</p>",
+          "value": "<p>Кобольд перемещается на расстояние до 15 футов, не провоцируя атаки по возможности. Если кобольд знает о ловушках в области, он может выбрать, сработают ли они из-за этого перемещения.</p>",
           "source": {
             "fallback": ""
           }

@@ -338,7 +338,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 20 feet straight toward a target and then hits it with a Ram attack on the same turn, the target takes an extra [[/damage average]] damage. If the target is a creature, it must succeed on a [[/save str 14 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 20 футов к цели, а затем в том же ходу попадает по ней атакой «Таран», цель получает дополнительный [[/damage average]] урона. Если цель — существо, оно должно преуспеть в [[/save str 14 format=long]], иначе становится &Reference[prone]{сбитым с ног}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -459,7 +459,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elk makes one Ram attack and one Kick attack.</p>",
+          "value": "<p>Существо совершает одну атаку «Таран» и одну атаку «Удар копытом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -585,7 +585,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The elk bugles its might at its opponents, bolstering its confidence. It has advantage on the next attack roll it makes before the start of its next turn.</p>",
+          "value": "<p>Лось трубит о своей мощи, воодушевляя себя перед боем. Он получает преимущество на следующий бросок атаки, совершённый до начала его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -987,7 +987,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and if the target is a Large or smaller creature, it must succeed on a [[/save str 14 format=long]] or be pushed up to 15 feet away from the elk.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и если цель — существо Большого размера или меньше, она должна преуспеть в [[/save str 14 format=long]], иначе её отбрасывает от лося на расстояние до 15 футов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

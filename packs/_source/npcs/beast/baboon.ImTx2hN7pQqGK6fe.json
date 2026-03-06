@@ -326,7 +326,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature the baboon can see attacks it while within 5 feet of it, the baboon can bare its teeth, puff its chest, or emit a quick series of barks. The attacker must succeed on a [[/save format=long]] or have disadvantage on the attack roll.</p>",
+          "value": "<p>Когда существо, которое бабуин видит, атакует его, находясь в пределах 5 футов, бабуин может оскалиться, выпятить грудь или издать серию резких лающих звуков. Атакующий должен преуспеть в [[/save format=long]], иначе совершает этот бросок атаки с помехой.</p>",
           "source": {
             "fallback": "Blak Flag Reference Document"
           }
@@ -352,7 +352,7 @@
           "value": null
         }
       },
-      "name": "Потрясающий дисплей",
+      "name": "Устрашающая демонстрация",
       "type": "feature",
       "_id": "HJgRG3joHa8fPS0Y",
       "img": "icons/skills/movement/ball-spinning-blue.webp",

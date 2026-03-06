@@ -768,7 +768,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roper makes one Bite attack and three Grasping Tendril attacks.</p>",
+          "value": "<p>Ропер совершает одну атаку укусом и три атаки хватательными щупальцами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -896,7 +896,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The roper pulls each creature grappled by it up to 25 feet straight toward it.</p>",
+          "value": "<p>Ропер притягивает каждое схваченное им существо по прямой на расстояние до 25 футов к себе.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

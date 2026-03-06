@@ -317,7 +317,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] moves up to 15 feet without provoking opportunity attacks. If the [[lookup @name lowercase]] is aware of traps in the area, the [[lookup @name lowercase]] can choose if this movement triggers any of them.</p>",
+          "value": "<p>[[lookup @name lowercase]] перемещается на расстояние до 15 футов, не провоцируя атаки по возможности. Если [[lookup @name lowercase]] знает о ловушках в области, он может выбрать, сработают ли они из-за этого перемещения.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -570,7 +570,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The kobold witch makes three Eldritch Burst attacks. It can replace one attack with a use of Spellcasting.</p>",
+          "value": "<p>Кобольд-ведьма совершает три атаки «Мистическим выбросом». Она может заменить одну атаку применением «Колдовства».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1711,7 +1711,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The kobold witch ladles steaming brew out of a small cauldron it is holding and flings the substance at one friendly creature it can see within 15 feet of it. The target gains [[/healing 2d4 temp average]] until the start of the witch’s next turn.</p>",
+          "value": "<p>Кобольд-ведьма зачерпывает кипящий отвар из маленького котла в руках и выплёскивает его на одно дружественное существо в пределах 15 футов. Цель получает [[/healing 2d4 temp average]] до начала следующего хода ведьмы.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

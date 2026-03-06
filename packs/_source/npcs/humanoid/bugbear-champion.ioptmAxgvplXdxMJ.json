@@ -518,7 +518,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The bugbear champion makes two Morningstar attacks and one Shield Smash attack, or it makes three Javelin attacks.</p>",
+          "value": "<p>Чемпион багбиров совершает две атаки моргенштерном и одну атаку «Ударом щитом» либо три атаки дротиком.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1124,7 +1124,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 14]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, она должна преуспеть в спасброске [[/save strength 14]], иначе падает &Reference[prone]{ничком}.</p>",
           "source": {}
         },
         "identifier": {

@@ -522,7 +522,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores movement restrictions caused by webbing.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничения передвижения, вызванные паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1412,7 +1412,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], and the target must make a [[/save con 13 format=long]], taking [[/damage 3d8 poison average]] damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлён} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

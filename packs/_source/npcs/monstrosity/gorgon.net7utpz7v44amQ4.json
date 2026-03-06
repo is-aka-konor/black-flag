@@ -575,7 +575,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The gorgon makes one Gore attack and one Hooves attack.</p>",
+          "value": "<p>Горгона совершает одну атаку рогами и одну атаку копытами.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -877,7 +877,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] is hit by an attack from a creature it can see within 10 feet of it, the [[lookup @name lowercase]] can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} until the end of its next turn.</p>",
+          "value": "<p>When the [[lookup @name lowercase]] is hit by an attack from a creature it can see within 10 feet of it, the [[lookup @name lowercase]] can snort angrily, releasing a puff of poisonous gas at the creature. The attacker must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлён} until the end of its next turn.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

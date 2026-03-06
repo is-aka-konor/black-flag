@@ -311,7 +311,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If three or more hyenas are all within 30 feet of each other, their cackling, grunts, whoops, and yips create a deafening chorus. A creature that starts its turn within 10 feet of such a hyena must succeed on a CON save or be &Reference[deafened]{оглохший} until the start of its next turn. The DC is equal to 8 plus the number of participating hyenas.</p>",
+          "value": "<p>Если три или более гиены находятся в пределах 30 футов друг от друга, их смех, рычание и визг сливаются в оглушительный хор. Существо, начинающее ход в пределах 10 футов от такой гиены, должно преуспеть в спасброске Телосложения, иначе становится &Reference[deafened]{оглохшим} до начала своего следующего хода. СЛ равна 8 + число участвующих гиен.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -442,7 +442,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The hyena can emit a brief yip at one friendly hyena or gnoll it can see within 30 feet of it, warning the target of danger. The next attack roll against the target before the start of the hyena’s turn has disadvantage.</p>",
+          "value": "<p>Гиена может коротко тявкнуть одному дружественному гиену или гноллу, которого видит в пределах 30 футов, предупреждая его об опасности. Следующий бросок атаки по этой цели до начала хода гиены совершается с помехой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -569,7 +569,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the [[lookup @name lowercase]] reduces a creature to 0 HP, it can move up to half its speed and make one Bite attack. If it does, attack rolls against it have advantage until the start of its next turn.</p>",
+          "value": "<p>Когда [[lookup @name lowercase]] снижает хиты существа до 0, он может переместиться на расстояние до половины своей скорости и совершить одну атаку «Укус». Если он делает это, броски атаки по нему совершаются с преимуществом до начала его следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

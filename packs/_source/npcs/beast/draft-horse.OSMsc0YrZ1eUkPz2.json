@@ -253,7 +253,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The draft horse can push, drag, or lift weight in pounds equal to three times its carrying capacity.</p>",
+          "value": "<p>Упряжная лошадь может толкать, тянуть и поднимать вес в фунтах, равный утроенной грузоподъёмности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

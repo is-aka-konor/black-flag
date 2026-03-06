@@ -613,7 +613,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The knight makes three Greatsword attacks.</p>",
+          "value": "<p>Рыцарь совершает три атаки двуручным мечом.</p>",
           "source": {}
         },
         "identifier": {},
@@ -1059,7 +1059,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The knight challenges one creature it can see within 30 feet of it. The target must succeed on a DC 13 CHA save or have disadvantage on attack rolls against creatures that aren’t the knight until the end of its next turn.</p>",
+          "value": "<p>Рыцарь бросает вызов одному существу, которое видит в пределах 30 футов. Цель должна преуспеть в спасброске ХАР Сл 13, иначе до конца своего следующего хода совершает броски атаки с помехой по всем существам, кроме рыцаря.</p>",
           "source": {}
         },
         "identifier": {},

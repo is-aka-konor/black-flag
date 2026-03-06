@@ -267,7 +267,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
+          "value": "<p>Нагрудник и наплечники этого доспеха выполнены из кожи, упрочнённой кипячением в масле. Остальные части сделаны из более мягких и гибких материалов.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -340,7 +340,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the blinded, charmed, deafened, frightened, stunned, and unconscious conditions.</p>",
+          "value": "<p>[[lookup @name lowercase]] устойчив к состояниям &Reference[blinded]{ослеплён}, &Reference[charmed]{очарован}, &Reference[deafened]{оглохший}, &Reference[frightened]{испуган}, &Reference[stunned]{ошеломлён} и &Reference[unconscious]{без сознания}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -483,7 +483,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]]'s weapon attacks are magical. When the [[lookup @name lowercase]] hits with any weapon, the weapon deals an extra 1d6 necrotic damage (included in the attack).</p>",
+          "value": "<p>Атаки оружием [[lookup @name lowercase]] считаются магическими. Когда [[lookup @name lowercase]] попадает любым оружием, оно дополнительно наносит 1d6 некротического урона (включено в атаку).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -872,7 +872,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], or [[/damage versatile average]] damage if used with two hands.</p>",
+          "value": "<p><em>Атака оружием:</em> [[/attack]]. <em>Попадание:</em> [[/damage average]] урона, либо [[/damage versatile average]] урона при использовании двумя руками.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

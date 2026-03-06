@@ -381,7 +381,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wererat makes three Claw or Shortsword attacks, or it makes three Hand Crossbow attacks. It can replace one attack with a Bite attack, provided it is in the appropriate form.</p>",
+          "value": "<p>Крысолак совершает три атаки когтями или коротким мечом либо три атаки ручным арбалетом. Он может заменить одну атаку атакой укусом, если находится в подходящей форме.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -807,7 +807,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wererat transforms into a Tiny or Small rat, a Medium rat-humanoid hybrid, or back into its true form, which is Humanoid. Its statistics, other than its size and speed, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.</p>",
+          "value": "<p>Крысолак превращается в крошечную или маленькую крысу, в среднюю гибридную крысочеловеческую форму или возвращается в истинную форму Гуманоида. Его параметры одинаковы во всех формах, кроме размера и скорости. Носимое и переносимое снаряжение не преобразуется. При смерти он возвращается в истинную форму.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1206,7 +1206,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 11 format=long]] or be cursed with the wererat lycanthropy curse (see Curse of Lycanthropy sidebar on the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — Гуманоид, она должна преуспеть в [[/save con 11 format=long]], иначе будет проклята проклятием ликантропии крысолака (см. блок «Проклятие ликантропии» во вкладке «Биография»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

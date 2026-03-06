@@ -404,7 +404,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] moves at least 15 feet straight toward a target and then hits it with a Slam or Tusks attack on the same turn, the target takes an extra [[/damage average]] damage of the weapon’s type. If the target is a creature, it must succeed on a [[/save str 13 format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] перемещается по прямой как минимум на 15 футов к цели и в тот же ход попадает по ней атакой «Удар» или «Клыки», цель получает дополнительный [[/damage average]] урона того же типа, что и атака. Если цель — существо, оно должно преуспеть в [[/save str 13 format=long]], иначе падает &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -556,7 +556,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the [[lookup @name lowercase]] takes 14 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+          "value": "<p>Если [[lookup @name lowercase]] получает 14 урона или меньше, и этот урон должен снизить его до 0 ОЗ, вместо этого у него остаётся 1 ОЗ.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -690,7 +690,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The wereboar makes three Maul or Slam attacks. It can replace one attack with a Tusks attack, provided it is in the appropriate form. If two Maul or Slam attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>The wereboar makes three Maul or Slam attacks. It can replace one attack with a Tusks attack, provided it is in the appropriate form. If two Maul or Slam attacks hit one creature, the target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -976,7 +976,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] snorts and stomps its feet at a creature it can see within 30 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn and have disadvantage on the next save it makes against being knocked prone by the [[lookup @name lowercase]].</p>",
+          "value": "<p>[[lookup @name lowercase]] фыркает и топает копытами, глядя на существо в пределах 30 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганной} до конца своего следующего хода и совершает с помехой следующий спасбросок против попытки сбить её с ног, предпринятой [[lookup @name lowercase]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1500,7 +1500,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a Humanoid, it must succeed on a [[/save con 12 format=long]] or be cursed with the wereboar lycanthropy curse (see Curse of Lycanthropy sidebar in the Biography tab).</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — Гуманоид, она должна преуспеть в [[/save con 12 format=long]], иначе будет проклята проклятием ликантропии вепрелака (см. блок «Проклятие ликантропии» во вкладке «Биография»).</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

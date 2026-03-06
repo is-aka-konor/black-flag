@@ -255,7 +255,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Any critical hit against the [[lookup @name lowercase]] becomes a normal hit.</p>",
+          "value": "<p>Любое критическое попадание по [[lookup @name lowercase]] становится обычным попаданием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -323,7 +323,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 1 hour.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 1 час.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -444,7 +444,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The plesiosaurus makes two Bite attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -580,7 +580,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While underwater, the plesiosaurus slams its flippers together, sending a shockwave of water in a 15-foot cone. Each creature in the area must succeed on a [[/save format=long]] or be off-balance until the end of its next turn. While off-balance, a creature’s speed is halved, and it has disadvantage on the first attack roll it makes on each of its turns.</p>",
+          "value": "<p>Находясь под водой, плезиозавр с силой сводит ласты, посылая ударную волну воды в конусе 15 футов. Каждое существо в области должно преуспеть в [[/save format=long]], иначе теряет равновесие до конца своего следующего хода. Пока существо потеряло равновесие, его скорость уменьшается вдвое, и оно совершает с помехой первый бросок атаки в каждом своём ходу.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -606,7 +606,7 @@
           "value": null
         }
       },
-      "name": "Флиппер Слэм",
+      "name": "Удар ластами",
       "type": "feature",
       "_id": "XgslXYxZVEPU1irk",
       "img": "icons/magic/water/vortex-water-whirlpool-blue.webp",

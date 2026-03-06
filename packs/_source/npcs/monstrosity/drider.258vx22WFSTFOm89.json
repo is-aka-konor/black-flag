@@ -634,7 +634,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>While in contact with a web, the [[lookup @name lowercase]] knows the exact location of any other creature in contact with the same web.</p>",
+          "value": "<p>Пока [[lookup @name lowercase]] касается паутины, он точно знает местоположение любого другого существа, соприкасающегося с той же паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -702,7 +702,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] ignores movement restrictions caused by webbing.</p>",
+          "value": "<p>[[lookup @name lowercase]] игнорирует ограничения передвижения, вызванные паутиной.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

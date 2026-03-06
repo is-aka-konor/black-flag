@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] takes the &Reference[Disengage]{Disengage} or &Reference[Dodge]{Dodge} action.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает действие &Reference[Disengage]{Отход} или &Reference[Dodge]{Уклонение}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

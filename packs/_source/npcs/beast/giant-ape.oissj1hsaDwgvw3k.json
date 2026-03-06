@@ -306,7 +306,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The ape makes two Fist or Rock attacks. If both Fist attacks hit one Large or smaller creature, the target is &Reference[grappled]{схвачен} (escape DC 16). The ape has two fists, each of which can grapple only one target.</p>",
+          "value": "<p>Обезьяна совершает две атаки «Кулак» или «Камень». Если обе атаки «Кулак» попадают по одному существу Большого размера или меньше, цель становится &Reference[grappled]{схваченной} (Сл. высвобождения 16). У обезьяны две руки, и каждая может удерживать только одну цель.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -609,7 +609,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>One Large or smaller creature grappled by the ape is thrown up to 50 feet in a random direction and knocked &Reference[prone]{сбит с ног}. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save format=long]] or take the same damage and be knocked prone.</p>",
+          "value": "<p>Одно существо Большого размера или меньше, схваченное обезьяной, отбрасывается в случайном направлении на расстояние до 50 футов и становится &Reference[prone]{сбитым с ног}. Если отброшенная цель врезается в твёрдую поверхность, она получает 3 (1d6) дробящего урона за каждые 10 футов броска. Если цель брошена в другое существо, это существо должно преуспеть в [[/save format=long]], иначе получает тот же урон и становится сбитым с ног.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

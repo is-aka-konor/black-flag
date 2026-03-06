@@ -502,7 +502,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the crab attaches to the target. While attached, the crab can’t attack, and at the start of each of the crab’s turns, the target takes [[/damage average]] damage. The attached crab moves with the target whenever the target moves, requiring none of the crab’s movement. It can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach the crab.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и краб цепляется за цель. Пока он прицеплен, краб не может атаковать, а в начале каждого своего хода цель получает [[/damage average]] урона. Прицепленный краб перемещается вместе с целью, не тратя собственного перемещения. Краб может отцепиться, потратив 5 футов своего перемещения в свой ход. Любое существо, включая цель, может действием отцепить краба.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

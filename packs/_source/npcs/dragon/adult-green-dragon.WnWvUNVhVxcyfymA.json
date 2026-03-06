@@ -412,7 +412,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>After the [[lookup @name lowercase]] exhales its Poison Breath, wisps of poisonous gas laced with the alchemical taint that permeates the dragon’s body linger around it. While the [[lookup @name lowercase]]'s Poison Breath is unavailable, each creature that starts its turn within 20 feet of the dragon must succeed on a [[/save format=long]] or be terrified, as the gas causes the creature to experience frightful hallucinations. A terrified creature is &Reference[frightened]{испуган}, and its speed is reduced to 0.</p>",
+          "value": "<p>После того как [[lookup @name lowercase]] выдыхает «Ядовитое дыхание», вокруг него задерживаются клубы ядовитого газа, пропитанного алхимической скверной, пронизывающей тело дракона. Пока «Ядовитое дыхание» у [[lookup @name lowercase]] недоступно, каждое существо, начинающее ход в пределах 20 футов от дракона, должно преуспеть в спасброске [[/save format=long]], иначе испытывает ужас и галлюцинации. Испуганное таким образом существо становится &Reference[frightened]{испугано}, а его скорость снижается до 0.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -668,7 +668,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon uses its Frightful Presence. It then makes one Bite attack and two Claw attacks.</p>",
+          "value": "<p>Дракон использует «Ужасающее присутствие». Затем он совершает одну атаку укусом и две атаки когтями.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -972,7 +972,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a [[/save format=long]], taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
+          "value": "<p>Дракон выдыхает ядовитый газ 60-футовым конусом. Каждое существо в этой области должно совершить спасбросок [[/save format=long]]: при провале получает [[/damage average]] урона ядом, при успехе — половину.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1516,7 +1516,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] beats its wings. Each creature within 10 feet of the [[lookup @name lowercase]] must succeed on a [[/save]] save or take [[/damage average]] damage and be knocked &Reference[prone]{сбит с ног}. The [[lookup @name lowercase]] can then fly up to half its flying speed without provoking opportunity attacks.</p>",
+          "value": "<p>[[lookup @name lowercase]] взмахивает крыльями. Каждое существо в пределах 10 футов от него должно преуспеть в спасброске [[/save]], иначе получает [[/damage average]] урона и падает &Reference[prone]{ничком}. После этого [[lookup @name lowercase]] может пролететь на расстояние до половины своей скорости полёта, не провоцируя атаки по возможности.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -2034,7 +2034,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]].</p><p></p>",
+          "value": "<p>[[/attack]]. [[/damage average]].</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

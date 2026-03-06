@@ -268,7 +268,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can’t use its keensense while deafened.</p>",
+          "value": "<p>[[lookup @name lowercase]] не может использовать обострённые чувства, пока оглохший.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -402,7 +402,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can hold its breath for 30 minutes.</p>",
+          "value": "<p>[[lookup @name lowercase]] может задерживать дыхание на 30 минут.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -523,7 +523,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The orca makes two Bite attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Укус».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -658,7 +658,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The orca slaps one creature it can see within 15 feet of it with its tail. The target must succeed on a [[/save format=long]] or be pushed up to 15 feet away from the orca and knocked &Reference[prone]{сбит с ног}. A creature that fails this save by 5 or more is also &Reference[stunned]{ошеломлён} until the end of its next turn.</p>",
+          "value": "<p>Косатка бьёт хвостом по одному существу, которое видит в пределах 15 футов. Цель должна преуспеть в [[/save format=long]], иначе её отбрасывает от косатки на расстояние до 15 футов, и она становится &Reference[prone]{сбитой с ног}. Существо, провалившее этот спасбросок на 5 и более, также становится &Reference[stunned]{ошеломлённым} до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

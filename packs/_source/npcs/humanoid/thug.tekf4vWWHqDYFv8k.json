@@ -774,7 +774,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The thug employs unscrupulous tactics to hit its opponent in a vulnerable spot. One creature the thug can see within 5 feet of it must make a [[/save]] save. On a failure, the target takes [[/damage average]] damage.</p>",
+          "value": "<p>Головорез использует грязные приёмы, чтобы ударить противника в уязвимое место. Одно существо в пределах 5 футов, которое головорез видит, должно совершить спасбросок [[/save]]. При провале цель получает [[/damage average]] урона.</p>",
           "source": {}
         },
         "identifier": {},

@@ -398,7 +398,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The cat emits a soft, high-pitched meow at a creature it can see within 10 feet of it. The target must succeed on a [[/save format=long]] or be &Reference[charmed]{очарован} until the end of its next turn. If a creature’s save is successful or the effect ends for it, the creature is immune to the cat’s Charming Mewl for the next 24 hours.</p>",
+          "value": "<p>Кошка издаёт мягкое пронзительное мяуканье по одному существу, которое видит в пределах 10 футов. Цель должна преуспеть в [[/save format=long]], иначе становится &Reference[charmed]{очарованной} до конца своего следующего хода. Если существо успешно спаслось или эффект для него закончился, оно получает иммунитет к «Очаровательному мяуканью» этой кошки на следующие 24 часа.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -424,7 +424,7 @@
           "value": null
         }
       },
-      "name": "Очаровательный Мьюл",
+      "name": "Очаровательное мяуканье",
       "type": "feature",
       "_id": "Lcx2kmcyrlDhhQDt",
       "img": "icons/creatures/mammals/cat-hunched-glowing-red.webp",

@@ -451,7 +451,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]]. If the target is a creature, it must succeed on a [[/save strength 12]] save or be knocked prone.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]]. Если цель — существо, она должна преуспеть в [[/save strength 12]], иначе будет сбита с ног.</p>",
           "source": {}
         },
         "identifier": {

@@ -724,7 +724,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The death knight makes three Greatsword or Necrotic Bolt attacks.</p>",
+          "value": "<p>Рыцарь смерти совершает три атаки двуручным мечом или некротическим разрядом.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

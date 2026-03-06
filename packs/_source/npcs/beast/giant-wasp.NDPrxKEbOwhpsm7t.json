@@ -316,7 +316,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When the wasp takes damage, it can release a scent perceptible only to other wasps. Each wasp within 10 feet of this wasp has advantage on the next attack roll it makes before the end of its next turn.</p>",
+          "value": "<p>Когда оса получает урон, она может выпустить запах, различимый только другими осами. Каждая оса в пределах 10 футов от этой осы получает преимущество на следующий бросок атаки, который она совершит до конца своего следующего хода.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -556,7 +556,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 12 format=long]] or take [[/damage 3d6 poison average]] damage. If the poison damage reduces the target to 0 HP, the target is stable but &Reference[poisoned]{отравлен} for 1 hour, even after regaining HP, and is &Reference[paralyzed]{парализован} while poisoned in this way.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 12 format=long]], иначе получает [[/damage 3d6 poison average]] урона ядом. Если урон ядом снижает хиты цели до 0, цель остаётся стабильной, но становится &Reference[poisoned]{отравленной} на 1 час даже после восстановления хитов, и пока она отравлена таким образом, она также является &Reference[paralyzed]{парализованной}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

@@ -265,7 +265,7 @@
           "units": "pound"
         },
         "description": {
-          "value": "<p>A chain shirt is made of interlocking metal rings that are worn between layers of clothing or leather. This armor protects the wearer’s upper body and the outer layers muffle the sound of the rings rubbing against one another.</p>",
+          "value": "<p>Кольчужная рубаха сделана из переплетённых металлических колец, которые носят между слоями ткани или кожи. Такой доспех защищает верхнюю часть тела, а внешние слои приглушают звон колец.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -336,7 +336,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] is resistant to the charmed condition, and magic can’t put the drider to sleep.</p>",
+          "value": "<p>[[lookup @name lowercase]] устойчив к состоянию &Reference[charmed]{очарован}, и магия не может усыпить его.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -941,7 +941,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The drow coats one weapon it is wearing or carrying in one of the following poisons. Each time the drow hits a creature with that weapon, the target must succeed on a [[/save format=long]] or be &Reference[poisoned]{отравлен} for 1 minute and suffer the chosen poison’s effect while poisoned in this way. The poisoned creature can repeat the save at the end of each of its turns, ending the effect on itself on a success. The poison remains on the weapon until the start of the drow’s next turn.</p><ul><li><p><strong>Beetle’s Bite</strong>. The target’s speed is halved while poisoned.</p></li><li><p><strong>Dark Caress</strong>. The target is &Reference[blinded]{ослеплён} while poisoned.</p></li><li><p><strong>Nightmare’s Kiss</strong>. The target is &Reference[frightened]{испуган} of the drow while poisoned.</p></li><li><p><strong>Slumber’s Call</strong>. The target falls &Reference[unconscious]{unconscious} while poisoned or until it takes damage or another creature uses an action to wake it.</p></li></ul>",
+          "value": "<p>Дроу покрывает одно носимое или переносимое оружие одним из следующих ядов. Каждый раз, когда дроу попадает этим оружием по существу, цель должна преуспеть в [[/save format=long]], иначе становится &Reference[poisoned]{отравлённой} на 1 минуту и получает выбранный эффект яда, пока остаётся отравлённой таким образом. Отравлённая цель может повторять спасбросок в конце каждого своего хода, оканчивая эффект при успехе. Яд остаётся на оружии до начала следующего хода дроу.</p><ul><li><p><strong>Укус жука</strong>. Пока цель отравлена, её скорость уменьшается вдвое.</p></li><li><p><strong>Тёмная ласка</strong>. Пока цель отравлена, она &Reference[blinded]{ослеплена}.</p></li><li><p><strong>Поцелуй кошмара</strong>. Пока цель отравлена, она &Reference[frightened]{испугана} дроу.</p></li><li><p><strong>Зов сна</strong>. Пока цель отравлена, она падает &Reference[unconscious]{без сознания} либо до получения урона, либо пока другое существо не потратит действие, чтобы привести её в чувство.</p></li></ul>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

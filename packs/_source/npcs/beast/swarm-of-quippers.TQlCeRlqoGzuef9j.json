@@ -256,7 +256,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] has advantage on melee attack rolls against any creature that doesn't have all its HP.</p>",
+          "value": "<p>[[lookup @name lowercase]] совершает рукопашные атаки с преимуществом против существ, у которых не полный запас ОЗ.</p>",
           "source": {
             "fallback": "Tales of the Valiant Monster Vault"
           }
@@ -456,7 +456,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can breathe only underwater.</p>",
+          "value": "<p>[[lookup @name lowercase]] может дышать только под водой.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1042,7 +1042,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 0 ft., one creature in the swarm’s space. [[/damage average]], or [[/damage 2d8 piercing average]] damage if the swarm has half of its HP or fewer, and the target must succeed on a [[/save dex 13 format=long]] or have its flesh shredded by the attack. A creature with shredded flesh loses [[/damage 1d8 average]] HP at the start of each of its turns as the wound bleeds profusely. Any creature can take an action to stanch the wound with a successful [[/check medicine 10 format=long]]. The wound also closes if the target receives magical healing.</p>",
+          "value": "<p><em>Рукопашная атака оружием</em>: [[/attack]], досягаемость 0 фт., одно существо в пространстве роя. [[/damage average]] или [[/damage 2d8 piercing average]] колющего урона, если у роя половина хитов или меньше; кроме того, цель должна преуспеть в [[/save dex 13 format=long]], иначе её плоть раздирает атака. Существо с рваными ранами теряет [[/damage 1d8 average]] хитов в начале каждого своего хода из-за сильного кровотечения. Любое существо может действием остановить кровотечение, преуспев в [[/check medicine 10 format=long]]. Рана также закрывается, если цель получает магическое исцеление.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

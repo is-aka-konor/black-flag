@@ -524,7 +524,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p> The unska makes two Claw attacks and one Tongue attack, or it makes three Ink Blast attacks.</p>",
+          "value": "<p>Унска совершает две атаки когтями и одну атаку языком либо три атаки «Чернильным выбросом».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -1136,7 +1136,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p>[[/attack]]. [[/damage average]], and the target must succeed on a [[/save con 14 format=long]] or have disadvantage on the next save it makes against the unska’s Whirl of Ink before the start of the unska’s next turn.</p>",
+          "value": "<p>[[/attack]]. [[/damage average]], и цель должна преуспеть в [[/save con 14 format=long]], иначе получает помеху на следующий спасбросок против «Вихря чернил» унски до начала следующего хода унски.</p>",
           "source": {
             "fallback": "Black Flag Reference Doicument"
           }

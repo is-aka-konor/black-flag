@@ -578,7 +578,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>When a creature moves into a space within 15 feet of the [[lookup @name lowercase]], it can whip its tail at the creature. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}.</p>",
+          "value": "<p>When a creature moves into a space within 15 feet of the [[lookup @name lowercase]], it can whip its tail at the creature. The target must succeed on a [[/save format=long]] or be knocked &Reference[prone]{ничком}.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

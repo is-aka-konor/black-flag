@@ -332,7 +332,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>A creature in the swarm’s space that casts a spell with a verbal component must succeed on a [[/save format=long]] or the spell fails to cast, expending the action required to cast it but not the spell slot or daily use.</p>",
+          "value": "<p>Существо в пространстве роя, накладывающее заклинание с вербальным компонентом, должно преуспеть в [[/save format=long]], иначе заклинание не срабатывает: действие тратится, но ячейка заклинания или дневное применение не расходуются.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -400,7 +400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The [[lookup @name lowercase]] can’t use its keensense while deafened.</p>",
+          "value": "<p>[[lookup @name lowercase]] не может использовать обострённые чувства, пока оглохший.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -964,7 +964,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack:</em> [[/attack]], reach 0 ft., one creature in the swarm’s space. [[/damage average]], or [[/damage 1d6 piercing average]] damage if the swarm has half of its HP or fewer.</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 0 фт., одно существо в пространстве роя. [[/damage average]] или [[/damage 1d6 piercing average]] колющего урона, если у роя половина хитов или меньше.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

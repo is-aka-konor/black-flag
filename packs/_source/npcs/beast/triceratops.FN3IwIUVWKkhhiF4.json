@@ -260,7 +260,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Any critical hit against the [[lookup @name lowercase]] becomes a normal hit.</p>",
+          "value": "<p>Любое критическое попадание по [[lookup @name lowercase]] становится обычным попаданием.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -400,7 +400,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>If the triceratops moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a  [[/save format=long]] or be knocked &Reference[prone]{сбит с ног}. If the target is prone, the triceratops can make one Stomp attack against it as a bonus action.</p>",
+          "value": "<p>Если трицератопс перемещается по прямой как минимум на 20 футов к существу, а затем в том же ходу попадает по нему атакой «Бодание», цель должна преуспеть в [[/save format=long]], иначе становится &Reference[prone]{сбитой с ног}. Если цель сбита с ног, трицератопс может бонусным действием совершить по ней одну атаку «Топот».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -521,7 +521,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The triceratops makes two Gore attacks.</p>",
+          "value": "<p>Существо совершает две атаки «Бодание».</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -658,7 +658,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>The triceratops emits a piercing call in a 30-foot cone, signaling its impending attack. Each creature in the area must succeed on a [[/save format=long]] or be &Reference[frightened]{испуган} until the end of its next turn. If the triceratops uses this bonus action before moving the requisite 20 feet for Trampling Charge, the target of its charge has disadvantage on this save, and the triceratops can make a Stomp attack against the prone target without needing to use a bonus action, provided the target fails the STR save from the charge.</p>",
+          "value": "<p>Трицератопс издаёт пронзительный клич в конусе 30 футов, предвещая свою атаку. Каждое существо в области должно преуспеть в [[/save format=long]], иначе становится &Reference[frightened]{испуганным} до конца своего следующего хода. Если трицератопс использует это бонусное действие до перемещения на требуемые 20 футов для «Топчущего рывка», цель его рывка совершает этот спасбросок с помехой, а трицератопс может совершить атаку «Топот» по сбитой с ног цели без траты бонусного действия, если цель проваливает спасбросок СИЛ от рывка.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
@@ -980,7 +980,7 @@
           "max": ""
         },
         "description": {
-          "value": "<p><em>Melee Weapon Attack</em>: [[/attack]], reach 5 ft., one prone creature. [[/damage average]].</p>",
+          "value": "<p><em>Рукопашная атака оружием:</em> [[/attack]], досягаемость 5 футов, одна цель, сбитая с ног. <em>Попадание:</em> [[/damage average]] урона.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }

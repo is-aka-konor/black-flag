@@ -467,7 +467,7 @@
         },
         "advancement": {},
         "description": {
-          "value": "<p>Difficult terrain composed of nonmagical plants doesn’t cost the [[lookup @name lowercase]] extra movement. In addition, the [[lookup @name lowercase]] can pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p>",
+          "value": "<p>Труднопроходимая местность из немагических растений не требует от [[lookup @name lowercase]] дополнительного движения. Кроме того, [[lookup @name lowercase]] может проходить сквозь немагические растения без замедления и без получения урона от шипов, колючек и подобных опасностей.</p>",
           "source": {
             "fallback": "Black Flag Reference Document"
           }
