@@ -9,12 +9,12 @@
       "9fToJ7f2oPFWQN4E": {
         "type": "utility",
         "_id": "9fToJ7f2oPFWQN4E",
-        "description": "_<p>Вы уменьшаете получаемый вами урон от падения на [[calc 5 * @progression.classes.monk.levels]]{наибольшую, равную 5 × вашего уровня монаха}.</p>",
+        "description": "<p>Когда вы падаете, вы можете реакцией уменьшить любой получаемый урон от падения на [[calc 5 * @progression.classes.monk.levels]]{значение, равное 5 × вашему уровню монаха}.</p>",
         "system": {},
         "activation": {
           "value": null,
           "type": "reaction",
-          "condition": "When you fall and aren’t wearing armor or wielding a shield"
+          "condition": "Когда вы падаете, не нося доспех и не используя щит"
         },
         "consumption": {
           "targets": [],
@@ -61,7 +61,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>While you aren’t wearing armor or wielding a shield, you gain the following benefits:</p><ul><li><p>When you fall, you can use your reaction to reduce any falling damage you would take by an amount equal to 5 × your monk level.</p></li><li><p>You can move along vertical surfaces and across liquids on your turn without falling during the move. If you end your movement or if your movement is interrupted while you are standing on a vertical surface or on liquid, you fall as normal.</p></li></ul>",
+      "value": "<p>Пока вы не носите доспех и не используете щит, вы получаете следующие преимущества:</p><ul><li><p>Когда вы падаете, вы можете реакцией уменьшить любой получаемый урон от падения на значение, равное 5 × вашему уровню монаха.</p></li><li><p>В свой ход вы можете перемещаться по вертикальным поверхностям и жидкостям, не падая во время этого перемещения. Если вы заканчиваете перемещение или оно прерывается, пока вы стоите на вертикальной поверхности или на жидкости, вы падаете как обычно.</p></li></ul>",
       "source": {}
     },
     "restriction": {

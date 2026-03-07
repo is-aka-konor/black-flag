@@ -1,6 +1,6 @@
 {
   "folder": "NM2cIQ9aafWAC0yl",
-  "name": "Техника открытой руки",
+  "name": "Техника открытой ладони",
   "type": "feature",
   "_id": "QYel2lT0bdrafvBg",
   "img": "icons/magic/unholy/hand-claw-fog-green.webp",
@@ -14,7 +14,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you hit a creature with one of the attacks granted by your Flurry of Blows technique"
+          "condition": "Когда вы попадаете по существу одной из атак, предоставленных техникой «Шквал ударов»"
         },
         "consumption": {
           "targets": [],
@@ -48,13 +48,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Предотвратить реакции",
+        "name": "Лишить реакций",
         "img": ""
       },
       "sLYVWbxBk8ElwdHT": {
         "type": "savingThrow",
         "_id": "sLYVWbxBk8ElwdHT",
-        "description": "<p>Цель должна преуспеть в спасброске DEX, иначе она будет сбита с ног.</p>",
+        "description": "<p>Цель должна преуспеть в спасброске ЛОВ, иначе она падает ничком.</p>",
         "system": {
           "ability": "dexterity",
           "damage": {
@@ -68,7 +68,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you hit a creature with one of the attacks granted by your Flurry of Blows technique"
+          "condition": "Когда вы попадаете по существу одной из атак, предоставленных техникой «Шквал ударов»"
         },
         "consumption": {
           "targets": [],
@@ -103,13 +103,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Сбить с толку",
+        "name": "Сбить с ног",
         "img": ""
       },
       "cxUUug5LYR0AwkjL": {
         "type": "savingThrow",
         "_id": "cxUUug5LYR0AwkjL",
-        "description": "<p>Цель должна преуспеть в спасброске по Силе, иначе она оттолкнет на расстояние до 15 футов от вас.</p>",
+        "description": "<p>Цель должна преуспеть в спасброске СИЛ, иначе вы отталкиваете её на расстояние до 15 фт от себя.</p>",
         "system": {
           "ability": "strength",
           "damage": {
@@ -123,7 +123,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you hit a creature with one of the attacks granted by your Flurry of Blows technique"
+          "condition": "Когда вы попадаете по существу одной из атак, предоставленных техникой «Шквал ударов»"
         },
         "consumption": {
           "targets": [],
@@ -158,7 +158,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Оттолкнись",
+        "name": "Оттолкнуть",
         "img": ""
       }
     },
@@ -171,7 +171,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can manipulate your enemy’s energy with your own. When you hit a creature with one of the attacks granted by your Flurry of Blows technique, you can impose one of the following effects on that target:</p><ul><li><p>It can’t take reactions until the end of your next turn.</p></li><li><p>It must succeed on a DEX save or be knocked prone.</p></li><li><p>It must succeed on a STR save or be pushed up to 15 feet away from you.</p></li></ul>",
+      "value": "<p>Вы умеете направлять энергию противника с помощью собственной. Когда вы попадаете по существу одной из атак, предоставленных техникой «Шквал ударов», вы можете наложить на эту цель один из следующих эффектов:</p><ul><li><p>Цель не может совершать реакции до конца вашего следующего хода.</p></li><li><p>Цель должна преуспеть в спасброске ЛОВ, иначе падает ничком.</p></li><li><p>Цель должна преуспеть в спасброске СИЛ, иначе вы отталкиваете её на расстояние до 15 фт от себя.</p></li></ul>",
       "source": {}
     },
     "restriction": {

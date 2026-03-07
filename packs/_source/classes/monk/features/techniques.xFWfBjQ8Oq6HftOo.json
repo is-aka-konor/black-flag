@@ -41,13 +41,13 @@
           "classIdentifier": "monk"
         },
         "flags": {},
-        "title": "Techniques",
+        "title": "Техники",
         "icon": null,
         "hint": ""
       }
     },
     "description": {
-      "value": "<p>Your training gives you access to special techniques that allow you to amplify and manipulate the energy within yourself and the environment. Your ability to use this energy is represented by technique points. Your monk level determines the number of points you have, as shown in the Technique Points column of the <strong>Monk Progression</strong> table.</p><p>You can spend these points to fuel various techniques. You start knowing three techniques: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more technique features as you gain levels in this class.</p><p>You recover expended technique points when you finish a short or long rest. You must spend at least 30 minutes of the rest meditating to regain your technique points.</p><p>Some of your techniques require your target to make a save to resist the technique’s effects. The save DC is calculated as follows:</p><p><strong>Technique save DC</strong> = 8 + your proficiency bonus (PB) + your WIS modifier</p><h6>Flurry of Blows</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.W0o7x3R3Zbd9PXdh inline]</p><h6>Patient Defense</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.bSQE1sk96t3Nziid inline]</p><h6>Step of the Wind</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.IpmFWGEjBogzw2DX inline]</p>",
+      "value": "<p>Ваше обучение открывает вам доступ к особым техникам, позволяющим усиливать и направлять энергию внутри себя и окружающего мира. Способность пользоваться этой энергией представлена очками техники. Число очков техники определяется вашим уровнем монаха, как указано в колонке «Очки техники» таблицы <strong>Прогресс монаха</strong>.</p><p>Вы можете тратить эти очки на различные техники. Изначально вы знаете три техники: «Шквал ударов», «Терпеливая защита» и «Шаг ветра». По мере повышения уровня в этом классе вы изучаете новые техники.</p><p>Все потраченные очки техники восстанавливаются после короткого или продолжительного отдыха. Чтобы вернуть очки техники, вы должны посвятить не менее 30 минут отдыха медитации.</p><p>Некоторые ваши техники требуют от цели совершить спасбросок, чтобы устоять перед их эффектами. СЛ этого спасброска рассчитывается так:</p><p><strong>СЛ спасброска техники</strong> = 8 + ваш бонус мастерства (ПМ) + ваш модификатор МДР</p><h6>Техника: Шквал ударов</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.W0o7x3R3Zbd9PXdh inline]</p><h6>Техника: Терпеливая защита</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.bSQE1sk96t3Nziid inline]</p><h6>Техника: Шаг ветра</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.IpmFWGEjBogzw2DX inline]</p>",
       "source": {}
     },
     "restriction": {

@@ -14,7 +14,7 @@
         "activation": {
           "value": null,
           "type": "bonus",
-          "condition": "Immediately after you use an action on your turn"
+          "condition": "Сразу после того, как вы совершаете действие в свой ход"
         },
         "consumption": {
           "targets": [
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "",
+        "name": "Использовать «Шквал ударов»",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>Immediately after you use an action on your turn, you can spend 1 technique point to make two unarmed strikes or make one attack with a monk weapon as a bonus action.</p>",
+      "value": "<p>Сразу после того, как вы совершаете действие в свой ход, вы можете потратить 1 очко техники, чтобы бонусным действием совершить два безоружных удара или одну атаку оружием монаха.</p>",
       "source": {}
     },
     "restriction": {

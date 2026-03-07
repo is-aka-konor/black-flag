@@ -50,7 +50,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Начать представление",
+        "name": "Начать выступление",
         "img": ""
       },
       "mbbwrMdbTTeDJ6wv": {
@@ -95,7 +95,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Поддерживать производительность",
+        "name": "Поддержать выступление",
         "img": ""
       }
     },
@@ -126,7 +126,7 @@
           "classRestriction": ""
         },
         "flags": {},
-        "title": "Bardic Performance",
+        "title": "Бардское выступление",
         "icon": "",
         "hint": ""
       },
@@ -145,14 +145,14 @@
           "classRestriction": ""
         },
         "flags": {},
-        "title": "Bardic Performance",
+        "title": "Бардское выступление",
         "icon": "",
         "hint": "",
         "_id": "1Rjg1ceHo1W27Zfu"
       }
     },
     "description": {
-      "value": "<p>You weave magic into ongoing performances to produce effects beyond spells. You start with two effects: Celebrate Life and Cutting Words. You gain a new effect at 6th level, and some bard subclasses grant additional effects. Unless stated otherwise, targets must be within 30 feet of you and be able to hear or see you (depending on the type of performance) to be affected.</p><p>As an action, you can use your Bardic Performance feature, choosing which performance effect you create when you do so. Once active, you can continue the performance for up to 1 minute, as long as you spend a bonus action at the start of each of your subsequent turns to maintain it. You can also choose to use your Bardic Inspiration feature as part of the same bonus action required to maintain this performance.</p><p>Your performance ends early if you become incapacitated, silenced, use an action to begin a new performance, or choose to end the effect (no action required by you to do so).</p><p>You can use your Bardic Performance feature to start a new performance a number of times equal to your PB, regaining all expended uses when you finish a long rest.</p><h6>Bardic Performance: Celebrate Life</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.Tc4ZlX44M6BSokpi inline]</p><h6>Bardic Performance: Cutting Words</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.SSU6zfzPzE05HiFv inline]</p><h6>Bardic Performance: Clarity of Thought</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.dy8rqpccweD1BuFX inline]</p>",
+      "value": "<p>Вы вплетаете магию в продолжающееся выступление, создавая эффекты, выходящие за рамки обычных заклинаний. Изначально вам доступны два эффекта: «Празднуйте жизнь» и «Сокращение слов». На 6-м уровне вы получаете ещё один эффект, а некоторые подклассы барда дают дополнительные эффекты. Если не указано иное, цель должна находиться в пределах 30 фт от вас и быть способной слышать или видеть вас, в зависимости от вида выступления.</p><p>Действием вы можете использовать особенность «Бардское выступление», выбирая, какой именно эффект создаёте. После активации выступление может продолжаться до 1 минуты, если в начале каждого вашего последующего хода вы тратите бонусное действие на его поддержание. Тем же бонусным действием, которое требуется для поддержания выступления, вы также можете использовать «Бардское вдохновение».</p><p>Ваше выступление оканчивается раньше, если вы становитесь недееспособны, лишаетесь возможности издавать звуки, действием начинаете новое выступление или решаете прекратить эффект (для этого не требуется действие).</p><p>Вы можете начинать новое бардское выступление число раз, равное вашему бонусу мастерства, и восстанавливаете все израсходованные применения после продолжительного отдыха.</p><h6>Бардское выступление: Празднуйте жизнь</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.Tc4ZlX44M6BSokpi inline]</p><h6>Бардское выступление: Сокращение слов</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.SSU6zfzPzE05HiFv inline]</p><h6>Бардское выступление: Ясность мысли</h6><p>@Embed[Compendium.black-flag-ru.classes.Item.dy8rqpccweD1BuFX inline]</p>",
       "source": {}
     },
     "restriction": {

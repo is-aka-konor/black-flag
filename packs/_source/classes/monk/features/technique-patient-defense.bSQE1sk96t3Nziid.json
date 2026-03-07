@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Техника: Защита пациента",
+  "name": "Техника: Терпеливая защита",
   "type": "feature",
   "_id": "bSQE1sk96t3Nziid",
   "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "",
+        "name": "Использовать «Терпеливую защиту»",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can spend 1 technique point to take the Dodge action as a bonus action on your turn.</p>",
+      "value": "<p>Вы можете потратить 1 очко техники, чтобы бонусным действием в свой ход совершить действие «Уклонение».</p>",
       "source": {}
     },
     "restriction": {

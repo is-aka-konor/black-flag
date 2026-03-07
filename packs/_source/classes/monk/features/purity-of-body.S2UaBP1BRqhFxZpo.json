@@ -9,7 +9,7 @@
       "70jupEPr8MvC79nz": {
         "type": "healing",
         "_id": "70jupEPr8MvC79nz",
-        "description": "<p>Когда ваше здоровье опускается до 0, но вы не убиты сразу, вы можете мгновенно сбросить общее количество очков жизни до текущего количества очков техники. Вы не сможете снова восстановить хиты таким способом, пока не закончите длительный отдых.</p>",
+        "description": "<p>Когда ваши хиты снижаются до 0, но вы не погибаете окончательно, вы можете мгновенно восстановить количество хитов, равное текущему числу ваших очков техники. Вы не можете снова восстановить хиты таким способом, пока не завершите продолжительный отдых.</p>",
         "system": {
           "healing": {
             "type": "healing",
@@ -22,7 +22,7 @@
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you are reduced to 0 HP but not killed outright"
+          "condition": "Когда ваши хиты снижаются до 0, но вы не погибаете окончательно"
         },
         "consumption": {
           "targets": [
@@ -62,7 +62,7 @@
           "min": "",
           "max": "0"
         },
-        "name": "",
+        "name": "Восстановить хиты",
         "img": ""
       }
     },
@@ -101,13 +101,13 @@
           "classIdentifier": ""
         },
         "flags": {},
-        "title": "Purity of Body",
+        "title": "Чистота тела",
         "icon": null,
         "hint": ""
       }
     },
     "description": {
-      "value": "<p>Your mastery of the energy flowing through your body makes you immune to disease, poison damage, and the poisoned condition. In addition, when you are reduced to 0 HP but not killed outright, you can instantly reset your hit point total to your current number of technique points. You can’t recover hit points in this way again until you finish a long rest.</p>",
+      "value": "<p>Ваше мастерство в управлении энергией, текущей через тело, делает вас невосприимчивым к болезням, урону ядом и состоянию «отравлен». Кроме того, когда ваши хиты снижаются до 0, но вы не погибаете окончательно, вы можете мгновенно восстановить количество хитов, равное текущему числу ваших очков техники. Вы не можете снова восстановить хиты таким способом, пока не завершите продолжительный отдых.</p>",
       "source": {}
     },
     "restriction": {

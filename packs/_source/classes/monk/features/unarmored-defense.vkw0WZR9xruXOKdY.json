@@ -1,6 +1,6 @@
 {
   "folder": "OaCjDUZkIAsMjT7k",
-  "name": "Небронированная защита",
+  "name": "Защита без доспехов",
   "type": "feature",
   "_id": "vkw0WZR9xruXOKdY",
   "img": "icons/equipment/chest/shirt-collared-green.webp",
@@ -30,14 +30,14 @@
           "classIdentifier": "monk"
         },
         "flags": {},
-        "title": "Unarmored Defense",
+        "title": "Защита без доспехов",
         "icon": null,
         "hint": "",
         "_id": "hlE0xxRrj0oMSCgz"
       }
     },
     "description": {
-      "value": "<p>While you are wearing no armor and not wielding a shield, your AC equals 10 + your DEX modifier + your WIS modifier.</p>",
+      "value": "<p>Пока вы не носите доспех и не используете щит, ваш КД равен 10 + ваш модификатор ЛОВ + ваш модификатор МДР.</p>",
       "source": {}
     },
     "restriction": {

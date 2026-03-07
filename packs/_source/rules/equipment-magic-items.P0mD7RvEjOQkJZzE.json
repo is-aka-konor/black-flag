@@ -51,7 +51,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Armor</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BCnHjS3Df0fZYo92 inline]</p><h3>Weapons</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.P1mt6DBRhooyOhL4 inline]</p><h3>Adventuring Gear</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.xX5APF15x3BD90x7 inline]</p><h3>Tools</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzHtWppmISHkxblT inline]</p>",
+        "content": "<h3>Доспехи</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BCnHjS3Df0fZYo92 inline]</p><h3>Оружие</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.P1mt6DBRhooyOhL4 inline]</p><h3>Приключенческое снаряжение</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.xX5APF15x3BD90x7 inline]</p><h3>Инструменты</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.nzHtWppmISHkxblT inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -89,7 +89,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h4>Attunement</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.8SCJhZwG6fxaUIUd inline]</p><h3>Equipping Magic Items</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.9rszJnZhhAw398BD inline]</p><h3>Активация элемент</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mocDwKtTgnA0OqMF inline]</p><h3>Magic Item Описания</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.VLhIi5BCzREFELtb inline]</p>",
+        "content": "<h4>Настройка</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.8SCJhZwG6fxaUIUd inline]</p><h3>Экипировка магических предметов</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.9rszJnZhhAw398BD inline]</p><h3>Активация предмета</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mocDwKtTgnA0OqMF inline]</p><h3>Описания магических предметов</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.VLhIi5BCzREFELtb inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -127,7 +127,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.utTSWKE0robbaS1G inline]</p><h4>Mount Gear и Расходы</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.XsQttEdkAQUjbj3e inline]</p>",
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.PBo9j135EucIDliX.JournalEntryPage.utTSWKE0robbaS1G inline]</p><h4>Снаряжение скакунов и расходы</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.XsQttEdkAQUjbj3e inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -165,7 +165,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BiKvKH1EduDuNNmM inline]</p><h4>Заклинания Услуги</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.puOeqh8aVkJaUlMI inline]</p><h4>Еда, напитки и Loding</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.khcB9n4f92mWK349 inline]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.BiKvKH1EduDuNNmM inline]</p><h4>Заклинательные услуги</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.puOeqh8aVkJaUlMI inline]</p><h4>Еда, напитки и проживание</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.khcB9n4f92mWK349 inline]</p>"
       },
       "video": {
         "controls": true,
@@ -202,7 +202,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.0sMRTstUKVRwSh7t inline]{Уровень транспортных средств}</p><h4>Элементы a Vehicle</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.e9UhsLVgZjtXWBZW inline]</p><h4>Движение транспорта средства</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.M1XvQhry1Fp2WItL inline]</p><h4>Ремонт автомобиля</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mpxIeR6ANqoySDC6 inline]</p><h4>Vehicle Описания</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dvzin85VwegvvChY inline]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.0sMRTstUKVRwSh7t inline]{Уровень транспортных средств}</p><h4>Элементы транспортного средства</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.e9UhsLVgZjtXWBZW inline]</p><h4>Передвижение транспортных средств</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.M1XvQhry1Fp2WItL inline]</p><h4>Ремонт транспортного средства</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.mpxIeR6ANqoySDC6 inline]</p><h4>Описания транспортных средств</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dvzin85VwegvvChY inline]</p>"
       },
       "video": {
         "controls": true,

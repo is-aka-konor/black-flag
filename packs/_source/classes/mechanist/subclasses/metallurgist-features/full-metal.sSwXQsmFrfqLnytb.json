@@ -1,6 +1,6 @@
 {
   "folder": "kbsqEF5chqRSFMf7",
-  "name": "Цельнометаллический",
+  "name": "Цельный металл",
   "type": "feature",
   "_id": "sSwXQsmFrfqLnytb",
   "img": "icons/commodities/tech/metal-jaws.webp",
@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Трансформировать",
+        "name": "Принять цельнометаллическую форму",
         "img": ""
       }
     },
@@ -72,7 +72,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>While wearing the armor from your Mystic Metal feature, you can use a bonus action to transform it into a nigh‑impervious state for 1 minute. If you are reduced to 0 HP, you can choose for the Full Metal feature to automatically activate (no action required).</p><p>While this state is active, you are immune to bludgeoning, piercing, and slashing damage, and you have resistance to all other damage types.</p><p>Once this state is used, you can’t activate it again until you complete a long rest.</p>",
+      "value": "<p>Пока вы носите доспех, созданный особенностью «Мистический металл», вы можете бонусным действием перевести его в почти неуязвимое состояние на 1 минуту. Если ваши хиты снижаются до 0, вы можете выбрать, чтобы особенность «Цельный металл» сработала автоматически; для этого не требуется действие.</p><p>Пока это состояние активно, вы получаете иммунитет к дробящему, колющему и рубящему урону, а также сопротивление всем остальным типам урона.</p><p>Использовав это состояние, вы не можете активировать его вновь, пока не завершите продолжительный отдых.</p>",
       "source": {}
     },
     "restriction": {

@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Дополнить",
+  "name": "Усиление",
   "type": "feature",
   "_id": "Jsbk5t2H2s7TCed1",
   "img": "icons/commodities/tech/tube-chamber-lightning.webp",
@@ -80,13 +80,13 @@
           "classIdentifier": "mechanist"
         },
         "flags": {},
-        "title": "Augment Effects",
+        "title": "Эффекты усиления",
         "icon": null,
-        "hint": "You gain augment effects of your choice."
+        "hint": "Вы получаете эффекты усиления по своему выбору."
       }
     },
     "description": {
-      "value": "<p>You gain the ability to channel magical energy into items. To use this ability, you must spend 1 hour focusing on the item that you wish to augment while remaining in physical contact with it (which can be done as part of a short or long rest).</p><p>You gain two augment effects of your choice. Augment effect options are detailed at the end of the class description. At certain mechanist levels, you gain additional augment effects of your choice, as shown in the Augment Effects Known column of the <strong>Mechanist Progression</strong> table.</p><p>When you use this ability, choose an effect from those you know. Regardless of the effect, an augmented item is considered a magic item while the effect remains active. You can apply these effects to existing magic items, and any bonuses or features granted by an augment effect stack with any properties a magic item already possesses.</p><p>Unless specified otherwise, a chosen effect lasts indefinitely, but as an action, you can touch an item to end an ongoing effect that you created. You can have effects active on multiple items, provided you spend the required time focusing on each item individually. However, an item can only bear one effect at a time. Multiple uses of the same effect don’t stack.</p><p>The maximum number of items you can affect with this feature at one time is listed in the Augmented Items column of the <strong>Mechanist Progression</strong> table. If you try to exceed your maximum, you must choose an ongoing effect to end.</p><p>You can also augment your transformed shard of creation, provided its form meets the requirements for the chosen effect. The effect remains with the shard when it transforms as long as the new form remains compatible—if not, the effect immediately ends.</p>",
+      "value": "<p>Вы получаете способность направлять магическую энергию в предметы. Чтобы воспользоваться этой особенностью, вы должны провести 1 час в сосредоточении на предмете, который хотите усилить, сохраняя с ним физический контакт. Это можно сделать во время короткого или продолжительного отдыха.</p><p>Вы получаете два эффекта усиления по своему выбору. Варианты эффектов усиления перечислены в конце описания класса. На определённых уровнях механиста вы изучаете дополнительные эффекты усиления по своему выбору, как указано в колонке «Известные эффекты усиления» таблицы <strong>Прогресс механиста</strong>.</p><p>Когда вы используете эту особенность, выберите один из известных вам эффектов. Независимо от выбранного эффекта, усиленный предмет считается магическим, пока эффект действует. Вы можете накладывать эти эффекты и на уже существующие магические предметы; любые бонусы и свойства, полученные от эффекта усиления, складываются со свойствами, которыми предмет уже обладает.</p><p>Если не сказано иное, выбранный эффект длится неопределённо долго, но действием вы можете коснуться предмета и завершить созданный вами эффект. Вы можете поддерживать эффекты сразу на нескольких предметах, если потратили требуемое время на каждый из них по отдельности. Однако один предмет может нести только один эффект одновременно. Несколько применений одного и того же эффекта не складываются.</p><p>Максимальное число предметов, на которые вы можете одновременно воздействовать этой особенностью, указано в колонке «Усиленные предметы» таблицы <strong>Прогресс механиста</strong>. Если вы пытаетесь превысить этот предел, вы должны выбрать один из действующих эффектов и завершить его.</p><p>Вы также можете усилить свой преобразованный осколок созидания, если его текущая форма соответствует требованиям выбранного эффекта. Эффект остаётся на осколке и после его преображения, пока новая форма остаётся совместимой с этим эффектом; в противном случае эффект немедленно заканчивается.</p>",
       "source": {}
     },
     "restriction": {

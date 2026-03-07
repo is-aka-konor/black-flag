@@ -48,7 +48,7 @@
         "target": {
           "affects": {
             "type": "special",
-            "special": "Creature being grappled"
+            "special": "Существо, которое схвачено"
           },
           "template": {
             "type": ""

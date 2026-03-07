@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "",
+        "name": "Использовать «Шаг ветра»",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can spend 1 technique point to take the Disengage or Dash action as a bonus action on your turn. When you do so, your jump distance is doubled until the start of your next turn.</p>",
+      "value": "<p>Вы можете потратить 1 очко техники, чтобы бонусным действием в свой ход совершить действие «Рывок» или «Отход». Когда вы это делаете, дальность ваших прыжков удваивается до начала вашего следующего хода.</p>",
       "source": {}
     },
     "restriction": {

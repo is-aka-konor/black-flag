@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Узнать",
+        "name": "Обрести мастерство",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>As an action, you can expend 2 technique points to become proficient in one language, skill, tool, or weapon of your choice until you are incapacitated or use this feature again.</p>",
+      "value": "<p>Действием вы можете потратить 2 очка техники, чтобы получить владение одним языком, навыком, инструментом или оружием по своему выбору. Это владение сохраняется, пока вы не станете недееспособны или пока не воспользуетесь этой особенностью снова.</p>",
       "source": {}
     },
     "restriction": {

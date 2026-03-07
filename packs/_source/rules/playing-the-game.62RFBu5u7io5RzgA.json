@@ -14,7 +14,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.bKhKKthWDNmZ8bF5 inline]</p><h3>Определение успеха или Ошибка</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.NomCa5i1SHExroQZ inline]</p><h3>Luck</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KdRRH2CH4A47lOd2 inline]</p><h3>Tри типа Проверки</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.J8YiYG4xtafEEmpf inline]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.bKhKKthWDNmZ8bF5 inline]</p><h3>Определение успеха или неудачи</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.NomCa5i1SHExroQZ inline]</p><h3>Удача</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KdRRH2CH4A47lOd2 inline]</p><h3>Три типа проверок</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.J8YiYG4xtafEEmpf inline]</p>"
       },
       "video": {
         "controls": true,
@@ -41,7 +41,7 @@
     },
     {
       "sort": 300000,
-      "name": "приключения",
+      "name": "Приключения",
       "type": "text",
       "_id": "g15cM9m5XCQexgQl",
       "title": {
@@ -51,7 +51,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>В этом разделе рассматриваются различные правила, связанные с исследованиями в мире, а также некоторые важные особенности взаимодействия ПК с окружающей средой.</p><h3>Отслеживание Time</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KZjmFxyg2mtgzJou inline]</p><h3>Movement</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.7WfzOqeupN69oVXI inline]</p><h3>Взаимодействие с Items</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MG8JSQQg48n2GurI inline]</p><h3>Senses</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CjTBZZ0gk7s3vteD встроенный]</p>"
+        "content": "<p>В этом разделе собраны правила исследования мира и взаимодействия персонажей с окружением.</p><h3>Отслеживание времени</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.KZjmFxyg2mtgzJou inline]</p><h3>Передвижение</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.7WfzOqeupN69oVXI inline]</p><h3>Взаимодействие с предметами</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.MG8JSQQg48n2GurI inline]</p><h3>Чувства</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.CjTBZZ0gk7s3vteD inline]</p>"
       },
       "video": {
         "controls": true,
@@ -88,7 +88,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gD4InItsntEPmIYo inline]</p><h3>Combat Встречи</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dnwEuBBywuBfpQOY inline]</p>",
+        "content": "<p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gD4InItsntEPmIYo inline]</p><h3>Боевые столкновения</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.dnwEuBBywuBfpQOY inline]</p>",
         "markdown": ""
       },
       "video": {
@@ -126,7 +126,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Плоскости — это измерения, управляемые законами физики, магии и другими принципами. Самолеты сильно различаются по размеру и пространству, которое они занимают. Некоторые содержания составляют отдельные миры.Некоторые материки из одного континента или являются домом для одного объекта.Они могут существовать рядом друг с другом или занимать одно и то же пространство, пересекая или наслаивая друг на друга.</p><p>Многие заклинания и магические предметы черпают энергию из другого плана, призывают существа, населяющие там, открывают общение с моими обитателями и позволяют искателям путешествовать туда.Таким образом, большинство настроек игры включает в себя некоторую модель того, как упорядочиваются самолеты и как существа перемещаются с планом на самолет.Предполагается, что в некоторую возможность включения типов плоскостей.</p><h3>Материал Plane</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.HYUQTNo72vQnWGwb inline]</p><h3>Транзитивные плоскость</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.NbD0MlGp6x34g8Qb inline]</p><h3>Другие плоскость</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.Bmf6ytZNSVrmwhaU inline]</p><h4>Путешествие между самолетами</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.folNh6Us3u67hAYj inline]</p>"
+        "content": "<p>Планы существования — это измерения, где действуют собственные законы физики и магии. Некоторые из них представляют собой целые миры, другие — отдельные области, наложенные на привычную реальность.</p><p>Многие заклинания и магические предметы взаимодействуют с иными планами: открывают пути, призывают существ или позволяют путешествовать между мирами.</p><h3>Материальный план</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.HYUQTNo72vQnWGwb inline]</p><h3>Переходные планы</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.NbD0MlGp6x34g8Qb inline]</p><h3>Прочие планы</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.Bmf6ytZNSVrmwhaU inline]</p><h4>Путешествие между планами</h4><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.folNh6Us3u67hAYj inline]</p>"
       },
       "video": {
         "controls": true,
@@ -163,7 +163,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Травмы и риск смерти — постоянные спутники фэнтезийного искателя приключений.</p><h3>Hit Points</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.vP59EnCnkJ5uRkij inline]</p><h3>Damage</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gG0KqnJrI5OZrNxm inline]</p><h3>Исцеление</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.csd8bNBIAGGngfZr inline]</p><h3>Понижение хитов до 0</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.QJz5n5EXCAJBTGnJ inline]</p><h3> Другие формы вреда</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GOBEdJ8H3zVVra4h inline]</p>"
+        "content": "<p>Травмы и риск смерти — постоянные спутники искателей приключений.</p><h3>Хиты</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.vP59EnCnkJ5uRkij inline]</p><h3>Урон</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.gG0KqnJrI5OZrNxm inline]</p><h3>Исцеление</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.csd8bNBIAGGngfZr inline]</p><h3>Снижение хитов до 0</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.QJz5n5EXCAJBTGnJ inline]</p><h3>Другие формы вреда</h3><p>@Embed[Compendium.black-flag-ru.rules.JournalEntry.zHvTHITijHvb07FK.JournalEntryPage.GOBEdJ8H3zVVra4h inline]</p>"
       },
       "video": {
         "controls": true,

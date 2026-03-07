@@ -2529,7 +2529,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.tables.RollTable.4XEMwZ9xVgOvNuZN свертываемая подпись=false]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.tables.RollTable.4XEMwZ9xVgOvNuZN]</p>"
       },
       "video": {
         "controls": true,
@@ -2862,7 +2862,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Embed[Compendium.black-flag-ru.tables.RollTable.GOgAKgIuvExfvTRG caption=ложное свертывание]</p>"
+        "content": "<p>@Embed[Compendium.black-flag-ru.tables.RollTable.GOgAKgIuvExfvTRG caption=false]</p>"
       },
       "video": {
         "controls": true,

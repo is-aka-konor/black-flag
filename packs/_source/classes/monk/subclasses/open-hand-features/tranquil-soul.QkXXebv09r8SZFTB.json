@@ -54,7 +54,7 @@
           "min": "",
           "max": ""
         },
-        "name": "",
+        "name": "Наложить «Убежище»",
         "img": ""
       }
     },
@@ -67,7 +67,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You have learned the way of war, so you may better walk the world in peace. As an action, you can spend 3 technique points to cast the <em>sanctuary</em> spell on yourself. The spell lasts until the end of your next short or long rest (or it can end early as normal).</p>",
+      "value": "<p>Вы постигли путь войны, чтобы увереннее идти по миру дорогой мира. Действием вы можете потратить 3 очка техники, чтобы наложить на себя заклинание <em>убежище</em>. Это заклинание длится до конца вашего следующего короткого или продолжительного отдыха, если не завершится раньше обычным образом.</p>",
       "source": {}
     },
     "restriction": {

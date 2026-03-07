@@ -1,6 +1,6 @@
 {
   "folder": "CrO0VCbKVNtbzu0C",
-  "name": "Шрифт вдохновения",
+  "name": "Источник вдохновения",
   "type": "feature",
   "_id": "aPJMqEqOk3KPcs6q",
   "img": "icons/magic/light/explosion-star-glow-blue.webp",
@@ -9,7 +9,7 @@
       "5t1z5r2DJnUUpqpP": {
         "type": "utility",
         "_id": "5t1z5r2DJnUUpqpP",
-        "description": "<p>Когда Существо находится на расстоянии 60 футов от вас, которые вы можете слышать или видеть, впоследствии способности броска удара или спасбросок, вы можете использовать свои ответы, чтобы уменьшить использование функции Бардского вдохновения.",
+        "description": "<p>Когда существо в пределах 60 фт от вас, которое вы видите или слышите, проваливает проверку характеристики, бросок атаки или спасбросок, вы можете реакцией потратить одно применение «Бардского вдохновения». Бросьте кость «Бардского вдохновения» и прибавьте выпавшее значение к общему результату броска этого существа, что может превратить провал в успех.</p>",
         "system": {
           "roll": {
             "name": "",
@@ -19,7 +19,7 @@
         "activation": {
           "value": null,
           "type": "reaction",
-          "condition": "When a creature within 60 feet of you that you can hear or see you fails an ability check, attack roll, or save"
+          "condition": "Когда существо в пределах 60 фт от вас, которое вы видите или слышите, проваливает проверку характеристики, бросок атаки или спасбросок"
         },
         "consumption": {
           "targets": [
@@ -64,7 +64,7 @@
           "min": "",
           "max": ""
         },
-        "name": "",
+        "name": "Поддержать вдохновением",
         "img": ""
       }
     },
@@ -77,7 +77,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You now regain all expended uses of your Bardic Inspiration feature when you finish a short or long rest.</p><p>In addition, you can now use your Bardic Inspiration dice in a new way. When a creature within 60 feet of you that you can hear or see you fails an ability check, attack roll, or save, you can use your reaction to expend a use of your Bardic Inspiration feature. When you do, roll the Bardic Inspiration die and add the number rolled to the target’s check total—potentially turning a failure into a success.</p>",
+      "value": "<p>Теперь вы восстанавливаете все израсходованные применения особенности «Бардское вдохновение», когда завершаете короткий или продолжительный отдых.</p><p>Кроме того, теперь вы можете использовать кость «Бардского вдохновения» новым способом. Когда существо в пределах 60 фт от вас, которое вы видите или слышите, проваливает проверку характеристики, бросок атаки или спасбросок, вы можете реакцией потратить одно применение «Бардского вдохновения». Когда вы это делаете, бросьте кость «Бардского вдохновения» и прибавьте выпавшее значение к итоговому результату броска цели, что может превратить провал в успех.</p>",
       "source": {}
     },
     "restriction": {

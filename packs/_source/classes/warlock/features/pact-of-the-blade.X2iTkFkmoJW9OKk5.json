@@ -49,7 +49,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Создать Пактное оружие",
+        "name": "Сотворить пактное оружие",
         "img": ""
       }
     },
@@ -62,7 +62,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You have proficiency with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you attack with the weapon, you can use your CHA modifier, instead of STR or DEX, for attack and damage rolls.</p><p>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p><p>You can transform an existing melee weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short or long rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears when you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</p>",
+      "value": "<p>Действием вы можете сотворить пактное оружие в свободной руке. Каждый раз, создавая его, вы выбираете форму этого оружия ближнего боя. Пока вы держите его, вы считаетесь владеющим им. Это оружие считается магическим для преодоления сопротивления и иммунитета к немагическим атакам и урону. Когда вы атакуете этим оружием, для бросков атаки и урона вы можете использовать модификатор ХАР вместо СИЛ или ЛОВ.</p><p>Ваше пактное оружие исчезает, если находится дальше чем в 5 фт от вас в течение 1 минуты или дольше. Оно также исчезает, если вы снова используете эту особенность, если вы рассеиваете оружие без траты действия или если вы умираете.</p><p>Вы можете превратить уже существующее оружие ближнего боя в своё пактное оружие, проведя особый ритуал, пока держите это оружие. Ритуал занимает 1 час и может быть выполнен во время короткого или продолжительного отдыха. После этого вы можете отозвать оружие, отправив его в межпространство; впоследствии оно будет появляться, когда вы создаёте своё пактное оружие. Таким способом нельзя затронуть артефакт или разумное оружие. Оружие перестаёт быть вашим пактным оружием, если вы умираете, если проводите 1-часовой ритуал над другим оружием или если выполняете 1-часовой ритуал, разрывающий связь с ним. Если в момент разрыва связи оружие находится в межпространстве, оно появляется у ваших ног.</p>",
       "source": {}
     },
     "restriction": {

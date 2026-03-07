@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Быстрое увеличение",
+  "name": "Быстрое усиление",
   "type": "feature",
   "_id": "KM5SpphPyQLoCUbS",
   "img": "icons/commodities/tech/transmission.webp",
@@ -55,7 +55,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Быстрое увеличение",
+        "name": "Быстрое усиление",
         "img": ""
       }
     },
@@ -73,7 +73,7 @@
     },
     "advancement": {},
     "description": {
-      "value": "<p>You can now use your Augment feature more rapidly. As a bonus action, you can touch an item and imbue it with a known augment effect of your choice. You remain bound by all other restrictions of the Augment feature, including number of items.</p><p>You can use your Rapid Augment feature a number of times equal to your INT modifier and regain all expended uses when you finish a long rest.</p>",
+      "value": "<p>Теперь вы можете использовать особенность «Усиление» быстрее. Бонусным действием вы можете коснуться предмета и наделить его одним известным вам эффектом усиления по своему выбору. Все остальные ограничения особенности «Усиление», включая предел по числу предметов, продолжают действовать.</p><p>Вы можете использовать особенность «Быстрое усиление» число раз, равное вашему модификатору ИНТ, и восстанавливаете все потраченные применения после продолжительного отдыха.</p>",
       "source": {}
     },
     "restriction": {

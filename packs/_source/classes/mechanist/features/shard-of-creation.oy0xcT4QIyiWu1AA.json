@@ -1,6 +1,6 @@
 {
   "folder": "r3SmlaRLePkO1iIe",
-  "name": "Осколок творения",
+  "name": "Осколок созидания",
   "type": "feature",
   "_id": "oy0xcT4QIyiWu1AA",
   "img": "icons/commodities/gems/gem-rough-trapeze-yellow-green.webp",
@@ -9,12 +9,12 @@
       "HEPU5fOt0rtEyIwx": {
         "type": "utility",
         "_id": "HEPU5fOt0rtEyIwx",
-        "description": "<p>Когда вы применяете возможность проверки, касаясь осколка (независимо от его текущей формы), вы можете включить 1 заряд, чтобы выбросить [[/r @scale.mechanist.inspire]] и добавить выпавшее число к результату проверки.</p>",
+        "description": "<p>Когда вы совершаете проверку характеристики, касаясь осколка, независимо от его текущей формы, вы можете потратить 1 заряд, чтобы бросить [[/r @scale.mechanist.inspire]] и прибавить выпавшее значение к результату проверки.</p>",
         "system": {},
         "activation": {
           "value": null,
           "type": "free",
-          "condition": "When you make an ability check while touching the shard"
+          "condition": "Когда вы совершаете проверку характеристики, касаясь осколка"
         },
         "consumption": {
           "targets": [
@@ -55,13 +55,13 @@
           "min": "",
           "max": ""
         },
-        "name": "Вдохновлять",
+        "name": "Вдохновить",
         "img": ""
       },
       "X7iYUUnO0qLHL8Ae": {
         "type": "utility",
         "_id": "X7iYUUnO0qLHL8Ae",
-        "description": "<p>Прикасаясь к осколку, вы можете применить и применить 1 заряд, чтобы превратить его в любой тип немагического оружия, щита или предмет среднего размера или меньше. Объект появляется в незанятом пространстве на расстоянии 10 футов от вас, но выбранное пространство должно удерживать поверхность или жидкость, способную выдержать объект. Если созданный вами объект имеет подходящий размер для ношения или удержания, вы можете выбрать, чтобы объект появился в вашей руке или на вашем теле.Общая стоимость (в золотых монетах) созданного объекта не может превысить 20-кратный уровень механики вашего уровня. Независимо от того, какую форму принимает осколок, я, кто на нем работает, может чувствовать что-то странное в своей природе. Осколок не может быть выдан за обычный предмет для целей купли-продажи.</p>",
+        "description": "<p>Действием вы можете потратить 1 заряд и превратить осколок в любое немагическое оружие, щит или иной предмет Среднего размера или меньше. Предмет появляется в незанятом пространстве в пределах 10 фт от вас, но выбранное пространство должно содержать поверхность или жидкость, способную его удержать. Если созданный предмет достаточно мал, чтобы его можно было носить или держать, вы можете сделать так, чтобы он сразу появился у вас в руке или на теле. Общая стоимость созданного предмета в золотых монетах не может превышать 20 × ваш уровень механиста. Какую бы форму ни принимал осколок, любой, кто им пользуется, чувствует в нём нечто неестественное. Осколок нельзя выдать за обычный предмет при покупке или продаже.</p>",
         "system": {
           "roll": {
             "name": "",
@@ -106,7 +106,7 @@
           "min": "",
           "max": ""
         },
-        "name": "Трансформировать",
+        "name": "Преобразить",
         "img": ""
       }
     },
@@ -145,14 +145,14 @@
           "classIdentifier": "mechanist"
         },
         "flags": {},
-        "title": "Inspire Die",
+        "title": "Кость вдохновения",
         "icon": null,
         "hint": "",
         "identifier": "inspire"
       }
     },
     "description": {
-      "value": "<p>You learn how to craft a shard of creation, which is a Tiny magical object with many uses that appears on your person. In its base state, the shard appears as a constantly shifting, fluid-like bundle of plasma.</p><p>The shard vanishes instantly if you are slain or if it is not in your possession for more than 24 consecutive hours. If the shard is destroyed or you lose it, you can perform a 1-hour ritual to create a replacement. This ritual can be performed as part of a short or long rest.</p><p>The shard has a number of charges equal to your INT modifier (minimum of 1), and you regain all expended charges when you finish a long rest. Charges can be spent to activate the following properties.</p><h6>Inspire</h6><p>@Embed[.Activities.HEPU5fOt0rtEyIwx inline]</p><h6>Transform</h6><p>@Embed[.Activities.X7iYUUnO0qLHL8Ae inline]</p>",
+      "value": "<p>Вы учитесь создавать осколок созидания — Крошечный магический предмет с множеством применений, который всегда находится при вас. В своей базовой форме осколок выглядит как постоянно меняющийся, текучий сгусток плазмы.</p><p>Осколок мгновенно исчезает, если вы погибаете или если он находится вне вашего владения более 24 часов подряд. Если осколок уничтожен или утерян, вы можете провести 1-часовой ритуал и создать ему замену. Этот ритуал можно выполнить во время короткого или продолжительного отдыха.</p><p>Осколок имеет число зарядов, равное вашему модификатору ИНТ (минимум 1). Все потраченные заряды восстанавливаются после продолжительного отдыха. Заряды можно расходовать для активации следующих свойств.</p><h6>Вдохновение</h6><p>@Embed[.Activities.HEPU5fOt0rtEyIwx inline]</p><h6>Преображение</h6><p>@Embed[.Activities.X7iYUUnO0qLHL8Ae inline]</p>",
       "source": {}
     },
     "restriction": {
